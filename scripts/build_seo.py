@@ -113,14 +113,14 @@ def ranking_rows(posts: list[dict]) -> str:
             f"""<article class="rank-item">
   <div class="rank-num {'top' if i <= 3 else ''}">{i}</div>
   <div>
-    <a class="post-title" href="{detail}">{title}</a>
+    <a class="post-title" href="{original}" target="_blank" rel="noopener noreferrer">{title}</a>
     <div class="meta">
       <span class="source">{source}</span>
       <span class="category">{category}</span>
       <span>조회 {fmt_number(p.get('views'))}</span>
       <span>추천 {fmt_number(p.get('likes'))}</span>
       <span>댓글 {fmt_number(p.get('comments'))}</span>
-      <a class="outbound-link" href="{original}" target="_blank" rel="noopener noreferrer">원문 ↗</a>
+      <a class="analysis-link" href="{detail}">분석 보기</a>
     </div>
   </div>
 </article>"""
@@ -265,7 +265,6 @@ def write_feed(latest: dict) -> None:
 
     for p in posts:
         original = str(p.get("url") or "")
-        detail = f"{BASE}/post/?url=" + quote(original, safe="")
         summary = (
             f"{p.get('source','')} · 조회 {fmt_number(p.get('views'))} · "
             f"추천 {fmt_number(p.get('likes'))} · 댓글 {fmt_number(p.get('comments'))}"
@@ -273,7 +272,7 @@ def write_feed(latest: dict) -> None:
         rows.extend([
             '<item>',
             f'<title>{esc(p.get("title"))}</title>',
-            f'<link>{esc(detail)}</link>',
+            f'<link>{esc(original)}</link>',
             f'<guid isPermaLink="false">{esc(original)}</guid>',
             f'<description>{esc(summary)}</description>',
             f'<pubDate>{esc(pub_date)}</pubDate>',
