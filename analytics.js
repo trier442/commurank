@@ -9,6 +9,7 @@
     nav.innerHTML = [
       '<a href="/about/">서비스 소개</a>',
       '<a href="/methodology/">랭킹 산정 방식</a>',
+      '<a href="/ranking/">랭킹 아카이브</a>',
       '<a href="/privacy/">개인정보</a>',
       '<a href="/policy/">운영정책</a>'
     ].join("");
