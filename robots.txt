@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /my/
+Disallow: /search/
+Disallow: /post/
+Disallow: /issue/
+
+Sitemap: https://commurank.kr/sitemap.xml
