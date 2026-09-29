@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="커뮤랭크는 원문을 대체하기보다 여러 커뮤니티의 공개 인기 흐름을 정리하고 원문으로 연결하는 것을 기본 운영 원칙으로 합니다." />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="운영정책 | 커뮤랭크" />
+  <meta property="og:description" content="커뮤랭크는 원문을 대체하기보다 여러 커뮤니티의 공개 인기 흐름을 정리하고 원문으로 연결하는 것을 기본 운영 원칙으로 합니다." />
+  <meta property="og:url" content="https://commurank.kr/policy/" />
+  <meta property="og:locale" content="ko_KR" />
+  <link rel="canonical" href="https://commurank.kr/policy/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <title>운영정책 | 커뮤랭크</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="/" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="/search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+  <main>
+    <section class="shell info-hero">
+      <p class="eyebrow">CONTENT & OPERATIONS POLICY</p>
+      <h1>운영정책</h1>
+      <p>커뮤랭크는 원문을 대체하기보다 여러 커뮤니티의 공개 인기 흐름을 정리하고 원문으로 연결하는 것을 기본 운영 원칙으로 합니다.</p>
+    </section>
+    <section class="shell info-layout">
+      <div class="info-main"><section class="info-card"><h2>저작권과 원문</h2><p>게시물의 저작권은 원 작성자와 해당 서비스의 정책에 따릅니다. 커뮤랭크는 게시글 본문 전체를 자체 콘텐츠처럼 재게시하지 않고 제목·출처·공개 반응 지표·원문 링크 중심으로 제공합니다.</p></section>
+   <section class="info-card"><h2>삭제·노출 제외</h2><p>원문이 삭제되거나 접근할 수 없게 된 게시물은 이후 수집 과정과 데이터 정리 과정에서 랭킹 노출이 제한될 수 있습니다. 권리 침해 우려가 확인되는 항목은 운영상 노출 제외 대상으로 처리할 수 있습니다.</p><div class="info-note">현재 별도 온라인 접수 폼은 준비 중입니다. 원문 자체의 삭제나 권리구제가 필요한 경우에는 먼저 해당 원문 서비스의 신고·권리보호 절차를 이용해야 합니다.</div></section>
+   <section class="info-card"><h2>자동 수집 안정성</h2><p>외부 사이트의 접근 제한이나 구조 변경으로 수집이 실패하면 최근 정상 수집 캐시를 제한적으로 사용할 수 있습니다. 캐시도 사용할 수 없는 경우 해당 소스를 ‘점검 중’으로 표시합니다.</p></section>
+   <section class="info-card"><h2>정정과 개선</h2><p>분류·이슈 묶기·랭킹 계산은 자동화된 규칙을 사용하므로 완벽하지 않을 수 있습니다. 운영 과정에서 명백한 분류 오류나 수집 오류가 확인되면 규칙과 데이터를 조정합니다.</p></section></div>
+      <aside class="info-side"><nav class="info-nav" aria-label="서비스 안내"><a href="/about/">서비스 소개</a><a href="/methodology/">랭킹 산정 방식</a><a href="/privacy/">개인정보</a><a href="/policy/" class="active">운영정책</a></nav></aside>
+    </section>
+  </main>
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>대한민국 커뮤니티 인기글 랭킹 아카이브</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+  <script src="/analytics.js"></script>
+  <script>
+    document.querySelector("#themeToggle").addEventListener("click",()=>{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")});
+    if(localStorage.getItem("commurank-theme")==="dark") document.body.classList.add("dark");
+  </script>
+</body>
+</html>
