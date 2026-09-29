@@ -32,22 +32,17 @@ jobs:
             --exclude '.github/' \
             /tmp/source/commurank/ ./
 
-          mkdir -p .github/workflows
-          cp /tmp/source/.github/workflows/update-commurank.yml .github/workflows/update-commurank.yml
-          cp /tmp/source/.github/workflows/commurank-watchdog.yml .github/workflows/commurank-watchdog.yml
-          cp /tmp/source/.github/workflows/configure-commurank-analytics.yml .github/workflows/configure-commurank-analytics.yml
-
       - name: Rewrite paths and production URLs
         run: |
           python - <<'PY'
           from pathlib import Path
 
-          text_exts = {".html", ".js", ".css", ".md", ".xml", ".yml", ".yaml", ".json", ".webmanifest", ".py"}
+          text_exts = {".html", ".js", ".css", ".md", ".xml", ".json", ".webmanifest", ".py"}
 
           for path in Path(".").rglob("*"):
               if not path.is_file():
                   continue
-              if ".git" in path.parts:
+              if ".git" in path.parts or ".github" in path.parts:
                   continue
               if path.suffix.lower() not in text_exts and path.name not in {"CNAME"}:
                   continue
@@ -65,38 +60,9 @@ jobs:
               if updated != text:
                   path.write_text(updated, encoding="utf-8")
 
-          # Adapt collector workflow from project subdirectory to repository root.
-          p = Path(".github/workflows/update-commurank.yml")
-          text = p.read_text(encoding="utf-8")
-          text = text.replace('"commurank/scripts/**"', '"scripts/**"')
-          text = text.replace("working-directory: commurank", "working-directory: .")
-          text = text.replace("commurank/data", "data")
-          p.write_text(text, encoding="utf-8")
-
-          # Adapt freshness watchdog.
-          p = Path(".github/workflows/commurank-watchdog.yml")
-          text = p.read_text(encoding="utf-8")
-          text = text.replace('Path("commurank/data/latest.json")', 'Path("data/latest.json")')
-          text = text.replace("working-directory: commurank", "working-directory: .")
-          text = text.replace("commurank/data", "data")
-          p.write_text(text, encoding="utf-8")
-
-          # Adapt GA4 configuration workflow.
-          p = Path(".github/workflows/configure-commurank-analytics.yml")
-          text = p.read_text(encoding="utf-8")
-          text = text.replace('Path("commurank/analytics-config.json")', 'Path("analytics-config.json")')
-          text = text.replace("commurank/analytics-config.json", "analytics-config.json")
-          p.write_text(text, encoding="utf-8")
-
-          # Production domain for branch-based GitHub Pages.
           Path("CNAME").write_text("commurank.kr\n", encoding="utf-8")
-
-          # Prevent Jekyll processing of the static app.
           Path(".nojekyll").write_text("", encoding="utf-8")
           PY
-
-      - name: Remove one-time migration workflow
-        run: rm -f .github/workflows/migrate-commurank.yml
 
       - name: Commit migrated site
         run: |
