@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="커뮤랭크 데이터 수집 상태와 최근 갱신 시각을 확인합니다." />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="수집 상태 | 커뮤랭크" />
+  <meta property="og:description" content="커뮤랭크 데이터 수집 상태와 최근 갱신 시각을 확인합니다." />
+  <meta property="og:url" content="https://commurank.kr/status/" />
+  <meta property="og:locale" content="ko_KR" />
+  <link rel="canonical" href="https://commurank.kr/status/" />
+  <link rel="alternate" type="application/rss+xml" title="커뮤랭크 실시간 인기글 RSS" href="/feed.xml" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <title>수집 상태 | 커뮤랭크</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="/" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="/search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell info-hero">
+      <p class="eyebrow">COMMURANK STATUS</p>
+      <h1>데이터 수집 상태</h1>
+      <p>각 커뮤니티의 최근 수집 결과와 데이터 신선도를 공개합니다. 외부 사이트의 접근 제한이나 구조 변경이 있을 때는 상태가 점검 또는 캐시로 표시될 수 있습니다.</p>
+    </section>
+
+    <section class="shell status-summary-grid">
+      <article class="status-stat"><span>최근 갱신</span><strong id="statusFreshness">확인 중</strong><small id="statusFreshnessSub">-</small></article>
+      <article class="status-stat"><span>사용 가능 소스</span><strong id="statusAvailable">0/0</strong><small id="statusAvailableSub">확인 중</small></article>
+      <article class="status-stat"><span>실시간 인기글</span><strong id="statusPosts">0</strong><small>TOP100 기준</small></article>
+      <article class="status-stat"><span>급상승 후보</span><strong id="statusRising">0</strong><small>최근 수집 비교</small></article>
+    </section>
+
+    <section class="shell info-layout status-layout">
+      <div class="info-main">
+        <section class="info-card">
+          <div class="section-head">
+            <div><span class="section-kicker">COLLECTORS</span><h2>커뮤니티별 수집 상태</h2></div>
+          </div>
+          <div id="publicSourceStatus" class="public-status-list">
+            <div class="empty">수집 상태를 불러오는 중입니다.</div>
+          </div>
+        </section>
+        <section class="info-card">
+          <h2>상태 표시 기준</h2>
+          <p><strong>정상</strong>은 이번 수집에서 게시글을 직접 가져온 상태입니다. <strong>캐시</strong>는 일시적인 수집 실패로 최근 정상 데이터가 대신 사용되는 상태입니다. <strong>점검</strong>은 직접 수집과 캐시 모두 사용할 수 없어 해당 소스가 현재 통합 랭킹에 반영되지 않는 상태입니다.</p>
+          <div class="info-note">커뮤랭크의 전체 서비스가 정상이어도 개별 커뮤니티 한 곳만 접근 제한으로 점검 상태가 될 수 있습니다.</div>
+        </section>
+      </div>
+      <aside class="info-side">
+        <nav class="info-nav">
+          <a href="/">현재 랭킹</a>
+          <a href="/ranking/">랭킹 아카이브</a>
+          <a href="/methodology/">랭킹 산정 방식</a>
+          <a href="/feed.xml">RSS 피드</a>
+        </nav>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>대한민국 커뮤니티 인기글 랭킹 아카이브</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+  <script src="/status.js"></script>
+  <script src="/analytics.js"></script>
+</body>
+</html>
