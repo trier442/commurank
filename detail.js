@@ -218,7 +218,7 @@ function renderCharts() {
 }
 
 function detailLink(url) {
-  return "./?url=" + encodeURIComponent(url);
+  return safeText(url || "#");
 }
 
 function render() {
@@ -276,7 +276,7 @@ function render() {
       <article class="rank-item related-rank-item">
         <div class="rank-num">${i+1}</div>
         <div>
-          <a class="post-title" href="${detailLink(p.url)}">${safeText(p.title)}</a>
+          <a class="post-title" href="${detailLink(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
           <div class="meta">
             <span class="source">${safeText(p.source)}</span>
             <span>${p.shared.length ? "공통어 #" + safeText(p.shared.slice(0,3).join(" #")) : "같은 이슈 클러스터"}</span>
