@@ -8,8 +8,8 @@
 })();
 
 const fallbackPosts = [
-  {title:"커뮤랭크 자동 수집을 준비하고 있습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
-  {title:"GitHub Actions가 실행되면 실제 인기글 데이터로 자동 교체됩니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
+  {title:"랭킹 데이터를 불러오지 못했습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
+  {title:"잠시 후 새로고침하면 최신 인기글을 다시 불러옵니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
 ];
 
 const periodInfo = {
@@ -30,6 +30,7 @@ let archiveData = null;
 
 const communitySlug = {
   "디시인사이드":"dcinside",
+  "에펨코리아":"fmkorea",
   "더쿠":"theqoo",
   "루리웹":"ruliweb",
   "클리앙":"clien",
@@ -375,12 +376,18 @@ async function loadLiveData(){
     if (!response.ok) throw new Error("ranking data unavailable");
     liveData = await response.json();
 
-    const okSources = (liveData.sources || []).filter(s => s.ok && s.count > 0).length;
-    const cachedSources = (liveData.sources || []).filter(s => s.cached && s.count > 0).length;
-    const totalSources = (liveData.sources || []).length;
-    document.querySelector("#sourceStatus").textContent = totalSources
-      ? `${okSources}/${totalSources} 직접${cachedSources ? " · " + cachedSources + " 캐시" : ""}`
+    const sourceRows = liveData.sources || [];
+    const availableSources = sourceRows.filter(s => s.count > 0).length;
+    const cachedSources = sourceRows.filter(s => s.cached && s.count > 0).length;
+    const failedSources = sourceRows.filter(s => !s.ok && !s.cached);
+    const totalSources = sourceRows.length;
+    const sourceStatus = document.querySelector("#sourceStatus");
+    sourceStatus.textContent = totalSources
+      ? `${availableSources}개 수집${cachedSources ? " · " + cachedSources + "개 캐시" : ""}${failedSources.length ? " · " + failedSources.length + "개 점검 중" : ""}`
       : "수집 준비";
+    sourceStatus.title = failedSources.length
+      ? failedSources.map(s => s.source + " 수집 점검 중").join(" · ")
+      : "현재 연결된 커뮤니티 수집 정상";
 
     const params = new URLSearchParams(location.search);
     const requestedPeriod = params.get("period");
