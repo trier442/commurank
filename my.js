@@ -28,7 +28,7 @@ function fmt(n){
   return new Intl.NumberFormat("ko-KR",{notation:Number(n)>9999?"compact":"standard"}).format(Number(n)||0);
 }
 function normalize(v){return String(v||"").toLowerCase().replace(/\s+/g," ").trim();}
-function postUrl(url){return "../post/?url="+encodeURIComponent(url||"");}
+function postUrl(url){return safeText(url||"#");}
 function issueUrl(id){return "../issue/?id="+encodeURIComponent(id||"");}
 
 function loadPrefs(){
@@ -190,7 +190,7 @@ function renderFeed(){
       <article class="rank-item">
         <div class="rank-num ${i<3?"top":""}">${i+1}</div>
         <div>
-          <a class="post-title" href="${postUrl(p.url)}">${safeText(p.title)}</a>
+          <a class="post-title" href="${postUrl(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
           <div class="meta">
             <span class="source">${safeText(p.source)}</span>
             <span>조회 ${fmt(p.views)}</span>
@@ -230,7 +230,7 @@ function renderRecent(){
   document.querySelector("#recentCount").textContent=rows.length;
   const box=document.querySelector("#recentPosts");
   box.innerHTML=rows.length?rows.map(row=>`
-    <a class="my-recent-row" href="${postUrl(row.url)}">
+    <a class="my-recent-row" href="${postUrl(row.url)}" target="_blank" rel="noopener noreferrer">
       <strong>${safeText(row.title||"최근 본 게시글")}</strong>
       <span>${safeText(row.source||"")} · ${row.at?new Date(row.at).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}):""}</span>
     </a>`).join(""):'<div class="empty">아직 최근 본 글이 없습니다.</div>';
