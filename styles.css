@@ -2464,3 +2464,26 @@ select:focus-visible {
   .footer-policy-links { margin-left: 0; }
   .error-card { padding: 28px 18px; }
 }
+
+
+/* SEO ranking archive pages */
+.ranking-archive-hero h1 span { color: var(--brand); }
+.archive-page-nav { display: flex; flex-wrap: wrap; gap: 8px 14px; margin-top: 18px; }
+.archive-page-nav a { color: var(--brand); font-size: 12px; font-weight: 900; }
+.ranking-seo-layout { padding-bottom: 38px; }
+.archive-index-list { display: grid; }
+.archive-index-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; border-top: 1px solid var(--line); padding: 14px 2px; }
+.archive-index-row:first-child { border-top: 0; }
+.archive-index-row strong { font-size: 14px; }
+.archive-index-row span { color: var(--brand); font-size: 11px; font-weight: 850; }
+.archive-index-row:hover strong { color: var(--brand); }
+.archive-period-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 10px; }
+.archive-period-grid a { display: grid; gap: 5px; border: 1px solid var(--line); border-radius: 16px; background: var(--surface-2); padding: 18px; }
+.archive-period-grid strong { font-size: 20px; color: var(--text); }
+.archive-period-grid span { color: var(--muted); font-size: 11px; }
+.archive-period-grid a:hover { border-color: color-mix(in srgb, var(--brand) 35%, var(--line)); }
+.archive-period-grid a:hover strong { color: var(--brand); }
+@media (max-width: 640px) {
+  .archive-period-grid { grid-template-columns: 1fr; }
+  .ranking-seo-layout .ranking-panel { padding: 14px; }
+}
