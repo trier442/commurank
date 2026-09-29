@@ -24,7 +24,7 @@ function safeText(value) {
 }
 
 function postDetailUrl(url) {
-  return "../../post/?url=" + encodeURIComponent(url || "");
+  return safeText(url || "#");
 }
 
 function sourceData(){
@@ -109,7 +109,7 @@ function render(){
         <article class="rank-item">
           <div class="rank-num ${i < 3 ? "top" : ""}">${i + 1}</div>
           <div>
-            <a class="post-title" href="${postDetailUrl(p.url)}">${safeText(p.title)}</a>
+            <a class="post-title" href="${postDetailUrl(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
             <div class="meta">
               <span class="category">${safeText(p.category || "이슈")}</span>
               ${metrics}
