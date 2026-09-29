@@ -2383,3 +2383,45 @@ select:focus-visible {
   .global-search:not(.global-search-wide) input { display: none; }
   .global-search:not(.global-search-wide) button { width: 40px; }
 }
+
+
+/* Ranking navigation and live source health */
+.source-link:hover { color: var(--brand); }
+.outbound-link {
+  color: var(--muted);
+  font-weight: 850;
+}
+.outbound-link:hover { color: var(--brand); text-decoration: underline; }
+.updated strong.stale {
+  color: var(--hot);
+}
+.source-shortcuts a.source-unavailable,
+.source-shortcuts a.source-cached {
+  position: relative;
+  padding-right: 34px;
+}
+.source-shortcuts a.source-unavailable::after,
+.source-shortcuts a.source-cached::after {
+  position: absolute;
+  top: 50%;
+  right: 7px;
+  transform: translateY(-50%);
+  padding: 2px 5px;
+  border-radius: 999px;
+  font-size: 8px;
+  font-weight: 950;
+  line-height: 1.3;
+}
+.source-shortcuts a.source-unavailable::after {
+  content: "점검";
+  color: var(--hot);
+  background: color-mix(in srgb, var(--hot) 10%, var(--surface));
+}
+.source-shortcuts a.source-cached::after {
+  content: "캐시";
+  color: var(--brand);
+  background: color-mix(in srgb, var(--brand) 10%, var(--surface));
+}
+.source-shortcuts a.source-unavailable {
+  color: var(--muted);
+}
