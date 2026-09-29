@@ -263,11 +263,14 @@ def write_sitemap(index: dict) -> None:
         rows.append(f"  <url><loc>{BASE}{path}</loc><lastmod>{today}</lastmod><changefreq>{freq}</changefreq><priority>{priority}</priority></url>")
 
     for period in PERIODS:
-        for item in index.get("periods", {}).get(period, []):
+        period_items = index.get("periods", {}).get(period, [])
+        for idx, item in enumerate(period_items):
             collected = str(item.get("collected_at", today))[:10]
+            current = idx == 0
+            freq = "hourly" if current and period == "daily" else ("daily" if current else "never")
             rows.append(
                 f"  <url><loc>{BASE}/ranking/{period}/{esc(item.get('key'))}/</loc>"
-                f"<lastmod>{collected}</lastmod><changefreq>never</changefreq><priority>0.7</priority></url>"
+                f"<lastmod>{collected}</lastmod><changefreq>{freq}</changefreq><priority>0.7</priority></url>"
             )
     rows.append("</urlset>")
     (ROOT / "sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
