@@ -1,4 +1,27 @@
 (() => {
+  function addPolicyLinks() {
+    const footer = document.querySelector("footer .footer-inner");
+    if (!footer || footer.querySelector("[data-policy-links]")) return;
+    const nav = document.createElement("nav");
+    nav.className = "footer-policy-links";
+    nav.setAttribute("data-policy-links", "1");
+    nav.setAttribute("aria-label", "서비스 안내");
+    nav.innerHTML = [
+      '<a href="/about/">서비스 소개</a>',
+      '<a href="/methodology/">랭킹 산정 방식</a>',
+      '<a href="/privacy/">개인정보</a>',
+      '<a href="/policy/">운영정책</a>'
+    ].join("");
+    footer.appendChild(nav);
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", addPolicyLinks, { once: true });
+  } else {
+    addPolicyLinks();
+  }
+})();
+
+(() => {
   if (document.querySelector('script[data-commurank-pwa]')) return;
   const s = document.createElement("script");
   s.src = "/pwa.js";
