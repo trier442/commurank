@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="noindex,follow" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="게시글 상세 분석 | 커뮤랭크" />
+  <meta property="og:description" content="커뮤니티 인기글의 순위, 조회·추천·댓글 변화와 관련 이슈를 분석합니다." />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" type="application/xml" href="../sitemap.xml" />
+  <meta name="description" content="커뮤랭크 게시글 상세 분석 - 순위·조회·댓글 변화와 관련 이슈" />
+  <title>게시글 상세 분석 | 커뮤랭크</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="../search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell post-detail-hero">
+      <a class="back-to-all" href="../">← 커뮤랭크 메인</a>
+      <div class="post-detail-meta" id="postMeta">
+        <span>분석 데이터 로딩 중</span>
+      </div>
+      <h1 id="postTitle">게시글 상세 분석</h1>
+      <div class="post-detail-actions">
+        <a id="originalLink" class="primary-action" href="#" target="_blank" rel="noopener noreferrer">원문 보기 ↗</a>
+        <a id="communityLink" class="secondary-action" href="../">커뮤니티 전용 랭킹</a>
+        <a id="issueLink" class="secondary-action" href="../" hidden>같은 이슈 보기</a>
+      </div>
+    </section>
+
+    <section class="shell detail-stat-grid">
+      <article class="detail-stat">
+        <span>현재 통합 순위</span>
+        <strong id="statRank">-</strong>
+        <small id="statRankMove">최근 변화 없음</small>
+      </article>
+      <article class="detail-stat">
+        <span>조회수</span>
+        <strong id="statViews">0</strong>
+        <small id="statViewsDelta">변화 데이터 없음</small>
+      </article>
+      <article class="detail-stat">
+        <span>추천</span>
+        <strong id="statLikes">0</strong>
+        <small id="statLikesDelta">변화 데이터 없음</small>
+      </article>
+      <article class="detail-stat">
+        <span>댓글</span>
+        <strong id="statComments">0</strong>
+        <small id="statCommentsDelta">변화 데이터 없음</small>
+      </article>
+    </section>
+
+    <section class="shell detail-grid">
+      <div class="detail-main">
+        <section class="ranking-panel detail-chart-card">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">RANK HISTORY</span>
+              <h2>순위 변화</h2>
+            </div>
+            <div class="updated" id="historyRange">최근 수집 기록</div>
+          </div>
+          <div id="rankChart" class="trend-chart"></div>
+        </section>
+
+        <section class="ranking-panel detail-chart-card">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">ENGAGEMENT</span>
+              <h2>조회·댓글 증가 추이</h2>
+            </div>
+          </div>
+          <div class="metric-tabs">
+            <button class="metric-tab active" data-metric="views">조회</button>
+            <button class="metric-tab" data-metric="comments">댓글</button>
+            <button class="metric-tab" data-metric="likes">추천</button>
+          </div>
+          <div id="metricChart" class="trend-chart"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">RELATED POSTS</span>
+              <h2>같은 이슈의 관련 글</h2>
+            </div>
+          </div>
+          <div id="relatedPosts"></div>
+        </section>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>게시글 분석</span><h3>핵심 키워드</h3></div>
+          </div>
+          <div id="postKeywords" class="detail-keywords"></div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>수집 정보</span><h3>데이터 기록</h3></div>
+          </div>
+          <dl class="detail-info-list">
+            <div><dt>커뮤니티</dt><dd id="infoSource">-</dd></div>
+            <div><dt>카테고리</dt><dd id="infoCategory">-</dd></div>
+            <div><dt>최초 포착</dt><dd id="infoFirstSeen">-</dd></div>
+            <div><dt>마지막 포착</dt><dd id="infoLastSeen">-</dd></div>
+            <div><dt>수집 횟수</dt><dd id="infoAppearances">-</dd></div>
+          </dl>
+        </section>
+
+        <section class="side-card community-guide">
+          <div class="side-title"><div><span>데이터 해석</span><h3>참고</h3></div></div>
+          <p>순위와 반응 수치는 공개 인기글 목록에서 주기적으로 수집한 값입니다.</p>
+          <p>첫 수집 이후 데이터부터 그래프가 누적되므로 오래 운영할수록 변화 추이가 정교해집니다.</p>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>게시글 상세 분석</p></div>
+      <p>게시글 원문과 저작권은 해당 커뮤니티 및 원 작성자에게 있습니다.</p>
+    </div>
+  </footer>
+
+  <script src="../detail.js"></script>
+</body>
+</html>

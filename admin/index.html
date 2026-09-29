@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="theme-color" content="#5b45ff" />
+  <title>커뮤랭크 운영 대시보드</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>OPERATIONS</small></span>
+      </a>
+      <div class="admin-header-title">운영 대시보드</div>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell admin-hero">
+      <p class="eyebrow">COMMURANK OPERATIONS</p>
+      <h1>운영 상태 한눈에 보기</h1>
+      <p>수집기·랭킹·이슈·아카이브·브리핑·배포 상태를 점검합니다. 방문자 통계는 분석 서비스 연결 전까지 별도로 표시하지 않습니다.</p>
+    </section>
+
+    <section class="shell admin-status-grid">
+      <article class="admin-stat"><span>데이터 신선도</span><strong id="freshness">-</strong><small id="freshnessSub">확인 중</small></article>
+      <article class="admin-stat"><span>정상 수집 소스</span><strong id="sourceHealth">0/0</strong><small id="sourceHealthSub">확인 중</small></article>
+      <article class="admin-stat"><span>실시간 인기글</span><strong id="realtimeCount">0</strong><small>TOP100 기준</small></article>
+      <article class="admin-stat"><span>실시간 이슈</span><strong id="issueCount">0</strong><small>중복 제거 기준</small></article>
+      <article class="admin-stat"><span>오늘 브리핑</span><strong id="briefingState">-</strong><small id="briefingSub">확인 중</small></article>
+      <article class="admin-stat"><span>운영 경고</span><strong id="alertCount">0</strong><small id="alertSub">자동 진단</small></article>
+    </section>
+
+    <section class="shell admin-layout">
+      <div class="admin-main">
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div><span class="section-kicker">COLLECTORS</span><h2>커뮤니티 수집 상태</h2></div>
+            <div class="updated" id="collectorUpdated">-</div>
+          </div>
+          <div id="sourceTable" class="admin-table"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div><span class="section-kicker">DATA HEALTH</span><h2>데이터 무결성 진단</h2></div>
+          </div>
+          <div id="diagnosticList" class="diagnostic-list"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div><span class="section-kicker">CONTENT VOLUME</span><h2>랭킹·아카이브 규모</h2></div>
+          </div>
+          <div id="volumeGrid" class="admin-volume-grid"></div>
+        </section>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title"><div><span>GitHub Actions</span><h3>자동화 상태</h3></div></div>
+          <div id="workflowStatus" class="workflow-list"><div class="empty">불러오는 중</div></div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title"><div><span>Analytics</span><h3>방문자 분석</h3></div></div>
+          <div class="analytics-connection">
+            <strong id="analyticsState">미연결</strong>
+            <p>현재는 수집·콘텐츠 운영 지표만 집계합니다. GA4 Measurement ID를 연결하면 방문자·페이지뷰·원문 이동 등의 이벤트가 기록됩니다.</p>
+            <ol class="analytics-setup-list">
+              <li>Google Analytics에서 웹 데이터 스트림 생성</li>
+              <li><code>G-XXXXXXXXXX</code> 형식의 측정 ID 확인</li>
+              <li>GitHub Actions의 <strong>Configure Commurank Analytics</strong> 실행</li>
+              <li>측정 ID 입력 후 Run workflow</li>
+            </ol>
+            <a class="analytics-action" href="https://github.com/trier442/trier442.github.io/actions/workflows/configure-commurank-analytics.yml" target="_blank" rel="noopener noreferrer">GA4 연결 작업 열기 ↗</a>
+          </div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title"><div><span>Quick Links</span><h3>운영 바로가기</h3></div></div>
+          <a class="quick-link" href="../"><strong>메인</strong><span>서비스 화면 →</span></a>
+          <a class="quick-link" href="../issues/"><strong>이슈 TOP20</strong><span>이슈 상태 →</span></a>
+          <a class="quick-link" href="../briefing/"><strong>오늘의 브리핑</strong><span>브리핑 확인 →</span></a>
+          <a class="quick-link" href="../search/"><strong>통합 검색</strong><span>검색 점검 →</span></a>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <script src="../admin.js"></script>
+</body>
+</html>

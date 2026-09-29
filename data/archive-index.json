@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "periods": {
+    "daily": [
+      {
+        "period": "daily",
+        "key": "2026-09-29",
+        "label": "2026년 09월 29일",
+        "collected_at": "2026-09-29T11:42:17.703423+09:00",
+        "path": "snapshots/daily/2026-09-29.json"
+      },
+      {
+        "period": "daily",
+        "key": "2026-09-28",
+        "label": "2026년 09월 28일",
+        "collected_at": "2026-09-28T19:49:36.308484+09:00",
+        "path": "snapshots/daily/2026-09-28.json"
+      },
+      {
+        "period": "daily",
+        "key": "2026-09-27",
+        "label": "2026년 09월 27일",
+        "collected_at": "2026-09-27T23:49:45.340258+09:00",
+        "path": "snapshots/daily/2026-09-27.json"
+      }
+    ],
+    "weekly": [
+      {
+        "period": "weekly",
+        "key": "2026-W40",
+        "label": "2026.09.28 ~ 10.04",
+        "collected_at": "2026-09-29T11:42:17.703423+09:00",
+        "path": "snapshots/weekly/2026-W40.json"
+      },
+      {
+        "period": "weekly",
+        "key": "2026-W39",
+        "label": "2026.09.21 ~ 09.27",
+        "collected_at": "2026-09-27T23:49:45.340258+09:00",
+        "path": "snapshots/weekly/2026-W39.json"
+      }
+    ],
+    "monthly": [
+      {
+        "period": "monthly",
+        "key": "2026-09",
+        "label": "2026년 09월",
+        "collected_at": "2026-09-29T11:42:17.703423+09:00",
+        "path": "snapshots/monthly/2026-09.json"
+      }
+    ]
+  },
+  "updated_at": "2026-09-29T11:42:17.703423+09:00"
+}

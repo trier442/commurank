@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="이슈 TOP20 | 커뮤랭크" />
+  <meta property="og:description" content="여러 커뮤니티에서 동시에 뜨는 이슈를 실시간·일간·주간·월간 TOP20으로 확인합니다." />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" type="application/xml" href="../sitemap.xml" />
+  <link rel="canonical" href="https://commurank.kr/issues/" />
+  <meta name="description" content="커뮤랭크 이슈 랭킹 - 여러 커뮤니티에서 동시에 뜨는 이슈의 실시간·일간·주간·월간 TOP20과 과거 아카이브" />
+  <title>이슈 TOP20 | 커뮤랭크</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="../search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell issue-rank-hero">
+      <p class="eyebrow">CROSS COMMUNITY ISSUE RANKING</p>
+      <h1>지금 여러 커뮤니티에서<br><span>동시에 뜨는 이슈</span></h1>
+      <p>개별 게시글이 아니라 여러 커뮤니티에서 함께 포착되는 사건·주제를 묶어 순위화합니다.</p>
+    </section>
+
+    <section class="shell issue-rank-controls">
+      <nav class="top-nav issue-rank-tabs" aria-label="이슈 기간">
+        <button class="nav-item active" data-issue-period="realtime">실시간</button>
+        <button class="nav-item" data-issue-period="daily">오늘</button>
+        <button class="nav-item" data-issue-period="weekly">주간</button>
+        <button class="nav-item" data-issue-period="monthly">월간</button>
+      </nav>
+      <div class="archive-controls" id="issueArchiveControls" hidden>
+        <select id="issueArchiveSelect" class="select archive-select" aria-label="과거 이슈 순위 선택">
+          <option value="">현재 순위</option>
+        </select>
+        <button id="issueLatestButton" class="archive-latest" type="button">최신</button>
+      </div>
+    </section>
+
+    <section class="shell issue-rank-layout">
+      <div class="ranking-panel">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker" id="issuePeriodLabel">실시간 이슈</span>
+            <h2>이슈 TOP 20</h2>
+          </div>
+          <div class="updated">업데이트 <strong id="issueUpdatedAt">-</strong></div>
+        </div>
+
+        <div id="issueTopCards" class="issue-top-cards"></div>
+        <div id="issueRankingList" class="issue-ranking-list"></div>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>현재 랭킹</span><h3>요약</h3></div>
+          </div>
+          <div class="search-stats">
+            <div><strong id="issueCount">0</strong><span>랭크 이슈</span></div>
+            <div><strong id="issueSourceCount">0</strong><span>참여 커뮤니티</span></div>
+            <div><strong id="issuePostCount">0</strong><span>관련 인기글</span></div>
+          </div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>상위 이슈에서 반복</span><h3>핵심 키워드</h3></div>
+          </div>
+          <div id="issueRankKeywords" class="search-keywords"></div>
+        </section>
+
+        <section class="side-card community-guide">
+          <div class="side-title"><div><span>랭킹 기준</span><h3>이슈 점수</h3></div></div>
+          <p>동시에 언급된 커뮤니티 수, 관련 인기글 수, 각 이슈의 반응 점수와 반복 포착 횟수를 반영합니다.</p>
+          <p>일간·주간·월간은 해당 기간의 이슈 히스토리 전체를 다시 계산합니다.</p>
+        </section>
+
+        <a class="side-card issue-home-link" href="../">
+          <strong>게시글 TOP100 보기</strong>
+          <span>커뮤랭크 메인으로 →</span>
+        </a>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>커뮤니티 이슈 랭킹 아카이브</p></div>
+      <p>이슈를 누르면 시간대별 확산과 관련 게시글을 확인할 수 있습니다.</p>
+    </div>
+  </footer>
+
+  <script src="../issues.js"></script>
+</body>
+</html>

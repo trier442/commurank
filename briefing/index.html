@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="오늘의 인터넷 브리핑 | 커뮤랭크" />
+  <meta property="og:description" content="오늘의 인기글, 급상승 글, 핵심 이슈, 실시간 키워드와 커뮤니티별 1위를 한 번에 정리합니다." />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" type="application/xml" href="../sitemap.xml" />
+  <link rel="canonical" href="https://commurank.kr/briefing/" />
+  <meta name="description" content="커뮤랭크 오늘의 인터넷 브리핑 - 인기글, 급상승, 이슈, 키워드 요약" />
+  <title>오늘의 인터넷 브리핑 | 커뮤랭크</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="../search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell briefing-hero">
+      <p class="eyebrow">DAILY INTERNET BRIEFING</p>
+      <div class="briefing-title-row">
+        <div>
+          <h1>오늘의 인터넷 브리핑</h1>
+          <p id="briefingOverview">현재 데이터를 정리하고 있습니다.</p>
+        </div>
+        <div class="archive-controls">
+          <select id="briefingArchive" class="select archive-select" aria-label="브리핑 날짜 선택">
+            <option value="">오늘</option>
+          </select>
+          <button id="briefingLatest" class="archive-latest" type="button">오늘</button>
+        </div>
+      </div>
+      <div class="briefing-stats">
+        <div><strong id="briefSources">0</strong><span>커뮤니티</span></div>
+        <div><strong id="briefPosts">0</strong><span>인기글</span></div>
+        <div><strong id="briefIssues">0</strong><span>오늘 이슈</span></div>
+        <div><strong id="briefKeywords">0</strong><span>실시간 키워드</span></div>
+      </div>
+    </section>
+
+    <section class="shell briefing-grid">
+      <section class="briefing-card briefing-highlights">
+        <div class="briefing-card-head">
+          <div><span>AT A GLANCE</span><h2>오늘 한눈에 보기</h2></div>
+          <span id="briefingUpdated" class="mini-badge">-</span>
+        </div>
+        <div id="briefingHighlights" class="brief-highlight-list"></div>
+      </section>
+
+      <section class="briefing-card">
+        <div class="briefing-card-head">
+          <div><span>TODAY</span><h2>오늘의 인기글 TOP 10</h2></div>
+          <a href="../?period=daily">전체 보기 →</a>
+        </div>
+        <div id="briefingPosts"></div>
+      </section>
+
+      <section class="briefing-card">
+        <div class="briefing-card-head">
+          <div><span>FAST RISING</span><h2>지금 급상승</h2></div>
+          <a href="../?period=rising">전체 보기 →</a>
+        </div>
+        <div id="briefingRising"></div>
+      </section>
+
+      <section class="briefing-card">
+        <div class="briefing-card-head">
+          <div><span>ISSUES</span><h2>오늘의 핵심 이슈</h2></div>
+          <a href="../issues/?period=daily">이슈 TOP20 →</a>
+        </div>
+        <div id="briefingIssues"></div>
+      </section>
+
+      <section class="briefing-card">
+        <div class="briefing-card-head">
+          <div><span>TRENDING</span><h2>실시간 키워드</h2></div>
+        </div>
+        <div id="briefingKeywords" class="briefing-keywords"></div>
+      </section>
+
+      <section class="briefing-card">
+        <div class="briefing-card-head">
+          <div><span>COMMUNITIES</span><h2>커뮤니티별 1위</h2></div>
+        </div>
+        <div id="briefingCommunities"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>오늘의 인터넷 브리핑</p></div>
+      <p>공개 인기글 목록의 제목·반응 지표를 바탕으로 자동 정리합니다.</p>
+    </div>
+  </footer>
+  <script src="../briefing.js"></script>
+</body>
+</html>

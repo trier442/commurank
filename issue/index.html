@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="noindex,follow" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="이슈 분석 | 커뮤랭크" />
+  <meta property="og:description" content="여러 커뮤니티에서 동시에 포착된 이슈의 확산 추이와 관련 인기글을 분석합니다." />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" type="application/xml" href="../sitemap.xml" />
+  <meta name="description" content="커뮤랭크 이슈 분석 - 여러 커뮤니티의 동시 화제와 확산 추이" />
+  <title>이슈 분석 | 커뮤랭크</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="../search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell issue-hero">
+      <a class="back-to-all" href="../">← 커뮤랭크 메인</a>
+      <div class="post-detail-meta" id="issueMeta"><span>이슈 분석 중</span></div>
+      <h1 id="issueTitle">동시 화제 분석</h1>
+      <p id="issueSummary">여러 커뮤니티에서 동시에 언급되는 이슈의 확산 흐름을 분석합니다.</p>
+      <div id="issueKeywords" class="detail-keywords issue-hero-keywords"></div>
+    </section>
+
+    <section class="shell detail-stat-grid issue-stat-grid">
+      <article class="detail-stat">
+        <span>현재 언급 커뮤니티</span>
+        <strong id="statSources">0곳</strong>
+        <small id="statFirstSources">최초 포착 확인 중</small>
+      </article>
+      <article class="detail-stat">
+        <span>관련 인기글</span>
+        <strong id="statPosts">0건</strong>
+        <small id="statPostDelta">변화 데이터 누적 중</small>
+      </article>
+      <article class="detail-stat">
+        <span>이슈 점수</span>
+        <strong id="statScore">0</strong>
+        <small id="statScoreDelta">변화 데이터 누적 중</small>
+      </article>
+      <article class="detail-stat">
+        <span>최초 포착</span>
+        <strong id="statFirstSeen">-</strong>
+        <small id="statLastSeen">마지막 포착 -</small>
+      </article>
+    </section>
+
+    <section class="shell detail-grid">
+      <div class="detail-main">
+        <section class="ranking-panel detail-chart-card">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">ISSUE TIMELINE</span>
+              <h2>시간대별 확산 추이</h2>
+            </div>
+            <div class="updated" id="issueHistoryRange">최근 수집 기록</div>
+          </div>
+          <div class="metric-tabs">
+            <button class="metric-tab active" data-issue-metric="post_count">관련글</button>
+            <button class="metric-tab" data-issue-metric="source_count">커뮤니티 수</button>
+            <button class="metric-tab" data-issue-metric="score">이슈 점수</button>
+          </div>
+          <div id="issueChart" class="trend-chart"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">RELATED POSTS</span>
+              <h2>커뮤니티별 관련 인기글</h2>
+            </div>
+          </div>
+          <div id="issuePosts"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">REACTION METRICS</span>
+              <h2>커뮤니티별 반응 지표</h2>
+            </div>
+          </div>
+          <div id="reactionTable" class="reaction-table"></div>
+        </section>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>확산 시작</span><h3>최초 포착 커뮤니티</h3></div>
+          </div>
+          <div id="firstCommunityList" class="issue-source-list"></div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>현재 확산</span><h3>참여 커뮤니티</h3></div>
+          </div>
+          <div id="currentCommunityList" class="issue-source-list"></div>
+        </section>
+
+        <section class="side-card community-guide">
+          <div class="side-title"><div><span>분석 기준</span><h3>이슈 묶기</h3></div></div>
+          <p>제목의 핵심 키워드와 유사도를 바탕으로 서로 다른 커뮤니티의 관련 인기글을 자동 묶습니다.</p>
+          <p>감성이나 찬반을 추측하지 않고 공개 반응 수치와 확산 경로만 비교합니다.</p>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>크로스 커뮤니티 이슈 분석</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+
+  <script src="../issue.js"></script>
+</body>
+</html>

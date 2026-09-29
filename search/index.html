@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="noindex,follow" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="통합 검색 | 커뮤랭크" />
+  <meta property="og:description" content="현재 인기글과 최근 누적 커뮤니티 아카이브를 검색합니다." />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" type="application/xml" href="../sitemap.xml" />
+  <link rel="canonical" href="https://commurank.kr/search/" />
+  <meta name="description" content="커뮤랭크 통합 검색 - 여러 커뮤니티의 현재 인기글과 누적 아카이브 검색" />
+  <title>통합 검색 | 커뮤랭크</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form id="headerSearchForm" class="global-search global-search-wide" role="search">
+        <input id="headerSearchInput" type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell search-hero">
+      <p class="eyebrow">COMMURANK SEARCH</p>
+      <h1>커뮤니티 통합 검색</h1>
+      <p>현재 인기글과 최근 누적 아카이브에서 제목·키워드·커뮤니티를 한 번에 찾습니다.</p>
+    </section>
+
+    <section class="shell search-controls">
+      <form id="searchForm" class="search-main-form" role="search">
+        <input id="searchInput" type="search" name="q" autocomplete="off" placeholder="예: 아이폰, 야구, 루리웹" />
+        <button type="submit">검색</button>
+      </form>
+
+      <div class="search-filter-row">
+        <select id="searchSource" class="select" aria-label="커뮤니티 필터">
+          <option value="전체">전체 커뮤니티</option>
+        </select>
+        <select id="searchCategory" class="select" aria-label="카테고리 필터">
+          <option value="전체">전체 카테고리</option>
+          <option value="이슈">이슈</option>
+          <option value="유머">유머</option>
+          <option value="스포츠">스포츠</option>
+          <option value="연예">연예</option>
+          <option value="게임">게임</option>
+          <option value="생활">생활</option>
+        </select>
+        <select id="searchSort" class="select" aria-label="정렬">
+          <option value="relevance">관련도순</option>
+          <option value="recent">최근 포착순</option>
+          <option value="views">조회수순</option>
+          <option value="comments">댓글순</option>
+          <option value="likes">추천순</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="shell search-layout">
+      <div class="ranking-panel">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">SEARCH RESULT</span>
+            <h2 id="searchHeading">검색어를 입력하세요</h2>
+          </div>
+          <div class="updated"><strong id="resultCount">0</strong>건</div>
+        </div>
+        <div id="searchResults">
+          <div class="empty search-empty">검색어를 입력하면 최근 누적 데이터에서 결과를 찾습니다.</div>
+        </div>
+        <button id="loadMore" class="load-more" type="button" hidden>결과 더 보기</button>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>현재 데이터</span><h3>검색 범위</h3></div>
+          </div>
+          <div class="search-stats">
+            <div><strong id="archiveTotal">0</strong><span>누적 게시글</span></div>
+            <div><strong id="currentTotal">0</strong><span>현재 수집 글</span></div>
+            <div><strong id="sourceTotal">0</strong><span>검색 가능 커뮤니티</span></div>
+          </div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div><span>검색어와 가까운</span><h3>실시간 키워드</h3></div>
+          </div>
+          <div id="relatedKeywords" class="search-keywords">
+            <div class="empty">검색 후 표시됩니다.</div>
+          </div>
+        </section>
+
+        <section class="side-card community-guide">
+          <div class="side-title"><div><span>검색 안내</span><h3>아카이브</h3></div></div>
+          <p>검색 대상은 현재 인기글과 최근 누적 수집 데이터입니다.</p>
+          <p>게시글 본문은 저장하지 않으며 제목과 공개 메타데이터만 검색합니다.</p>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>커뮤니티 인기글 통합 검색</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+
+  <script src="../search.js"></script>
+</body>
+</html>

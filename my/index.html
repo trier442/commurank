@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="noindex,follow" />
+  <meta name="description" content="내 관심 커뮤니티와 키워드에 맞춘 커뮤랭크 개인화 피드" />
+  <title>내 관심 | 커뮤랭크</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="../manifest.webmanifest" />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="../" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>MY FEED</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="../search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="shell my-hero">
+      <p class="eyebrow">MY COMMURANK</p>
+      <h1>내 관심 피드</h1>
+      <p>관심 커뮤니티와 키워드를 저장하면 현재 인기글과 이슈에서 맞는 항목만 골라 보여줍니다. 설정은 이 브라우저에만 저장됩니다.</p>
+      <div class="my-hero-actions">
+        <button id="notificationButton" class="primary-action" type="button">관심글 알림 켜기</button>
+        <button class="secondary-action" type="button" data-pwa-install hidden>앱 설치</button>
+        <span id="notificationStatus" class="my-notification-status">알림 꺼짐</span>
+      </div>
+    </section>
+
+    <section class="shell my-settings-grid">
+      <section class="my-card">
+        <div class="my-card-head">
+          <div><span>KEYWORDS</span><h2>관심 키워드</h2></div>
+          <button id="clearKeywords" class="my-text-button" type="button">전체 삭제</button>
+        </div>
+        <form id="keywordForm" class="my-keyword-form">
+          <input id="keywordInput" type="text" maxlength="30" autocomplete="off" placeholder="예: 아이폰, 야구, 게임" />
+          <button type="submit">추가</button>
+        </form>
+        <div id="savedKeywords" class="my-chip-list"></div>
+      </section>
+
+      <section class="my-card">
+        <div class="my-card-head">
+          <div><span>COMMUNITIES</span><h2>관심 커뮤니티</h2></div>
+          <button id="clearSources" class="my-text-button" type="button">전체 해제</button>
+        </div>
+        <div id="sourceChoices" class="my-source-grid"></div>
+      </section>
+    </section>
+
+    <section class="shell my-summary-grid">
+      <article><strong id="matchedPostCount">0</strong><span>맞춤 인기글</span></article>
+      <article><strong id="matchedIssueCount">0</strong><span>맞춤 이슈</span></article>
+      <article><strong id="recentCount">0</strong><span>최근 본 글</span></article>
+      <article><strong id="prefCount">0</strong><span>저장된 관심 조건</span></article>
+      <article class="my-new-stat"><strong id="newSinceVisit">0</strong><span>지난 방문 이후 새 글</span></article>
+    </section>
+
+    <section class="shell my-layout">
+      <div class="my-main">
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div><span class="section-kicker">PERSONAL FEED</span><h2>내 관심 인기글</h2></div>
+            <div class="updated" id="feedUpdated">-</div>
+          </div>
+          <div id="myPostList"></div>
+        </section>
+
+        <section class="ranking-panel">
+          <div class="section-head">
+            <div><span class="section-kicker">MATCHED ISSUES</span><h2>내 관심 이슈</h2></div>
+          </div>
+          <div id="myIssueList"></div>
+        </section>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title"><div><span>LOCAL HISTORY</span><h3>최근 본 글</h3></div><button id="clearRecent" class="my-text-button" type="button">삭제</button></div>
+          <div id="recentPosts" class="my-recent-list"></div>
+        </section>
+
+        <section class="side-card community-guide">
+          <div class="side-title"><div><span>PRIVACY</span><h3>저장 방식</h3></div></div>
+          <p>관심 키워드·관심 커뮤니티·최근 본 글은 현재 브라우저의 localStorage에만 저장됩니다.</p>
+          <p>관심 키워드 원문은 GA4 등 외부 분석 이벤트로 전송하지 않습니다.</p>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title"><div><span>QUICK LINKS</span><h3>바로가기</h3></div></div>
+          <a class="quick-link" href="../"><strong>통합 랭킹</strong><span>메인 →</span></a>
+          <a class="quick-link" href="../issues/"><strong>이슈 TOP20</strong><span>이슈 →</span></a>
+          <a class="quick-link" href="../briefing/"><strong>오늘의 브리핑</strong><span>브리핑 →</span></a>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>내 관심 피드</p></div>
+      <p>설정은 현재 기기에만 저장됩니다.</p>
+    </div>
+  </footer>
+  <script src="../my.js"></script>
+</body>
+</html>
