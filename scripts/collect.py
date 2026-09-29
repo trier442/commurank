@@ -833,20 +833,60 @@ def dt(value: str) -> datetime:
 
 def period_rank(archive: dict, since: datetime, now: datetime, limit: int = 100) -> list[dict]:
     candidates = []
+    since_date = since.astimezone(KST).date()
+
     for entry in archive.values():
         last_seen = dt(entry["last_seen"]).astimezone(KST)
-        if last_seen < since:
-            continue
+        daily_stats = entry.get("daily_stats", {})
+        period_days = []
+
+        if isinstance(daily_stats, dict):
+            for day_key, stats in daily_stats.items():
+                try:
+                    day = datetime.strptime(day_key, "%Y-%m-%d").date()
+                except Exception:
+                    continue
+                if day >= since_date and isinstance(stats, dict):
+                    period_days.append(stats)
+
+        # 이전 데이터 구조와 호환: daily_stats가 없는 기존 항목은 마지막 포착만 사용한다.
+        if not period_days:
+            if last_seen < since:
+                continue
+            period_days = [{
+                "max_score": float(entry.get("peak_score", 0)),
+                "max_views": int(entry.get("max_views", 0)),
+                "max_likes": int(entry.get("max_likes", 0)),
+                "max_comments": int(entry.get("max_comments", 0)),
+                "appearances": 1,
+            }]
+
+        period_appearances = sum(max(1, int(day.get("appearances", 1))) for day in period_days)
+        active_days = len(period_days)
+        period_peak_score = max(float(day.get("max_score", 0)) for day in period_days)
+        period_views = max(int(day.get("max_views", 0)) for day in period_days)
+        period_likes = max(int(day.get("max_likes", 0)) for day in period_days)
+        period_comments = max(int(day.get("max_comments", 0)) for day in period_days)
+
         p = dict(entry)
         recency_hours = max(0, (now - last_seen).total_seconds() / 3600)
         recency_bonus = max(0, 8 - min(8, recency_hours / 12))
-        repeat_bonus = min(8, math.log1p(entry.get("appearances", 1)) * 2)
-        p["score"] = round(entry.get("peak_score", 0) + recency_bonus + repeat_bonus, 2)
-        p["views"] = entry.get("max_views", 0)
-        p["likes"] = entry.get("max_likes", 0)
-        p["comments"] = entry.get("max_comments", 0)
+        repeat_bonus = min(10, math.log1p(period_appearances) * 2.2)
+        persistence_bonus = min(6, max(0, active_days - 1) * 1.5)
+
+        p["score"] = round(period_peak_score + recency_bonus + repeat_bonus + persistence_bonus, 2)
+        p["views"] = period_views
+        p["likes"] = period_likes
+        p["comments"] = period_comments
+        p["appearances"] = period_appearances
+        p["active_days"] = active_days
         candidates.append(p)
-    return sorted(candidates, key=lambda x: (x["score"], x["views"], x["comments"]), reverse=True)[:limit]
+
+    return sorted(
+        candidates,
+        key=lambda x: (x["score"], x["active_days"], x["appearances"], x["views"], x["comments"]),
+        reverse=True,
+    )[:limit]
 
 
 def attach_rank_changes(rankings: dict[str, list[dict]], previous: dict) -> None:
@@ -1621,6 +1661,25 @@ def main() -> None:
     for p in dedup.values():
         key = p["url"]
         old = archive.get(key, {})
+        daily_stats = dict(old.get("daily_stats", {})) if isinstance(old.get("daily_stats", {}), dict) else {}
+        day_key = now.strftime("%Y-%m-%d")
+        day = dict(daily_stats.get(day_key, {}))
+        daily_stats[day_key] = {
+            "max_score": max(float(day.get("max_score", 0)), float(p["score"])),
+            "max_views": max(int(day.get("max_views", 0)), p["views"]),
+            "max_likes": max(int(day.get("max_likes", 0)), p["likes"]),
+            "max_comments": max(int(day.get("max_comments", 0)), p["comments"]),
+            "appearances": int(day.get("appearances", 0)) + 1,
+            "last_seen": collected_at,
+        }
+
+        stats_cutoff = (now - timedelta(days=62)).date()
+        daily_stats = {
+            k: v for k, v in daily_stats.items()
+            if re.fullmatch(r"\d{4}-\d{2}-\d{2}", k)
+            and datetime.strptime(k, "%Y-%m-%d").date() >= stats_cutoff
+        }
+
         archive[key] = {
             "title": p["title"],
             "source": p["source"],
@@ -1633,6 +1692,7 @@ def main() -> None:
             "max_likes": max(int(old.get("max_likes", 0)), p["likes"]),
             "max_comments": max(int(old.get("max_comments", 0)), p["comments"]),
             "appearances": int(old.get("appearances", 0)) + 1,
+            "daily_stats": daily_stats,
         }
 
     # 최근 62일 + 최대 6000건만 유지
