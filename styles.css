@@ -2487,3 +2487,87 @@ select:focus-visible {
   .archive-period-grid { grid-template-columns: 1fr; }
   .ranking-seo-layout .ranking-panel { padding: 14px; }
 }
+
+
+/* Public collector status */
+.status-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0,1fr));
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.status-stat {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  padding: 17px;
+}
+.status-stat span {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 850;
+}
+.status-stat strong {
+  display: block;
+  margin-top: 5px;
+  font-size: 25px;
+  letter-spacing: -.04em;
+}
+.status-stat small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 10px;
+}
+.status-stale #statusFreshness { color: var(--hot); }
+.public-status-list { display: grid; }
+.public-status-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  border-top: 1px solid var(--line);
+  padding: 13px 2px;
+}
+.public-status-row:first-child { border-top: 0; }
+.public-status-row > div { min-width: 0; }
+.public-status-row strong {
+  display: block;
+  font-size: 14px;
+}
+.public-status-row span {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.public-status-pill {
+  flex: 0 0 auto;
+  border-radius: 999px;
+  padding: 5px 8px;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 900;
+}
+.public-status-pill.ok {
+  color: var(--up);
+  background: color-mix(in srgb, var(--up) 10%, var(--surface));
+}
+.public-status-pill.cache {
+  color: var(--brand);
+  background: color-mix(in srgb, var(--brand) 10%, var(--surface));
+}
+.public-status-pill.warn {
+  color: var(--hot);
+  background: color-mix(in srgb, var(--hot) 10%, var(--surface));
+}
+@media (max-width: 760px) {
+  .status-summary-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 420px) {
+  .status-summary-grid { grid-template-columns: 1fr; }
+}
