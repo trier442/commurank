@@ -1,4 +1,4 @@
-const CACHE_NAME = "commurank-shell-v2";
+const CACHE_NAME = "commurank-shell-v3";
 const SHELL = [
   "/",
   "/styles.css",
@@ -11,6 +11,7 @@ const SHELL = [
   "/post/",
   "/issue/",
   "/community/dcinside/",
+  "/community/fmkorea/",
   "/community/theqoo/",
   "/community/ruliweb/",
   "/community/clien/",
