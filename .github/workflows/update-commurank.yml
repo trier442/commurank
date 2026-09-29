@@ -47,15 +47,18 @@ jobs:
         working-directory: .
         run: python scripts/collect.py
 
+      - name: Build indexable ranking archive pages
+        run: python scripts/build_seo.py
+
       - name: Commit updated ranking data
         run: |
-          if git diff --quiet -- data; then
+          if git diff --quiet -- data ranking sitemap.xml; then
             echo "No data changes."
             exit 0
           fi
           git config user.name "commurank-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data
+          git add data ranking sitemap.xml
           git commit -m "Update Commurank rankings"
           git pull --rebase origin main
           git push
