@@ -151,7 +151,7 @@ function renderReactions() {
   box.innerHTML=`
     <div class="reaction-head"><span>커뮤니티</span><span>순위</span><span>조회</span><span>추천</span><span>댓글</span></div>
     ${rows.map(r=>`
-      <a class="reaction-row" href="../post/?url=${encodeURIComponent(r.url)}">
+      <a class="reaction-row" href="${safeText(r.url || "#")}" target="_blank" rel="noopener noreferrer">
         <strong>${safeText(r.source)}</strong>
         <span>#${Number(r.rank)||"-"}</span>
         <span>${fmt(r.views)}</span>
@@ -210,7 +210,7 @@ function render() {
         <article class="rank-item related-rank-item">
           <div class="rank-num ${i<3?"top":""}">${Number(row.rank)||i+1}</div>
           <div>
-            <a class="post-title" href="../post/?url=${encodeURIComponent(row.url)}">${safeText(row.title)}</a>
+            <a class="post-title" href="${safeText(row.url || "#")}" target="_blank" rel="noopener noreferrer">${safeText(row.title)}</a>
             <div class="meta">
               <span class="source">${safeText(row.source)}</span>
               <span>조회 ${fmt(p.views)}</span>
