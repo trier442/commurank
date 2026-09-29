@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-09-29",
   "label": "2026년 09월 29일",
-  "collected_at": "2026-09-29T11:42:17.703423+09:00",
+  "collected_at": "2026-09-29T17:24:25.017696+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -96,6 +96,46 @@
       "change": 0
     },
     {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.83,
+      "peak_score": 101.34,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "보디빌더의 인스타 글.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76845232?m=humor",
+          "score": 92.34
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "영화 암살자.....이영애 인스타 극우들 난리남 ㅋㅋㅋ",
+          "url": "https://www.clien.net/service/board/park/19271313?od=T31&po=0&category=0&groupCd=",
+          "score": 60.1
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 8
+    },
+    {
       "id": "i09667a01",
       "title": "‘시간문제’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -131,8 +171,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i0c1846a6",
@@ -169,20 +209,21 @@
       "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
-      "id": "i8b4085e0",
-      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i106465f0",
+      "title": "진중권의 영화 암살자들 3줄평",
       "keywords": [
-        "아시안게임"
+        "영화",
+        "암살자들"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 102.51,
-      "peak_score": 91.02,
-      "appearances": 2,
+      "score": 109.52,
+      "peak_score": 100.05,
+      "appearances": 1,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -190,25 +231,113 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 8,
-          "title": "하태경 \"아시안게임 금메달 군혜택 없애야..특히 야구\"",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=698752",
-          "score": 78.84
+          "rank": 4,
+          "title": "진중권의 영화 암살자들 3줄평",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
+          "score": 92.05
         },
         {
           "source": "클리앙",
-          "rank": 28,
-          "title": "아시안게임 이스포츠 퇴출 관련",
-          "url": "https://www.clien.net/service/board/park/19271138?od=T31&po=0&category=0&groupCd=",
-          "score": 66.61
+          "rank": 69,
+          "title": "암살자들 영화 질문드립니다",
+          "url": "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd=",
+          "score": 56.36
+        }
+      ],
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "[2026 아시안게임] 배드민턴 여자 단식 안세영 금메달🏸🥇🥇🇰🇷",
+      "keywords": [
+        "아시안게임",
+        "금메달",
+        "안세영"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.95,
+      "peak_score": 91.02,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "[2026 아시안게임] 배드민턴 여자 단식 안세영 금메달🏸🥇🥇🇰🇷",
+          "url": "https://theqoo.net/hot/4359943379",
+          "score": 64.74
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 29,
+          "title": "아시안게임 여단 안세영 우승!금메달. 여단 최초의 2연패 짤많음!!!!!",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466694&_dcbest=1&page=1",
+          "score": 64.04
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-29T11:42:17.703423+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 100.84,
+      "peak_score": 85.37,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 20,
+          "title": "속보) 안세영 승률 업데이트",
+          "url": "https://theqoo.net/hot/4359965130",
+          "score": 67.37
+        },
+        {
+          "source": "클리앙",
+          "rank": 22,
+          "title": "안세영 ㄷㄷㄷ",
+          "url": "https://www.clien.net/service/board/park/19271303?od=T31&po=0&category=0&groupCd=",
+          "score": 65.75
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 29,
+          "title": "아시안게임 여단 안세영 우승!금메달. 여단 최초의 2연패 짤많음!!!!!",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466694&_dcbest=1&page=1",
+          "score": 64.04
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i84f2f2a0",
@@ -245,8 +374,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 9,
+      "change": -3
     },
     {
       "id": "i77707101",
@@ -283,8 +412,47 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 10,
+      "change": -3
+    },
+    {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.05,
+      "peak_score": 79.56,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "[단독] '암살자(들)' 단체관람한 LH·국토안전관리원, 제대군인지원센터",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466683&_dcbest=1&page=1",
+          "score": 68.65
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "영화 암살자.....이영애 인스타 극우들 난리남 ㅋㅋㅋ",
+          "url": "https://www.clien.net/service/board/park/19271313?od=T31&po=0&category=0&groupCd=",
+          "score": 60.1
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "ie024a362",
@@ -321,8 +489,8 @@
       "last_seen": "2026-09-29T08:23:09.958029+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 12,
+      "change": -4
     },
     {
       "id": "i039fd79c",
@@ -359,84 +527,87 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 13,
+      "change": -4
     },
     {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ifd5a2cc3",
+      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "암살자"
+        "한국에서"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.03,
-      "peak_score": 79.56,
+      "score": 88.41,
+      "peak_score": 78.94,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "[이제는 말할 수 있다] 영화 암살자(들) 논란? 이 다큐를 보고 이야기하라 - 2005년 3월 20일 방송",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733762",
-          "score": 70.56
-        },
-        {
-          "source": "클리앙",
-          "rank": 47,
-          "title": "암살자 작년에 개봉했으면 천만 찍었을겁니다",
-          "url": "https://www.clien.net/service/board/park/19271005?od=T31&po=0&category=0&groupCd=",
-          "score": 62.0
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.15,
-      "peak_score": 76.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 28,
-          "title": "암살자(들) 시사회 초대되서 추천사 쓴 배우 인스타 댓글 상황",
-          "url": "https://theqoo.net/hot/4359515659",
-          "score": 67.68
+          "source": "인벤",
+          "rank": 13,
+          "title": "한국에서 최초 개발했다는 용접공로봇",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734015",
+          "score": 69.94
         },
         {
-          "source": "인벤",
-          "rank": 72,
-          "title": "후방 ㅡ 주빈 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733773",
-          "score": 56.17
+          "source": "루리웹",
+          "rank": 85,
+          "title": "한국에서 처음 일하고 한달만에 울었다는 탈북민.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76846553?m=humor_only&t=now",
+          "score": 53.82
         }
       ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-09-29T08:23:09.958029+09:00",
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "id": "ia8451ee4",
+      "title": "'이 대통령 아들 군면제' 허위글 이수정, 선처 호소",
+      "keywords": [
+        "아들",
+        "이수정",
+        "허위글",
+        "군면제"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.0,
+      "peak_score": 77.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 14,
+          "title": "'이 대통령 아들 군면제' 허위글 이수정, 선처 호소",
+          "url": "https://theqoo.net/hot/4359972053",
+          "score": 69.53
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "이재명 아들 군면제 허위글…검찰, 이수정 벌금형 유지 요청",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466698&_dcbest=1&page=1",
+          "score": 62.62
+        }
+      ],
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
     },
     {
       "id": "i2272efa7",
@@ -473,8 +644,8 @@
       "last_seen": "2026-09-29T08:23:09.958029+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 16,
+      "change": -4
     },
     {
       "id": "ib5d065c0",
@@ -511,8 +682,8 @@
       "last_seen": "2026-09-29T08:23:09.958029+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 17,
+      "change": -4
     },
     {
       "id": "ife021da2",
@@ -549,8 +720,8 @@
       "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 18,
+      "change": -4
     },
     {
       "id": "iad10a52b",
@@ -587,24 +758,23 @@
       "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 1
+      "rank": 19,
+      "change": -4
     },
     {
-      "id": "ia6b7ba2b",
-      "title": "민주당 \"北, 부상 장병·국민께 사죄해야\"…진상 규명 협조 촉구",
+      "id": "idf063d4e",
+      "title": "일본 축구 평가전 편파판정에 빡친 베네수엘라",
       "keywords": [
-        "민주당",
-        "촉구",
-        "규명",
-        "진상",
-        "사죄해야",
-        "국민께"
+        "평가전",
+        "베네수엘라",
+        "빡친",
+        "일본",
+        "편파판정에"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.51,
-      "peak_score": 70.04,
+      "score": 79.93,
+      "peak_score": 70.46,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -612,141 +782,26 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 46,
-          "title": "민주당 \"北, 부상 장병·국민께 사죄해야\"…진상 규명 협조 촉구",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733766",
-          "score": 62.04
-        },
-        {
           "source": "클리앙",
-          "rank": 63,
-          "title": "민주당 '北, 부상 장병·국민께 사죄해야'…진상 규명 협조 촉구",
-          "url": "https://www.clien.net/service/board/park/19271004?od=T31&po=0&category=0&groupCd=",
-          "score": 58.6
-        }
-      ],
-      "first_seen": "2026-09-29T03:16:54.567078+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 16,
-      "change": -1
-    },
-    {
-      "id": "i0f504825",
-      "title": "‘자체가’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "자체가"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.11,
-      "peak_score": 67.62,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 66,
-          "title": "자본주의 시스템 자체가 후세대로 갈수록 불리하다는 블라인...",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466581&_dcbest=1&page=1",
-          "score": 58.49
-        },
-        {
-          "source": "클리앙",
-          "rank": 94,
-          "title": "군인이라는거 자체가 원래 저러라고 있는겁니다",
-          "url": "https://www.clien.net/service/board/park/19271117?od=T31&po=0&category=0&groupCd=",
-          "score": 51.71
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-09-29T11:42:17.703423+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
-    },
-    {
-      "id": "ifdeef5d7",
-      "title": "업무스타일 때문에 부장한테 지적당한 사람",
-      "keywords": [
-        "업무스타일",
-        "부장한테"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.91,
-      "peak_score": 67.42,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 63,
-          "title": "업무스타일 때문에 부장한테 지적당한 사람",
-          "url": "https://theqoo.net/hot/4359546348",
-          "score": 59.42
+          "rank": 36,
+          "title": "일본 축구 평가전 편파판정에 빡친 베네수엘라",
+          "url": "https://www.clien.net/service/board/park/19271308?od=T31&po=0&category=0&groupCd=",
+          "score": 62.46
         },
         {
           "source": "인벤",
-          "rank": 70,
-          "title": "업무스타일 때문에 부장한테 지적당한사람",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733837",
-          "score": 57.57
+          "rank": 77,
+          "title": "일본 축구 평가전 편파판정에 빡친 베네수엘라",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734019",
+          "score": 54.89
         }
       ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-09-29T11:42:17.703423+09:00",
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "i7c5a08c3",
-      "title": "‘리마스터’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "리마스터"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.34,
-      "peak_score": 64.87,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 74,
-          "title": "서풍의 광시곡 리마스터 근황 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=gameforum&no=381549",
-          "score": 55.87
-        },
-        {
-          "source": "인벤",
-          "rank": 98,
-          "title": "위쳐3 리마스터 pc 시스템 요구 사양",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733764",
-          "score": 51.75
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-09-29T08:23:09.958029+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
+      "rank": 20,
+      "change": "NEW"
     }
   ]
 }
