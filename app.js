@@ -52,6 +52,11 @@ function postDetailUrl(url) {
   return "./post/?url=" + encodeURIComponent(url || "");
 }
 
+function sourcePageUrl(name) {
+  const slug = communitySlug[name];
+  return slug ? `./community/${slug}/` : "";
+}
+
 function currentPosts(){
   if (archiveData?.period === period && Array.isArray(archiveData.posts)) {
     return archiveData.posts;
@@ -261,6 +266,24 @@ function renderPortal(){
   renderCommunityChampions();
 }
 
+function renderSourceShortcutHealth(){
+  const statusMap = new Map((liveData?.sources || []).map(row => [row.source, row]));
+  document.querySelectorAll("[data-source-shortcut]").forEach(link => {
+    const name = link.dataset.sourceShortcut;
+    const status = statusMap.get(name);
+    link.classList.remove("source-unavailable", "source-cached");
+    link.removeAttribute("title");
+    if (!status) return;
+    if (status.cached && status.count > 0) {
+      link.classList.add("source-cached");
+      link.title = `${name} · 최근 정상 수집 캐시 사용 중`;
+    } else if (!status.ok || status.count <= 0) {
+      link.classList.add("source-unavailable");
+      link.title = `${name} · 현재 수집 점검 중`;
+    }
+  });
+}
+
 function render(){
   const posts = currentPosts();
   const filtered = posts
@@ -286,14 +309,17 @@ function render(){
       else if (Number(ch) < 0) changeHtml = '<span class="rank-change down">▼ '+Math.abs(Number(ch))+'</span>';
 
       const href = p.url && p.url !== "#" ? safeText(p.url) : "#";
-      const target = href === "#" ? "" : ' target="_blank" rel="noopener noreferrer"';
+      const detailHref = p.url && p.url !== "#" ? postDetailUrl(p.url) : "#";
+      const sourceHref = sourcePageUrl(p.source);
       return `
         <article class="rank-item">
           <div class="rank-num ${i < 3 ? "top" : ""}">${i+1}</div>
           <div>
-            <a class="post-title" href="${href}"${target}>${safeText(p.title)}</a>
+            <a class="post-title" href="${detailHref}">${safeText(p.title)}</a>
             <div class="meta">
-              <span class="source">${safeText(p.source)}</span>
+              ${sourceHref
+                ? `<a class="source source-link" href="${sourceHref}">${safeText(p.source)}</a>`
+                : `<span class="source">${safeText(p.source)}</span>`}
               <span class="category">${safeText(p.category || "이슈")}</span>
               ${period === "rising"
                 ? `<span class="delta hot-delta">+${Number(p.window_minutes || liveData?.rising_window_minutes || 30)}분</span>
@@ -304,7 +330,7 @@ function render(){
                 : `<span>조회 ${fmt(p.views)}</span>
                    <span>추천 ${fmt(p.likes)}</span>
                    <span>댓글 ${fmt(p.comments)}</span>`}
-              ${href !== "#" ? `<a class="analysis-link" href="${postDetailUrl(p.url)}">분석 보기</a>` : ""}
+              ${href !== "#" ? `<a class="outbound-link" href="${href}" target="_blank" rel="noopener noreferrer">원문 ↗</a>` : ""}
             </div>
           </div>
           ${changeHtml}
@@ -315,9 +341,13 @@ function render(){
   renderPortal();
 
   const activeDate = archiveData?.period === period ? new Date(archiveData.collected_at) : new Date(liveData?.collected_at || Date.now());
-  document.querySelector("#updatedAt").textContent = activeDate.toLocaleString("ko-KR", {
+  const ageMinutes = Math.max(0, Math.round((Date.now() - activeDate.getTime()) / 60000));
+  const updatedNode = document.querySelector("#updatedAt");
+  const exactTime = activeDate.toLocaleString("ko-KR", {
     month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
   });
+  updatedNode.textContent = ageMinutes < 1 ? exactTime + " · 방금 전" : exactTime + ` · ${ageMinutes}분 전`;
+  updatedNode.classList.toggle("stale", ageMinutes > 30 && !archiveData);
 
   const keywordBar = document.querySelector("#activeKeywordBar");
   keywordBar.hidden = !keyword;
@@ -327,6 +357,7 @@ function render(){
   renderKeywords();
   renderTopics();
   renderArchiveControls();
+  renderSourceShortcutHealth();
   updateUrl();
 }
 
