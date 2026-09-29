@@ -12,7 +12,7 @@ const RECENT_KEY="commurank_recent_posts_v1";
 const LAST_VISIT_KEY="commurank_my_last_visit_v1";
 const NOTIFY_KEY="commurank_interest_notify_v1";
 const NOTIFIED_COLLECTION_KEY="commurank_interest_notified_collection_v1";
-const SOURCES=["디시인사이드","더쿠","루리웹","클리앙","인벤","뽐뿌"];
+const SOURCES=["디시인사이드","에펨코리아","더쿠","루리웹","클리앙","인벤","뽐뿌"];
 
 let latest=null;
 let archiveData={};
