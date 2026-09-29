@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="커뮤랭크는 여러 커뮤니티의 공개 인기글 메타데이터를 한곳에 모아, 지금 인터넷에서 주목받는 이야기의 흐름을 빠르게 파악할 수 있게 하는 통합 랭킹 서비스입니다." />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="서비스 소개 | 커뮤랭크" />
+  <meta property="og:description" content="커뮤랭크는 여러 커뮤니티의 공개 인기글 메타데이터를 한곳에 모아, 지금 인터넷에서 주목받는 이야기의 흐름을 빠르게 파악할 수 있게 하는 통합 랭킹 서비스입니다." />
+  <meta property="og:url" content="https://commurank.kr/about/" />
+  <meta property="og:locale" content="ko_KR" />
+  <link rel="canonical" href="https://commurank.kr/about/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <title>서비스 소개 | 커뮤랭크</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="/" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="/search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+  <main>
+    <section class="shell info-hero">
+      <p class="eyebrow">ABOUT COMMURANK</p>
+      <h1>서비스 소개</h1>
+      <p>커뮤랭크는 여러 커뮤니티의 공개 인기글 메타데이터를 한곳에 모아, 지금 인터넷에서 주목받는 이야기의 흐름을 빠르게 파악할 수 있게 하는 통합 랭킹 서비스입니다.</p>
+    </section>
+    <section class="shell info-layout">
+      <div class="info-main"><section class="info-card"><h2>무엇을 제공하나요?</h2><p>실시간·급상승·일간·주간·월간 랭킹과 사이트별 전용 랭킹, 동시 화제 이슈, 키워드, 브리핑, 과거 아카이브를 제공합니다.</p><p>게시글 본문 전체를 복제하는 대신 제목, 공개 반응 지표, 출처, 원문 링크처럼 랭킹에 필요한 최소한의 정보 중심으로 구성합니다.</p></section>
+   <section class="info-card"><h2>현재 수집 대상</h2><p>디시인사이드, 에펨코리아, 더쿠, 루리웹, 클리앙, 인벤, 뽐뿌의 공개 인기글 영역을 대상으로 합니다.</p><div class="info-note">각 사이트의 접근 정책이나 화면 구조가 바뀌면 일부 소스가 일시적으로 ‘점검’ 또는 ‘캐시’ 상태로 표시될 수 있습니다.</div></section>
+   <section class="info-card"><h2>커뮤랭크의 방향</h2><ul><li>특정 커뮤니티의 절대 조회수만으로 전체 순위를 결정하지 않습니다.</li><li>각 사이트 내부 반응을 정규화해 규모 차이를 줄입니다.</li><li>원문 트래픽을 존중하며 사용자가 출처를 명확히 확인할 수 있도록 합니다.</li><li>수집 상태와 최근 업데이트 시각을 사이트에서 투명하게 표시합니다.</li></ul></section></div>
+      <aside class="info-side"><nav class="info-nav" aria-label="서비스 안내"><a href="/about/" class="active">서비스 소개</a><a href="/methodology/">랭킹 산정 방식</a><a href="/privacy/">개인정보</a><a href="/policy/">운영정책</a></nav></aside>
+    </section>
+  </main>
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>대한민국 커뮤니티 인기글 랭킹 아카이브</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+  <script src="/analytics.js"></script>
+  <script>
+    document.querySelector("#themeToggle").addEventListener("click",()=>{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")});
+    if(localStorage.getItem("commurank-theme")==="dark") document.body.classList.add("dark");
+  </script>
+</body>
+</html>
