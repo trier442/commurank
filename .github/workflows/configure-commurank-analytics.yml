@@ -1,0 +1,64 @@
+name: Configure Commurank Analytics
+
+on:
+  workflow_dispatch:
+    inputs:
+      ga4_id:
+        description: "GA4 Measurement ID (example: G-XXXXXXXXXX). Leave blank to disable analytics."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate and write config
+        env:
+          GA4_ID: ${{ inputs.ga4_id }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          ga4_id = os.environ.get("GA4_ID", "").strip().upper()
+          if ga4_id and not re.fullmatch(r"G-[A-Z0-9]+", ga4_id):
+              raise SystemExit("Invalid GA4 Measurement ID. Expected format: G-XXXXXXXXXX")
+
+          payload = {
+              "provider": "ga4",
+              "ga4_id": ga4_id,
+              "enabled": bool(ga4_id),
+              "note": (
+                  "GA4 analytics is enabled."
+                  if ga4_id
+                  else "Analytics is disabled. Run Configure Commurank Analytics to enable it."
+              ),
+          }
+          Path("analytics-config.json").write_text(
+              json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Commit analytics configuration
+        run: |
+          if git diff --quiet -- analytics-config.json; then
+            echo "No analytics configuration changes."
+            exit 0
+          fi
+          git config user.name "commurank-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add analytics-config.json
+          git commit -m "Configure Commurank analytics"
+          git pull --rebase origin main
+          git push
