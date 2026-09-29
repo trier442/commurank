@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-09-29T21:13:47.323580+09:00",
+  "collected_at": "2026-09-29T21:14:32.279076+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -28,17 +28,17 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 13,
+            "rank": 12,
             "title": "암살자들 한겨례 내로남불 레전드...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
             "score": 75.78
           },
           {
             "source": "더쿠",
-            "rank": 16,
+            "rank": 30,
             "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
             "url": "https://theqoo.net/hot/4360084476",
-            "score": 73.05
+            "score": 69.89
           }
         ],
         "rank": 1,
@@ -52,8 +52,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 64.76,
-        "peak_score": 64.76,
+        "score": 64.88,
+        "peak_score": 64.88,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -62,21 +62,21 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 72,
+            "rank": 74,
             "title": "“창신메모리에 기술 넘기자 토사구팽”…전 삼성맨 초라한 말로",
             "url": "https://www.clien.net/service/board/park/19271398?od=T31&po=0&category=0&groupCd=",
-            "score": 55.76
+            "score": 55.88
           },
           {
             "source": "루리웹",
-            "rank": 82,
+            "rank": 90,
             "title": "기술 유출 진심으로 사과하고 싶다는 전 삼성맨",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/76849215?m=humor_only&t=now",
-            "score": 53.85
+            "score": 52.33
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "daily": [
@@ -176,6 +176,46 @@
         "change": 0
       },
       {
+        "id": "i106465f0",
+        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자들"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 116.78,
+        "peak_score": 100.05,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "암살자들 한겨례 내로남불 레전드...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "score": 75.78
+          },
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
+            "url": "https://theqoo.net/hot/4360084476",
+            "score": 69.89
+          }
+        ],
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-09-29T21:14:32.279076+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 3,
+        "change": 1
+      },
+      {
         "id": "i0c93084d",
         "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
         "keywords": [
@@ -213,48 +253,8 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i106465f0",
-        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자들"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 116.01,
-        "peak_score": 100.05,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "암살자들 한겨례 내로남불 레전드...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "score": 75.78
-          },
-          {
-            "source": "더쿠",
-            "rank": 16,
-            "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
-            "url": "https://theqoo.net/hot/4360084476",
-            "score": 73.05
-          }
-        ],
-        "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-09-29T21:13:47.323580+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 4,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -984,6 +984,46 @@
         "change": 0
       },
       {
+        "id": "i106465f0",
+        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자들"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 116.78,
+        "peak_score": 100.05,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "암살자들 한겨례 내로남불 레전드...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "score": 75.78
+          },
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
+            "url": "https://theqoo.net/hot/4360084476",
+            "score": 69.89
+          }
+        ],
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-09-29T21:14:32.279076+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 3,
+        "change": 1
+      },
+      {
         "id": "i0c93084d",
         "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
         "keywords": [
@@ -1021,48 +1061,8 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i106465f0",
-        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자들"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 116.01,
-        "peak_score": 100.05,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "암살자들 한겨례 내로남불 레전드...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "score": 75.78
-          },
-          {
-            "source": "더쿠",
-            "rank": 16,
-            "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
-            "url": "https://theqoo.net/hot/4360084476",
-            "score": 73.05
-          }
-        ],
-        "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-09-29T21:13:47.323580+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 4,
-        "change": 0
+        "change": -1
       },
       {
         "id": "ia99bde06",
@@ -1962,9 +1962,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 118.04,
+        "score": 118.56,
         "peak_score": 100.05,
-        "appearances": 8,
+        "appearances": 9,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1975,21 +1975,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 13,
+            "rank": 12,
             "title": "암살자들 한겨례 내로남불 레전드...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
             "score": 75.78
           },
           {
             "source": "더쿠",
-            "rank": 16,
+            "rank": 30,
             "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
             "url": "https://theqoo.net/hot/4360084476",
-            "score": 73.05
+            "score": 69.89
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-09-29T21:13:47.323580+09:00",
+        "last_seen": "2026-09-29T21:14:32.279076+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 7,

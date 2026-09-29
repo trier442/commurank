@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="오늘과 과거 날짜별 커뮤니티 인기글 TOP100" />
+  <meta property="og:site_name" content="커뮤랭크" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="일간 인기글 아카이브 | 커뮤랭크" />
+  <meta property="og:description" content="오늘과 과거 날짜별 커뮤니티 인기글 TOP100" />
+  <meta property="og:url" content="https://commurank.kr/ranking/daily/" />
+  <meta property="og:locale" content="ko_KR" />
+  <link rel="canonical" href="https://commurank.kr/ranking/daily/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <title>일간 인기글 아카이브 | 커뮤랭크</title>
+  <link rel="stylesheet" href="/styles.css" />
+  
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell search-header">
+      <a class="brand" href="/" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span><strong>커뮤랭크</strong><small>COMMURANK</small></span>
+      </a>
+      <form class="global-search global-search-wide" action="/search/" method="get" role="search">
+        <input type="search" name="q" autocomplete="off" placeholder="게시글·키워드·커뮤니티 검색" />
+        <button type="submit">검색</button>
+      </form>
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+  <main>
+    <section class="shell info-hero">
+      <p class="eyebrow">COMMURANK ARCHIVE</p>
+      <h1>일간 인기글 아카이브</h1>
+      <p>오늘과 과거 날짜별 커뮤니티 인기글 TOP100. 날짜별 순위를 남겨 과거에 어떤 글이 화제가 되었는지 다시 확인할 수 있습니다.</p>
+    </section>
+    <section class="shell info-layout">
+      <div class="info-main">
+        <section class="info-card">
+          <h2>일간 순위 목록</h2>
+          <div class="archive-index-list"><a class="archive-index-row" href="/ranking/daily/2026-09-29/"><strong>2026년 09월 29일</strong><span>TOP100 보기 →</span></a><a class="archive-index-row" href="/ranking/daily/2026-09-28/"><strong>2026년 09월 28일</strong><span>TOP100 보기 →</span></a><a class="archive-index-row" href="/ranking/daily/2026-09-27/"><strong>2026년 09월 27일</strong><span>TOP100 보기 →</span></a></div>
+        </section>
+      </div>
+      <aside class="info-side">
+        <nav class="info-nav">
+          <a href="/ranking/daily/" class="active">일간</a>
+          <a href="/ranking/weekly/">주간</a>
+          <a href="/ranking/monthly/">월간</a>
+          <a href="/">현재 랭킹</a>
+        </nav>
+      </aside>
+    </section>
+    </main>
+  <footer>
+    <div class="shell footer-inner">
+      <div><strong>커뮤랭크</strong><p>대한민국 커뮤니티 인기글 랭킹 아카이브</p></div>
+      <p>원문은 각 커뮤니티에서 확인합니다.</p>
+    </div>
+  </footer>
+  <script src="/analytics.js"></script>
+  <script>
+    document.querySelector("#themeToggle").addEventListener("click",()=>{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")});
+    if(localStorage.getItem("commurank-theme")==="dark") document.body.classList.add("dark");
+  </script>
+</body>
+</html>
