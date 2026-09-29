@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 RANKING = ROOT / "ranking"
 ARCHIVE_INDEX = DATA / "archive-index.json"
+LATEST_PATH = DATA / "latest.json"
 BASE = "https://commurank.kr"
 
 PERIODS = {
@@ -65,6 +66,7 @@ def page_shell(title: str, description: str, canonical: str, body: str, structur
   <link rel="canonical" href="{esc(canonical)}" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="alternate" type="application/rss+xml" title="커뮤랭크 실시간 인기글 RSS" href="/feed.xml" />
   <title>{esc(title)}</title>
   <link rel="stylesheet" href="/styles.css" />
   {ld}
@@ -240,6 +242,48 @@ def root_index(index: dict) -> str:
     return page_shell("커뮤니티 인기글 랭킹 아카이브 | 커뮤랭크", "일간·주간·월간 커뮤니티 인기글 TOP100 과거 순위 아카이브", f"{BASE}/ranking/", body, structured)
 
 
+
+def write_feed(latest: dict) -> None:
+    posts = latest.get("rankings", {}).get("realtime", [])[:30] if isinstance(latest, dict) else []
+    collected_at = str(latest.get("collected_at", "")) if isinstance(latest, dict) else ""
+    try:
+        stamp = datetime.fromisoformat(collected_at)
+        pub_date = stamp.strftime("%a, %d %b %Y %H:%M:%S %z")
+    except Exception:
+        pub_date = datetime.now().astimezone().strftime("%a, %d %b %Y %H:%M:%S %z")
+
+    rows = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0">',
+        '<channel>',
+        '<title>커뮤랭크 실시간 인기글</title>',
+        f'<link>{BASE}/</link>',
+        '<description>여러 커뮤니티의 실시간 인기글 TOP30</description>',
+        '<language>ko</language>',
+        f'<lastBuildDate>{esc(pub_date)}</lastBuildDate>',
+    ]
+
+    for p in posts:
+        original = str(p.get("url") or "")
+        detail = f"{BASE}/post/?url=" + quote(original, safe="")
+        summary = (
+            f"{p.get('source','')} · 조회 {fmt_number(p.get('views'))} · "
+            f"추천 {fmt_number(p.get('likes'))} · 댓글 {fmt_number(p.get('comments'))}"
+        )
+        rows.extend([
+            '<item>',
+            f'<title>{esc(p.get("title"))}</title>',
+            f'<link>{esc(detail)}</link>',
+            f'<guid isPermaLink="false">{esc(original)}</guid>',
+            f'<description>{esc(summary)}</description>',
+            f'<pubDate>{esc(pub_date)}</pubDate>',
+            '</item>',
+        ])
+
+    rows.extend(['</channel>', '</rss>'])
+    (ROOT / "feed.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
+
+
 def write_sitemap(index: dict) -> None:
     static = [
         ("/", "hourly", "1.0"),
@@ -253,6 +297,7 @@ def write_sitemap(index: dict) -> None:
         ("/methodology/", "monthly", "0.7"),
         ("/privacy/", "monthly", "0.4"),
         ("/policy/", "monthly", "0.5"),
+        ("/status/", "hourly", "0.5"),
     ]
     for slug in COMMUNITIES:
         static.append((f"/community/{slug}/", "hourly", "0.8"))
@@ -278,6 +323,7 @@ def write_sitemap(index: dict) -> None:
 
 def main() -> None:
     index = read_json(ARCHIVE_INDEX, {"periods": {}})
+    latest = read_json(LATEST_PATH, {})
     RANKING.mkdir(parents=True, exist_ok=True)
     (RANKING / "index.html").write_text(root_index(index), encoding="utf-8")
 
@@ -295,7 +341,8 @@ def main() -> None:
             (out_dir / "index.html").write_text(archive_page(period, item, snap), encoding="utf-8")
 
     write_sitemap(index)
-    print("SEO ranking pages and sitemap updated.")
+    write_feed(latest)
+    print("SEO ranking pages, sitemap, and RSS feed updated.")
 
 
 if __name__ == "__main__":
