@@ -304,6 +304,7 @@ function render(){
                 : `<span>조회 ${fmt(p.views)}</span>
                    <span>추천 ${fmt(p.likes)}</span>
                    <span>댓글 ${fmt(p.comments)}</span>`}
+              ${href !== "#" ? `<a class="analysis-link" href="${postDetailUrl(p.url)}">분석 보기</a>` : ""}
             </div>
           </div>
           ${changeHtml}
