@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-29T17:24:25.017696+09:00",
+  "collected_at": "2026-09-29T17:26:15.303692+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -312,9 +312,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 114.1,
+      "score": 115.01,
       "peak_score": 100.05,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -327,21 +327,59 @@
           "rank": 4,
           "title": "진중권의 영화 암살자들 3줄평",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
-          "score": 92.05
+          "score": 89.48
         },
         {
           "source": "클리앙",
-          "rank": 69,
+          "rank": 75,
           "title": "암살자들 영화 질문드립니다",
           "url": "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd=",
-          "score": 56.36
+          "score": 55.8
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
+      "change": 0
+    },
+    {
+      "id": "id96d25c0",
+      "title": "‘dmz’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "dmz"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.93,
+      "peak_score": 105.46,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "DMZ) 북한 지뢰 고의성 판단해야.JPG",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76843180?m=humor",
+          "score": 96.46
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 12,
+          "title": "軍, DMZ 3일차 현장조사서 北 수지 반보병지뢰 1발 발견",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466695&_dcbest=1&page=1",
+          "score": 72.36
+        }
+      ],
+      "first_seen": "2026-09-29T17:26:15.303692+09:00",
+      "last_seen": "2026-09-29T17:26:15.303692+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
@@ -382,7 +420,7 @@
       "last_seen": "2026-09-28T13:04:57.705093+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 10,
       "change": -1
     },
     {
@@ -422,8 +460,8 @@
       "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i09667a01",
@@ -461,8 +499,55 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 12,
+      "change": -1
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 110.12,
+      "peak_score": 89.16,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "속보) 안세영 승률 업데이트",
+          "url": "https://theqoo.net/hot/4359965130",
+          "score": 67.37
+        },
+        {
+          "source": "클리앙",
+          "rank": 23,
+          "title": "안세영 ㄷㄷㄷ",
+          "url": "https://www.clien.net/service/board/park/19271303?od=T31&po=0&category=0&groupCd=",
+          "score": 66.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 29,
+          "title": "아시안게임 여단 안세영 우승!금메달. 여단 최초의 2연패 짤많음!!!!!",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466694&_dcbest=1&page=1",
+          "score": 64.04
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-29T17:26:15.303692+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 13,
+      "change": 0
     },
     {
       "id": "i0c1846a6",
@@ -499,69 +584,22 @@
       "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
+      "rank": 14,
       "change": -2
-    },
-    {
-      "id": "i23a285e5",
-      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안세영"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 109.21,
-      "peak_score": 89.16,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 20,
-          "title": "속보) 안세영 승률 업데이트",
-          "url": "https://theqoo.net/hot/4359965130",
-          "score": 67.37
-        },
-        {
-          "source": "클리앙",
-          "rank": 22,
-          "title": "안세영 ㄷㄷㄷ",
-          "url": "https://www.clien.net/service/board/park/19271303?od=T31&po=0&category=0&groupCd=",
-          "score": 65.75
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 29,
-          "title": "아시안게임 여단 안세영 우승!금메달. 여단 최초의 2연패 짤많음!!!!!",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466694&_dcbest=1&page=1",
-          "score": 64.04
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-29T17:24:25.017696+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
-      "rank": 13,
-      "change": 0
     },
     {
       "id": "i8b4085e0",
       "title": "[2026 아시안게임] 배드민턴 여자 단식 안세영 금메달🏸🥇🥇🇰🇷",
       "keywords": [
         "아시안게임",
-        "금메달",
-        "안세영"
+        "안세영",
+        "금메달"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 108.42,
+      "score": 109.01,
       "peak_score": 91.02,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -572,7 +610,7 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 25,
+          "rank": 26,
           "title": "[2026 아시안게임] 배드민턴 여자 단식 안세영 금메달🏸🥇🥇🇰🇷",
           "url": "https://theqoo.net/hot/4359943379",
           "score": 64.74
@@ -586,11 +624,11 @@
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -3
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i74cea219",
@@ -646,8 +684,8 @@
       "last_seen": "2026-09-27T20:23:34.525151+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 15,
-      "change": -3
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i78f6419e",
@@ -657,9 +695,9 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 101.57,
+      "score": 102.34,
       "peak_score": 84.61,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -670,24 +708,24 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 17,
+          "rank": 18,
           "title": "[단독] '암살자(들)' 단체관람한 LH·국토안전관리원, 제대군인지원센터",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466683&_dcbest=1&page=1",
-          "score": 68.65
+          "score": 68.92
         },
         {
           "source": "클리앙",
           "rank": 51,
           "title": "영화 암살자.....이영애 인스타 극우들 난리남 ㅋㅋㅋ",
           "url": "https://www.clien.net/service/board/park/19271313?od=T31&po=0&category=0&groupCd=",
-          "score": 60.1
+          "score": 60.11
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -1
     },
     {
@@ -725,8 +763,8 @@
       "last_seen": "2026-09-28T19:49:36.308484+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -3
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i707041a3",
@@ -764,8 +802,8 @@
       "last_seen": "2026-09-27T23:49:45.340258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 18,
-      "change": -2
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i5781c296",
@@ -802,46 +840,8 @@
       "last_seen": "2026-09-27T20:23:34.525151+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "ibe79202d",
-      "title": "‘편의점’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "편의점"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.93,
-      "peak_score": 87.0,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "싱글벙글 폐급 편의점 알바 레전드",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466230&_dcbest=1&page=1",
-          "score": 76.75
-        },
-        {
-          "source": "클리앙",
-          "rank": 35,
-          "title": "편의점 빵을 구매한게 얼마만인지...",
-          "url": "https://www.clien.net/service/board/park/19270308?od=T31&po=0&category=0&groupCd=",
-          "score": 63.34
-        }
-      ],
-      "first_seen": "2026-09-27T18:48:24.519744+09:00",
-      "last_seen": "2026-09-27T18:50:26.658953+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }
