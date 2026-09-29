@@ -23,7 +23,7 @@ function timeText(value){
   const d=new Date(value);
   return d.toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});
 }
-function postUrl(url){ return "../post/?url="+encodeURIComponent(url||""); }
+function postUrl(url){ return safeText(url||"#"); }
 function issueUrl(id){ return "../issue/?id="+encodeURIComponent(id||""); }
 
 function renderHighlights(){
@@ -46,7 +46,7 @@ function renderPosts(){
     <article class="brief-list-row">
       <span class="brief-rank">${i+1}</span>
       <div>
-        <a href="${postUrl(p.url)}">${safeText(p.title)}</a>
+        <a href="${postUrl(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
         <small>${safeText(p.source)} · 조회 ${fmt(p.views)} · 댓글 ${fmt(p.comments)}</small>
       </div>
     </article>`).join(""):'<div class="empty">데이터가 없습니다.</div>';
@@ -57,7 +57,7 @@ function renderRising(){
     <article class="brief-list-row">
       <span class="brief-rank hot">${i+1}</span>
       <div>
-        <a href="${postUrl(p.url)}">${safeText(p.title)}</a>
+        <a href="${postUrl(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
         <small>${safeText(p.source)} · +조회 ${fmt(p.delta_views)} · +댓글 ${fmt(p.delta_comments)}</small>
       </div>
     </article>`).join(""):'<div class="empty">데이터가 없습니다.</div>';
