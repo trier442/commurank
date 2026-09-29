@@ -1,6 +1,47 @@
 {
   "version": 1,
   "issues": {
+    "i158e0524": {
+      "id": "i158e0524",
+      "first_seen": "2026-09-29T22:07:42.407958+09:00",
+      "last_seen": "2026-09-29T22:07:42.407958+09:00",
+      "title": "‘내년에’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "내년에"
+      ],
+      "points": [
+        {
+          "at": "2026-09-29T22:07:42.407958+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 81.86,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978258",
+            "https://www.inven.co.kr/board/webzine/2097/2734099"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 13,
+          "title": "내년에 현대자동차 가격 엄청 내릴겁니다.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978258",
+          "score": 72.86
+        },
+        {
+          "source": "인벤",
+          "rank": 48,
+          "title": "내년에 나오는 극장판 신세기GPX 사이버 포뮬러 신작",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734099",
+          "score": 61.35
+        }
+      ]
+    },
     "i106465f0": {
       "id": "i106465f0",
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
@@ -5234,5 +5275,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-29T21:42:02.338620+09:00"
+  "updated_at": "2026-09-29T22:07:42.407958+09:00"
 }
