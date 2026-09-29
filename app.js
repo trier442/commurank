@@ -49,7 +49,7 @@ function safeText(value) {
 }
 
 function postDetailUrl(url) {
-  return "./post/?url=" + encodeURIComponent(url || "");
+  return safeText(url || "#");
 }
 
 function sourcePageUrl(name) {
@@ -309,13 +309,13 @@ function render(){
       else if (Number(ch) < 0) changeHtml = '<span class="rank-change down">▼ '+Math.abs(Number(ch))+'</span>';
 
       const href = p.url && p.url !== "#" ? safeText(p.url) : "#";
-      const detailHref = p.url && p.url !== "#" ? postDetailUrl(p.url) : "#";
+      const analysisHref = p.url && p.url !== "#" ? "./post/?url=" + encodeURIComponent(p.url) : "#";
       const sourceHref = sourcePageUrl(p.source);
       return `
         <article class="rank-item">
           <div class="rank-num ${i < 3 ? "top" : ""}">${i+1}</div>
           <div>
-            <a class="post-title" href="${detailHref}">${safeText(p.title)}</a>
+            <a class="post-title" href="${href}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
             <div class="meta">
               ${sourceHref
                 ? `<a class="source source-link" href="${sourceHref}">${safeText(p.source)}</a>`
@@ -330,7 +330,7 @@ function render(){
                 : `<span>조회 ${fmt(p.views)}</span>
                    <span>추천 ${fmt(p.likes)}</span>
                    <span>댓글 ${fmt(p.comments)}</span>`}
-              ${href !== "#" ? `<a class="outbound-link" href="${href}" target="_blank" rel="noopener noreferrer">원문 ↗</a>` : ""}
+              ${analysisHref !== "#" ? `<a class="analysis-link" href="${analysisHref}">분석 보기</a>` : ""}
             </div>
           </div>
           ${changeHtml}
