@@ -2347,3 +2347,39 @@ select:focus-visible {
     width: 100%;
   }
 }
+
+
+/* 2026-09 launch polish */
+.analysis-link {
+  color: var(--brand);
+  font-weight: 850;
+  text-decoration: none;
+}
+.analysis-link:hover { text-decoration: underline; }
+
+@media (min-width: 901px) and (max-width: 1180px) {
+  .header-inner {
+    grid-template-columns: max-content minmax(0, 1fr) max-content;
+    gap: 12px;
+  }
+  .top-nav {
+    min-width: 0;
+    overflow-x: auto;
+    justify-content: flex-start;
+    scrollbar-width: none;
+  }
+  .top-nav::-webkit-scrollbar { display: none; }
+  .nav-item {
+    flex: 0 0 auto;
+    padding: 9px 10px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  .header-actions { gap: 6px; }
+  .global-search:not(.global-search-wide) {
+    width: 40px;
+    flex: 0 0 40px;
+  }
+  .global-search:not(.global-search-wide) input { display: none; }
+  .global-search:not(.global-search-wide) button { width: 40px; }
+}
