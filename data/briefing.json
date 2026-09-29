@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-09-29",
   "label": "2026년 09월 29일",
-  "collected_at": "2026-09-29T21:16:27.812092+09:00",
+  "collected_at": "2026-09-29T21:40:10.407251+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘유튜버 닛몰캐쉬 전여친 폭로’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 17,
-    "top100_views": 918398,
-    "top100_comments": 12259
+    "keywords": 11,
+    "top100_views": 876757,
+    "top100_comments": 11007
   },
   "highlights": [
     {
@@ -25,46 +25,75 @@
     },
     {
       "type": "post",
-      "title": "비천어검류 계승자 중 켄신만 유명한 이유",
+      "title": "BYD발작버튼 누른 유튜버 근황",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76846489?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76845583?m=humor"
     },
     {
       "type": "keyword",
       "title": "#한국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "text": "2개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
       "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "BYD발작버튼 누른 유튜버 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76845583?m=humor",
+      "first_seen": "2026-09-29T21:13:47.323580+09:00",
+      "last_seen": "2026-09-29T21:40:10.407251+09:00",
+      "peak_score": 98.52,
+      "max_views": 26975,
+      "max_likes": 154,
+      "max_comments": 113,
+      "appearances": 3,
+      "daily_stats": {
+        "2026-09-29": {
+          "max_score": 98.52,
+          "max_views": 26975,
+          "max_likes": 154,
+          "max_comments": 113,
+          "appearances": 3,
+          "last_seen": "2026-09-29T21:40:10.407251+09:00"
+        }
+      },
+      "score": 109.57,
+      "views": 26975,
+      "likes": 154,
+      "comments": 113,
+      "active_days": 1,
+      "change": 5
+    },
     {
       "title": "비천어검류 계승자 중 켄신만 유명한 이유",
       "source": "루리웹",
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/76846489?m=humor",
       "first_seen": "2026-09-29T20:27:19.824549+09:00",
-      "last_seen": "2026-09-29T21:14:32.279076+09:00",
+      "last_seen": "2026-09-29T21:40:10.407251+09:00",
       "peak_score": 98.12,
       "max_views": 23421,
       "max_likes": 221,
       "max_comments": 114,
-      "appearances": 2,
+      "appearances": 3,
       "daily_stats": {
         "2026-09-29": {
           "max_score": 98.12,
           "max_views": 23421,
           "max_likes": 221,
           "max_comments": 114,
-          "appearances": 2,
-          "last_seen": "2026-09-29T21:14:32.279076+09:00"
+          "appearances": 3,
+          "last_seen": "2026-09-29T21:40:10.407251+09:00"
         }
       },
-      "score": 108.53,
+      "score": 109.17,
       "views": 23421,
       "likes": 221,
       "comments": 114,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "요즘 한국 기독교쪽 신앙생활 트랜드",
@@ -78,12 +107,12 @@
       "max_likes": 186,
       "max_comments": 95,
       "appearances": 1,
-      "score": 108.37,
+      "score": 108.34,
       "views": 24258,
       "likes": 186,
       "comments": 95,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "요즘 대학생들보고 대한민국이 망했다고 느낌.blind",
@@ -107,12 +136,12 @@
           "last_seen": "2026-09-29T21:13:47.323580+09:00"
         }
       },
-      "score": 108.12,
+      "score": 108.09,
       "views": 24014,
       "likes": 148,
       "comments": 103,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "유튜버 닛몰캐쉬 전여친 폭로",
@@ -126,12 +155,12 @@
       "max_likes": 139,
       "max_comments": 79,
       "appearances": 1,
-      "score": 107.69,
+      "score": 107.65,
       "views": 32095,
       "likes": 139,
       "comments": 79,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "썸녀한테 전여친 이야기 하지마라",
@@ -155,39 +184,10 @@
           "last_seen": "2026-09-29T21:16:27.812092+09:00"
         }
       },
-      "score": 107.51,
+      "score": 107.48,
       "views": 18152,
       "likes": 131,
       "comments": 77,
-      "active_days": 1,
-      "change": 11
-    },
-    {
-      "title": "BYD발작버튼 누른 유튜버 근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76845583?m=humor",
-      "first_seen": "2026-09-29T21:13:47.323580+09:00",
-      "last_seen": "2026-09-29T21:16:27.812092+09:00",
-      "peak_score": 97.02,
-      "max_views": 26975,
-      "max_likes": 154,
-      "max_comments": 113,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-09-29": {
-          "max_score": 97.02,
-          "max_views": 26975,
-          "max_likes": 154,
-          "max_comments": 113,
-          "appearances": 2,
-          "last_seen": "2026-09-29T21:16:27.812092+09:00"
-        }
-      },
-      "score": 107.44,
-      "views": 26975,
-      "likes": 154,
-      "comments": 113,
       "active_days": 1,
       "change": -1
     },
@@ -203,12 +203,12 @@
       "max_likes": 99,
       "max_comments": 149,
       "appearances": 1,
-      "score": 106.44,
+      "score": 106.4,
       "views": 18801,
       "likes": 99,
       "comments": 149,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "결혼 공지 글에 식대 올리는 사람",
@@ -222,12 +222,12 @@
       "max_likes": 109,
       "max_comments": 94,
       "appearances": 1,
-      "score": 106.05,
+      "score": 106.02,
       "views": 29042,
       "likes": 109,
       "comments": 94,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "'안 달아서 맛있어요'라는 평가 나오는 디저트 특",
@@ -241,12 +241,12 @@
       "max_likes": 118,
       "max_comments": 83,
       "appearances": 1,
-      "score": 106.02,
+      "score": 105.99,
       "views": 27636,
       "likes": 118,
       "comments": 83,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "대한민국 웹툰계에 한 획을 제대로 그린 한 컷",
@@ -270,214 +270,214 @@
           "last_seen": "2026-09-29T21:14:32.279076+09:00"
         }
       },
-      "score": 105.98,
+      "score": 105.95,
       "views": 13384,
       "likes": 67,
       "comments": 86,
       "active_days": 1,
-      "change": -1
+      "change": 0
     }
   ],
   "rising": [
-    {
-      "source": "클리앙",
-      "title": "꽤 혁신적인 아이디어 같습니다",
-      "url": "https://www.clien.net/service/board/park/19271419?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2327,
-      "likes": 2,
-      "comments": 17,
-      "score": 70.77,
-      "change": 0,
-      "current_rank": 23,
-      "new_entry": false,
-      "delta_views": 104,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 96.15,
-      "rising_rank": 1,
-      "window_minutes": 2
-    },
     {
       "source": "인벤",
       "title": "AI로 만든 AI 기업 상황",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734104",
       "category": "유머",
-      "views": 635,
+      "views": 1695,
       "likes": 0,
-      "comments": 6,
-      "score": 67.52,
-      "change": 10,
-      "current_rank": 38,
+      "comments": 13,
+      "score": 78.41,
+      "change": 31,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 116,
+      "delta_views": 1060,
       "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 10,
-      "rising_score": 95.57,
-      "rising_rank": 2,
-      "window_minutes": 2
+      "delta_comments": 7,
+      "rank_gain": 31,
+      "rising_score": 94.68,
+      "rising_rank": 1,
+      "window_minutes": 24
     },
     {
       "source": "더쿠",
       "title": "\"세계 9위 한국을 화나게 했다\"…우크라 내부 '자충수' 직격",
       "url": "https://theqoo.net/hot/4360185632",
       "category": "이슈",
-      "views": 6149,
+      "views": 16962,
       "likes": 0,
-      "comments": 69,
-      "score": 61.0,
-      "change": 0,
-      "current_rank": 54,
+      "comments": 197,
+      "score": 63.53,
+      "change": 12,
+      "current_rank": 42,
       "new_entry": false,
-      "delta_views": 1479,
+      "delta_views": 10813,
       "delta_likes": 0,
-      "delta_comments": 13,
+      "delta_comments": 128,
+      "rank_gain": 12,
+      "rising_score": 94.58,
+      "rising_rank": 2,
+      "window_minutes": 24
+    },
+    {
+      "source": "클리앙",
+      "title": "꽤 혁신적인 아이디어 같습니다",
+      "url": "https://www.clien.net/service/board/park/19271419?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3285,
+      "likes": 3,
+      "comments": 20,
+      "score": 68.28,
+      "change": 0,
+      "current_rank": 27,
+      "new_entry": false,
+      "delta_views": 958,
+      "delta_likes": 1,
+      "delta_comments": 3,
       "rank_gain": 0,
-      "rising_score": 94.83,
+      "rising_score": 90.56,
       "rising_rank": 3,
-      "window_minutes": 2
+      "window_minutes": 24
     },
     {
       "source": "디시인사이드",
-      "title": "켄타로 부부싸움 해서 와이프가 경찰신고해서 신문에 났대",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466758&_dcbest=1&page=1",
+      "title": "단독] 지방 이전하랬더니…청년 주택 후보지에 '알박기'?",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466762&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 3093,
-      "likes": 2,
-      "comments": 34,
-      "score": 60.09,
-      "change": 0,
-      "current_rank": 60,
+      "views": 3002,
+      "likes": 18,
+      "comments": 30,
+      "score": 62.81,
+      "change": 9,
+      "current_rank": 47,
       "new_entry": false,
-      "delta_views": 170,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 90.74,
+      "delta_views": 2121,
+      "delta_likes": 15,
+      "delta_comments": 24,
+      "rank_gain": 9,
+      "rising_score": 87.94,
       "rising_rank": 4,
-      "window_minutes": 2
+      "window_minutes": 24
+    },
+    {
+      "source": "클리앙",
+      "title": "우리 클리앙이 전체적으로 보수화되어 가는 거 같네요 거기에 빈댓글도 ...",
+      "url": "https://www.clien.net/service/board/park/19271423?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1983,
+      "likes": 2,
+      "comments": 51,
+      "score": 70.53,
+      "change": 0,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 863,
+      "delta_likes": 0,
+      "delta_comments": 31,
+      "rank_gain": 0,
+      "rising_score": 87.69,
+      "rising_rank": 5,
+      "window_minutes": 24
     },
     {
       "source": "인벤",
-      "title": "혐)고릴라 상대로 ㅍ라하는 사육사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734072",
+      "title": "대학생 조카가 자꾸 안일어남",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734091",
       "category": "이슈",
-      "views": 4494,
+      "views": 3336,
       "likes": 0,
-      "comments": 17,
-      "score": 55.47,
+      "comments": 25,
+      "score": 72.64,
       "change": 0,
-      "current_rank": 77,
+      "current_rank": 15,
       "new_entry": false,
-      "delta_views": 92,
+      "delta_views": 920,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 6,
       "rank_gain": 0,
-      "rising_score": 89.58,
-      "rising_rank": 5,
-      "window_minutes": 2
-    },
-    {
-      "source": "루리웹",
-      "title": "???:국내산이 비싸면 수입산 먹어",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76849360?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 2149,
-      "likes": 33,
-      "comments": 14,
-      "score": 68.39,
-      "change": 40,
-      "current_rank": 32,
-      "new_entry": false,
-      "delta_views": 1994,
-      "delta_likes": 27,
-      "delta_comments": 8,
-      "rank_gain": 40,
-      "rising_score": 87.97,
+      "rising_score": 85.2,
       "rising_rank": 6,
-      "window_minutes": 2
-    },
-    {
-      "source": "디시인사이드",
-      "title": "배그부부 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466752&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8760,
-      "likes": 11,
-      "comments": 113,
-      "score": 68.31,
-      "change": 1,
-      "current_rank": 34,
-      "new_entry": false,
-      "delta_views": 214,
-      "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 1,
-      "rising_score": 83.81,
-      "rising_rank": 7,
-      "window_minutes": 2
-    },
-    {
-      "source": "디시인사이드",
-      "title": "“동의했다”던 교사, 제자 상대 성범죄 23건 드러나",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466760&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 1493,
-      "likes": 5,
-      "comments": 60,
-      "score": 61.47,
-      "change": 0,
-      "current_rank": 53,
-      "new_entry": false,
-      "delta_views": 154,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 8,
-      "window_minutes": 2
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한국에서는 상상하기 힘든 일본의 혼술 문화.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466748&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 10004,
-      "likes": 22,
-      "comments": 162,
-      "score": 72.07,
-      "change": 0,
-      "current_rank": 18,
-      "new_entry": false,
-      "delta_views": 150,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 9,
-      "window_minutes": 2
+      "window_minutes": 24
     },
     {
       "source": "루리웹",
-      "title": "BYD발작버튼 누른 유튜버 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76845583?m=humor",
-      "category": "이슈",
-      "views": 26975,
-      "likes": 154,
-      "comments": 113,
-      "score": 97.02,
+      "title": "플스에서 PC로 갈아탄 천솜향 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76846549?m=humor",
+      "category": "게임",
+      "views": 25948,
+      "likes": 151,
+      "comments": 77,
+      "score": 95.32,
       "change": "NEW",
-      "current_rank": 1,
+      "current_rank": 2,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.75,
+      "rising_score": 82.03,
+      "rising_rank": 7,
+      "window_minutes": 24
+    },
+    {
+      "source": "루리웹",
+      "title": "비천어검류 계승자 중 켄신만 유명한 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76846489?m=humor",
+      "category": "이슈",
+      "views": 23421,
+      "likes": 221,
+      "comments": 114,
+      "score": 94.66,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.76,
+      "rising_rank": 8,
+      "window_minutes": 24
+    },
+    {
+      "source": "디시인사이드",
+      "title": "요즘 오타쿠문화가 망했다는 일본인들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466764&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17429,
+      "likes": 94,
+      "comments": 360,
+      "score": 93.44,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.24,
+      "rising_rank": 9,
+      "window_minutes": 24
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 포켓몬과 결혼하고싶던 사나이",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466754&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 6574,
+      "likes": 45,
+      "comments": 71,
+      "score": 68.01,
+      "change": 13,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 1400,
+      "delta_likes": 9,
+      "delta_comments": 14,
+      "rank_gain": 13,
+      "rising_score": 77.22,
       "rising_rank": 10,
-      "window_minutes": 2
+      "window_minutes": 24
     }
   ],
   "issues": [
@@ -584,9 +584,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 117.45,
+      "score": 118.04,
       "peak_score": 100.05,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -599,18 +599,18 @@
           "rank": 12,
           "title": "암살자들 한겨례 내로남불 레전드...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-          "score": 75.78
+          "score": 74.1
         },
         {
           "source": "더쿠",
-          "rank": 28,
+          "rank": 64,
           "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
           "url": "https://theqoo.net/hot/4360084476",
-          "score": 69.89
+          "score": 59.42
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-09-29T21:16:27.812092+09:00",
+      "last_seen": "2026-09-29T21:40:10.407251+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
@@ -913,8 +913,8 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 85.78,
-      "peak_score": 85.78,
+      "score": 84.1,
+      "peak_score": 84.1,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -926,88 +926,247 @@
           "rank": 12,
           "title": "암살자들 한겨례 내로남불 레전드...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-          "score": 75.78
+          "score": 74.1
         },
         {
           "source": "더쿠",
-          "rank": 28,
+          "rank": 64,
           "title": "이동진의 파이아키아, 단군, 지무비, 최태성 유튜브 암살자들 영상 내림",
           "url": "https://theqoo.net/hot/4360084476",
-          "score": 69.89
+          "score": 59.42
         }
       ],
       "rank": 1,
       "change": 0
     },
     {
-      "id": "i2761816c",
-      "title": "‘시진핑’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ibe1c3e5c",
+      "title": "‘패키지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "시진핑"
+        "패키지"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.05,
-      "peak_score": 75.05,
+      "score": 84.87,
+      "peak_score": 84.87,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 9,
+          "title": "[와디즈] 나쁜계집애: 달려라 하니 극장판 블루레이 패키지 펀딩",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107608",
+          "score": 75.87
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 50,
+          "title": "[자사몰] 딜리쉬 6주 패키지 단백질 쉐이크 4가지맛 42포 (95,900원/무료배송)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737010",
+          "score": 62.48
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i1c7e4a5d",
+      "title": "‘극장판’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "극장판"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.87,
+      "peak_score": 84.87,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 45,
-          "title": "시진핑 중식당 이름 바꿧대",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466713&_dcbest=1&page=1",
-          "score": 66.05
+          "source": "루리웹",
+          "rank": 9,
+          "title": "[와디즈] 나쁜계집애: 달려라 하니 극장판 블루레이 패키지 펀딩",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107608",
+          "score": 75.87
         },
         {
           "source": "인벤",
-          "rank": 100,
-          "title": "중국인들에게 테러 당한 시진핑 식당, 결국 가게이름을 바꾸다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734073",
-          "score": 50.52
+          "rank": 18,
+          "title": "내년에 나오는 극장판 신세기GPX 사이버 포뮬러 신작",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734099",
+          "score": 71.89
         }
       ],
-      "rank": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ibcaa4862",
+      "title": "여자축구 준결승 한일전 2 대 0 패배",
+      "keywords": [
+        "한일전",
+        "준결승",
+        "패배",
+        "여자축구"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.59,
+      "peak_score": 72.59,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "여자축구 준결승 한일전 2 대 0 패배",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734108",
+          "score": 64.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 68,
+          "title": "여자축구 준결승 한일전 2 대 0 패배",
+          "url": "https://www.clien.net/service/board/park/19271432?od=T31&po=0&category=0&groupCd=",
+          "score": 58.79
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i507ac158",
+      "title": "‘pro’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "pro"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.81,
+      "peak_score": 71.81,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 48,
+          "title": "ChatGPT Pro 20x 내일부터 결제 가능하네요. 하지만 사용량은 반으로 줄인다고합니다.",
+          "url": "https://www.clien.net/service/board/park/19271425?od=T31&po=0&category=0&groupCd=",
+          "score": 62.81
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 87,
+          "title": "아이폰 18 Pro 예약판매 내일까지 한정혜택 일단 클릭!",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ehimart&no=38",
+          "score": 53.74
+        }
+      ],
+      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "한국",
-      "score": 131.61,
-      "post_count": 4,
-      "source_count": 3,
+      "score": 107.75,
+      "post_count": 3,
+      "source_count": 2,
       "best_rank": 8,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 1,
       "change": 0
     },
     {
-      "keyword": "ai",
-      "score": 115.72,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 30,
+      "keyword": "극장판",
+      "score": 103.54,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "keyword": "태양광",
+      "score": 101.79,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "ai",
+      "score": 101.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "keyword": "여성",
+      "score": 98.63,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 2
+    },
+    {
+      "keyword": "패키지",
+      "score": 98.38,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "keyword": "암살자들",
-      "score": 101.96,
+      "score": 96.81,
       "post_count": 3,
       "source_count": 2,
       "best_rank": 12,
@@ -1016,43 +1175,15 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "업체",
-      "score": 96.91,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "결혼",
-      "score": 95.73,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 5,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -4
     },
     {
       "keyword": "불닭소스",
-      "score": 94.69,
+      "score": 91.7,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1060,136 +1191,56 @@
       "aliases": [
         "소주"
       ],
-      "rank": 6,
-      "change": 0
+      "rank": 8,
+      "change": -2
     },
     {
-      "keyword": "여성",
-      "score": 94.1,
+      "keyword": "여자축구",
+      "score": 86.79,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 38,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
-      "rank": 7,
-      "change": -3
+      "aliases": [
+        "준결승",
+        "패배",
+        "한일전"
+      ],
+      "rank": 9,
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 91.33,
-      "post_count": 3,
+      "keyword": "pro",
+      "score": 82.36,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 48,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
-      "aliases": [],
-      "rank": 8,
-      "change": -1
+      "aliases": [
+        "내일"
+      ],
+      "rank": 10,
+      "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 89.15,
-      "post_count": 3,
+      "keyword": "vs",
+      "score": 78.89,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 56,
+      "best_rank": 75,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "keyword": "문화",
-      "score": 89.07,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": -2
-    },
-    {
-      "keyword": "중국",
-      "score": 88.03,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
       "rank": 11,
       "change": "NEW"
-    },
-    {
-      "keyword": "결국",
-      "score": 83.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 27,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "시진핑",
-      "score": 81.16,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "창신메모리",
-      "score": 81.13,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 67,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": -3
-    },
-    {
-      "keyword": "정부",
-      "score": 80.74,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 59,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [
-        "추진"
-      ],
-      "rank": 15,
-      "change": -3
     }
   ],
   "community_leaders": [
@@ -1197,49 +1248,49 @@
       "source": "루리웹",
       "title": "BYD발작버튼 누른 유튜버 근황",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/76845583?m=humor",
-      "score": 97.02,
+      "score": 98.52,
       "views": 26975,
       "comments": 113
     },
     {
-      "source": "더쿠",
-      "title": "결혼 공지 글에 식대 올리신 분. twt",
-      "url": "https://theqoo.net/hot/4360160690",
-      "score": 81.68,
-      "views": 50293,
-      "comments": 485
-    },
-    {
       "source": "디시인사이드",
-      "title": "이재명 “밭에다가 태양광 깔면 농사보다 수익, 유행될수도”",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466750&_dcbest=1&page=1",
-      "score": 80.53,
-      "views": 8062,
-      "comments": 397
+      "title": "요즘 오타쿠문화가 망했다는 일본인들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466764&_dcbest=1&page=1",
+      "score": 93.44,
+      "views": 17429,
+      "comments": 360
     },
     {
       "source": "뽐뿌",
       "title": "사기당해 빚만 갚다가 얼마전 암으로 사망한 25세 여성",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135304",
-      "score": 79.11,
-      "views": 10064,
-      "comments": 37
+      "score": 92.93,
+      "views": 15395,
+      "comments": 48
     },
     {
       "source": "인벤",
-      "title": "대통령 인성이? 멘탈이? 아무튼 터졌네",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734094",
-      "score": 78.54,
-      "views": 2012,
-      "comments": 40
+      "title": "AI로 만든 AI 기업 상황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734104",
+      "score": 78.41,
+      "views": 1695,
+      "comments": 13
+    },
+    {
+      "source": "더쿠",
+      "title": "결혼 공지 글에 식대 올리신 분. twt",
+      "url": "https://theqoo.net/hot/4360160690",
+      "score": 74.21,
+      "views": 56977,
+      "comments": 524
     },
     {
       "source": "클리앙",
       "title": "우리 클리앙이 전체적으로 보수화되어 가는 거 같네요 거기에 빈댓글도 ...",
       "url": "https://www.clien.net/service/board/park/19271423?od=T31&po=0&category=0&groupCd=",
-      "score": 73.1,
-      "views": 1120,
-      "comments": 20
+      "score": 70.53,
+      "views": 1983,
+      "comments": 51
     }
   ]
 }
