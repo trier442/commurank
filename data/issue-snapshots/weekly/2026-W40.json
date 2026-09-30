@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-09-30T11:15:48.742975+09:00",
+  "collected_at": "2026-09-30T11:16:47.154272+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -103,9 +103,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 123.45,
+      "score": 123.97,
       "peak_score": 105.46,
-      "appearances": 8,
+      "appearances": 9,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -126,11 +126,11 @@
           "rank": 43,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
+          "score": 62.74
         }
       ],
       "first_seen": "2026-09-29T17:26:15.303692+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -343,7 +343,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1e941339",
@@ -381,7 +381,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i09667a01",
@@ -420,23 +420,23 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1d3a3c3b",
       "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
       "keywords": [
         "유엔사",
-        "정전협정",
         "위반",
-        "이남서",
-        "지뢰"
+        "정전협정",
+        "발견",
+        "이남서"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 109.89,
+      "score": 110.8,
       "peak_score": 90.84,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -445,7 +445,7 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 9,
           "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
           "score": 75.84
@@ -455,7 +455,7 @@
           "rank": 43,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
+          "score": 62.74
         },
         {
           "source": "인벤",
@@ -466,11 +466,11 @@
         }
       ],
       "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 11,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i0c1846a6",
@@ -508,7 +508,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibb35f05f",
@@ -554,7 +554,49 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 13,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 106.33,
+      "peak_score": 85.37,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 73,
+          "title": "안세영 하체 인정 못 하는 사람들",
+          "url": "https://theqoo.net/hot/4360735249",
+          "score": 55.68
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "속보) 안세영 승률 갱신",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76854546?m=humor_only&t=now",
+          "score": 53.06
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
     },
     {
       "id": "i8b4085e0",
@@ -594,48 +636,6 @@
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
       "last_seen": "2026-09-29T17:26:15.303692+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": -1
-    },
-    {
-      "id": "i23a285e5",
-      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안세영"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 105.42,
-      "peak_score": 85.37,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 74,
-          "title": "안세영 하체 인정 못 하는 사람들",
-          "url": "https://theqoo.net/hot/4360735249",
-          "score": 55.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 99,
-          "title": "속보) 안세영 승률 갱신",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76854546?m=humor_only&t=now",
-          "score": 51.1
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
@@ -678,7 +678,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 103.3,
+      "peak_score": 86.57,
+      "appearances": 6,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
+          "score": 72.45
+        },
+        {
+          "source": "클리앙",
+          "rank": 55,
+          "title": "민주당 '조작기소특검법' 연기, 역풍우려",
+          "url": "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd=",
+          "score": 59.67
+        }
+      ],
+      "first_seen": "2026-09-29T19:53:33.458089+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": 1
     },
     {
       "id": "i9355ba36",
@@ -716,46 +756,6 @@
       ],
       "first_seen": "2026-09-29T19:53:33.458089+09:00",
       "last_seen": "2026-09-29T20:27:19.824549+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 17,
-      "change": -1
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 102.53,
-      "peak_score": 86.57,
-      "appearances": 5,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.45
-        },
-        {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "민주당 '조작기소특검법' 연기, 역풍우려",
-          "url": "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
-        }
-      ],
-      "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
@@ -800,7 +800,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibcbce939",
@@ -838,7 +838,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }

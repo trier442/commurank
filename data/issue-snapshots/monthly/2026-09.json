@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-30T11:15:48.742975+09:00",
+  "collected_at": "2026-09-30T11:16:47.154272+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -104,9 +104,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 123.45,
+      "score": 123.97,
       "peak_score": 105.46,
-      "appearances": 8,
+      "appearances": 9,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -127,15 +127,15 @@
           "rank": 43,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
+          "score": 62.74
         }
       ],
       "first_seen": "2026-09-29T17:26:15.303692+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i06cab454",
@@ -174,7 +174,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iba838050",
@@ -499,7 +499,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1e941339",
@@ -537,7 +537,49 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 112.15,
+      "peak_score": 89.16,
+      "appearances": 8,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 73,
+          "title": "안세영 하체 인정 못 하는 사람들",
+          "url": "https://theqoo.net/hot/4360735249",
+          "score": 55.68
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "속보) 안세영 승률 갱신",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76854546?m=humor_only&t=now",
+          "score": 53.06
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
     },
     {
       "id": "i09667a01",
@@ -575,48 +617,6 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -1
-    },
-    {
-      "id": "i23a285e5",
-      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안세영"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 111.56,
-      "peak_score": 89.16,
-      "appearances": 7,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 74,
-          "title": "안세영 하체 인정 못 하는 사람들",
-          "url": "https://theqoo.net/hot/4360735249",
-          "score": 55.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 99,
-          "title": "속보) 안세영 승률 갱신",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76854546?m=humor_only&t=now",
-          "score": 51.1
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 15,
       "change": -1
     },
@@ -625,16 +625,16 @@
       "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
       "keywords": [
         "유엔사",
-        "정전협정",
         "위반",
-        "이남서",
-        "지뢰"
+        "정전협정",
+        "발견",
+        "이남서"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 109.89,
+      "score": 110.8,
       "peak_score": 90.84,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -643,7 +643,7 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 9,
           "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
           "score": 75.84
@@ -653,7 +653,7 @@
           "rank": 43,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
+          "score": 62.74
         },
         {
           "source": "인벤",
@@ -664,11 +664,11 @@
         }
       ],
       "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:16:47.154272+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 16,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i0c1846a6",
@@ -706,7 +706,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -749,7 +749,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibb35f05f",
@@ -795,7 +795,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i879d3e36",
@@ -834,7 +834,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
