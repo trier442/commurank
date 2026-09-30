@@ -80,7 +80,7 @@ def shell(title: str, desc: str, canonical: str, body: str, structured=None) -> 
 <footer><div class="shell footer-inner"><div><strong>커뮤랭크</strong><p>대한민국 커뮤니티 인기글 랭킹 아카이브</p></div><p>원문은 각 커뮤니티에서 확인합니다.</p></div></footer>
 <script src="/analytics.js"></script>
 <script>
-document.querySelector("#themeToggle").addEventListener("click",()=>{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")});
+document.querySelector("#themeToggle").addEventListener("click",()=>{{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")}});
 if(localStorage.getItem("commurank-theme")==="dark") document.body.classList.add("dark");
 </script>
 </body>
