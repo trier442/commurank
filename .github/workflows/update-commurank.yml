@@ -56,6 +56,9 @@ jobs:
       - name: Build monthly trend reports
         run: python scripts/build_monthly_reports.py
 
+      - name: Build SEO status snapshot
+        run: python scripts/build_seo_status.py
+
       - name: Run site quality checks
         run: python scripts/check_site_quality.py
 
