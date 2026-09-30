@@ -658,10 +658,18 @@ def write_sitemap(index: dict, briefing_index: dict, latest: dict) -> None:
     for slug in COMMUNITIES:
         static.append((f"/community/{slug}/", "hourly", "0.8"))
 
+    dynamic_static_paths = {
+        "/", "/issues/", "/briefing/", "/briefing/archive/",
+        "/ranking/", "/ranking/daily/", "/ranking/weekly/", "/ranking/monthly/",
+        "/status/",
+        *{f"/community/{slug}/" for slug in COMMUNITIES},
+    }
+
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     today = str(latest.get("collected_at", ""))[:10] or datetime.now(KST).strftime("%Y-%m-%d")
     for path, freq, priority in static:
-        rows.append(f"  <url><loc>{BASE}{path}</loc><lastmod>{today}</lastmod><changefreq>{freq}</changefreq><priority>{priority}</priority></url>")
+        lastmod = f"<lastmod>{today}</lastmod>" if path in dynamic_static_paths else ""
+        rows.append(f"  <url><loc>{BASE}{path}</loc>{lastmod}<changefreq>{freq}</changefreq><priority>{priority}</priority></url>")
 
     for item in briefing_index.get("items", []):
         key = str(item.get("key") or "")
