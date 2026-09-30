@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 5
+# Quality gate version: 6
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -154,6 +154,20 @@ for page in ["ranking/index.html", "briefing/archive/index.html", "reports/weekl
     body = text(page)
     if len(re.sub(r"<[^>]+>", " ", body)) < 700:
         warnings.append(f"{page}: archive/report landing page may be too thin")
+
+# SEO status snapshot checks
+seo_status = json.loads(text("data/seo-status.json") or "{}")
+sitemap_status = seo_status.get("sitemap", {})
+if sitemap_status.get("url_count", 0) <= 0:
+    errors.append("data/seo-status.json: sitemap URL count is zero")
+if sitemap_status.get("duplicate_count", 0) != 0:
+    errors.append("data/seo-status.json: duplicate sitemap URLs detected")
+if not seo_status.get("verification", {}).get("google_meta"):
+    errors.append("data/seo-status.json: Google verification meta missing")
+if not seo_status.get("verification", {}).get("naver_meta"):
+    errors.append("data/seo-status.json: Naver verification meta missing")
+if not seo_status.get("verification", {}).get("robots_sitemap"):
+    errors.append("data/seo-status.json: robots.txt sitemap declaration missing")
 
 ads_script = text("ads.js")
 if "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" not in ads_script:
