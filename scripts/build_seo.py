@@ -13,6 +13,7 @@ RANKING = ROOT / "ranking"
 ARCHIVE_INDEX = DATA / "archive-index.json"
 LATEST_PATH = DATA / "latest.json"
 SEARCH_INDEX_PATH = DATA / "search-index.json"
+BRIEFING_INDEX_PATH = DATA / "briefing-index.json"
 BASE = "https://commurank.kr"
 
 PERIODS = {
@@ -245,6 +246,216 @@ def root_index(index: dict) -> str:
 
 
 
+
+def briefing_article_page(item: dict, briefing: dict) -> str:
+    key = str(item.get("key") or briefing.get("date") or "")
+    label = str(briefing.get("label") or item.get("label") or key)
+    canonical = f"{BASE}/briefing/{key}/"
+    stats = briefing.get("stats", {}) if isinstance(briefing, dict) else {}
+    issues = briefing.get("issues", []) if isinstance(briefing, dict) else []
+    rising = briefing.get("rising", []) if isinstance(briefing, dict) else []
+    keywords = briefing.get("keywords", []) if isinstance(briefing, dict) else []
+    leaders = briefing.get("community_leaders", []) if isinstance(briefing, dict) else []
+    top_posts = briefing.get("top_posts", []) if isinstance(briefing, dict) else []
+
+    description = (
+        f"{label} 커뮤니티 인터넷 이슈 브리핑. "
+        f"{int(stats.get('sources', 0) or 0)}개 커뮤니티의 인기글, 급상승 글, 핵심 이슈와 키워드를 데이터로 정리합니다."
+    )
+
+    paragraphs = [
+        f"{label} 커뮤랭크는 {int(stats.get('sources', 0) or 0)}개 커뮤니티에서 "
+        f"실시간 인기글 {int(stats.get('realtime_posts', 0) or 0)}건과 일간 인기글 "
+        f"{int(stats.get('daily_posts', 0) or 0)}건을 집계했습니다. "
+        f"상위 인기글의 누적 조회는 {fmt_number(stats.get('top100_views'))}회, "
+        f"댓글은 {fmt_number(stats.get('top100_comments'))}개로 집계됐습니다."
+    ]
+
+    if issues:
+        top = issues[0]
+        paragraphs.append(
+            f"여러 커뮤니티에서 동시에 포착된 이슈 가운데 상위에는 ‘{top.get('title','')}’가 올랐습니다. "
+            f"{int(top.get('source_count', 0) or 0)}개 커뮤니티에서 "
+            f"{int(top.get('post_count', 0) or 0)}개의 관련 인기글이 잡혔습니다."
+        )
+    if keywords:
+        lead_keywords = ", ".join(f"#{row.get('keyword','')}" for row in keywords[:5] if row.get("keyword"))
+        if lead_keywords:
+            paragraphs.append(
+                f"실시간 키워드에서는 {lead_keywords} 등이 상위권에 나타났습니다. "
+                "키워드 순위는 여러 커뮤니티의 인기글 제목에서 반복적으로 등장한 표현을 기준으로 계산합니다."
+            )
+    if rising:
+        top = rising[0]
+        paragraphs.append(
+            f"급상승 영역에서는 ‘{top.get('title','')}’의 반응 증가가 크게 포착됐습니다. "
+            f"직전 수집과 비교해 조회 {fmt_number(top.get('delta_views'))}회, "
+            f"댓글 {fmt_number(top.get('delta_comments'))}개가 늘었습니다."
+        )
+    paragraphs.append(
+        "이 브리핑은 공개 인기글 목록의 제목과 반응 지표를 바탕으로 자동 정리한 데이터 요약입니다. "
+        "특정 커뮤니티나 게시글의 주장에 대한 사실 판정이나 찬반 평가를 뜻하지 않습니다."
+    )
+
+    issue_cards = "".join(
+        f"""<article class="daily-brief-topic">
+          <span>{i}</span>
+          <div>
+            <a href="/issue/?id={quote(str(row.get('id') or ''), safe='')}">{esc(row.get('title'))}</a>
+            <p>{int(row.get('source_count',0) or 0)}개 커뮤니티 · 관련글 {int(row.get('post_count',0) or 0)}건</p>
+            <div>{' '.join('#'+esc(k) for k in (row.get('keywords') or [])[:4])}</div>
+          </div>
+        </article>"""
+        for i, row in enumerate(issues[:8], start=1)
+    ) or '<div class="empty">동시 화제 이슈 데이터가 없습니다.</div>'
+
+    rising_rows = "".join(
+        f"""<article class="brief-list-row">
+          <span class="brief-rank hot">{i}</span>
+          <div>
+            <a href="{esc(row.get('url'))}" target="_blank" rel="noopener noreferrer">{esc(row.get('title'))}</a>
+            <small>{esc(row.get('source'))} · +조회 {fmt_number(row.get('delta_views'))} · +댓글 {fmt_number(row.get('delta_comments'))}</small>
+          </div>
+        </article>"""
+        for i, row in enumerate(rising[:10], start=1)
+    ) or '<div class="empty">급상승 데이터가 없습니다.</div>'
+
+    leader_rows = "".join(
+        f"""<article class="brief-list-row">
+          <span class="brief-rank">{i}</span>
+          <div>
+            <a href="{esc(row.get('url'))}" target="_blank" rel="noopener noreferrer">{esc(row.get('source'))} · {esc(row.get('title'))}</a>
+            <small>조회 {fmt_number(row.get('views'))} · 댓글 {fmt_number(row.get('comments'))}</small>
+          </div>
+        </article>"""
+        for i, row in enumerate(leaders[:10], start=1)
+    ) or '<div class="empty">커뮤니티별 데이터가 없습니다.</div>'
+
+    top_rows = "".join(
+        f"""<article class="brief-list-row">
+          <span class="brief-rank">{i}</span>
+          <div>
+            <a href="{esc(row.get('url'))}" target="_blank" rel="noopener noreferrer">{esc(row.get('title'))}</a>
+            <small>{esc(row.get('source'))} · 조회 {fmt_number(row.get('views'))} · 댓글 {fmt_number(row.get('comments'))}</small>
+          </div>
+        </article>"""
+        for i, row in enumerate(top_posts[:10], start=1)
+    ) or '<div class="empty">인기글 데이터가 없습니다.</div>'
+
+    keyword_html = "".join(
+        f'<a href="/search/?q={quote(str(row.get("keyword") or ""), safe="")}">#{esc(row.get("keyword"))}<span>{int(row.get("post_count",0) or 0)}글</span></a>'
+        for row in keywords[:16]
+        if row.get("keyword")
+    )
+
+    article_body = "".join(f"<p>{esc(p)}</p>" for p in paragraphs)
+    body = f"""
+    <article class="shell daily-brief-article">
+      <header class="daily-brief-header">
+        <p class="eyebrow">DAILY INTERNET BRIEFING</p>
+        <h1>{esc(label)}<br><span>인터넷 이슈 브리핑</span></h1>
+        <p>{esc(description)}</p>
+        <div class="archive-page-nav">
+          <a href="/briefing/">오늘의 브리핑</a>
+          <a href="/briefing/archive/">지난 브리핑 보기 →</a>
+        </div>
+      </header>
+
+      <section class="daily-brief-stats">
+        <div><strong>{int(stats.get('sources',0) or 0)}</strong><span>수집 커뮤니티</span></div>
+        <div><strong>{int(stats.get('daily_posts',0) or 0)}</strong><span>일간 인기글</span></div>
+        <div><strong>{int(stats.get('daily_issues',0) or 0)}</strong><span>핵심 이슈</span></div>
+        <div><strong>{int(stats.get('keywords',0) or 0)}</strong><span>키워드</span></div>
+      </section>
+
+      <div class="daily-brief-layout">
+        <main class="daily-brief-main">
+          <section class="briefing-card daily-brief-copy">
+            <div class="briefing-card-head"><div><span>SUMMARY</span><h2>오늘의 흐름</h2></div></div>
+            {article_body}
+          </section>
+          <section class="briefing-card">
+            <div class="briefing-card-head"><div><span>ISSUES</span><h2>여러 커뮤니티에서 함께 잡힌 이슈</h2></div></div>
+            <div class="daily-brief-topics">{issue_cards}</div>
+          </section>
+          <section class="briefing-card">
+            <div class="briefing-card-head"><div><span>TOP POSTS</span><h2>오늘의 인기글 TOP10</h2></div></div>
+            {top_rows}
+          </section>
+        </main>
+        <aside class="daily-brief-side">
+          <section class="briefing-card">
+            <div class="briefing-card-head"><div><span>FAST RISING</span><h2>급상승</h2></div></div>
+            {rising_rows}
+          </section>
+          <section class="briefing-card">
+            <div class="briefing-card-head"><div><span>KEYWORDS</span><h2>실시간 키워드</h2></div></div>
+            <div class="daily-brief-keywords">{keyword_html}</div>
+          </section>
+          <section class="briefing-card">
+            <div class="briefing-card-head"><div><span>COMMUNITIES</span><h2>커뮤니티별 1위</h2></div></div>
+            {leader_rows}
+          </section>
+        </aside>
+      </div>
+    </article>
+    """
+
+    structured = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": f"{label} 인터넷 이슈 브리핑",
+        "description": description,
+        "datePublished": key,
+        "dateModified": briefing.get("collected_at", key),
+        "mainEntityOfPage": canonical,
+        "publisher": {"@type": "Organization", "name": "커뮤랭크", "url": BASE},
+    }
+    return page_shell(f"{label} 인터넷 이슈 브리핑 | 커뮤랭크", description, canonical, body, structured)
+
+
+def briefing_archive_page(briefing_index: dict) -> str:
+    items = briefing_index.get("items", []) if isinstance(briefing_index, dict) else []
+    rows = "".join(
+        f'<a class="archive-index-row" href="/briefing/{esc(item.get("key"))}/"><strong>{esc(item.get("label"))} 인터넷 브리핑</strong><span>읽기 →</span></a>'
+        for item in items
+    )
+    body = f"""
+    <section class="shell info-hero">
+      <p class="eyebrow">DAILY BRIEFING ARCHIVE</p>
+      <h1>인터넷 이슈<br>브리핑 아카이브</h1>
+      <p>날짜별로 여러 커뮤니티의 인기글, 급상승 흐름, 동시 화제와 키워드를 데이터 중심으로 정리합니다.</p>
+    </section>
+    <section class="shell info-layout">
+      <div class="info-main"><section class="info-card"><h2>날짜별 브리핑</h2><div class="archive-index-list">{rows or '<div class="empty">브리핑을 쌓는 중입니다.</div>'}</div></section></div>
+      <aside class="info-side"><nav class="info-nav"><a href="/briefing/">오늘의 브리핑</a><a href="/ranking/">랭킹 아카이브</a><a href="/issues/">이슈 TOP20</a></nav></aside>
+    </section>
+    """
+    return page_shell(
+        "인터넷 이슈 브리핑 아카이브 | 커뮤랭크",
+        "날짜별 커뮤니티 인기글·급상승·동시 화제·키워드 데이터 브리핑",
+        f"{BASE}/briefing/archive/",
+        body,
+        {"@context":"https://schema.org","@type":"CollectionPage","name":"커뮤랭크 인터넷 브리핑 아카이브","url":f"{BASE}/briefing/archive/"},
+    )
+
+
+def write_briefing_pages(briefing_index: dict) -> None:
+    briefing_root = ROOT / "briefing"
+    archive_dir = briefing_root / "archive"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    (archive_dir / "index.html").write_text(briefing_archive_page(briefing_index), encoding="utf-8")
+
+    for item in briefing_index.get("items", []):
+        key = str(item.get("key") or "")
+        if not key:
+            continue
+        briefing = read_json(DATA / str(item.get("path") or ""), {})
+        out_dir = briefing_root / key
+        out_dir.mkdir(parents=True, exist_ok=True)
+        (out_dir / "index.html").write_text(briefing_article_page(item, briefing), encoding="utf-8")
+
+
 def write_search_index(archive: dict, latest: dict) -> None:
     current_urls = {
         p.get("url")
@@ -325,11 +536,12 @@ def write_feed(latest: dict) -> None:
     (ROOT / "feed.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
-def write_sitemap(index: dict) -> None:
+def write_sitemap(index: dict, briefing_index: dict) -> None:
     static = [
         ("/", "hourly", "1.0"),
         ("/issues/", "hourly", "0.9"),
         ("/briefing/", "hourly", "0.9"),
+        ("/briefing/archive/", "daily", "0.8"),
         ("/ranking/", "daily", "0.9"),
         ("/ranking/daily/", "daily", "0.9"),
         ("/ranking/weekly/", "daily", "0.8"),
@@ -364,6 +576,7 @@ def write_sitemap(index: dict) -> None:
 
 def main() -> None:
     index = read_json(ARCHIVE_INDEX, {"periods": {}})
+    briefing_index = read_json(BRIEFING_INDEX_PATH, {"items": []})
     latest = read_json(LATEST_PATH, {})
     archive = read_json(DATA / "archive.json", {})
     RANKING.mkdir(parents=True, exist_ok=True)
@@ -382,10 +595,11 @@ def main() -> None:
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / "index.html").write_text(archive_page(period, item, snap), encoding="utf-8")
 
-    write_sitemap(index)
+    write_briefing_pages(briefing_index)
+    write_sitemap(index, briefing_index)
     write_feed(latest)
     write_search_index(archive, latest)
-    print("SEO ranking pages, sitemap, RSS feed, and search index updated.")
+    print("SEO ranking pages, daily briefing articles, sitemap, RSS feed, and search index updated.")
 
 
 if __name__ == "__main__":
