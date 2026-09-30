@@ -50,18 +50,21 @@ jobs:
       - name: Build indexable ranking archive pages
         run: python scripts/build_seo.py
 
+      - name: Build weekly trend reports
+        run: python scripts/build_weekly_reports.py
+
       - name: Notify Naver IndexNow
         run: python scripts/notify_indexnow.py
 
       - name: Commit updated ranking data
         run: |
-          if git diff --quiet -- data ranking briefing/archive briefing/[0-9]* sitemap.xml feed.xml; then
+          if git diff --quiet -- data ranking briefing/archive briefing/[0-9]* reports sitemap.xml feed.xml; then
             echo "No data changes."
             exit 0
           fi
           git config user.name "commurank-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data ranking briefing/archive briefing/[0-9]* sitemap.xml feed.xml
+          git add data ranking briefing/archive briefing/[0-9]* reports sitemap.xml feed.xml
           git commit -m "Update Commurank rankings"
           git pull --rebase origin main
           git push
