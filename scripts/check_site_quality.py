@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 2
+# Quality gate version: 3
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -115,6 +115,28 @@ robots = text("robots.txt")
 for path in ["/admin/", "/my/", "/search/", "/post/", "/issue/"]:
     if f"Disallow: {path}" not in robots:
         warnings.append(f"robots.txt: utility path not disallowed: {path}")
+
+analytics_public_pages = [
+    "index.html",
+    "briefing/index.html",
+    "issues/index.html",
+    "search/index.html",
+    "post/index.html",
+    "issue/index.html",
+    "my/index.html",
+    "status/index.html",
+    "community/dcinside/index.html",
+    "community/fmkorea/index.html",
+    "community/theqoo/index.html",
+    "community/ruliweb/index.html",
+    "community/clien/index.html",
+    "community/inven/index.html",
+    "community/ppomppu/index.html",
+]
+for page in analytics_public_pages:
+    body = text(page)
+    if "analytics.js" not in body:
+        errors.append(f"{page}: analytics.js loader missing")
 
 ads = json.loads(text("ads-config.json") or "{}")
 if ads.get("enabled"):
