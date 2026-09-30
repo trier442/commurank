@@ -2715,3 +2715,33 @@ select:focus-visible {
   .daily-brief-stats { grid-template-columns: 1fr 1fr; }
   .daily-brief-copy p { font-size: 14px; line-height: 1.8; }
 }
+
+
+/* Weekly internet trend report */
+.weekly-report { padding-bottom: 42px; }
+.weekly-category-list { display: grid; gap: 11px; }
+.weekly-category-row {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) auto;
+  gap: 6px 10px;
+  align-items: center;
+}
+.weekly-category-row strong { font-size: 12px; }
+.weekly-category-row span { color: var(--muted); font-size: 10px; }
+.weekly-category-row i {
+  grid-column: 1 / -1;
+  display: block;
+  width: 100%;
+  height: 7px;
+  border-radius: 999px;
+  background:
+    linear-gradient(90deg,
+      var(--brand) 0,
+      var(--brand) var(--share),
+      var(--surface-2) var(--share),
+      var(--surface-2) 100%);
+}
+.weekly-report .daily-brief-copy p strong { color: var(--brand); }
+@media (max-width: 640px) {
+  .weekly-report .daily-brief-header h1 { font-size: 33px; }
+}
