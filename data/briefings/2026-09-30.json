@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-09-30",
   "label": "2026년 09월 30일",
-  "collected_at": "2026-09-30T11:16:47.154272+09:00",
+  "collected_at": "2026-09-30T11:17:21.224781+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 16,
-    "top100_views": 643519,
-    "top100_comments": 8472
+    "keywords": 20,
+    "top100_views": 666021,
+    "top100_comments": 8514
   },
   "highlights": [
     {
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#한국",
-      "text": "4개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
+      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
       "keyword": "한국"
     }
   ],
@@ -151,7 +151,7 @@
       "likes": 70,
       "comments": 90,
       "active_days": 1,
-      "change": 4
+      "change": 0
     },
     {
       "title": "날씨의 아이 실사판 중이라는 도쿄 근황",
@@ -180,7 +180,7 @@
       "likes": 82,
       "comments": 41,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "이건 우크라이나인 변호할 필요가 없는데?",
@@ -204,12 +204,12 @@
           "last_seen": "2026-09-30T11:15:48.742975+09:00"
         }
       },
-      "score": 107.86,
+      "score": 107.85,
       "views": 19731,
       "likes": 155,
       "comments": 108,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "북 김여정 \"서울의 자작 광대극...총탄 한발이 라도 떨어지면 가차 없는 보복",
@@ -217,28 +217,28 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/76853312?m=humor",
       "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:07:50.708457+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
       "peak_score": 96.19,
       "max_views": 15616,
       "max_likes": 142,
       "max_comments": 103,
-      "appearances": 3,
+      "appearances": 4,
       "daily_stats": {
         "2026-09-30": {
           "max_score": 96.19,
           "max_views": 15616,
           "max_likes": 142,
           "max_comments": 103,
-          "appearances": 3,
-          "last_seen": "2026-09-30T11:07:50.708457+09:00"
+          "appearances": 4,
+          "last_seen": "2026-09-30T11:17:21.224781+09:00"
         }
       },
-      "score": 107.23,
+      "score": 107.73,
       "views": 15616,
       "likes": 142,
       "comments": 103,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "요즘 불륜사건 스케일 근황",
@@ -275,7 +275,7 @@
       "likes": 183,
       "comments": 106,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "[양궁] 정말 믿기 힘든 일이 벌어졌습니다.(p)",
@@ -307,57 +307,49 @@
       "change": 0
     },
     {
-      "title": "비천어검류 계승자 중 켄신만 유명한 이유",
+      "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76846489?m=humor",
-      "first_seen": "2026-09-29T20:27:19.824549+09:00",
-      "last_seen": "2026-09-30T00:03:15.633324+09:00",
-      "peak_score": 98.12,
-      "max_views": 33579,
-      "max_likes": 253,
-      "max_comments": 124,
-      "appearances": 1,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
+      "first_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
+      "peak_score": 95.36,
+      "max_views": 31282,
+      "max_likes": 102,
+      "max_comments": 74,
+      "appearances": 2,
       "daily_stats": {
-        "2026-09-29": {
-          "max_score": 98.12,
-          "max_views": 28835,
-          "max_likes": 241,
-          "max_comments": 121,
-          "appearances": 4,
-          "last_seen": "2026-09-29T22:07:42.407958+09:00"
-        },
         "2026-09-30": {
-          "max_score": 97.02,
-          "max_views": 33579,
-          "max_likes": 253,
-          "max_comments": 124,
-          "appearances": 1,
-          "last_seen": "2026-09-30T00:03:15.633324+09:00"
+          "max_score": 95.36,
+          "max_views": 31282,
+          "max_likes": 102,
+          "max_comments": 74,
+          "appearances": 2,
+          "last_seen": "2026-09-30T11:17:21.224781+09:00"
         }
       },
-      "score": 105.61,
-      "views": 33579,
-      "likes": 253,
-      "comments": 124,
+      "score": 105.78,
+      "views": 31282,
+      "likes": 102,
+      "comments": 74,
       "active_days": 1,
-      "change": 0
+      "change": 2
     }
   ],
   "rising": [
     {
       "source": "인벤",
-      "title": "우크라가 한국에 원하는 것.jpg",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734287",
+      "title": "모든 헬스장에 필요한 것",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734288",
       "category": "이슈",
-      "views": 844,
+      "views": 747,
       "likes": 1,
-      "comments": 11,
-      "score": 72.44,
+      "comments": 8,
+      "score": 70.47,
       "change": 0,
-      "current_rank": 16,
+      "current_rank": 20,
       "new_entry": false,
-      "delta_views": 65,
+      "delta_views": 48,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
@@ -366,102 +358,102 @@
       "window_minutes": 1
     },
     {
-      "source": "디시인사이드",
-      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 5260,
-      "likes": 138,
-      "comments": 212,
-      "score": 80.38,
+      "source": "클리앙",
+      "title": "민주당 '조작기소특검법' 연기, 역풍우려",
+      "url": "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 182,
+      "likes": 0,
+      "comments": 1,
+      "score": 59.67,
       "change": 0,
-      "current_rank": 6,
+      "current_rank": 55,
       "new_entry": false,
-      "delta_views": 231,
+      "delta_views": 39,
       "delta_likes": 0,
-      "delta_comments": 7,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 96.42,
+      "rising_score": 96.67,
       "rising_rank": 2,
       "window_minutes": 1
     },
     {
       "source": "뽐뿌",
-      "title": "결혼 공지 글에 식대 올리는 사람",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135961",
+      "title": "ChatGPT 가격인상 ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136029",
       "category": "이슈",
-      "views": 4385,
+      "views": 3432,
       "likes": 0,
-      "comments": 27,
-      "score": 79.59,
-      "change": 0,
-      "current_rank": 7,
+      "comments": 13,
+      "score": 72.1,
+      "change": 2,
+      "current_rank": 17,
       "new_entry": false,
-      "delta_views": 293,
+      "delta_views": 690,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 95.45,
+      "rank_gain": 2,
+      "rising_score": 94.01,
       "rising_rank": 3,
       "window_minutes": 1
     },
     {
       "source": "인벤",
-      "title": "모든 헬스장에 필요한 것",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734288",
+      "title": "해양 플랫폼 근무환경",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734289",
       "category": "이슈",
-      "views": 699,
-      "likes": 1,
-      "comments": 8,
-      "score": 70.2,
+      "views": 497,
+      "likes": 0,
+      "comments": 3,
+      "score": 65.8,
       "change": 0,
-      "current_rank": 20,
+      "current_rank": 28,
       "new_entry": false,
-      "delta_views": 59,
+      "delta_views": 37,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 94.23,
+      "rising_score": 90.38,
       "rising_rank": 4,
       "window_minutes": 1
     },
     {
-      "source": "더쿠",
-      "title": "신혼여행 뉴욕 가는데 남친이 저가항공 타자고해요",
-      "url": "https://theqoo.net/hot/4360753048",
-      "category": "생활",
-      "views": 5257,
-      "likes": 0,
-      "comments": 123,
-      "score": 65.5,
-      "change": 2,
-      "current_rank": 29,
+      "source": "인벤",
+      "title": "우크라가 한국에 원하는 것.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734287",
+      "category": "이슈",
+      "views": 887,
+      "likes": 1,
+      "comments": 11,
+      "score": 72.98,
+      "change": 3,
+      "current_rank": 13,
       "new_entry": false,
-      "delta_views": 928,
+      "delta_views": 43,
       "delta_likes": 0,
-      "delta_comments": 26,
-      "rank_gain": 2,
-      "rising_score": 93.23,
+      "delta_comments": 0,
+      "rank_gain": 3,
+      "rising_score": 90.08,
       "rising_rank": 5,
       "window_minutes": 1
     },
     {
       "source": "클리앙",
-      "title": "지피티 무료버전은 멘탈이 좀 약한가봅니다",
-      "url": "https://www.clien.net/service/board/park/19271621?od=T31&po=0&category=0&groupCd=",
+      "title": "살면서 경험한 우리나라 의료시스템",
+      "url": "https://www.clien.net/service/board/park/19271623?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 314,
-      "likes": 0,
-      "comments": 2,
-      "score": 62.94,
-      "change": 4,
-      "current_rank": 40,
+      "views": 134,
+      "likes": 1,
+      "comments": 0,
+      "score": 63.33,
+      "change": 0,
+      "current_rank": 37,
       "new_entry": false,
-      "delta_views": 41,
+      "delta_views": 28,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 4,
-      "rising_score": 88.9,
+      "rank_gain": 0,
+      "rising_score": 90.0,
       "rising_rank": 6,
       "window_minutes": 1
     },
@@ -470,78 +462,78 @@
       "title": "양궁 15발 쏴서 146점 획득한 인도 선수 ㄷㄷ",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734251",
       "category": "스포츠",
-      "views": 3773,
-      "likes": 4,
+      "views": 3796,
+      "likes": 5,
       "comments": 27,
-      "score": 51.22,
-      "change": 0,
-      "current_rank": 98,
+      "score": 51.43,
+      "change": 3,
+      "current_rank": 95,
       "new_entry": false,
-      "delta_views": 44,
-      "delta_likes": 0,
+      "delta_views": 23,
+      "delta_likes": 1,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 86.54,
+      "rank_gain": 3,
+      "rising_score": 87.77,
       "rising_rank": 7,
       "window_minutes": 1
     },
     {
       "source": "더쿠",
-      "title": "AI 일절 사용하지 않았다는 <2026 영주 풍기인삼축제> 홍보 영상",
-      "url": "https://theqoo.net/hot/4360692186",
-      "category": "이슈",
-      "views": 22015,
+      "title": "신혼여행 뉴욕 가는데 남친이 저가항공 타자고해요",
+      "url": "https://theqoo.net/hot/4360753048",
+      "category": "생활",
+      "views": 5870,
       "likes": 0,
-      "comments": 244,
-      "score": 63.05,
-      "change": 0,
-      "current_rank": 39,
+      "comments": 129,
+      "score": 66.0,
+      "change": 2,
+      "current_rank": 27,
       "new_entry": false,
-      "delta_views": 0,
+      "delta_views": 613,
       "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 0,
-      "rising_score": 86.36,
+      "delta_comments": 6,
+      "rank_gain": 2,
+      "rising_score": 87.67,
       "rising_rank": 8,
       "window_minutes": 1
     },
     {
       "source": "디시인사이드",
-      "title": "문채원 실물보고 소름 돋은 만두집 사장님",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466845&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 10634,
-      "likes": 23,
-      "comments": 118,
-      "score": 65.08,
-      "change": 0,
-      "current_rank": 30,
+      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 5411,
+      "likes": 141,
+      "comments": 218,
+      "score": 80.93,
+      "change": 1,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 57,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 86.0,
+      "delta_views": 151,
+      "delta_likes": 3,
+      "delta_comments": 6,
+      "rank_gain": 1,
+      "rising_score": 87.22,
       "rising_rank": 9,
       "window_minutes": 1
     },
     {
-      "source": "인벤",
-      "title": "[속보] 軍 \"향후 발생하는 상황 모든 책임 전적으로 북한에 있어\"",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734286",
+      "source": "디시인사이드",
+      "title": "싱글벙글 살빼는게 어려운 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466832&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 521,
-      "likes": 0,
-      "comments": 3,
-      "score": 62.73,
+      "views": 18068,
+      "likes": 23,
+      "comments": 458,
+      "score": 64.6,
       "change": 0,
-      "current_rank": 44,
+      "current_rank": 34,
       "new_entry": false,
-      "delta_views": 41,
+      "delta_views": 32,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.69,
+      "rising_score": 86.0,
       "rising_rank": 10,
       "window_minutes": 1
     }
@@ -587,6 +579,45 @@
       "change": 0
     },
     {
+      "id": "iadaad958",
+      "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
+      "keywords": [
+        "chatgpt",
+        "가격인상"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.85,
+      "peak_score": 103.36,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
+          "score": 95.36
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 17,
+          "title": "ChatGPT 가격인상 ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136029",
+          "score": 72.1
+        }
+      ],
+      "first_seen": "2026-09-30T11:15:48.742975+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 1
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -630,47 +661,8 @@
       "last_seen": "2026-09-30T00:03:15.633324+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "iadaad958",
-      "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
-      "keywords": [
-        "chatgpt",
-        "가격인상"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 112.83,
-      "peak_score": 103.36,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
-          "score": 95.36
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "ChatGPT 가격인상 ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136029",
-          "score": 70.91
-        }
-      ],
-      "first_seen": "2026-09-30T11:15:48.742975+09:00",
-      "last_seen": "2026-09-30T11:15:48.742975+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 3,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i1e941339",
@@ -715,16 +707,16 @@
       "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
       "keywords": [
         "유엔사",
-        "위반",
         "정전협정",
+        "위반",
         "발견",
         "이남서"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 110.8,
-      "peak_score": 90.84,
-      "appearances": 5,
+      "score": 111.71,
+      "peak_score": 90.98,
+      "appearances": 6,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -733,32 +725,72 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 9,
+          "rank": 10,
           "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-          "score": 75.84
+          "score": 75.98
         },
         {
           "source": "더쿠",
-          "rank": 43,
+          "rank": 46,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 62.74
+          "score": 62.24
         },
         {
           "source": "인벤",
-          "rank": 62,
+          "rank": 63,
           "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
           "score": 57.89
         }
       ],
       "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:16:47.154272+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 5,
       "change": 0
+    },
+    {
+      "id": "id96d25c0",
+      "title": "‘dmz’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "dmz"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 102.35,
+      "peak_score": 84.95,
+      "appearances": 7,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
+          "score": 72.59
+        },
+        {
+          "source": "더쿠",
+          "rank": 46,
+          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
+          "url": "https://theqoo.net/hot/4360674547",
+          "score": 62.24
+        }
+      ],
+      "first_seen": "2026-09-29T17:26:15.303692+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 1
     },
     {
       "id": "i879d3e36",
@@ -795,48 +827,8 @@
       "last_seen": "2026-09-30T04:57:06.263561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "id96d25c0",
-      "title": "‘dmz’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "dmz"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 101.68,
-      "peak_score": 84.95,
-      "appearances": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.45
-        },
-        {
-          "source": "더쿠",
-          "rank": 43,
-          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
-          "url": "https://theqoo.net/hot/4360674547",
-          "score": 62.74
-        }
-      ],
-      "first_seen": "2026-09-29T17:26:15.303692+09:00",
-      "last_seen": "2026-09-30T11:16:47.154272+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 7,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -846,9 +838,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 99.91,
+      "score": 100.68,
       "peak_score": 84.95,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -861,7 +853,7 @@
           "rank": 15,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.45
+          "score": 72.59
         },
         {
           "source": "클리앙",
@@ -872,11 +864,50 @@
         }
       ],
       "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-09-30T11:16:47.154272+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
       "change": 0
+    },
+    {
+      "id": "ifc2a71e9",
+      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+      "keywords": [
+        "이재명",
+        "대외비"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.42,
+      "peak_score": 88.93,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
+          "score": 80.93
+        },
+        {
+          "source": "인벤",
+          "rank": 100,
+          "title": "이재명 대통령 SNS 대외비 이미지 논란",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734252",
+          "score": 50.49
+        }
+      ],
+      "first_seen": "2026-09-30T11:07:50.708457+09:00",
+      "last_seen": "2026-09-30T11:17:21.224781+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 2
     },
     {
       "id": "i533b29bd",
@@ -913,46 +944,8 @@
       "last_seen": "2026-09-30T00:03:15.633324+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "id7093700",
-      "title": "‘욕먹는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "욕먹는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.84,
-      "peak_score": 84.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 14,
-          "title": "흡연자들이 흡연충이라고 욕먹는 이유",
-          "url": "https://theqoo.net/hot/4360486658",
-          "score": 75.37
-        },
-        {
-          "source": "클리앙",
-          "rank": 83,
-          "title": "국방부가 항상 욕먹는 이유",
-          "url": "https://www.clien.net/service/board/park/19271524?od=T31&po=0&category=0&groupCd=",
-          "score": 54.44
-        }
-      ],
-      "first_seen": "2026-09-30T08:12:26.616705+09:00",
-      "last_seen": "2026-09-30T08:12:26.616705+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 0
+      "change": -1
     }
   ],
   "realtime_issues": [
@@ -961,15 +954,15 @@
       "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
       "keywords": [
         "유엔사",
-        "위반",
         "정전협정",
+        "위반",
         "발견",
         "이남서"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 90.84,
-      "peak_score": 90.84,
+      "score": 90.98,
+      "peak_score": 90.98,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -979,21 +972,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 9,
+          "rank": 10,
           "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-          "score": 75.84
+          "score": 75.98
         },
         {
           "source": "더쿠",
-          "rank": 43,
+          "rank": 46,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 62.74
+          "score": 62.24
         },
         {
           "source": "인벤",
-          "rank": 62,
+          "rank": 63,
           "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
           "score": 57.89
@@ -1003,6 +996,76 @@
       "change": 0
     },
     {
+      "id": "iadaad958",
+      "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
+      "keywords": [
+        "chatgpt",
+        "가격인상"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.36,
+      "peak_score": 103.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
+          "score": 95.36
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 17,
+          "title": "ChatGPT 가격인상 ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136029",
+          "score": 72.1
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ifc2a71e9",
+      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+      "keywords": [
+        "이재명",
+        "대외비"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.93,
+      "peak_score": 88.93,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
+          "score": 80.93
+        },
+        {
+          "source": "인벤",
+          "rank": 100,
+          "title": "이재명 대통령 SNS 대외비 이미지 논란",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734252",
+          "score": 50.49
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
       "id": "i36ddd5fd",
       "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -1010,8 +1073,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.45,
-      "peak_score": 81.45,
+      "score": 81.59,
+      "peak_score": 81.59,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1023,7 +1086,7 @@
           "rank": 15,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.45
+          "score": 72.59
         },
         {
           "source": "클리앙",
@@ -1033,8 +1096,8 @@
           "score": 59.67
         }
       ],
-      "rank": 2,
-      "change": 1
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "id96d25c0",
@@ -1044,8 +1107,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.45,
-      "peak_score": 81.45,
+      "score": 81.59,
+      "peak_score": 81.59,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1057,18 +1120,18 @@
           "rank": 15,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.45
+          "score": 72.59
         },
         {
           "source": "더쿠",
-          "rank": 43,
+          "rank": 46,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 62.74
+          "score": 62.24
         }
       ],
-      "rank": 3,
-      "change": 1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i180a04cc",
@@ -1088,7 +1151,7 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 32,
+          "rank": 34,
           "title": "싱글벙글 살빼는게 어려운 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466832&_dcbest=1&page=1",
           "score": 64.6
@@ -1101,15 +1164,15 @@
           "score": 56.99
         }
       ],
-      "rank": 4,
-      "change": 1
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "if2849d82",
       "title": "합참 '北 사과 강력히 촉구'",
       "keywords": [
-        "합참",
         "촉구",
+        "합참",
         "사과"
       ],
       "source_count": 2,
@@ -1124,21 +1187,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 46,
+          "rank": 45,
           "title": "합참 '北 사과 강력히 촉구'",
           "url": "https://www.clien.net/service/board/park/19271614?od=T31&po=0&category=0&groupCd=",
           "score": 62.37
         },
         {
           "source": "인벤",
-          "rank": 63,
+          "rank": 61,
           "title": "[속보] 합참 “우리 장병들, 北지뢰로 심각 부상…사과 촉구”",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734284",
-          "score": 57.88
+          "score": 58.08
         }
       ],
-      "rank": 5,
-      "change": 2
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "ic4c52c51",
@@ -1171,51 +1234,17 @@
           "score": 55.18
         }
       ],
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i23a285e5",
-      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안세영"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.68,
-      "peak_score": 64.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 73,
-          "title": "안세영 하체 인정 못 하는 사람들",
-          "url": "https://theqoo.net/hot/4360735249",
-          "score": 55.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 86,
-          "title": "속보) 안세영 승률 갱신",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76854546?m=humor_only&t=now",
-          "score": 53.06
-        }
-      ],
-      "rank": 7,
-      "change": 1
+      "rank": 8,
+      "change": -2
     }
   ],
   "keywords": [
     {
       "keyword": "한국",
-      "score": 160.14,
-      "post_count": 6,
+      "score": 156.65,
+      "post_count": 5,
       "source_count": 4,
-      "best_rank": 16,
+      "best_rank": 13,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -1228,10 +1257,10 @@
     },
     {
       "keyword": "정전협정",
-      "score": 132.3,
+      "score": 131.62,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 9,
+      "best_rank": 10,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -1245,10 +1274,10 @@
     },
     {
       "keyword": "유엔사",
-      "score": 124.31,
+      "score": 123.52,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 9,
+      "best_rank": 10,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -1259,8 +1288,24 @@
       "change": 0
     },
     {
+      "keyword": "chatgpt",
+      "score": 110.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "가격인상"
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "keyword": "양궁",
-      "score": 109.04,
+      "score": 109.3,
       "post_count": 3,
       "source_count": 3,
       "best_rank": 49,
@@ -1270,29 +1315,43 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 4,
-      "change": 1
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "keyword": "서울",
+      "score": 105.32,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "keyword": "지뢰",
-      "score": 105.45,
+      "score": 104.97,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 10,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": 1
+      "rank": 7,
+      "change": -2
     },
     {
       "keyword": "이남서",
-      "score": 96.29,
+      "score": 95.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 10,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1300,12 +1359,12 @@
       "aliases": [
         "발견"
       ],
-      "rank": 6,
-      "change": 1
+      "rank": 8,
+      "change": -2
     },
     {
       "keyword": "dmz",
-      "score": 95.96,
+      "score": 95.55,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 15,
@@ -1314,12 +1373,26 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": 1
+      "rank": 9,
+      "change": -2
+    },
+    {
+      "keyword": "북한",
+      "score": 94.38,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -1
     },
     {
       "keyword": "민주당",
-      "score": 94.09,
+      "score": 94.11,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 15,
@@ -1328,26 +1401,42 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": 2
+      "rank": 11,
+      "change": -3
     },
     {
-      "keyword": "북한",
-      "score": 94.01,
-      "post_count": 3,
+      "keyword": "이재명",
+      "score": 93.29,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
+      "aliases": [
+        "대외비"
+      ],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "많은",
+      "score": 92.75,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
       "aliases": [],
-      "rank": 9,
-      "change": 0
+      "rank": 13,
+      "change": "NEW"
     },
     {
       "keyword": "발생",
-      "score": 92.19,
+      "score": 91.76,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 26,
@@ -1356,114 +1445,55 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": 1
+      "rank": 14,
+      "change": -4
     },
     {
       "keyword": "어려운",
-      "score": 87.74,
+      "score": 87.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 34,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 11,
-      "change": 1
-    },
-    {
-      "keyword": "판단",
-      "score": 86.53,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 43,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": 1
-    },
-    {
-      "keyword": "합참",
-      "score": 86.0,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 46,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "사과",
-        "촉구"
-      ],
-      "rank": 13,
-      "change": 1
-    },
-    {
-      "keyword": "많이",
-      "score": 81.03,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 67,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": 1
-    },
-    {
-      "keyword": "여행",
-      "score": 80.1,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 65,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -4
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "극한직업 카페직원",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76853976?m=humor",
-      "score": 96.88,
-      "views": 10590,
-      "comments": 90
+      "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
+      "score": 95.36,
+      "views": 31282,
+      "comments": 74
     },
     {
       "source": "디시인사이드",
       "title": "박우현 엘베 정신승리썰 하나 추가 ㅋㅋㅋㅋㅋ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466856&_dcbest=1&page=1",
-      "score": 81.12,
-      "views": 10031,
-      "comments": 167
+      "score": 81.26,
+      "views": 10056,
+      "comments": 169
     },
     {
       "source": "뽐뿌",
       "title": "결혼 공지 글에 식대 올리는 사람",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135961",
-      "score": 79.59,
-      "views": 4385,
-      "comments": 27
+      "score": 80.54,
+      "views": 4608,
+      "comments": 31
     },
     {
       "source": "인벤",
       "title": "[속보]드디어 윤곽 드러낸 북 지뢰도발 상응조치 ㄷㄷㄷ",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734279",
-      "score": 75.56,
-      "views": 1301,
+      "score": 76.16,
+      "views": 1317,
       "comments": 21
     },
     {
@@ -1472,14 +1502,14 @@
       "url": "https://theqoo.net/hot/4360679577",
       "score": 72.89,
       "views": 34759,
-      "comments": 450
+      "comments": 452
     },
     {
       "source": "클리앙",
       "title": "가끔 오래된 맥 유저가 인지 부조화를 느끼는 점",
       "url": "https://www.clien.net/service/board/park/19271620?od=T31&po=0&category=0&groupCd=",
       "score": 68.94,
-      "views": 371,
+      "views": 388,
       "comments": 7
     }
   ]
