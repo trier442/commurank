@@ -8,7 +8,7 @@
 })();
 
 let liveData = null;
-let archiveData = {};
+let searchIndexData = null;
 let query = "";
 let source = "전체";
 let category = "전체";
@@ -55,22 +55,23 @@ function currentPosts() {
 function buildRecords() {
   const current = new Map(currentPosts().map(p => [p.url, p]));
   const records = new Map();
+  const compact = Array.isArray(searchIndexData?.records) ? searchIndexData.records : [];
 
-  Object.values(archiveData || {}).forEach(item => {
-    if (!item?.url) return;
-    records.set(item.url, {
-      title:item.title || "",
-      source:item.source || "",
-      category:item.category || "이슈",
-      url:item.url,
-      views:Number(item.max_views || 0),
-      likes:Number(item.max_likes || 0),
-      comments:Number(item.max_comments || 0),
-      score:Number(item.peak_score || 0),
-      first_seen:item.first_seen || "",
-      last_seen:item.last_seen || "",
-      appearances:Number(item.appearances || 0),
-      current:false
+  compact.forEach(item => {
+    if (!item?.u) return;
+    records.set(item.u, {
+      title:item.t || "",
+      source:item.s || "",
+      category:item.c || "이슈",
+      url:item.u,
+      views:Number(item.v || 0),
+      likes:Number(item.l || 0),
+      comments:Number(item.m || 0),
+      score:Number(item.p || 0),
+      first_seen:item.f || "",
+      last_seen:item.d || "",
+      appearances:Number(item.a || 0),
+      current:Boolean(item.n)
     });
   });
 
@@ -242,15 +243,15 @@ async function load() {
   sort = params.get("sort") || "relevance";
 
   try {
-    const [liveResponse, archiveResponse] = await Promise.all([
+    const [liveResponse, searchResponse] = await Promise.all([
       fetch("../data/latest.json?ts=" + Date.now(), {cache:"no-store"}),
-      fetch("../data/archive.json?ts=" + Date.now(), {cache:"no-store"})
+      fetch("../data/search-index.json?ts=" + Date.now(), {cache:"no-store"})
     ]);
     if (liveResponse.ok) liveData = await liveResponse.json();
-    if (archiveResponse.ok) archiveData = await archiveResponse.json();
+    if (searchResponse.ok) searchIndexData = await searchResponse.json();
   } catch {}
 
-  document.querySelector("#archiveTotal").textContent = Object.keys(archiveData || {}).length;
+  document.querySelector("#archiveTotal").textContent = Number(searchIndexData?.count || searchIndexData?.records?.length || 0);
   document.querySelector("#currentTotal").textContent = currentPosts().length;
   renderSources();
 
