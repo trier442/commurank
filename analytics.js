@@ -1,3 +1,13 @@
+
+(() => {
+  if (document.querySelector('script[data-commurank-ads-loader]')) return;
+  const s = document.createElement("script");
+  s.src = "/ads.js";
+  s.defer = true;
+  s.setAttribute("data-commurank-ads-loader", "1");
+  document.head.appendChild(s);
+})();
+
 (() => {
   function addPolicyLinks() {
     const footer = document.querySelector("footer .footer-inner");
