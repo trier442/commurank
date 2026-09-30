@@ -49,6 +49,14 @@ def fmt_number(value) -> str:
         return "0"
 
 
+def natural_date_label(key: str, fallback: str = "") -> str:
+    try:
+        dt = datetime.strptime(str(key), "%Y-%m-%d")
+        return f"{dt.year}년 {dt.month}월 {dt.day}일"
+    except Exception:
+        return str(fallback or key)
+
+
 def page_shell(title: str, description: str, canonical: str, body: str, structured=None) -> str:
     ld = ""
     if structured:
@@ -135,16 +143,17 @@ def ranking_rows(posts: list[dict]) -> str:
 
 def archive_page(period: str, item: dict, snap: dict) -> str:
     label = item.get("label") or item.get("key")
+    display_label = natural_date_label(item.get("key"), label) if period == "daily" else label
     period_label, _ = PERIODS[period]
     posts = snap.get("posts", []) if isinstance(snap, dict) else []
     canonical = f"{BASE}/ranking/{period}/{item['key']}/"
-    title = f"{label} 커뮤니티 인기글 순위 TOP100 | 커뮤랭크"
-    description = f"{label} {period_label} 커뮤니티 인기글 순위 TOP100. 디시인사이드·에펨코리아·더쿠·루리웹·클리앙·인벤·뽐뿌 공개 인기글 반응을 통합해 정리합니다."
+    title = f"{display_label} 커뮤니티 인기글 순위 TOP100 | 커뮤랭크"
+    description = f"{display_label} {period_label} 커뮤니티 인기글 순위 TOP100. 디시인사이드·에펨코리아·더쿠·루리웹·클리앙·인벤·뽐뿌 공개 인기글 반응을 통합해 정리합니다."
 
     item_list = {
         "@context": "https://schema.org",
         "@type": "ItemList",
-        "name": f"{label} 커뮤니티 인기글 TOP100",
+        "name": f"{display_label} 커뮤니티 인기글 TOP100",
         "numberOfItems": min(100, len(posts)),
         "itemListElement": [
             {
@@ -160,13 +169,18 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
     body = f"""
     <section class="shell info-hero ranking-archive-hero">
       <p class="eyebrow">COMMURANK {period.upper()} ARCHIVE</p>
-      <h1>{esc(label)}<br><span>커뮤니티 인기글 순위 TOP100</span></h1>
+      <h1>{esc(display_label)}<br><span>커뮤니티 인기글 순위 TOP100</span></h1>
       <p>{esc(description)}</p>
       <div class="archive-page-nav">
         <a href="/ranking/{period}/">← {period_label} 아카이브</a>
         <a href="/?period={period}">현재 {period_label} 랭킹 →</a>
       </div>
     </section>
+    {f'''<section class="shell date-crosslinks">
+      <a href="/briefing/{esc(item.get('key'))}/"><strong>같은 날짜의 인터넷 이슈 브리핑</strong><span>{esc(display_label)} 이슈·키워드 보기 →</span></a>
+      <a href="/issues/?period=daily"><strong>오늘 인터넷 이슈 TOP20</strong><span>여러 커뮤니티 동시 화제 보기 →</span></a>
+      <a href="/reports/weekly/"><strong>주간 트렌드 리포트</strong><span>이번 주 흐름 이어보기 →</span></a>
+    </section>''' if period == "daily" else ""}
     <section class="shell ranking-seo-layout">
       <div class="ranking-panel">
         <div class="section-head">
@@ -177,7 +191,31 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
       </div>
     </section>
     """
-    return page_shell(title, description, canonical, body, item_list)
+    archive_structured = item_list
+    if period == "daily":
+        archive_structured = {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "CollectionPage",
+                    "name": f"{display_label} 커뮤니티 인기글 순위 TOP100",
+                    "url": canonical,
+                    "datePublished": str(item.get("key") or ""),
+                    "dateModified": str(item.get("collected_at") or item.get("key") or ""),
+                    "description": description,
+                },
+                {k: v for k, v in item_list.items() if k != "@context"},
+                {
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "name": "커뮤랭크", "item": f"{BASE}/"},
+                        {"@type": "ListItem", "position": 2, "name": "일간 인기글 순위", "item": f"{BASE}/ranking/daily/"},
+                        {"@type": "ListItem", "position": 3, "name": display_label, "item": canonical},
+                    ],
+                },
+            ],
+        }
+    return page_shell(title, description, canonical, body, archive_structured)
 
 
 def period_index(period: str, items: list[dict]) -> str:
@@ -268,6 +306,7 @@ def root_index(index: dict) -> str:
 def briefing_article_page(item: dict, briefing: dict) -> str:
     key = str(item.get("key") or briefing.get("date") or "")
     label = str(briefing.get("label") or item.get("label") or key)
+    display_label = natural_date_label(key, label)
     canonical = f"{BASE}/briefing/{key}/"
     stats = briefing.get("stats", {}) if isinstance(briefing, dict) else {}
     issues = briefing.get("issues", []) if isinstance(briefing, dict) else []
@@ -277,12 +316,12 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
     top_posts = briefing.get("top_posts", []) if isinstance(briefing, dict) else []
 
     description = (
-        f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 브리핑. "
+        f"{display_label} 인터넷 이슈·커뮤니티 인기글 브리핑. "
         f"{int(stats.get('sources', 0) or 0)}개 커뮤니티의 인기글, 급상승 글, 핵심 이슈와 키워드를 데이터로 정리합니다."
     )
 
     paragraphs = [
-        f"{label} 커뮤랭크는 {int(stats.get('sources', 0) or 0)}개 커뮤니티에서 "
+        f"{display_label} 커뮤랭크는 {int(stats.get('sources', 0) or 0)}개 커뮤니티에서 "
         f"실시간 인기글 {int(stats.get('realtime_posts', 0) or 0)}건과 일간 인기글 "
         f"{int(stats.get('daily_posts', 0) or 0)}건을 집계했습니다. "
         f"상위 인기글의 누적 조회는 {fmt_number(stats.get('top100_views'))}회, "
@@ -371,11 +410,15 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
     <article class="shell daily-brief-article">
       <header class="daily-brief-header">
         <p class="eyebrow">DAILY INTERNET BRIEFING</p>
-        <h1>{esc(label)}<br><span>인터넷 이슈 브리핑</span></h1>
+        <h1>{esc(display_label)}<br><span>인터넷 이슈·커뮤니티 인기글</span></h1>
         <p>{esc(description)}</p>
         <div class="archive-page-nav">
           <a href="/briefing/">오늘의 브리핑</a>
           <a href="/briefing/archive/">지난 브리핑 보기 →</a>
+        </div>
+        <div class="date-crosslinks compact">
+          <a href="/ranking/daily/{esc(key)}/"><strong>같은 날짜의 인기글 TOP100</strong><span>{esc(display_label)} 순위 보기 →</span></a>
+          <a href="/issues/?period=daily"><strong>인터넷 이슈 TOP20</strong><span>동시 화제 순위 보기 →</span></a>
         </div>
       </header>
 
@@ -422,14 +465,28 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
     structured = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 브리핑",
+        "headline": f"{display_label} 인터넷 이슈·커뮤니티 인기글 브리핑",
         "description": description,
         "datePublished": key,
         "dateModified": briefing.get("collected_at", key),
         "mainEntityOfPage": canonical,
         "publisher": {"@type": "Organization", "name": "커뮤랭크", "url": BASE},
     }
-    return page_shell(f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 | 커뮤랭크", description, canonical, body, structured)
+    briefing_structured = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {k: v for k, v in structured.items() if k != "@context"},
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "커뮤랭크", "item": f"{BASE}/"},
+                    {"@type": "ListItem", "position": 2, "name": "인터넷 이슈 브리핑", "item": f"{BASE}/briefing/archive/"},
+                    {"@type": "ListItem", "position": 3, "name": display_label, "item": canonical},
+                ],
+            },
+        ],
+    }
+    return page_shell(f"{display_label} 인터넷 이슈·커뮤니티 인기글 | 커뮤랭크", description, canonical, body, briefing_structured)
 
 
 def briefing_archive_page(briefing_index: dict) -> str:
