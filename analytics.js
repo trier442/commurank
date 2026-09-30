@@ -86,12 +86,57 @@
     catch { return ""; }
   }
 
+  function pageGroup(path = location.pathname) {
+    if (path === "/") return "Home";
+    if (path.startsWith("/briefing/")) return "Daily Briefing";
+    if (path.startsWith("/reports/weekly/")) return "Weekly Reports";
+    if (path.startsWith("/reports/monthly/")) return "Monthly Reports";
+    if (path.startsWith("/ranking/")) return "Ranking Archive";
+    if (path.startsWith("/community/")) return "Community Ranking";
+    if (path === "/issues/" || path.startsWith("/issue/")) return "Issues";
+    if (path.startsWith("/search/")) return "Search";
+    if (path.startsWith("/my/")) return "My Feed";
+    if (path.startsWith("/post/")) return "Post Analysis";
+    return "Info";
+  }
+
+  function externalDestination(anchor) {
+    try {
+      const url = new URL(anchor.href, location.href);
+      if (!/^https?:$/.test(url.protocol)) return null;
+      if (url.hostname === location.hostname || url.hostname === "www." + location.hostname) return null;
+      return url;
+    } catch {
+      return null;
+    }
+  }
+
+  function inferSource(anchor) {
+    const row = anchor.closest(".rank-item, .search-result-card, .brief-list-row, .portal-feature-item, .portal-mini-item, .issue-rank-row");
+    const sourceNode = row?.querySelector(".source, .portal-source");
+    return (sourceNode?.textContent || document.body.dataset.source || "").trim().slice(0, 60);
+  }
+
   document.addEventListener("click", event => {
     const anchor = event.target.closest("a[href]");
     const keywordButton = event.target.closest("[data-keyword]");
+    const periodButton = event.target.closest("[data-period], [data-jump-period]");
+    const categoryButton = event.target.closest("[data-category]");
 
     if (keywordButton) {
       send("keyword_filter", { keyword: keywordButton.dataset.keyword || "" });
+    }
+    if (periodButton) {
+      send("ranking_period_change", {
+        period: periodButton.dataset.period || periodButton.dataset.jumpPeriod || "",
+        source_page: location.pathname
+      });
+    }
+    if (categoryButton) {
+      send("category_filter", {
+        category: categoryButton.dataset.category || "",
+        source_page: location.pathname
+      });
     }
 
     if (!anchor) return;
@@ -108,12 +153,21 @@
       send("issue_ranking_open", { source_page: location.pathname });
     } else if (href.includes("/briefing/")) {
       send("briefing_open", { source_page: location.pathname });
+    } else if (href.includes("/reports/weekly/")) {
+      send("weekly_report_open", { source_page: location.pathname });
+    } else if (href.includes("/reports/monthly/")) {
+      send("monthly_report_open", { source_page: location.pathname });
+    } else if (href.includes("/ranking/")) {
+      send("ranking_archive_open", { source_page: location.pathname });
     }
 
-    if (anchor.id === "originalLink" || anchor.classList.contains("primary-action")) {
+    const external = externalDestination(anchor);
+    if (external) {
       send("original_outbound_click", {
-        destination_host: destinationHost(anchor.href),
-        source_page: location.pathname
+        destination_host: external.hostname,
+        source: inferSource(anchor),
+        source_page: location.pathname,
+        content_group: pageGroup()
       });
     }
   }, { passive: true });
@@ -156,7 +210,8 @@
       window.gtag("js", new Date());
       window.gtag("config", config.ga4_id, {
         send_page_view: true,
-        anonymize_ip: true
+        anonymize_ip: true,
+        content_group: pageGroup()
       });
 
       const script = document.createElement("script");
