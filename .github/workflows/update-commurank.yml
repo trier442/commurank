@@ -50,6 +50,9 @@ jobs:
       - name: Build indexable ranking archive pages
         run: python scripts/build_seo.py
 
+      - name: Notify Naver IndexNow
+        run: python scripts/notify_indexnow.py
+
       - name: Commit updated ranking data
         run: |
           if git diff --quiet -- data ranking sitemap.xml feed.xml; then
