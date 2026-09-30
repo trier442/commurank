@@ -1,4 +1,4 @@
-const CACHE_NAME = "commurank-shell-v14";
+const CACHE_NAME = "commurank-shell-v15";
 const SHELL = [
   "/",
   "/styles.css",
