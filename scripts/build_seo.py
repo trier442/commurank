@@ -560,6 +560,16 @@ def write_sitemap(index: dict, briefing_index: dict) -> None:
     for path, freq, priority in static:
         rows.append(f"  <url><loc>{BASE}{path}</loc><lastmod>{today}</lastmod><changefreq>{freq}</changefreq><priority>{priority}</priority></url>")
 
+    for item in briefing_index.get("items", []):
+        key = str(item.get("key") or "")
+        if not key:
+            continue
+        collected = str(item.get("collected_at", today))[:10]
+        rows.append(
+            f"  <url><loc>{BASE}/briefing/{esc(key)}/</loc>"
+            f"<lastmod>{collected}</lastmod><changefreq>{'hourly' if key == today else 'never'}</changefreq><priority>0.8</priority></url>"
+        )
+
     for period in PERIODS:
         period_items = index.get("periods", {}).get(period, [])
         for idx, item in enumerate(period_items):
