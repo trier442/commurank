@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-09-30T11:18:17.950533+09:00",
+  "collected_at": "2026-09-30T11:27:58.185526+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -62,9 +62,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 124.88,
+      "score": 125.28,
       "peak_score": 105.46,
-      "appearances": 11,
+      "appearances": 12,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -75,25 +75,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 16,
+          "rank": 18,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.59
+          "score": 72.29
         },
         {
           "source": "더쿠",
-          "rank": 46,
+          "rank": 75,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
+          "score": 56.42
         }
       ],
       "first_seen": "2026-09-29T17:26:15.303692+09:00",
-      "last_seen": "2026-09-30T11:18:17.950533+09:00",
+      "last_seen": "2026-09-30T11:27:58.185526+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i106465f0",
@@ -134,7 +134,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -306,6 +306,57 @@
       "change": 0
     },
     {
+      "id": "i1d3a3c3b",
+      "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
+      "keywords": [
+        "위반",
+        "유엔사",
+        "정전협정",
+        "발견",
+        "지뢰",
+        "이남서"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 113.89,
+      "peak_score": 91.9,
+      "appearances": 8,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 11,
+          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
+          "score": 76.9
+        },
+        {
+          "source": "더쿠",
+          "rank": 75,
+          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
+          "url": "https://theqoo.net/hot/4360674547",
+          "score": 56.42
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
+          "score": 55.76
+        }
+      ],
+      "first_seen": "2026-09-30T10:38:38.903426+09:00",
+      "last_seen": "2026-09-30T11:27:58.185526+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 8,
+      "change": 2
+    },
+    {
       "id": "i9f5e1ed4",
       "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -342,8 +393,8 @@
       "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i1e941339",
@@ -380,58 +431,8 @@
       "last_seen": "2026-09-30T04:57:06.263561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i1d3a3c3b",
-      "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
-      "keywords": [
-        "유엔사",
-        "정전협정",
-        "위반",
-        "지뢰",
-        "이남서"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 112.38,
-      "peak_score": 90.98,
-      "appearances": 7,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 8,
-          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-          "score": 75.98
-        },
-        {
-          "source": "더쿠",
-          "rank": 46,
-          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
-          "url": "https://theqoo.net/hot/4360674547",
-          "score": 61.74
-        },
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
-          "score": 57.89
-        }
-      ],
-      "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:18:17.950533+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 10,
-      "change": 1
+      "change": -1
     },
     {
       "id": "i09667a01",
@@ -470,7 +471,84 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "iae209e51",
+      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "충격적인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.74,
+      "peak_score": 101.27,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "충격적인) 요즘 증가중이라는 접종 거부자들 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135853",
+          "score": 92.27
+        },
+        {
+          "source": "더쿠",
+          "rank": 87,
+          "title": "충격적인 아기공룡 둘리 고길동 근황",
+          "url": "https://theqoo.net/hot/4360707150",
+          "score": 52.89
+        }
+      ],
+      "first_seen": "2026-09-30T11:27:58.185526+09:00",
+      "last_seen": "2026-09-30T11:27:58.185526+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 109.98,
+      "peak_score": 92.05,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 38,
+          "title": "다들 >들기름< 이거 어떻게 읽어???",
+          "url": "https://theqoo.net/hot/4360751810",
+          "score": 65.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 67,
+          "title": "“55억 아파트가 어떻게 47억에”…강남 거래한파, 마포·용산까지 덮쳐",
+          "url": "https://www.clien.net/service/board/park/19271606?od=T31&po=0&category=0&groupCd=",
+          "score": 58.97
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-30T11:27:58.185526+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": 0
     },
     {
       "id": "i0c1846a6",
@@ -507,54 +585,8 @@
       "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "어떻게"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 108.54,
-      "peak_score": 92.05,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 13,
-          "title": "자식없는 딩크들은 도대체 아프면 어떻게 할 예정임?",
-          "url": "https://theqoo.net/hot/4360020986",
-          "score": 75.05
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 44,
-          "title": "삼촌은 인터넷 없을때 어떻게 놀았어?",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135370",
-          "score": 62.78
-        },
-        {
-          "source": "클리앙",
-          "rank": 89,
-          "title": "관점을 바꿔 보겠습니다 그렇다면 북한에게 어떻게 응대해야 확실할까요?",
-          "url": "https://www.clien.net/service/board/park/19271367?od=T31&po=0&category=0&groupCd=",
-          "score": 52.94
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-09-29T19:53:33.458089+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i23a285e5",
@@ -595,8 +627,8 @@
       "last_seen": "2026-09-30T11:18:17.950533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i8b4085e0",
@@ -638,8 +670,8 @@
       "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -649,9 +681,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 104.56,
+      "score": 105.08,
       "peak_score": 86.57,
-      "appearances": 8,
+      "appearances": 9,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -661,25 +693,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 16,
+          "rank": 18,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 72.59
+          "score": 72.29
         },
         {
           "source": "클리앙",
-          "rank": 56,
+          "rank": 20,
           "title": "민주당 '조작기소특검법' 연기, 역풍우려",
           "url": "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd=",
-          "score": 59.67
+          "score": 70.9
         }
       ],
       "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-09-30T11:18:17.950533+09:00",
+      "last_seen": "2026-09-30T11:27:58.185526+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i879d3e36",
@@ -717,8 +749,8 @@
       "last_seen": "2026-09-30T04:57:06.263561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i9355ba36",
@@ -758,8 +790,8 @@
       "last_seen": "2026-09-29T20:27:19.824549+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i78f6419e",
@@ -799,46 +831,8 @@
       "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "ibcbce939",
-      "title": "‘않습니다’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "않습니다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 101.02,
-      "peak_score": 91.55,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "암살자들 \"보지 않습니다, 예매하지 않습니다\" 불매 움직임까지..news",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91665",
-          "score": 82.55
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 62,
-          "title": "“우리는 안전과 타협하지 않습니다”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466447&_dcbest=1&page=1",
-          "score": 59.35
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-09-28T19:49:36.308484+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
