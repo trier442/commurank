@@ -7,11 +7,13 @@ from collections import Counter, defaultdict
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 OUT = ROOT / "reports" / "weekly"
 BASE = "https://commurank.kr"
+KST = ZoneInfo("Asia/Seoul")
 
 
 def read_json(path: Path, default):
@@ -139,7 +141,7 @@ def report_page(item, brief_index):
     if not start or not end:
         return ""
 
-    today = datetime.now().date()
+    today = datetime.now(KST).date()
     selected, keywords, issues = aggregate_briefings(brief_index.get("items", []), start, end)
     covered_days = sorted({b.get("date") for b in selected if b.get("date")})
     status = "집계 중" if start <= today <= end else ("주간 확정" if len(covered_days) >= 5 else "부분 집계")
@@ -250,7 +252,7 @@ def index_page(items):
 def update_sitemap(items):
     path=ROOT/"sitemap.xml"
     text=path.read_text(encoding="utf-8") if path.exists() else ""
-    urls=[(f"{BASE}/reports/weekly/","daily","0.8",datetime.now().strftime("%Y-%m-%d"))]
+    urls=[(f"{BASE}/reports/weekly/","daily","0.8",datetime.now(KST).strftime("%Y-%m-%d"))]
     for item in items:
         urls.append((f"{BASE}/reports/weekly/{item.get('key')}/","weekly","0.8",str(item.get("collected_at",""))[:10]))
     for loc,freq,priority,lastmod in urls:
