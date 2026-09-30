@@ -61,6 +61,7 @@ def shell(title: str, desc: str, canonical: str, body: str, structured=None) -> 
   <meta property="og:description" content="{esc(desc)}" />
   <meta property="og:url" content="{esc(canonical)}" />
   <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
   <link rel="canonical" href="{esc(canonical)}" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
