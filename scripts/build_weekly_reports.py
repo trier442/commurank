@@ -154,7 +154,7 @@ def report_page(item, brief_index):
 
     top_kw = ", ".join("#"+x["keyword"] for x in keywords[:5]) if keywords else "집계 중"
     top_issue = issues[0]["title"] if issues else "여러 커뮤니티 동시 화제 데이터 집계 중"
-    desc = f"{item.get('label')} 커뮤니티 주간 트렌드 리포트. 주간 인기글, 지속 화제, 키워드, 커뮤니티별 반응 흐름을 데이터로 정리합니다."
+    desc = f"{item.get('label')} 주간 커뮤니티 인기글·인터넷 이슈 트렌드 리포트. 인기글, 지속 화제, 반복 키워드와 커뮤니티별 반응 흐름을 데이터로 정리합니다."
 
     coverage_text = f"{len(covered_days)}일치 브리핑 데이터" if covered_days else "브리핑 데이터 축적 중"
     paragraphs = [
@@ -232,7 +232,7 @@ def report_page(item, brief_index):
         "mainEntityOfPage":f"{BASE}/reports/weekly/{key}/",
         "publisher":{"@type":"Organization","name":"커뮤랭크","url":BASE}
     }
-    return shell(f"{item.get('label')} 주간 인터넷 트렌드 | 커뮤랭크", desc, f"{BASE}/reports/weekly/{key}/", body, structured)
+    return shell(f"{item.get('label')} 주간 커뮤니티 인기글·인터넷 이슈 | 커뮤랭크", desc, f"{BASE}/reports/weekly/{key}/", body, structured)
 
 
 def index_page(items):
@@ -243,7 +243,7 @@ def index_page(items):
     body=f"""
     <section class="shell info-hero"><p class="eyebrow">WEEKLY TREND ARCHIVE</p><h1>주간 인터넷<br>트렌드 리포트</h1><p>한 주 동안 여러 커뮤니티에서 반복된 이슈, 키워드, 인기글 지속성과 커뮤니티별 대표 글을 데이터 중심으로 정리합니다.</p></section>
     <section class="shell info-layout"><div class="info-main"><section class="info-card"><h2>주간 리포트</h2><div class="archive-index-list">{rows or '<div class="empty">주간 데이터를 쌓는 중입니다.</div>'}</div></section><section class="info-card"><h2>주간 리포트는 무엇을 보여 주나요?</h2><p>한 번 크게 반응한 글뿐 아니라 여러 날 인기 목록에 남은 글, 여러 커뮤니티에서 반복된 키워드와 동시 화제를 함께 봅니다. 주간 TOP100의 순위 데이터와 일간 브리핑을 결합해 단기 급등과 지속 관심을 구분합니다.</p><p>현재 주가 끝나기 전에는 ‘집계 중’, 충분한 과거 자료가 없는 주는 ‘부분 집계’라고 표시합니다. 수집된 인기글의 흐름을 설명하는 데이터 리포트이며 특정 주장이나 이슈에 대한 사실 판정·평가를 제공하지 않습니다.</p></section></div><aside class="info-side"><nav class="info-nav"><a href="/briefing/archive/">일간 브리핑</a><a href="/ranking/weekly/">주간 TOP100</a><a href="/issues/">이슈 TOP20</a></nav></aside></section>"""
-    return shell("주간 인터넷 트렌드 리포트 | 커뮤랭크","주간 커뮤니티 인기글·키워드·동시 화제·지속성 데이터 리포트",f"{BASE}/reports/weekly/",body,{"@context":"https://schema.org","@type":"CollectionPage","name":"커뮤랭크 주간 인터넷 트렌드 리포트","url":f"{BASE}/reports/weekly/"})
+    return shell("주간 커뮤니티 인기글·인터넷 이슈 트렌드 | 커뮤랭크","주간 커뮤니티 인기글 순위, 반복 키워드, 동시 화제와 지속성 데이터를 정리한 트렌드 리포트",f"{BASE}/reports/weekly/",body,{"@context":"https://schema.org","@type":"CollectionPage","name":"커뮤랭크 주간 인터넷 트렌드 리포트","url":f"{BASE}/reports/weekly/"})
 
 
 def update_sitemap(items):
