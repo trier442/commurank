@@ -196,17 +196,17 @@ function renderPortalToday(){
   }
 
   container.innerHTML = items.slice(0,3).map((p,i)=>`
-    <article class="portal-feature-item">
+    <a class="portal-feature-item portal-feature-card" href="${safeText(p.url || "#")}" target="_blank" rel="noopener noreferrer" aria-label="${safeText(p.title)} 원문 열기">
       <span class="portal-feature-rank">${i+1}</span>
       <div>
         <span class="portal-source">${safeText(p.source)}</span>
-        <a href="${postDetailUrl(p.url)}">${safeText(p.title)}</a>
+        <span class="portal-feature-title">${safeText(p.title)}</span>
         <div class="portal-metrics">
           <span>조회 ${fmt(p.views)}</span>
           <span>댓글 ${fmt(p.comments)}</span>
         </div>
       </div>
-    </article>
+    </a>
   `).join("");
 }
 
