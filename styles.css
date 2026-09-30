@@ -2745,3 +2745,56 @@ select:focus-visible {
 @media (max-width: 640px) {
   .weekly-report .daily-brief-header h1 { font-size: 33px; }
 }
+
+
+/* Site guide and trust content */
+.site-map-links {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+.site-map-links a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  color: var(--text);
+  padding: 10px 12px;
+  font-size: 12px;
+  font-weight: 850;
+  text-decoration: none;
+}
+.site-map-links a::after { content: "→"; color: var(--muted); }
+.site-map-links a:hover { color: var(--brand); border-color: color-mix(in srgb,var(--brand) 30%,var(--line)); }
+
+.community-context {
+  display: grid;
+  grid-template-columns: repeat(3,minmax(0,1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.community-context article {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+  padding: 14px 15px;
+}
+.community-context strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+.community-context p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.65;
+}
+@media (max-width: 760px) {
+  .site-map-links { grid-template-columns: 1fr; }
+  .community-context { grid-template-columns: 1fr; }
+}
