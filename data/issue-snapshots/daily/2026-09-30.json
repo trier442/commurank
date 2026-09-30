@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-09-30",
   "label": "2026년 09월 30일",
-  "collected_at": "2026-09-30T21:25:49.191379+09:00",
+  "collected_at": "2026-09-30T21:26:29.885970+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -54,9 +54,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 127.49,
+      "score": 128.08,
       "peak_score": 101.09,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -66,21 +66,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 24,
+          "rank": 30,
           "title": "이재명 SNS 끊을 수 없어...",
           "url": "https://www.clien.net/service/board/park/19271872?od=T31&po=0&category=0&groupCd=",
-          "score": 69.44
+          "score": 67.34
         },
         {
           "source": "디시인사이드",
-          "rank": 74,
+          "rank": 73,
           "title": "이재명 “남의 힘에 기댄 안보는 흔들린다”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466954&_dcbest=1&page=1",
           "score": 56.52
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-09-30T21:25:49.191379+09:00",
+      "last_seen": "2026-09-30T21:26:29.885970+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
@@ -522,6 +522,45 @@
       "change": 0
     },
     {
+      "id": "i1c7e4a5d",
+      "title": "‘극장판’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "극장판",
+        "치이카와"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.89,
+      "peak_score": 90.84,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "트위터에서 말 나오는 극장판 치이카와 특전 수령 안내문",
+          "url": "https://theqoo.net/hot/4361243385",
+          "score": 80.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 100,
+          "title": "극장판 <치이카와>라고 하는 애니를 봤습니다. (노스포)",
+          "url": "https://www.clien.net/service/board/park/19271881?od=T31&po=0&category=0&groupCd=",
+          "score": 51.07
+        }
+      ],
+      "first_seen": "2026-09-29T21:40:10.407251+09:00",
+      "last_seen": "2026-09-30T21:26:29.885970+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
+    },
+    {
       "id": "i5ae392bf",
       "title": "‘우크라가’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -556,47 +595,8 @@
       "last_seen": "2026-09-30T12:08:04.223861+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
-    },
-    {
-      "id": "i1c7e4a5d",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "치이카와",
-        "극장판"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.77,
-      "peak_score": 90.84,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 7,
-          "title": "트위터에서 말 나오는 극장판 치이카와 특전 수령 안내문",
-          "url": "https://theqoo.net/hot/4361243385",
-          "score": 80.68
-        },
-        {
-          "source": "클리앙",
-          "rank": 97,
-          "title": "극장판 <치이카와>라고 하는 애니를 봤습니다. (노스포)",
-          "url": "https://www.clien.net/service/board/park/19271881?od=T31&po=0&category=0&groupCd=",
-          "score": 52.11
-        }
-      ],
-      "first_seen": "2026-09-29T21:40:10.407251+09:00",
-      "last_seen": "2026-09-30T21:25:49.191379+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 15,
-      "change": 1
+      "change": -1
     },
     {
       "id": "id96d25c0",
@@ -636,7 +636,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i879d3e36",
