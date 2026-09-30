@@ -2571,3 +2571,26 @@ select:focus-visible {
 @media (max-width: 420px) {
   .status-summary-grid { grid-template-columns: 1fr; }
 }
+
+
+/* Today TOP3 direct-original cards */
+.portal-feature-card {
+  color: var(--text);
+  text-decoration: none;
+  cursor: pointer;
+}
+.portal-feature-card:hover {
+  border-color: color-mix(in srgb, var(--brand) 38%, var(--line));
+  transform: translateY(-1px);
+}
+.portal-feature-title {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 850;
+  line-height: 1.5;
+}
+.portal-feature-card:hover .portal-feature-title { color: var(--brand); }
