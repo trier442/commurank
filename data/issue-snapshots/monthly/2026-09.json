@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-30T12:03:32.161159+09:00",
+  "collected_at": "2026-09-30T12:05:26.676657+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -551,9 +551,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 113.39,
+      "score": 113.98,
       "peak_score": 95.99,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -572,22 +572,61 @@
           "rank": 18,
           "title": "짬통 대외비 내부 문서 유출",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136082",
-          "score": 72.18
+          "score": 71.55
         },
         {
           "source": "뽐뿌",
-          "rank": 41,
+          "rank": 37,
           "title": "이재명 대외비 문건 난리남",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136147",
-          "score": 65.12
+          "score": 65.73
         }
       ],
       "first_seen": "2026-09-30T11:07:50.708457+09:00",
-      "last_seen": "2026-09-30T12:03:32.161159+09:00",
+      "last_seen": "2026-09-30T12:05:26.676657+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 14,
-      "change": 3
+      "change": 0
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 113.45,
+      "peak_score": 92.05,
+      "appearances": 7,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "다들 >들기름< 이거 어떻게 읽어???",
+          "url": "https://theqoo.net/hot/4360751810",
+          "score": 67.21
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 65,
+          "title": "진짜 안드로 대체 어떻게 처단 해야하죠??",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=phone&no=3935350",
+          "score": 59.88
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-30T12:05:26.676657+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": 1
     },
     {
       "id": "i9f5e1ed4",
@@ -626,47 +665,8 @@
       "last_seen": "2026-09-29T17:24:25.017696+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -1
-    },
-    {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "어떻게"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 112.78,
-      "peak_score": 92.05,
-      "appearances": 6,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 32,
-          "title": "다들 >들기름< 이거 어떻게 읽어???",
-          "url": "https://theqoo.net/hot/4360751810",
-          "score": 67.21
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 69,
-          "title": "진짜 안드로 대체 어떻게 처단 해야하죠??",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=phone&no=3935350",
-          "score": 59.88
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-09-30T12:03:32.161159+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 16,
-      "change": 2
+      "change": -1
     },
     {
       "id": "i1e941339",
@@ -704,7 +704,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i23a285e5",
@@ -746,7 +746,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i09667a01",
