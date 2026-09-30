@@ -2919,3 +2919,45 @@ select:focus-visible {
   .date-crosslinks,
   .date-crosslinks.compact { grid-template-columns: 1fr; }
 }
+
+
+.date-pager {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+.date-pager a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  padding: 10px 12px;
+  color: var(--text);
+}
+.date-pager a span {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+}
+.date-pager a strong {
+  font-size: 11px;
+}
+.date-pager a:hover {
+  border-color: color-mix(in srgb, var(--brand) 35%, var(--line));
+}
+.date-pager a:hover strong,
+.date-pager a:hover span {
+  color: var(--brand);
+}
+@media (max-width: 640px) {
+  .date-pager {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .date-pager a {
+    justify-content: space-between;
+  }
+}
