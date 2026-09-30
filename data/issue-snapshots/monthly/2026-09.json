@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-30T12:00:18.754272+09:00",
+  "collected_at": "2026-09-30T12:02:25.236067+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -421,6 +421,44 @@
       "change": 0
     },
     {
+      "id": "i5b755224",
+      "title": "‘유엔사’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유엔사"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.26,
+      "peak_score": 104.77,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "속보) 유엔사, \"북한,정전협정위반\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76853681?m=humor",
+          "score": 93.0
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
+          "score": 75.88
+        }
+      ],
+      "first_seen": "2026-09-30T12:00:18.754272+09:00",
+      "last_seen": "2026-09-30T12:02:25.236067+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": 1
+    },
+    {
       "id": "i1d3a3c3b",
       "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
       "keywords": [
@@ -460,46 +498,8 @@
       "last_seen": "2026-09-30T11:45:12.415278+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
-    },
-    {
-      "id": "i5b755224",
-      "title": "‘유엔사’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유엔사"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.24,
-      "peak_score": 104.77,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "속보) 유엔사, \"북한,정전협정위반\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76853681?m=humor",
-          "score": 95.77
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-          "score": 75.88
-        }
-      ],
-      "first_seen": "2026-09-30T12:00:18.754272+09:00",
-      "last_seen": "2026-09-30T12:00:18.754272+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 12,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ia99bde06",
@@ -540,7 +540,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9f5e1ed4",
@@ -580,7 +580,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1e941339",
@@ -618,7 +618,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i23a285e5",
@@ -660,7 +660,93 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ifc2a71e9",
+      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+      "keywords": [
+        "대외비",
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 112.45,
+      "peak_score": 95.72,
+      "appearances": 6,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
+          "score": 85.72
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 11,
+          "title": "짬통 대외비 내부 문서 유출",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136082",
+          "score": 77.14
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 28,
+          "title": "이재명 대외비 문건 난리남",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136147",
+          "score": 69.62
+        }
+      ],
+      "first_seen": "2026-09-30T11:07:50.708457+09:00",
+      "last_seen": "2026-09-30T12:02:25.236067+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 17,
+      "change": 1
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 112.01,
+      "peak_score": 92.05,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 37,
+          "title": "다들 >들기름< 이거 어떻게 읽어???",
+          "url": "https://theqoo.net/hot/4360751810",
+          "score": 66.21
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 44,
+          "title": "진짜 안드로 대체 어떻게 처단 해야하죠??",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=phone&no=3935350",
+          "score": 64.48
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-30T12:02:25.236067+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": 1
     },
     {
       "id": "i09667a01",
@@ -698,94 +784,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -1
-    },
-    {
-      "id": "ifc2a71e9",
-      "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
-      "keywords": [
-        "대외비",
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 111.68,
-      "peak_score": 95.72,
-      "appearances": 5,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
-          "score": 85.72
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 6,
-          "title": "짬통 대외비 내부 문서 유출",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136082",
-          "score": 80.17
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "이재명 대외비 문건 난리남",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136147",
-          "score": 72.51
-        }
-      ],
-      "first_seen": "2026-09-30T11:07:50.708457+09:00",
-      "last_seen": "2026-09-30T12:00:18.754272+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 18,
-      "change": 2
-    },
-    {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "어떻게"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 111.1,
-      "peak_score": 92.05,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "진짜 안드로 대체 어떻게 처단 해야하죠??",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=phone&no=3935350",
-          "score": 69.32
-        },
-        {
-          "source": "더쿠",
-          "rank": 38,
-          "title": "다들 >들기름< 이거 어떻게 읽어???",
-          "url": "https://theqoo.net/hot/4360751810",
-          "score": 66.21
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-09-30T12:00:18.754272+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": -2
     },
     {
       "id": "iae209e51",
@@ -823,7 +823,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -3
+      "change": 0
     }
   ]
 }
