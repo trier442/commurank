@@ -96,6 +96,10 @@ jobs:
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/check_site_quality.py
 
+      - name: Check browser JavaScript syntax
+        if: steps.freshness.outputs.stale == 'true'
+        run: node --check analytics.js && node --check admin.js && node --check app.js && node --check search.js && node --check briefing.js
+
       - name: Notify Naver IndexNow
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/notify_indexnow.py
