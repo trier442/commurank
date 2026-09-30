@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 4
+# Quality gate version: 5
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -137,6 +137,23 @@ for page in analytics_public_pages:
     body = text(page)
     if "analytics.js" not in body:
         errors.append(f"{page}: analytics.js loader missing")
+
+# SEO internal-link checks
+home = text("index.html")
+for needle in [
+    "커뮤니티 인기글 순위·오늘 인터넷 이슈",
+    "/ranking/daily/",
+    "/reports/weekly/",
+    "/reports/monthly/",
+    "/briefing/archive/",
+]:
+    if needle not in home:
+        errors.append(f"index.html: SEO element missing: {needle}")
+
+for page in ["ranking/index.html", "briefing/archive/index.html", "reports/weekly/index.html", "reports/monthly/index.html"]:
+    body = text(page)
+    if len(re.sub(r"<[^>]+>", " ", body)) < 700:
+        warnings.append(f"{page}: archive/report landing page may be too thin")
 
 ads_script = text("ads.js")
 if "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" not in ads_script:
