@@ -2863,3 +2863,20 @@ select:focus-visible {
   .seo-hub-links { padding: 17px; border-radius: 17px; }
   .seo-hub-copy h2 { font-size: 22px; }
 }
+
+
+.community-seo-note {
+  margin-bottom: 16px;
+}
+.community-seo-note h2 {
+  margin-top: 0;
+}
+.community-seo-note p {
+  color: var(--muted);
+  line-height: 1.8;
+  font-size: 12px;
+}
+.community-seo-note a {
+  color: var(--brand);
+  font-weight: 850;
+}
