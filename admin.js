@@ -1,5 +1,5 @@
 const REPO="trier442/commurank";
-let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null, analyticsConfig=null;
+let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null, analyticsConfig=null, adsConfig=null;
 
 const fmt=n=>new Intl.NumberFormat("ko-KR",{notation:Number(n)>9999?"compact":"standard"}).format(Number(n)||0);
 const safe=v=>String(v??"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[ch]));
@@ -37,6 +37,14 @@ function renderSummary(){
   const analyticsOn=Boolean(analyticsConfig?.enabled && analyticsConfig?.ga4_id);
   document.querySelector("#analyticsState").textContent=analyticsOn ? "GA4 연결됨" : "미연결";
   document.querySelector("#analyticsState").className=analyticsOn ? "analytics-on" : "";
+  document.querySelector("#analyticsMeasurement").textContent=analyticsConfig?.ga4_id || "-";
+
+  const adsOn=Boolean(adsConfig?.enabled && adsConfig?.client_id);
+  document.querySelector("#adsenseState").textContent=adsOn ? "광고 활성화" : "승인 전 · 광고 OFF";
+  document.querySelector("#adsenseState").className=adsOn ? "analytics-on" : "";
+  document.querySelector("#adsenseDetail").textContent=adsOn
+    ? "AdSense 게시자 ID가 연결되어 광고가 활성화되어 있습니다."
+    : "콘텐츠와 검색 유입을 먼저 축적하고, AdSense 승인 후 게시자 ID와 ads.txt를 연결합니다.";
 
   document.querySelector("#briefingState").textContent=briefing?.date||"-";
   document.querySelector("#briefingSub").textContent=briefAge===null?"데이터 없음":briefAge+"분 전 갱신";
@@ -133,14 +141,15 @@ async function load(){
     ["briefingIndex",base+"briefing-index.json"],
     ["metrics",base+"metric-history.json"],
     ["issueHistory",base+"issue-history.json"],
-    ["analytics","../analytics-config.json"]
+    ["analytics","../analytics-config.json"],
+    ["ads","../ads-config.json"]
   ];
   const results=await Promise.all(reqs.map(async([k,url])=>{
     try{const r=await fetch(url+"?ts="+Date.now(),{cache:"no-store"});return [k,r.ok?await r.json():null]}catch{return [k,null]}
   }));
   const map=Object.fromEntries(results);
   latest=map.latest;issueRankings=map.issues;archiveIndex=map.archive;issueArchiveIndex=map.issueArchive;
-  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;analyticsConfig=map.analytics;
+  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;analyticsConfig=map.analytics;adsConfig=map.ads;
   renderSummary();renderSources();renderDiagnostics();renderVolumes();renderWorkflows();
 }
 document.querySelector("#themeToggle").addEventListener("click",()=>{
