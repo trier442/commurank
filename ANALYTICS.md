@@ -2,7 +2,7 @@
 
 커뮤랭크는 Google Analytics 4를 사용한다.
 
-- Measurement ID: `G-RY9SYKBWSB`
+- Measurement ID: `G-46ZQT4LDSD`
 - 설정 파일: `analytics-config.json`
 - 공통 로더: `analytics.js`
 - 검색어 원문이나 원문 게시글 URL 전체를 GA4 커스텀 이벤트에 보내지 않는다.
