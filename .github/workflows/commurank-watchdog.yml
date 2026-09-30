@@ -84,6 +84,10 @@ jobs:
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/build_seo.py
 
+      - name: Notify Naver IndexNow
+        if: steps.freshness.outputs.stale == 'true'
+        run: python scripts/notify_indexnow.py
+
       - name: Commit recovered data
         if: steps.freshness.outputs.stale == 'true'
         run: |
