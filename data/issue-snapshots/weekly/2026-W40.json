@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-09-30T10:45:24.529346+09:00",
+  "collected_at": "2026-09-30T11:07:50.708457+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -103,9 +103,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 122.19,
+      "score": 122.86,
       "peak_score": 105.46,
-      "appearances": 6,
+      "appearances": 7,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -116,21 +116,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 12,
           "title": "민주당 김병주, DMZ 지뢰 윤석열 정부탓",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-          "score": 75.11
+          "score": 73.43
         },
         {
           "source": "더쿠",
-          "rank": 14,
+          "rank": 15,
           "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
           "url": "https://theqoo.net/hot/4360674547",
-          "score": 73.68
+          "score": 71.37
         }
       ],
       "first_seen": "2026-09-29T17:26:15.303692+09:00",
-      "last_seen": "2026-09-30T10:45:24.529346+09:00",
+      "last_seen": "2026-09-30T11:07:50.708457+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -468,6 +468,57 @@
       "change": 0
     },
     {
+      "id": "i1d3a3c3b",
+      "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
+      "keywords": [
+        "위반",
+        "유엔사",
+        "정전협정",
+        "지뢰",
+        "발견",
+        "이남서"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 107.98,
+      "peak_score": 90.05,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
+          "score": 75.05
+        },
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
+          "url": "https://theqoo.net/hot/4360674547",
+          "score": 71.37
+        },
+        {
+          "source": "인벤",
+          "rank": 57,
+          "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
+          "score": 59.73
+        }
+      ],
+      "first_seen": "2026-09-30T10:38:38.903426+09:00",
+      "last_seen": "2026-09-30T11:07:50.708457+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 12,
+      "change": 1
+    },
+    {
       "id": "i8b4085e0",
       "title": "[2026 아시안게임] 배드민턴 여자 단식 안세영 금메달🏸🥇🥇🇰🇷",
       "keywords": [
@@ -507,59 +558,8 @@
       "last_seen": "2026-09-29T17:26:15.303692+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "id": "i1d3a3c3b",
-      "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
-      "keywords": [
-        "유엔사",
-        "위반",
-        "정전협정",
-        "판단",
-        "지뢰",
-        "이남서"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 105.17,
-      "peak_score": 88.68,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 14,
-          "title": "[속보] 유엔사 “DMZ 폭발, 정전협정 위반 발생 판단”",
-          "url": "https://theqoo.net/hot/4360674547",
-          "score": 73.68
-        },
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "[속보] 유엔사 \"군사분계선 이남서 북한 지뢰 발견…정전협정 위반 판단\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734268",
-          "score": 70.08
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-          "score": 67.89
-        }
-      ],
-      "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T10:45:24.529346+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 13,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i23a285e5",
@@ -600,7 +600,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i879d3e36",
@@ -639,7 +639,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9355ba36",
@@ -680,7 +680,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i36ddd5fd",
@@ -720,7 +720,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -761,7 +761,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibcbce939",
@@ -799,7 +799,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i84f2f2a0",
@@ -837,7 +837,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
