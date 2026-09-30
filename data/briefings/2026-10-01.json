@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-01",
   "label": "2026년 10월 01일",
-  "collected_at": "2026-10-01T01:28:02.575487+09:00",
+  "collected_at": "2026-10-01T01:55:46.746304+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #암살자. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 6,
-    "keywords": 18,
-    "top100_views": 744466,
-    "top100_comments": 9382
+    "daily_issues": 7,
+    "keywords": 20,
+    "top100_views": 774063,
+    "top100_comments": 10043
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#암살자",
+      "title": "#한국",
       "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "암살자"
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-01T01:28:02.575487+09:00"
         }
       },
-      "score": 109.38,
+      "score": 109.34,
       "views": 35988,
       "likes": 143,
       "comments": 91,
       "active_days": 1,
-      "change": 5
+      "change": 0
     },
     {
       "title": "추월차는 과속해도 된다는 애들 논리 상태",
@@ -88,12 +88,70 @@
           "last_seen": "2026-10-01T01:28:02.575487+09:00"
         }
       },
-      "score": 108.13,
+      "score": 108.09,
       "views": 22858,
       "likes": 107,
       "comments": 179,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "우크라이나 언론 \"어 코리아하고 이러면 안되는데\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76862034?m=humor",
+      "first_seen": "2026-10-01T01:55:46.746304+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
+      "peak_score": 98.54,
+      "max_views": 20685,
+      "max_likes": 171,
+      "max_comments": 140,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-01": {
+          "max_score": 98.54,
+          "max_views": 20685,
+          "max_likes": 171,
+          "max_comments": 140,
+          "appearances": 1,
+          "last_seen": "2026-10-01T01:55:46.746304+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 20685,
+      "likes": 171,
+      "comments": 140,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "한국의 슬럼가를 방문한 유튜버",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76861561?m=humor",
+      "first_seen": "2026-10-01T01:26:40.367056+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
+      "peak_score": 97.02,
+      "max_views": 33675,
+      "max_likes": 334,
+      "max_comments": 102,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-01": {
+          "max_score": 97.02,
+          "max_views": 33675,
+          "max_likes": 334,
+          "max_comments": 102,
+          "appearances": 2,
+          "last_seen": "2026-10-01T01:55:46.746304+09:00"
+        }
+      },
+      "score": 107.44,
+      "views": 33675,
+      "likes": 334,
+      "comments": 102,
+      "active_days": 1,
+      "change": 2
     },
     {
       "title": "드디어 결론이 났다는 군대 VS 임신 논쟁 ㄷㄷ",
@@ -125,12 +183,12 @@
           "last_seen": "2026-10-01T01:26:11.574872+09:00"
         }
       },
-      "score": 107.23,
+      "score": 107.19,
       "views": 21763,
       "likes": 222,
       "comments": 102,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "현기차 4000~5000만원해도 사람들이 현기 사는 이유",
@@ -162,12 +220,12 @@
           "last_seen": "2026-10-01T01:26:11.574872+09:00"
         }
       },
-      "score": 106.13,
+      "score": 106.09,
       "views": 26445,
       "likes": 162,
       "comments": 160,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "비스크돌 정도면 성공한 거냐니..",
@@ -191,41 +249,41 @@
           "last_seen": "2026-10-01T01:26:40.367056+09:00"
         }
       },
-      "score": 105.29,
+      "score": 105.25,
       "views": 23380,
       "likes": 117,
       "comments": 94,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
-      "title": "한국의 슬럼가를 방문한 유튜버",
+      "title": "여자랑 남자랑 대답이 정확하게 갈린다는 문제...JPG",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76861561?m=humor",
-      "first_seen": "2026-10-01T01:26:40.367056+09:00",
-      "last_seen": "2026-10-01T01:26:40.367056+09:00",
-      "peak_score": 95.09,
-      "max_views": 33675,
-      "max_likes": 334,
-      "max_comments": 102,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76860922?m=humor",
+      "first_seen": "2026-10-01T01:55:46.746304+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
+      "peak_score": 93.0,
+      "max_views": 20624,
+      "max_likes": 105,
+      "max_comments": 91,
       "appearances": 1,
       "daily_stats": {
         "2026-10-01": {
-          "max_score": 95.09,
-          "max_views": 33675,
-          "max_likes": 334,
-          "max_comments": 102,
+          "max_score": 93.0,
+          "max_views": 20624,
+          "max_likes": 105,
+          "max_comments": 91,
           "appearances": 1,
-          "last_seen": "2026-10-01T01:26:40.367056+09:00"
+          "last_seen": "2026-10-01T01:55:46.746304+09:00"
         }
       },
-      "score": 104.61,
-      "views": 33675,
-      "likes": 334,
-      "comments": 102,
+      "score": 102.52,
+      "views": 20624,
+      "likes": 105,
+      "comments": 91,
       "active_days": 1,
-      "change": -1
+      "change": "NEW"
     },
     {
       "title": "40대이상만 아는 지역번호 jpg",
@@ -249,12 +307,12 @@
           "last_seen": "2026-10-01T01:28:02.575487+09:00"
         }
       },
-      "score": 100.44,
+      "score": 100.41,
       "views": 19787,
       "likes": 46,
       "comments": 89,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "대통령이 얼마나 한가하면 ㅋㅋ",
@@ -262,296 +320,230 @@
       "category": "유머",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137099",
       "first_seen": "2026-10-01T01:26:11.574872+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "peak_score": 86.3,
-      "max_views": 8137,
-      "max_likes": 72,
-      "max_comments": 54,
-      "appearances": 3,
+      "max_views": 9808,
+      "max_likes": 88,
+      "max_comments": 61,
+      "appearances": 4,
       "daily_stats": {
         "2026-10-01": {
           "max_score": 86.3,
-          "max_views": 8137,
-          "max_likes": 72,
-          "max_comments": 54,
-          "appearances": 3,
-          "last_seen": "2026-10-01T01:28:02.575487+09:00"
+          "max_views": 9808,
+          "max_likes": 88,
+          "max_comments": 61,
+          "appearances": 4,
+          "last_seen": "2026-10-01T01:55:46.746304+09:00"
         }
       },
-      "score": 97.35,
-      "views": 8137,
-      "likes": 72,
-      "comments": 54,
+      "score": 97.84,
+      "views": 9808,
+      "likes": 88,
+      "comments": 61,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "싱글벙글 역사를 영화로 배우면 안되는 이유..jpg",
-      "source": "디시인사이드",
-      "category": "연예",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467037&_dcbest=1&page=1",
-      "first_seen": "2026-10-01T01:26:11.574872+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
-      "peak_score": 81.96,
-      "max_views": 15014,
-      "max_likes": 110,
-      "max_comments": 218,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-01": {
-          "max_score": 81.96,
-          "max_views": 15014,
-          "max_likes": 110,
-          "max_comments": 218,
-          "appearances": 3,
-          "last_seen": "2026-10-01T01:28:02.575487+09:00"
-        }
-      },
-      "score": 93.01,
-      "views": 15014,
-      "likes": 110,
-      "comments": 218,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "?? : ”한국은 난징대학살에 대해 언제 사과할거야?“",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467015&_dcbest=1&page=1",
-      "first_seen": "2026-09-30T23:10:46.810572+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
-      "peak_score": 82.3,
-      "max_views": 20457,
-      "max_likes": 166,
-      "max_comments": 404,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-09-30": {
-          "max_score": 82.3,
-          "max_views": 13650,
-          "max_likes": 91,
-          "max_comments": 213,
-          "appearances": 1,
-          "last_seen": "2026-09-30T23:10:46.810572+09:00"
-        },
-        "2026-10-01": {
-          "max_score": 77.63,
-          "max_views": 20457,
-          "max_likes": 166,
-          "max_comments": 404,
-          "appearances": 3,
-          "last_seen": "2026-10-01T01:28:02.575487+09:00"
-        }
-      },
-      "score": 88.68,
-      "views": 20457,
-      "likes": 166,
-      "comments": 404,
-      "active_days": 1,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
     {
       "source": "인벤",
-      "title": "건강한 하체 핏 아이브 안유진",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734640",
+      "title": "유해진 진짜 망했네;",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734623",
       "category": "연예",
-      "views": 94,
-      "likes": 0,
-      "comments": 0,
-      "score": 60.4,
+      "views": 2282,
+      "likes": 1,
+      "comments": 3,
+      "score": 57.01,
       "change": 0,
-      "current_rank": 58,
+      "current_rank": 69,
       "new_entry": false,
-      "delta_views": 46,
+      "delta_views": 518,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 98.15,
+      "rising_score": 97.62,
       "rising_rank": 1,
-      "window_minutes": 1
+      "window_minutes": 28
     },
     {
-      "source": "클리앙",
-      "title": "돈없으면 닭 안먹으면 될일 아닌가요?",
-      "url": "https://www.clien.net/service/board/park/19271982?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 757,
-      "likes": 1,
-      "comments": 20,
-      "score": 75.54,
+      "source": "디시인사이드",
+      "title": "싱글벙글 역사를 영화로 배우면 안되는 이유..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467037&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 16137,
+      "likes": 136,
+      "comments": 278,
+      "score": 82.84,
       "change": 0,
-      "current_rank": 7,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 33,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_views": 1123,
+      "delta_likes": 26,
+      "delta_comments": 60,
       "rank_gain": 0,
-      "rising_score": 96.88,
+      "rising_score": 94.88,
       "rising_rank": 2,
-      "window_minutes": 1
+      "window_minutes": 28
     },
     {
       "source": "더쿠",
-      "title": "휴민트 제작사에서 보는 흥행 실패 이유...jpg",
-      "url": "https://theqoo.net/hot/4361505447",
-      "category": "이슈",
-      "views": 39157,
+      "title": "한국 일본 홍콩 펜싱선수가 한국말로 대화하는 영상",
+      "url": "https://theqoo.net/hot/4361591890",
+      "category": "스포츠",
+      "views": 14056,
       "likes": 0,
-      "comments": 342,
-      "score": 61.74,
-      "change": 0,
-      "current_rank": 53,
+      "comments": 152,
+      "score": 69.0,
+      "change": 5,
+      "current_rank": 17,
       "new_entry": false,
-      "delta_views": 351,
+      "delta_views": 4256,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 94.44,
+      "delta_comments": 48,
+      "rank_gain": 5,
+      "rising_score": 89.74,
       "rising_rank": 3,
-      "window_minutes": 1
+      "window_minutes": 28
     },
     {
       "source": "인벤",
       "title": "유해진 사인을 찢은 <능라밥상> 사장님 먹고 살만한가봐요.",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734635",
       "category": "이슈",
-      "views": 357,
+      "views": 767,
       "likes": 1,
-      "comments": 5,
-      "score": 67.77,
-      "change": 0,
-      "current_rank": 24,
+      "comments": 9,
+      "score": 71.36,
+      "change": 11,
+      "current_rank": 13,
       "new_entry": false,
-      "delta_views": 43,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 94.44,
-      "rising_rank": 4,
-      "window_minutes": 1
-    },
-    {
-      "source": "디시인사이드",
-      "title": "트위터에서 뜬 라식 라섹 후회담...",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467011&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 18790,
-      "likes": 44,
-      "comments": 372,
-      "score": 68.87,
-      "change": 0,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 83,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 94.0,
-      "rising_rank": 5,
-      "window_minutes": 1
-    },
-    {
-      "source": "디시인사이드",
-      "title": "주식으로 재산을 잃어버린 키드밀리 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467043&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 1977,
-      "likes": 2,
-      "comments": 49,
-      "score": 61.9,
-      "change": 0,
-      "current_rank": 50,
-      "new_entry": false,
-      "delta_views": 132,
+      "delta_views": 410,
       "delta_likes": 0,
       "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 91.78,
-      "rising_rank": 6,
-      "window_minutes": 1
+      "rank_gain": 11,
+      "rising_score": 85.97,
+      "rising_rank": 4,
+      "window_minutes": 28
     },
     {
       "source": "클리앙",
-      "title": "군인들 각성 했네요…",
-      "url": "https://www.clien.net/service/board/park/19271970?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1406,
-      "likes": 0,
-      "comments": 3,
-      "score": 57.87,
-      "change": 0,
-      "current_rank": 72,
+      "title": "암살자 영화가 문제가 많은게 아무리 픽션이라도",
+      "url": "https://www.clien.net/service/board/park/19271981?od=T31&po=0&category=0&groupCd=",
+      "category": "연예",
+      "views": 1208,
+      "likes": 2,
+      "comments": 10,
+      "score": 75.33,
+      "change": 8,
+      "current_rank": 8,
       "new_entry": false,
-      "delta_views": 23,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 90.62,
-      "rising_rank": 7,
-      "window_minutes": 1
+      "delta_views": 450,
+      "delta_likes": 2,
+      "delta_comments": 6,
+      "rank_gain": 8,
+      "rising_score": 84.07,
+      "rising_rank": 5,
+      "window_minutes": 28
     },
     {
-      "source": "인벤",
-      "title": "키스 오브 라이프 나띠",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734638",
-      "category": "연예",
-      "views": 138,
-      "likes": 0,
-      "comments": 0,
-      "score": 59.55,
-      "change": 0,
-      "current_rank": 59,
-      "new_entry": false,
-      "delta_views": 34,
+      "source": "루리웹",
+      "title": "우크라이나 언론 \"어 코리아하고 이러면 안되는데\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76862034?m=humor",
+      "category": "이슈",
+      "views": 20685,
+      "likes": 171,
+      "comments": 140,
+      "score": 98.54,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 87.04,
+      "rising_score": 83.39,
+      "rising_rank": 6,
+      "window_minutes": 28
+    },
+    {
+      "source": "루리웹",
+      "title": "한국의 슬럼가를 방문한 유튜버",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76861561?m=humor",
+      "category": "이슈",
+      "views": 33675,
+      "likes": 334,
+      "comments": 102,
+      "score": 97.02,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.75,
+      "rising_rank": 7,
+      "window_minutes": 28
+    },
+    {
+      "source": "루리웹",
+      "title": "여자랑 남자랑 대답이 정확하게 갈린다는 문제...JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76860922?m=humor",
+      "category": "이슈",
+      "views": 20624,
+      "likes": 105,
+      "comments": 91,
+      "score": 93.0,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.06,
       "rising_rank": 8,
-      "window_minutes": 1
+      "window_minutes": 28
     },
     {
       "source": "디시인사이드",
       "title": "[단독] CIA 내부 문건에도 '육영수 시해범은 북한 공작원'",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467035&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 5290,
-      "likes": 179,
-      "comments": 198,
-      "score": 74.05,
-      "change": 0,
-      "current_rank": 12,
+      "views": 6090,
+      "likes": 198,
+      "comments": 257,
+      "score": 74.52,
+      "change": 3,
+      "current_rank": 9,
       "new_entry": false,
-      "delta_views": 61,
-      "delta_likes": 3,
-      "delta_comments": 7,
-      "rank_gain": 0,
-      "rising_score": 87.03,
+      "delta_views": 800,
+      "delta_likes": 19,
+      "delta_comments": 59,
+      "rank_gain": 3,
+      "rising_score": 80.35,
       "rising_rank": 9,
-      "window_minutes": 1
+      "window_minutes": 28
     },
     {
-      "source": "클리앙",
-      "title": "이번 기회에 치킨 가격 좀 잡혔으면 좋겠습니다.",
-      "url": "https://www.clien.net/service/board/park/19271979?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 568,
-      "likes": 2,
-      "comments": 4,
-      "score": 67.2,
+      "source": "뽐뿌",
+      "title": "대통령이 얼마나 한가하면 ㅋㅋ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137099",
+      "category": "유머",
+      "views": 9808,
+      "likes": 88,
+      "comments": 61,
+      "score": 83.15,
       "change": 0,
-      "current_rank": 26,
+      "current_rank": 4,
       "new_entry": false,
-      "delta_views": 22,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_views": 1671,
+      "delta_likes": 16,
+      "delta_comments": 7,
       "rank_gain": 0,
-      "rising_score": 84.38,
+      "rising_score": 78.59,
       "rising_rank": 10,
-      "window_minutes": 1
+      "window_minutes": 28
     }
   ],
   "issues": [
@@ -563,9 +555,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 108.01,
-      "peak_score": 89.08,
-      "appearances": 3,
+      "score": 113.38,
+      "peak_score": 93.33,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "인벤",
@@ -574,28 +566,28 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 16,
+          "rank": 8,
           "title": "암살자 영화가 문제가 많은게 아무리 픽션이라도",
           "url": "https://www.clien.net/service/board/park/19271981?od=T31&po=0&category=0&groupCd=",
-          "score": 71.08
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-          "score": 65.49
+          "score": 75.33
         },
         {
           "source": "더쿠",
-          "rank": 42,
+          "rank": 30,
           "title": "영화 <암살자(들)>에 대한 이동진 평론가 글",
           "url": "https://theqoo.net/hot/4361536713",
-          "score": 63.21
+          "score": 65.21
+        },
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
+          "score": 63.39
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 1,
@@ -609,9 +601,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 105.85,
+      "score": 106.97,
       "peak_score": 87.92,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "루리웹",
@@ -620,23 +612,30 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 15,
+          "rank": 26,
           "title": "[네이버](네멤) 신라면20개 11,280원, 신라면10+너구리10 12,340원, 육개장사발면12+김치사발면12 16...",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
-          "score": 71.75
+          "score": 66.14
+        },
+        {
+          "source": "루리웹",
+          "rank": 28,
+          "title": "[네이버]펩시 제로라임 355ml 48캔 및 다양 (25,760원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107654",
+          "score": 65.65
         },
         {
           "source": "더쿠",
-          "rank": 79,
+          "rank": 76,
           "title": "쿠팡 7,900원 멤버십보다 저렴하고 혜택이 많아 충분히 대체 가능한 네이버 멤버십.jpg",
           "url": "https://theqoo.net/hot/4361438752",
           "score": 56.42
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 2,
       "change": 0
     },
@@ -648,9 +647,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.92,
+      "score": 97.04,
       "peak_score": 82.99,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -658,21 +657,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 13,
+          "rank": 15,
           "title": "ㅋㅋㅋㅋㅋㅋㅋ 암살자들 꼴이 좋아",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-          "score": 73.99
+          "score": 70.78
         },
         {
           "source": "클리앙",
           "rank": 97,
           "title": "암살자들 보고왔습니다. (스포?)",
           "url": "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd=",
-          "score": 52.68
+          "score": 53.47
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -686,9 +685,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 94.6,
+      "score": 95.72,
       "peak_score": 81.67,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -699,18 +698,18 @@
           "rank": 14,
           "title": "이동진 리뷰도 초유의 비공개, 일파만판 논란 업계 초긴장.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467021&_dcbest=1&page=1",
-          "score": 72.67
+          "score": 71.1
         },
         {
           "source": "더쿠",
-          "rank": 42,
+          "rank": 30,
           "title": "영화 <암살자(들)>에 대한 이동진 평론가 글",
           "url": "https://theqoo.net/hot/4361536713",
-          "score": 63.21
+          "score": 65.21
         }
       ],
       "first_seen": "2026-10-01T01:26:11.574872+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
@@ -720,16 +719,16 @@
       "id": "if512102f",
       "title": "유해진 사인을 찢은 <능라밥상> 사장님 먹고 살만한가봐요.",
       "keywords": [
-        "유해진",
-        "능라밥상",
+        "찢은",
         "사인을",
-        "찢은"
+        "유해진",
+        "능라밥상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.7,
-      "peak_score": 75.77,
-      "appearances": 3,
+      "score": 93.41,
+      "peak_score": 79.36,
+      "appearances": 4,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -737,45 +736,80 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 24,
+          "rank": 13,
           "title": "유해진 사인을 찢은 <능라밥상> 사장님 먹고 살만한가봐요.",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734635",
-          "score": 67.77
+          "score": 71.36
         },
         {
           "source": "뽐뿌",
-          "rank": 25,
+          "rank": 40,
           "title": "유해진 사인을 찢은 <능라밥상> 주인",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137074",
-          "score": 67.39
+          "score": 62.73
         }
       ],
       "first_seen": "2026-10-01T01:26:11.574872+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
       "change": 0
     },
     {
-      "id": "id5565dd8",
-      "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "암살자",
-        "허진호",
-        "말이",
-        "배우들도",
-        "감독",
-        "박정희",
-        "힘들어해",
-        "배후설",
-        "안된다"
+        "이재명"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.62,
+      "score": 91.18,
+      "peak_score": 81.71,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 11,
+          "title": "이재명 거칭없이 sns하네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137120",
+          "score": 72.71
+        },
+        {
+          "source": "인벤",
+          "rank": 42,
+          "title": "이재명 : 김지용은 친윤검사 아님",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734614",
+          "score": 62.64
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "id5565dd8",
+      "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
+      "keywords": [
+        "박정희",
+        "허진호",
+        "배후설",
+        "안된다",
+        "배우들도",
+        "힘들어해"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.74,
       "peak_score": 74.69,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "인벤",
         "클리앙"
@@ -783,25 +817,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 28,
+          "rank": 22,
           "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
           "url": "https://www.clien.net/service/board/park/19271971?od=T31&po=0&category=0&groupCd=",
-          "score": 66.69
+          "score": 66.57
         },
         {
           "source": "인벤",
-          "rank": 32,
+          "rank": 38,
           "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-          "score": 65.49
+          "score": 63.39
         }
       ],
       "first_seen": "2026-10-01T01:26:11.574872+09:00",
-      "last_seen": "2026-10-01T01:28:02.575487+09:00",
+      "last_seen": "2026-10-01T01:55:46.746304+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     }
   ],
   "realtime_issues": [
@@ -813,8 +847,8 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 89.08,
-      "peak_score": 89.08,
+      "score": 93.33,
+      "peak_score": 93.33,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -824,62 +858,104 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 16,
+          "rank": 8,
           "title": "암살자 영화가 문제가 많은게 아무리 픽션이라도",
           "url": "https://www.clien.net/service/board/park/19271981?od=T31&po=0&category=0&groupCd=",
-          "score": 71.08
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-          "score": 65.49
+          "score": 75.33
         },
         {
           "source": "더쿠",
-          "rank": 42,
+          "rank": 30,
           "title": "영화 <암살자(들)>에 대한 이동진 평론가 글",
           "url": "https://theqoo.net/hot/4361536713",
-          "score": 63.21
+          "score": 65.21
+        },
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
+          "score": 63.39
         }
       ],
       "rank": 1,
       "change": 0
     },
     {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "암살자들"
+        "네이버"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.99,
-      "peak_score": 82.99,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 83.14,
+      "peak_score": 83.14,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 13,
-          "title": "ㅋㅋㅋㅋㅋㅋㅋ 암살자들 꼴이 좋아",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-          "score": 73.99
+          "source": "뽐뿌",
+          "rank": 26,
+          "title": "[네이버](네멤) 신라면20개 11,280원, 신라면10+너구리10 12,340원, 육개장사발면12+김치사발면12 16...",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
+          "score": 66.14
         },
         {
-          "source": "클리앙",
-          "rank": 97,
-          "title": "암살자들 보고왔습니다. (스포?)",
-          "url": "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd=",
-          "score": 52.68
+          "source": "루리웹",
+          "rank": 28,
+          "title": "[네이버]펩시 제로라임 355ml 48캔 및 다양 (25,760원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107654",
+          "score": 65.65
+        },
+        {
+          "source": "더쿠",
+          "rank": 76,
+          "title": "쿠팡 7,900원 멤버십보다 저렴하고 혜택이 많아 충분히 대체 가능한 네이버 멤버십.jpg",
+          "url": "https://theqoo.net/hot/4361438752",
+          "score": 56.42
         }
       ],
       "rank": 2,
-      "change": 1
+      "change": 2
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.71,
+      "peak_score": 81.71,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 11,
+          "title": "이재명 거칭없이 sns하네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137120",
+          "score": 72.71
+        },
+        {
+          "source": "인벤",
+          "rank": 42,
+          "title": "이재명 : 김지용은 친윤검사 아님",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734614",
+          "score": 62.64
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i199bc4da",
@@ -889,8 +965,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.67,
-      "peak_score": 81.67,
+      "score": 80.1,
+      "peak_score": 80.1,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -902,66 +978,66 @@
           "rank": 14,
           "title": "이동진 리뷰도 초유의 비공개, 일파만판 논란 업계 초긴장.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467021&_dcbest=1&page=1",
-          "score": 72.67
+          "score": 71.1
         },
         {
           "source": "더쿠",
-          "rank": 42,
+          "rank": 30,
           "title": "영화 <암살자(들)>에 대한 이동진 평론가 글",
           "url": "https://theqoo.net/hot/4361536713",
-          "score": 63.21
-        }
-      ],
-      "rank": 3,
-      "change": 1
-    },
-    {
-      "id": "i5781c296",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.75,
-      "peak_score": 80.75,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "[네이버](네멤) 신라면20개 11,280원, 신라면10+너구리10 12,340원, 육개장사발면12+김치사발면12 16...",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
-          "score": 71.75
-        },
-        {
-          "source": "더쿠",
-          "rank": 79,
-          "title": "쿠팡 7,900원 멤버십보다 저렴하고 혜택이 많아 충분히 대체 가능한 네이버 멤버십.jpg",
-          "url": "https://theqoo.net/hot/4361438752",
-          "score": 56.42
+          "score": 65.21
         }
       ],
       "rank": 4,
-      "change": -2
+      "change": -1
+    },
+    {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.78,
+      "peak_score": 79.78,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "ㅋㅋㅋㅋㅋㅋㅋ 암살자들 꼴이 좋아",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+          "score": 70.78
+        },
+        {
+          "source": "클리앙",
+          "rank": 97,
+          "title": "암살자들 보고왔습니다. (스포?)",
+          "url": "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd=",
+          "score": 53.47
+        }
+      ],
+      "rank": 5,
+      "change": -3
     },
     {
       "id": "if512102f",
       "title": "유해진 사인을 찢은 <능라밥상> 사장님 먹고 살만한가봐요.",
       "keywords": [
-        "유해진",
-        "능라밥상",
+        "찢은",
         "사인을",
-        "찢은"
+        "유해진",
+        "능라밥상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.77,
-      "peak_score": 75.77,
+      "score": 79.36,
+      "peak_score": 79.36,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -970,40 +1046,37 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 24,
+          "rank": 13,
           "title": "유해진 사인을 찢은 <능라밥상> 사장님 먹고 살만한가봐요.",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734635",
-          "score": 67.77
+          "score": 71.36
         },
         {
           "source": "뽐뿌",
-          "rank": 25,
+          "rank": 40,
           "title": "유해진 사인을 찢은 <능라밥상> 주인",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137074",
-          "score": 67.39
+          "score": 62.73
         }
       ],
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "id5565dd8",
       "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
       "keywords": [
-        "암살자",
-        "허진호",
-        "말이",
-        "배우들도",
-        "감독",
         "박정희",
-        "힘들어해",
+        "허진호",
         "배후설",
-        "안된다"
+        "안된다",
+        "배우들도",
+        "힘들어해"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.69,
-      "peak_score": 74.69,
+      "score": 74.57,
+      "peak_score": 74.57,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1012,60 +1085,60 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 28,
+          "rank": 22,
           "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
           "url": "https://www.clien.net/service/board/park/19271971?od=T31&po=0&category=0&groupCd=",
-          "score": 66.69
+          "score": 66.57
         },
         {
           "source": "인벤",
-          "rank": 32,
+          "rank": 38,
           "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-          "score": 65.49
+          "score": 63.39
         }
       ],
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     }
   ],
   "keywords": [
     {
-      "keyword": "암살자",
-      "score": 131.21,
+      "keyword": "한국",
+      "score": 142.0,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 16,
+      "best_rank": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": 3
+    },
+    {
+      "keyword": "암살자",
+      "score": 135.5,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 1,
-      "change": 1
-    },
-    {
-      "keyword": "유해진",
-      "score": 123.4,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 24,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 2,
-      "change": 1
+      "change": -1
     },
     {
       "keyword": "영화",
-      "score": 119.68,
+      "score": 125.74,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 16,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "인벤",
@@ -1073,56 +1146,58 @@
       ],
       "aliases": [],
       "rank": 3,
-      "change": 1
+      "change": 0
     },
     {
-      "keyword": "한국",
-      "score": 104.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
+      "keyword": "유해진",
+      "score": 125.07,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 13,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": -3
-    },
-    {
-      "keyword": "가격",
-      "score": 102.33,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
-      "sources": [
-        "루리웹",
+        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "keyword": "네이버",
+      "score": 118.41,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 26,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 9
     },
     {
       "keyword": "이재명",
-      "score": 99.35,
-      "post_count": 2,
+      "score": 105.99,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 11,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 6,
-      "change": 1
+      "change": 0
     },
     {
       "keyword": "닭값",
-      "score": 98.38,
+      "score": 100.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 10,
       "sources": [
         "인벤",
         "클리앙"
@@ -1131,25 +1206,11 @@
         "하락"
       ],
       "rank": 7,
-      "change": -1
-    },
-    {
-      "keyword": "박정희",
-      "score": 97.02,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": 1
+      "change": 0
     },
     {
       "keyword": "이동진",
-      "score": 96.64,
+      "score": 98.14,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 14,
@@ -1158,12 +1219,12 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": -1
+      "rank": 8,
+      "change": 1
     },
     {
       "keyword": "업계",
-      "score": 95.75,
+      "score": 98.0,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 14,
@@ -1172,15 +1233,29 @@
         "클리앙"
       ],
       "aliases": [],
+      "rank": 9,
+      "change": 1
+    },
+    {
+      "keyword": "박정희",
+      "score": 97.71,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
       "rank": 10,
-      "change": 0
+      "change": -2
     },
     {
       "keyword": "능라밥상",
-      "score": 95.28,
+      "score": 97.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 13,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -1190,28 +1265,14 @@
         "찢은"
       ],
       "rank": 11,
-      "change": 1
-    },
-    {
-      "keyword": "암살자들",
-      "score": 93.57,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 13,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "keyword": "힘들어해",
-      "score": 93.55,
+      "score": 93.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 22,
       "sources": [
         "인벤",
         "클리앙"
@@ -1223,86 +1284,100 @@
         "배후설",
         "안된다"
       ],
-      "rank": 13,
-      "change": 0
+      "rank": 12,
+      "change": 1
     },
     {
-      "keyword": "네이버",
-      "score": 90.65,
-      "post_count": 2,
+      "keyword": "암살자들",
+      "score": 90.59,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 15,
       "sources": [
-        "더쿠",
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "keyword": "무료",
+      "score": 90.08,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 28,
+      "sources": [
+        "루리웹",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 14,
-      "change": -9
+      "change": "NEW"
     },
     {
-      "keyword": "나는",
-      "score": 85.88,
+      "keyword": "사고",
+      "score": 89.8,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 15,
-      "change": 0
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "국방부 컴퓨터 근황 ㄷㄷㄷㄷㄷ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76860196?m=humor",
-      "score": 98.96,
-      "views": 35988,
-      "comments": 91
+      "title": "우크라이나 언론 \"어 코리아하고 이러면 안되는데\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76862034?m=humor",
+      "score": 98.54,
+      "views": 20685,
+      "comments": 140
     },
     {
       "source": "뽐뿌",
       "title": "대통령이 얼마나 한가하면 ㅋㅋ",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137099",
-      "score": 86.3,
-      "views": 8137,
-      "comments": 54
+      "score": 83.15,
+      "views": 9808,
+      "comments": 61
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 역사를 영화로 배우면 안되는 이유..jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467037&_dcbest=1&page=1",
-      "score": 81.96,
-      "views": 15014,
-      "comments": 218
+      "score": 82.84,
+      "views": 16137,
+      "comments": 278
     },
     {
       "source": "클리앙",
       "title": "돈없으면 닭 안먹으면 될일 아닌가요?",
       "url": "https://www.clien.net/service/board/park/19271982?od=T31&po=0&category=0&groupCd=",
-      "score": 75.54,
-      "views": 757,
-      "comments": 20
+      "score": 81.59,
+      "views": 1329,
+      "comments": 23
     },
     {
       "source": "인벤",
       "title": "닭값 40% 하락에도 주저하는 치킨업계",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734628",
-      "score": 74.67,
-      "views": 913,
-      "comments": 9
+      "score": 74.5,
+      "views": 1243,
+      "comments": 11
     },
     {
       "source": "더쿠",
-      "title": "뛰지 않아도 살이 빠지는 런닝머신 루틴",
-      "url": "https://theqoo.net/hot/4361589090",
-      "score": 68.84,
-      "views": 14569,
-      "comments": 206
+      "title": "한국 일본 홍콩 펜싱선수가 한국말로 대화하는 영상",
+      "url": "https://theqoo.net/hot/4361591890",
+      "score": 69.0,
+      "views": 14056,
+      "comments": 152
     }
   ]
 }
