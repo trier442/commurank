@@ -1,7 +1,8 @@
-const CACHE_NAME = "commurank-shell-v11";
+const CACHE_NAME = "commurank-shell-v12";
 const SHELL = [
   "/",
   "/styles.css",
+  "/analytics.js",
   "/favicon.svg",
   "/manifest.webmanifest",
   "/my/",
