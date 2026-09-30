@@ -29,6 +29,7 @@ def latest_archive_urls() -> list[str]:
         f"{BASE}/briefing/",
         f"{BASE}/briefing/archive/",
         f"{BASE}/reports/weekly/",
+        f"{BASE}/reports/monthly/",
         f"{BASE}/ranking/",
         f"{BASE}/ranking/daily/",
         f"{BASE}/ranking/weekly/",
@@ -38,6 +39,12 @@ def latest_archive_urls() -> list[str]:
 
     for slug in ["dcinside", "fmkorea", "theqoo", "ruliweb", "clien", "inven", "ppomppu"]:
         urls.append(f"{BASE}/community/{slug}/")
+
+    monthly_items = index.get("periods", {}).get("monthly", [])
+    if monthly_items:
+        key = monthly_items[0].get("key")
+        if key:
+            urls.append(f"{BASE}/reports/monthly/{key}/")
 
     weekly_items = index.get("periods", {}).get("weekly", [])
     if weekly_items:
