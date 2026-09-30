@@ -92,6 +92,10 @@ jobs:
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/build_monthly_reports.py
 
+      - name: Build SEO status snapshot
+        if: steps.freshness.outputs.stale == 'true'
+        run: python scripts/build_seo_status.py
+
       - name: Run site quality checks
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/check_site_quality.py
