@@ -65,6 +65,7 @@ def page_shell(title: str, description: str, canonical: str, body: str, structur
   <meta property="og:description" content="{esc(description)}" />
   <meta property="og:url" content="{esc(canonical)}" />
   <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary" />
   <link rel="canonical" href="{esc(canonical)}" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
@@ -135,8 +136,8 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
     period_label, _ = PERIODS[period]
     posts = snap.get("posts", []) if isinstance(snap, dict) else []
     canonical = f"{BASE}/ranking/{period}/{item['key']}/"
-    title = f"{label} 커뮤니티 인기글 TOP100 | 커뮤랭크"
-    description = f"{label} {period_label} 커뮤니티 통합 인기글 TOP100. 여러 커뮤니티의 공개 인기글 반응을 정규화해 정리한 커뮤랭크 아카이브입니다."
+    title = f"{label} 커뮤니티 인기글 순위 TOP100 | 커뮤랭크"
+    description = f"{label} {period_label} 커뮤니티 인기글 순위 TOP100. 디시인사이드·에펨코리아·더쿠·루리웹·클리앙·인벤·뽐뿌 공개 인기글 반응을 통합해 정리합니다."
 
     item_list = {
         "@context": "https://schema.org",
@@ -157,7 +158,7 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
     body = f"""
     <section class="shell info-hero ranking-archive-hero">
       <p class="eyebrow">COMMURANK {period.upper()} ARCHIVE</p>
-      <h1>{esc(label)}<br><span>커뮤니티 인기글 TOP100</span></h1>
+      <h1>{esc(label)}<br><span>커뮤니티 인기글 순위 TOP100</span></h1>
       <p>{esc(description)}</p>
       <div class="archive-page-nav">
         <a href="/ranking/{period}/">← {period_label} 아카이브</a>
@@ -199,6 +200,16 @@ def period_index(period: str, items: list[dict]) -> str:
           <h2>{period_label} 순위 목록</h2>
           <div class="archive-index-list">{''.join(cards) if cards else '<div class="empty">아카이브를 쌓는 중입니다.</div>'}</div>
         </section>
+        <section class="info-card">
+          <h2>기간별 트렌드 함께 보기</h2>
+          <p>{period_label} 인기글 순위는 특정 기간에 어떤 게시글이 상위권에 있었는지 확인하는 자료입니다. 하루 단위 화제는 오늘의 인터넷 브리핑에서, 여러 날 이어진 흐름은 주간·월간 트렌드 리포트에서 함께 확인할 수 있습니다.</p>
+          <div class="site-map-links">
+            <a href="/briefing/archive/">날짜별 인터넷 이슈 브리핑</a>
+            <a href="/reports/weekly/">주간 인터넷 트렌드 리포트</a>
+            <a href="/reports/monthly/">월간 인터넷 트렌드 리포트</a>
+            <a href="/methodology/">랭킹 산정 방식</a>
+          </div>
+        </section>
       </div>
       <aside class="info-side">
         <nav class="info-nav">
@@ -210,7 +221,7 @@ def period_index(period: str, items: list[dict]) -> str:
       </aside>
     </section>
     """
-    return page_shell(f"{period_label} 인기글 아카이브 | 커뮤랭크", description, canonical, body)
+    return page_shell(f"{period_label} 커뮤니티 인기글 순위 아카이브 | 커뮤랭크", f"{period_label} 커뮤니티 인기글 순위 TOP100 아카이브. 날짜와 기간별 인기글 흐름을 확인할 수 있습니다.", canonical, body)
 
 
 def root_index(index: dict) -> str:
@@ -264,7 +275,7 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
     top_posts = briefing.get("top_posts", []) if isinstance(briefing, dict) else []
 
     description = (
-        f"{label} 커뮤니티 인터넷 이슈 브리핑. "
+        f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 브리핑. "
         f"{int(stats.get('sources', 0) or 0)}개 커뮤니티의 인기글, 급상승 글, 핵심 이슈와 키워드를 데이터로 정리합니다."
     )
 
@@ -409,14 +420,14 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
     structured = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": f"{label} 인터넷 이슈 브리핑",
+        "headline": f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 브리핑",
         "description": description,
         "datePublished": key,
         "dateModified": briefing.get("collected_at", key),
         "mainEntityOfPage": canonical,
         "publisher": {"@type": "Organization", "name": "커뮤랭크", "url": BASE},
     }
-    return page_shell(f"{label} 인터넷 이슈 브리핑 | 커뮤랭크", description, canonical, body, structured)
+    return page_shell(f"{label} 오늘 인터넷 이슈·커뮤니티 인기글 | 커뮤랭크", description, canonical, body, structured)
 
 
 def briefing_archive_page(briefing_index: dict) -> str:
@@ -440,8 +451,8 @@ def briefing_archive_page(briefing_index: dict) -> str:
     </section>
     """
     return page_shell(
-        "인터넷 이슈 브리핑 아카이브 | 커뮤랭크",
-        "날짜별 커뮤니티 인기글·급상승·동시 화제·키워드 데이터 브리핑",
+        "오늘 인터넷 이슈·커뮤니티 인기글 브리핑 아카이브 | 커뮤랭크",
+        "날짜별 오늘 인터넷 이슈와 커뮤니티 인기글, 급상승, 동시 화제, 키워드를 정리한 브리핑 아카이브",
         f"{BASE}/briefing/archive/",
         body,
         {"@context":"https://schema.org","@type":"CollectionPage","name":"커뮤랭크 인터넷 브리핑 아카이브","url":f"{BASE}/briefing/archive/"},
