@@ -1,5 +1,5 @@
 const REPO="trier442/commurank";
-let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null, analyticsConfig=null, adsConfig=null;
+let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null, analyticsConfig=null, adsConfig=null, seoStatus=null;
 
 const fmt=n=>new Intl.NumberFormat("ko-KR",{notation:Number(n)>9999?"compact":"standard"}).format(Number(n)||0);
 const safe=v=>String(v??"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[ch]));
@@ -38,6 +38,27 @@ function renderSummary(){
   document.querySelector("#analyticsState").textContent=analyticsOn ? "GA4 연결됨" : "미연결";
   document.querySelector("#analyticsState").className=analyticsOn ? "analytics-on" : "";
   document.querySelector("#analyticsMeasurement").textContent=analyticsConfig?.ga4_id || "-";
+
+  const sitemap=seoStatus?.sitemap||{};
+  const verification=seoStatus?.verification||{};
+  const seoOk=Boolean(
+    sitemap.url_count>0 &&
+    sitemap.duplicate_count===0 &&
+    verification.google_meta &&
+    verification.naver_meta &&
+    verification.robots_sitemap
+  );
+  document.querySelector("#seoState").textContent=seoOk ? "기술 SEO 정상" : "점검 필요";
+  document.querySelector("#seoState").className=seoOk ? "analytics-on" : "";
+  document.querySelector("#seoSummary").textContent=seoStatus?.latest_collected_at
+    ? "최근 데이터 "+new Date(seoStatus.latest_collected_at).toLocaleString("ko-KR")+" 기준"
+    : "SEO 상태 스냅샷을 생성 중입니다.";
+  document.querySelector("#seoUrlCount").textContent=sitemap.url_count ?? "-";
+  document.querySelector("#seoDuplicateCount").textContent=sitemap.duplicate_count ?? "-";
+  document.querySelector("#seoLatestDaily").textContent=seoStatus?.latest_pages?.daily || "-";
+  document.querySelector("#seoLatestBriefing").textContent=seoStatus?.latest_pages?.briefing || "-";
+  document.querySelector("#seoVerification").textContent=
+    verification.google_meta && verification.naver_meta ? "Google · Naver 확인" : "일부 확인 필요";
 
   const adsOn=Boolean(adsConfig?.enabled && adsConfig?.client_id);
   document.querySelector("#adsenseState").textContent=adsOn ? "광고 활성화" : "승인 전 · 광고 OFF";
@@ -142,14 +163,15 @@ async function load(){
     ["metrics",base+"metric-history.json"],
     ["issueHistory",base+"issue-history.json"],
     ["analytics","../analytics-config.json"],
-    ["ads","../ads-config.json"]
+    ["ads","../ads-config.json"],
+    ["seo","../data/seo-status.json"]
   ];
   const results=await Promise.all(reqs.map(async([k,url])=>{
     try{const r=await fetch(url+"?ts="+Date.now(),{cache:"no-store"});return [k,r.ok?await r.json():null]}catch{return [k,null]}
   }));
   const map=Object.fromEntries(results);
   latest=map.latest;issueRankings=map.issues;archiveIndex=map.archive;issueArchiveIndex=map.issueArchive;
-  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;analyticsConfig=map.analytics;adsConfig=map.ads;
+  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;analyticsConfig=map.analytics;adsConfig=map.ads;seoStatus=map.seo;
   renderSummary();renderSources();renderDiagnostics();renderVolumes();renderWorkflows();
 }
 document.querySelector("#themeToggle").addEventListener("click",()=>{
