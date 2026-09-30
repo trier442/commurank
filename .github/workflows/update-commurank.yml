@@ -53,6 +53,9 @@ jobs:
       - name: Build weekly trend reports
         run: python scripts/build_weekly_reports.py
 
+      - name: Build monthly trend reports
+        run: python scripts/build_monthly_reports.py
+
       - name: Notify Naver IndexNow
         run: python scripts/notify_indexnow.py
 
