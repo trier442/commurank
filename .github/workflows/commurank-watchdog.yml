@@ -88,6 +88,10 @@ jobs:
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/build_weekly_reports.py
 
+      - name: Build monthly trend reports
+        if: steps.freshness.outputs.stale == 'true'
+        run: python scripts/build_monthly_reports.py
+
       - name: Notify Naver IndexNow
         if: steps.freshness.outputs.stale == 'true'
         run: python scripts/notify_indexnow.py
