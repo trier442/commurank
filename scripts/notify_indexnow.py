@@ -22,10 +22,12 @@ def read_json(path: Path, default):
 
 def latest_archive_urls() -> list[str]:
     index = read_json(DATA / "archive-index.json", {"periods": {}})
+    briefing_index = read_json(DATA / "briefing-index.json", {"items": []})
     urls = [
         f"{BASE}/",
         f"{BASE}/issues/",
         f"{BASE}/briefing/",
+        f"{BASE}/briefing/archive/",
         f"{BASE}/ranking/",
         f"{BASE}/ranking/daily/",
         f"{BASE}/ranking/weekly/",
@@ -35,6 +37,12 @@ def latest_archive_urls() -> list[str]:
 
     for slug in ["dcinside", "fmkorea", "theqoo", "ruliweb", "clien", "inven", "ppomppu"]:
         urls.append(f"{BASE}/community/{slug}/")
+
+    briefing_items = briefing_index.get("items", [])
+    if briefing_items:
+        key = briefing_items[0].get("key")
+        if key:
+            urls.append(f"{BASE}/briefing/{key}/")
 
     for period in ["daily", "weekly", "monthly"]:
         items = index.get("periods", {}).get(period, [])
