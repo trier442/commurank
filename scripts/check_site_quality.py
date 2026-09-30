@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
+# Quality gate version: 1
 
 errors: list[str] = []
 warnings: list[str] = []
