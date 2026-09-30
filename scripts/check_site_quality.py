@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 6
+# Quality gate version: 7
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -154,6 +154,25 @@ for page in ["ranking/index.html", "briefing/archive/index.html", "reports/weekl
     body = text(page)
     if len(re.sub(r"<[^>]+>", " ", body)) < 700:
         warnings.append(f"{page}: archive/report landing page may be too thin")
+
+# Community long-tail SEO checks
+community_expectations = {
+    "community/dcinside/index.html": "디시인사이드 인기글 순위·급상승",
+    "community/fmkorea/index.html": "에펨코리아 인기글 순위·급상승",
+    "community/theqoo/index.html": "더쿠 인기글 순위·급상승",
+    "community/ruliweb/index.html": "루리웹 인기글 순위·급상승",
+    "community/clien/index.html": "클리앙 인기글 순위·급상승",
+    "community/inven/index.html": "인벤 인기글 순위·급상승",
+    "community/ppomppu/index.html": "뽐뿌 인기글 순위·급상승",
+}
+for page, phrase in community_expectations.items():
+    body = text(page)
+    if phrase not in body:
+        errors.append(f"{page}: long-tail SEO title missing")
+    if '"@type":"BreadcrumbList"' not in body:
+        errors.append(f"{page}: BreadcrumbList structured data missing")
+    if "커뮤니티 인기글 순위를 보는 방법" not in body:
+        warnings.append(f"{page}: explanatory SEO content missing")
 
 # SEO status snapshot checks
 seo_status = json.loads(text("data/seo-status.json") or "{}")
