@@ -12,6 +12,7 @@ DATA = ROOT / "data"
 RANKING = ROOT / "ranking"
 ARCHIVE_INDEX = DATA / "archive-index.json"
 LATEST_PATH = DATA / "latest.json"
+SEARCH_INDEX_PATH = DATA / "search-index.json"
 BASE = "https://commurank.kr"
 
 PERIODS = {
@@ -243,6 +244,47 @@ def root_index(index: dict) -> str:
 
 
 
+
+def write_search_index(archive: dict, latest: dict) -> None:
+    current_urls = {
+        p.get("url")
+        for p in (latest.get("rankings", {}).get("realtime", []) if isinstance(latest, dict) else [])
+        if p.get("url")
+    }
+
+    rows = []
+    if isinstance(archive, dict):
+        for item in archive.values():
+            if not isinstance(item, dict) or not item.get("url"):
+                continue
+            rows.append({
+                "t": item.get("title", ""),
+                "s": item.get("source", ""),
+                "c": item.get("category", "이슈"),
+                "u": item.get("url", ""),
+                "v": int(item.get("max_views", 0) or 0),
+                "l": int(item.get("max_likes", 0) or 0),
+                "m": int(item.get("max_comments", 0) or 0),
+                "p": float(item.get("peak_score", 0) or 0),
+                "f": item.get("first_seen", ""),
+                "d": item.get("last_seen", ""),
+                "a": int(item.get("appearances", 0) or 0),
+                "n": 1 if item.get("url") in current_urls else 0,
+            })
+
+    rows.sort(key=lambda x: (x.get("d", ""), x.get("p", 0)), reverse=True)
+    payload = {
+        "version": 1,
+        "generated_at": latest.get("collected_at", "") if isinstance(latest, dict) else "",
+        "count": len(rows),
+        "records": rows,
+    }
+    SEARCH_INDEX_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+
+
 def write_feed(latest: dict) -> None:
     posts = latest.get("rankings", {}).get("realtime", [])[:30] if isinstance(latest, dict) else []
     collected_at = str(latest.get("collected_at", "")) if isinstance(latest, dict) else ""
@@ -323,6 +365,7 @@ def write_sitemap(index: dict) -> None:
 def main() -> None:
     index = read_json(ARCHIVE_INDEX, {"periods": {}})
     latest = read_json(LATEST_PATH, {})
+    archive = read_json(DATA / "archive.json", {})
     RANKING.mkdir(parents=True, exist_ok=True)
     (RANKING / "index.html").write_text(root_index(index), encoding="utf-8")
 
@@ -341,7 +384,8 @@ def main() -> None:
 
     write_sitemap(index)
     write_feed(latest)
-    print("SEO ranking pages, sitemap, and RSS feed updated.")
+    write_search_index(archive, latest)
+    print("SEO ranking pages, sitemap, RSS feed, and search index updated.")
 
 
 if __name__ == "__main__":
