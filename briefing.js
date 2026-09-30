@@ -133,9 +133,7 @@ async function load(){
 }
 document.querySelector("#briefingArchive").addEventListener("change",e=>{
   const key=e.target.value;
-  const url=key?"?date="+encodeURIComponent(key):location.pathname;
-  history.replaceState(null,"",url);
-  loadDate(key);
+  location.href = key ? "../briefing/" + encodeURIComponent(key) + "/" : "../briefing/";
 });
 document.querySelector("#briefingLatest").addEventListener("click",()=>{
   history.replaceState(null,"",location.pathname);
