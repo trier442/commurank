@@ -2798,3 +2798,5 @@ select:focus-visible {
   .site-map-links { grid-template-columns: 1fr; }
   .community-context { grid-template-columns: 1fr; }
 }
+
+.briefing-method-note { margin-top: 18px; margin-bottom: 18px; }
