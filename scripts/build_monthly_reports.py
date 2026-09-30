@@ -8,11 +8,13 @@ from collections import Counter
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 OUT = ROOT / "reports" / "monthly"
 BASE = "https://commurank.kr"
+KST = ZoneInfo("Asia/Seoul")
 
 
 def read_json(path: Path, default):
@@ -159,7 +161,7 @@ def report_page(item, briefing_index):
 
     selected, keywords, issues = aggregate_briefings(briefing_index.get("items", []), start, end)
     covered_days = sorted({b.get("date") for b in selected if b.get("date")})
-    today = datetime.now().date()
+    today = datetime.now(KST).date()
 
     if start <= today <= end:
         status = "집계 중"
@@ -310,7 +312,7 @@ def index_page(items):
 def update_sitemap(items):
     path = ROOT / "sitemap.xml"
     text = path.read_text(encoding="utf-8") if path.exists() else ""
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now(KST).strftime("%Y-%m-%d")
     urls = [(f"{BASE}/reports/monthly/", "weekly", "0.8", today)]
     for item in items:
         urls.append((
