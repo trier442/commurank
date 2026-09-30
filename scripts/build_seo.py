@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -15,6 +16,7 @@ LATEST_PATH = DATA / "latest.json"
 SEARCH_INDEX_PATH = DATA / "search-index.json"
 BRIEFING_INDEX_PATH = DATA / "briefing-index.json"
 BASE = "https://commurank.kr"
+KST = ZoneInfo("Asia/Seoul")
 
 PERIODS = {
     "daily": ("일간", "오늘과 과거 날짜별 커뮤니티 인기글 TOP100"),
@@ -522,7 +524,7 @@ def write_feed(latest: dict) -> None:
         stamp = datetime.fromisoformat(collected_at)
         pub_date = stamp.strftime("%a, %d %b %Y %H:%M:%S %z")
     except Exception:
-        pub_date = datetime.now().astimezone().strftime("%a, %d %b %Y %H:%M:%S %z")
+        pub_date = datetime.now(KST).strftime("%a, %d %b %Y %H:%M:%S %z")
 
     rows = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -555,7 +557,7 @@ def write_feed(latest: dict) -> None:
     (ROOT / "feed.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
-def write_sitemap(index: dict, briefing_index: dict) -> None:
+def write_sitemap(index: dict, briefing_index: dict, latest: dict) -> None:
     static = [
         ("/", "hourly", "1.0"),
         ("/issues/", "hourly", "0.9"),
@@ -577,7 +579,7 @@ def write_sitemap(index: dict, briefing_index: dict) -> None:
         static.append((f"/community/{slug}/", "hourly", "0.8"))
 
     rows = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = str(latest.get("collected_at", ""))[:10] or datetime.now(KST).strftime("%Y-%m-%d")
     for path, freq, priority in static:
         rows.append(f"  <url><loc>{BASE}{path}</loc><lastmod>{today}</lastmod><changefreq>{freq}</changefreq><priority>{priority}</priority></url>")
 
@@ -627,7 +629,7 @@ def main() -> None:
             (out_dir / "index.html").write_text(archive_page(period, item, snap), encoding="utf-8")
 
     write_briefing_pages(briefing_index)
-    write_sitemap(index, briefing_index)
+    write_sitemap(index, briefing_index, latest)
     write_feed(latest)
     write_search_index(archive, latest)
     print("SEO ranking pages, daily briefing articles, sitemap, RSS feed, and search index updated.")
