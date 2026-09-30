@@ -550,6 +550,8 @@ def write_sitemap(index: dict, briefing_index: dict) -> None:
         ("/methodology/", "monthly", "0.7"),
         ("/privacy/", "monthly", "0.4"),
         ("/policy/", "monthly", "0.5"),
+        ("/editorial/", "monthly", "0.6"),
+        ("/site-map/", "weekly", "0.5"),
         ("/status/", "hourly", "0.5"),
     ]
     for slug in COMMUNITIES:
