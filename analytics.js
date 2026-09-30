@@ -10,6 +10,7 @@
       '<a href="/about/">서비스 소개</a>',
       '<a href="/methodology/">랭킹 산정 방식</a>',
       '<a href="/ranking/">랭킹 아카이브</a>',
+      '<a href="/reports/weekly/">주간 리포트</a>',
       '<a href="/status/">수집 상태</a>',
       '<a href="/feed.xml">RSS</a>',
       '<a href="/privacy/">개인정보</a>',
