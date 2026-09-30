@@ -25,7 +25,7 @@
     <section class="shell admin-hero">
       <p class="eyebrow">COMMURANK OPERATIONS</p>
       <h1>운영 상태 한눈에 보기</h1>
-      <p>수집기·랭킹·이슈·아카이브·브리핑·배포 상태를 점검합니다. 방문자 통계는 분석 서비스 연결 전까지 별도로 표시하지 않습니다.</p>
+      <p>수집기·랭킹·이슈·아카이브·브리핑·배포 상태를 점검합니다. GA4는 연결 상태와 측정 ID를 확인하고 실제 방문자 수치는 Google Analytics에서 확인합니다.</p>
     </section>
 
     <section class="shell admin-status-grid">
@@ -71,15 +71,31 @@
         <section class="side-card">
           <div class="side-title"><div><span>Analytics</span><h3>방문자 분석</h3></div></div>
           <div class="analytics-connection">
-            <strong id="analyticsState">미연결</strong>
-            <p>현재는 수집·콘텐츠 운영 지표만 집계합니다. GA4 Measurement ID를 연결하면 방문자·페이지뷰·원문 이동 등의 이벤트가 기록됩니다.</p>
+            <strong id="analyticsState">확인 중</strong>
+            <p>측정 ID <code id="analyticsMeasurement">-</code></p>
+            <p>페이지뷰와 함께 검색, 기간·카테고리 필터, 커뮤니티·이슈·브리핑·리포트 이동, 외부 원문 클릭을 이벤트로 기록합니다.</p>
             <ol class="analytics-setup-list">
-              <li>Google Analytics에서 웹 데이터 스트림 생성</li>
-              <li><code>G-XXXXXXXXXX</code> 형식의 측정 ID 확인</li>
-              <li>GitHub Actions의 <strong>Configure Commurank Analytics</strong> 실행</li>
-              <li>측정 ID 입력 후 Run workflow</li>
+              <li><strong>사용자 / 조회수</strong> — 전체 성장 확인</li>
+              <li><strong>Organic Search</strong> — 구글 검색 유입 확인</li>
+              <li><strong>콘텐츠 그룹</strong> — 브리핑·주간·월간 리포트 비교</li>
+              <li><strong>original_outbound_click</strong> — 원문 이동량 확인</li>
+              <li><strong>search_submit</strong> — 사이트 검색 이용량 확인</li>
             </ol>
-            <a class="analytics-action" href="https://github.com/trier442/trier442.github.io/actions/workflows/configure-commurank-analytics.yml" target="_blank" rel="noopener noreferrer">GA4 연결 작업 열기 ↗</a>
+            <a class="analytics-action" href="https://analytics.google.com/" target="_blank" rel="noopener noreferrer">Google Analytics 열기 ↗</a>
+          </div>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title"><div><span>Monetization</span><h3>애드센스 준비</h3></div></div>
+          <div class="analytics-connection">
+            <strong id="adsenseState">확인 중</strong>
+            <p id="adsenseDetail">승인 전에는 광고 코드를 활성화하지 않습니다.</p>
+            <ol class="analytics-setup-list">
+              <li>검색 색인과 방문 데이터 축적</li>
+              <li>일간·주간·월간 자체 콘텐츠 누적</li>
+              <li>승인 후 <code>ca-pub-...</code> 연결</li>
+              <li>승인 후 <code>ads.txt</code> 생성</li>
+            </ol>
           </div>
         </section>
 
