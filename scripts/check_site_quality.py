@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 3
+# Quality gate version: 4
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -138,11 +138,19 @@ for page in analytics_public_pages:
     if "analytics.js" not in body:
         errors.append(f"{page}: analytics.js loader missing")
 
+ads_script = text("ads.js")
+if "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" not in ads_script:
+    errors.append("ads.js: Google AdSense loader URL missing")
+
 ads = json.loads(text("ads-config.json") or "{}")
 if ads.get("enabled"):
     client = str(ads.get("client_id") or "")
     if not re.fullmatch(r"ca-pub-\d+", client):
         errors.append("ads-config.json: enabled but client_id is not a valid ca-pub- ID")
+    ads_txt = text("ads.txt")
+    publisher = client.replace("ca-", "", 1)
+    if publisher and publisher not in ads_txt:
+        errors.append("ads.txt: enabled AdSense publisher ID missing")
 else:
     print("AdSense config: disabled (expected before approval)")
 
