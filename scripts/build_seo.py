@@ -231,6 +231,11 @@ def root_index(index: dict) -> str:
             <a href="/ranking/monthly/"><strong>월간</strong><span>{counts['monthly']}개 월</span></a>
           </div>
         </section>
+        <section class="info-card">
+          <h2>아카이브를 이렇게 활용하세요</h2>
+          <p>일간 아카이브는 특정 날짜에 어떤 글이 상위권에 있었는지 확인하는 용도이고, 주간·월간 아카이브는 여러 날 반복적으로 노출된 글과 장기 반응을 함께 반영합니다. 현재 랭킹과 과거 랭킹을 분리해 과거 누적 반응이 오늘 순위에 그대로 섞이지 않도록 합니다.</p>
+          <p>각 목록은 게시글 제목, 출처, 조회·추천·댓글 등 공개 지표를 보여 주며 제목을 누르면 원문으로 바로 이동합니다. 순위는 커뮤랭크의 상대 점수이므로 인터넷 전체 여론이나 이용자 전체의 선호를 의미하지 않습니다.</p>
+        </section>
       </div>
       <aside class="info-side"><nav class="info-nav"><a href="/">현재 랭킹</a><a href="/issues/">이슈 TOP20</a><a href="/briefing/">오늘의 브리핑</a></nav></aside>
     </section>
@@ -427,7 +432,10 @@ def briefing_archive_page(briefing_index: dict) -> str:
       <p>날짜별로 여러 커뮤니티의 인기글, 급상승 흐름, 동시 화제와 키워드를 데이터 중심으로 정리합니다.</p>
     </section>
     <section class="shell info-layout">
-      <div class="info-main"><section class="info-card"><h2>날짜별 브리핑</h2><div class="archive-index-list">{rows or '<div class="empty">브리핑을 쌓는 중입니다.</div>'}</div></section></div>
+      <div class="info-main">
+        <section class="info-card"><h2>날짜별 브리핑</h2><div class="archive-index-list">{rows or '<div class="empty">브리핑을 쌓는 중입니다.</div>'}</div></section>
+        <section class="info-card"><h2>브리핑 아카이브의 기준</h2><p>각 날짜 브리핑은 그날 수집된 인기글, 급상승 반응, 여러 커뮤니티에서 함께 포착된 이슈와 반복 키워드를 보존합니다. 날짜가 지난 뒤 최신 결과로 덮어쓰지 않기 때문에 당시의 관심 흐름을 다시 확인할 수 있습니다.</p><p>브리핑에 표시되는 ‘화제’나 ‘급상승’은 수집 데이터의 변화량을 설명하는 표현이며 게시글의 사실 여부나 찬반을 판단하는 의미가 아닙니다. 원문 내용은 각 출처 사이트에서 직접 확인할 수 있습니다.</p></section>
+      </div>
       <aside class="info-side"><nav class="info-nav"><a href="/briefing/">오늘의 브리핑</a><a href="/ranking/">랭킹 아카이브</a><a href="/issues/">이슈 TOP20</a></nav></aside>
     </section>
     """
