@@ -9,7 +9,7 @@ on:
   schedule:
     # Runs seven minutes after the primary collector slots.
     # If the latest dataset is older than 20 minutes, recover it.
-    - cron: "14,29,44,59 * * * *"
+    - cron: "11,26,41,56 * * * *"
 
 permissions:
   contents: write
@@ -95,4 +95,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data ranking sitemap.xml feed.xml
           git commit -m "Recover stale Commurank rankings"
+          git pull --rebase origin main
           git push
