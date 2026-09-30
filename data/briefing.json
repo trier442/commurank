@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-09-30",
   "label": "2026년 09월 30일",
-  "collected_at": "2026-09-30T16:30:49.748249+09:00",
+  "collected_at": "2026-09-30T16:33:10.684178+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘테슬라’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #테슬라. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -13,15 +13,15 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 983641,
-    "top100_comments": 13080
+    "top100_views": 962478,
+    "top100_comments": 13072
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "4개 커뮤니티에서 4개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i039fd79c"
+      "issue_id": "i89c5681f"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
+      "title": "#테슬라",
       "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "keyword": "테슬라"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-09-30T12:08:04.223861+09:00"
         }
       },
-      "score": 111.3,
+      "score": 111.29,
       "views": 23353,
       "likes": 171,
       "comments": 126,
@@ -88,7 +88,7 @@
           "last_seen": "2026-09-30T12:06:00.511205+09:00"
         }
       },
-      "score": 111.17,
+      "score": 111.16,
       "views": 30772,
       "likes": 199,
       "comments": 98,
@@ -151,7 +151,36 @@
       "likes": 146,
       "comments": 172,
       "active_days": 1,
-      "change": 9
+      "change": 0
+    },
+    {
+      "title": "[속보] 국정원 \"젤렌스키 北포로 송환공개, 韓 무기 지원 기대한 듯\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76854742?m=humor",
+      "first_seen": "2026-09-30T12:06:00.511205+09:00",
+      "last_seen": "2026-09-30T16:33:10.684178+09:00",
+      "peak_score": 98.54,
+      "max_views": 26959,
+      "max_likes": 160,
+      "max_comments": 117,
+      "appearances": 3,
+      "daily_stats": {
+        "2026-09-30": {
+          "max_score": 98.54,
+          "max_views": 26959,
+          "max_likes": 160,
+          "max_comments": 117,
+          "appearances": 3,
+          "last_seen": "2026-09-30T16:33:10.684178+09:00"
+        }
+      },
+      "score": 109.59,
+      "views": 26959,
+      "likes": 160,
+      "comments": 117,
+      "active_days": 1,
+      "change": 12
     },
     {
       "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
@@ -175,7 +204,7 @@
           "last_seen": "2026-09-30T12:06:30.930691+09:00"
         }
       },
-      "score": 109.5,
+      "score": 109.49,
       "views": 37291,
       "likes": 111,
       "comments": 91,
@@ -212,6 +241,35 @@
       "change": -1
     },
     {
+      "title": "여성 병역 의무화 모순",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76855244?m=humor",
+      "first_seen": "2026-09-30T16:29:04.314799+09:00",
+      "last_seen": "2026-09-30T16:33:10.684178+09:00",
+      "peak_score": 98.12,
+      "max_views": 25553,
+      "max_likes": 185,
+      "max_comments": 99,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-09-30": {
+          "max_score": 98.12,
+          "max_views": 25553,
+          "max_likes": 185,
+          "max_comments": 99,
+          "appearances": 2,
+          "last_seen": "2026-09-30T16:33:10.684178+09:00"
+        }
+      },
+      "score": 108.54,
+      "views": 25553,
+      "likes": 185,
+      "comments": 99,
+      "active_days": 1,
+      "change": 1
+    },
+    {
       "title": "신차 출고했는데 파손되서 도착함.jpg",
       "source": "루리웹",
       "category": "이슈",
@@ -238,7 +296,7 @@
       "likes": 150,
       "comments": 68,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "욕에는 자신의 콤플렉스가 투영됨",
@@ -262,111 +320,73 @@
           "last_seen": "2026-09-30T10:45:24.529346+09:00"
         }
       },
-      "score": 107.65,
+      "score": 107.64,
       "views": 23198,
       "likes": 93,
       "comments": 66,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "여성 병역 의무화 모순",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76855244?m=humor",
-      "first_seen": "2026-09-30T16:29:04.314799+09:00",
-      "last_seen": "2026-09-30T16:29:04.314799+09:00",
-      "peak_score": 98.12,
-      "max_views": 25553,
-      "max_likes": 185,
-      "max_comments": 99,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-09-30": {
-          "max_score": 98.12,
-          "max_views": 25553,
-          "max_likes": 185,
-          "max_comments": 99,
-          "appearances": 1,
-          "last_seen": "2026-09-30T16:29:04.314799+09:00"
-        }
-      },
-      "score": 107.64,
-      "views": 25553,
-      "likes": 185,
-      "comments": 99,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "JYP가 종교에 심취한게 아닌 이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76850550?m=humor",
-      "first_seen": "2026-09-30T04:57:06.263561+09:00",
-      "last_seen": "2026-09-30T04:57:06.263561+09:00",
-      "peak_score": 98.96,
-      "max_views": 18265,
-      "max_likes": 114,
-      "max_comments": 97,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-09-30": {
-          "max_score": 98.96,
-          "max_views": 18265,
-          "max_likes": 114,
-          "max_comments": 97,
-          "appearances": 1,
-          "last_seen": "2026-09-30T04:57:06.263561+09:00"
-        }
-      },
-      "score": 107.52,
-      "views": 18265,
-      "likes": 114,
-      "comments": 97,
-      "active_days": 1,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "19) 진동 팬티 데이트 후기",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734460",
-      "category": "이슈",
-      "views": 1434,
+      "source": "더쿠",
+      "title": "중소기업이 육아휴직 반기기힘든이유",
+      "url": "https://theqoo.net/hot/4361045293",
+      "category": "생활",
+      "views": 15198,
       "likes": 0,
-      "comments": 9,
-      "score": 74.32,
+      "comments": 270,
+      "score": 66.0,
       "change": 0,
-      "current_rank": 21,
+      "current_rank": 39,
       "new_entry": false,
-      "delta_views": 135,
+      "delta_views": 1270,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 21,
       "rank_gain": 0,
-      "rising_score": 97.83,
+      "rising_score": 94.83,
       "rising_rank": 1,
       "window_minutes": 2
     },
     {
-      "source": "루리웹",
-      "title": "Ts 말포이가 글래머가 아닌 슬렌더여야 하는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76858016?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 1759,
-      "likes": 21,
-      "comments": 17,
-      "score": 59.31,
-      "change": 22,
-      "current_rank": 65,
+      "source": "디시인사이드",
+      "title": "싱글벙글 게이팝 VS 게임 현실적인 비교",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466933&_dcbest=1&page=1",
+      "category": "게임",
+      "views": 9250,
+      "likes": 86,
+      "comments": 146,
+      "score": 82.18,
+      "change": 0,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 1601,
-      "delta_likes": 12,
-      "delta_comments": 13,
-      "rank_gain": 22,
-      "rising_score": 90.42,
+      "delta_views": 389,
+      "delta_likes": 11,
+      "delta_comments": 7,
+      "rank_gain": 0,
+      "rising_score": 94.27,
       "rising_rank": 2,
+      "window_minutes": 2
+    },
+    {
+      "source": "루리웹",
+      "title": "사망여우 사과문도 웃긴게",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76858036?m=humor_only&t=now",
+      "category": "유머",
+      "views": 3056,
+      "likes": 78,
+      "comments": 18,
+      "score": 67.37,
+      "change": 34,
+      "current_rank": 36,
+      "new_entry": false,
+      "delta_views": 2435,
+      "delta_likes": 56,
+      "delta_comments": 12,
+      "rank_gain": 34,
+      "rising_score": 91.88,
+      "rising_rank": 3,
       "window_minutes": 2
     },
     {
@@ -374,139 +394,19 @@
       "title": "한국 교사, 15년차 급여 및 최고호봉 급여.news",
       "url": "https://www.clien.net/service/board/park/19271770?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 1492,
+      "views": 1708,
       "likes": 0,
       "comments": 12,
       "score": 86.22,
       "change": 0,
       "current_rank": 4,
       "new_entry": false,
-      "delta_views": 161,
+      "delta_views": 216,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 89.29,
-      "rising_rank": 3,
-      "window_minutes": 2
-    },
-    {
-      "source": "인벤",
-      "title": "당근 모범 구인자 근황",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734462",
-      "category": "이슈",
-      "views": 526,
-      "likes": 0,
-      "comments": 9,
-      "score": 69.96,
-      "change": 13,
-      "current_rank": 28,
-      "new_entry": false,
-      "delta_views": 112,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 13,
-      "rising_score": 89.03,
       "rising_rank": 4,
-      "window_minutes": 2
-    },
-    {
-      "source": "디시인사이드",
-      "title": "대한민국 검찰청 근황.jpg ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466922&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 8804,
-      "likes": 28,
-      "comments": 385,
-      "score": 77.7,
-      "change": 1,
-      "current_rank": 10,
-      "new_entry": false,
-      "delta_views": 192,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 1,
-      "rising_score": 86.75,
-      "rising_rank": 5,
-      "window_minutes": 2
-    },
-    {
-      "source": "더쿠",
-      "title": "중소기업이 육아휴직 반기기힘든이유",
-      "url": "https://theqoo.net/hot/4361045293",
-      "category": "생활",
-      "views": 13928,
-      "likes": 0,
-      "comments": 249,
-      "score": 66.0,
-      "change": 3,
-      "current_rank": 36,
-      "new_entry": false,
-      "delta_views": 697,
-      "delta_likes": 0,
-      "delta_comments": 17,
-      "rank_gain": 3,
-      "rising_score": 85.0,
-      "rising_rank": 6,
-      "window_minutes": 2
-    },
-    {
-      "source": "클리앙",
-      "title": "우리나라 축구 이정도였나요...",
-      "url": "https://www.clien.net/service/board/park/19271772?od=T31&po=0&category=0&groupCd=",
-      "category": "스포츠",
-      "views": 1392,
-      "likes": 0,
-      "comments": 8,
-      "score": 84.02,
-      "change": 1,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 171,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 1,
-      "rising_score": 84.96,
-      "rising_rank": 7,
-      "window_minutes": 2
-    },
-    {
-      "source": "인벤",
-      "title": "경제 어렵다.추석민심 전한 TK정치귄",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734464",
-      "category": "이슈",
-      "views": 106,
-      "likes": 0,
-      "comments": 3,
-      "score": 62.78,
-      "change": 10,
-      "current_rank": 53,
-      "new_entry": false,
-      "delta_views": 105,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 10,
-      "rising_score": 84.2,
-      "rising_rank": 8,
-      "window_minutes": 2
-    },
-    {
-      "source": "클리앙",
-      "title": "무려 검사출신 국회의원의 유명 배우 얼굴평",
-      "url": "https://www.clien.net/service/board/park/19271771?od=T31&po=0&category=0&groupCd=",
-      "category": "연예",
-      "views": 1215,
-      "likes": 1,
-      "comments": 6,
-      "score": 75.15,
-      "change": 0,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 121,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.14,
-      "rising_rank": 9,
       "window_minutes": 2
     },
     {
@@ -514,23 +414,177 @@
       "title": "테슬라 차 탁송으로 받았는데 이렇게 오면 인수거부 안됨?",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466930&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 1770,
-      "likes": 5,
-      "comments": 73,
-      "score": 62.7,
-      "change": 0,
-      "current_rank": 54,
+      "views": 2125,
+      "likes": 7,
+      "comments": 87,
+      "score": 63.78,
+      "change": 8,
+      "current_rank": 46,
       "new_entry": false,
-      "delta_views": 248,
-      "delta_likes": 1,
-      "delta_comments": 13,
+      "delta_views": 355,
+      "delta_likes": 2,
+      "delta_comments": 14,
+      "rank_gain": 8,
+      "rising_score": 88.58,
+      "rising_rank": 5,
+      "window_minutes": 2
+    },
+    {
+      "source": "인벤",
+      "title": "경제 어렵다.추석민심 전한 TK정치귄",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734464",
+      "category": "이슈",
+      "views": 227,
+      "likes": 0,
+      "comments": 8,
+      "score": 67.9,
+      "change": 18,
+      "current_rank": 35,
+      "new_entry": false,
+      "delta_views": 121,
+      "delta_likes": 0,
+      "delta_comments": 5,
+      "rank_gain": 18,
+      "rising_score": 88.44,
+      "rising_rank": 6,
+      "window_minutes": 2
+    },
+    {
+      "source": "인벤",
+      "title": "당근 모범 구인자 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734462",
+      "category": "이슈",
+      "views": 662,
+      "likes": 0,
+      "comments": 13,
+      "score": 73.68,
+      "change": 4,
+      "current_rank": 24,
+      "new_entry": false,
+      "delta_views": 136,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 4,
+      "rising_score": 84.98,
+      "rising_rank": 7,
+      "window_minutes": 2
+    },
+    {
+      "source": "인벤",
+      "title": "배현진 박진영 매달 200씩받아 무보수아님 ㅡㅡ?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734463",
+      "category": "이슈",
+      "views": 555,
+      "likes": 0,
+      "comments": 7,
+      "score": 66.95,
+      "change": 15,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 131,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 15,
+      "rising_score": 83.21,
+      "rising_rank": 8,
+      "window_minutes": 2
+    },
+    {
+      "source": "루리웹",
+      "title": "테슬라 모델 Y 풀옵들 가격",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76855669?m=humor",
+      "category": "이슈",
+      "views": 18413,
+      "likes": 148,
+      "comments": 126,
+      "score": 95.77,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.12,
+      "rising_score": 82.22,
+      "rising_rank": 9,
+      "window_minutes": 2
+    },
+    {
+      "source": "루리웹",
+      "title": "여성 병역 의무화 모순",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76855244?m=humor",
+      "category": "이슈",
+      "views": 25553,
+      "likes": 185,
+      "comments": 99,
+      "score": 94.25,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.59,
       "rising_rank": 10,
       "window_minutes": 2
     }
   ],
   "issues": [
+    {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 140.24,
+      "peak_score": 120.77,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "테슬라 모델 Y 풀옵들 가격",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76855669?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 46,
+          "title": "테슬라 차 탁송으로 받았는데 이렇게 오면 인수거부 안됨?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466930&_dcbest=1&page=1",
+          "score": 63.78
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "보배펌] 테슬라 코리아 고객 대응 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734466",
+          "score": 60.4
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 79,
+          "title": "카니발을 우습게 본 테슬라 차주 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136093",
+          "score": 55.52
+        }
+      ],
+      "first_seen": "2026-09-30T16:33:10.684178+09:00",
+      "last_seen": "2026-09-30T16:33:10.684178+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
@@ -539,9 +593,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 124.02,
+      "score": 125.14,
       "peak_score": 101.09,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -551,39 +605,39 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 17,
+          "rank": 28,
           "title": "'이재명 아들 군 면제' 허위글 이수정 \"교직 파면될 수도\".선처 호소",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136344",
-          "score": 76.09
-        },
-        {
-          "source": "인벤",
-          "rank": 67,
-          "title": "이재명 정부 민생체감 정책 시행 여부 체크 리스트",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734448",
-          "score": 58.04
+          "score": 70.51
         },
         {
           "source": "디시인사이드",
-          "rank": 73,
+          "rank": 74,
           "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
           "score": 57.09
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "이재명 정부 민생체감 정책 시행 여부 체크 리스트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734448",
+          "score": 57.05
         },
         {
           "source": "클리앙",
           "rank": 78,
           "title": "이재명 대통령은 쉬운 길이 있는데 디게 어렵게 가네요.",
           "url": "https://www.clien.net/service/board/park/19271763?od=T31&po=0&category=0&groupCd=",
-          "score": 55.77
+          "score": 56.24
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-09-30T16:30:49.748249+09:00",
+      "last_seen": "2026-09-30T16:33:10.684178+09:00",
       "latest_source_count": 4,
       "latest_post_count": 4,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "iadaad958",
@@ -621,8 +675,8 @@
       "last_seen": "2026-09-30T11:45:12.415278+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "ifc2a71e9",
@@ -661,8 +715,8 @@
       "last_seen": "2026-09-30T15:23:50.729860+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i5b755224",
@@ -699,8 +753,8 @@
       "last_seen": "2026-09-30T12:02:25.236067+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i106465f0",
@@ -738,8 +792,8 @@
       "last_seen": "2026-09-30T10:45:24.529346+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i1d3a3c3b",
@@ -781,8 +835,8 @@
       "last_seen": "2026-09-30T11:45:12.415278+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ie5356c4c",
@@ -824,8 +878,8 @@
       "last_seen": "2026-09-30T12:06:00.511205+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i1e941339",
@@ -862,8 +916,8 @@
       "last_seen": "2026-09-30T04:57:06.263561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "iae209e51",
@@ -900,49 +954,61 @@
       "last_seen": "2026-09-30T11:27:58.185526+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i4bc7bc46",
-      "title": "‘news’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "news"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 106.71,
-      "peak_score": 95.22,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 4,
-          "title": "한국 교사, 15년차 급여 및 최고호봉 급여.news",
-          "url": "https://www.clien.net/service/board/park/19271770?od=T31&po=0&category=0&groupCd=",
-          "score": 86.22
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 86,
-          "title": "부산 상어.... 부캉이 구조 실패 ㄷㄷ...News",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466880&_dcbest=1&page=1",
-          "score": 54.17
-        }
-      ],
-      "first_seen": "2026-09-30T16:29:04.314799+09:00",
-      "last_seen": "2026-09-30T16:30:49.748249+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 3
+      "change": -1
     }
   ],
   "realtime_issues": [
+    {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 120.77,
+      "peak_score": 120.77,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "테슬라 모델 Y 풀옵들 가격",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76855669?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 46,
+          "title": "테슬라 차 탁송으로 받았는데 이렇게 오면 인수거부 안됨?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466930&_dcbest=1&page=1",
+          "score": 63.78
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "보배펌] 테슬라 코리아 고객 대응 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734466",
+          "score": 60.4
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 79,
+          "title": "카니발을 우습게 본 테슬라 차주 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136093",
+          "score": 55.52
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
@@ -951,8 +1017,8 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 101.09,
-      "peak_score": 101.09,
+      "score": 95.51,
+      "peak_score": 95.51,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -963,50 +1029,50 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 17,
+          "rank": 28,
           "title": "'이재명 아들 군 면제' 허위글 이수정 \"교직 파면될 수도\".선처 호소",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136344",
-          "score": 76.09
-        },
-        {
-          "source": "인벤",
-          "rank": 67,
-          "title": "이재명 정부 민생체감 정책 시행 여부 체크 리스트",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734448",
-          "score": 58.04
+          "score": 70.51
         },
         {
           "source": "디시인사이드",
-          "rank": 73,
+          "rank": 74,
           "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
           "score": 57.09
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "이재명 정부 민생체감 정책 시행 여부 체크 리스트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734448",
+          "score": 57.05
         },
         {
           "source": "클리앙",
           "rank": 78,
           "title": "이재명 대통령은 쉬운 길이 있는데 디게 어렵게 가네요.",
           "url": "https://www.clien.net/service/board/park/19271763?od=T31&po=0&category=0&groupCd=",
-          "score": 55.77
+          "score": 56.24
         }
       ],
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i1b29a66d",
-      "title": "계엄표결 방해' 추경호에 징역 20년 구형…'내란 가담' ㄷㄷㄷㄷ.gisa",
+      "title": "[속보] 추경호에 징역 20년 구형",
       "keywords": [
-        "20년",
         "징역",
-        "방해",
+        "20년",
         "추경호에",
-        "구형"
+        "구형",
+        "방해"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 74.82,
-      "peak_score": 74.82,
+      "post_count": 4,
+      "score": 78.96,
+      "peak_score": 78.96,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -1014,22 +1080,22 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 37,
-          "title": "계엄표결 방해' 추경호에 징역 20년 구형…'내란 가담' ㄷㄷㄷㄷ.gisa",
-          "url": "https://www.clien.net/service/board/park/19271769?od=T31&po=0&category=0&groupCd=",
-          "score": 65.82
+          "source": "뽐뿌",
+          "rank": 32,
+          "title": "[속보] 추경호에 징역 20년 구형",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136414",
+          "score": 68.96
         },
         {
-          "source": "뽐뿌",
-          "rank": 50,
-          "title": "[속보] 특검, 추경호에 징역 20년 구형..계엄 해제 표결 방해' 혐의..여당 표 묶어두는 일에 앞장서\" / SBS...",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136475",
-          "score": 63.35
+          "source": "클리앙",
+          "rank": 40,
+          "title": "계엄표결 방해' 추경호에 징역 20년 구형…'내란 가담' ㄷㄷㄷㄷ.gisa",
+          "url": "https://www.clien.net/service/board/park/19271769?od=T31&po=0&category=0&groupCd=",
+          "score": 65.78
         }
       ],
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i8b4085e0",
@@ -1039,8 +1105,8 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 70.71,
-      "peak_score": 70.71,
+      "score": 70.54,
+      "peak_score": 70.54,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1049,21 +1115,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 58,
+          "rank": 55,
           "title": "e스포츠 아시안게임 퇴출 아니라고 말 바꾼 OCA",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734461",
-          "score": 60.71
+          "score": 60.54
         },
         {
           "source": "디시인사이드",
-          "rank": 92,
+          "rank": 93,
           "title": "안세영 아시안게임 우승으로 세운 10가지 기록이라네",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466894&_dcbest=1&page=1",
           "score": 52.82
         }
       ],
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i4bc7bc46",
@@ -1093,11 +1159,79 @@
           "rank": 86,
           "title": "부산 상어.... 부캉이 구조 실패 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466880&_dcbest=1&page=1",
-          "score": 54.17
+          "score": 54.03
         }
       ],
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "id": "icd37a026",
+      "title": "‘검사출신’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "검사출신"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.31,
+      "peak_score": 89.31,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 8,
+          "title": "무려 검사출신 국회의원의 유명 배우 얼굴평",
+          "url": "https://www.clien.net/service/board/park/19271771?od=T31&po=0&category=0&groupCd=",
+          "score": 80.31
+        },
+        {
+          "source": "루리웹",
+          "rank": 89,
+          "title": "검사출신 변호사도 소름돋은 진짜 정신병자ㄷㄷㄷ;;.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76858004?m=humor_only&t=now",
+          "score": 53.39
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.24,
+      "peak_score": 87.24,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 12,
+          "title": "대한민국 검찰청 근황.jpg ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466922&_dcbest=1&page=1",
+          "score": 78.24
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 60,
+          "title": "대한민국 검찰개혁 역사에 남긴 오늘의 명언",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136339",
+          "score": 59.47
+        }
+      ],
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i18da75be",
@@ -1118,150 +1252,46 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 9,
+          "rank": 11,
           "title": "트위터에서 뜬 라식 라섹 후회담...",
           "url": "https://theqoo.net/hot/4360913682",
           "score": 79.21
         },
         {
           "source": "인벤",
-          "rank": 47,
+          "rank": 51,
           "title": "라섹 라식 이제 사라진다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2734437",
-          "score": 63.65
-        }
-      ],
-      "rank": 5,
-      "change": 1
-    },
-    {
-      "id": "i4c8bdd1e",
-      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "대한민국"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.7,
-      "peak_score": 86.7,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "대한민국 검찰청 근황.jpg ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466922&_dcbest=1&page=1",
-          "score": 77.7
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 39,
-          "title": "대한민국 검찰개혁 역사에 남긴 오늘의 명언",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136339",
-          "score": 65.05
-        }
-      ],
-      "rank": 6,
-      "change": -1
-    },
-    {
-      "id": "i8cd5f9b7",
-      "title": "[단독]‘멸공반점’도 협박…“간판 내려라”",
-      "keywords": [
-        "협박",
-        "간판",
-        "내려라"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.21,
-      "peak_score": 84.21,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "[단독]‘멸공반점’도 협박…“간판 내려라”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466912&_dcbest=1&page=1",
-          "score": 76.21
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 63,
-          "title": "멸공반점도 협박 \"간판 내려라\"",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22012",
-          "score": 59.94
-        }
-      ],
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.92,
-      "peak_score": 82.92,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 22,
-          "title": "'암살자(들)' 본 탈북자, 북한 선전 영화와 너무 똑같아 놀라",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466914&_dcbest=1&page=1",
-          "score": 73.92
-        },
-        {
-          "source": "더쿠",
-          "rank": 33,
-          "title": "'암살자(들)' 허진호 감독 \"배우들 정말 힘들어해..왜곡 프레임-악플 참담",
-          "url": "https://theqoo.net/hot/4360988188",
-          "score": 68.68
+          "score": 62.19
         }
       ],
       "rank": 8,
-      "change": 0
+      "change": -3
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 162.05,
+      "keyword": "테슬라",
+      "score": 154.84,
       "post_count": 4,
       "source_count": 4,
-      "best_rank": 1,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
         "루리웹",
-        "인벤",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": 17
     },
     {
       "keyword": "이재명",
-      "score": 144.48,
+      "score": 141.8,
       "post_count": 4,
       "source_count": 4,
-      "best_rank": 17,
+      "best_rank": 28,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -1274,10 +1304,10 @@
     },
     {
       "keyword": "20년",
-      "score": 128.68,
-      "post_count": 4,
+      "score": 132.63,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 11,
+      "best_rank": 16,
       "sources": [
         "뽐뿌",
         "인벤",
@@ -1289,10 +1319,10 @@
     },
     {
       "keyword": "징역",
-      "score": 122.12,
-      "post_count": 4,
+      "score": 129.24,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 37,
+      "best_rank": 32,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -1303,26 +1333,26 @@
       "change": 0
     },
     {
-      "keyword": "구형",
-      "score": 115.51,
+      "keyword": "한국",
+      "score": 127.42,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 37,
+      "best_rank": 4,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": 0
+      "change": -4
     },
     {
-      "keyword": "혐의",
-      "score": 114.27,
-      "post_count": 3,
+      "keyword": "구형",
+      "score": 122.37,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 40,
+      "best_rank": 32,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -1330,25 +1360,40 @@
       ],
       "aliases": [],
       "rank": 6,
-      "change": 0
+      "change": -1
     },
     {
-      "keyword": "상황",
-      "score": 106.16,
+      "keyword": "혐의",
+      "score": 111.24,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 1,
+      "source_count": 3,
+      "best_rank": 42,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 2
+      "change": -1
+    },
+    {
+      "keyword": "일본",
+      "score": 106.39,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": 3
     },
     {
       "keyword": "최근",
-      "score": 105.04,
+      "score": 105.06,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 6,
@@ -1357,29 +1402,43 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
-      "keyword": "대한민국",
-      "score": 99.84,
+      "keyword": "가격",
+      "score": 102.96,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 2,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": 2
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "추경호",
+      "score": 99.32,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 32,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": 4
     },
     {
       "keyword": "라섹",
-      "score": 99.37,
+      "score": 97.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 11,
       "sources": [
         "더쿠",
         "인벤"
@@ -1387,26 +1446,12 @@
       "aliases": [
         "라식"
       ],
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "keyword": "일본",
-      "score": 97.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": 1
+      "rank": 12,
+      "change": -2
     },
     {
       "keyword": "news",
-      "score": 96.69,
+      "score": 96.67,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 4,
@@ -1415,12 +1460,26 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": 1
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "keyword": "대한민국",
+      "score": 95.68,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 12,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": -5
     },
     {
       "keyword": "암살자",
-      "score": 95.6,
+      "score": 95.64,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 22,
@@ -1429,75 +1488,49 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 13,
-      "change": 1
-    },
-    {
-      "keyword": "멸공반점",
-      "score": 93.69,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [
-        "간판",
-        "내려라",
-        "협박"
-      ],
-      "rank": 14,
-      "change": 1
-    },
-    {
-      "keyword": "추경호",
-      "score": 92.6,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 37,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [
-        "방해"
-      ],
       "rank": 15,
-      "change": 1
+      "change": -2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국 자동차 시장 상황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76854850?m=humor",
-      "score": 98.96,
-      "views": 30118,
-      "comments": 172
+      "title": "[속보] 국정원 \"젤렌스키 北포로 송환공개, 韓 무기 지원 기대한 듯\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76854742?m=humor",
+      "score": 98.54,
+      "views": 26959,
+      "comments": 117
     },
     {
       "source": "클리앙",
       "title": "한국 교사, 15년차 급여 및 최고호봉 급여.news",
       "url": "https://www.clien.net/service/board/park/19271770?od=T31&po=0&category=0&groupCd=",
       "score": 86.22,
-      "views": 1492,
+      "views": 1708,
       "comments": 12
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 최근 나락간 일본 닛몰캐쉬",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466924&_dcbest=1&page=1",
-      "score": 82.89,
-      "views": 20940,
-      "comments": 155
+      "score": 83.03,
+      "views": 21251,
+      "comments": 158
+    },
+    {
+      "source": "뽐뿌",
+      "title": "일본 돌판구이 삼겹살집 근황",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136324",
+      "score": 79.75,
+      "views": 21613,
+      "comments": 51
     },
     {
       "source": "인벤",
       "title": "(ㅇㅎ?) 호불호 무조건 갈리는 소개팅 의상",
       "url": "https://www.inven.co.kr/board/webzine/2097/2734456",
-      "score": 80.63,
-      "views": 1794,
+      "score": 79.29,
+      "views": 1880,
       "comments": 12
     },
     {
@@ -1505,16 +1538,8 @@
       "title": "트위터에서 뜬 라식 라섹 후회담...",
       "url": "https://theqoo.net/hot/4360913682",
       "score": 79.21,
-      "views": 53671,
-      "comments": 856
-    },
-    {
-      "source": "뽐뿌",
-      "title": "'이재명 아들 군 면제' 허위글 이수정 \"교직 파면될 수도\".선처 호소",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136344",
-      "score": 76.09,
-      "views": 7240,
-      "comments": 33
+      "views": 54218,
+      "comments": 860
     }
   ]
 }
