@@ -11,7 +11,7 @@ on:
   # Run four times per hour, away from the top of the hour, to keep
   # the ranking fresh even when an individual schedule event is dropped.
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "4,19,34,49 * * * *"
 
 permissions:
   contents: write
