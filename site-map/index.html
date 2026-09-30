@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#5b45ff" />
+  <meta name="robots" content="index,follow" />
+  <meta name="description" content="커뮤랭크의 주요 랭킹, 브리핑, 리포트, 커뮤니티별 페이지와 서비스 안내를 한곳에서 찾습니다." />
+  <link rel="canonical" href="https://commurank.kr/site-map/" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <title>사이트 안내 | 커뮤랭크</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="shell search-header">
+    <a class="brand" href="/" aria-label="커뮤랭크 홈"><span class="brand-mark">C</span><span><strong>커뮤랭크</strong><small>COMMURANK</small></span></a>
+    <form class="global-search global-search-wide" action="/search/" method="get" role="search"><input type="search" name="q" placeholder="게시글·키워드·커뮤니티 검색" /><button type="submit">검색</button></form>
+    <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+  </div>
+</header>
+<main>
+  <section class="shell info-hero"><p class="eyebrow">SITE GUIDE</p><h1>사이트 안내</h1><p>커뮤랭크의 주요 콘텐츠와 서비스 안내 페이지를 한곳에서 찾을 수 있습니다.</p></section>
+  <section class="shell info-layout">
+    <div class="info-main">
+      <section class="info-card"><h2>현재 트렌드</h2><div class="site-map-links"><a href="/">실시간 통합 랭킹</a><a href="/issues/">이슈 TOP20</a><a href="/briefing/">오늘의 인터넷 브리핑</a><a href="/status/">수집 상태</a></div></section>
+      <section class="info-card"><h2>아카이브와 리포트</h2><div class="site-map-links"><a href="/ranking/">랭킹 아카이브</a><a href="/ranking/daily/">일간 랭킹</a><a href="/ranking/weekly/">주간 랭킹</a><a href="/ranking/monthly/">월간 랭킹</a><a href="/briefing/archive/">일간 브리핑 아카이브</a><a href="/reports/weekly/">주간 트렌드 리포트</a><a href="/reports/monthly/">월간 트렌드 리포트</a></div></section>
+      <section class="info-card"><h2>커뮤니티별 랭킹</h2><div class="site-map-links"><a href="/community/dcinside/">디시인사이드</a><a href="/community/fmkorea/">에펨코리아</a><a href="/community/theqoo/">더쿠</a><a href="/community/ruliweb/">루리웹</a><a href="/community/clien/">클리앙</a><a href="/community/inven/">인벤</a><a href="/community/ppomppu/">뽐뿌</a></div></section>
+      <section class="info-card"><h2>서비스 안내</h2><div class="site-map-links"><a href="/about/">서비스 소개</a><a href="/methodology/">랭킹 산정 방식</a><a href="/editorial/">편집·데이터 원칙</a><a href="/policy/">운영정책</a><a href="/privacy/">개인정보 안내</a></div></section>
+    </div>
+    <aside class="info-side"><nav class="info-nav"><a href="/">홈</a><a href="/ranking/">랭킹 아카이브</a><a href="/briefing/">오늘의 브리핑</a><a href="/reports/weekly/">주간 리포트</a><a href="/reports/monthly/">월간 리포트</a></nav></aside>
+  </section>
+</main>
+<footer><div class="shell footer-inner"><div><strong>커뮤랭크</strong><p>사이트 주요 페이지 안내</p></div><p>XML 사이트맵은 /sitemap.xml에서 확인할 수 있습니다.</p></div></footer>
+<script src="/analytics.js"></script>
+<script>
+document.querySelector("#themeToggle").addEventListener("click",()=>{document.body.classList.toggle("dark");localStorage.setItem("commurank-theme",document.body.classList.contains("dark")?"dark":"light")});
+if(localStorage.getItem("commurank-theme")==="dark") document.body.classList.add("dark");
+</script>
+</body>
+</html>
