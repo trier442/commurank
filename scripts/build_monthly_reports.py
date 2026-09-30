@@ -188,7 +188,7 @@ def report_page(item, briefing_index):
     top_keywords = ", ".join("#" + row["keyword"] for row in keywords[:6]) if keywords else "집계 중"
     top_issue = issues[0]["title"] if issues else "동시 화제 데이터 집계 중"
     coverage_text = f"{len(covered_days)}일치 브리핑 데이터" if covered_days else "브리핑 데이터 축적 중"
-    desc = f"{item.get('label')} 커뮤니티 월간 트렌드 리포트. 월간 인기글, 반복 키워드, 지속 화제와 커뮤니티별 대표 글을 데이터로 정리합니다."
+    desc = f"{item.get('label')} 월간 커뮤니티 인기글·인터넷 이슈 트렌드 리포트. 월간 인기글, 반복 키워드, 지속 화제와 커뮤니티별 대표 글을 데이터로 정리합니다."
 
     paragraphs = [
         f"{item.get('label')} 커뮤랭크 월간 집계에는 {len(posts)}개의 상위 인기글과 {len(sources)}개 커뮤니티가 반영됐습니다. 현재 리포트 상태는 ‘{status}’이며 {coverage_text}를 바탕으로 정리했습니다.",
@@ -271,7 +271,7 @@ def report_page(item, briefing_index):
     }
 
     return shell(
-        f"{item.get('label')} 월간 인터넷 트렌드 | 커뮤랭크",
+        f"{item.get('label')} 월간 커뮤니티 인기글·인터넷 이슈 | 커뮤랭크",
         desc,
         f"{BASE}/reports/monthly/{key}/",
         body,
@@ -298,7 +298,7 @@ def index_page(items):
       <aside class="info-side"><nav class="info-nav"><a href="/reports/weekly/">주간 리포트</a><a href="/briefing/archive/">일간 브리핑</a><a href="/ranking/monthly/">월간 TOP100</a></nav></aside>
     </section>"""
     return shell(
-        "월간 인터넷 트렌드 리포트 | 커뮤랭크",
+        "월간 커뮤니티 인기글·인터넷 이슈 트렌드 | 커뮤랭크",
         "월간 커뮤니티 인기글·키워드·동시 화제·지속성 데이터 리포트",
         f"{BASE}/reports/monthly/",
         body,
