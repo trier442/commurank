@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 7
+# Quality gate version: 8
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -173,6 +173,44 @@ for page, phrase in community_expectations.items():
         errors.append(f"{page}: BreadcrumbList structured data missing")
     if "커뮤니티 인기글 순위를 보는 방법" not in body:
         warnings.append(f"{page}: explanatory SEO content missing")
+
+# Latest date-page SEO checks
+daily_items = archive_index.get("periods", {}).get("daily", [])
+if daily_items:
+    daily_key = str(daily_items[0].get("key") or "")
+    daily_page = f"ranking/daily/{daily_key}/index.html"
+    daily_body = text(daily_page)
+    try:
+        daily_dt = __import__("datetime").datetime.strptime(daily_key, "%Y-%m-%d")
+        natural_label = f"{daily_dt.year}년 {daily_dt.month}월 {daily_dt.day}일"
+    except Exception:
+        natural_label = daily_key
+    for needle in [
+        natural_label,
+        f"/briefing/{daily_key}/",
+        '"@type":"BreadcrumbList"',
+        "커뮤니티 인기글 순위 TOP100",
+    ]:
+        if needle not in daily_body:
+            errors.append(f"{daily_page}: date SEO element missing: {needle}")
+
+if brief_index.get("items"):
+    brief_key = str(brief_index["items"][0].get("key") or "")
+    brief_page = f"briefing/{brief_key}/index.html"
+    brief_body = text(brief_page)
+    try:
+        brief_dt = __import__("datetime").datetime.strptime(brief_key, "%Y-%m-%d")
+        brief_label = f"{brief_dt.year}년 {brief_dt.month}월 {brief_dt.day}일"
+    except Exception:
+        brief_label = brief_key
+    for needle in [
+        brief_label,
+        f"/ranking/daily/{brief_key}/",
+        '"@type":"BreadcrumbList"',
+        "인터넷 이슈·커뮤니티 인기글",
+    ]:
+        if needle not in brief_body:
+            errors.append(f"{brief_page}: date SEO element missing: {needle}")
 
 # SEO status snapshot checks
 seo_status = json.loads(text("data/seo-status.json") or "{}")
