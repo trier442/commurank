@@ -57,6 +57,23 @@ def natural_date_label(key: str, fallback: str = "") -> str:
         return str(fallback or key)
 
 
+def adjacent_date_links(item: dict, base_path: str) -> str:
+    older = str(item.get("_older_key") or "")
+    newer = str(item.get("_newer_key") or "")
+    links = []
+    if older:
+        links.append(
+            f'<a href="{base_path}{esc(older)}/"><span>← 이전 날짜</span><strong>{esc(natural_date_label(older))}</strong></a>'
+        )
+    if newer:
+        links.append(
+            f'<a href="{base_path}{esc(newer)}/"><span>다음 날짜 →</span><strong>{esc(natural_date_label(newer))}</strong></a>'
+        )
+    if not links:
+        return ""
+    return '<nav class="date-pager" aria-label="날짜별 콘텐츠 이동">' + "".join(links) + "</nav>"
+
+
 def page_shell(title: str, description: str, canonical: str, body: str, structured=None) -> str:
     ld = ""
     if structured:
@@ -175,6 +192,7 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
         <a href="/ranking/{period}/">← {period_label} 아카이브</a>
         <a href="/?period={period}">현재 {period_label} 랭킹 →</a>
       </div>
+      {adjacent_date_links(item, f"/ranking/{period}/") if period == "daily" else ""}
     </section>
     {f'''<section class="shell date-crosslinks">
       <a href="/briefing/{esc(item.get('key'))}/"><strong>같은 날짜의 인터넷 이슈 브리핑</strong><span>{esc(display_label)} 이슈·키워드 보기 →</span></a>
@@ -420,6 +438,7 @@ def briefing_article_page(item: dict, briefing: dict) -> str:
           <a href="/ranking/daily/{esc(key)}/"><strong>같은 날짜의 인기글 TOP100</strong><span>{esc(display_label)} 순위 보기 →</span></a>
           <a href="/issues/?period=daily"><strong>인터넷 이슈 TOP20</strong><span>동시 화제 순위 보기 →</span></a>
         </div>
+        {adjacent_date_links(item, "/briefing/")}
       </header>
 
       <section class="daily-brief-stats">
@@ -524,10 +543,14 @@ def write_briefing_pages(briefing_index: dict) -> None:
     archive_dir.mkdir(parents=True, exist_ok=True)
     (archive_dir / "index.html").write_text(briefing_archive_page(briefing_index), encoding="utf-8")
 
-    for item in briefing_index.get("items", []):
+    briefing_items = briefing_index.get("items", [])
+    for idx, raw_item in enumerate(briefing_items):
+        item = dict(raw_item)
         key = str(item.get("key") or "")
         if not key:
             continue
+        item["_newer_key"] = str(briefing_items[idx - 1].get("key") or "") if idx > 0 else ""
+        item["_older_key"] = str(briefing_items[idx + 1].get("key") or "") if idx + 1 < len(briefing_items) else ""
         briefing = read_json(DATA / str(item.get("path") or ""), {})
         out_dir = briefing_root / key
         out_dir.mkdir(parents=True, exist_ok=True)
@@ -647,7 +670,8 @@ def write_sitemap(index: dict, briefing_index: dict, latest: dict) -> None:
         collected = str(item.get("collected_at", today))[:10]
         rows.append(
             f"  <url><loc>{BASE}/briefing/{esc(key)}/</loc>"
-            f"<lastmod>{collected}</lastmod><changefreq>{'hourly' if key == today else 'never'}</changefreq><priority>0.8</priority></url>"
+            f"<lastmod>{collected}</lastmod><changefreq>{'hourly' if key == today else 'never'}</changefreq>"
+            f"<priority>{'0.9' if key == today else '0.7'}</priority></url>"
         )
 
     for period in PERIODS:
@@ -656,9 +680,10 @@ def write_sitemap(index: dict, briefing_index: dict, latest: dict) -> None:
             collected = str(item.get("collected_at", today))[:10]
             current = idx == 0
             freq = "hourly" if current and period == "daily" else ("daily" if current else "never")
+            priority = "0.9" if current and period == "daily" else ("0.8" if current else "0.65")
             rows.append(
                 f"  <url><loc>{BASE}/ranking/{period}/{esc(item.get('key'))}/</loc>"
-                f"<lastmod>{collected}</lastmod><changefreq>{freq}</changefreq><priority>0.7</priority></url>"
+                f"<lastmod>{collected}</lastmod><changefreq>{freq}</changefreq><priority>{priority}</priority></url>"
             )
     rows.append("</urlset>")
     (ROOT / "sitemap.xml").write_text("\n".join(rows) + "\n", encoding="utf-8")
@@ -678,7 +703,11 @@ def main() -> None:
         items = index.get("periods", {}).get(period, [])
         (period_dir / "index.html").write_text(period_index(period, items), encoding="utf-8")
 
-        for item in items:
+        for idx, raw_item in enumerate(items):
+            item = dict(raw_item)
+            if period == "daily":
+                item["_newer_key"] = str(items[idx - 1].get("key") or "") if idx > 0 else ""
+                item["_older_key"] = str(items[idx + 1].get("key") or "") if idx + 1 < len(items) else ""
             snap_path = DATA / str(item.get("path", ""))
             snap = read_json(snap_path, {})
             out_dir = period_dir / str(item.get("key"))
