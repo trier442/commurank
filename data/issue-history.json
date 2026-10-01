@@ -1,6 +1,593 @@
 {
   "version": 1,
   "issues": {
+    "i62196098": {
+      "id": "i62196098",
+      "first_seen": "2026-10-01T15:40:53.338507+09:00",
+      "last_seen": "2026-10-02T01:18:55.067443+09:00",
+      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김지용"
+      ],
+      "points": [
+        {
+          "at": "2026-10-01T15:40:53.338507+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 86.29,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+            "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-02T01:18:55.067443+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.67,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2735123",
+            "https://www.clien.net/service/board/park/19272472?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
+          "score": 66.67
+        },
+        {
+          "source": "클리앙",
+          "rank": 29,
+          "title": "김지용 후보 터니깐 다른 사람이 나오네요",
+          "url": "https://www.clien.net/service/board/park/19272472?od=T31&po=0&category=0&groupCd=",
+          "score": 64.89
+        }
+      ]
+    },
+    "i106465f0": {
+      "id": "i106465f0",
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-10-02T01:18:55.067443+09:00",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "points": [
+        {
+          "at": "2026-09-27T18:16:30.778383+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.35,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-27T18:31:46.541305+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.04,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-27T18:45:04.136110+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 67.32,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-09-29T17:24:25.017696+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 100.05,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
+            "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-29T17:26:15.303692+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 97.48,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
+            "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-29T19:53:33.458089+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 92.24,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T20:27:19.824549+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 90.94,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T21:13:47.323580+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 85.78,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T21:14:32.279076+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 85.78,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T21:16:27.812092+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 85.78,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T21:40:10.407251+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 84.1,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-29T21:42:02.338620+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 84.1,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4360084476"
+          ]
+        },
+        {
+          "at": "2026-09-30T00:03:15.633324+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 77.53,
+          "sources": [
+            "디시인사이드",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19271483?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2734137",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-30T08:12:26.616705+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 95.32,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19271536?od=T31&po=0&category=0&groupCd=",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-30T08:39:05.476047+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 88.49,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271536?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-30T10:38:38.903426+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 78.01,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271587?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-30T10:45:24.529346+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 77.03,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271587?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-30T23:10:46.810572+09:00",
+          "source_count": 3,
+          "post_count": 4,
+          "score": 100.26,
+          "sources": [
+            "디시인사이드",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271928?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2734584"
+          ]
+        },
+        {
+          "at": "2026-10-01T01:26:11.574872+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.99,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-01T01:26:40.367056+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.99,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-01T01:28:02.575487+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.99,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-01T01:55:46.746304+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.78,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-01T08:10:08.976041+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 72.12,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137084"
+          ]
+        },
+        {
+          "at": "2026-10-02T01:18:55.067443+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.82,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467252&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19272460?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "솔직히 이동진은 레이닝맨, 호프, 암살자들 외에도",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467252&_dcbest=1&page=1",
+          "score": 69.82
+        },
+        {
+          "source": "클리앙",
+          "rank": 80,
+          "title": "이동진님 블로그에 올라온 암살자들 관련 댓글",
+          "url": "https://www.clien.net/service/board/park/19272460?od=T31&po=0&category=0&groupCd=",
+          "score": 55.49
+        }
+      ]
+    },
+    "i50b33b63": {
+      "id": "i50b33b63",
+      "first_seen": "2026-09-30T10:38:38.903426+09:00",
+      "last_seen": "2026-10-02T01:18:55.067443+09:00",
+      "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "고양이"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T10:38:38.903426+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.68,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4360665800",
+            "https://www.inven.co.kr/board/webzine/2097/2734270"
+          ]
+        },
+        {
+          "at": "2026-09-30T10:45:24.529346+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.53,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4360665800",
+            "https://www.inven.co.kr/board/webzine/2097/2734270"
+          ]
+        },
+        {
+          "at": "2026-09-30T11:07:50.708457+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.21,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4360665800",
+            "https://www.inven.co.kr/board/webzine/2097/2734270"
+          ]
+        },
+        {
+          "at": "2026-10-02T01:18:55.067443+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.44,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467258&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4362411601"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "전문가들이 분석한 2030남자들에 고양이 혐오가 퍼지는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467258&_dcbest=1&page=1",
+          "score": 73.44
+        },
+        {
+          "source": "더쿠",
+          "rank": 83,
+          "title": "문신, 네일, 워홀, 아이폰, 해외여행, 고양이, 오마카세, 명품 아니어도 걸러질 수 있는 방법.jpg",
+          "url": "https://theqoo.net/hot/4362411601",
+          "score": 54.58
+        }
+      ]
+    },
+    "ie861fdd4": {
+      "id": "ie861fdd4",
+      "first_seen": "2026-10-02T01:18:55.067443+09:00",
+      "last_seen": "2026-10-02T01:18:55.067443+09:00",
+      "title": "‘솔직히’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "솔직히"
+      ],
+      "points": [
+        {
+          "at": "2026-10-02T01:18:55.067443+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.82,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=467252&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/76868303?m=humor_only&t=now"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "솔직히 이동진은 레이닝맨, 호프, 암살자들 외에도",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467252&_dcbest=1&page=1",
+          "score": 69.82
+        },
+        {
+          "source": "루리웹",
+          "rank": 96,
+          "title": "솔직히 암컷 말포이짤 보려고 유게에 말포이 검색함",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76868303?m=humor_only&t=now",
+          "score": 51.57
+        }
+      ]
+    },
+    "ib9056a9e": {
+      "id": "ib9056a9e",
+      "first_seen": "2026-10-02T01:18:55.067443+09:00",
+      "last_seen": "2026-10-02T01:18:55.067443+09:00",
+      "title": "‘중수청장’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중수청장"
+      ],
+      "points": [
+        {
+          "at": "2026-10-02T01:18:55.067443+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.67,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2735123",
+            "https://www.clien.net/service/board/park/19272479?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
+          "score": 66.67
+        },
+        {
+          "source": "클리앙",
+          "rank": 57,
+          "title": "중수청장 김지용이 킹메이커, 개국공신 되는 거 아닌지?",
+          "url": "https://www.clien.net/service/board/park/19272479?od=T31&po=0&category=0&groupCd=",
+          "score": 59.74
+        }
+      ]
+    },
     "i78f6419e": {
       "id": "i78f6419e",
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
@@ -1610,48 +2197,6 @@
         }
       ]
     },
-    "i62196098": {
-      "id": "i62196098",
-      "first_seen": "2026-10-01T15:40:53.338507+09:00",
-      "last_seen": "2026-10-01T15:40:53.338507+09:00",
-      "title": "속보) 김지용 임명",
-      "keywords": [
-        "김지용",
-        "임명"
-      ],
-      "points": [
-        {
-          "at": "2026-10-01T15:40:53.338507+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 86.29,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-            "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "속보) 김지용 임명",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-          "score": 78.29
-        },
-        {
-          "source": "클리앙",
-          "rank": 59,
-          "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-          "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
-          "score": 59.45
-        }
-      ]
-    },
     "iec5e096f": {
       "id": "iec5e096f",
       "first_seen": "2026-10-01T15:40:53.338507+09:00",
@@ -2605,359 +3150,6 @@
           "title": "100억이 있으면 우울증이 완치될까?",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467027&_dcbest=1&page=1",
           "score": 59.68
-        }
-      ]
-    },
-    "i106465f0": {
-      "id": "i106465f0",
-      "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-01T08:10:08.976041+09:00",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자들"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T18:16:30.778383+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 83.35,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-27T18:31:46.541305+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.04,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-27T18:45:04.136110+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 67.32,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
-            "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now"
-          ]
-        },
-        {
-          "at": "2026-09-29T17:24:25.017696+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 100.05,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
-            "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-29T17:26:15.303692+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 97.48,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91678",
-            "https://www.clien.net/service/board/park/19271301?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-29T19:53:33.458089+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 92.24,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T20:27:19.824549+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 90.94,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T21:13:47.323580+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 85.78,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T21:14:32.279076+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 85.78,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T21:16:27.812092+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 85.78,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T21:40:10.407251+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 84.1,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-29T21:42:02.338620+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 84.1,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4360084476"
-          ]
-        },
-        {
-          "at": "2026-09-30T00:03:15.633324+09:00",
-          "source_count": 3,
-          "post_count": 3,
-          "score": 77.53,
-          "sources": [
-            "디시인사이드",
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19271483?od=T31&po=0&category=0&groupCd=",
-            "https://www.inven.co.kr/board/webzine/2097/2734137",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466728&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-30T08:12:26.616705+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 95.32,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19271536?od=T31&po=0&category=0&groupCd=",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-30T08:39:05.476047+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 88.49,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271536?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-30T10:38:38.903426+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 78.01,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271587?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-30T10:45:24.529346+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 77.03,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466814&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271587?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-30T23:10:46.810572+09:00",
-          "source_count": 3,
-          "post_count": 4,
-          "score": 100.26,
-          "sources": [
-            "디시인사이드",
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271928?od=T31&po=0&category=0&groupCd=",
-            "https://www.inven.co.kr/board/webzine/2097/2734584"
-          ]
-        },
-        {
-          "at": "2026-10-01T01:26:11.574872+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 82.99,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-01T01:26:40.367056+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 82.99,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-01T01:28:02.575487+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 82.99,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-01T01:55:46.746304+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.78,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271973?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-01T08:10:08.976041+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 72.12,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137084"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 40,
-          "title": "ㅋㅋㅋㅋㅋㅋㅋ 암살자들 꼴이 좋아",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467007&_dcbest=1&page=1",
-          "score": 63.12
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 80,
-          "title": "이동진 평론가 \"암살자들 평가를 철회하거나, 사과할 생각 없다\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137084",
-          "score": 54.9
         }
       ]
     },
@@ -7791,75 +7983,6 @@
         }
       ]
     },
-    "i50b33b63": {
-      "id": "i50b33b63",
-      "first_seen": "2026-09-30T10:38:38.903426+09:00",
-      "last_seen": "2026-09-30T11:07:50.708457+09:00",
-      "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "고양이"
-      ],
-      "points": [
-        {
-          "at": "2026-09-30T10:38:38.903426+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 78.68,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4360665800",
-            "https://www.inven.co.kr/board/webzine/2097/2734270"
-          ]
-        },
-        {
-          "at": "2026-09-30T10:45:24.529346+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 74.53,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4360665800",
-            "https://www.inven.co.kr/board/webzine/2097/2734270"
-          ]
-        },
-        {
-          "at": "2026-09-30T11:07:50.708457+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 71.21,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4360665800",
-            "https://www.inven.co.kr/board/webzine/2097/2734270"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 42,
-          "title": "고양이 집사들이 많이 걸린다는 내 고양이 작아병",
-          "url": "https://theqoo.net/hot/4360665800",
-          "score": 62.21
-        },
-        {
-          "source": "인벤",
-          "rank": 100,
-          "title": "고양이 vs 사마귀",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734270",
-          "score": 51.12
-        }
-      ]
-    },
     "ic2fd17ff": {
       "id": "ic2fd17ff",
       "first_seen": "2026-09-30T10:45:24.529346+09:00",
@@ -12453,5 +12576,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-01T19:14:44.159749+09:00"
+  "updated_at": "2026-10-02T01:18:55.067443+09:00"
 }
