@@ -2961,3 +2961,39 @@ select:focus-visible {
     justify-content: space-between;
   }
 }
+
+
+.freshness-banner {
+  border-bottom: 1px solid color-mix(in srgb, var(--hot) 30%, var(--line));
+  background: color-mix(in srgb, var(--hot) 8%, var(--surface));
+}
+.freshness-banner-inner {
+  min-height: 42px;
+  display: flex;
+  align-items: center;
+  gap: 10px 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 11px;
+}
+.freshness-banner strong {
+  color: var(--hot);
+  white-space: nowrap;
+}
+.freshness-banner span {
+  color: var(--muted);
+}
+.freshness-banner a {
+  margin-left: auto;
+  color: var(--brand);
+  font-weight: 900;
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  .freshness-banner-inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .freshness-banner a { margin-left: 0; }
+}
