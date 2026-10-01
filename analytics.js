@@ -49,6 +49,9 @@
 
 
 (() => {
+  if (window.__commurankAnalyticsInitialized) return;
+  window.__commurankAnalyticsInitialized = true;
+
   const CONFIG_URL = "/analytics-config.json";
   const RECENT_KEY = "commurank_recent_posts_v1";
   const queue = [];
