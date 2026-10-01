@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-01T18:01:13.583639+09:00",
+  "collected_at": "2026-10-01T19:14:44.159749+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,260 +11,88 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 83.36,
-        "peak_score": 83.36,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 31,
-            "title": "국군의날...이재명, 계엄군 저지 군인 찬양 입갤ㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467170&_dcbest=1&page=1",
-            "score": 65.36
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 48,
-            "title": "이상성) 이승만과 이재명.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138039",
-            "score": 61.27
-          },
-          {
-            "source": "인벤",
-            "rank": 63,
-            "title": "이재명표 공공의대, 전북 남원에 세운다. - 꼭 하겠다는 이재명 대통령",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734937",
-            "score": 59.75
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i533b29bd",
-        "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "말하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 96.36,
-        "peak_score": 96.36,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 4,
-            "title": "동남아에서 10년 산 주재원이 말하는 동남아의 혐한",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467187&_dcbest=1&page=1",
-            "score": 87.36
-          },
-          {
-            "source": "더쿠",
-            "rank": 87,
-            "title": "서울대생이 목사에게 말하는 종교는 해리포터처럼 인간이 만든것이라는 이유",
-            "url": "https://theqoo.net/hot/4362138358",
-            "score": 54.68
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.18,
-        "peak_score": 78.18,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "MBC) 완전히 망해버린 일본 아시안게임ㅋㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467182&_dcbest=1&page=1",
-            "score": 69.18
-          },
-          {
-            "source": "더쿠",
-            "rank": 24,
-            "title": "[2026 아시안게임] 유도 여자 -57kg 허미미 금메달🥇🥇🇰🇷",
-            "url": "https://theqoo.net/hot/4362159605",
-            "score": 67.0
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i49cbefbd",
-        "title": "여시) 알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데",
-        "keywords": [
-          "늦으면",
-          "시간",
-          "알바",
-          "자고가라는데",
-          "자기집에서",
-          "놀다가",
-          "점장님이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.29,
-        "peak_score": 77.29,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "여시) 알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467181&_dcbest=1&page=1",
-            "score": 69.29
-          },
-          {
-            "source": "더쿠",
-            "rank": 16,
-            "title": "알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데 (여시 핫플글)",
-            "url": "https://theqoo.net/hot/4362044924",
-            "score": 68.89
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i7193d6e7",
-        "title": "‘허미미’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "허미미"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.0,
-        "peak_score": 76.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 24,
-            "title": "[2026 아시안게임] 유도 여자 -57kg 허미미 금메달🥇🥇🇰🇷",
-            "url": "https://theqoo.net/hot/4362159605",
-            "score": 67.0
-          },
-          {
-            "source": "클리앙",
-            "rank": 32,
-            "title": "허미미 유도 선수가 금메달을 땃군여.",
-            "url": "https://www.clien.net/service/board/park/19272348?od=T31&po=0&category=0&groupCd=",
-            "score": 65.33
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
         "id": "i78f6419e",
         "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "암살자"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.81,
-        "peak_score": 75.81,
+        "source_count": 3,
+        "post_count": 4,
+        "score": 85.8,
+        "peak_score": 85.8,
         "appearances": 1,
         "sources": [
           "디시인사이드",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
-            "score": 66.81
+            "source": "클리앙",
+            "rank": 24,
+            "title": "‘매불쇼’도 결국 ‘암살자(들)’ 영상 비공개…“출연자, 협박 메일에 신변 위협”",
+            "url": "https://www.clien.net/service/board/park/19272364?od=T31&po=0&category=0&groupCd=",
+            "score": 67.8
           },
           {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
+            "source": "디시인사이드",
+            "rank": 69,
+            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
+            "score": 58.61
+          },
+          {
+            "source": "인벤",
+            "rank": 99,
+            "title": "영화 건국전쟁 좋은 영화? 그들은 암살자(들) 비도덕적 영화라 말할 자격 없다. / 황현필 한국사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734958",
+            "score": 51.65
           }
         ],
-        "rank": 6,
-        "change": "NEW"
+        "rank": 1,
+        "change": 5
       },
       {
-        "id": "i2727e1eb",
-        "title": "중국 유도선수가 반칙패 당한 이유/단체 발작하는 중국 축구팬들",
+        "id": "id96e4c5e",
+        "title": "‘중수청’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "유도선수가",
-          "단체",
-          "축구팬들",
-          "중국",
-          "발작하는",
-          "반칙패"
+          "중수청",
+          "공소청"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.74,
-        "peak_score": 72.74,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 87.71,
+        "peak_score": 87.71,
         "appearances": 1,
         "sources": [
+          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 33,
-            "title": "중국 유도선수가 반칙패 당한 이유/단체 발작하는 중국 축구팬들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734950",
-            "score": 64.74
+            "rank": 16,
+            "title": "ㅇㅎ 내일 출범하는 중수청, 공소청 현황판",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734967",
+            "score": 70.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "李 대통령 \"공소청·중수청 출범, 역사적 발걸음…향후 과제는 경찰개혁\"",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=490628",
+            "score": 69.47
           },
           {
             "source": "클리앙",
-            "rank": 56,
-            "title": "중국 유도선수가 반칙패 당한 이유/단체 발작하는 중국 축구팬들",
-            "url": "https://www.clien.net/service/board/park/19272354?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "rank": 23,
+            "title": "지금 중수청 검찰 기용으로 싸울게 아니라",
+            "url": "https://www.clien.net/service/board/park/19272361?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
           }
         ],
-        "rank": 7,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -275,34 +103,251 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.5,
-        "peak_score": 71.5,
+        "score": 106.44,
+        "peak_score": 106.44,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
+          "루리웹",
           "클리앙"
         ],
         "posts": [
           {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "영화 평론가 이동진 불매",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
+            "score": 97.44
+          },
+          {
             "source": "클리앙",
-            "rank": 42,
+            "rank": 86,
             "title": "이동진, '암살자(들)' 논란 직접 해명…",
             "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
+            "score": 53.91
+          }
+        ],
+        "rank": 3,
+        "change": 5
+      },
+      {
+        "id": "i533b29bd",
+        "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "말하는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.97,
+        "peak_score": 88.97,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 7,
+            "title": "동남아에서 10년 산 주재원이 말하는 동남아의 혐한",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467187&_dcbest=1&page=1",
+            "score": 79.97
+          },
+          {
+            "source": "더쿠",
+            "rank": 56,
+            "title": "서울대생이 목사에게 말하는 종교는 해리포터처럼 인간이 만든것이라는 이유",
+            "url": "https://theqoo.net/hot/4362138358",
+            "score": 61.05
+          }
+        ],
+        "rank": 4,
+        "change": -2
+      },
+      {
+        "id": "ibc7a7b69",
+        "title": "‘개인정보’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "개인정보",
+          "신한은행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.37,
+        "peak_score": 75.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 29,
+            "title": "신한은행 개인정보(대출신청관련정보 포함) 유출 공지떴어 유출여부 확인해!",
+            "url": "https://theqoo.net/hot/4362154971",
+            "score": 66.37
           },
           {
             "source": "디시인사이드",
-            "rank": 82,
-            "title": "이동진 \"평론 철회, 사과할 생각 없다 영화나 쳐보고 논쟁하길\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467137&_dcbest=1&page=1",
-            "score": 56.0
+            "rank": 98,
+            "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+            "score": 51.7
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i8b4085e0",
+        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아시안게임"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.53,
+        "peak_score": 74.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "[2026 아시안게임] 유도 여자 -57kg 허미미 금메달🥇🥇🇰🇷",
+            "url": "https://theqoo.net/hot/4362159605",
+            "score": 65.53
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 31,
+            "title": "MBC) 완전히 망해버린 일본 아시안게임ㅋㅋㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467182&_dcbest=1&page=1",
+            "score": 65.33
+          }
+        ],
+        "rank": 6,
+        "change": -3
+      },
+      {
+        "id": "i9a0fa5b7",
+        "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ai가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.46,
+        "peak_score": 73.46,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 35,
+            "title": "(구글) 방금 역사상 가장 강력한 AI가 개발되었습니다. - 제미나이4 아르곤",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467177&_dcbest=1&page=1",
+            "score": 64.46
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "AI가 아닌 사람 목소리",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734977",
+            "score": 56.55
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i49cbefbd",
+        "title": "여시) 알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데",
+        "keywords": [
+          "자기집에서",
+          "점장님이",
+          "자고가라는데",
+          "여시",
+          "알바",
+          "늦으면",
+          "놀다가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.08,
+        "peak_score": 72.08,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 39,
+            "title": "여시) 알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467181&_dcbest=1&page=1",
+            "score": 64.08
+          },
+          {
+            "source": "더쿠",
+            "rank": 71,
+            "title": "알바 점장님이 놀다가 시간 늦으면 자기집에서 자고가라는데 (여시 핫플글)",
+            "url": "https://theqoo.net/hot/4362044924",
+            "score": 58.26
           }
         ],
         "rank": 8,
-        "change": "NEW"
+        "change": -4
       }
     ],
     "daily": [
+      {
+        "id": "i199bc4da",
+        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이동진"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 124.86,
+        "peak_score": 106.44,
+        "appearances": 11,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "영화 평론가 이동진 불매",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
+            "score": 97.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 86,
+            "title": "이동진, '암살자(들)' 논란 직접 해명…",
+            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
+            "score": 53.91
+          }
+        ],
+        "first_seen": "2026-10-01T01:26:11.574872+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 9
+      },
       {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
@@ -347,8 +392,8 @@
         "last_seen": "2026-10-01T18:01:13.583639+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "i78f6419e",
@@ -358,9 +403,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 117.32,
+        "score": 117.75,
         "peak_score": 93.33,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -369,26 +414,33 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
-            "score": 66.81
+            "source": "클리앙",
+            "rank": 24,
+            "title": "‘매불쇼’도 결국 ‘암살자(들)’ 영상 비공개…“출연자, 협박 메일에 신변 위협”",
+            "url": "https://www.clien.net/service/board/park/19272364?od=T31&po=0&category=0&groupCd=",
+            "score": 67.8
           },
           {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
+            "source": "디시인사이드",
+            "rank": 69,
+            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
+            "score": 58.61
+          },
+          {
+            "source": "인벤",
+            "rank": 99,
+            "title": "영화 건국전쟁 좋은 영화? 그들은 암살자(들) 비도덕적 영화라 말할 자격 없다. / 황현필 한국사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734958",
+            "score": 51.65
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i256c7c11",
@@ -429,8 +481,8 @@
         "last_seen": "2026-10-01T14:33:16.710055+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -469,8 +521,8 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i5781c296",
@@ -515,8 +567,8 @@
         "last_seen": "2026-10-01T02:27:53.384313+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i533b29bd",
@@ -526,9 +578,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 105.83,
+        "score": 107.85,
         "peak_score": 96.36,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -536,25 +588,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
+            "rank": 7,
             "title": "동남아에서 10년 산 주재원이 말하는 동남아의 혐한",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467187&_dcbest=1&page=1",
-            "score": 87.36
+            "score": 79.97
           },
           {
             "source": "더쿠",
-            "rank": 87,
+            "rank": 56,
             "title": "서울대생이 목사에게 말하는 종교는 해리포터처럼 인간이 만든것이라는 이유",
             "url": "https://theqoo.net/hot/4362138358",
-            "score": 54.68
+            "score": 61.05
           }
         ],
         "first_seen": "2026-09-30T00:03:15.633324+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "if512102f",
@@ -594,8 +646,55 @@
         "last_seen": "2026-10-01T02:27:53.384313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
+      },
+      {
+        "id": "id96e4c5e",
+        "title": "‘중수청’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중수청",
+          "공소청"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 102.18,
+        "peak_score": 87.71,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 16,
+            "title": "ㅇㅎ 내일 출범하는 중수청, 공소청 현황판",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734967",
+            "score": 70.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "李 대통령 \"공소청·중수청 출범, 역사적 발걸음…향후 과제는 경찰개혁\"",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=490628",
+            "score": 69.47
+          },
+          {
+            "source": "클리앙",
+            "rank": 23,
+            "title": "지금 중수청 검찰 기용으로 싸울게 아니라",
+            "url": "https://www.clien.net/service/board/park/19272361?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
+          }
+        ],
+        "first_seen": "2026-10-01T19:14:44.159749+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "idadd500c",
@@ -640,8 +739,8 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": -1
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "ie5780cab",
@@ -678,47 +777,8 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
-      },
-      {
-        "id": "i199bc4da",
-        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이동진"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 99.66,
-        "peak_score": 81.67,
-        "appearances": 10,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 82,
-            "title": "이동진 \"평론 철회, 사과할 생각 없다 영화나 쳐보고 논쟁하길\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467137&_dcbest=1&page=1",
-            "score": 56.0
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "iaab2b0f0",
@@ -755,7 +815,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -794,7 +854,7 @@
         "last_seen": "2026-10-01T08:10:08.976041+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -832,7 +892,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -879,7 +939,7 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -917,7 +977,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -956,7 +1016,7 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -999,7 +1059,7 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -1037,7 +1097,7 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -1073,51 +1133,6 @@
         ],
         "first_seen": "2026-10-01T08:10:08.976041+09:00",
         "last_seen": "2026-10-01T08:10:08.976041+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "id5565dd8",
-        "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-        "keywords": [
-          "안된다",
-          "배후설",
-          "말이",
-          "감독",
-          "배우들도",
-          "허진호",
-          "힘들어해",
-          "박정희"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.2,
-        "peak_score": 74.69,
-        "appearances": 9,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 71,
-            "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-            "score": 57.32
-          },
-          {
-            "source": "클리앙",
-            "rank": 84,
-            "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
-            "url": "https://www.clien.net/service/board/park/19271971?od=T31&po=0&category=0&groupCd=",
-            "score": 53.7
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T04:25:33.357220+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
@@ -1343,6 +1358,46 @@
         "change": 0
       },
       {
+        "id": "i199bc4da",
+        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이동진"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 124.86,
+        "peak_score": 106.44,
+        "appearances": 11,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "영화 평론가 이동진 불매",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
+            "score": 97.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 86,
+            "title": "이동진, '암살자(들)' 논란 직접 해명…",
+            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
+            "score": 53.91
+          }
+        ],
+        "first_seen": "2026-10-01T01:26:11.574872+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
         "id": "i78f6419e",
         "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1350,9 +1405,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 120.55,
+        "score": 120.79,
         "peak_score": 93.33,
-        "appearances": 20,
+        "appearances": 21,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1363,26 +1418,33 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
-            "score": 66.81
+            "source": "클리앙",
+            "rank": 24,
+            "title": "‘매불쇼’도 결국 ‘암살자(들)’ 영상 비공개…“출연자, 협박 메일에 신변 위협”",
+            "url": "https://www.clien.net/service/board/park/19272364?od=T31&po=0&category=0&groupCd=",
+            "score": 67.8
           },
           {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
+            "source": "디시인사이드",
+            "rank": 69,
+            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
+            "score": 58.61
+          },
+          {
+            "source": "인벤",
+            "rank": 99,
+            "title": "영화 건국전쟁 좋은 영화? 그들은 암살자(들) 비도덕적 영화라 말할 자격 없다. / 황현필 한국사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734958",
+            "score": 51.65
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "iadaad958",
@@ -1420,8 +1482,8 @@
         "last_seen": "2026-09-30T11:45:12.415278+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "ifc2a71e9",
@@ -1460,8 +1522,8 @@
         "last_seen": "2026-09-30T15:23:50.729860+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i0c93084d",
@@ -1501,8 +1563,8 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i5b755224",
@@ -1539,8 +1601,8 @@
         "last_seen": "2026-09-30T12:02:25.236067+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i1d3a3c3b",
@@ -1582,8 +1644,8 @@
         "last_seen": "2026-09-30T11:45:12.415278+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "ie5356c4c",
@@ -1625,8 +1687,50 @@
         "last_seen": "2026-09-30T12:06:00.511205+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
+      },
+      {
+        "id": "i8b4085e0",
+        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아시안게임"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 114.84,
+        "peak_score": 91.02,
+        "appearances": 12,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "[2026 아시안게임] 유도 여자 -57kg 허미미 금메달🥇🥇🇰🇷",
+            "url": "https://theqoo.net/hot/4362159605",
+            "score": 65.53
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 31,
+            "title": "MBC) 완전히 망해버린 일본 아시안게임ㅋㅋㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467182&_dcbest=1&page=1",
+            "score": 65.33
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 1
       },
       {
         "id": "i5781c296",
@@ -1672,8 +1776,8 @@
         "last_seen": "2026-10-01T02:27:53.384313+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "ibb35f05f",
@@ -1711,50 +1815,8 @@
         "last_seen": "2026-09-30T12:06:30.930691+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 114.44,
-        "peak_score": 91.02,
-        "appearances": 11,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "MBC) 완전히 망해버린 일본 아시안게임ㅋㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467182&_dcbest=1&page=1",
-            "score": 69.18
-          },
-          {
-            "source": "더쿠",
-            "rank": 24,
-            "title": "[2026 아시안게임] 유도 여자 -57kg 허미미 금메달🥇🥇🇰🇷",
-            "url": "https://theqoo.net/hot/4362159605",
-            "score": 67.0
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 15,
-        "change": 1
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "ia99bde06",
@@ -1794,7 +1856,7 @@
         "last_seen": "2026-09-28T13:04:57.705093+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -1834,8 +1896,8 @@
         "last_seen": "2026-09-29T17:24:25.017696+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i1e941339",
@@ -1872,8 +1934,8 @@
         "last_seen": "2026-09-30T04:57:06.263561+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i09667a01",
@@ -1911,53 +1973,51 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
+        "rank": 20,
+        "change": -1
+      }
+    ],
+    "monthly": [
       {
-        "id": "i256c7c11",
-        "title": "징역 18년 받은 범죄자가 7개월뒤에 무죄로 바뀐 이유",
+        "id": "i199bc4da",
+        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "7개월뒤에",
-          "범죄자가",
-          "18년",
-          "무죄로",
-          "바뀐"
+          "이동진"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 111.7,
-        "peak_score": 102.23,
-        "appearances": 1,
+        "score": 124.86,
+        "peak_score": 106.44,
+        "appearances": 11,
         "sources": [
+          "더쿠",
+          "디시인사이드",
           "루리웹",
-          "인벤"
+          "클리앙"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 3,
-            "title": "징역 18년 받은 범죄자가 7개월뒤에 무죄로 바뀐 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76867841?m=humor",
-            "score": 94.23
+            "rank": 2,
+            "title": "영화 평론가 이동진 불매",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
+            "score": 97.44
           },
           {
-            "source": "인벤",
-            "rank": 38,
-            "title": "징역 18년 받은 범죄자가 7개월뒤에 무죄로 바뀐 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734831",
-            "score": 63.65
+            "source": "클리앙",
+            "rank": 86,
+            "title": "이동진, '암살자(들)' 논란 직접 해명…",
+            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
+            "score": 53.91
           }
         ],
-        "first_seen": "2026-10-01T14:33:16.710055+09:00",
-        "last_seen": "2026-10-01T14:33:16.710055+09:00",
+        "first_seen": "2026-10-01T01:26:11.574872+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 20,
-        "change": 0
-      }
-    ],
-    "monthly": [
+        "rank": 1,
+        "change": 9
+      },
       {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
@@ -2002,8 +2062,8 @@
         "last_seen": "2026-10-01T18:01:13.583639+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "i78f6419e",
@@ -2013,9 +2073,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 117.32,
+        "score": 117.75,
         "peak_score": 93.33,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2024,26 +2084,33 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
-            "score": 66.81
+            "source": "클리앙",
+            "rank": 24,
+            "title": "‘매불쇼’도 결국 ‘암살자(들)’ 영상 비공개…“출연자, 협박 메일에 신변 위협”",
+            "url": "https://www.clien.net/service/board/park/19272364?od=T31&po=0&category=0&groupCd=",
+            "score": 67.8
           },
           {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
+            "source": "디시인사이드",
+            "rank": 69,
+            "title": "[단독] '암살자[들]' 제작자, 음주운전 구속 전력... 전과만 6개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467158&_dcbest=1&page=1",
+            "score": 58.61
+          },
+          {
+            "source": "인벤",
+            "rank": 99,
+            "title": "영화 건국전쟁 좋은 영화? 그들은 암살자(들) 비도덕적 영화라 말할 자격 없다. / 황현필 한국사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734958",
+            "score": 51.65
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i256c7c11",
@@ -2084,8 +2151,8 @@
         "last_seen": "2026-10-01T14:33:16.710055+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -2124,8 +2191,8 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i5781c296",
@@ -2170,8 +2237,8 @@
         "last_seen": "2026-10-01T02:27:53.384313+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i533b29bd",
@@ -2181,9 +2248,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 105.83,
+        "score": 107.85,
         "peak_score": 96.36,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -2191,25 +2258,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
+            "rank": 7,
             "title": "동남아에서 10년 산 주재원이 말하는 동남아의 혐한",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467187&_dcbest=1&page=1",
-            "score": 87.36
+            "score": 79.97
           },
           {
             "source": "더쿠",
-            "rank": 87,
+            "rank": 56,
             "title": "서울대생이 목사에게 말하는 종교는 해리포터처럼 인간이 만든것이라는 이유",
             "url": "https://theqoo.net/hot/4362138358",
-            "score": 54.68
+            "score": 61.05
           }
         ],
         "first_seen": "2026-09-30T00:03:15.633324+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "if512102f",
@@ -2249,8 +2316,55 @@
         "last_seen": "2026-10-01T02:27:53.384313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
+      },
+      {
+        "id": "id96e4c5e",
+        "title": "‘중수청’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중수청",
+          "공소청"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 102.18,
+        "peak_score": 87.71,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 16,
+            "title": "ㅇㅎ 내일 출범하는 중수청, 공소청 현황판",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734967",
+            "score": 70.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "李 대통령 \"공소청·중수청 출범, 역사적 발걸음…향후 과제는 경찰개혁\"",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=490628",
+            "score": 69.47
+          },
+          {
+            "source": "클리앙",
+            "rank": 23,
+            "title": "지금 중수청 검찰 기용으로 싸울게 아니라",
+            "url": "https://www.clien.net/service/board/park/19272361?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
+          }
+        ],
+        "first_seen": "2026-10-01T19:14:44.159749+09:00",
+        "last_seen": "2026-10-01T19:14:44.159749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "idadd500c",
@@ -2295,8 +2409,8 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": -1
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "ie5780cab",
@@ -2333,47 +2447,8 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
-      },
-      {
-        "id": "i199bc4da",
-        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이동진"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 99.66,
-        "peak_score": 81.67,
-        "appearances": 10,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 42,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 62.5
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 82,
-            "title": "이동진 \"평론 철회, 사과할 생각 없다 영화나 쳐보고 논쟁하길\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467137&_dcbest=1&page=1",
-            "score": 56.0
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T18:01:13.583639+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "iaab2b0f0",
@@ -2410,7 +2485,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -2449,7 +2524,7 @@
         "last_seen": "2026-10-01T08:10:08.976041+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -2487,7 +2562,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -2534,7 +2609,7 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -2572,7 +2647,7 @@
         "last_seen": "2026-10-01T14:35:33.589360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -2611,7 +2686,7 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -2654,7 +2729,7 @@
         "last_seen": "2026-10-01T15:40:53.338507+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -2692,7 +2767,7 @@
         "last_seen": "2026-10-01T11:11:46.951540+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -2728,51 +2803,6 @@
         ],
         "first_seen": "2026-10-01T08:10:08.976041+09:00",
         "last_seen": "2026-10-01T08:10:08.976041+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "id5565dd8",
-        "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-        "keywords": [
-          "안된다",
-          "배후설",
-          "말이",
-          "감독",
-          "배우들도",
-          "허진호",
-          "힘들어해",
-          "박정희"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.2,
-        "peak_score": 74.69,
-        "appearances": 9,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 71,
-            "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-            "score": 57.32
-          },
-          {
-            "source": "클리앙",
-            "rank": 84,
-            "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
-            "url": "https://www.clien.net/service/board/park/19271971?od=T31&po=0&category=0&groupCd=",
-            "score": 53.7
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T04:25:33.357220+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
