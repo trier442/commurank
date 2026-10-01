@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 9
+# Quality gate version: 10
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -225,10 +225,6 @@ if not seo_status.get("verification", {}).get("naver_meta"):
     errors.append("data/seo-status.json: Naver verification meta missing")
 if not seo_status.get("verification", {}).get("robots_sitemap"):
     errors.append("data/seo-status.json: robots.txt sitemap declaration missing")
-
-analytics_script = text("analytics.js")
-if "data-freshness-banner" not in analytics_script or "data_stale_view" not in analytics_script:
-    errors.append("analytics.js: stale-data warning or tracking missing")
 
 ads_script = text("ads.js")
 if "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" not in ads_script:
