@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-10-01T08:10:08.976041+09:00",
+  "collected_at": "2026-10-01T11:11:46.951540+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -102,9 +102,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 132.31,
+      "score": 132.55,
       "peak_score": 101.09,
-      "appearances": 20,
+      "appearances": 21,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -113,31 +113,24 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "이재명 거칭없이 sns하네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137120",
-          "score": 82.45
-        },
-        {
           "source": "클리앙",
-          "rank": 14,
-          "title": "이재명 대통령 30분 전에 SNS로 검찰개혁 일침하셨네요.",
-          "url": "https://www.clien.net/service/board/park/19271986?od=T31&po=0&category=0&groupCd=",
-          "score": 74.4
+          "rank": 43,
+          "title": "대선 전에 사실 이재명 대신 마음에 두고있었던 대선후보 있었나요",
+          "url": "https://www.clien.net/service/board/park/19272130?od=T31&po=0&category=0&groupCd=",
+          "score": 62.5
         },
         {
-          "source": "인벤",
-          "rank": 72,
-          "title": "이재명 : 김지용은 친윤검사 아님",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734614",
-          "score": 57.1
+          "source": "뽐뿌",
+          "rank": 100,
+          "title": "조성은 . 이재명 논리면 한동훈 공소청장 써 ㅎㅎ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137361",
+          "score": 50.13
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-01T04:25:33.357220+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-01T11:11:46.951540+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 3,
       "change": 0
     },
@@ -807,42 +800,44 @@
       "change": 0
     },
     {
-      "id": "iae209e51",
-      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "충격적인"
+        "일본의"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 110.74,
-      "peak_score": 101.27,
-      "appearances": 1,
+      "score": 111.34,
+      "peak_score": 99.85,
+      "appearances": 2,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "충격적인) 요즘 증가중이라는 접종 거부자들 ㄷㄷ.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135853",
-          "score": 92.27
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "싱글벙글 교과서엔 실리지 않은 통일신라 vs 일본의 대전쟁",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467072&_dcbest=1&page=1",
+          "score": 64.81
         },
         {
-          "source": "더쿠",
-          "rank": 87,
-          "title": "충격적인 아기공룡 둘리 고길동 근황",
-          "url": "https://theqoo.net/hot/4360707150",
-          "score": 52.89
+          "source": "인벤",
+          "rank": 53,
+          "title": "일본의 이중가격제를 박살내버리는 처자",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734727",
+          "score": 60.18
         }
       ],
-      "first_seen": "2026-09-30T11:27:58.185526+09:00",
-      "last_seen": "2026-09-30T11:27:58.185526+09:00",
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-01T11:11:46.951540+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": "NEW"
     }
   ]
 }
