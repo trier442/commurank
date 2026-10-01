@@ -1,4 +1,4 @@
-const CACHE_NAME = "commurank-shell-v17";
+const CACHE_NAME = "commurank-shell-v18";
 const SHELL = [
   "/",
   "/styles.css",
@@ -51,7 +51,11 @@ self.addEventListener("fetch", event => {
   const url = new URL(request.url);
   if (url.origin !== location.origin || !url.pathname.startsWith("/")) return;
 
-  if (url.pathname.includes("/data/") || url.pathname.endsWith(".json")) {
+  if (
+    url.pathname.includes("/data/") ||
+    url.pathname.endsWith(".json") ||
+    ["document", "script", "style"].includes(request.destination)
+  ) {
     const cacheKey = new Request(url.origin + url.pathname);
     event.respondWith(
       fetch(request)
