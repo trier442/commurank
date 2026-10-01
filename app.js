@@ -1,12 +1,3 @@
-(() => {
-  if (document.querySelector('script[data-commurank-analytics], script[src$="/analytics.js"]')) return;
-  const s = document.createElement("script");
-  s.src = "/analytics.js";
-  s.defer = true;
-  s.setAttribute("data-commurank-analytics", "1");
-  document.head.appendChild(s);
-})();
-
 const fallbackPosts = [
   {title:"랭킹 데이터를 불러오지 못했습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
   {title:"잠시 후 새로고침하면 최신 인기글을 다시 불러옵니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}

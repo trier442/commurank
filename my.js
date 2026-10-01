@@ -1,12 +1,3 @@
-(() => {
-  if (document.querySelector('script[data-commurank-analytics], script[src$="/analytics.js"]')) return;
-  const s = document.createElement("script");
-  s.src = "/analytics.js";
-  s.defer = true;
-  s.setAttribute("data-commurank-analytics", "1");
-  document.head.appendChild(s);
-})();
-
 const PREF_KEY="commurank_preferences_v1";
 const RECENT_KEY="commurank_recent_posts_v1";
 const LAST_VISIT_KEY="commurank_my_last_visit_v1";

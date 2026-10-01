@@ -1,12 +1,3 @@
-(() => {
-  if (document.querySelector('script[data-commurank-analytics], script[src$="/analytics.js"]')) return;
-  const s = document.createElement("script");
-  s.src = "/analytics.js";
-  s.defer = true;
-  s.setAttribute("data-commurank-analytics", "1");
-  document.head.appendChild(s);
-})();
-
 const issueId = new URLSearchParams(location.search).get("id") || "";
 let liveData = null;
 let archiveData = {};
