@@ -1,5 +1,5 @@
 (() => {
-  if (document.querySelector('script[data-commurank-analytics]')) return;
+  if (document.querySelector('script[data-commurank-analytics], script[src$="/analytics.js"]')) return;
   const s = document.createElement("script");
   s.src = "/analytics.js";
   s.defer = true;

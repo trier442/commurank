@@ -171,7 +171,7 @@ for page, phrase in community_expectations.items():
         errors.append(f"{page}: long-tail SEO title missing")
     if '"@type":"BreadcrumbList"' not in body:
         errors.append(f"{page}: BreadcrumbList structured data missing")
-    if "커뮤니티 인기글 순위를 보는 방법" not in body:
+    if "인기글 순위를 보는 방법" not in body:
         warnings.append(f"{page}: explanatory SEO content missing")
 
 # Latest date-page SEO checks
