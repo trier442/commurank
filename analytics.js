@@ -47,6 +47,56 @@
   document.head.appendChild(s);
 })();
 
+
+(() => {
+  const livePaths = [
+    /^\/$/,
+    /^\/briefing\/$/,
+    /^\/issues\/$/,
+    /^\/community\/[a-z0-9-]+\/$/,
+    /^\/status\/$/
+  ];
+  if (!livePaths.some(re => re.test(location.pathname))) return;
+
+  function insertBanner(data) {
+    const collected = new Date(data?.collected_at || "");
+    const ageMinutes = Number.isFinite(collected.getTime())
+      ? Math.max(0, Math.round((Date.now() - collected.getTime()) / 60000))
+      : null;
+    if (ageMinutes === null || ageMinutes <= 45) return;
+    if (document.querySelector("[data-freshness-banner]")) return;
+
+    const banner = document.createElement("div");
+    banner.className = "freshness-banner";
+    banner.setAttribute("data-freshness-banner", "1");
+    const exact = collected.toLocaleString("ko-KR", {
+      month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit"
+    });
+    banner.innerHTML =
+      '<div class="shell freshness-banner-inner">' +
+      '<strong>실시간 수집이 지연되고 있습니다.</strong>' +
+      '<span>현재 ' + exact + ' 수집 데이터를 표시 중입니다.</span>' +
+      '<a href="/status/">수집 상태 보기 →</a>' +
+      '</div>';
+
+    const header = document.querySelector(".site-header");
+    if (header?.parentNode) header.parentNode.insertBefore(banner, header.nextSibling);
+    else document.body.prepend(banner);
+
+    if (typeof window.commURankTrack === "function") {
+      window.commURankTrack("data_stale_view", {
+        age_minutes: ageMinutes,
+        source_page: location.pathname
+      });
+    }
+  }
+
+  fetch("/data/latest.json?freshness=" + Date.now(), { cache: "no-store" })
+    .then(r => r.ok ? r.json() : null)
+    .then(insertBanner)
+    .catch(() => {});
+})();
+
 (() => {
   const CONFIG_URL = "/analytics-config.json";
   const RECENT_KEY = "commurank_recent_posts_v1";
