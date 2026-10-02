@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-02T19:57:37.079200+09:00",
+  "collected_at": "2026-10-02T19:58:08.693928+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -54,9 +54,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 126.31,
+      "score": 126.62,
       "peak_score": 100.45,
-      "appearances": 15,
+      "appearances": 16,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -66,21 +66,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 61,
+          "rank": 68,
           "title": "이재명 대통령,호남반도체 직원 주거비 지원 약속",
           "url": "https://www.clien.net/service/board/park/19272768?od=T31&po=0&category=0&groupCd=",
-          "score": 59.09
+          "score": 58.25
         },
         {
           "source": "인벤",
-          "rank": 70,
+          "rank": 73,
           "title": "친윤검사 계속 비호하는 이재명 대통령",
           "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
-          "score": 56.87
+          "score": 57.07
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-02T19:57:37.079200+09:00",
+      "last_seen": "2026-10-02T19:58:08.693928+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
@@ -500,6 +500,44 @@
       "change": 0
     },
     {
+      "id": "i1470468b",
+      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "또문철"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.63,
+      "peak_score": 88.58,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "또문철 또전드 사건.gif",
+          "url": "https://theqoo.net/hot/4363253327",
+          "score": 72.53
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "또문철 한전드 갱신",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
+          "score": 55.79
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-02T19:58:08.693928+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": 3
+    },
+    {
       "id": "i62196098",
       "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -535,8 +573,8 @@
       "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "id96e4c5e",
@@ -582,8 +620,8 @@
       "last_seen": "2026-10-01T19:14:44.159749+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "idadd500c",
@@ -628,46 +666,8 @@
       "last_seen": "2026-10-01T15:40:53.338507+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 15,
-      "change": 0
-    },
-    {
-      "id": "i1470468b",
-      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "또문철"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 101.51,
-      "peak_score": 88.58,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 16,
-          "title": "또문철 또전드 사건.gif",
-          "url": "https://theqoo.net/hot/4363253327",
-          "score": 73.53
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "또문철 한전드 갱신",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
-          "score": 55.77
-        }
-      ],
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-10-02T19:57:37.079200+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 16,
-      "change": 3
+      "change": -1
     },
     {
       "id": "ie5780cab",
@@ -705,7 +705,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iaab2b0f0",
@@ -743,7 +743,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ic60c355d",
@@ -782,7 +782,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i36a25170",
