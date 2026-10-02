@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T03:43:55.638495+09:00",
+  "collected_at": "2026-10-03T07:35:44.628917+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -53,6 +53,44 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.59,
+      "peak_score": 85.12,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "오늘자 이재명 대통령 SNS...jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+          "score": 75.12
+        },
+        {
+          "source": "클리앙",
+          "rank": 57,
+          "title": "이재명 대통령과 정청래는 원팀입니다.",
+          "url": "https://www.clien.net/service/board/park/19272900?od=T31&po=0&category=0&groupCd=",
+          "score": 61.04
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "ia4c9a0a3",
       "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -60,35 +98,35 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.42,
+      "score": 94.44,
       "peak_score": 82.95,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 8,
-          "title": "오세훈 날라가서 다행이네요",
-          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-          "score": 73.95
-        },
-        {
           "source": "더쿠",
-          "rank": 63,
+          "rank": 50,
           "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
           "url": "https://theqoo.net/hot/4363571220",
-          "score": 58.68
+          "score": 63.18
+        },
+        {
+          "source": "클리앙",
+          "rank": 55,
+          "title": "오세훈 날라가서 다행이네요",
+          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
+          "score": 62.19
         }
       ],
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i4ddd6a96",
@@ -125,8 +163,46 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.79,
+      "peak_score": 80.3,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "일본의 출산 정책이 나름 참고할만 하네요",
+          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
+          "score": 68.5
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 27,
+          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
+          "score": 68.25
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 0
     },
     {
       "id": "if7103016",
@@ -171,45 +247,45 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본의"
+        "어떻게"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.77,
-      "peak_score": 80.3,
+      "score": 86.49,
+      "peak_score": 77.02,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 17,
-          "title": "일본의 출산 정책이 나름 참고할만 하네요",
-          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-          "score": 71.3
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "총은 사람을 어떻게 죽이는가?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
+          "score": 68.02
         },
         {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-          "score": 70.28
+          "source": "뽐뿌",
+          "rank": 58,
+          "title": "이런 곰팡이 청소는 어떻게 하나요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
+          "score": 60.89
         }
       ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -249,8 +325,8 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i9f5e1ed4",
@@ -287,8 +363,8 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     }
   ]
 }

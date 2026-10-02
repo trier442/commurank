@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T03:43:55.638495+09:00",
+  "collected_at": "2026-10-03T07:35:44.628917+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #정청래. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 7,
-    "keywords": 20,
-    "top100_views": 895344,
-    "top100_comments": 8723
+    "daily_issues": 9,
+    "keywords": 13,
+    "top100_views": 1139171,
+    "top100_comments": 9727
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#정청래",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "정청래"
+      "title": "#한국",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,10 +59,39 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 108.06,
+      "score": 107.74,
       "views": 11467,
       "likes": 117,
       "comments": 68,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "컴퓨터 설치해줬다가 대법원까지 가게 된 이유",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888586?m=humor",
+      "first_seen": "2026-10-03T07:35:44.628917+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "peak_score": 97.02,
+      "max_views": 23188,
+      "max_likes": 158,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-03": {
+          "max_score": 97.02,
+          "max_views": 23188,
+          "max_likes": 158,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
+        }
+      },
+      "score": 106.54,
+      "views": 23188,
+      "likes": 158,
+      "comments": 51,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,10 +117,68 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 106.13,
+      "score": 105.81,
       "views": 19664,
       "likes": 84,
       "comments": 85,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "오사카 도톤보리 갔다가 개씹놀란거",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888773?m=humor",
+      "first_seen": "2026-10-03T07:35:44.628917+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "peak_score": 95.21,
+      "max_views": 11071,
+      "max_likes": 53,
+      "max_comments": 65,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-03": {
+          "max_score": 95.21,
+          "max_views": 11071,
+          "max_likes": 53,
+          "max_comments": 65,
+          "appearances": 1,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
+        }
+      },
+      "score": 104.73,
+      "views": 11071,
+      "likes": 53,
+      "comments": 65,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "맥도날드 지역상생버거의 어두운 이면..jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888110?m=humor",
+      "first_seen": "2026-10-03T07:35:44.628917+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "peak_score": 93.42,
+      "max_views": 15417,
+      "max_likes": 137,
+      "max_comments": 38,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-03": {
+          "max_score": 93.42,
+          "max_views": 15417,
+          "max_likes": 137,
+          "max_comments": 38,
+          "appearances": 1,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
+        }
+      },
+      "score": 102.94,
+      "views": 15417,
+      "likes": 137,
+      "comments": 38,
       "active_days": 1,
       "change": "NEW"
     },
@@ -117,12 +204,12 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 101.69,
+      "score": 101.37,
       "views": 8128,
       "likes": 83,
       "comments": 66,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "임진왜란 시기에 일본으로 끌려간 조선인들이 만든 두부",
@@ -130,28 +217,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467527&_dcbest=1&page=1",
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "peak_score": 86.64,
-      "max_views": 16468,
-      "max_likes": 96,
-      "max_comments": 194,
-      "appearances": 1,
+      "max_views": 21691,
+      "max_likes": 128,
+      "max_comments": 276,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-03": {
           "max_score": 86.64,
-          "max_views": 16468,
-          "max_likes": 96,
-          "max_comments": 194,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
+          "max_views": 21691,
+          "max_likes": 128,
+          "max_comments": 276,
+          "appearances": 2,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
         }
       },
-      "score": 96.16,
-      "views": 16468,
-      "likes": 96,
-      "comments": 194,
+      "score": 97.06,
+      "views": 21691,
+      "likes": 128,
+      "comments": 276,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 3원",
@@ -175,12 +262,12 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 94.96,
+      "score": 94.64,
       "views": 9389,
       "likes": 82,
       "comments": 14,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "일본여자가 가슴이 큰 이유",
@@ -188,28 +275,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467525&_dcbest=1&page=1",
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "peak_score": 80.77,
-      "max_views": 13989,
-      "max_likes": 32,
-      "max_comments": 246,
-      "appearances": 1,
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "peak_score": 83.81,
+      "max_views": 27122,
+      "max_likes": 65,
+      "max_comments": 344,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-03": {
-          "max_score": 80.77,
-          "max_views": 13989,
-          "max_likes": 32,
-          "max_comments": 246,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
+          "max_score": 83.81,
+          "max_views": 27122,
+          "max_likes": 65,
+          "max_comments": 344,
+          "appearances": 2,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
         }
       },
-      "score": 90.29,
-      "views": 13989,
-      "likes": 32,
-      "comments": 246,
+      "score": 94.23,
+      "views": 27122,
+      "likes": 65,
+      "comments": 344,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "해외에서도 통하는 김 묻었어요 잘생김",
@@ -217,167 +304,120 @@
       "category": "유머",
       "url": "https://theqoo.net/hot/4363585065",
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "peak_score": 75.0,
-      "max_views": 31152,
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "peak_score": 82.0,
+      "max_views": 60401,
       "max_likes": 0,
-      "max_comments": 180,
-      "appearances": 1,
+      "max_comments": 244,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-03": {
-          "max_score": 75.0,
-          "max_views": 31152,
+          "max_score": 82.0,
+          "max_views": 60401,
           "max_likes": 0,
-          "max_comments": 180,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
+          "max_comments": 244,
+          "appearances": 2,
+          "last_seen": "2026-10-03T07:35:44.628917+09:00"
         }
       },
-      "score": 84.52,
-      "views": 31152,
+      "score": 92.42,
+      "views": 60401,
       "likes": 0,
-      "comments": 180,
+      "comments": 244,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "오세훈 날라가서 다행이네요",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "peak_score": 73.95,
-      "max_views": 4065,
-      "max_likes": 0,
-      "max_comments": 12,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 73.95,
-          "max_views": 4065,
-          "max_likes": 0,
-          "max_comments": 12,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
-        }
-      },
-      "score": 83.47,
-      "views": 4065,
-      "likes": 0,
-      "comments": 12,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-      "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "peak_score": 73.54,
-      "max_views": 548,
-      "max_likes": 3,
-      "max_comments": 3,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 73.54,
-          "max_views": 548,
-          "max_likes": 3,
-          "max_comments": 3,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
-        }
-      },
-      "score": 83.06,
-      "views": 548,
-      "likes": 3,
-      "comments": 3,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "peak_score": 73.34,
-      "max_views": 3260,
-      "max_likes": 0,
-      "max_comments": 7,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 73.34,
-          "max_views": 3260,
-          "max_likes": 0,
-          "max_comments": 7,
-          "appearances": 1,
-          "last_seen": "2026-10-03T03:43:55.638495+09:00"
-        }
-      },
-      "score": 82.86,
-      "views": 3260,
-      "likes": 0,
-      "comments": 7,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "진짜 개열받은 김민재의 인터뷰",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735555",
+      "source": "뽐뿌",
+      "title": "방금 올라온 대통령 X 정청래 괴롭힌다 오해 말라",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139960",
       "category": "이슈",
-      "views": 6349,
-      "likes": 0,
-      "comments": 36,
-      "score": 52.64,
+      "views": 12557,
+      "likes": 52,
+      "comments": 54,
+      "score": 49.85,
       "change": 0,
-      "current_rank": 92,
+      "current_rank": 99,
       "new_entry": false,
-      "delta_views": 4551,
-      "delta_likes": 0,
-      "delta_comments": 28,
+      "delta_views": 7036,
+      "delta_likes": 40,
+      "delta_comments": 17,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 297
+      "window_minutes": 232
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본여자가 가슴이 큰 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467525&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 27122,
+      "likes": 65,
+      "comments": 344,
+      "score": 83.81,
+      "change": 1,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 13133,
+      "delta_likes": 33,
+      "delta_comments": 98,
+      "rank_gain": 1,
+      "rising_score": 87.54,
+      "rising_rank": 2,
+      "window_minutes": 232
     },
     {
       "source": "디시인사이드",
       "title": "오싹오싹 못생녀의 인생",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467479&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 26963,
-      "likes": 111,
-      "comments": 1016,
-      "score": 68.39,
+      "views": 32747,
+      "likes": 127,
+      "comments": 1125,
+      "score": 63.34,
       "change": 0,
-      "current_rank": 24,
+      "current_rank": 49,
       "new_entry": false,
-      "delta_views": 14216,
-      "delta_likes": 52,
-      "delta_comments": 696,
+      "delta_views": 5784,
+      "delta_likes": 16,
+      "delta_comments": 109,
       "rank_gain": 0,
-      "rising_score": 88.27,
-      "rising_rank": 2,
-      "window_minutes": 297
+      "rising_score": 84.24,
+      "rising_rank": 3,
+      "window_minutes": 232
+    },
+    {
+      "source": "디시인사이드",
+      "title": "임진왜란 시기에 일본으로 끌려간 조선인들이 만든 두부",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467527&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 21691,
+      "likes": 128,
+      "comments": 276,
+      "score": 84.86,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 5223,
+      "delta_likes": 32,
+      "delta_comments": 82,
+      "rank_gain": 0,
+      "rising_score": 83.17,
+      "rising_rank": 4,
+      "window_minutes": 232
     },
     {
       "source": "루리웹",
-      "title": "사이비 종교인과는 상종도 하면 안 되는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76887335?m=humor",
+      "title": "컴퓨터 설치해줬다가 대법원까지 가게 된 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888586?m=humor",
       "category": "이슈",
-      "views": 11467,
-      "likes": 117,
-      "comments": 68,
-      "score": 98.54,
+      "views": 23188,
+      "likes": 158,
+      "comments": 51,
+      "score": 97.02,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -385,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.39,
-      "rising_rank": 3,
-      "window_minutes": 297
+      "rising_score": 82.75,
+      "rising_rank": 5,
+      "window_minutes": 232
     },
     {
       "source": "루리웹",
-      "title": "삼성) 개빡친 갤럭시 유저들",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76887302?m=humor",
+      "title": "오사카 도톤보리 갔다가 개씹놀란거",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888773?m=humor",
       "category": "이슈",
-      "views": 19664,
-      "likes": 84,
-      "comments": 85,
-      "score": 96.61,
+      "views": 11071,
+      "likes": 53,
+      "comments": 65,
+      "score": 95.21,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 4,
-      "window_minutes": 297
+      "rising_score": 81.99,
+      "rising_rank": 6,
+      "window_minutes": 232
     },
     {
       "source": "루리웹",
-      "title": "베스트간 의료감염이야기 저격한다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76887786?m=humor",
+      "title": "맥도날드 지역상생버거의 어두운 이면..jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888110?m=humor",
       "category": "이슈",
-      "views": 8128,
-      "likes": 83,
-      "comments": 66,
-      "score": 92.17,
+      "views": 15417,
+      "likes": 137,
+      "comments": 38,
+      "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,109 +465,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.71,
-      "rising_rank": 5,
-      "window_minutes": 297
-    },
-    {
-      "source": "디시인사이드",
-      "title": "임진왜란 시기에 일본으로 끌려간 조선인들이 만든 두부",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467527&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16468,
-      "likes": 96,
-      "comments": 194,
-      "score": 86.64,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.39,
-      "rising_rank": 6,
-      "window_minutes": 297
-    },
-    {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 3원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107745",
-      "category": "이슈",
-      "views": 9389,
-      "likes": 82,
-      "comments": 14,
-      "score": 85.44,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.88,
+      "rising_score": 81.24,
       "rising_rank": 7,
-      "window_minutes": 297
+      "window_minutes": 232
     },
     {
-      "source": "디시인사이드",
-      "title": "일본여자가 가슴이 큰 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467525&_dcbest=1&page=1",
+      "source": "인벤",
+      "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
       "category": "이슈",
-      "views": 13989,
-      "likes": 32,
-      "comments": 246,
-      "score": 80.77,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.92,
-      "rising_rank": 8,
-      "window_minutes": 297
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 핸드폰추천",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467489&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 13191,
-      "likes": 70,
-      "comments": 297,
-      "score": 65.53,
+      "views": 3664,
+      "likes": 8,
+      "comments": 17,
+      "score": 66.91,
       "change": 0,
-      "current_rank": 36,
+      "current_rank": 35,
       "new_entry": false,
-      "delta_views": 9861,
-      "delta_likes": 45,
-      "delta_comments": 187,
+      "delta_views": 3116,
+      "delta_likes": 5,
+      "delta_comments": 14,
       "rank_gain": 0,
-      "rising_score": 74.69,
-      "rising_rank": 9,
-      "window_minutes": 297
+      "rising_score": 81.02,
+      "rising_rank": 8,
+      "window_minutes": 232
     },
     {
       "source": "더쿠",
-      "title": "해외에서도 통하는 김 묻었어요 잘생김",
-      "url": "https://theqoo.net/hot/4363585065",
-      "category": "유머",
-      "views": 31152,
+      "title": "엄청나게 증가한 직업",
+      "url": "https://theqoo.net/hot/4363561022",
+      "category": "이슈",
+      "views": 37756,
       "likes": 0,
-      "comments": 180,
-      "score": 75.0,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 144,
+      "score": 59.53,
+      "change": 13,
+      "current_rank": 66,
+      "new_entry": false,
+      "delta_views": 24179,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 68,
+      "rank_gain": 13,
+      "rising_score": 79.26,
+      "rising_rank": 9,
+      "window_minutes": 232
+    },
+    {
+      "source": "클리앙",
+      "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
+      "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 6188,
+      "likes": 0,
+      "comments": 10,
+      "score": 59.89,
+      "change": 0,
+      "current_rank": 63,
+      "new_entry": false,
+      "delta_views": 2928,
+      "delta_likes": 0,
+      "delta_comments": 3,
       "rank_gain": 0,
-      "rising_score": 73.5,
+      "rising_score": 77.74,
       "rising_rank": 10,
-      "window_minutes": 297
+      "window_minutes": 232
     }
   ],
   "issues": [
@@ -578,6 +578,44 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.59,
+      "peak_score": 85.12,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "오늘자 이재명 대통령 SNS...jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+          "score": 75.12
+        },
+        {
+          "source": "클리앙",
+          "rank": 57,
+          "title": "이재명 대통령과 정청래는 원팀입니다.",
+          "url": "https://www.clien.net/service/board/park/19272900?od=T31&po=0&category=0&groupCd=",
+          "score": 61.04
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "ia4c9a0a3",
       "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -585,35 +623,35 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.42,
+      "score": 94.44,
       "peak_score": 82.95,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 8,
-          "title": "오세훈 날라가서 다행이네요",
-          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-          "score": 73.95
-        },
-        {
           "source": "더쿠",
-          "rank": 63,
+          "rank": 50,
           "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
           "url": "https://theqoo.net/hot/4363571220",
-          "score": 58.68
+          "score": 63.18
+        },
+        {
+          "source": "클리앙",
+          "rank": 55,
+          "title": "오세훈 날라가서 다행이네요",
+          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
+          "score": 62.19
         }
       ],
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i4ddd6a96",
@@ -650,8 +688,46 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.79,
+      "peak_score": 80.3,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "일본의 출산 정책이 나름 참고할만 하네요",
+          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
+          "score": 68.5
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 27,
+          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
+          "score": 68.25
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 0
     },
     {
       "id": "if7103016",
@@ -696,45 +772,45 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본의"
+        "어떻게"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.77,
-      "peak_score": 80.3,
+      "score": 86.49,
+      "peak_score": 77.02,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 17,
-          "title": "일본의 출산 정책이 나름 참고할만 하네요",
-          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-          "score": 71.3
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "총은 사람을 어떻게 죽이는가?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
+          "score": 68.02
         },
         {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-          "score": 70.28
+          "source": "뽐뿌",
+          "rank": 58,
+          "title": "이런 곰팡이 청소는 어떻게 하나요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
+          "score": 60.89
         }
       ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -774,8 +850,8 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i9f5e1ed4",
@@ -812,161 +888,43 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     }
   ],
   "realtime_issues": [
     {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "암살자들"
+        "이재명"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "post_count": 3,
-      "score": 90.54,
-      "peak_score": 90.54,
+      "score": 85.12,
+      "peak_score": 85.12,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 9,
-          "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-          "score": 73.54
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 57,
-          "title": "암살자들 보고왔습니다",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
-          "score": 60.32
+          "rank": 12,
+          "title": "오늘자 이재명 대통령 SNS...jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+          "score": 75.12
         },
         {
           "source": "클리앙",
-          "rank": 78,
-          "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
-          "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
-          "score": 54.62
+          "rank": 57,
+          "title": "이재명 대통령과 정청래는 원팀입니다.",
+          "url": "https://www.clien.net/service/board/park/19272900?od=T31&po=0&category=0&groupCd=",
+          "score": 61.04
         }
       ],
       "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "ia4c9a0a3",
-      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오세훈"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.95,
-      "peak_score": 82.95,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 8,
-          "title": "오세훈 날라가서 다행이네요",
-          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-          "score": 73.95
-        },
-        {
-          "source": "더쿠",
-          "rank": 63,
-          "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
-          "url": "https://theqoo.net/hot/4363571220",
-          "score": 58.68
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i4ddd6a96",
-      "title": "‘김여정’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김여정"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.34,
-      "peak_score": 82.34,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 10,
-          "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
-          "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
-          "score": 73.34
-        },
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "청와대, 김여정 ‘광대극’ 담화에 “소모적 비난 멈추고 한반도 평화 동참 촉구”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735593",
-          "score": 57.1
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "if7103016",
-      "title": "깊은 한숨 연달아 쏟아낸 황인범, '몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-      "keywords": [
-        "힘들어",
-        "연달아",
-        "한숨",
-        "없다",
-        "황인범",
-        "힘들고",
-        "마음도",
-        "도와줄",
-        "쏟아낸"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.42,
-      "peak_score": 80.42,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "깊은 한숨 연달아 쏟아낸 황인범, '몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-          "url": "https://www.clien.net/service/board/park/19272901?od=T31&po=0&category=0&groupCd=",
-          "score": 72.42
-        },
-        {
-          "source": "인벤",
-          "rank": 70,
-          "title": "깊은 한숨 연달아 쏟아낸 황인범, \"몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735577",
-          "score": 56.96
-        }
-      ],
-      "rank": 4,
       "change": "NEW"
     },
     {
@@ -977,8 +935,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.3,
-      "peak_score": 80.3,
+      "score": 77.5,
+      "peak_score": 77.5,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -987,142 +945,111 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 17,
+          "rank": 26,
           "title": "일본의 출산 정책이 나름 참고할만 하네요",
           "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-          "score": 71.3
+          "score": 68.5
         },
         {
           "source": "디시인사이드",
-          "rank": 20,
+          "rank": 27,
           "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-          "score": 70.28
+          "score": 68.25
         }
       ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ib9cf6a91",
-      "title": "아시안게임 어제의 메달리스트들",
-      "keywords": [
-        "메달리스트들",
-        "아시안게임",
-        "어제의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 72.68,
-      "peak_score": 72.68,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 38,
-          "title": "아시안게임 어제의 메달리스트들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735591",
-          "score": 64.68
-        },
-        {
-          "source": "클리앙",
-          "rank": 96,
-          "title": "아시안게임 어제의 메달리스트들",
-          "url": "https://www.clien.net/service/board/park/19272899?od=T31&po=0&category=0&groupCd=",
-          "score": 51.66
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.1,
-      "peak_score": 64.1,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 75,
-          "title": "야당을 사랑한 여자 인스타 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139336",
-          "score": 55.1
-        },
-        {
-          "source": "인벤",
-          "rank": 83,
-          "title": "후방 ㅡ 겨우디 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735567",
-          "score": 53.84
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    }
-  ],
-  "keywords": [
-    {
-      "keyword": "정청래",
-      "score": 129.61,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 16,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "keyword": "암살자들",
-      "score": 121.16,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 9,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "없다",
-      "score": 120.89,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 13,
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.02,
+      "peak_score": 77.02,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
-        "인벤",
-        "클리앙"
+        "뽐뿌"
       ],
-      "aliases": [],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "총은 사람을 어떻게 죽이는가?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
+          "score": 68.02
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 58,
+          "title": "이런 곰팡이 청소는 어떻게 하나요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
+          "score": 60.89
+        }
+      ],
       "rank": 3,
       "change": "NEW"
     },
     {
+      "id": "ia4c9a0a3",
+      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오세훈"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.18,
+      "peak_score": 72.18,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 50,
+          "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
+          "url": "https://theqoo.net/hot/4363571220",
+          "score": 63.18
+        },
+        {
+          "source": "클리앙",
+          "rank": 55,
+          "title": "오세훈 날라가서 다행이네요",
+          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
+          "score": 62.19
+        }
+      ],
+      "rank": 4,
+      "change": -2
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "한국",
+      "score": 144.65,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 23,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": 7
+    },
+    {
       "keyword": "일본",
-      "score": 115.47,
+      "score": 112.66,
       "post_count": 4,
       "source_count": 2,
       "best_rank": 4,
@@ -1131,219 +1058,211 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 4,
+      "rank": 2,
+      "change": 2
+    },
+    {
+      "keyword": "가게",
+      "score": 103.51,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "아시안게임",
-      "score": 109.21,
+      "keyword": "이재명",
+      "score": 97.24,
       "post_count": 3,
-      "source_count": 3,
-      "best_rank": 38,
+      "source_count": 2,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
         "인벤",
         "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": 2
+    },
+    {
+      "keyword": "무료",
+      "score": 95.99,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 106.15,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 27,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
       "keyword": "오빠",
-      "score": 101.03,
+      "score": 91.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 15,
       "sources": [
         "더쿠",
         "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 1
+    },
+    {
+      "keyword": "어떻게",
+      "score": 89.97,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 28,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 97.78,
-      "post_count": 4,
+      "keyword": "어느",
+      "score": 89.16,
+      "post_count": 2,
       "source_count": 2,
       "best_rank": 30,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
-      "change": 2
+      "change": "NEW"
     },
     {
       "keyword": "오세훈",
-      "score": 96.49,
+      "score": 87.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 50,
       "sources": [
         "더쿠",
         "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "김여정",
-      "score": 94.64,
+      "keyword": "없다",
+      "score": 87.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 29,
       "sources": [
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -1
+      "change": -7
     },
     {
-      "keyword": "연달아",
-      "score": 92.84,
+      "keyword": "정청래",
+      "score": 79.04,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "깊은",
-        "도와줄",
-        "마음",
-        "몸도",
-        "쏟아낸"
-      ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "오해",
-      "score": 90.48,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 57,
       "sources": [
         "뽐뿌",
-        "인벤"
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -10
+    },
+    {
+      "keyword": "관상",
+      "score": 78.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 64,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "비판",
-      "score": 88.71,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 43,
+      "keyword": "해리포터",
+      "score": 68.59,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 47,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "여성",
-      "score": 87.67,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 41,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "싸움",
-      "score": 85.79,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 51,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "사이비 종교인과는 상종도 하면 안 되는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76887335?m=humor",
-      "score": 98.54,
-      "views": 11467,
-      "comments": 68
+      "title": "컴퓨터 설치해줬다가 대법원까지 가게 된 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888586?m=humor",
+      "score": 97.02,
+      "views": 23188,
+      "comments": 51
     },
     {
       "source": "디시인사이드",
       "title": "임진왜란 시기에 일본으로 끌려간 조선인들이 만든 두부",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467527&_dcbest=1&page=1",
-      "score": 86.64,
-      "views": 16468,
-      "comments": 194
+      "score": 84.86,
+      "views": 21691,
+      "comments": 276
     },
     {
       "source": "더쿠",
       "title": "해외에서도 통하는 김 묻었어요 잘생김",
       "url": "https://theqoo.net/hot/4363585065",
-      "score": 75.0,
-      "views": 31152,
-      "comments": 180
-    },
-    {
-      "source": "클리앙",
-      "title": "오세훈 날라가서 다행이네요",
-      "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-      "score": 73.95,
-      "views": 4065,
-      "comments": 12
+      "score": 82.0,
+      "views": 60401,
+      "comments": 244
     },
     {
       "source": "인벤",
-      "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-      "score": 73.54,
-      "views": 548,
-      "comments": 3
+      "title": "숙이는 브브걸 은지",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735607",
+      "score": 79.26,
+      "views": 3482,
+      "comments": 0
+    },
+    {
+      "source": "클리앙",
+      "title": "메모는 과학이라는 말",
+      "url": "https://www.clien.net/service/board/park/19272904?od=T31&po=0&category=0&groupCd=",
+      "score": 74.27,
+      "views": 2154,
+      "comments": 13
     },
     {
       "source": "뽐뿌",
-      "title": "박주호 충격이네요",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139974",
-      "score": 72.25,
-      "views": 3203,
-      "comments": 24
+      "title": "박주호 선수 아내 근황 ㄷㄷ jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139894",
+      "score": 70.86,
+      "views": 27803,
+      "comments": 49
     }
   ]
 }
