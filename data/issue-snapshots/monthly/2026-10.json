@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-02T19:12:07.909187+09:00",
+  "collected_at": "2026-10-02T19:47:01.680752+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -54,9 +54,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 125.65,
+      "score": 125.99,
       "peak_score": 100.45,
-      "appearances": 13,
+      "appearances": 14,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -65,22 +65,22 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 6,
-          "title": "친윤검사 계속 비호하는 이재명 대통령",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
-          "score": 80.0
-        },
-        {
           "source": "클리앙",
-          "rank": 43,
+          "rank": 47,
           "title": "이재명 대통령,호남반도체 직원 주거비 지원 약속",
           "url": "https://www.clien.net/service/board/park/19272768?od=T31&po=0&category=0&groupCd=",
-          "score": 63.66
+          "score": 60.67
+        },
+        {
+          "source": "인벤",
+          "rank": 58,
+          "title": "친윤검사 계속 비호하는 이재명 대통령",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
+          "score": 59.05
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-02T19:47:01.680752+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
@@ -747,6 +747,44 @@
       "change": 0
     },
     {
+      "id": "i1470468b",
+      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "또문철"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.07,
+      "peak_score": 88.58,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "또문철 또전드 사건.gif",
+          "url": "https://theqoo.net/hot/4363253327",
+          "score": 70.53
+        },
+        {
+          "source": "인벤",
+          "rank": 65,
+          "title": "또문철 한전드 갱신",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
+          "score": 57.6
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-02T19:47:01.680752+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": 1
+    },
+    {
       "id": "i36a25170",
       "title": "‘모르는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -789,46 +827,8 @@
       "last_seen": "2026-10-02T15:55:08.917874+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i1470468b",
-      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "또문철"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.05,
-      "peak_score": 88.58,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 7,
-          "title": "또문철 한전드 갱신",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
-          "score": 79.58
-        },
-        {
-          "source": "더쿠",
-          "rank": 34,
-          "title": "또문철 또전드 사건.gif",
-          "url": "https://theqoo.net/hot/4363253327",
-          "score": 64.84
-        }
-      ],
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-10-02T19:12:07.909187+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": -1
     }
   ]
 }

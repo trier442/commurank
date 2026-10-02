@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-02",
   "label": "2026년 10월 02일",
-  "collected_at": "2026-10-02T19:12:07.909187+09:00",
+  "collected_at": "2026-10-02T19:47:01.680752+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -177,9 +177,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 106.93,
+      "score": 108.05,
       "peak_score": 89.0,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -188,26 +188,26 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 6,
-          "title": "친윤검사 계속 비호하는 이재명 대통령",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
-          "score": 80.0
-        },
-        {
           "source": "클리앙",
-          "rank": 43,
+          "rank": 47,
           "title": "이재명 대통령,호남반도체 직원 주거비 지원 약속",
           "url": "https://www.clien.net/service/board/park/19272768?od=T31&po=0&category=0&groupCd=",
-          "score": 63.66
+          "score": 60.67
+        },
+        {
+          "source": "인벤",
+          "rank": 58,
+          "title": "친윤검사 계속 비호하는 이재명 대통령",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
+          "score": 59.05
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-02T19:47:01.680752+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": 5
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -250,7 +250,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ic60c355d",
@@ -289,7 +289,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i1470468b",
+      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "또문철"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.07,
+      "peak_score": 88.58,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "또문철 또전드 사건.gif",
+          "url": "https://theqoo.net/hot/4363253327",
+          "score": 70.53
+        },
+        {
+          "source": "인벤",
+          "rank": 65,
+          "title": "또문철 한전드 갱신",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
+          "score": 57.6
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-02T19:47:01.680752+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": 1
     },
     {
       "id": "i36a25170",
@@ -334,46 +372,8 @@
       "last_seen": "2026-10-02T15:55:08.917874+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "i1470468b",
-      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "또문철"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.05,
-      "peak_score": 88.58,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 7,
-          "title": "또문철 한전드 갱신",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
-          "score": 79.58
-        },
-        {
-          "source": "더쿠",
-          "rank": 34,
-          "title": "또문철 또전드 사건.gif",
-          "url": "https://theqoo.net/hot/4363253327",
-          "score": 64.84
-        }
-      ],
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-10-02T19:12:07.909187+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "if91ac4c9",
@@ -411,7 +411,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i13e45c01",
@@ -449,7 +449,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iaab2b0f0",
@@ -487,7 +487,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i62196098",
@@ -526,7 +526,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2af08ac5",
@@ -564,7 +564,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i50b33b63",
@@ -602,7 +602,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "id96d25c0",
@@ -655,7 +655,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i99094885",
@@ -693,7 +693,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie861fdd4",
@@ -731,7 +731,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 87.86,
+      "peak_score": 77.39,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 22,
+          "title": "싱글벙글 또다시 바뀌는거 같다는 대한민국 직업메타",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467451&_dcbest=1&page=1",
+          "score": 67.39
+        },
+        {
+          "source": "루리웹",
+          "rank": 80,
+          "title": "통신요금 제일 비싼 나라 1위, 대한민국",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76884378?m=humor_only&t=now",
+          "score": 54.56
+        }
+      ],
+      "first_seen": "2026-09-30T16:29:04.314799+09:00",
+      "last_seen": "2026-10-02T19:47:01.680752+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 19,
+      "change": "NEW"
     },
     {
       "id": "ib9056a9e",
@@ -766,44 +804,6 @@
       ],
       "first_seen": "2026-10-02T01:18:55.067443+09:00",
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i97583b43",
-      "title": "‘망했다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "망했다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.47,
-      "peak_score": 75.0,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 37,
-          "title": "망했다는 아반떼 근황 ㄷㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978498",
-          "score": 66.0
-        },
-        {
-          "source": "루리웹",
-          "rank": 49,
-          "title": "완전히 망했다는 나이키 주식 근황.........jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876698?m=humor_only&t=now",
-          "score": 62.79
-        }
-      ],
-      "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
