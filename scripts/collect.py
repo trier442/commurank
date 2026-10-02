@@ -29,13 +29,13 @@ ISSUE_ARCHIVE_INDEX_PATH = DATA_DIR / "issue-archive-index.json"
 ISSUE_SNAPSHOT_DIR = DATA_DIR / "issue-snapshots"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 SOURCE_CACHE_DIR = DATA_DIR / "source-cache"
+EXCLUDED_SOURCES = {"에펨코리아"}
 
 SOURCE_CACHE_FILES = {
     "루리웹": "ruliweb.json",
     "디시인사이드": "dcinside.json",
     "더쿠": "theqoo.json",
     "뽐뿌": "ppomppu.json",
-    "에펨코리아": "fmkorea.json",
     "클리앙": "clien.json",
     "인벤": "inven.json",
 }
@@ -46,14 +46,12 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/153.0 Safari/537.36 CommurankBot/0.1"
 )
-FMKOREA_USER_AGENT = "commurank-bot/0.1 (+https://commurank.kr/)"
 
 SITES = {
     "루리웹": "https://bbs.ruliweb.com/best",
     "디시인사이드": "https://gall.dcinside.com/board/lists/?id=dcbest",
     "더쿠": "https://theqoo.net/hot",
     "뽐뿌": "https://www.ppomppu.co.kr/hot.php",
-    "에펨코리아": "https://www.fmkorea.com/best",
     "클리앙": "https://www.clien.net/service/board/park",
     "인벤": "https://www.inven.co.kr/board/webzine/2097",
 }
@@ -232,66 +230,6 @@ def scrape_ppomppu() -> list[dict]:
     return items
 
 
-def scrape_fmkorea() -> list[dict]:
-    candidates = [
-        ("https://www.fmkorea.com/best", "https://www.fmkorea.com"),
-        ("https://m.fmkorea.com/best", "https://m.fmkorea.com"),
-    ]
-    last_error = None
-
-    for list_url, base in candidates:
-        try:
-            soup = request_html(list_url, user_agent=FMKOREA_USER_AGENT)
-        except Exception as exc:
-            last_error = exc
-            continue
-
-        items = []
-        nodes = soup.select("li.li_best2")
-        if not nodes:
-            nodes = soup.select(".fm_best_widget ul > li")
-
-        for item in nodes:
-            link = item.select_one("h3.title > a")
-            if not link or not link.get("href"):
-                continue
-
-            title_node = item.select_one("h3.title span.ellipsis-target")
-            title = clean_text(title_node.get_text(" ", strip=True) if title_node else "")
-            if not title:
-                title_el = item.select_one("h3.title")
-                title = clean_text(title_el.get("data-original-title") if title_el else "")
-            if not title:
-                title = clean_text(link.get_text(" ", strip=True))
-                comment_node = link.select_one("span.comment_count")
-                if comment_node:
-                    title = clean_text(title.replace(comment_node.get_text(" ", strip=True), ""))
-            if not title:
-                continue
-
-            href = link["href"]
-            if href.startswith("/best/"):
-                canonical = urljoin("https://www.fmkorea.com", href)
-            else:
-                canonical = urljoin(base, href)
-
-            items.append(post(
-                "에펨코리아",
-                title,
-                canonical,
-                category=clean_text(item.select_one("span.category > a").get_text() if item.select_one("span.category > a") else ""),
-                likes=parse_number(item.select_one("a.pc_voted_count span.count").get_text() if item.select_one("a.pc_voted_count span.count") else ""),
-                comments=parse_number(item.select_one("span.comment_count").get_text() if item.select_one("span.comment_count") else ""),
-            ))
-
-        if items:
-            return items
-
-    if last_error:
-        raise last_error
-    return []
-
-
 def scrape_clien() -> list[dict]:
     base = "https://www.clien.net"
     soup = request_html(SITES["클리앙"])
@@ -365,7 +303,6 @@ SCRAPERS = {
     "디시인사이드": scrape_dcinside,
     "더쿠": scrape_theqoo,
     "뽐뿌": scrape_ppomppu,
-    "에펨코리아": scrape_fmkorea,
     "클리앙": scrape_clien,
     "인벤": scrape_inven,
 }
@@ -1534,6 +1471,10 @@ def write_briefing_snapshot(now: datetime, briefing: dict) -> None:
 def update_metric_history(posts: list[dict], collected_at: str) -> dict:
     history = load_json(METRICS_HISTORY_PATH, {"version": 1, "posts": {}})
     history.setdefault("posts", {})
+    history["posts"] = {
+        k: v for k, v in history["posts"].items()
+        if v.get("source") not in EXCLUDED_SOURCES
+    }
 
     global_rank = {p.get("url"): i + 1 for i, p in enumerate(posts[:100]) if p.get("url")}
     source_rank = {}
@@ -1657,7 +1598,10 @@ def main() -> None:
         reverse=True,
     )[:100]
 
-    archive = load_json(ARCHIVE_PATH, {})
+    archive = {
+        k: v for k, v in load_json(ARCHIVE_PATH, {}).items()
+        if v.get("source") not in EXCLUDED_SOURCES
+    }
     for p in dedup.values():
         key = p["url"]
         old = archive.get(key, {})
