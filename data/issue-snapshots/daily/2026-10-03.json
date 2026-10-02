@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T07:35:44.628917+09:00",
+  "collected_at": "2026-10-03T08:03:19.978953+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -88,7 +88,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ia4c9a0a3",
@@ -126,7 +126,83 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.23,
+      "peak_score": 80.3,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 31,
+          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
+          "score": 65.77
+        },
+        {
+          "source": "클리앙",
+          "rank": 76,
+          "title": "일본의 출산 정책이 나름 참고할만 하네요",
+          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
+          "score": 55.77
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-03T08:03:19.978953+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 1
+    },
+    {
+      "id": "icb33dad5",
+      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "sns"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.03,
+      "peak_score": 82.56,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 11,
+          "title": "오늘자 이재명 대통령 SNS...jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+          "score": 73.56
+        },
+        {
+          "source": "클리앙",
+          "rank": 62,
+          "title": "어제밤 대통령 SNS",
+          "url": "https://www.clien.net/service/board/park/19272925?od=T31&po=0&category=0&groupCd=",
+          "score": 59.2
+        }
+      ],
+      "first_seen": "2026-10-03T08:03:19.978953+09:00",
+      "last_seen": "2026-10-03T08:03:19.978953+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "i4ddd6a96",
@@ -163,46 +239,46 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 6,
+      "change": -2
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본의"
+        "암살자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.79,
-      "peak_score": 80.3,
-      "appearances": 2,
+      "score": 91.26,
+      "peak_score": 81.79,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 26,
-          "title": "일본의 출산 정책이 나름 참고할만 하네요",
-          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-          "score": 68.5
+          "source": "인벤",
+          "rank": 14,
+          "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+          "score": 72.79
         },
         {
           "source": "디시인사이드",
-          "rank": 27,
-          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-          "score": 68.25
+          "rank": 85,
+          "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
+          "score": 54.92
         }
       ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-03T08:03:19.978953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "if7103016",
@@ -247,7 +323,7 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 8,
       "change": -2
     },
     {
@@ -258,9 +334,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.49,
+      "score": 88.51,
       "peak_score": 77.02,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -268,25 +344,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 28,
+          "rank": 29,
           "title": "총은 사람을 어떻게 죽이는가?",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
-          "score": 68.02
+          "score": 66.15
         },
         {
           "source": "뽐뿌",
-          "rank": 58,
+          "rank": 75,
           "title": "이런 곰팡이 청소는 어떻게 하나요",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
-          "score": 60.89
+          "score": 56.65
         }
       ],
       "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-03T07:35:44.628917+09:00",
+      "last_seen": "2026-10-03T08:03:19.978953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "ib9cf6a91",
@@ -325,7 +401,7 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 10,
       "change": -2
     },
     {
@@ -363,7 +439,7 @@
       "last_seen": "2026-10-03T03:43:55.638495+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 11,
       "change": -2
     }
   ]
