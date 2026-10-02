@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-02",
   "label": "2026년 10월 02일",
-  "collected_at": "2026-10-02T19:58:08.693928+09:00",
+  "collected_at": "2026-10-02T22:46:48.454633+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #암살자. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 15,
-    "top100_views": 807734,
-    "top100_comments": 9760
+    "keywords": 12,
+    "top100_views": 903671,
+    "top100_comments": 8717
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#암살자",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "암살자"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-02T19:58:08.693928+09:00"
         }
       },
-      "score": 109.79,
+      "score": 109.55,
       "views": 23829,
       "likes": 225,
       "comments": 101,
@@ -88,12 +88,41 @@
           "last_seen": "2026-10-02T19:58:08.693928+09:00"
         }
       },
-      "score": 108.76,
+      "score": 108.53,
       "views": 15073,
       "likes": 133,
       "comments": 93,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "현재 중국내 전기차 운전자들 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882483?m=humor",
+      "first_seen": "2026-10-02T22:46:48.454633+09:00",
+      "last_seen": "2026-10-02T22:46:48.454633+09:00",
+      "peak_score": 98.96,
+      "max_views": 26309,
+      "max_likes": 173,
+      "max_comments": 103,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-02": {
+          "max_score": 98.96,
+          "max_views": 26309,
+          "max_likes": 173,
+          "max_comments": 103,
+          "appearances": 1,
+          "last_seen": "2026-10-02T22:46:48.454633+09:00"
+        }
+      },
+      "score": 108.48,
+      "views": 26309,
+      "likes": 173,
+      "comments": 103,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "판타지 소설에서 편의상 무시해주는 사실",
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-02T19:58:08.693928+09:00"
         }
       },
-      "score": 108.13,
+      "score": 107.89,
       "views": 21101,
       "likes": 121,
       "comments": 91,
       "active_days": 1,
-      "change": 1
+      "change": -1
     },
     {
       "title": "집 15채 산 96년생 브이로그",
@@ -146,12 +175,41 @@
           "last_seen": "2026-10-02T19:57:37.079200+09:00"
         }
       },
-      "score": 107.44,
+      "score": 107.2,
       "views": 37190,
       "likes": 108,
       "comments": 139,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "한문철티비 레전드 갱신.mp4",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882747?m=humor",
+      "first_seen": "2026-10-02T19:47:01.680752+09:00",
+      "last_seen": "2026-10-02T22:46:48.454633+09:00",
+      "peak_score": 96.61,
+      "max_views": 21186,
+      "max_likes": 99,
+      "max_comments": 144,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-02": {
+          "max_score": 96.61,
+          "max_views": 21186,
+          "max_likes": 99,
+          "max_comments": 144,
+          "appearances": 2,
+          "last_seen": "2026-10-02T22:46:48.454633+09:00"
+        }
+      },
+      "score": 107.03,
+      "views": 21186,
+      "likes": 99,
+      "comments": 144,
+      "active_days": 1,
+      "change": 13
     },
     {
       "title": "등에 구멍난걸로 베스트갈 수 있나?(혐짤주의)",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-02T01:18:55.067443+09:00"
         }
       },
-      "score": 106.51,
+      "score": 106.28,
       "views": 17398,
       "likes": 162,
       "comments": 94,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "대환장 BYD 근황",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-02T15:55:08.917874+09:00"
         }
       },
-      "score": 106.27,
+      "score": 106.03,
       "views": 23414,
       "likes": 105,
       "comments": 109,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "32세 여성 공무원이 원하는 결혼조건.jpg",
@@ -233,12 +291,12 @@
           "last_seen": "2026-10-02T15:55:08.917874+09:00"
         }
       },
-      "score": 106.21,
+      "score": 105.97,
       "views": 39992,
       "likes": 137,
       "comments": 200,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
@@ -262,70 +320,12 @@
           "last_seen": "2026-10-02T09:50:11.289667+09:00"
         }
       },
-      "score": 105.52,
+      "score": 105.29,
       "views": 15148,
       "likes": 67,
       "comments": 44,
       "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "일본이 한국 드라마를 못 따라오는 이유.",
-      "source": "루리웹",
-      "category": "연예",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876254?m=humor",
-      "first_seen": "2026-10-02T09:50:11.289667+09:00",
-      "last_seen": "2026-10-02T09:50:11.289667+09:00",
-      "peak_score": 96.59,
-      "max_views": 24213,
-      "max_likes": 89,
-      "max_comments": 54,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-02": {
-          "max_score": 96.59,
-          "max_views": 24213,
-          "max_likes": 89,
-          "max_comments": 54,
-          "appearances": 1,
-          "last_seen": "2026-10-02T09:50:11.289667+09:00"
-        }
-      },
-      "score": 105.27,
-      "views": 24213,
-      "likes": 89,
-      "comments": 54,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "메모리 제작사들이 존나게 표독해진 이유.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76881382?m=humor",
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-10-02T19:12:07.909187+09:00",
-      "peak_score": 95.75,
-      "max_views": 20841,
-      "max_likes": 150,
-      "max_comments": 100,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-02": {
-          "max_score": 95.75,
-          "max_views": 20841,
-          "max_likes": 150,
-          "max_comments": 100,
-          "appearances": 1,
-          "last_seen": "2026-10-02T19:12:07.909187+09:00"
-        }
-      },
-      "score": 105.21,
-      "views": 20841,
-      "likes": 150,
-      "comments": 100,
-      "active_days": 1,
-      "change": 0
+      "change": -2
     }
   ],
   "rising": [
@@ -334,190 +334,50 @@
       "title": "겜사면 페미한테 돈 들어가는 겜.....jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467457&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 2812,
-      "likes": 47,
-      "comments": 72,
-      "score": 69.24,
-      "change": 0,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 95,
-      "delta_likes": 2,
-      "delta_comments": 2,
-      "rank_gain": 0,
-      "rising_score": 93.06,
-      "rising_rank": 1,
-      "window_minutes": 1
-    },
-    {
-      "source": "인벤",
-      "title": "게임에서 게를 삭제했더니 수위가 증가하는 버그 발생.jpg",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735484",
-      "category": "게임",
-      "views": 1735,
-      "likes": 0,
-      "comments": 6,
-      "score": 61.05,
+      "views": 14888,
+      "likes": 137,
+      "comments": 247,
+      "score": 71.97,
       "change": 3,
-      "current_rank": 50,
+      "current_rank": 19,
       "new_entry": false,
-      "delta_views": 20,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_views": 12076,
+      "delta_likes": 90,
+      "delta_comments": 175,
       "rank_gain": 3,
-      "rising_score": 92.06,
+      "rising_score": 91.88,
+      "rising_rank": 1,
+      "window_minutes": 169
+    },
+    {
+      "source": "루리웹",
+      "title": "현재 중국내 전기차 운전자들 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882483?m=humor",
+      "category": "이슈",
+      "views": 26309,
+      "likes": 173,
+      "comments": 103,
+      "score": 98.96,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.56,
       "rising_rank": 2,
-      "window_minutes": 1
-    },
-    {
-      "source": "인벤",
-      "title": "가수 겸 배우 탑·나나, 5개월째 열애…\"뮤직비디오 촬영 인연\"",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735501",
-      "category": "연예",
-      "views": 123,
-      "likes": 0,
-      "comments": 1,
-      "score": 60.03,
-      "change": 2,
-      "current_rank": 56,
-      "new_entry": false,
-      "delta_views": 27,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 2,
-      "rising_score": 91.7,
-      "rising_rank": 3,
-      "window_minutes": 1
+      "window_minutes": 169
     },
     {
       "source": "루리웹",
-      "title": "할배들 풀발기 하는 전개",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76884671?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 1194,
-      "likes": 29,
-      "comments": 8,
-      "score": 58.47,
-      "change": 21,
-      "current_rank": 66,
-      "new_entry": false,
-      "delta_views": 926,
-      "delta_likes": 17,
-      "delta_comments": 7,
-      "rank_gain": 21,
-      "rising_score": 91.11,
-      "rising_rank": 4,
-      "window_minutes": 1
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 또다시 바뀌는거 같다는 대한민국 직업메타",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467451&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 6672,
-      "likes": 22,
-      "comments": 99,
-      "score": 68.04,
-      "change": 0,
-      "current_rank": 26,
-      "new_entry": false,
-      "delta_views": 56,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 90.0,
-      "rising_rank": 5,
-      "window_minutes": 1
-    },
-    {
-      "source": "인벤",
-      "title": "'페이커가 여자였으면 지금 그 위치에 있었겠냐'라는 논리에 정면으로 반박 가능한 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735495",
-      "category": "이슈",
-      "views": 1233,
-      "likes": 0,
-      "comments": 10,
-      "score": 75.55,
-      "change": 0,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 19,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 90.0,
-      "rising_rank": 6,
-      "window_minutes": 1
-    },
-    {
-      "source": "더쿠",
-      "title": "요즘 논쟁이라는 설거지 문제",
-      "url": "https://theqoo.net/hot/4363285611",
+      "title": "한문철티비 레전드 갱신.mp4",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882747?m=humor",
       "category": "유머",
-      "views": 21962,
-      "likes": 0,
-      "comments": 397,
-      "score": 80.0,
-      "change": 4,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 455,
-      "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 4,
-      "rising_score": 89.87,
-      "rising_rank": 7,
-      "window_minutes": 1
-    },
-    {
-      "source": "클리앙",
-      "title": "오세훈 잘 가세요",
-      "url": "https://www.clien.net/service/board/park/19272782?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2471,
-      "likes": 3,
-      "comments": 10,
-      "score": 79.74,
-      "change": 0,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 21,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 89.29,
-      "rising_rank": 8,
-      "window_minutes": 1
-    },
-    {
-      "source": "디시인사이드",
-      "title": "발로란트 대회 무선마우스 막아서 난리났우ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467445&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 17195,
-      "likes": 49,
-      "comments": 291,
-      "score": 80.14,
-      "change": 2,
-      "current_rank": 4,
-      "new_entry": false,
-      "delta_views": 28,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 2,
-      "rising_score": 82.76,
-      "rising_rank": 9,
-      "window_minutes": 1
-    },
-    {
-      "source": "루리웹",
-      "title": "일손부족에 시달리는 일본 편의점 업계의 비상대책",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76880844?m=humor",
-      "category": "생활",
-      "views": 23829,
-      "likes": 225,
-      "comments": 101,
-      "score": 95.5,
+      "views": 21186,
+      "likes": 99,
+      "comments": 144,
+      "score": 96.61,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -525,9 +385,149 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.11,
+      "rising_score": 82.58,
+      "rising_rank": 3,
+      "window_minutes": 169
+    },
+    {
+      "source": "루리웹",
+      "title": "한강에 외국인 많아짐",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76884539?m=humor",
+      "category": "이슈",
+      "views": 21179,
+      "likes": 68,
+      "comments": 94,
+      "score": 92.59,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.89,
+      "rising_rank": 4,
+      "window_minutes": 169
+    },
+    {
+      "source": "인벤",
+      "title": "진짜 개열받은 김민재의 인터뷰",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735555",
+      "category": "이슈",
+      "views": 1798,
+      "likes": 0,
+      "comments": 8,
+      "score": 86.06,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.15,
+      "rising_rank": 5,
+      "window_minutes": 169
+    },
+    {
+      "source": "디시인사이드",
+      "title": "백종원 볶음고추장 신작 요약",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467481&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11845,
+      "likes": 297,
+      "comments": 219,
+      "score": 85.18,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.78,
+      "rising_rank": 6,
+      "window_minutes": 169
+    },
+    {
+      "source": "뽐뿌",
+      "title": "비만약 \"마운자로\" 규제하는 유일한 국가",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139331",
+      "category": "이슈",
+      "views": 21180,
+      "likes": 40,
+      "comments": 80,
+      "score": 84.39,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.44,
+      "rising_rank": 7,
+      "window_minutes": 169
+    },
+    {
+      "source": "인벤",
+      "title": "인간관계에서 무서운 사람 특징",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735548",
+      "category": "이슈",
+      "views": 1996,
+      "likes": 5,
+      "comments": 18,
+      "score": 83.3,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.99,
+      "rising_rank": 8,
+      "window_minutes": 169
+    },
+    {
+      "source": "루리웹",
+      "title": "(플레이샵)플레이샵 어플 전용 20%할인쿠폰 최대 1만원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107738",
+      "category": "이슈",
+      "views": 20109,
+      "likes": 21,
+      "comments": 39,
+      "score": 81.9,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.4,
+      "rising_rank": 9,
+      "window_minutes": 169
+    },
+    {
+      "source": "디시인사이드",
+      "title": "오싹오싹 못생녀의 인생",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467479&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12747,
+      "likes": 59,
+      "comments": 320,
+      "score": 80.94,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.99,
       "rising_rank": 10,
-      "window_minutes": 1
+      "window_minutes": 169
     }
   ],
   "issues": [
@@ -572,6 +572,100 @@
       "change": 0
     },
     {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 4,
+      "post_count": 6,
+      "score": 119.07,
+      "peak_score": 94.14,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
+          "score": 63.8
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 59,
+          "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
+          "score": 61.77
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 71,
+          "title": "암살자(들) 로튼토마토 신선도 100%",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91737",
+          "score": 58.95
+        },
+        {
+          "source": "더쿠",
+          "rank": 100,
+          "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
+          "url": "https://theqoo.net/hot/4363333047",
+          "score": 50.21
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-02T22:46:48.454633+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
+      "rank": 2,
+      "change": 2
+    },
+    {
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "10월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 117.33,
+      "peak_score": 105.84,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 81,
+          "title": "방송사 메인 뉴스 TOP 4 - 2026년 10월 2일(261002)",
+          "url": "https://www.clien.net/service/board/park/19272857?od=T31&po=0&category=0&groupCd=",
+          "score": 55.79
+        },
+        {
+          "source": "인벤",
+          "rank": 97,
+          "title": "넷플릭스 10월 신작 라인업",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735535",
+          "score": 51.97
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-02T22:46:48.454633+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 0
+    },
+    {
       "id": "i70f39dd0",
       "title": "‘byd’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -606,93 +700,8 @@
       "last_seen": "2026-10-02T15:55:08.917874+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "if6b2d7b7",
-      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "10월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 115.31,
-      "peak_score": 105.84,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
-          "score": 96.84
-        },
-        {
-          "source": "인벤",
-          "rank": 83,
-          "title": "좀 빡센 10월 1일부터 시행되는 음식점 위생기준",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735162",
-          "score": 53.78
-        }
-      ],
-      "first_seen": "2026-10-01T08:10:08.976041+09:00",
-      "last_seen": "2026-10-02T09:50:11.289667+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자"
-      ],
-      "source_count": 3,
-      "post_count": 6,
-      "score": 113.63,
-      "peak_score": 94.14,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 10,
-          "title": "암살자(들)이 진보 진영에서는 환영 받는 영화라고 생각하시는 분도 있네요.",
-          "url": "https://www.clien.net/service/board/park/19272691?od=T31&po=0&category=0&groupCd=",
-          "score": 75.14
-        },
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "암살자(들) 보고나 좀 입열었으면 좋겠다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735386",
-          "score": 68.88
-        },
-        {
-          "source": "더쿠",
-          "rank": 77,
-          "title": "하태경 “암살자(들) 배우 광고 제품 불매...출연 영화·드라마 퇴출 운동 펼쳐야”",
-          "url": "https://theqoo.net/hot/4362962883",
-          "score": 56.42
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-02T15:55:08.917874+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 6,
       "rank": 4,
-      "change": 0
+      "change": -2
     },
     {
       "id": "i039fd79c",
@@ -778,6 +787,44 @@
       "change": 0
     },
     {
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마운자로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.86,
+      "peak_score": 93.39,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "비만약 \"마운자로\" 규제하는 유일한 국가",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139331",
+          "score": 84.39
+        },
+        {
+          "source": "더쿠",
+          "rank": 54,
+          "title": "현재 마운자로 규제가 이상하고 말도 안되는 이유",
+          "url": "https://theqoo.net/hot/4363358571",
+          "score": 62.53
+        }
+      ],
+      "first_seen": "2026-09-30T10:38:38.903426+09:00",
+      "last_seen": "2026-10-02T22:46:48.454633+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
       "id": "i1470468b",
       "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -812,8 +859,8 @@
       "last_seen": "2026-10-02T19:58:08.693928+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ic60c355d",
@@ -851,8 +898,8 @@
       "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i36a25170",
@@ -897,95 +944,105 @@
       "last_seen": "2026-10-02T15:55:08.917874+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "if91ac4c9",
-      "title": "‘박은정’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "박은정"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 97.97,
-      "peak_score": 87.5,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "박은정 의원 남편?",
-          "url": "https://www.clien.net/service/board/park/19272503?od=T31&po=0&category=0&groupCd=",
-          "score": 77.5
-        },
-        {
-          "source": "인벤",
-          "rank": 100,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 49.47
-        }
-      ],
-      "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 10,
-      "change": 0
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i1470468b",
-      "title": "‘또문철’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "또문철"
+        "암살자"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.53,
-      "peak_score": 81.53,
+      "source_count": 4,
+      "post_count": 4,
+      "score": 88.8,
+      "peak_score": 88.8,
       "appearances": 1,
       "sources": [
         "더쿠",
+        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "또문철 또전드 사건.gif",
-          "url": "https://theqoo.net/hot/4363253327",
-          "score": 72.53
+          "source": "인벤",
+          "rank": 45,
+          "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
+          "score": 63.8
         },
         {
-          "source": "인벤",
-          "rank": 75,
-          "title": "또문철 한전드 갱신",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735472",
-          "score": 55.79
+          "source": "디시인사이드",
+          "rank": 59,
+          "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
+          "score": 61.77
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 71,
+          "title": "암살자(들) 로튼토마토 신선도 100%",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91737",
+          "score": 58.95
+        },
+        {
+          "source": "더쿠",
+          "rank": 100,
+          "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
+          "url": "https://theqoo.net/hot/4363333047",
+          "score": 50.21
         }
       ],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "id": "i9505a5e2",
-      "title": "축구대표팀 베네수엘라전 선발라인업",
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "축구대표팀",
-        "선발라인업",
-        "베네수엘라전"
+        "마운자로"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.15,
-      "peak_score": 80.15,
+      "score": 93.39,
+      "peak_score": 93.39,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "비만약 \"마운자로\" 규제하는 유일한 국가",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139331",
+          "score": 84.39
+        },
+        {
+          "source": "더쿠",
+          "rank": 54,
+          "title": "현재 마운자로 규제가 이상하고 말도 안되는 이유",
+          "url": "https://theqoo.net/hot/4363358571",
+          "score": 62.53
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "iabe672dc",
+      "title": "‘김민재’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민재"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.38,
+      "peak_score": 84.38,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -995,65 +1052,101 @@
         {
           "source": "인벤",
           "rank": 17,
-          "title": "축구대표팀 베네수엘라전 선발라인업",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735500",
-          "score": 72.15
+          "title": "개빡친 김민재",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735553",
+          "score": 75.38
         },
         {
           "source": "클리앙",
-          "rank": 59,
-          "title": "축구대표팀 베네수엘라전 선발라인업",
-          "url": "https://www.clien.net/service/board/park/19272786?od=T31&po=0&category=0&groupCd=",
-          "score": 59.53
-        }
-      ],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "ia4c7959d",
-      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "좋아하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.68,
-      "peak_score": 76.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "연예인들 싹다 이광수버블 구독하고 팬들이 좋아하는 버블하는 법 좀 배워라",
-          "url": "https://theqoo.net/hot/4363255474",
-          "score": 67.68
-        },
-        {
-          "source": "인벤",
-          "rank": 92,
-          "title": "순하고 사람을 엄청 좋아하는 동물",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735476",
-          "score": 52.65
+          "rank": 88,
+          "title": "김민재 오늘 열 제대로 받았네요",
+          "url": "https://www.clien.net/service/board/park/19272843?od=T31&po=0&category=0&groupCd=",
+          "score": 54.13
         }
       ],
       "rank": 3,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i291a634f",
+      "title": "‘광대극’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "광대극",
+        "김여정"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 67.25,
-      "peak_score": 67.25,
+      "score": 77.32,
+      "peak_score": 77.32,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "김여정 \"한국이라는 족속, 소름 끼쳐\"…李대통령 '광대극 절정' 비난도",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467459&_dcbest=1&page=1",
+          "score": 68.32
+        },
+        {
+          "source": "클리앙",
+          "rank": 91,
+          "title": "김여정 “대통령이란 사람이… 혼자 보기 아까운 광대극”",
+          "url": "https://www.clien.net/service/board/park/19272844?od=T31&po=0&category=0&groupCd=",
+          "score": 53.77
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i9505a5e2",
+      "title": "베네수엘라전 0 대 0 무승부",
+      "keywords": [
+        "무승부",
+        "베네수엘라전"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.1,
+      "peak_score": 76.1,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 30,
+          "title": "베네수엘라전 0 대 0 무승부",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735550",
+          "score": 68.1
+        },
+        {
+          "source": "클리앙",
+          "rank": 69,
+          "title": "베네수엘라전 0 대 0 무승부",
+          "url": "https://www.clien.net/service/board/park/19272848?od=T31&po=0&category=0&groupCd=",
+          "score": 59.14
+        }
+      ],
+      "rank": 5,
+      "change": -3
+    },
+    {
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "10월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 64.79,
+      "peak_score": 64.79,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1062,287 +1155,247 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 68,
-          "title": "이재명 대통령,호남반도체 직원 주거비 지원 약속",
-          "url": "https://www.clien.net/service/board/park/19272768?od=T31&po=0&category=0&groupCd=",
-          "score": 58.25
+          "rank": 81,
+          "title": "방송사 메인 뉴스 TOP 4 - 2026년 10월 2일(261002)",
+          "url": "https://www.clien.net/service/board/park/19272857?od=T31&po=0&category=0&groupCd=",
+          "score": 55.79
         },
         {
           "source": "인벤",
-          "rank": 73,
-          "title": "친윤검사 계속 비호하는 이재명 대통령",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735485",
-          "score": 57.07
+          "rank": 97,
+          "title": "넷플릭스 10월 신작 라인업",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735535",
+          "score": 51.97
         }
       ],
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 116.28,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 39,
+      "keyword": "암살자",
+      "score": 140.17,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 45,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 101.05,
-      "post_count": 2,
+      "keyword": "김민재",
+      "score": 106.24,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 11
+      "change": "NEW"
     },
     {
-      "keyword": "직접",
-      "score": 96.74,
+      "keyword": "마운자로",
+      "score": 100.51,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 6,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "keyword": "잃은",
-      "score": 93.63,
+      "keyword": "신작",
+      "score": 94.45,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "베네수엘라전",
-      "score": 92.61,
+      "keyword": "다시",
+      "score": 91.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 37,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "박정희",
+      "score": 90.87,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 29,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "베네수엘라전",
+      "score": 88.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 30,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [
-        "선발라인업",
-        "축구대표팀"
+        "무승부"
       ],
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "keyword": "또문철",
-      "score": 91.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": -2
-    },
-    {
-      "keyword": "사과",
-      "score": 85.14,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 31,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 7,
-      "change": -1
-    },
-    {
-      "keyword": "좋아하",
-      "score": 84.81,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 27,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "keyword": "영화",
-      "score": 84.5,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 32,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "keyword": "주인",
-      "score": 83.05,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "발언",
-      "score": 81.88,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 46,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": -1
-    },
-    {
-      "keyword": "이재명",
-      "score": 81.46,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 68,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": -3
-    },
-    {
-      "keyword": "있다",
-      "score": 78.95,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 77,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 13,
       "change": -2
     },
     {
-      "keyword": "아재",
-      "score": 78.04,
+      "keyword": "미친",
+      "score": 86.46,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 65,
+      "best_rank": 49,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": -2
+      "rank": 8,
+      "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 76.87,
+      "keyword": "김여정",
+      "score": 85.05,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 76,
+      "best_rank": 28,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
+      "aliases": [
+        "광대극"
+      ],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "한국",
+      "score": 83.05,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 52,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
       "aliases": [],
-      "rank": 15,
-      "change": -1
+      "rank": 10,
+      "change": -9
+    },
+    {
+      "keyword": "10월",
+      "score": 75.97,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 81,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 75.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 82,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "레전드 G70 암행순찰차 초과속 단속",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882804?m=humor",
-      "score": 97.71,
-      "views": 15073,
-      "comments": 93
-    },
-    {
-      "source": "디시인사이드",
-      "title": "발로란트 대회 무선마우스 막아서 난리났우ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467445&_dcbest=1&page=1",
-      "score": 80.14,
-      "views": 17195,
-      "comments": 291
-    },
-    {
-      "source": "더쿠",
-      "title": "요즘 논쟁이라는 설거지 문제",
-      "url": "https://theqoo.net/hot/4363285611",
-      "score": 80.0,
-      "views": 21962,
-      "comments": 397
-    },
-    {
-      "source": "클리앙",
-      "title": "오세훈 잘 가세요",
-      "url": "https://www.clien.net/service/board/park/19272782?od=T31&po=0&category=0&groupCd=",
-      "score": 79.74,
-      "views": 2471,
-      "comments": 10
-    },
-    {
-      "source": "뽐뿌",
-      "title": "이세미 시의원 '제명' 징계청원한 김진명 잡으러 가는 중..",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139127",
-      "score": 76.64,
-      "views": 5944,
-      "comments": 23
+      "title": "현재 중국내 전기차 운전자들 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76882483?m=humor",
+      "score": 98.96,
+      "views": 26309,
+      "comments": 103
     },
     {
       "source": "인벤",
-      "title": "'페이커가 여자였으면 지금 그 위치에 있었겠냐'라는 논리에 정면으로 반박 가능한 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735495",
-      "score": 75.55,
-      "views": 1233,
-      "comments": 10
+      "title": "진짜 개열받은 김민재의 인터뷰",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735555",
+      "score": 86.06,
+      "views": 1798,
+      "comments": 8
+    },
+    {
+      "source": "디시인사이드",
+      "title": "백종원 볶음고추장 신작 요약",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467481&_dcbest=1&page=1",
+      "score": 85.18,
+      "views": 11845,
+      "comments": 219
+    },
+    {
+      "source": "뽐뿌",
+      "title": "비만약 \"마운자로\" 규제하는 유일한 국가",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139331",
+      "score": 84.39,
+      "views": 21180,
+      "comments": 80
+    },
+    {
+      "source": "클리앙",
+      "title": "제 2의 황우석?",
+      "url": "https://www.clien.net/service/board/park/19272854?od=T31&po=0&category=0&groupCd=",
+      "score": 77.66,
+      "views": 1145,
+      "comments": 8
+    },
+    {
+      "source": "더쿠",
+      "title": "이광수가 새로 삿다는 가방의 정체가..ㅋㅋ",
+      "url": "https://theqoo.net/hot/4363395376",
+      "score": 67.68,
+      "views": 44462,
+      "comments": 182
     }
   ]
 }
