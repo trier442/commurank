@@ -24,7 +24,7 @@ PERIODS = {
     "monthly": ("월간", "월간 단위 커뮤니티 인기글 TOP100"),
 }
 
-COMMUNITIES = ["dcinside", "fmkorea", "theqoo", "ruliweb", "clien", "inven", "ppomppu"]
+COMMUNITIES = ["dcinside", "theqoo", "ruliweb", "clien", "inven", "ppomppu"]
 
 
 def read_json(path: Path, default):
@@ -165,7 +165,7 @@ def archive_page(period: str, item: dict, snap: dict) -> str:
     posts = snap.get("posts", []) if isinstance(snap, dict) else []
     canonical = f"{BASE}/ranking/{period}/{item['key']}/"
     title = f"{display_label} 커뮤니티 인기글 순위 TOP100 | 커뮤랭크"
-    description = f"{display_label} {period_label} 커뮤니티 인기글 순위 TOP100. 디시인사이드·에펨코리아·더쿠·루리웹·클리앙·인벤·뽐뿌 공개 인기글 반응을 통합해 정리합니다."
+    description = f"{display_label} {period_label} 커뮤니티 인기글 순위 TOP100. 디시인사이드·더쿠·루리웹·클리앙·인벤·뽐뿌 공개 인기글 반응을 통합해 정리합니다."
 
     item_list = {
         "@context": "https://schema.org",
