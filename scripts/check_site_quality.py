@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-# Quality gate version: 10
+# Quality gate version: 11
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -126,7 +126,6 @@ analytics_public_pages = [
     "my/index.html",
     "status/index.html",
     "community/dcinside/index.html",
-    "community/fmkorea/index.html",
     "community/theqoo/index.html",
     "community/ruliweb/index.html",
     "community/clien/index.html",
@@ -158,7 +157,6 @@ for page in ["ranking/index.html", "briefing/archive/index.html", "reports/weekl
 # Community long-tail SEO checks
 community_expectations = {
     "community/dcinside/index.html": "디시인사이드 인기글 순위·급상승",
-    "community/fmkorea/index.html": "에펨코리아 인기글 순위·급상승",
     "community/theqoo/index.html": "더쿠 인기글 순위·급상승",
     "community/ruliweb/index.html": "루리웹 인기글 순위·급상승",
     "community/clien/index.html": "클리앙 인기글 순위·급상승",
