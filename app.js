@@ -21,7 +21,6 @@ let archiveData = null;
 
 const communitySlug = {
   "디시인사이드":"dcinside",
-  "에펨코리아":"fmkorea",
   "더쿠":"theqoo",
   "루리웹":"ruliweb",
   "클리앙":"clien",
