@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-02",
   "label": "2026년 10월 02일",
-  "collected_at": "2026-10-02T08:02:02.016440+09:00",
+  "collected_at": "2026-10-02T09:50:11.289667+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘문재인’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #누가. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘10월’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 11,
-    "keywords": 10,
-    "top100_views": 1114600,
-    "top100_comments": 9902
+    "daily_issues": 17,
+    "keywords": 13,
+    "top100_views": 752839,
+    "top100_comments": 8007
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘문재인’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ic60c355d"
+      "issue_id": "if6b2d7b7"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#누가",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "누가"
+      "title": "#한국",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,12 +59,70 @@
           "last_seen": "2026-10-02T01:18:55.067443+09:00"
         }
       },
-      "score": 107.51,
+      "score": 107.35,
       "views": 17398,
       "likes": 162,
       "comments": 94,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "peak_score": 96.84,
+      "max_views": 15148,
+      "max_likes": 67,
+      "max_comments": 44,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-02": {
+          "max_score": 96.84,
+          "max_views": 15148,
+          "max_likes": 67,
+          "max_comments": 44,
+          "appearances": 1,
+          "last_seen": "2026-10-02T09:50:11.289667+09:00"
+        }
+      },
+      "score": 106.36,
+      "views": 15148,
+      "likes": 67,
+      "comments": 44,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "일본이 한국 드라마를 못 따라오는 이유.",
+      "source": "루리웹",
+      "category": "연예",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876254?m=humor",
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "peak_score": 96.59,
+      "max_views": 24213,
+      "max_likes": 89,
+      "max_comments": 54,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-02": {
+          "max_score": 96.59,
+          "max_views": 24213,
+          "max_likes": 89,
+          "max_comments": 54,
+          "appearances": 1,
+          "last_seen": "2026-10-02T09:50:11.289667+09:00"
+        }
+      },
+      "score": 106.11,
+      "views": 24213,
+      "likes": 89,
+      "comments": 54,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "집 인테리어 다 끝났다",
@@ -88,12 +146,12 @@
           "last_seen": "2026-10-02T08:02:02.016440+09:00"
         }
       },
-      "score": 106.19,
+      "score": 106.04,
       "views": 8503,
       "likes": 75,
       "comments": 50,
       "active_days": 1,
-      "change": 1
+      "change": -2
     },
     {
       "title": "한국의 신이 그대들을 심판할지어다",
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-02T01:18:55.067443+09:00"
         }
       },
-      "score": 105.99,
+      "score": 105.83,
       "views": 18600,
       "likes": 150,
       "comments": 101,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "맹물라면을 누가 먹냐고?",
@@ -146,12 +204,41 @@
           "last_seen": "2026-10-02T08:02:02.016440+09:00"
         }
       },
-      "score": 105.63,
+      "score": 105.48,
       "views": 12237,
       "likes": 45,
       "comments": 62,
       "active_days": 1,
-      "change": 0
+      "change": -2
+    },
+    {
+      "title": "싱글벙글 인천 동네 수준에 진심으로 현타온 유재석",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467292&_dcbest=1&page=1",
+      "first_seen": "2026-10-02T06:06:28.724750+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "peak_score": 92.79,
+      "max_views": 37442,
+      "max_likes": 185,
+      "max_comments": 734,
+      "appearances": 3,
+      "daily_stats": {
+        "2026-10-02": {
+          "max_score": 92.79,
+          "max_views": 37442,
+          "max_likes": 185,
+          "max_comments": 734,
+          "appearances": 3,
+          "last_seen": "2026-10-02T09:50:11.289667+09:00"
+        }
+      },
+      "score": 103.84,
+      "views": 37442,
+      "likes": 185,
+      "comments": 734,
+      "active_days": 1,
+      "change": -1
     },
     {
       "title": "자칭 '엉덩이 둘레 100cm' 일본의 유부녀 떡인지 만화가",
@@ -175,41 +262,41 @@
           "last_seen": "2026-10-02T08:02:02.016440+09:00"
         }
       },
-      "score": 103.77,
+      "score": 103.62,
       "views": 24787,
       "likes": 92,
       "comments": 36,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "title": "싱글벙글 인천 동네 수준에 진심으로 현타온 유재석",
-      "source": "디시인사이드",
+      "title": "대만 택시 기사 근황",
+      "source": "루리웹",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467292&_dcbest=1&page=1",
-      "first_seen": "2026-10-02T06:06:28.724750+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "peak_score": 92.79,
-      "max_views": 32473,
-      "max_likes": 157,
-      "max_comments": 633,
-      "appearances": 2,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876932?m=humor",
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "peak_score": 93.83,
+      "max_views": 12889,
+      "max_likes": 85,
+      "max_comments": 55,
+      "appearances": 1,
       "daily_stats": {
         "2026-10-02": {
-          "max_score": 92.79,
-          "max_views": 32473,
-          "max_likes": 157,
-          "max_comments": 633,
-          "appearances": 2,
-          "last_seen": "2026-10-02T08:02:02.016440+09:00"
+          "max_score": 93.83,
+          "max_views": 12889,
+          "max_likes": 85,
+          "max_comments": 55,
+          "appearances": 1,
+          "last_seen": "2026-10-02T09:50:11.289667+09:00"
         }
       },
-      "score": 103.21,
-      "views": 32473,
-      "likes": 157,
-      "comments": 633,
+      "score": 103.35,
+      "views": 12889,
+      "likes": 85,
+      "comments": 55,
       "active_days": 1,
-      "change": -1
+      "change": "NEW"
     },
     {
       "title": "코스피 지켜본 외신 세계 최악증시",
@@ -233,231 +320,144 @@
           "last_seen": "2026-10-02T08:02:02.016440+09:00"
         }
       },
-      "score": 99.64,
+      "score": 99.49,
       "views": 29960,
       "likes": 51,
       "comments": 41,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "2차사고) 고속도로에서 5분만에 벌어진 사고들",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76874855?m=humor",
-      "first_seen": "2026-10-02T01:18:55.067443+09:00",
-      "last_seen": "2026-10-02T01:18:55.067443+09:00",
-      "peak_score": 88.63,
-      "max_views": 11590,
-      "max_likes": 48,
-      "max_comments": 82,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-02": {
-          "max_score": 88.63,
-          "max_views": 11590,
-          "max_likes": 48,
-          "max_comments": 82,
-          "appearances": 1,
-          "last_seen": "2026-10-02T01:18:55.067443+09:00"
-        }
-      },
-      "score": 97.6,
-      "views": 11590,
-      "likes": 48,
-      "comments": 82,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "후방 ㅡ 미스맥심콘테스트 s17파이널 진출자 4인 인스타",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735154",
-      "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "peak_score": 87.91,
-      "max_views": 4503,
-      "max_likes": 0,
-      "max_comments": 11,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-02": {
-          "max_score": 87.91,
-          "max_views": 4503,
-          "max_likes": 0,
-          "max_comments": 11,
-          "appearances": 1,
-          "last_seen": "2026-10-02T08:02:02.016440+09:00"
-        }
-      },
-      "score": 97.43,
-      "views": 4503,
-      "likes": 0,
-      "comments": 11,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "박정희 대통령님 감사합니다. 덕분에 모공에 글 씁니다 ㅜ",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19272490?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-02T06:06:28.724750+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "peak_score": 86.5,
-      "max_views": 7969,
-      "max_likes": 15,
-      "max_comments": 78,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-02": {
-          "max_score": 86.5,
-          "max_views": 7969,
-          "max_likes": 15,
-          "max_comments": 78,
-          "appearances": 2,
-          "last_seen": "2026-10-02T08:02:02.016440+09:00"
-        }
-      },
-      "score": 96.92,
-      "views": 7969,
-      "likes": 15,
-      "comments": 78,
-      "active_days": 1,
-      "change": -1
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "우웩우웩 노포는 냄새나서 싫다는 여자들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467278&_dcbest=1&page=1",
+      "source": "인벤",
+      "title": "아침 ㅇㅎ 자료 날려서 땜빵용 아기 시고르자브",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735156",
       "category": "이슈",
-      "views": 29956,
-      "likes": 204,
-      "comments": 436,
-      "score": 79.5,
+      "views": 5446,
+      "likes": 11,
+      "comments": 14,
+      "score": 53.27,
       "change": 0,
-      "current_rank": 9,
+      "current_rank": 86,
       "new_entry": false,
-      "delta_views": 6802,
-      "delta_likes": 36,
-      "delta_comments": 56,
+      "delta_views": 4351,
+      "delta_likes": 8,
+      "delta_comments": 6,
       "rank_gain": 0,
-      "rising_score": 93.45,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 116
+      "window_minutes": 108
+    },
+    {
+      "source": "디시인사이드",
+      "title": "전쟁나길 바라는 북한주민들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467299&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 10834,
+      "likes": 56,
+      "comments": 249,
+      "score": 68.92,
+      "change": 27,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 7675,
+      "delta_likes": 46,
+      "delta_comments": 178,
+      "rank_gain": 27,
+      "rising_score": 97.19,
+      "rising_rank": 2,
+      "window_minutes": 108
     },
     {
       "source": "디시인사이드",
       "title": "문재인 레전드.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467288&_dcbest=1&page=1",
       "category": "유머",
-      "views": 17363,
-      "likes": 190,
-      "comments": 299,
-      "score": 79.59,
-      "change": 1,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 6147,
-      "delta_likes": 55,
-      "delta_comments": 73,
-      "rank_gain": 1,
-      "rising_score": 91.81,
-      "rising_rank": 2,
-      "window_minutes": 116
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 인천 동네 수준에 진심으로 현타온 유재석",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467292&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 32473,
-      "likes": 157,
-      "comments": 633,
-      "score": 87.24,
+      "views": 22521,
+      "likes": 228,
+      "comments": 370,
+      "score": 71.22,
       "change": 0,
-      "current_rank": 5,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 6705,
-      "delta_likes": 33,
-      "delta_comments": 226,
+      "delta_views": 5158,
+      "delta_likes": 38,
+      "delta_comments": 71,
       "rank_gain": 0,
-      "rising_score": 91.61,
+      "rising_score": 82.99,
       "rising_rank": 3,
-      "window_minutes": 116
-    },
-    {
-      "source": "더쿠",
-      "title": "6개 이상 먹어봤으면 늙크크.jpg",
-      "url": "https://theqoo.net/hot/4362540790",
-      "category": "이슈",
-      "views": 28350,
-      "likes": 0,
-      "comments": 175,
-      "score": 52.05,
-      "change": 0,
-      "current_rank": 91,
-      "new_entry": false,
-      "delta_views": 14789,
-      "delta_likes": 0,
-      "delta_comments": 68,
-      "rank_gain": 0,
-      "rising_score": 85.04,
-      "rising_rank": 4,
-      "window_minutes": 116
-    },
-    {
-      "source": "인벤",
-      "title": "메타 '뮤즈' 22일 만에 500만 다운로드…중개 플랫폼 광고 수익 흔든다",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735148",
-      "category": "이슈",
-      "views": 3354,
-      "likes": 1,
-      "comments": 1,
-      "score": 61.58,
-      "change": 0,
-      "current_rank": 52,
-      "new_entry": false,
-      "delta_views": 1830,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 84.38,
-      "rising_rank": 5,
-      "window_minutes": 116
-    },
-    {
-      "source": "클리앙",
-      "title": "박정희 대통령님 감사합니다. 덕분에 모공에 글 씁니다 ㅜ",
-      "url": "https://www.clien.net/service/board/park/19272490?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 7969,
-      "likes": 15,
-      "comments": 78,
-      "score": 71.1,
-      "change": 0,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 3697,
-      "delta_likes": 9,
-      "delta_comments": 10,
-      "rank_gain": 0,
-      "rising_score": 83.19,
-      "rising_rank": 6,
-      "window_minutes": 116
+      "window_minutes": 108
     },
     {
       "source": "루리웹",
-      "title": "자칭 '엉덩이 둘레 100cm' 일본의 유부녀 떡인지 만화가",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76875625?m=humor",
+      "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
       "category": "이슈",
-      "views": 24787,
-      "likes": 92,
-      "comments": 36,
-      "score": 94.25,
+      "views": 15148,
+      "likes": 67,
+      "comments": 44,
+      "score": 96.84,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.67,
+      "rising_rank": 4,
+      "window_minutes": 108
+    },
+    {
+      "source": "디시인사이드",
+      "title": "우웩우웩 노포는 냄새나서 싫다는 여자들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467278&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 36615,
+      "likes": 240,
+      "comments": 485,
+      "score": 68.66,
+      "change": 0,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 6659,
+      "delta_likes": 36,
+      "delta_comments": 49,
+      "rank_gain": 0,
+      "rising_score": 82.64,
+      "rising_rank": 5,
+      "window_minutes": 108
+    },
+    {
+      "source": "루리웹",
+      "title": "일본이 한국 드라마를 못 따라오는 이유.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876254?m=humor",
+      "category": "연예",
+      "views": 24213,
+      "likes": 89,
+      "comments": 54,
+      "score": 96.59,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.57,
+      "rising_rank": 6,
+      "window_minutes": 108
+    },
+    {
+      "source": "루리웹",
+      "title": "대만 택시 기사 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876932?m=humor",
+      "category": "이슈",
+      "views": 12889,
+      "likes": 85,
+      "comments": 55,
+      "score": 93.83,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -465,39 +465,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.59,
+      "rising_score": 81.41,
       "rising_rank": 7,
-      "window_minutes": 116
+      "window_minutes": 108
     },
     {
-      "source": "인벤",
-      "title": "난 수능 때 아무도 뭘 안 줘서 내가 편의점에서",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735149",
-      "category": "생활",
-      "views": 3993,
+      "source": "더쿠",
+      "title": "이광수 : 애들아일어나라 버블할시간이야",
+      "url": "https://theqoo.net/hot/4362685177",
+      "category": "유머",
+      "views": 52119,
       "likes": 0,
-      "comments": 5,
-      "score": 73.94,
-      "change": 43,
-      "current_rank": 19,
+      "comments": 519,
+      "score": 77.21,
+      "change": 24,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 3715,
+      "delta_views": 38094,
       "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 43,
-      "rising_score": 80.38,
+      "delta_comments": 352,
+      "rank_gain": 24,
+      "rising_score": 78.33,
       "rising_rank": 8,
-      "window_minutes": 116
+      "window_minutes": 108
     },
     {
       "source": "인벤",
-      "title": "후방 ㅡ 미스맥심콘테스트 s17파이널 진출자 4인 인스타",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735154",
+      "title": "게으른 사람이 전원주택에 살면 안되는 이유.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735189",
       "category": "이슈",
-      "views": 4503,
+      "views": 1067,
       "likes": 0,
-      "comments": 11,
-      "score": 87.91,
+      "comments": 18,
+      "score": 79.33,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -505,32 +505,70 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.92,
+      "rising_score": 75.32,
       "rising_rank": 9,
-      "window_minutes": 116
+      "window_minutes": 108
     },
     {
-      "source": "인벤",
-      "title": "10대에게 징역때린 미국판사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735153",
+      "source": "디시인사이드",
+      "title": "싱글벙글 인천 동네 수준에 진심으로 현타온 유재석",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467292&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 4105,
-      "likes": 5,
-      "comments": 11,
-      "score": 86.87,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 37442,
+      "likes": 185,
+      "comments": 734,
+      "score": 76.71,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 4969,
+      "delta_likes": 28,
+      "delta_comments": 101,
       "rank_gain": 0,
-      "rising_score": 78.49,
+      "rising_score": 74.65,
       "rising_rank": 10,
-      "window_minutes": 116
+      "window_minutes": 108
     }
   ],
   "issues": [
+    {
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "10월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.31,
+      "peak_score": 105.84,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
+          "score": 96.84
+        },
+        {
+          "source": "인벤",
+          "rank": 83,
+          "title": "좀 빡센 10월 1일부터 시행되는 음식점 위생기준",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735162",
+          "score": 53.78
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ic60c355d",
       "title": "‘문재인’ 관련 글이 여러 커뮤니티에서 화제",
@@ -539,35 +577,36 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 98.06,
+      "score": 100.08,
       "peak_score": 88.59,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 16,
           "title": "문재인 레전드.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467288&_dcbest=1&page=1",
-          "score": 79.59
+          "score": 71.22
         },
         {
-          "source": "뽐뿌",
-          "rank": 22,
-          "title": "문재인 정부 SNS 메시지 관리 . feat 조국",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138641",
-          "score": 71.87
+          "source": "클리앙",
+          "rank": 65,
+          "title": "누가 누구를 지켜주나(feat 문재인 대통령)",
+          "url": "https://www.clien.net/service/board/park/19272540?od=T31&po=0&category=0&groupCd=",
+          "score": 57.58
         }
       ],
       "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "if91ac4c9",
@@ -604,7 +643,45 @@
       "last_seen": "2026-10-02T08:02:02.016440+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 2,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i13e45c01",
+      "title": "‘이광수’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이광수"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.68,
+      "peak_score": 86.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 5,
+          "title": "이광수 : 애들아일어나라 버블할시간이야",
+          "url": "https://theqoo.net/hot/4362685177",
+          "score": 77.21
+        },
+        {
+          "source": "인벤",
+          "rank": 22,
+          "title": "버블에 중독된 이광수",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735175",
+          "score": 68.46
+        }
+      ],
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -642,7 +719,7 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 5,
       "change": -2
     },
     {
@@ -653,35 +730,36 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 92.15,
-      "peak_score": 78.22,
-      "appearances": 3,
+      "score": 93.83,
+      "peak_score": 78.78,
+      "appearances": 4,
       "sources": [
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "김지용, 박은정 남편 누가 더 별로인가요",
-          "url": "https://www.clien.net/service/board/park/19272510?od=T31&po=0&category=0&groupCd=",
-          "score": 61.1
+          "source": "뽐뿌",
+          "rank": 18,
+          "title": "[속보] 대통령, 김지용 중수청장 후보자 인사청문요청안 재가",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138695",
+          "score": 69.78
         },
         {
-          "source": "인벤",
-          "rank": 100,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 49.47
+          "source": "클리앙",
+          "rank": 30,
+          "title": "김지용 이 사람이 대한민국 수사 잘하는 원탑 입니까?",
+          "url": "https://www.clien.net/service/board/park/19272536?od=T31&po=0&category=0&groupCd=",
+          "score": 65.35
         }
       ],
       "first_seen": "2026-10-01T15:40:53.338507+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i50b33b63",
@@ -718,8 +796,46 @@
       "last_seen": "2026-10-02T01:18:55.067443+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -3
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i99094885",
+      "title": "‘여배우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "여배우"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.78,
+      "peak_score": 81.31,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 13,
+          "title": "한국남친이 만든 제육볶음 먹는게 꿈이라는 일본 여배우",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735181",
+          "score": 72.31
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "브라질 여배우 CG 논란",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76877590?m=humor_only&t=now",
+          "score": 53.05
+        }
+      ],
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "ie861fdd4",
@@ -756,7 +872,7 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 9,
       "change": -3
     },
     {
@@ -794,192 +910,112 @@
       "last_seen": "2026-10-02T01:18:55.067443+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
-    },
-    {
-      "id": "ib9056a9e",
-      "title": "‘중수청장’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "중수청장"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.16,
-      "peak_score": 75.67,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 61,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 60.01
-        },
-        {
-          "source": "클리앙",
-          "rank": 73,
-          "title": "중수청장 김지용이 킹메이커, 개국공신 되는 거 아닌지?",
-          "url": "https://www.clien.net/service/board/park/19272479?od=T31&po=0&category=0&groupCd=",
-          "score": 57.32
-        }
-      ],
-      "first_seen": "2026-10-02T01:18:55.067443+09:00",
-      "last_seen": "2026-10-02T06:06:28.724750+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "i97583b43",
-      "title": "‘망했다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "망했다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.47,
-      "peak_score": 75.0,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 37,
-          "title": "망했다는 아반떼 근황 ㄷㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978498",
-          "score": 66.0
-        },
-        {
-          "source": "루리웹",
-          "rank": 49,
-          "title": "완전히 망했다는 나이키 주식 근황.........jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876698?m=humor_only&t=now",
-          "score": 62.79
-        }
-      ],
-      "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i67f949c5",
-      "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "시작한"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 83.73,
-      "peak_score": 74.26,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 39,
-          "title": "젠더갈등에서부터 시작한 의문과 질문에 대한 ai의 결론 소름",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735145",
-          "score": 65.26
-        },
-        {
-          "source": "클리앙",
-          "rank": 63,
-          "title": "6개월 숙성시킨 오픈클로 vs 이제 막 쓰기 시작한 오픈AI의 닷",
-          "url": "https://www.clien.net/service/board/park/19272507?od=T31&po=0&category=0&groupCd=",
-          "score": 59.48
-        }
-      ],
-      "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "if91ac4c9",
-      "title": "‘박은정’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "박은정"
+        "10월"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 87.5,
-      "peak_score": 87.5,
+      "post_count": 2,
+      "score": 105.84,
+      "peak_score": 105.84,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "박은정 의원 남편?",
-          "url": "https://www.clien.net/service/board/park/19272503?od=T31&po=0&category=0&groupCd=",
-          "score": 77.5
+          "source": "루리웹",
+          "rank": 1,
+          "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
+          "score": 96.84
         },
         {
           "source": "인벤",
-          "rank": 100,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 49.47
+          "rank": 83,
+          "title": "좀 빡센 10월 1일부터 시행되는 음식점 위생기준",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735162",
+          "score": 53.78
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i62196098",
-      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i13e45c01",
+      "title": "‘이광수’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "김지용"
+        "이광수"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 71.1,
-      "peak_score": 71.1,
+      "post_count": 2,
+      "score": 86.21,
+      "peak_score": 86.21,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "김지용, 박은정 남편 누가 더 별로인가요",
-          "url": "https://www.clien.net/service/board/park/19272510?od=T31&po=0&category=0&groupCd=",
-          "score": 61.1
+          "source": "더쿠",
+          "rank": 5,
+          "title": "이광수 : 애들아일어나라 버블할시간이야",
+          "url": "https://theqoo.net/hot/4362685177",
+          "score": 77.21
         },
         {
           "source": "인벤",
-          "rank": 100,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 49.47
+          "rank": 22,
+          "title": "버블에 중독된 이광수",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735175",
+          "score": 68.46
         }
       ],
       "rank": 2,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "id": "i99094885",
+      "title": "‘여배우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "여배우"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.31,
+      "peak_score": 81.31,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 13,
+          "title": "한국남친이 만든 제육볶음 먹는게 꿈이라는 일본 여배우",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735181",
+          "score": 72.31
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "브라질 여배우 CG 논란",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76877590?m=humor_only&t=now",
+          "score": 53.05
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "ic60c355d",
@@ -989,76 +1025,110 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.59,
-      "peak_score": 88.59,
+      "score": 80.22,
+      "peak_score": 80.22,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "클리앙"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 16,
           "title": "문재인 레전드.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467288&_dcbest=1&page=1",
-          "score": 79.59
+          "score": 71.22
         },
         {
-          "source": "뽐뿌",
-          "rank": 22,
-          "title": "문재인 정부 SNS 메시지 관리 . feat 조국",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138641",
-          "score": 71.87
+          "source": "클리앙",
+          "rank": 65,
+          "title": "누가 누구를 지켜주나(feat 문재인 대통령)",
+          "url": "https://www.clien.net/service/board/park/19272540?od=T31&po=0&category=0&groupCd=",
+          "score": 57.58
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
-      "id": "i97583b43",
-      "title": "‘망했다는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i62196098",
+      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "망했다는"
+        "김지용"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.0,
-      "peak_score": 75.0,
+      "score": 78.78,
+      "peak_score": 78.78,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 37,
-          "title": "망했다는 아반떼 근황 ㄷㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978498",
-          "score": 66.0
+          "rank": 18,
+          "title": "[속보] 대통령, 김지용 중수청장 후보자 인사청문요청안 재가",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138695",
+          "score": 69.78
         },
         {
-          "source": "루리웹",
-          "rank": 49,
-          "title": "완전히 망했다는 나이키 주식 근황.........jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876698?m=humor_only&t=now",
-          "score": 62.79
+          "source": "클리앙",
+          "rank": 30,
+          "title": "김지용 이 사람이 대한민국 수사 잘하는 원탑 입니까?",
+          "url": "https://www.clien.net/service/board/park/19272536?od=T31&po=0&category=0&groupCd=",
+          "score": 65.35
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -3
     },
     {
-      "id": "i67f949c5",
-      "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "시작한"
+        "암살자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.26,
-      "peak_score": 74.26,
+      "score": 77.3,
+      "peak_score": 77.3,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 24,
+          "title": "암살자(들) 단체관람 비용 지원...미래에셋 등 경찰 고발",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467323&_dcbest=1&page=1",
+          "score": 68.3
+        },
+        {
+          "source": "더쿠",
+          "rank": 91,
+          "title": "[단독 인터뷰] \"암살자(들) 제작진, 박정희재단에 문의 단 한번도 없었다\"",
+          "url": "https://theqoo.net/hot/4362584015",
+          "score": 52.61
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.02,
+      "peak_score": 70.02,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1067,31 +1137,66 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 39,
-          "title": "젠더갈등에서부터 시작한 의문과 질문에 대한 ai의 결론 소름",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735145",
-          "score": 65.26
+          "rank": 48,
+          "title": "어제자 이재명 대통령 SNS....jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735177",
+          "score": 61.02
         },
         {
           "source": "클리앙",
-          "rank": 63,
-          "title": "6개월 숙성시킨 오픈클로 vs 이제 막 쓰기 시작한 오픈AI의 닷",
-          "url": "https://www.clien.net/service/board/park/19272507?od=T31&po=0&category=0&groupCd=",
-          "score": 59.48
+          "rank": 82,
+          "title": "이재명 대통령, 정청래 전 대표와 4시간 만찬 …",
+          "url": "https://www.clien.net/service/board/park/19272526?od=T31&po=0&category=0&groupCd=",
+          "score": 53.94
         }
       ],
-      "rank": 5,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "icb3e92e1",
+      "title": "‘feat’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "feat"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 68.84,
+      "peak_score": 68.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 57,
+          "title": "롯데월드가 쏘아올린 인외물 근황(feat.네맵)",
+          "url": "https://theqoo.net/hot/4362724804",
+          "score": 59.84
+        },
+        {
+          "source": "클리앙",
+          "rank": 65,
+          "title": "누가 누구를 지켜주나(feat 문재인 대통령)",
+          "url": "https://www.clien.net/service/board/park/19272540?od=T31&po=0&category=0&groupCd=",
+          "score": 57.58
+        }
+      ],
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "누가",
-      "score": 104.29,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 1,
+      "keyword": "한국",
+      "score": 127.94,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
+        "디시인사이드",
         "루리웹",
         "클리앙"
       ],
@@ -1101,180 +1206,222 @@
     },
     {
       "keyword": "문재인",
-      "score": 104.04,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
+      "score": 122.31,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 16,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "서울",
-      "score": 98.99,
+      "keyword": "일본",
+      "score": 110.39,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "박은정",
-      "score": 95.96,
-      "post_count": 3,
+      "keyword": "이광수",
+      "score": 104.64,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 5,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "인스타",
-      "score": 91.76,
+      "keyword": "김지용",
+      "score": 101.77,
       "post_count": 3,
-      "source_count": 1,
-      "best_rank": 4,
+      "source_count": 2,
+      "best_rank": 18,
       "sources": [
-        "인벤"
+        "뽐뿌",
+        "클리앙"
       ],
-      "aliases": [
-        "후방"
-      ],
+      "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "망했다",
-      "score": 89.95,
+      "keyword": "10월",
+      "score": 99.9,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 1,
       "sources": [
         "루리웹",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "시작한",
-      "score": 87.46,
+      "keyword": "여배우",
+      "score": 90.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 39,
+      "best_rank": 13,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "김지용",
-      "score": 85.16,
-      "post_count": 3,
+      "keyword": "암살자",
+      "score": 85.37,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 24,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 8,
-      "change": -7
+      "change": "NEW"
     },
     {
-      "keyword": "특징",
-      "score": 80.77,
+      "keyword": "ai",
+      "score": 85.26,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 48,
+      "best_rank": 49,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "깨질",
-      "score": 77.37,
+      "keyword": "대표",
+      "score": 85.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 74,
+      "best_rank": 32,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 10,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "keyword": "feat",
+      "score": 84.04,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 57,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "이재명",
+      "score": 82.73,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 48,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "만화",
+      "score": 82.33,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "맹물라면을 누가 먹냐고?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76875884?m=humor",
-      "score": 95.21,
-      "views": 12237,
-      "comments": 62
+      "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
+      "score": 96.84,
+      "views": 15148,
+      "comments": 44
     },
     {
       "source": "인벤",
-      "title": "후방 ㅡ 미스맥심콘테스트 s17파이널 진출자 4인 인스타",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735154",
-      "score": 87.91,
-      "views": 4503,
-      "comments": 11
+      "title": "게으른 사람이 전원주택에 살면 안되는 이유.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735189",
+      "score": 79.33,
+      "views": 1067,
+      "comments": 18
+    },
+    {
+      "source": "더쿠",
+      "title": "이광수 : 애들아일어나라 버블할시간이야",
+      "url": "https://theqoo.net/hot/4362685177",
+      "score": 77.21,
+      "views": 52119,
+      "comments": 519
+    },
+    {
+      "source": "뽐뿌",
+      "title": "암살자들 분위기가 심상치 않네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138723",
+      "score": 77.06,
+      "views": 13024,
+      "comments": 62
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 인천 동네 수준에 진심으로 현타온 유재석",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467292&_dcbest=1&page=1",
-      "score": 87.24,
-      "views": 32473,
-      "comments": 633
+      "score": 76.71,
+      "views": 37442,
+      "comments": 734
     },
     {
       "source": "클리앙",
-      "title": "박은정 의원 남편?",
-      "url": "https://www.clien.net/service/board/park/19272503?od=T31&po=0&category=0&groupCd=",
-      "score": 77.5,
-      "views": 2953,
-      "comments": 21
-    },
-    {
-      "source": "뽐뿌",
-      "title": "박제용) 오늘도 새벽 문조털래유 팔로우 하신 뉴일베 이선생님",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138676",
-      "score": 75.01,
-      "views": 7969,
-      "comments": 26
-    },
-    {
-      "source": "더쿠",
-      "title": "구교환, ♥이옥섭과 결혼 발표→일부 팬들은 싸늘…\"4년 총각행세 한 거냐\"",
-      "url": "https://theqoo.net/hot/4362520656",
-      "score": 70.58,
-      "views": 85384,
-      "comments": 858
+      "title": "김지용 이 사람이 대한민국 수사 잘하는 원탑 입니까?",
+      "url": "https://www.clien.net/service/board/park/19272536?od=T31&po=0&category=0&groupCd=",
+      "score": 65.35,
+      "views": 664,
+      "comments": 16
     }
   ]
 }

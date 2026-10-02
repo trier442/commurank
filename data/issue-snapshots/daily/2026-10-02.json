@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-10-02",
   "label": "2026년 10월 02일",
-  "collected_at": "2026-10-02T08:02:02.016440+09:00",
+  "collected_at": "2026-10-02T09:50:11.289667+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "10월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.31,
+      "peak_score": 105.84,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "10월 1일부로 바뀐 조리식품 위생안전관리 기준 강화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76876284?m=humor",
+          "score": 96.84
+        },
+        {
+          "source": "인벤",
+          "rank": 83,
+          "title": "좀 빡센 10월 1일부터 시행되는 음식점 위생기준",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735162",
+          "score": 53.78
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ic60c355d",
       "title": "‘문재인’ 관련 글이 여러 커뮤니티에서 화제",
@@ -14,35 +52,36 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 98.06,
+      "score": 100.08,
       "peak_score": 88.59,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 16,
           "title": "문재인 레전드.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467288&_dcbest=1&page=1",
-          "score": 79.59
+          "score": 71.22
         },
         {
-          "source": "뽐뿌",
-          "rank": 22,
-          "title": "문재인 정부 SNS 메시지 관리 . feat 조국",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138641",
-          "score": 71.87
+          "source": "클리앙",
+          "rank": 65,
+          "title": "누가 누구를 지켜주나(feat 문재인 대통령)",
+          "url": "https://www.clien.net/service/board/park/19272540?od=T31&po=0&category=0&groupCd=",
+          "score": 57.58
         }
       ],
       "first_seen": "2026-10-02T08:02:02.016440+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "if91ac4c9",
@@ -79,7 +118,45 @@
       "last_seen": "2026-10-02T08:02:02.016440+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 2,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i13e45c01",
+      "title": "‘이광수’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이광수"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.68,
+      "peak_score": 86.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 5,
+          "title": "이광수 : 애들아일어나라 버블할시간이야",
+          "url": "https://theqoo.net/hot/4362685177",
+          "score": 77.21
+        },
+        {
+          "source": "인벤",
+          "rank": 22,
+          "title": "버블에 중독된 이광수",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735175",
+          "score": 68.46
+        }
+      ],
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -117,7 +194,7 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 5,
       "change": -2
     },
     {
@@ -128,35 +205,36 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 92.15,
-      "peak_score": 78.22,
-      "appearances": 3,
+      "score": 93.83,
+      "peak_score": 78.78,
+      "appearances": 4,
       "sources": [
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "김지용, 박은정 남편 누가 더 별로인가요",
-          "url": "https://www.clien.net/service/board/park/19272510?od=T31&po=0&category=0&groupCd=",
-          "score": 61.1
+          "source": "뽐뿌",
+          "rank": 18,
+          "title": "[속보] 대통령, 김지용 중수청장 후보자 인사청문요청안 재가",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138695",
+          "score": 69.78
         },
         {
-          "source": "인벤",
-          "rank": 100,
-          "title": "김지용 중수청장 임명을 반대합니다. - 박은정 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735123",
-          "score": 49.47
+          "source": "클리앙",
+          "rank": 30,
+          "title": "김지용 이 사람이 대한민국 수사 잘하는 원탑 입니까?",
+          "url": "https://www.clien.net/service/board/park/19272536?od=T31&po=0&category=0&groupCd=",
+          "score": 65.35
         }
       ],
       "first_seen": "2026-10-01T15:40:53.338507+09:00",
-      "last_seen": "2026-10-02T08:02:02.016440+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i50b33b63",
@@ -193,8 +271,46 @@
       "last_seen": "2026-10-02T01:18:55.067443+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -3
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i99094885",
+      "title": "‘여배우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "여배우"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.78,
+      "peak_score": 81.31,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 13,
+          "title": "한국남친이 만든 제육볶음 먹는게 꿈이라는 일본 여배우",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735181",
+          "score": 72.31
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "브라질 여배우 CG 논란",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76877590?m=humor_only&t=now",
+          "score": 53.05
+        }
+      ],
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "ie861fdd4",
@@ -231,7 +347,7 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 9,
       "change": -3
     },
     {
@@ -269,8 +385,8 @@
       "last_seen": "2026-10-02T01:18:55.067443+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 10,
+      "change": -3
     },
     {
       "id": "ib9056a9e",
@@ -307,8 +423,46 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 11,
+      "change": -3
+    },
+    {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.77,
+      "peak_score": 77.3,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 24,
+          "title": "암살자(들) 단체관람 비용 지원...미래에셋 등 경찰 고발",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467323&_dcbest=1&page=1",
+          "score": 68.3
+        },
+        {
+          "source": "더쿠",
+          "rank": 91,
+          "title": "[단독 인터뷰] \"암살자(들) 제작진, 박정희재단에 문의 단 한번도 없었다\"",
+          "url": "https://theqoo.net/hot/4362584015",
+          "score": 52.61
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
     },
     {
       "id": "i97583b43",
@@ -345,8 +499,8 @@
       "last_seen": "2026-10-02T08:02:02.016440+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 13,
+      "change": -4
     },
     {
       "id": "i67f949c5",
@@ -383,8 +537,8 @@
       "last_seen": "2026-10-02T08:02:02.016440+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 14,
+      "change": -4
     },
     {
       "id": "i3ccc2d51",
@@ -421,8 +575,84 @@
       "last_seen": "2026-10-02T06:06:28.724750+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 15,
       "change": -4
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.49,
+      "peak_score": 70.02,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 48,
+          "title": "어제자 이재명 대통령 SNS....jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735177",
+          "score": 61.02
+        },
+        {
+          "source": "클리앙",
+          "rank": 82,
+          "title": "이재명 대통령, 정청래 전 대표와 4시간 만찬 …",
+          "url": "https://www.clien.net/service/board/park/19272526?od=T31&po=0&category=0&groupCd=",
+          "score": 53.94
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
+      "id": "icb3e92e1",
+      "title": "‘feat’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "feat"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.31,
+      "peak_score": 68.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 57,
+          "title": "롯데월드가 쏘아올린 인외물 근황(feat.네맵)",
+          "url": "https://theqoo.net/hot/4362724804",
+          "score": 59.84
+        },
+        {
+          "source": "클리앙",
+          "rank": 65,
+          "title": "누가 누구를 지켜주나(feat 문재인 대통령)",
+          "url": "https://www.clien.net/service/board/park/19272540?od=T31&po=0&category=0&groupCd=",
+          "score": 57.58
+        }
+      ],
+      "first_seen": "2026-10-02T09:50:11.289667+09:00",
+      "last_seen": "2026-10-02T09:50:11.289667+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     }
   ]
 }
