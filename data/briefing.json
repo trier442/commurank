@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T19:24:22.908529+09:00",
+  "collected_at": "2026-10-03T21:26:38.061970+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘트럼프’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #축구. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,16 +12,16 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 19,
-    "top100_views": 844396,
-    "top100_comments": 10462
+    "keywords": 20,
+    "top100_views": 946017,
+    "top100_comments": 12121
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "3개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i106465f0"
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ic7c7aec6"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "2개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#축구",
+      "text": "4개 커뮤니티 · 8개 인기글에서 함께 등장했습니다.",
+      "keyword": "축구"
     }
   ],
   "top_posts": [
@@ -59,10 +59,39 @@
           "last_seen": "2026-10-03T19:24:22.908529+09:00"
         }
       },
-      "score": 108.9,
+      "score": 108.74,
       "views": 21630,
       "likes": 264,
       "comments": 85,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "유럽연합 \"SNS 규제에 온라인 게임도 포함\"",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893273?m=humor",
+      "first_seen": "2026-10-03T21:26:38.061970+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "peak_score": 98.12,
+      "max_views": 17946,
+      "max_likes": 110,
+      "max_comments": 87,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-03": {
+          "max_score": 98.12,
+          "max_views": 17946,
+          "max_likes": 110,
+          "max_comments": 87,
+          "appearances": 1,
+          "last_seen": "2026-10-03T21:26:38.061970+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 17946,
+      "likes": 110,
+      "comments": 87,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,12 +117,41 @@
           "last_seen": "2026-10-03T16:01:31.160167+09:00"
         }
       },
-      "score": 107.78,
+      "score": 107.61,
       "views": 24202,
       "likes": 206,
       "comments": 89,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
+      "first_seen": "2026-10-03T21:26:38.061970+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "peak_score": 97.44,
+      "max_views": 20854,
+      "max_likes": 179,
+      "max_comments": 91,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-03": {
+          "max_score": 97.44,
+          "max_views": 20854,
+          "max_likes": 179,
+          "max_comments": 91,
+          "appearances": 1,
+          "last_seen": "2026-10-03T21:26:38.061970+09:00"
+        }
+      },
+      "score": 106.96,
+      "views": 20854,
+      "likes": 179,
+      "comments": 91,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "목숨 건 중국어선 단속 포상 0원, 내근직만 받아가",
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-03T08:03:19.978953+09:00"
         }
       },
-      "score": 107.1,
+      "score": 106.93,
       "views": 14403,
       "likes": 134,
       "comments": 43,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "사이비 종교인과는 상종도 하면 안 되는 이유",
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 106.76,
+      "score": 106.59,
       "views": 11467,
       "likes": 117,
       "comments": 68,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "북한 지뢰 매설 사건 근황",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-03T19:24:22.908529+09:00"
         }
       },
-      "score": 105.71,
+      "score": 105.55,
       "views": 12453,
       "likes": 138,
       "comments": 84,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "컴퓨터 설치해줬다가 대법원까지 가게 된 이유",
@@ -204,7 +262,7 @@
           "last_seen": "2026-10-03T07:35:44.628917+09:00"
         }
       },
-      "score": 105.56,
+      "score": 105.39,
       "views": 23188,
       "likes": 158,
       "comments": 51,
@@ -233,7 +291,7 @@
           "last_seen": "2026-10-03T10:28:43.355161+09:00"
         }
       },
-      "score": 105.39,
+      "score": 105.22,
       "views": 11071,
       "likes": 111,
       "comments": 93,
@@ -262,68 +320,10 @@
           "last_seen": "2026-10-03T03:43:55.638495+09:00"
         }
       },
-      "score": 104.83,
+      "score": 104.66,
       "views": 19664,
       "likes": 84,
       "comments": 85,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "오사카 도톤보리 갔다가 개씹놀란거",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76888773?m=humor",
-      "first_seen": "2026-10-03T07:35:44.628917+09:00",
-      "last_seen": "2026-10-03T08:03:19.978953+09:00",
-      "peak_score": 95.21,
-      "max_views": 11071,
-      "max_likes": 53,
-      "max_comments": 65,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 95.21,
-          "max_views": 11071,
-          "max_likes": 53,
-          "max_comments": 65,
-          "appearances": 2,
-          "last_seen": "2026-10-03T08:03:19.978953+09:00"
-        }
-      },
-      "score": 104.68,
-      "views": 11071,
-      "likes": 53,
-      "comments": 65,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "연애 결혼 포기하니까 삶 난도 존나 내려가네.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76891191?m=humor",
-      "first_seen": "2026-10-03T16:01:31.160167+09:00",
-      "last_seen": "2026-10-03T16:01:31.160167+09:00",
-      "peak_score": 95.15,
-      "max_views": 16655,
-      "max_likes": 82,
-      "max_comments": 120,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 95.15,
-          "max_views": 16655,
-          "max_likes": 82,
-          "max_comments": 120,
-          "appearances": 1,
-          "last_seen": "2026-10-03T16:01:31.160167+09:00"
-        }
-      },
-      "score": 104.39,
-      "views": 16655,
-      "likes": 82,
-      "comments": 120,
       "active_days": 1,
       "change": -2
     }
@@ -331,73 +331,73 @@
   "rising": [
     {
       "source": "뽐뿌",
-      "title": "고아라 근황 ㄷㄷ JPG",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140410",
+      "title": "서울특별시 460억 자산가 ㄷ JPG",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140502",
       "category": "이슈",
-      "views": 32333,
-      "likes": 10,
-      "comments": 62,
-      "score": 61.14,
+      "views": 35802,
+      "likes": 6,
+      "comments": 112,
+      "score": 57.93,
       "change": 0,
-      "current_rank": 57,
+      "current_rank": 67,
       "new_entry": false,
-      "delta_views": 29249,
-      "delta_likes": 9,
-      "delta_comments": 51,
+      "delta_views": 22985,
+      "delta_likes": 4,
+      "delta_comments": 61,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "디시인사이드",
-      "title": "박정희 아들 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467639&_dcbest=1&page=1",
+      "title": "싱글벙글 의외로 한국보다 더 남눈치 보는 나라",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467679&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 12761,
-      "likes": 261,
-      "comments": 729,
-      "score": 72.19,
-      "change": 10,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 10825,
-      "delta_likes": 203,
-      "delta_comments": 716,
-      "rank_gain": 10,
-      "rising_score": 90.0,
-      "rising_rank": 2,
-      "window_minutes": 203
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한국여자들 난리난 코넬대 성폭행의혹...진실공방",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467633&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 22031,
-      "likes": 266,
-      "comments": 362,
-      "score": 67.9,
+      "views": 24980,
+      "likes": 334,
+      "comments": 448,
+      "score": 82.57,
       "change": 0,
-      "current_rank": 29,
+      "current_rank": 6,
       "new_entry": false,
-      "delta_views": 14697,
-      "delta_likes": 170,
-      "delta_comments": 192,
+      "delta_views": 12203,
+      "delta_likes": 224,
+      "delta_comments": 356,
       "rank_gain": 0,
-      "rising_score": 86.42,
+      "rising_score": 92.22,
+      "rising_rank": 2,
+      "window_minutes": 122
+    },
+    {
+      "source": "디시인사이드",
+      "title": "암살자(들) 논란이 유난히 드센 이유… 보수 진영 성역 건드렸다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467673&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 25864,
+      "likes": 84,
+      "comments": 1546,
+      "score": 74.89,
+      "change": 0,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 13996,
+      "delta_likes": 37,
+      "delta_comments": 924,
+      "rank_gain": 0,
+      "rising_score": 89.88,
       "rising_rank": 3,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "루리웹",
-      "title": "수해현장, 구두더러워질까봐 업혀다니는 공무원",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893423?m=humor",
-      "category": "이슈",
-      "views": 21630,
-      "likes": 264,
-      "comments": 85,
-      "score": 99.38,
+      "title": "유럽연합 \"SNS 규제에 온라인 게임도 포함\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893273?m=humor",
+      "category": "게임",
+      "views": 17946,
+      "likes": 110,
+      "comments": 87,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -405,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.74,
+      "rising_score": 83.21,
       "rising_rank": 4,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "루리웹",
-      "title": "북한 지뢰 매설 사건 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76894690?m=humor",
+      "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
       "category": "이슈",
-      "views": 12453,
-      "likes": 138,
-      "comments": 84,
-      "score": 96.19,
+      "views": 20854,
+      "likes": 179,
+      "comments": 91,
+      "score": 97.44,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -425,18 +425,18 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
+      "rising_score": 82.92,
       "rising_rank": 5,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "루리웹",
-      "title": "건담인포에 유니콘 올라왔길래 다시 보는 중인데",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76892668?m=humor",
+      "title": "삼국지) 정사 제갈량의 씁쓸한 점",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76894840?m=humor",
       "category": "이슈",
-      "views": 9990,
-      "likes": 123,
-      "comments": 76,
+      "views": 8287,
+      "likes": 76,
+      "comments": 77,
       "score": 92.59,
       "change": "NEW",
       "current_rank": 3,
@@ -447,17 +447,37 @@
       "rank_gain": 0,
       "rising_score": 80.89,
       "rising_rank": 6,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "디시인사이드",
-      "title": "암살자(들) 논란이 유난히 드센 이유… 보수 진영 성역 건드렸다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467673&_dcbest=1&page=1",
+      "title": "배우 전향하고 문화 충격 받았다는 스윙스",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467675&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 8803,
+      "likes": 56,
+      "comments": 152,
+      "score": 61.27,
+      "change": 0,
+      "current_rank": 47,
+      "new_entry": false,
+      "delta_views": 5973,
+      "delta_likes": 38,
+      "delta_comments": 71,
+      "rank_gain": 0,
+      "rising_score": 80.31,
+      "rising_rank": 7,
+      "window_minutes": 122
+    },
+    {
+      "source": "뽐뿌",
+      "title": "문신으로 욕 안 먹는 40대",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140596",
       "category": "이슈",
-      "views": 11868,
-      "likes": 47,
-      "comments": 622,
-      "score": 82.78,
+      "views": 25140,
+      "likes": 0,
+      "comments": 108,
+      "score": 87.81,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -465,19 +485,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.77,
-      "rising_rank": 7,
-      "window_minutes": 203
+      "rising_score": 78.88,
+      "rising_rank": 8,
+      "window_minutes": 122
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 의외로 한국보다 더 남눈치 보는 나라",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467679&_dcbest=1&page=1",
+      "title": "벌레, 혐주의) 싱글벙글 와이프 몰래 비바리움 만듬",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467701&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 12777,
-      "likes": 110,
-      "comments": 92,
-      "score": 82.18,
+      "views": 16442,
+      "likes": 117,
+      "comments": 155,
+      "score": 83.96,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -485,52 +505,121 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.52,
-      "rising_rank": 8,
-      "window_minutes": 203
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 김민재 폭탄 발언..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467649&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 30269,
-      "likes": 289,
-      "comments": 558,
-      "score": 79.1,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.22,
+      "rising_score": 77.26,
       "rising_rank": 9,
-      "window_minutes": 203
+      "window_minutes": 122
     },
     {
       "source": "디시인사이드",
       "title": "\"싸워\" 조롱받던 홍명보 발언 재평가, '반복되는 남아공전'",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467669&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 8580,
-      "likes": 195,
-      "comments": 203,
-      "score": 78.1,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 12482,
+      "likes": 233,
+      "comments": 282,
+      "score": 69.2,
+      "change": 0,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 3902,
+      "delta_likes": 38,
+      "delta_comments": 79,
       "rank_gain": 0,
-      "rising_score": 74.8,
+      "rising_score": 77.03,
       "rising_rank": 10,
-      "window_minutes": 203
+      "window_minutes": 122
     }
   ],
   "issues": [
+    {
+      "id": "ic7c7aec6",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프",
+        "알래스카"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.91,
+      "peak_score": 106.44,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
+          "score": 97.44
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 53,
+          "title": "트럼프 \"한국이 알래스카 승인 안했다고? 괜찮아 떠블로 가\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467661&_dcbest=1&page=1",
+          "score": 60.74
+        }
+      ],
+      "first_seen": "2026-10-03T21:26:38.061970+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "[아시안게임]남자 축구 금메달🥇⚽🎉",
+      "keywords": [
+        "아시안게임",
+        "축구",
+        "금메달",
+        "결승",
+        "일본"
+      ],
+      "source_count": 3,
+      "post_count": 7,
+      "score": 111.47,
+      "peak_score": 93.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "[아시안게임]남자 축구 금메달🥇⚽🎉",
+          "url": "https://theqoo.net/hot/4364231718",
+          "score": 75.0
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "아시안게임 남자축구 한국 1:0 일본 한국 금메달",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735894",
+          "score": 61.87
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "아시안게임 축구- 아무튼 한국이 결승에서 일본 이김",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76897180?m=humor_only&t=now",
+          "score": 52.85
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 7,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i106465f0",
       "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
@@ -575,8 +664,8 @@
       "last_seen": "2026-10-03T19:24:22.908529+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 1,
-      "change": 0
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i78f6419e",
@@ -586,9 +675,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 105.83,
+      "score": 106.74,
       "peak_score": 91.78,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -598,25 +687,102 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 4,
+          "rank": 13,
           "title": "암살자(들) 논란이 유난히 드센 이유… 보수 진영 성역 건드렸다",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467673&_dcbest=1&page=1",
-          "score": 82.78
+          "score": 74.89
         },
         {
           "source": "클리앙",
-          "rank": 64,
-          "title": "암살자(들) 굿즈 티켓 논란",
-          "url": "https://www.clien.net/service/board/park/19273110?od=T31&po=0&category=0&groupCd=",
-          "score": 59.9
+          "rank": 75,
+          "title": "스타벅스하고 암살자(들) 하고 뭔 상관이에요",
+          "url": "https://www.clien.net/service/board/park/19273150?od=T31&po=0&category=0&groupCd=",
+          "score": 55.99
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-03T19:24:22.908529+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국이"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 101.29,
+      "peak_score": 88.8,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 9,
+          "title": "싱글벙글 한국이 중국에 흡수·동화되지 않은 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467693&_dcbest=1&page=1",
+          "score": 78.8
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "아시안게임 축구- 아무튼 한국이 결승에서 일본 이김",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76897180?m=humor_only&t=now",
+          "score": 52.85
+        }
+      ],
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": 13
+    },
+    {
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박정희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.66,
+      "peak_score": 90.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 8,
+          "title": "박정희 만주군 시절 영화가 나와야 정신 차릴건지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140653",
+          "score": 81.19
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 65,
+          "title": "박정희 아들 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467639&_dcbest=1&page=1",
+          "score": 58.15
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -653,8 +819,8 @@
       "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": 0
+      "rank": 7,
+      "change": -4
     },
     {
       "id": "icb33dad5",
@@ -692,8 +858,8 @@
       "last_seen": "2026-10-03T16:01:31.160167+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 8,
+      "change": -4
     },
     {
       "id": "ia4c9a0a3",
@@ -730,206 +896,42 @@
       "last_seen": "2026-10-03T07:35:44.628917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i7b918478",
-      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.23,
-      "peak_score": 80.3,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 31,
-          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-          "score": 65.77
-        },
-        {
-          "source": "클리앙",
-          "rank": 76,
-          "title": "일본의 출산 정책이 나름 참고할만 하네요",
-          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-          "score": 55.77
-        }
-      ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-03T08:03:19.978953+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i4ddd6a96",
-      "title": "‘김여정’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김여정"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.81,
-      "peak_score": 82.34,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 10,
-          "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
-          "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
-          "score": 73.34
-        },
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "청와대, 김여정 ‘광대극’ 담화에 “소모적 비난 멈추고 한반도 평화 동참 촉구”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735593",
-          "score": 57.1
-        }
-      ],
-      "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "어떻게"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.95,
-      "peak_score": 77.02,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 33,
-          "title": "백종원표 예산시장, 지금은 어떻게 됐을까?",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467611&_dcbest=1&page=1",
-          "score": 65.93
-        },
-        {
-          "source": "인벤",
-          "rank": 66,
-          "title": "소는 풀만 먹는데 어떻게 마블링이 생길까?",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735763",
-          "score": 58.65
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-03T16:01:31.160167+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "if7103016",
-      "title": "깊은 한숨 연달아 쏟아낸 황인범, '몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-      "keywords": [
-        "힘들어",
-        "연달아",
-        "한숨",
-        "없다",
-        "황인범",
-        "힘들고",
-        "마음도",
-        "도와줄",
-        "쏟아낸"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.89,
-      "peak_score": 80.42,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "깊은 한숨 연달아 쏟아낸 황인범, '몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-          "url": "https://www.clien.net/service/board/park/19272901?od=T31&po=0&category=0&groupCd=",
-          "score": 72.42
-        },
-        {
-          "source": "인벤",
-          "rank": 70,
-          "title": "깊은 한숨 연달아 쏟아낸 황인범, \"몸도 힘들고 마음도 힘들어...도와줄 사람이 없다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735577",
-          "score": 56.96
-        }
-      ],
-      "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-03T03:43:55.638495+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": 0
+      "change": -4
     },
     {
-      "id": "i19c2837b",
-      "title": "혐주의) 불과 4년뒤 출소하는 초등학생 토막 살인범.",
+      "id": "idf55914c",
+      "title": "‘아버지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "초등학생",
-        "살인범",
-        "토막",
-        "출소하는"
+        "아버지"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.87,
-      "peak_score": 80.4,
+      "score": 94.0,
+      "peak_score": 84.53,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 15,
-          "title": "혐주의) 불과 4년뒤 출소하는 초등학생 토막 살인범.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735838",
-          "score": 72.4
+          "source": "더쿠",
+          "rank": 11,
+          "title": "박지만 입 열었다…“우리 아버지 그리 미운가”",
+          "url": "https://theqoo.net/hot/4364179774",
+          "score": 75.53
         },
         {
           "source": "디시인사이드",
-          "rank": 26,
-          "title": "와들와들 4년후에 출소하는 초등학생 토막 살인범.JPG",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467629&_dcbest=1&page=1",
-          "score": 68.39
+          "rank": 65,
+          "title": "박정희 아들 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467639&_dcbest=1&page=1",
+          "score": 58.15
         }
       ],
-      "first_seen": "2026-10-03T19:24:22.908529+09:00",
-      "last_seen": "2026-10-03T19:24:22.908529+09:00",
+      "first_seen": "2026-10-03T21:26:38.061970+09:00",
+      "last_seen": "2026-10-03T21:26:38.061970+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
@@ -938,45 +940,186 @@
   ],
   "realtime_issues": [
     {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i8b4085e0",
+      "title": "[아시안게임]남자 축구 금메달🥇⚽🎉",
       "keywords": [
-        "암살자들"
+        "아시안게임",
+        "축구",
+        "금메달",
+        "결승",
+        "일본"
       ],
       "source_count": 3,
-      "post_count": 3,
-      "score": 85.95,
-      "peak_score": 85.95,
+      "post_count": 7,
+      "score": 93.0,
+      "peak_score": 93.0,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "[아시안게임]남자 축구 금메달🥇⚽🎉",
+          "url": "https://theqoo.net/hot/4364231718",
+          "score": 75.0
+        },
+        {
           "source": "인벤",
-          "rank": 24,
-          "title": "대놓고 영화 암살자들 왜곡하면서 여론조작하는 메벤",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735837",
-          "score": 68.95
+          "rank": 45,
+          "title": "아시안게임 남자축구 한국 1:0 일본 한국 금메달",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735894",
+          "score": 61.87
         },
         {
-          "source": "디시인사이드",
-          "rank": 48,
-          "title": "부산국제영화제 암살자들 행사 취소",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
-          "score": 62.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 59,
-          "title": "경상도 70대 부모님 암살자들 관람 후기",
-          "url": "https://www.clien.net/service/board/park/19273129?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
+          "source": "루리웹",
+          "rank": 88,
+          "title": "아시안게임 축구- 아무튼 한국이 결승에서 일본 이김",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76897180?m=humor_only&t=now",
+          "score": 52.85
         }
       ],
       "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국이"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 88.8,
+      "peak_score": 88.8,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 9,
+          "title": "싱글벙글 한국이 중국에 흡수·동화되지 않은 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467693&_dcbest=1&page=1",
+          "score": 78.8
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "아시안게임 축구- 아무튼 한국이 결승에서 일본 이김",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76897180?m=humor_only&t=now",
+          "score": 52.85
+        }
+      ],
+      "rank": 2,
+      "change": 3
+    },
+    {
+      "id": "ic7c7aec6",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프",
+        "알래스카"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 106.44,
+      "peak_score": 106.44,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
+          "score": 97.44
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 53,
+          "title": "트럼프 \"한국이 알래스카 승인 안했다고? 괜찮아 떠블로 가\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467661&_dcbest=1&page=1",
+          "score": 60.74
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박정희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.19,
+      "peak_score": 90.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 8,
+          "title": "박정희 만주군 시절 영화가 나와야 정신 차릴건지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140653",
+          "score": 81.19
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 65,
+          "title": "박정희 아들 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467639&_dcbest=1&page=1",
+          "score": 58.15
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "idf55914c",
+      "title": "‘아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아버지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.53,
+      "peak_score": 84.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 11,
+          "title": "박지만 입 열었다…“우리 아버지 그리 미운가”",
+          "url": "https://theqoo.net/hot/4364179774",
+          "score": 75.53
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 65,
+          "title": "박정희 아들 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467639&_dcbest=1&page=1",
+          "score": 58.15
+        }
+      ],
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -987,8 +1130,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.78,
-      "peak_score": 91.78,
+      "score": 83.89,
+      "peak_score": 83.89,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -997,162 +1140,54 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 4,
+          "rank": 13,
           "title": "암살자(들) 논란이 유난히 드센 이유… 보수 진영 성역 건드렸다",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467673&_dcbest=1&page=1",
-          "score": 82.78
+          "score": 74.89
         },
         {
           "source": "클리앙",
-          "rank": 64,
-          "title": "암살자(들) 굿즈 티켓 논란",
-          "url": "https://www.clien.net/service/board/park/19273110?od=T31&po=0&category=0&groupCd=",
-          "score": 59.9
-        }
-      ],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i19c2837b",
-      "title": "혐주의) 불과 4년뒤 출소하는 초등학생 토막 살인범.",
-      "keywords": [
-        "초등학생",
-        "살인범",
-        "토막",
-        "출소하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.4,
-      "peak_score": 80.4,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 15,
-          "title": "혐주의) 불과 4년뒤 출소하는 초등학생 토막 살인범.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735838",
-          "score": 72.4
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 26,
-          "title": "와들와들 4년후에 출소하는 초등학생 토막 살인범.JPG",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467629&_dcbest=1&page=1",
-          "score": 68.39
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.54,
-      "peak_score": 79.54,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 18,
-          "title": "트럼프 \"한국이 알래스카 승인 안했다고? 괜찮아 떠블로 가\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467661&_dcbest=1&page=1",
-          "score": 70.54
-        },
-        {
-          "source": "클리앙",
-          "rank": 63,
-          "title": "[AP통신] 트럼프 골수지지 노동자의 눈물. '내 마음속에서 그를 지웠다.'",
-          "url": "https://www.clien.net/service/board/park/19273128?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.81,
-      "peak_score": 74.81,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 35,
-          "title": "싱글벙글 한국에서 까방권을 얻은 메탈 밴드",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467663&_dcbest=1&page=1",
-          "score": 65.81
-        },
-        {
-          "source": "더쿠",
-          "rank": 73,
-          "title": "중국 웹소설이 한국에서 무조건 망하는 이유",
-          "url": "https://theqoo.net/hot/4364087165",
-          "score": 57.68
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i78d01e4f",
-      "title": "딸배하고 동전으로 3만원 받음.",
-      "keywords": [
-        "딸배하고",
-        "3만원",
-        "받음",
-        "동전으로"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.5,
-      "peak_score": 69.5,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 54,
-          "title": "딸배하고 동전으로 3만원 받음.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735847",
-          "score": 61.5
-        },
-        {
-          "source": "루리웹",
-          "rank": 69,
-          "title": "딸배하고 동전으로 3만원 받음",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76895667?m=humor_only&t=now",
-          "score": 59.12
+          "rank": 75,
+          "title": "스타벅스하고 암살자(들) 하고 뭔 상관이에요",
+          "url": "https://www.clien.net/service/board/park/19273150?od=T31&po=0&category=0&groupCd=",
+          "score": 55.99
         }
       ],
       "rank": 6,
+      "change": -4
+    },
+    {
+      "id": "i44d46bc6",
+      "title": "‘엄지성’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "엄지성"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.94,
+      "peak_score": 76.94,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "야민혁- 엄지성 골!!",
+          "url": "https://www.clien.net/service/board/park/19273155?od=T31&po=0&category=0&groupCd=",
+          "score": 67.94
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "[AG 남자 축구 결승 한일전] 한국 엄지성 선제 골",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735877",
+          "score": 54.59
+        }
+      ],
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -1163,122 +1198,90 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 68.8,
-      "peak_score": 68.8,
+      "score": 75.84,
+      "peak_score": 75.84,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 67,
-          "title": "한일전 대기중..",
-          "url": "https://www.clien.net/service/board/park/19273127?od=T31&po=0&category=0&groupCd=",
-          "score": 59.8
+          "source": "더쿠",
+          "rank": 29,
+          "title": "[속보] 아시안게임 축구 결승 한일전 대한민국 선제골",
+          "url": "https://theqoo.net/hot/4364198643",
+          "score": 66.84
         },
         {
           "source": "인벤",
-          "rank": 93,
-          "title": "아시안게임 남자축구 결승 한일전 선발라인업",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735834",
-          "score": 52.48
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i9e892d38",
-      "title": "개천절 장외투쟁하는 국힘과 극우들",
-      "keywords": [
-        "극우들",
-        "장외투쟁하는",
-        "개천절",
-        "국힘과"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 67.56,
-      "peak_score": 67.56,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "개천절 장외투쟁하는 국힘과 극우들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735839",
-          "score": 59.56
-        },
-        {
-          "source": "클리앙",
-          "rank": 78,
-          "title": "개천절 장외투쟁하는 국힘과 극우들",
-          "url": "https://www.clien.net/service/board/park/19273126?od=T31&po=0&category=0&groupCd=",
-          "score": 57.13
+          "rank": 84,
+          "title": "[AG 남자 축구 결승 한일전] 한국 엄지성 선제 골",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735877",
+          "score": 54.59
         }
       ],
       "rank": 8,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 125.23,
-      "post_count": 6,
-      "source_count": 2,
-      "best_rank": 5,
+      "keyword": "축구",
+      "score": 175.25,
+      "post_count": 8,
+      "source_count": 4,
+      "best_rank": 12,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "암살자들",
-      "score": 121.88,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 24,
+      "keyword": "일본",
+      "score": 172.41,
+      "post_count": 8,
+      "source_count": 4,
+      "best_rank": 19,
       "sources": [
         "디시인사이드",
+        "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 6
     },
     {
-      "keyword": "보는",
-      "score": 111.7,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 3,
+      "keyword": "한국",
+      "score": 164.71,
+      "post_count": 9,
+      "source_count": 3,
+      "best_rank": 6,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "가슴",
-      "score": 103.48,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 10,
+      "keyword": "아시안게임",
+      "score": 135.17,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
+        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
@@ -1286,87 +1289,86 @@
       "change": "NEW"
     },
     {
-      "keyword": "암살자",
-      "score": 99.66,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
+      "keyword": "금메달",
+      "score": 126.2,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -2
-    },
-    {
-      "keyword": "초등학생",
-      "score": 98.78,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
+        "더쿠",
         "디시인사이드",
         "인벤"
       ],
-      "aliases": [
-        "살인범",
-        "출소하",
-        "토막"
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "결승",
+      "score": 119.93,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 29,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
       ],
+      "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "처음",
-      "score": 96.96,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
+      "keyword": "ag",
+      "score": 116.49,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 46,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 96.19,
+      "keyword": "트럼프",
+      "score": 109.65,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
-      "change": -4
+      "change": 1
     },
     {
-      "keyword": "트럼프",
-      "score": 91.49,
+      "keyword": "알래스카",
+      "score": 104.09,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "단속",
-      "score": 88.8,
+      "keyword": "정신",
+      "score": 102.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 42,
+      "best_rank": 8,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1375,79 +1377,71 @@
     },
     {
       "keyword": "영화",
-      "score": 84.48,
+      "score": 98.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 8,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 11,
-      "change": -9
+      "change": 0
     },
     {
-      "keyword": "3만원",
-      "score": 84.37,
+      "keyword": "박정희",
+      "score": 97.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 54,
+      "best_rank": 8,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌"
       ],
-      "aliases": [
-        "동전",
-        "딸배",
-        "받음"
-      ],
+      "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "식빵",
-      "score": 83.68,
-      "post_count": 2,
+      "keyword": "발언",
+      "score": 96.48,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 21,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "후기",
-      "score": 81.51,
-      "post_count": 2,
+      "keyword": "30대",
+      "score": 96.13,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 27,
       "sources": [
-        "인벤",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "장외투쟁하",
-      "score": 81.06,
+      "keyword": "아버지",
+      "score": 94.99,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 68,
+      "best_rank": 11,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
-      "aliases": [
-        "개천절",
-        "국힘",
-        "극우들"
-      ],
+      "aliases": [],
       "rank": 15,
       "change": "NEW"
     }
@@ -1455,51 +1449,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "수해현장, 구두더러워질까봐 업혀다니는 공무원",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893423?m=humor",
-      "score": 99.38,
-      "views": 21630,
-      "comments": 85
-    },
-    {
-      "source": "디시인사이드",
-      "title": "암살자(들) 논란이 유난히 드센 이유… 보수 진영 성역 건드렸다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467673&_dcbest=1&page=1",
-      "score": 82.78,
-      "views": 11868,
-      "comments": 622
-    },
-    {
-      "source": "더쿠",
-      "title": "800살이라고 화제였던 은행나무 거짓으로 밝혀짐",
-      "url": "https://theqoo.net/hot/4364091031",
-      "score": 78.0,
-      "views": 26796,
-      "comments": 229
-    },
-    {
-      "source": "인벤",
-      "title": "'작은 가슴이 대세' 보형물 뺀 황정음…SNS서 번지는 '발레리나 붑스'",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735846",
-      "score": 77.66,
-      "views": 922,
-      "comments": 11
+      "title": "유럽연합 \"SNS 규제에 온라인 게임도 포함\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76893273?m=humor",
+      "score": 98.12,
+      "views": 17946,
+      "comments": 87
     },
     {
       "source": "뽐뿌",
-      "title": "윤성은 평론가 SNS.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140571",
-      "score": 75.0,
-      "views": 7444,
-      "comments": 11
+      "title": "문신으로 욕 안 먹는 40대",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140596",
+      "score": 87.81,
+      "views": 25140,
+      "comments": 108
+    },
+    {
+      "source": "디시인사이드",
+      "title": "벌레, 혐주의) 싱글벙글 와이프 몰래 비바리움 만듬",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467701&_dcbest=1&page=1",
+      "score": 83.96,
+      "views": 16442,
+      "comments": 155
+    },
+    {
+      "source": "더쿠",
+      "title": "박지만 입 열었다…“우리 아버지 그리 미운가”",
+      "url": "https://theqoo.net/hot/4364179774",
+      "score": 75.53,
+      "views": 16889,
+      "comments": 475
     },
     {
       "source": "클리앙",
-      "title": "어느집 베란다 조명이..",
-      "url": "https://www.clien.net/service/board/park/19273122?od=T31&po=0&category=0&groupCd=",
-      "score": 65.18,
-      "views": 887,
-      "comments": 9
+      "title": "병역이 걸리니깐 진짜 몸을 사리지 않네요 ㅋ",
+      "url": "https://www.clien.net/service/board/park/19273163?od=T31&po=0&category=0&groupCd=",
+      "score": 72.19,
+      "views": 1292,
+      "comments": 6
+    },
+    {
+      "source": "인벤",
+      "title": "홋카이도 경찰이 곰 조심하라며 공개한 블랙박스",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735887",
+      "score": 69.32,
+      "views": 709,
+      "comments": 5
     }
   ]
 }
