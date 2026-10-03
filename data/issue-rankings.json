@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-03T10:28:43.355161+09:00",
+  "collected_at": "2026-10-03T16:01:31.160167+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,34 +11,34 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ib19f68fa",
-        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "추미애"
+          "sns"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 79.19,
-        "peak_score": 79.19,
+        "post_count": 3,
+        "score": 74.87,
+        "peak_score": 74.87,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 18,
-            "title": "추미애 페북 ㄷㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139962",
-            "score": 70.19
+            "source": "루리웹",
+            "rank": 36,
+            "title": "유럽연합 \"SNS 규제에 온라인 게임도 포함\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76893273?m=humor_only&t=now",
+            "score": 64.87
           },
           {
-            "source": "클리앙",
-            "rank": 53,
-            "title": "추미애 “저의 사람보는 실력 형편 없어···검사장 발탁 신뢰 근거 삼지 마라”",
-            "url": "https://www.clien.net/service/board/park/19272960?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "source": "인벤",
+            "rank": 64,
+            "title": "오늘자 이재명 대통령 SNS....jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735742",
+            "score": 59.13
           }
         ],
         "rank": 1,
@@ -46,14 +46,50 @@
       },
       {
         "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
         "keywords": [
-          "암살자"
+          "암살자",
+          "영화",
+          "돌파"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.87,
-        "peak_score": 75.87,
+        "score": 85.22,
+        "peak_score": 85.22,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 14,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 77.22
+          },
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 68.0
+          }
+        ],
+        "rank": 2,
+        "change": 0
+      },
+      {
+        "id": "i01009091",
+        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김민석"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.83,
+        "peak_score": 78.83,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -62,54 +98,192 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 28,
-            "title": "암살자(들)역사왜곡주장은 그냥 개소리일뿐",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735658",
-            "score": 66.87
+            "rank": 22,
+            "title": "김민석 “2028년 총선 주 싸움터는 부산·낙동강…승리해야”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735768",
+            "score": 69.83
           },
           {
             "source": "클리앙",
-            "rank": 44,
-            "title": "다시 보는 암살자(들) 굿즈",
-            "url": "https://www.clien.net/service/board/park/19272946?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
-          }
-        ],
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i56c53283",
-        "title": "나혼자산다와 나는 자연인이다 사이의 중간 어디.jpg",
-        "keywords": [
-          "나혼자산다와"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.0,
-        "peak_score": 75.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 27,
-            "title": "나혼자산다와 나는 자연인이다 사이의 중간 어디.jpg",
-            "url": "https://theqoo.net/hot/4363688711",
-            "score": 67.0
-          },
-          {
-            "source": "루리웹",
-            "rank": 71,
-            "title": "나혼자산다와 나는자연인이다의 중간지점",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76890045?m=humor_only&t=now",
-            "score": 56.06
+            "rank": 96,
+            "title": "김민석",
+            "url": "https://www.clien.net/service/board/park/19273075?od=T31&po=0&category=0&groupCd=",
+            "score": 52.39
           }
         ],
         "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i5ae392bf",
+        "title": "‘우크라’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "우크라"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.36,
+        "peak_score": 78.36,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 23,
+            "title": "JTBC) 한국 \"거짓말쟁이 만든 우크라\"에 최후통첩",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467603&_dcbest=1&page=1",
+            "score": 69.36
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "우크라 '한국 중요해, 외교적 오해' 정도로 해두자",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140372",
+            "score": 52.08
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i11fa4c33",
+        "title": "ㅇㅎ) 일본 지하 아이돌",
+        "keywords": [
+          "아이돌",
+          "일본"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.14,
+        "peak_score": 76.14,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "ㅇㅎ) 일본 지하 아이돌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735758",
+            "score": 68.14
+          },
+          {
+            "source": "더쿠",
+            "rank": 81,
+            "title": "13살 여아랑 사귄 정황으로 논란이 된 23살 일본 아이돌",
+            "url": "https://theqoo.net/hot/4363886429",
+            "score": 54.53
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "부캉이 그물 넘는 영상",
+        "keywords": [
+          "부캉이",
+          "그물"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.1,
+        "peak_score": 75.1,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 32,
+            "title": "부캉이 그물 넘는 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140294",
+            "score": 67.1
+          },
+          {
+            "source": "더쿠",
+            "rank": 58,
+            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+            "url": "https://theqoo.net/hot/4363789207",
+            "score": 60.08
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.93,
+        "peak_score": 74.93,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 33,
+            "title": "백종원표 예산시장, 지금은 어떻게 됐을까?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467611&_dcbest=1&page=1",
+            "score": 65.93
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "소는 풀만 먹는데 어떻게 마블링이 생길까?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735763",
+            "score": 58.65
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i707041a3",
+        "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "금메달"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.39,
+        "peak_score": 73.39,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 37,
+            "title": "현지 숙소에 금메달 놓고 온 선수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735755",
+            "score": 64.39
+          },
+          {
+            "source": "더쿠",
+            "rank": 51,
+            "title": "[아시안게임]양궁 남자 리커브 이우석 금메달🥇🎯🎉",
+            "url": "https://theqoo.net/hot/4363894207",
+            "score": 60.84
+          }
+        ],
+        "rank": 8,
         "change": "NEW"
       }
     ],
@@ -161,6 +335,48 @@
         "change": 0
       },
       {
+        "id": "i78f6419e",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+        "keywords": [
+          "암살자",
+          "영화",
+          "돌파"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.15,
+        "peak_score": 85.22,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 14,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 77.22
+          },
+          {
+            "source": "더쿠",
+            "rank": 30,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 68.0
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": 2
+      },
+      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -195,8 +411,47 @@
         "last_seen": "2026-10-03T07:35:44.628917+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "sns"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 95.05,
+        "peak_score": 82.56,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 36,
+            "title": "유럽연합 \"SNS 규제에 온라인 게임도 포함\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76893273?m=humor_only&t=now",
+            "score": 64.87
+          },
+          {
+            "source": "인벤",
+            "rank": 64,
+            "title": "오늘자 이재명 대통령 SNS....jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735742",
+            "score": 59.13
+          }
+        ],
+        "first_seen": "2026-10-03T08:03:19.978953+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 4,
+        "change": 2
       },
       {
         "id": "ia4c9a0a3",
@@ -233,47 +488,8 @@
         "last_seen": "2026-10-03T07:35:44.628917+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.28,
-        "peak_score": 81.79,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 28,
-            "title": "암살자(들)역사왜곡주장은 그냥 개소리일뿐",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735658",
-            "score": 66.87
-          },
-          {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "다시 보는 암살자(들) 굿즈",
-            "url": "https://www.clien.net/service/board/park/19272946?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T10:28:43.355161+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": 3
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "i7b918478",
@@ -307,44 +523,6 @@
           }
         ],
         "first_seen": "2026-10-01T04:25:33.357220+09:00",
-        "last_seen": "2026-10-03T08:03:19.978953+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
-      },
-      {
-        "id": "icb33dad5",
-        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "sns"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.03,
-        "peak_score": 82.56,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 11,
-            "title": "오늘자 이재명 대통령 SNS...jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
-            "score": 73.56
-          },
-          {
-            "source": "클리앙",
-            "rank": 62,
-            "title": "어제밤 대통령 SNS",
-            "url": "https://www.clien.net/service/board/park/19272925?od=T31&po=0&category=0&groupCd=",
-            "score": 59.2
-          }
-        ],
-        "first_seen": "2026-10-03T08:03:19.978953+09:00",
         "last_seen": "2026-10-03T08:03:19.978953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
@@ -387,7 +565,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.95,
+        "peak_score": 77.02,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 33,
+            "title": "백종원표 예산시장, 지금은 어떻게 됐을까?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467611&_dcbest=1&page=1",
+            "score": 65.93
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "소는 풀만 먹는데 어떻게 마블링이 생길까?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735763",
+            "score": 58.65
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": 2
       },
       {
         "id": "if7103016",
@@ -432,8 +649,8 @@
         "last_seen": "2026-10-03T03:43:55.638495+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ib19f68fa",
@@ -470,20 +687,58 @@
         "last_seen": "2026-10-03T10:28:43.355161+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i01009091",
+        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "어떻게"
+          "김민석"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.51,
-        "peak_score": 77.02,
-        "appearances": 2,
+        "score": 88.3,
+        "peak_score": 78.83,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 22,
+            "title": "김민석 “2028년 총선 주 싸움터는 부산·낙동강…승리해야”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735768",
+            "score": 69.83
+          },
+          {
+            "source": "클리앙",
+            "rank": 96,
+            "title": "김민석",
+            "url": "https://www.clien.net/service/board/park/19273075?od=T31&po=0&category=0&groupCd=",
+            "score": 52.39
+          }
+        ],
+        "first_seen": "2026-10-03T16:01:31.160167+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
+      },
+      {
+        "id": "i5ae392bf",
+        "title": "‘우크라’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "우크라"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.83,
+        "peak_score": 78.36,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
           "뽐뿌"
@@ -491,25 +746,103 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 29,
-            "title": "총은 사람을 어떻게 죽이는가?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
-            "score": 66.15
+            "rank": 23,
+            "title": "JTBC) 한국 \"거짓말쟁이 만든 우크라\"에 최후통첩",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467603&_dcbest=1&page=1",
+            "score": 69.36
           },
           {
             "source": "뽐뿌",
-            "rank": 75,
-            "title": "이런 곰팡이 청소는 어떻게 하나요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
-            "score": 56.65
+            "rank": 97,
+            "title": "우크라 '한국 중요해, 외교적 오해' 정도로 해두자",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140372",
+            "score": 52.08
           }
         ],
         "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-10-03T08:03:19.978953+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 12,
+        "change": "NEW"
+      },
+      {
+        "id": "i11fa4c33",
+        "title": "ㅇㅎ) 일본 지하 아이돌",
+        "keywords": [
+          "아이돌",
+          "일본"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.61,
+        "peak_score": 76.14,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "ㅇㅎ) 일본 지하 아이돌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735758",
+            "score": 68.14
+          },
+          {
+            "source": "더쿠",
+            "rank": 81,
+            "title": "13살 여아랑 사귄 정황으로 논란이 된 23살 일본 아이돌",
+            "url": "https://theqoo.net/hot/4363886429",
+            "score": 54.53
+          }
+        ],
+        "first_seen": "2026-10-03T16:01:31.160167+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "부캉이 그물 넘는 영상",
+        "keywords": [
+          "부캉이",
+          "그물"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.57,
+        "peak_score": 75.1,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 32,
+            "title": "부캉이 그물 넘는 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140294",
+            "score": 67.1
+          },
+          {
+            "source": "더쿠",
+            "rank": 58,
+            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+            "url": "https://theqoo.net/hot/4363789207",
+            "score": 60.08
+          }
+        ],
+        "first_seen": "2026-10-03T16:01:31.160167+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "i56c53283",
@@ -546,7 +879,45 @@
         "last_seen": "2026-10-03T10:28:43.355161+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 15,
+        "change": -4
+      },
+      {
+        "id": "i707041a3",
+        "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "금메달"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.86,
+        "peak_score": 73.39,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 37,
+            "title": "현지 숙소에 금메달 놓고 온 선수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735755",
+            "score": 64.39
+          },
+          {
+            "source": "더쿠",
+            "rank": 51,
+            "title": "[아시안게임]양궁 남자 리커브 이우석 금메달🥇🎯🎉",
+            "url": "https://theqoo.net/hot/4363894207",
+            "score": 60.84
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
         "change": "NEW"
       },
       {
@@ -586,8 +957,8 @@
         "last_seen": "2026-10-03T03:43:55.638495+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 17,
+        "change": -5
       },
       {
         "id": "i9f5e1ed4",
@@ -624,8 +995,8 @@
         "last_seen": "2026-10-03T03:43:55.638495+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -2
+        "rank": 18,
+        "change": -5
       }
     ],
     "weekly": [
@@ -862,15 +1233,17 @@
       },
       {
         "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
         "keywords": [
-          "암살자"
+          "암살자",
+          "영화",
+          "돌파"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 128.62,
+        "score": 128.8,
         "peak_score": 94.14,
-        "appearances": 26,
+        "appearances": 27,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -881,22 +1254,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 28,
-            "title": "암살자(들)역사왜곡주장은 그냥 개소리일뿐",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735658",
-            "score": 66.87
+            "source": "클리앙",
+            "rank": 14,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 77.22
           },
           {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "다시 보는 암살자(들) 굿즈",
-            "url": "https://www.clien.net/service/board/park/19272946?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
+            "source": "더쿠",
+            "rank": 30,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 68.0
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T10:28:43.355161+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
@@ -1184,6 +1557,47 @@
         "change": 0
       },
       {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 115.87,
+        "peak_score": 92.05,
+        "appearances": 12,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 33,
+            "title": "백종원표 예산시장, 지금은 어떻게 됐을까?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467611&_dcbest=1&page=1",
+            "score": 65.93
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "소는 풀만 먹는데 어떻게 마블링이 생길까?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735763",
+            "score": 58.65
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 1
+      },
+      {
         "id": "i70f39dd0",
         "title": "‘byd’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1218,48 +1632,8 @@
         "last_seen": "2026-10-02T15:55:08.917874+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 115.47,
-        "peak_score": 92.05,
-        "appearances": 11,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 29,
-            "title": "총은 사람을 어떻게 죽이는가?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467509&_dcbest=1&page=1",
-            "score": 66.15
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 75,
-            "title": "이런 곰팡이 청소는 어떻게 하나요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=20153",
-            "score": 56.65
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-10-03T08:03:19.978953+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 15,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i1d3a3c3b",
@@ -1568,15 +1942,17 @@
       },
       {
         "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
         "keywords": [
-          "암살자"
+          "암살자",
+          "영화",
+          "돌파"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 126.31,
+        "score": 126.59,
         "peak_score": 94.14,
-        "appearances": 16,
+        "appearances": 17,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1586,22 +1962,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 28,
-            "title": "암살자(들)역사왜곡주장은 그냥 개소리일뿐",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735658",
-            "score": 66.87
+            "source": "클리앙",
+            "rank": 14,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 77.22
           },
           {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "다시 보는 암살자(들) 굿즈",
-            "url": "https://www.clien.net/service/board/park/19272946?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
+            "source": "더쿠",
+            "rank": 30,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 68.0
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T10:28:43.355161+09:00",
+        "last_seen": "2026-10-03T16:01:31.160167+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
