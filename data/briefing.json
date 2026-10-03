@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-04",
   "label": "2026년 10월 04일",
-  "collected_at": "2026-10-04T07:23:03.634035+09:00",
+  "collected_at": "2026-10-04T08:04:02.348675+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘축구 시상식 태극기 게양 논란’입니다. 실시간 키워드 상위: #축구. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘축구 시상식 태극기 게양 논란’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 9,
-    "keywords": 18,
-    "top100_views": 1085669,
-    "top100_comments": 8841
+    "daily_issues": 10,
+    "keywords": 13,
+    "top100_views": 1101032,
+    "top100_comments": 8374
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#축구",
-      "text": "5개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
-      "keyword": "축구"
+      "title": "#한국",
+      "text": "5개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-04T07:23:03.634035+09:00"
         }
       },
-      "score": 108.9,
+      "score": 108.85,
       "views": 15731,
       "likes": 81,
       "comments": 115,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "딸배하고 동전으로 3만원 받음",
@@ -88,12 +88,12 @@
           "last_seen": "2026-10-04T01:37:22.237917+09:00"
         }
       },
-      "score": 107.98,
+      "score": 107.93,
       "views": 29371,
       "likes": 200,
       "comments": 77,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "800살이라고 화제였던 은행나무 거짓으로 밝혀짐",
@@ -117,12 +117,41 @@
           "last_seen": "2026-10-04T04:29:59.427007+09:00"
         }
       },
-      "score": 106.57,
+      "score": 106.52,
       "views": 12764,
       "likes": 116,
       "comments": 51,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "치이카와)먼작귀 한테 어지간하면 정주지 말라는 이유",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899968?m=humor",
+      "first_seen": "2026-10-04T08:04:02.348675+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
+      "peak_score": 96.88,
+      "max_views": 8973,
+      "max_likes": 82,
+      "max_comments": 43,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-04": {
+          "max_score": 96.88,
+          "max_views": 8973,
+          "max_likes": 82,
+          "max_comments": 43,
+          "appearances": 1,
+          "last_seen": "2026-10-04T08:04:02.348675+09:00"
+        }
+      },
+      "score": 106.4,
+      "views": 8973,
+      "likes": 82,
+      "comments": 43,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "전문가들 : 샤워는 건강 상에 이점이 전혀 없다",
@@ -146,12 +175,41 @@
           "last_seen": "2026-10-04T04:29:59.427007+09:00"
         }
       },
-      "score": 105.89,
+      "score": 105.84,
       "views": 14017,
       "likes": 91,
       "comments": 62,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "흔한 불교의 우주관.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900070?m=humor",
+      "first_seen": "2026-10-04T07:23:03.634035+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
+      "peak_score": 93.69,
+      "max_views": 10270,
+      "max_likes": 42,
+      "max_comments": 44,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-04": {
+          "max_score": 93.69,
+          "max_views": 10270,
+          "max_likes": 42,
+          "max_comments": 44,
+          "appearances": 2,
+          "last_seen": "2026-10-04T08:04:02.348675+09:00"
+        }
+      },
+      "score": 104.11,
+      "views": 10270,
+      "likes": 42,
+      "comments": 44,
+      "active_days": 1,
+      "change": 0
     },
     {
       "title": "GPT) 기술적 특이점 안 올 것 같은데?",
@@ -175,41 +233,12 @@
           "last_seen": "2026-10-04T01:37:22.237917+09:00"
         }
       },
-      "score": 103.95,
+      "score": 103.9,
       "views": 12338,
       "likes": 66,
       "comments": 63,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "흔한 불교의 우주관.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900070?m=humor",
-      "first_seen": "2026-10-04T07:23:03.634035+09:00",
-      "last_seen": "2026-10-04T07:23:03.634035+09:00",
-      "peak_score": 93.69,
-      "max_views": 10270,
-      "max_likes": 42,
-      "max_comments": 44,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-04": {
-          "max_score": 93.69,
-          "max_views": 10270,
-          "max_likes": 42,
-          "max_comments": 44,
-          "appearances": 1,
-          "last_seen": "2026-10-04T07:23:03.634035+09:00"
-        }
-      },
-      "score": 103.21,
-      "views": 10270,
-      "likes": 42,
-      "comments": 44,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "6개 이상 먹어봤으면 할아버지.jpg",
@@ -233,12 +262,41 @@
           "last_seen": "2026-10-04T01:37:22.237917+09:00"
         }
       },
-      "score": 101.62,
+      "score": 101.57,
       "views": 13596,
       "likes": 47,
       "comments": 94,
       "active_days": 1,
-      "change": -2
+      "change": -1
+    },
+    {
+      "title": "11월부터 완전히 바뀐다는 일본 면세 규정",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900393?m=humor",
+      "first_seen": "2026-10-04T08:04:02.348675+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
+      "peak_score": 90.98,
+      "max_views": 9851,
+      "max_likes": 30,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-04": {
+          "max_score": 90.98,
+          "max_views": 9851,
+          "max_likes": 30,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-10-04T08:04:02.348675+09:00"
+        }
+      },
+      "score": 100.5,
+      "views": 9851,
+      "likes": 30,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "원작자가 개빡칠뻔 했음",
@@ -262,190 +320,144 @@
           "last_seen": "2026-10-04T04:29:59.427007+09:00"
         }
       },
-      "score": 99.78,
+      "score": 99.73,
       "views": 9288,
       "likes": 60,
       "comments": 53,
       "active_days": 1,
       "change": -2
-    },
-    {
-      "title": "4~5천일 되면 한번씩 정신이 나가는게 분명함",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900104?m=humor",
-      "first_seen": "2026-10-04T07:23:03.634035+09:00",
-      "last_seen": "2026-10-04T07:23:03.634035+09:00",
-      "peak_score": 89.46,
-      "max_views": 7928,
-      "max_likes": 41,
-      "max_comments": 42,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-04": {
-          "max_score": 89.46,
-          "max_views": 7928,
-          "max_likes": 41,
-          "max_comments": 42,
-          "appearances": 1,
-          "last_seen": "2026-10-04T07:23:03.634035+09:00"
-        }
-      },
-      "score": 98.98,
-      "views": 7928,
-      "likes": 41,
-      "comments": 42,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "몇억의 책재고, 매달 빠져나가는 창고비.. 결국 '파쇄'",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soho&no=29333",
-      "first_seen": "2026-10-03T21:26:38.061970+09:00",
-      "last_seen": "2026-10-04T04:29:59.427007+09:00",
-      "peak_score": 88.08,
-      "max_views": 20442,
-      "max_likes": 45,
-      "max_comments": 60,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-03": {
-          "max_score": 39.04,
-          "max_views": 10169,
-          "max_likes": 27,
-          "max_comments": 42,
-          "appearances": 1,
-          "last_seen": "2026-10-03T21:26:38.061970+09:00"
-        },
-        "2026-10-04": {
-          "max_score": 88.08,
-          "max_views": 20442,
-          "max_likes": 45,
-          "max_comments": 60,
-          "appearances": 2,
-          "last_seen": "2026-10-04T04:29:59.427007+09:00"
-        }
-      },
-      "score": 98.26,
-      "views": 20442,
-      "likes": 45,
-      "comments": 60,
-      "active_days": 1,
-      "change": -3
     }
   ],
   "rising": [
     {
       "source": "디시인사이드",
-      "title": "[단독] \"국내 도입 신중\"…레버리지 출시 전 금감원 용역 경고 묵살됐나",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467757&_dcbest=1&page=1",
+      "title": "경찰 적대시하는 가리봉동 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467763&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 8246,
-      "likes": 77,
-      "comments": 107,
-      "score": 73.66,
-      "change": 0,
-      "current_rank": 14,
+      "views": 3164,
+      "likes": 37,
+      "comments": 52,
+      "score": 63.49,
+      "change": 16,
+      "current_rank": 37,
       "new_entry": false,
-      "delta_views": 3222,
-      "delta_likes": 23,
-      "delta_comments": 24,
-      "rank_gain": 0,
-      "rising_score": 91.7,
+      "delta_views": 2937,
+      "delta_likes": 34,
+      "delta_comments": 47,
+      "rank_gain": 16,
+      "rising_score": 97.79,
       "rising_rank": 1,
-      "window_minutes": 173
+      "window_minutes": 41
     },
     {
-      "source": "인벤",
-      "title": "2분뉴스에 출연한 박현광 기자의 발언을 듣고...",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735974",
+      "source": "클리앙",
+      "title": "은행 해킹보다 더 심각한 일이 곧 닥칠 겁니다.",
+      "url": "https://www.clien.net/service/board/park/19273253?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 1816,
-      "likes": 0,
-      "comments": 7,
-      "score": 72.76,
-      "change": 43,
-      "current_rank": 15,
+      "views": 2431,
+      "likes": 1,
+      "comments": 15,
+      "score": 74.65,
+      "change": 19,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 1397,
+      "delta_views": 1916,
       "delta_likes": 0,
-      "delta_comments": 7,
-      "rank_gain": 43,
-      "rising_score": 90.34,
+      "delta_comments": 11,
+      "rank_gain": 19,
+      "rising_score": 93.67,
       "rising_rank": 2,
-      "window_minutes": 173
+      "window_minutes": 41
     },
     {
       "source": "디시인사이드",
-      "title": "시간이 지날수록 재평가되는 빌런",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467739&_dcbest=1&page=1",
+      "title": "의외로 성별따라 다르다는 마케팅 방법",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467759&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 23336,
-      "likes": 316,
-      "comments": 152,
-      "score": 79.03,
+      "views": 16067,
+      "likes": 71,
+      "comments": 81,
+      "score": 73.04,
       "change": 0,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 1940,
+      "delta_likes": 14,
+      "delta_comments": 9,
+      "rank_gain": 0,
+      "rising_score": 88.84,
+      "rising_rank": 3,
+      "window_minutes": 41
+    },
+    {
+      "source": "인벤",
+      "title": "후방 ㅡ 유디 인스타",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735979",
+      "category": "이슈",
+      "views": 2466,
+      "likes": 0,
+      "comments": 0,
+      "score": 74.65,
+      "change": 19,
       "current_rank": 6,
       "new_entry": false,
-      "delta_views": 2917,
-      "delta_likes": 33,
-      "delta_comments": 23,
+      "delta_views": 1127,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 19,
+      "rising_score": 87.48,
+      "rising_rank": 4,
+      "window_minutes": 41
+    },
+    {
+      "source": "뽐뿌",
+      "title": "아는 사람이 중앙대 나왔는데",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=236909",
+      "category": "이슈",
+      "views": 22299,
+      "likes": 6,
+      "comments": 174,
+      "score": 52.61,
+      "change": 0,
+      "current_rank": 91,
+      "new_entry": false,
+      "delta_views": 4527,
+      "delta_likes": 2,
+      "delta_comments": 21,
       "rank_gain": 0,
-      "rising_score": 87.27,
-      "rising_rank": 3,
-      "window_minutes": 173
+      "rising_score": 86.34,
+      "rising_rank": 5,
+      "window_minutes": 41
     },
     {
       "source": "더쿠",
       "title": "부산 사람들도 어리둥절하다는 부산 상상도 못한 상황...jpg",
       "url": "https://theqoo.net/hot/4364450567",
       "category": "이슈",
-      "views": 42545,
+      "views": 52116,
       "likes": 0,
-      "comments": 190,
-      "score": 71.84,
-      "change": 12,
-      "current_rank": 16,
+      "comments": 219,
+      "score": 73.84,
+      "change": 4,
+      "current_rank": 12,
       "new_entry": false,
-      "delta_views": 18244,
+      "delta_views": 9571,
       "delta_likes": 0,
-      "delta_comments": 40,
-      "rank_gain": 12,
-      "rising_score": 87.22,
-      "rising_rank": 4,
-      "window_minutes": 173
-    },
-    {
-      "source": "클리앙",
-      "title": "일본대형 AV레이블들도 토렌트 저작권 고소하기 시작했습니다.",
-      "url": "https://www.clien.net/service/board/park/19273235?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 6174,
-      "likes": 0,
-      "comments": 13,
-      "score": 70.37,
-      "change": 0,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 2767,
-      "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 0,
-      "rising_score": 85.77,
-      "rising_rank": 5,
-      "window_minutes": 173
+      "delta_comments": 29,
+      "rank_gain": 4,
+      "rising_score": 84.43,
+      "rising_rank": 6,
+      "window_minutes": 41
     },
     {
       "source": "루리웹",
-      "title": "개 내쫓는 장치를 개발한 중국인",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899813?m=humor",
+      "title": "치이카와)먼작귀 한테 어지간하면 정주지 말라는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899968?m=humor",
       "category": "이슈",
-      "views": 15731,
-      "likes": 81,
-      "comments": 115,
-      "score": 99.38,
+      "views": 8973,
+      "likes": 82,
+      "comments": 43,
+      "score": 96.88,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -453,79 +465,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.74,
-      "rising_rank": 6,
-      "window_minutes": 173
-    },
-    {
-      "source": "루리웹",
-      "title": "흔한 불교의 우주관.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900070?m=humor",
-      "category": "이슈",
-      "views": 10270,
-      "likes": 42,
-      "comments": 44,
-      "score": 93.69,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.35,
+      "rising_score": 82.69,
       "rising_rank": 7,
-      "window_minutes": 173
+      "window_minutes": 41
     },
     {
-      "source": "더쿠",
-      "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
-      "url": "https://theqoo.net/hot/4364454659",
+      "source": "클리앙",
+      "title": "한국 국군의 날 78주년을 축하해주는 폴란드",
+      "url": "https://www.clien.net/service/board/park/19273255?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 30105,
-      "likes": 0,
-      "comments": 149,
-      "score": 70.0,
-      "change": 18,
-      "current_rank": 20,
+      "views": 1114,
+      "likes": 2,
+      "comments": 2,
+      "score": 68.14,
+      "change": 26,
+      "current_rank": 28,
       "new_entry": false,
-      "delta_views": 17108,
-      "delta_likes": 0,
-      "delta_comments": 39,
-      "rank_gain": 18,
-      "rising_score": 80.93,
+      "delta_views": 1050,
+      "delta_likes": 2,
+      "delta_comments": 2,
+      "rank_gain": 26,
+      "rising_score": 82.3,
       "rising_rank": 8,
-      "window_minutes": 173
-    },
-    {
-      "source": "인벤",
-      "title": "시스루 전소미",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735970",
-      "category": "연예",
-      "views": 5302,
-      "likes": 0,
-      "comments": 6,
-      "score": 79.2,
-      "change": 1,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 2508,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 1,
-      "rising_score": 80.74,
-      "rising_rank": 9,
-      "window_minutes": 173
+      "window_minutes": 41
     },
     {
       "source": "루리웹",
-      "title": "4~5천일 되면 한번씩 정신이 나가는게 분명함",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900104?m=humor",
+      "title": "11월부터 완전히 바뀐다는 일본 면세 규정",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900393?m=humor",
       "category": "이슈",
-      "views": 7928,
-      "likes": 41,
-      "comments": 42,
-      "score": 89.46,
+      "views": 9851,
+      "likes": 30,
+      "comments": 51,
+      "score": 90.98,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -533,9 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.57,
+      "rising_score": 80.21,
+      "rising_rank": 9,
+      "window_minutes": 41
+    },
+    {
+      "source": "루리웹",
+      "title": "[스팀] Legend of Cina (무료/무료)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107764",
+      "category": "게임",
+      "views": 22302,
+      "likes": 57,
+      "comments": 9,
+      "score": 84.82,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.62,
       "rising_rank": 10,
-      "window_minutes": 173
+      "window_minutes": 41
     }
   ],
   "issues": [
@@ -593,6 +585,45 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.05,
+      "peak_score": 81.0,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 17,
+          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
+          "url": "https://theqoo.net/hot/4364454659",
+          "score": 72.0
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 52,
+          "title": "한국의 1/11 이라는 일본 연예계 출연료",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
+          "score": 60.41
+        }
+      ],
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
       "change": 3
     },
     {
@@ -631,8 +662,8 @@
       "last_seen": "2026-10-04T07:23:03.634035+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "iff3f9976",
@@ -673,8 +704,8 @@
       "last_seen": "2026-10-04T01:37:22.237917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": -2
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -712,47 +743,90 @@
       "last_seen": "2026-10-04T01:37:22.237917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ieed99e85",
+      "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
       "keywords": [
-        "한국에서"
+        "사상",
+        "한국에",
+        "무릎",
+        "또다시",
+        "4연패",
+        "일본반응"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.35,
-      "peak_score": 72.42,
-      "appearances": 3,
+      "score": 86.64,
+      "peak_score": 77.17,
+      "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 67,
-          "title": "중국 웹소설이 한국에서 무조건 망하는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141110",
-          "score": 59.27
+          "source": "인벤",
+          "rank": 26,
+          "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735981",
+          "score": 69.17
         },
         {
-          "source": "디시인사이드",
-          "rank": 92,
-          "title": "한국에서 타죽은 조선족 여자들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
-          "score": 53.01
+          "source": "루리웹",
+          "rank": 78,
+          "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900703?m=humor_only&t=now",
+          "score": 55.38
         }
       ],
-      "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-04T07:23:03.634035+09:00",
+      "first_seen": "2026-10-04T08:04:02.348675+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 2
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.98,
+      "peak_score": 72.05,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 51,
+          "title": "일본인조차 실례라고 말하는 아시안게임",
+          "url": "https://theqoo.net/hot/4364415071",
+          "score": 60.68
+        },
+        {
+          "source": "루리웹",
+          "rank": 71,
+          "title": "아시안게임) 그래그래 일본아, 너네 아겜 축구 2군인거 인정해줄게",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900738?m=humor_only&t=now",
+          "score": 56.15
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-04T08:04:02.348675+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
     },
     {
       "id": "i27245075",
@@ -789,8 +863,8 @@
       "last_seen": "2026-10-04T04:29:59.427007+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "id958e4aa",
@@ -827,47 +901,8 @@
       "last_seen": "2026-10-04T01:37:22.237917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "아시안게임 축구 경기력에 실망",
-      "keywords": [
-        "아시안게임",
-        "축구"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 83.54,
-      "peak_score": 72.05,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 76,
-          "title": "아시안게임 축구 경기력에 실망",
-          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
-          "score": 56.71
-        },
-        {
-          "source": "더쿠",
-          "rank": 92,
-          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
-          "url": "https://theqoo.net/hot/4364330523",
-          "score": 53.42
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-04T04:29:59.427007+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i8020994a",
@@ -908,401 +943,364 @@
       "last_seen": "2026-10-04T01:37:22.237917+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i268dadd0",
-      "title": "축구 시상식 태극기 게양 논란",
-      "keywords": [
-        "축구",
-        "태극기",
-        "게양",
-        "시상식"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 82.51,
-      "peak_score": 82.51,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 33,
-          "title": "축구 시상식 태극기 게양 논란",
-          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
-          "score": 66.51
-        },
-        {
-          "source": "인벤",
-          "rank": 84,
-          "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
-          "score": 55.54
-        },
-        {
-          "source": "루리웹",
-          "rank": 99,
-          "title": "아겜 축구 태극기 게양 실패 야후 재팬 반응.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900563?m=humor_only&t=now",
-          "score": 51.47
-        },
-        {
-          "source": "인벤",
-          "rank": 97,
-          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
-          "score": 51.76
-        }
-      ],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "i707041a3",
-      "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "금메달"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 68.77,
-      "peak_score": 68.77,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 62,
-          "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔네요 ㄷㄷ.mp4",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141188",
-          "score": 59.77
-        },
-        {
-          "source": "클리앙",
-          "rank": 64,
-          "title": "축구 금메달 딴 나라 국기 안올리는 일본",
-          "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
-          "score": 59.66
-        }
-      ],
-      "rank": 2,
-      "change": 0
-    },
-    {
       "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "한국에서"
+        "한국의"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 68.27,
-      "peak_score": 68.27,
+      "score": 81.0,
+      "peak_score": 81.0,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 67,
-          "title": "중국 웹소설이 한국에서 무조건 망하는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141110",
-          "score": 59.27
+          "source": "더쿠",
+          "rank": 17,
+          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
+          "url": "https://theqoo.net/hot/4364454659",
+          "score": 72.0
         },
         {
           "source": "디시인사이드",
-          "rank": 92,
-          "title": "한국에서 타죽은 조선족 여자들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
-          "score": 53.01
+          "rank": 52,
+          "title": "한국의 1/11 이라는 일본 연예계 출연료",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
+          "score": 60.41
+        }
+      ],
+      "rank": 1,
+      "change": 2
+    },
+    {
+      "id": "ieed99e85",
+      "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
+      "keywords": [
+        "사상",
+        "한국에",
+        "무릎",
+        "또다시",
+        "4연패",
+        "일본반응"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.17,
+      "peak_score": 77.17,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735981",
+          "score": 69.17
+        },
+        {
+          "source": "루리웹",
+          "rank": 78,
+          "title": "日 언론 \"또다시 한국에 무릎, 한국, 대회 사상 최초 4연패\" 일본반응",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900703?m=humor_only&t=now",
+          "score": 55.38
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 69.68,
+      "peak_score": 69.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 51,
+          "title": "일본인조차 실례라고 말하는 아시안게임",
+          "url": "https://theqoo.net/hot/4364415071",
+          "score": 60.68
+        },
+        {
+          "source": "루리웹",
+          "rank": 71,
+          "title": "아시안게임) 그래그래 일본아, 너네 아겜 축구 2군인거 인정해줄게",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900738?m=humor_only&t=now",
+          "score": 56.15
         }
       ],
       "rank": 3,
-      "change": 2
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "축구",
-      "score": 182.41,
-      "post_count": 7,
+      "keyword": "한국",
+      "score": 189.54,
+      "post_count": 6,
       "source_count": 5,
-      "best_rank": 33,
+      "best_rank": 11,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "루리웹",
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": 1
     },
     {
-      "keyword": "한국",
-      "score": 161.08,
-      "post_count": 6,
-      "source_count": 4,
-      "best_rank": 12,
+      "keyword": "일본",
+      "score": 128.97,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "뽐뿌",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 0
+      "change": 14
     },
     {
-      "keyword": "중국",
-      "score": 149.17,
-      "post_count": 5,
-      "source_count": 4,
-      "best_rank": 38,
+      "keyword": "축구",
+      "score": 119.99,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 1
+      "change": -2
     },
     {
-      "keyword": "방법",
-      "score": 123.75,
+      "keyword": "중국",
+      "score": 113.35,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 11,
+      "best_rank": 47,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "게양",
-      "score": 115.23,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 33,
+      "keyword": "무료",
+      "score": 108.06,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 4,
       "sources": [
         "루리웹",
-        "인벤",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "후방",
-      "score": 112.45,
-      "post_count": 5,
-      "source_count": 2,
-      "best_rank": 25,
+      "keyword": "인스타",
+      "score": 90.76,
+      "post_count": 4,
+      "source_count": 1,
+      "best_rank": 6,
       "sources": [
-        "루리웹",
         "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "후방"
+      ],
       "rank": 6,
-      "change": "NEW"
+      "change": 7
     },
     {
-      "keyword": "태극기",
-      "score": 110.16,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 33,
+      "keyword": "방법",
+      "score": 90.49,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
       "sources": [
-        "루리웹",
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 2
-    },
-    {
-      "keyword": "사이",
-      "score": 90.0,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 8,
       "change": -3
     },
     {
-      "keyword": "영화",
-      "score": 89.38,
+      "keyword": "일본반응",
+      "score": 87.2,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 26,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "4연패",
+        "대회",
+        "또다시",
+        "무릎",
+        "사상"
+      ],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "영화",
+      "score": 85.83,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 40,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": -3
+      "change": 0
     },
     {
-      "keyword": "시상식",
-      "score": 88.34,
-      "post_count": 3,
+      "keyword": "결혼",
+      "score": 85.1,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 56,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -3
-    },
-    {
-      "keyword": "구글",
-      "score": 85.64,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "아기",
-      "score": 85.5,
+      "keyword": "사이",
+      "score": 84.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 36,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -3
+    },
+    {
+      "keyword": "아시안게임",
+      "score": 83.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 51,
+      "sources": [
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "인스타",
-      "score": 84.88,
-      "post_count": 4,
-      "source_count": 1,
-      "best_rank": 25,
-      "sources": [
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "금메달",
-      "score": 83.84,
+      "keyword": "구글",
+      "score": 81.69,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 62,
+      "best_rank": 64,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": -1
-    },
-    {
-      "keyword": "여자들",
-      "score": 81.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 50,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 15,
-      "change": 1
+      "rank": 13,
+      "change": -2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "개 내쫓는 장치를 개발한 중국인",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899813?m=humor",
-      "score": 99.38,
-      "views": 15731,
-      "comments": 115
+      "title": "치이카와)먼작귀 한테 어지간하면 정주지 말라는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899968?m=humor",
+      "score": 96.88,
+      "views": 8973,
+      "comments": 43
     },
     {
       "source": "뽐뿌",
-      "title": "혼다 재고차 매진",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978596",
-      "score": 82.97,
-      "views": 20004,
-      "comments": 48
+      "title": "김민재가 저격 했다는 이강인 안 뛰는 장면",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189296",
+      "score": 84.05,
+      "views": 16490,
+      "comments": 19
+    },
+    {
+      "source": "클리앙",
+      "title": "은행 해킹보다 더 심각한 일이 곧 닥칠 겁니다.",
+      "url": "https://www.clien.net/service/board/park/19273253?od=T31&po=0&category=0&groupCd=",
+      "score": 74.65,
+      "views": 2431,
+      "comments": 15
     },
     {
       "source": "인벤",
-      "title": "시스루 전소미",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735970",
-      "score": 79.2,
-      "views": 5302,
-      "comments": 6
+      "title": "후방 ㅡ 유디 인스타",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735979",
+      "score": 74.65,
+      "views": 2466,
+      "comments": 0
     },
     {
       "source": "디시인사이드",
       "title": "시간이 지날수록 재평가되는 빌런",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467739&_dcbest=1&page=1",
-      "score": 79.03,
-      "views": 23336,
-      "comments": 152
-    },
-    {
-      "source": "클리앙",
-      "title": "양쪽에서 욕을 먹기도 쉽지 않은데",
-      "url": "https://www.clien.net/service/board/park/19273236?od=T31&po=0&category=0&groupCd=",
-      "score": 74.08,
-      "views": 3602,
-      "comments": 15
+      "score": 74.43,
+      "views": 24285,
+      "comments": 156
     },
     {
       "source": "더쿠",
       "title": "아까 골 넣은 한국 선수 원숭이 포즈 하더라 이런 국제 경기에서 그런 짓거리 하는 거...민도 너무 낮지 않냐?",
       "url": "https://theqoo.net/hot/4364375015",
       "score": 74.05,
-      "views": 63104,
-      "comments": 554
+      "views": 66648,
+      "comments": 563
     }
   ]
 }
