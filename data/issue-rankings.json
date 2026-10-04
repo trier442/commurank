@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-04T23:09:08.490180+09:00",
+  "collected_at": "2026-10-05T02:55:49.352765+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,15 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i106465f0",
+        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "암살자"
+          "암살자들"
         ],
         "source_count": 3,
-        "post_count": 5,
-        "score": 84.46,
-        "peak_score": 84.46,
+        "post_count": 3,
+        "score": 77.18,
+        "peak_score": 77.18,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -28,176 +28,108 @@
         ],
         "posts": [
           {
+            "source": "클리앙",
+            "rank": 51,
+            "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
+            "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
+            "score": 60.18
+          },
+          {
             "source": "인벤",
-            "rank": 34,
-            "title": "메가박스, '암살자(들)' 탄흔 티켓 논란 사과·전량 폐기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736247",
-            "score": 65.46
+            "rank": 70,
+            "title": "암살자들 영화로 국민의힘이 선동하는중",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+            "score": 55.42
           },
           {
             "source": "디시인사이드",
-            "rank": 36,
-            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
-            "score": 64.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "암살자(들) 이거 정부에서 밀어준건가요?",
-            "url": "https://www.clien.net/service/board/park/19273534?od=T31&po=0&category=0&groupCd=",
-            "score": 61.78
+            "rank": 80,
+            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
+            "score": 54.14
           }
         ],
         "rank": 1,
-        "change": 0
+        "change": 3
       },
       {
-        "id": "i5781c296",
-        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "네이버"
+          "이재명"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 81.28,
-        "peak_score": 81.28,
+        "score": 86.02,
+        "peak_score": 86.02,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 21,
-            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-            "score": 71.28
+            "source": "클리앙",
+            "rank": 7,
+            "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
+            "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
+            "score": 76.02
           },
           {
             "source": "뽐뿌",
-            "rank": 70,
-            "title": "[네이버] 앤디스 초콜렛 3종 (13,900원 / 무배)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738024",
-            "score": 57.34
+            "rank": 16,
+            "title": "최배근)교수 이재명 지지 철회",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
+            "score": 73.11
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5db928b2",
+        "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "트럼프"
+          "전세계"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 106.69,
-        "peak_score": 106.69,
+        "score": 81.54,
+        "peak_score": 81.54,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹"
+          "루리웹",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "[속보] 트럼프 \"외국기업, 美에 투자 안하면 관세 300% 부과\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76906932?m=humor",
-            "score": 97.69
+            "source": "클리앙",
+            "rank": 18,
+            "title": "[전세계] 영화 어벤져스 : 엔드게임 - 역대 흥행 1위 등극",
+            "url": "https://www.clien.net/service/board/park/19273583?od=T31&po=0&category=0&groupCd=",
+            "score": 72.54
           },
           {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "트럼프 “김정은과 잘 지내…북한 핵미사일 112개”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467909&_dcbest=1&page=1",
-            "score": 57.55
+            "source": "루리웹",
+            "rank": 30,
+            "title": "전세계 승객수 1위 항공 노선 레전드 ㄷㄷㄷㄷ.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911993?m=humor_only&t=now",
+            "score": 65.91
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "i106465f0",
-        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ia8451ee4",
+        "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "암살자들"
+          "군면제"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.28,
-        "peak_score": 80.28,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 21,
-            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-            "score": 71.28
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 42,
-            "title": "암살자들 후기",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91757",
-            "score": 62.78
-          }
-        ],
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "iead2b930",
-        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "오늘자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.47,
-        "peak_score": 79.47,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 23,
-            "title": "오늘자 안원잘부 명장면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736240",
-            "score": 70.47
-          },
-          {
-            "source": "더쿠",
-            "rank": 86,
-            "title": "오늘자 파리 라코스테 패션쇼 참석해서 비주얼 반응 좋은 아이브 안유진",
-            "url": "https://theqoo.net/hot/4365135698",
-            "score": 54.37
-          }
-        ],
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "ic87ce8e8",
-        "title": "‘최악의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "최악의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.84,
-        "peak_score": 74.84,
+        "score": 77.55,
+        "peak_score": 77.55,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -206,17 +138,91 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 32,
-            "title": "올해 드라마 최악의 엔딩으로 끝난 포핸즈.jpg",
-            "url": "https://theqoo.net/hot/4365248746",
-            "score": 65.84
+            "rank": 24,
+            "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
+            "url": "https://theqoo.net/hot/4365382129",
+            "score": 68.55
           },
           {
             "source": "루리웹",
-            "rank": 67,
-            "title": "은근 최악의 유형인 사람",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76910332?m=humor_only&t=now",
-            "score": 57.69
+            "rank": 39,
+            "title": "아겜 군면제 논란 ㄹㅇ 가불기라서 웃기긴 함",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911973?m=humor_only&t=now",
+            "score": 63.53
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.89,
+        "peak_score": 75.89,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 66.89
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
+            "score": 50.38
+          }
+        ],
+        "rank": 5,
+        "change": -4
+      },
+      {
+        "id": "ifd24d317",
+        "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
+        "keywords": [
+          "36년째",
+          "축구협회",
+          "괜찮나",
+          "사과문",
+          "특례",
+          "논란인데",
+          "바뀌는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 60.08,
+        "peak_score": 60.08,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 91,
+            "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.clien.net/service/board/park/19273563?od=T31&po=0&category=0&groupCd=",
+            "score": 52.08
+          },
+          {
+            "source": "인벤",
+            "rank": 97,
+            "title": "축구협회 사과문/병역 특례 괜찮나\" 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736270",
+            "score": 50.81
           }
         ],
         "rank": 6,
@@ -225,218 +231,126 @@
     ],
     "daily": [
       {
-        "id": "ibd61c9f9",
-        "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "봤다",
-          "금메달이고",
-          "중요하지",
-          "트로피고",
-          "양민혁"
+          "이재명"
         ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 124.61,
-        "peak_score": 101.68,
-        "appearances": 3,
+        "source_count": 2,
+        "post_count": 3,
+        "score": 96.49,
+        "peak_score": 86.02,
+        "appearances": 1,
         "sources": [
-          "더쿠",
           "뽐뿌",
-          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
-            "url": "https://theqoo.net/hot/4364534101",
-            "score": 79.68
-          },
-          {
-            "source": "인벤",
-            "rank": 12,
-            "title": "양민혁 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736016",
-            "score": 73.33
-          },
-          {
             "source": "클리앙",
-            "rank": 22,
-            "title": "금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다",
-            "url": "https://www.clien.net/service/board/park/19273287?od=T31&po=0&category=0&groupCd=",
-            "score": 70.04
+            "rank": 7,
+            "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
+            "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
+            "score": 76.02
           },
           {
             "source": "뽐뿌",
-            "rank": 88,
-            "title": "양민혁 금메달보단 군면제 하나만 봤다.gisa",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189314",
-            "score": 53.69
+            "rank": 16,
+            "title": "최배근)교수 이재명 지지 철회",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
+            "score": 73.11
           }
         ],
-        "first_seen": "2026-10-04T10:06:25.171924+09:00",
-        "last_seen": "2026-10-04T10:56:40.820491+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 4,
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "ifb9def44",
-        "title": "‘양민혁’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "양민혁"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 116.95,
-        "peak_score": 99.46,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 10,
-            "title": "사과문 올린 양민혁",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736138",
-            "score": 74.41
-          },
-          {
-            "source": "더쿠",
-            "rank": 77,
-            "title": "BTS도 군대 갔는데…\"메달보다 오직 군 면제\" 양민혁 인터뷰, 민심 '부글부글' [MD이슈]",
-            "url": "https://theqoo.net/hot/4364823628",
-            "score": 55.05
-          }
-        ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": 0
+        "rank": 1,
+        "change": 13
       },
       {
-        "id": "ife3c822c",
-        "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i106465f0",
+        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "안하는"
+          "암살자들"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 116.18,
-        "peak_score": 106.71,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "공무원이 일 안하는 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76902573?m=humor",
-            "score": 97.71
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 25,
-            "title": "제가 다이소 가서 멤버십 적립을 안하는 이유",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141670",
-            "score": 67.99
-          }
-        ],
-        "first_seen": "2026-10-04T17:18:37.774835+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 116.16,
-        "peak_score": 106.69,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 91.65,
+        "peak_score": 77.18,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "[속보] 트럼프 \"외국기업, 美에 투자 안하면 관세 300% 부과\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76906932?m=humor",
-            "score": 97.69
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "트럼프 “김정은과 잘 지내…북한 핵미사일 112개”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467909&_dcbest=1&page=1",
-            "score": 57.55
-          }
-        ],
-        "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i00705cf2",
-        "title": "유해진 배우 집앞 시위는 또라이짓 맞습니다.",
-        "keywords": [
-          "유해진",
-          "집앞"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 113.14,
-        "peak_score": 90.21,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 16,
-            "title": "유해진 배우 집앞 시위는 또라이짓 맞습니다.",
-            "url": "https://www.clien.net/service/board/park/19273469?od=T31&po=0&category=0&groupCd=",
-            "score": 70.05
+            "rank": 51,
+            "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
+            "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
+            "score": 60.18
           },
           {
             "source": "인벤",
-            "rank": 26,
-            "title": "배우 유해진 집앞 시위 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736174",
-            "score": 66.39
+            "rank": 70,
+            "title": "암살자들 영화로 국민의힘이 선동하는중",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+            "score": 55.42
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
+            "score": 54.14
           }
         ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T19:06:01.996633+09:00",
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i5db928b2",
+        "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "전세계"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.01,
+        "peak_score": 81.54,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 18,
+            "title": "[전세계] 영화 어벤져스 : 엔드게임 - 역대 흥행 1위 등극",
+            "url": "https://www.clien.net/service/board/park/19273583?od=T31&po=0&category=0&groupCd=",
+            "score": 72.54
+          },
+          {
+            "source": "루리웹",
+            "rank": 30,
+            "title": "전세계 승객수 1위 항공 노선 레전드 ㄷㄷㄷㄷ.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911993?m=humor_only&t=now",
+            "score": 65.91
+          }
+        ],
+        "first_seen": "2026-10-05T02:55:49.352765+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 3,
+        "change": "NEW"
       },
       {
         "id": "ia8451ee4",
@@ -444,38 +358,37 @@
         "keywords": [
           "군면제"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 112.25,
-        "peak_score": 95.76,
-        "appearances": 2,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.02,
+        "peak_score": 77.55,
+        "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
+          "더쿠",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "지금 현재 축구 군면제 논란 커뮤 반응 근황 ㄷㄷ.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467885&_dcbest=1&page=1",
-            "score": 63.83
+            "source": "더쿠",
+            "rank": 24,
+            "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
+            "url": "https://theqoo.net/hot/4365382129",
+            "score": 68.55
           },
           {
-            "source": "뽐뿌",
-            "rank": 97,
-            "title": "얘들 덕분에 진짜 아겜 군면제 없어질지도",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=699091",
-            "score": 52.78
+            "source": "루리웹",
+            "rank": 39,
+            "title": "아겜 군면제 논란 ㄹㅇ 가불기라서 웃기긴 함",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911973?m=humor_only&t=now",
+            "score": 63.53
           }
         ],
         "first_seen": "2026-09-29T17:24:25.017696+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 4,
+        "change": 2
       },
       {
         "id": "i78f6419e",
@@ -483,296 +396,54 @@
         "keywords": [
           "암살자"
         ],
-        "source_count": 3,
-        "post_count": 5,
-        "score": 110.05,
-        "peak_score": 89.0,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 34,
-            "title": "메가박스, '암살자(들)' 탄흔 티켓 논란 사과·전량 폐기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736247",
-            "score": 65.46
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 36,
-            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
-            "score": 64.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "암살자(들) 이거 정부에서 밀어준건가요?",
-            "url": "https://www.clien.net/service/board/park/19273534?od=T31&po=0&category=0&groupCd=",
-            "score": 61.78
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
-        "rank": 7,
-        "change": -1
-      },
-      {
-        "id": "i707041a3",
-        "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "금메달"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 108.68,
-        "peak_score": 87.95,
-        "appearances": 6,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 82,
-            "title": "진짜 군면제 필요없이 금메달 하나만 바라본 선수들.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736112",
-            "score": 53.8
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 88,
-            "title": "축구 금메달, 락커룸 전역모 자랑 논란",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141535",
-            "score": 53.19
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 97,
-            "title": "축구 금메달 세레머니 훼방놓은 일본인들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467795&_dcbest=1&page=1",
-            "score": 50.67
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T16:53:53.925317+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 8,
-        "change": -1
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 107.45,
-        "peak_score": 85.05,
-        "appearances": 7,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 21,
-            "title": "아시안게임 계체 탈락 관련 정수진 선수 입장문",
-            "url": "https://theqoo.net/hot/4364919968",
-            "score": 68.05
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 47,
-            "title": "[아시안게임] 유승민 체육회장 \"선수들 '군면제' 자랑, 국민 정서 안 맞아\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=355042",
-            "score": 61.84
-          },
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "무릎이 말하는 일반 대회우승과 아시안게임 금메달의 차이",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736186",
-            "score": 54.95
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T19:06:01.996633+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 9,
-        "change": -1
-      },
-      {
-        "id": "i268dadd0",
-        "title": "축구 시상식 태극기 게양 논란",
-        "keywords": [
-          "축구",
-          "태극기",
-          "게양",
-          "시상식"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 100.0,
-        "peak_score": 82.51,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 33,
-            "title": "축구 시상식 태극기 게양 논란",
-            "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
-            "score": 66.51
-          },
-          {
-            "source": "인벤",
-            "rank": 84,
-            "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
-            "score": 55.54
-          },
-          {
-            "source": "루리웹",
-            "rank": 99,
-            "title": "아겜 축구 태극기 게양 실패 야후 재팬 반응.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76900563?m=humor_only&t=now",
-            "score": 51.47
-          },
-          {
-            "source": "인벤",
-            "rank": 97,
-            "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
-            "score": 51.76
-          }
-        ],
-        "first_seen": "2026-09-28T09:44:07.013724+09:00",
-        "last_seen": "2026-10-04T07:23:03.634035+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
-        "rank": 10,
-        "change": -1
-      },
-      {
-        "id": "i85e1a51f",
-        "title": "‘생기는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "생기는"
-        ],
         "source_count": 2,
         "post_count": 2,
-        "score": 99.71,
-        "peak_score": 90.24,
+        "score": 85.36,
+        "peak_score": 75.89,
         "appearances": 1,
         "sources": [
-          "루리웹",
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 5,
-            "title": "한강에 외국인이 많아지며 생기는 일",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736262",
-            "score": 81.24
-          },
-          {
-            "source": "루리웹",
-            "rank": 86,
-            "title": "해리포터) 후뿌뿌뿌 출신이 특별해지면 생기는 일",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76910055?m=humor_only&t=now",
-            "score": 54.94
-          }
-        ],
-        "first_seen": "2026-10-04T22:42:50.132252+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
-      },
-      {
-        "id": "i8aca3781",
-        "title": "‘선수들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "선수들"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 99.31,
-        "peak_score": 81.82,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 47,
-            "title": "유퀴즈와 아는 형님에 출연하는 아시안게임 선수들",
-            "url": "https://www.clien.net/service/board/park/19273438?od=T31&po=0&category=0&groupCd=",
-            "score": 62.46
+            "rank": 28,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 66.89
           },
           {
             "source": "디시인사이드",
-            "rank": 52,
-            "title": "군대 면제만 보고 뛰었다는 선수들...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467807&_dcbest=1&page=1",
-            "score": 60.84
-          },
-          {
-            "source": "인벤",
-            "rank": 72,
-            "title": "축구 대표팀 젊은 선수들 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736131",
-            "score": 56.15
+            "rank": 100,
+            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
+            "score": 50.38
           }
         ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 12,
-        "change": -1
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 2
       },
       {
-        "id": "i356ecab6",
-        "title": "검찰 폐지로 쫓겨나고 중수청으로 좌천된 사람들 근황",
+        "id": "ifd24d317",
+        "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
         "keywords": [
-          "좌천된",
-          "검찰",
-          "중수청으로"
+          "36년째",
+          "축구협회",
+          "괜찮나",
+          "사과문",
+          "특례",
+          "논란인데",
+          "바뀌는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 98.46,
-        "peak_score": 88.99,
+        "score": 69.55,
+        "peak_score": 60.08,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -781,475 +452,187 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 7,
-            "title": "검찰 폐지로 쫓겨나고 중수청으로 좌천된 사람들 근황",
-            "url": "https://www.clien.net/service/board/park/19273431?od=T31&po=0&category=0&groupCd=",
-            "score": 80.99
+            "rank": 91,
+            "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.clien.net/service/board/park/19273563?od=T31&po=0&category=0&groupCd=",
+            "score": 52.08
           },
           {
             "source": "인벤",
-            "rank": 18,
-            "title": "검찰 폐지후 중수청으로 좌천된 사람들 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736140",
-            "score": 71.38
+            "rank": 97,
+            "title": "축구협회 사과문/병역 특례 괜찮나\" 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736270",
+            "score": 50.81
           }
         ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T16:53:53.925317+09:00",
+        "first_seen": "2026-10-05T02:55:49.352765+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -1
-      },
+        "rank": 6,
+        "change": "NEW"
+      }
+    ],
+    "weekly": [
       {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "이재명"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 98.45,
-        "peak_score": 81.96,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "이재명 대통령님을 지켜주는 유일한 조직!!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736238",
-            "score": 63.08
-          },
-          {
-            "source": "클리앙",
-            "rank": 94,
-            "title": "인간의 이기심과 탐욕을 수단으로 삼는 이재명 정부가 어떻게 억강부약, 대동세상을 이",
-            "url": "https://www.clien.net/service/board/park/19273515?od=T31&po=0&category=0&groupCd=",
-            "score": 53.61
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": -1
-      },
-      {
-        "id": "ia8d31ae3",
-        "title": "애국가 끝날때까지 태극기 안올려주는 일본",
-        "keywords": [
-          "태극기",
-          "일본"
-        ],
         "source_count": 2,
         "post_count": 3,
-        "score": 96.76,
-        "peak_score": 82.83,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 31,
-            "title": "태극기 게양 안되는 사고이후에 반성회하고있었대",
-            "url": "https://theqoo.net/hot/4364557654",
-            "score": 64.84
-          },
-          {
-            "source": "인벤",
-            "rank": 34,
-            "title": "애국가 끝날때까지 태극기 안올려주는 일본",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735993",
-            "score": 64.24
-          },
-          {
-            "source": "더쿠",
-            "rank": 99,
-            "title": "태극기 줄 당기는 척만 하는 일본",
-            "url": "https://theqoo.net/hot/4364503248",
-            "score": 52.21
-          }
-        ],
-        "first_seen": "2026-10-04T10:06:25.171924+09:00",
-        "last_seen": "2026-10-04T10:56:40.820491+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 15,
-        "change": -1
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.96,
-        "peak_score": 81.0,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 48,
-            "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
-            "url": "https://theqoo.net/hot/4364454659",
-            "score": 62.21
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 70,
-            "title": "한국의 1/11 이라는 일본 연예계 출연료",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
-            "score": 59.04
-          }
-        ],
-        "first_seen": "2026-09-29T17:24:25.017696+09:00",
-        "last_seen": "2026-10-04T10:06:25.171924+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": -1
-      },
-      {
-        "id": "id59b04c5",
-        "title": "검찰 폐지로 쫓겨나고 중수청으로 이전된 사람들 근황",
-        "keywords": [
-          "중수청으로",
-          "검찰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.36,
-        "peak_score": 85.89,
+        "score": 96.49,
+        "peak_score": 86.02,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 6,
-            "title": "검찰 폐지로 쫓겨나고 중수청으로 이전된 사람들 근황",
-            "url": "https://www.clien.net/service/board/park/19273431?od=T31&po=0&category=0&groupCd=",
-            "score": 77.89
-          },
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "검찰 폐지후 중수청으로 좌천된 사람들 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736140",
-            "score": 66.18
-          }
-        ],
-        "first_seen": "2026-10-04T17:18:37.774835+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -1
-      },
-      {
-        "id": "i92615f69",
-        "title": "‘위험한’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "위험한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.18,
-        "peak_score": 83.69,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 18,
-            "title": "자동차 썬팅이 진짜 위험한 이유.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141229",
-            "score": 72.4
-          },
-          {
-            "source": "루리웹",
-            "rank": 68,
-            "title": "업계 동료끼리 썸타는게 위험한 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76901823?m=humor_only&t=now",
-            "score": 57.19
-          }
-        ],
-        "first_seen": "2026-10-04T10:54:56.626543+09:00",
-        "last_seen": "2026-10-04T10:56:40.820491+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -1
-      },
-      {
-        "id": "i6a74a238",
-        "title": "‘전역모’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "전역모"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.43,
-        "peak_score": 83.96,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 9,
-            "title": "철없는 ‘전역모 세리머니’...축구도 AG 병역혜택 논란 불붙여",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467847&_dcbest=1&page=1",
-            "score": 74.96
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 88,
-            "title": "축구 금메달, 락커룸 전역모 자랑 논란",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141535",
-            "score": 53.19
-          }
-        ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T16:53:53.925317+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "ib38c3213",
-        "title": "메가박스 암살자들 굿즈 사과문 떴네요",
-        "keywords": [
-          "메가박스",
-          "사과문",
-          "굿즈"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.35,
-        "peak_score": 83.88,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
             "rank": 7,
-            "title": "메가박스 암살자들 굿즈 사과문 떴네요",
-            "url": "https://www.clien.net/service/board/park/19273437?od=T31&po=0&category=0&groupCd=",
-            "score": 75.88
+            "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
+            "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
+            "score": 76.02
           },
           {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "메가박스 <암살자(들)> 굿즈 오리지널 티켓 관련 사과문",
-            "url": "https://theqoo.net/hot/4364869363",
-            "score": 75.68
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "최배근)교수 이재명 지지 철회",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
+            "score": 73.11
           }
         ],
-        "first_seen": "2026-10-04T17:18:37.774835+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 20,
-        "change": -1
-      }
-    ],
-    "weekly": [
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": 2
+      },
       {
         "id": "i106465f0",
         "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "암살자들"
         ],
-        "source_count": 4,
-        "post_count": 5,
-        "score": 142.41,
-        "peak_score": 108.75,
-        "appearances": 27,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 91.65,
+        "peak_score": 77.18,
+        "appearances": 1,
         "sources": [
-          "더쿠",
           "디시인사이드",
-          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 21,
-            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-            "score": 71.28
+            "source": "클리앙",
+            "rank": 51,
+            "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
+            "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
+            "score": 60.18
           },
           {
-            "source": "뽐뿌",
-            "rank": 42,
-            "title": "암살자들 후기",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91757",
-            "score": 62.78
+            "source": "인벤",
+            "rank": 70,
+            "title": "암살자들 영화로 국민의힘이 선동하는중",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+            "score": 55.42
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
+            "score": 54.14
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 1,
-        "change": 1
-      },
-      {
-        "id": "i89c5681f",
-        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "테슬라"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 142.26,
-        "peak_score": 120.77,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 49,
-            "title": "국내 테슬라 오너들 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76861458?m=humor_only&t=now",
-            "score": 62.4
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 94,
-            "title": "테슬라 차 탁송으로 받았는데 이렇게 오면 인수거부 안됨?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466930&_dcbest=1&page=1",
-            "score": 52.19
-          }
-        ],
-        "first_seen": "2026-09-30T16:33:10.684178+09:00",
-        "last_seen": "2026-09-30T21:11:02.906364+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
         "rank": 2,
         "change": -1
       },
       {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5db928b2",
+        "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명"
+          "전세계"
         ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 134.72,
-        "peak_score": 101.09,
-        "appearances": 33,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.01,
+        "peak_score": 81.54,
+        "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
+          "루리웹",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 40,
-            "title": "이재명 대통령님을 지켜주는 유일한 조직!!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736238",
-            "score": 63.08
+            "source": "클리앙",
+            "rank": 18,
+            "title": "[전세계] 영화 어벤져스 : 엔드게임 - 역대 흥행 1위 등극",
+            "url": "https://www.clien.net/service/board/park/19273583?od=T31&po=0&category=0&groupCd=",
+            "score": 72.54
           },
           {
-            "source": "클리앙",
-            "rank": 94,
-            "title": "인간의 이기심과 탐욕을 수단으로 삼는 이재명 정부가 어떻게 억강부약, 대동세상을 이",
-            "url": "https://www.clien.net/service/board/park/19273515?od=T31&po=0&category=0&groupCd=",
-            "score": 53.61
+            "source": "루리웹",
+            "rank": 30,
+            "title": "전세계 승객수 1위 항공 노선 레전드 ㄷㄷㄷㄷ.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911993?m=humor_only&t=now",
+            "score": 65.91
           }
         ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
+        "first_seen": "2026-10-05T02:55:49.352765+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": 0
+        "change": "NEW"
       },
       {
-        "id": "i18d1030c",
-        "title": "유튜버 닛몰캐쉬 전여친 폭로",
+        "id": "ia8451ee4",
+        "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "폭로",
-          "닛몰캐쉬",
-          "전여친"
+          "군면제"
         ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 133.89,
-        "peak_score": 114.96,
-        "appearances": 3,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.02,
+        "peak_score": 77.55,
+        "appearances": 1,
         "sources": [
           "더쿠",
-          "루리웹",
-          "뽐뿌"
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "유튜버 닛몰캐쉬 전여친 폭로",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76841327?m=humor",
-            "score": 98.96
-          },
-          {
             "source": "더쿠",
-            "rank": 39,
-            "title": "유튜버 닛몰캐쉬 폭로",
-            "url": "https://theqoo.net/hot/4359539571",
-            "score": 63.26
+            "rank": 24,
+            "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
+            "url": "https://theqoo.net/hot/4365382129",
+            "score": 68.55
           },
           {
-            "source": "뽐뿌",
-            "rank": 43,
-            "title": "현재 난리난 닛몰캐쉬 전여친 폭로 ㄷㄷ.JPG",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134861",
-            "score": 62.6
+            "source": "루리웹",
+            "rank": 39,
+            "title": "아겜 군면제 논란 ㄹㅇ 가불기라서 웃기긴 함",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911973?m=humor_only&t=now",
+            "score": 63.53
           }
         ],
-        "first_seen": "2026-09-29T08:23:09.958029+09:00",
-        "last_seen": "2026-09-29T11:42:17.703423+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
+        "first_seen": "2026-09-29T17:24:25.017696+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 4,
-        "change": 0
+        "change": "NEW"
       },
       {
         "id": "i78f6419e",
@@ -1257,686 +640,81 @@
         "keywords": [
           "암살자"
         ],
-        "source_count": 4,
-        "post_count": 6,
-        "score": 129.77,
-        "peak_score": 94.14,
-        "appearances": 33,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.36,
+        "peak_score": 75.89,
+        "appearances": 1,
         "sources": [
-          "더쿠",
           "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
+          "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "메가박스, '암살자(들)' 탄흔 티켓 논란 사과·전량 폐기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736247",
-            "score": 65.46
+            "rank": 28,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 66.89
           },
           {
             "source": "디시인사이드",
-            "rank": 36,
-            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
-            "score": 64.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "암살자(들) 이거 정부에서 밀어준건가요?",
-            "url": "https://www.clien.net/service/board/park/19273534?od=T31&po=0&category=0&groupCd=",
-            "score": 61.78
+            "rank": 100,
+            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
+            "score": 50.38
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 5,
-        "change": 1
+        "change": 0
       },
       {
-        "id": "id96d25c0",
-        "title": "靑 \"'DMZ 불의의 사고' 표현, 부상 장병 위로 맥락\"/정동영 장관 북에 대화제의",
+        "id": "ifd24d317",
+        "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
         "keywords": [
-          "사고",
-          "불의의",
-          "장병",
-          "맥락",
-          "북에",
-          "정동영",
-          "대화제의",
-          "dmz"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 129.66,
-        "peak_score": 105.46,
-        "appearances": 13,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 43,
-            "title": "靑 \"'DMZ 불의의 사고' 표현, 부상 장병 위로 맥락\"/정동영 장관 북에 대화제의",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735392",
-            "score": 61.83
-          },
-          {
-            "source": "클리앙",
-            "rank": 53,
-            "title": "靑 ''DMZ 불의의 사고' 표현, 부상 장병 위로 맥락'/정동영 장관 북에 대화제의",
-            "url": "https://www.clien.net/service/board/park/19272698?od=T31&po=0&category=0&groupCd=",
-            "score": 59.93
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 70,
-            "title": "北 지뢰에 장병 다쳤는데…이재명 “불의의 사고”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467340&_dcbest=1&page=1",
-            "score": 57.24
-          }
-        ],
-        "first_seen": "2026-09-29T17:26:15.303692+09:00",
-        "last_seen": "2026-10-02T15:55:08.917874+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 6,
-        "change": -1
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 125.74,
-        "peak_score": 106.69,
-        "appearances": 4,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "[속보] 트럼프 \"외국기업, 美에 투자 안하면 관세 300% 부과\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76906932?m=humor",
-            "score": 97.69
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "트럼프 “김정은과 잘 지내…북한 핵미사일 112개”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467909&_dcbest=1&page=1",
-            "score": 57.55
-          }
-        ],
-        "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i199bc4da",
-        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이동진"
+          "36년째",
+          "축구협회",
+          "괜찮나",
+          "사과문",
+          "특례",
+          "논란인데",
+          "바뀌는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 124.86,
-        "peak_score": 106.44,
-        "appearances": 11,
+        "score": 69.55,
+        "peak_score": 60.08,
+        "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "영화 평론가 이동진 불매",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 53.91
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T19:14:44.159749+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
-      },
-      {
-        "id": "ibd61c9f9",
-        "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
-        "keywords": [
-          "봤다",
-          "금메달이고",
-          "중요하지",
-          "트로피고",
-          "양민혁"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 124.61,
-        "peak_score": 101.68,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
-            "url": "https://theqoo.net/hot/4364534101",
-            "score": 79.68
-          },
-          {
-            "source": "인벤",
-            "rank": 12,
-            "title": "양민혁 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736016",
-            "score": 73.33
-          },
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다",
-            "url": "https://www.clien.net/service/board/park/19273287?od=T31&po=0&category=0&groupCd=",
-            "score": 70.04
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 88,
-            "title": "양민혁 금메달보단 군면제 하나만 봤다.gisa",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189314",
-            "score": 53.69
-          }
-        ],
-        "first_seen": "2026-10-04T10:06:25.171924+09:00",
-        "last_seen": "2026-10-04T10:56:40.820491+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 4,
-        "rank": 9,
-        "change": -1
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 3,
-        "post_count": 7,
-        "score": 123.68,
-        "peak_score": 93.0,
-        "appearances": 22,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 21,
-            "title": "아시안게임 계체 탈락 관련 정수진 선수 입장문",
-            "url": "https://theqoo.net/hot/4364919968",
-            "score": 68.05
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 47,
-            "title": "[아시안게임] 유승민 체육회장 \"선수들 '군면제' 자랑, 국민 정서 안 맞아\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=355042",
-            "score": 61.84
-          },
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "무릎이 말하는 일반 대회우승과 아시안게임 금메달의 차이",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736186",
-            "score": 54.95
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T19:06:01.996633+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 10,
-        "change": -1
-      },
-      {
-        "id": "if6b2d7b7",
-        "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "10월"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 118.77,
-        "peak_score": 105.84,
-        "appearances": 3,
-        "sources": [
-          "루리웹",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 81,
-            "title": "방송사 메인 뉴스 TOP 4 - 2026년 10월 2일(261002)",
-            "url": "https://www.clien.net/service/board/park/19272857?od=T31&po=0&category=0&groupCd=",
-            "score": 55.79
+            "rank": 91,
+            "title": "축구협회 사과문/병역 특례 괜찮나' 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.clien.net/service/board/park/19273563?od=T31&po=0&category=0&groupCd=",
+            "score": 52.08
           },
           {
             "source": "인벤",
             "rank": 97,
-            "title": "넷플릭스 10월 신작 라인업",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735535",
-            "score": 51.97
+            "title": "축구협회 사과문/병역 특례 괜찮나\" 36년째 논란인데…안 바뀌는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736270",
+            "score": 50.81
           }
         ],
-        "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-02T22:46:48.454633+09:00",
+        "first_seen": "2026-10-05T02:55:49.352765+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
-      },
-      {
-        "id": "iadaad958",
-        "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
-        "keywords": [
-          "chatgpt",
-          "가격인상"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 117.41,
-        "peak_score": 103.36,
-        "appearances": 4,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "ChatGPT 가격인상 ㄷㄷㄷㄷㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76852662?m=humor",
-            "score": 93.84
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "ChatGPT 가격인상 ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136029",
-            "score": 73.05
-          }
-        ],
-        "first_seen": "2026-09-30T11:15:48.742975+09:00",
-        "last_seen": "2026-09-30T11:45:12.415278+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 12,
-        "change": -1
-      },
-      {
-        "id": "ifb9def44",
-        "title": "‘양민혁’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "양민혁"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 116.95,
-        "peak_score": 99.46,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 10,
-            "title": "사과문 올린 양민혁",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736138",
-            "score": 74.41
-          },
-          {
-            "source": "더쿠",
-            "rank": 77,
-            "title": "BTS도 군대 갔는데…\"메달보다 오직 군 면제\" 양민혁 인터뷰, 민심 '부글부글' [MD이슈]",
-            "url": "https://theqoo.net/hot/4364823628",
-            "score": 55.05
-          }
-        ],
-        "first_seen": "2026-10-04T16:53:53.925317+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 13,
-        "change": -1
-      },
-      {
-        "id": "ifc2a71e9",
-        "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
-        "keywords": [
-          "대외비",
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 116.36,
-        "peak_score": 96.54,
-        "appearances": 12,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 33,
-            "title": "이재명 자랑질하다 대외비 공개 ㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466862&_dcbest=1&page=1",
-            "score": 65.57
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 93,
-            "title": "이재명) '대외비' 자료를 SNS 박아버린 어느 대통령",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10136224",
-            "score": 51.7
-          }
-        ],
-        "first_seen": "2026-09-30T11:07:50.708457+09:00",
-        "last_seen": "2026-09-30T15:23:50.729860+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": -1
-      },
-      {
-        "id": "i0c93084d",
-        "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
-        "keywords": [
-          "무력충돌",
-          "남북한",
-          "시간문제",
-          "우크라"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 116.35,
-        "peak_score": 105.88,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76840269?m=humor",
-            "score": 96.88
-          },
-          {
-            "source": "더쿠",
-            "rank": 76,
-            "title": "우크라 \"남북한 무력충돌 시간문제\"",
-            "url": "https://theqoo.net/hot/4359317225",
-            "score": 55.95
-          }
-        ],
-        "first_seen": "2026-09-29T03:16:54.567078+09:00",
-        "last_seen": "2026-09-29T03:16:54.567078+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 15,
-        "change": -1
-      },
-      {
-        "id": "i5b755224",
-        "title": "‘유엔사’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유엔사"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 116.26,
-        "peak_score": 104.77,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "속보) 유엔사, \"북한,정전협정위반\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76853681?m=humor",
-            "score": 93.0
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 15,
-            "title": "유엔사 \"MDL 이남서 北지뢰 1발 발견…정전협정 위반",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466858&_dcbest=1&page=1",
-            "score": 75.88
-          }
-        ],
-        "first_seen": "2026-09-30T12:00:18.754272+09:00",
-        "last_seen": "2026-09-30T12:02:25.236067+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": -1
-      },
-      {
-        "id": "ife3c822c",
-        "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "안하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 116.18,
-        "peak_score": 106.71,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "공무원이 일 안하는 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76902573?m=humor",
-            "score": 97.71
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 25,
-            "title": "제가 다이소 가서 멤버십 적립을 안하는 이유",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141670",
-            "score": 67.99
-          }
-        ],
-        "first_seen": "2026-10-04T17:18:37.774835+09:00",
-        "last_seen": "2026-10-04T17:18:37.774835+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -1
-      },
-      {
-        "id": "ic7c7aec6",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프",
-          "알래스카"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 115.91,
-        "peak_score": 106.44,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 53,
-            "title": "트럼프 \"한국이 알래스카 승인 안했다고? 괜찮아 떠블로 가\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467661&_dcbest=1&page=1",
-            "score": 60.74
-          }
-        ],
-        "first_seen": "2026-10-03T21:26:38.061970+09:00",
-        "last_seen": "2026-10-03T21:26:38.061970+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -1
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 115.87,
-        "peak_score": 92.05,
-        "appearances": 12,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 33,
-            "title": "백종원표 예산시장, 지금은 어떻게 됐을까?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467611&_dcbest=1&page=1",
-            "score": 65.93
-          },
-          {
-            "source": "인벤",
-            "rank": 66,
-            "title": "소는 풀만 먹는데 어떻게 마블링이 생길까?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735763",
-            "score": 58.65
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-10-03T16:01:31.160167+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i7b918478",
-        "title": "축구 금메달 딴 나라 국기 안올리는 일본",
-        "keywords": [
-          "일본",
-          "축구"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 115.58,
-        "peak_score": 99.85,
-        "appearances": 6,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "축구 금메달 딴 나라 국기 안올리는 일본",
-            "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
-            "score": 71.6
-          },
-          {
-            "source": "루리웹",
-            "rank": 100,
-            "title": "아겜)축구 한일전 일본 반응",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76899664?m=humor_only&t=now",
-            "score": 51.21
-          }
-        ],
-        "first_seen": "2026-10-01T04:25:33.357220+09:00",
-        "last_seen": "2026-10-04T01:37:22.237917+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 20,
-        "change": -1
+        "rank": 6,
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -1948,9 +726,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 138.57,
+        "score": 138.95,
         "peak_score": 108.75,
-        "appearances": 12,
+        "appearances": 13,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1960,24 +738,31 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 21,
-            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-            "score": 71.28
+            "source": "클리앙",
+            "rank": 51,
+            "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
+            "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
+            "score": 60.18
           },
           {
-            "source": "뽐뿌",
-            "rank": 42,
-            "title": "암살자들 후기",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91757",
-            "score": 62.78
+            "source": "인벤",
+            "rank": 70,
+            "title": "암살자들 영화로 국민의힘이 선동하는중",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+            "score": 55.42
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
+            "score": 54.14
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
         "rank": 1,
         "change": 0
       },
@@ -1989,9 +774,9 @@
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 128.03,
+        "score": 128.23,
         "peak_score": 94.14,
-        "appearances": 23,
+        "appearances": 24,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2002,30 +787,23 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "메가박스, '암살자(들)' 탄흔 티켓 논란 사과·전량 폐기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736247",
-            "score": 65.46
+            "rank": 28,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 66.89
           },
           {
             "source": "디시인사이드",
-            "rank": 36,
-            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
-            "score": 64.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "암살자(들) 이거 정부에서 밀어준건가요?",
-            "url": "https://www.clien.net/service/board/park/19273534?od=T31&po=0&category=0&groupCd=",
-            "score": 61.78
+            "rank": 100,
+            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
+            "score": 50.38
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-04T23:09:08.490180+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 2,
         "change": 0
       },
@@ -2037,9 +815,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 127.43,
+        "score": 127.67,
         "peak_score": 100.45,
-        "appearances": 19,
+        "appearances": 20,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -2048,24 +826,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 40,
-            "title": "이재명 대통령님을 지켜주는 유일한 조직!!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736238",
-            "score": 63.08
+            "source": "클리앙",
+            "rank": 7,
+            "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
+            "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
+            "score": 76.02
           },
           {
-            "source": "클리앙",
-            "rank": 94,
-            "title": "인간의 이기심과 탐욕을 수단으로 삼는 이재명 정부가 어떻게 억강부약, 대동세상을 이",
-            "url": "https://www.clien.net/service/board/park/19273515?od=T31&po=0&category=0&groupCd=",
-            "score": 53.61
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "최배근)교수 이재명 지지 철회",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
+            "score": 73.11
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 3,
         "change": 0
       },
@@ -2107,7 +885,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i199bc4da",
@@ -2147,7 +925,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibd61c9f9",
@@ -2205,7 +983,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i8b4085e0",
@@ -2254,7 +1032,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if6b2d7b7",
@@ -2293,7 +1071,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifb9def44",
@@ -2332,7 +1110,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ife3c822c",
@@ -2370,7 +1148,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic7c7aec6",
@@ -2409,7 +1187,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -2451,7 +1229,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i70f39dd0",
@@ -2489,7 +1267,48 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ia8451ee4",
+        "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "군면제"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 113.69,
+        "peak_score": 95.76,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 24,
+            "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
+            "url": "https://theqoo.net/hot/4365382129",
+            "score": 68.55
+          },
+          {
+            "source": "루리웹",
+            "rank": 39,
+            "title": "아겜 군면제 논란 ㄹㅇ 가불기라서 웃기긴 함",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911973?m=humor_only&t=now",
+            "score": 63.53
+          }
+        ],
+        "first_seen": "2026-09-29T17:24:25.017696+09:00",
+        "last_seen": "2026-10-05T02:55:49.352765+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 1
       },
       {
         "id": "i00705cf2",
@@ -2527,45 +1346,6 @@
         ],
         "first_seen": "2026-10-04T16:53:53.925317+09:00",
         "last_seen": "2026-10-04T19:06:01.996633+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": -1
-      },
-      {
-        "id": "ia8451ee4",
-        "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "군면제"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 112.25,
-        "peak_score": 95.76,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "지금 현재 축구 군면제 논란 커뮤 반응 근황 ㄷㄷ.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467885&_dcbest=1&page=1",
-            "score": 63.83
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 97,
-            "title": "얘들 덕분에 진짜 아겜 군면제 없어질지도",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=699091",
-            "score": 52.78
-          }
-        ],
-        "first_seen": "2026-09-29T17:24:25.017696+09:00",
-        "last_seen": "2026-10-04T22:42:50.132252+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
@@ -2611,7 +1391,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5781c296",
@@ -2651,7 +1431,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i707041a3",
@@ -2699,7 +1479,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i533b29bd",
@@ -2737,7 +1517,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -2777,7 +1557,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
