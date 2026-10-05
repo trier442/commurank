@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-05",
   "label": "2026년 10월 05일",
-  "collected_at": "2026-10-05T09:08:15.084314+09:00",
+  "collected_at": "2026-10-05T14:33:20.457945+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,31 +14,33 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 115.15,
+      "score": 116.59,
       "peak_score": 103.66,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아겜 인터뷰로 군면제 이슈 건 반응 진짜 확 올라온 게 웃김.",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76911787?m=humor",
-          "score": 94.66
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
         },
         {
-          "source": "더쿠",
+          "source": "디시인사이드",
           "rank": 15,
-          "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
-          "url": "https://theqoo.net/hot/4365382129",
-          "score": 76.05
+          "title": "싱글벙글 군면제 논란 여초 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+          "score": 75.63
         }
       ],
       "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-05T07:58:56.319427+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -138,36 +140,75 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 108.87,
+      "score": 109.99,
       "peak_score": 95.94,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "유해진 관상 ㅎㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-          "score": 86.94
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 73.96
         },
         {
-          "source": "인벤",
-          "rank": 92,
-          "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-          "score": 51.49
+          "source": "더쿠",
+          "rank": 73,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://theqoo.net/hot/4365522232",
+          "score": 58.26
         }
       ],
       "first_seen": "2026-10-04T16:53:53.925317+09:00",
-      "last_seen": "2026-10-05T09:08:15.084314+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": 2
+      "change": 0
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 109.16,
+      "peak_score": 98.69,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
+          "score": 75.51
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "iaec9192e",
@@ -204,8 +245,8 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -242,8 +283,51 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i1c6fbb40",
+      "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
+      "keywords": [
+        "경계",
+        "추미애",
+        "비루한",
+        "남기겠다",
+        "극단주의",
+        "침묵보다"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 99.03,
+      "peak_score": 88.56,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142612",
+          "score": 79.56
+        },
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
+          "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
+          "score": 75.12
+        }
+      ],
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i5db928b2",
@@ -280,8 +364,84 @@
       "last_seen": "2026-10-05T03:11:37.919671+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 9,
+      "change": -2
+    },
+    {
+      "id": "i106183b4",
+      "title": "‘blind’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "blind"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 91.65,
+      "peak_score": 80.18,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "결정사 다 믿지 마세요.blind",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468049&_dcbest=1&page=1",
+          "score": 69.18
+        },
+        {
+          "source": "더쿠",
+          "rank": 37,
+          "title": "퇴근하고 오면 나를 쥐잡듯이 잡는 아내.blind",
+          "url": "https://theqoo.net/hot/4365551535",
+          "score": 65.89
+        }
+      ],
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "id": "iaf3fcbdb",
+      "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젤렌스키"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.21,
+      "peak_score": 80.74,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 25,
+          "title": "젤렌스키 \"북한군 포로, 韓 요청으로 송환\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468045&_dcbest=1&page=1",
+          "score": 71.74
+        },
+        {
+          "source": "인벤",
+          "rank": 52,
+          "title": "젤렌스키 \"한국이 북한 군인 송환 요청...북한군도 한국인\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736417",
+          "score": 63.27
+        }
+      ],
+      "first_seen": "2026-09-30T12:03:32.161159+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": "NEW"
     },
     {
       "id": "i78f6419e",
@@ -318,8 +478,8 @@
       "last_seen": "2026-10-05T06:33:19.030522+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": 0
+      "rank": 12,
+      "change": -4
     },
     {
       "id": "ie375bdab",
@@ -357,8 +517,8 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 1
+      "rank": 13,
+      "change": -4
     },
     {
       "id": "ib3fd2c1d",
@@ -395,8 +555,8 @@
       "last_seen": "2026-10-05T06:04:47.419469+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
+      "rank": 14,
+      "change": -4
     },
     {
       "id": "i5d6688ff",
@@ -433,8 +593,8 @@
       "last_seen": "2026-10-05T08:56:53.530658+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 15,
+      "change": -4
     },
     {
       "id": "id51f0bd8",
@@ -471,8 +631,47 @@
       "last_seen": "2026-10-05T07:58:56.319427+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 16,
+      "change": -4
+    },
+    {
+      "id": "i128ea4ee",
+      "title": "단번에 국적을 알 수 있는 사진 (내용 추가)",
+      "keywords": [
+        "국적을",
+        "단번에"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.0,
+      "peak_score": 67.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 69,
+          "title": "단번에 국적을 알 수 있는 사진 (내용 추가)",
+          "url": "https://theqoo.net/hot/4365613395",
+          "score": 59.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 98,
+          "title": "단번에 국적을 알 수 있는 사진",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915925?m=humor_only&t=now",
+          "score": 49.74
+        }
+      ],
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "ifd24d317",
@@ -515,8 +714,8 @@
       "last_seen": "2026-10-05T02:55:49.352765+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 18,
+      "change": -5
     }
   ]
 }

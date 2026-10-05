@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-05",
   "label": "2026년 10월 05일",
-  "collected_at": "2026-10-05T09:08:15.084314+09:00",
+  "collected_at": "2026-10-05T14:33:20.457945+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #많이. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #경계. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 13,
-    "keywords": 14,
-    "top100_views": 1062668,
-    "top100_comments": 7729
+    "daily_issues": 18,
+    "keywords": 17,
+    "top100_views": 1084676,
+    "top100_comments": 13813
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "애국커피 근황",
+      "title": "국밥집인데 잘못하면 팝콘각 떴다",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76908761?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913858?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#많이",
+      "title": "#경계",
       "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "많이"
+      "keyword": "경계"
     }
   ],
   "top_posts": [
+    {
+      "title": "국밥집인데 잘못하면 팝콘각 떴다",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913858?m=humor",
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "peak_score": 97.67,
+      "max_views": 18345,
+      "max_likes": 174,
+      "max_comments": 71,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-05": {
+          "max_score": 97.67,
+          "max_views": 18345,
+          "max_likes": 174,
+          "max_comments": 71,
+          "appearances": 1,
+          "last_seen": "2026-10-05T14:33:20.457945+09:00"
+        }
+      },
+      "score": 107.19,
+      "views": 18345,
+      "likes": 174,
+      "comments": 71,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "애국커피 근황",
       "source": "루리웹",
@@ -59,12 +88,41 @@
           "last_seen": "2026-10-05T02:55:49.352765+09:00"
         }
       },
-      "score": 107.55,
+      "score": 107.1,
       "views": 25132,
       "likes": 148,
       "comments": 69,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "독일, \"한국은 제 안위만 신경쓰는 이기적인 나라\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913371?m=humor",
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "peak_score": 97.43,
+      "max_views": 34258,
+      "max_likes": 303,
+      "max_comments": 118,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-05": {
+          "max_score": 97.43,
+          "max_views": 34258,
+          "max_likes": 303,
+          "max_comments": 118,
+          "appearances": 1,
+          "last_seen": "2026-10-05T14:33:20.457945+09:00"
+        }
+      },
+      "score": 106.95,
+      "views": 34258,
+      "likes": 303,
+      "comments": 118,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "지금의 넥슨을 만들어준 전설의 이벤트",
@@ -88,12 +146,12 @@
           "last_seen": "2026-10-05T07:58:56.319427+09:00"
         }
       },
-      "score": 107.1,
+      "score": 106.65,
       "views": 17067,
       "likes": 99,
       "comments": 44,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "요즘 20대 이하에서 많이 보이는 유형.jpg",
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-05T09:08:15.084314+09:00"
         }
       },
-      "score": 106.54,
+      "score": 106.09,
       "views": 24103,
       "likes": 95,
       "comments": 75,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "노가다판에도 침투중인 AI",
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-05T03:11:37.919671+09:00"
         }
       },
-      "score": 105.64,
+      "score": 105.19,
       "views": 21089,
       "likes": 70,
       "comments": 66,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "우리나라 음식 신제품이 넘어야 하는 산",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-05T06:04:47.419469+09:00"
         }
       },
-      "score": 105.49,
+      "score": 105.04,
       "views": 13138,
       "likes": 61,
       "comments": 55,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "아이패드 가지고 싶어 병과 유사하다는 병",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-05T03:11:37.919671+09:00"
         }
       },
-      "score": 105.49,
+      "score": 105.04,
       "views": 8996,
       "likes": 67,
       "comments": 61,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "미국 일리노이주 선거 결과를 한탄하던 사람",
@@ -233,12 +291,12 @@
           "last_seen": "2026-10-05T06:04:47.419469+09:00"
         }
       },
-      "score": 105.17,
+      "score": 104.72,
       "views": 15289,
       "likes": 185,
       "comments": 49,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "파판 7 리메이크 시리즈가 욕먹는 이유",
@@ -262,202 +320,64 @@
           "last_seen": "2026-10-05T02:55:49.352765+09:00"
         }
       },
-      "score": 104.78,
+      "score": 104.33,
       "views": 9517,
       "likes": 69,
       "comments": 104,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "아겜 인터뷰로 군면제 이슈 건 반응 진짜 확 올라온 게 웃김.",
-      "source": "루리웹",
-      "category": "유머",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76911787?m=humor",
-      "first_seen": "2026-10-05T07:58:56.319427+09:00",
-      "last_seen": "2026-10-05T07:58:56.319427+09:00",
-      "peak_score": 94.66,
-      "max_views": 16790,
-      "max_likes": 143,
-      "max_comments": 56,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-05": {
-          "max_score": 94.66,
-          "max_views": 16790,
-          "max_likes": 143,
-          "max_comments": 56,
-          "appearances": 1,
-          "last_seen": "2026-10-05T07:58:56.319427+09:00"
-        }
-      },
-      "score": 104.09,
-      "views": 16790,
-      "likes": 143,
-      "comments": 56,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "600조받기 vs 짜장면받기 당연히 전자가 이득아님???",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76911081?m=humor",
-      "first_seen": "2026-10-05T06:33:19.030522+09:00",
-      "last_seen": "2026-10-05T06:33:19.030522+09:00",
-      "peak_score": 94.66,
-      "max_views": 13185,
-      "max_likes": 80,
-      "max_comments": 65,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-05": {
-          "max_score": 94.66,
-          "max_views": 13185,
-          "max_likes": 80,
-          "max_comments": 65,
-          "appearances": 1,
-          "last_seen": "2026-10-05T06:33:19.030522+09:00"
-        }
-      },
-      "score": 103.97,
-      "views": 13185,
-      "likes": 80,
-      "comments": 65,
-      "active_days": 1,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "휴지가 왜 컴퓨터 앞에 있어요?\" 의 진실",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467988&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 7312,
-      "likes": 12,
-      "comments": 85,
-      "score": 59.93,
-      "change": 0,
-      "current_rank": 58,
-      "new_entry": false,
-      "delta_views": 790,
-      "delta_likes": 0,
-      "delta_comments": 10,
-      "rank_gain": 0,
-      "rising_score": 90.98,
-      "rising_rank": 1,
-      "window_minutes": 11
-    },
-    {
       "source": "더쿠",
-      "title": "봉은사에 갔다가 힐링 제대로 했어",
-      "url": "https://theqoo.net/hot/4365467840",
-      "category": "이슈",
-      "views": 22984,
+      "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+      "url": "https://theqoo.net/hot/4365437448",
+      "category": "연예",
+      "views": 123612,
       "likes": 0,
-      "comments": 130,
-      "score": 72.0,
-      "change": 8,
-      "current_rank": 21,
-      "new_entry": false,
-      "delta_views": 5600,
-      "delta_likes": 0,
-      "delta_comments": 27,
-      "rank_gain": 8,
-      "rising_score": 90.48,
-      "rising_rank": 2,
-      "window_minutes": 11
-    },
-    {
-      "source": "루리웹",
-      "title": "이 분이 애 딸린 40대 아줌마...?!",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76912970?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 8086,
-      "likes": 54,
-      "comments": 27,
-      "score": 58.51,
+      "comments": 588,
+      "score": 48.79,
       "change": 0,
-      "current_rank": 63,
+      "current_rank": 100,
       "new_entry": false,
-      "delta_views": 5965,
-      "delta_likes": 29,
-      "delta_comments": 14,
-      "rank_gain": 0,
-      "rising_score": 90.0,
-      "rising_rank": 3,
-      "window_minutes": 11
-    },
-    {
-      "source": "디시인사이드",
-      "title": "서인영 눈나가 '발'로 투표하게 된 이유.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468000&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 1214,
-      "likes": 4,
-      "comments": 22,
-      "score": 60.11,
-      "change": 0,
-      "current_rank": 55,
-      "new_entry": false,
-      "delta_views": 760,
+      "delta_views": 47904,
       "delta_likes": 0,
-      "delta_comments": 10,
+      "delta_comments": 220,
       "rank_gain": 0,
-      "rising_score": 88.31,
-      "rising_rank": 4,
-      "window_minutes": 11
-    },
-    {
-      "source": "클리앙",
-      "title": "이동형 TV 건물사서 이사가고 난 후로 사업 잘되나 보네요 보기 좋습니다~",
-      "url": "https://www.clien.net/service/board/park/19273625?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 860,
-      "likes": 0,
-      "comments": 3,
-      "score": 67.52,
-      "change": 10,
-      "current_rank": 35,
-      "new_entry": false,
-      "delta_views": 526,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 10,
-      "rising_score": 87.52,
-      "rising_rank": 5,
-      "window_minutes": 11
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 325
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 조선시대 빵덕후",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467998&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 11777,
-      "likes": 49,
-      "comments": 82,
-      "score": 78.59,
+      "views": 20467,
+      "likes": 107,
+      "comments": 194,
+      "score": 51.16,
       "change": 0,
-      "current_rank": 14,
+      "current_rank": 95,
       "new_entry": false,
-      "delta_views": 718,
-      "delta_likes": 3,
-      "delta_comments": 12,
+      "delta_views": 8690,
+      "delta_likes": 58,
+      "delta_comments": 112,
       "rank_gain": 0,
-      "rising_score": 86.67,
-      "rising_rank": 6,
-      "window_minutes": 11
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 325
     },
     {
       "source": "루리웹",
-      "title": "요즘 20대 이하에서 많이 보이는 유형.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76912242?m=humor",
-      "category": "이슈",
-      "views": 24103,
-      "likes": 95,
-      "comments": 75,
-      "score": 97.02,
+      "title": "국밥집인데 잘못하면 팝콘각 떴다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913858?m=humor",
+      "category": "생활",
+      "views": 18345,
+      "likes": 174,
+      "comments": 71,
+      "score": 97.67,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -465,69 +385,149 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 7,
-      "window_minutes": 11
+      "rising_score": 83.02,
+      "rising_rank": 3,
+      "window_minutes": 325
     },
     {
-      "source": "디시인사이드",
-      "title": "고대 바빌론 유적지 벽돌에 본인 이름 각인을 행한 사람",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467995&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "독일, \"한국은 제 안위만 신경쓰는 이기적인 나라\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913371?m=humor",
       "category": "이슈",
-      "views": 2322,
-      "likes": 10,
-      "comments": 23,
-      "score": 57.59,
-      "change": 0,
-      "current_rank": 67,
-      "new_entry": false,
-      "delta_views": 452,
+      "views": 34258,
+      "likes": 303,
+      "comments": 118,
+      "score": 97.43,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.69,
-      "rising_rank": 8,
-      "window_minutes": 11
+      "rising_score": 82.92,
+      "rising_rank": 4,
+      "window_minutes": 325
+    },
+    {
+      "source": "루리웹",
+      "title": "교수 : 아무리 명작이라도 누가 1권의 첫 문장을 기억하겠는가?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76915462?m=humor",
+      "category": "이슈",
+      "views": 8545,
+      "likes": 75,
+      "comments": 74,
+      "score": 90.9,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.18,
+      "rising_rank": 5,
+      "window_minutes": 325
+    },
+    {
+      "source": "뽐뿌",
+      "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+      "category": "스포츠",
+      "views": 10226,
+      "likes": 37,
+      "comments": 60,
+      "score": 88.69,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 79.25,
+      "rising_rank": 6,
+      "window_minutes": 325
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 미쳐버린 9월 한국 수출과, 한국 무역 근황..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468059&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12043,
+      "likes": 75,
+      "comments": 305,
+      "score": 84.69,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.57,
+      "rising_rank": 7,
+      "window_minutes": 325
     },
     {
       "source": "인벤",
-      "title": "운동부족 남자 특징",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736324",
-      "category": "유머",
-      "views": 929,
-      "likes": 1,
-      "comments": 8,
-      "score": 70.66,
-      "change": 24,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 821,
-      "delta_likes": 1,
-      "delta_comments": 7,
-      "rank_gain": 24,
-      "rising_score": 82.09,
-      "rising_rank": 9,
-      "window_minutes": 11
+      "title": "블라) 여동생이 미친짓해서 뒤지게 팼다 하...",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736432",
+      "category": "이슈",
+      "views": 1904,
+      "likes": 2,
+      "comments": 13,
+      "score": 84.54,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.51,
+      "rising_rank": 8,
+      "window_minutes": 325
     },
     {
-      "source": "클리앙",
-      "title": "李 지지율 37.4% 3주만에 하락…민주 42.5%·국힘 38.4% [리얼미터]",
-      "url": "https://www.clien.net/service/board/park/19273618?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1648,
+      "source": "인벤",
+      "title": "어제자 부장이랑 대리 몸싸움남 ㅋㅋㅋㅋㅋ",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736430",
+      "category": "유머",
+      "views": 1874,
       "likes": 0,
-      "comments": 8,
-      "score": 64.29,
-      "change": 7,
-      "current_rank": 44,
-      "new_entry": false,
-      "delta_views": 336,
+      "comments": 18,
+      "score": 84.03,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 7,
-      "rising_score": 81.62,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.29,
+      "rising_rank": 9,
+      "window_minutes": 325
+    },
+    {
+      "source": "인벤",
+      "title": "성관계에서 자지 크기보다 중요한 것.",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736427",
+      "category": "이슈",
+      "views": 3093,
+      "likes": 2,
+      "comments": 19,
+      "score": 82.33,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.58,
       "rising_rank": 10,
-      "window_minutes": 11
+      "window_minutes": 325
     }
   ],
   "issues": [
@@ -539,31 +539,33 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 115.15,
+      "score": 116.59,
       "peak_score": 103.66,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아겜 인터뷰로 군면제 이슈 건 반응 진짜 확 올라온 게 웃김.",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76911787?m=humor",
-          "score": 94.66
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
         },
         {
-          "source": "더쿠",
+          "source": "디시인사이드",
           "rank": 15,
-          "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
-          "url": "https://theqoo.net/hot/4365382129",
-          "score": 76.05
+          "title": "싱글벙글 군면제 논란 여초 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+          "score": 75.63
         }
       ],
       "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-05T07:58:56.319427+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -663,36 +665,75 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 108.87,
+      "score": 109.99,
       "peak_score": 95.94,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "유해진 관상 ㅎㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-          "score": 86.94
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 73.96
         },
         {
-          "source": "인벤",
-          "rank": 92,
-          "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-          "score": 51.49
+          "source": "더쿠",
+          "rank": 73,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://theqoo.net/hot/4365522232",
+          "score": 58.26
         }
       ],
       "first_seen": "2026-10-04T16:53:53.925317+09:00",
-      "last_seen": "2026-10-05T09:08:15.084314+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": 2
+      "change": 0
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 109.16,
+      "peak_score": 98.69,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
+          "score": 75.51
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "iaec9192e",
@@ -729,8 +770,8 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -767,8 +808,51 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i1c6fbb40",
+      "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
+      "keywords": [
+        "경계",
+        "추미애",
+        "비루한",
+        "남기겠다",
+        "극단주의",
+        "침묵보다"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 99.03,
+      "peak_score": 88.56,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142612",
+          "score": 79.56
+        },
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
+          "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
+          "score": 75.12
+        }
+      ],
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i5db928b2",
@@ -805,126 +889,190 @@
       "last_seen": "2026-10-05T03:11:37.919671+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 9,
+      "change": -2
     },
     {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i106183b4",
+      "title": "‘blind’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "암살자"
+        "blind"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 89.82,
-      "peak_score": 75.89,
-      "appearances": 3,
+      "post_count": 4,
+      "score": 91.65,
+      "peak_score": 80.18,
+      "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 47,
-          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 63.23
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "결정사 다 믿지 마세요.blind",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468049&_dcbest=1&page=1",
+          "score": 69.18
+        },
+        {
+          "source": "더쿠",
+          "rank": 37,
+          "title": "퇴근하고 오면 나를 쥐잡듯이 잡는 아내.blind",
+          "url": "https://theqoo.net/hot/4365551535",
+          "score": 65.89
+        }
+      ],
+      "first_seen": "2026-10-05T14:33:20.457945+09:00",
+      "last_seen": "2026-10-05T14:33:20.457945+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 10,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i106183b4",
+      "title": "‘blind’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "blind"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 80.18,
+      "peak_score": 80.18,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "결정사 다 믿지 마세요.blind",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468049&_dcbest=1&page=1",
+          "score": 69.18
+        },
+        {
+          "source": "더쿠",
+          "rank": 37,
+          "title": "퇴근하고 오면 나를 쥐잡듯이 잡는 아내.blind",
+          "url": "https://theqoo.net/hot/4365551535",
+          "score": 65.89
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 98.69,
+      "peak_score": 98.69,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
         },
         {
           "source": "디시인사이드",
-          "rank": 97,
-          "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
-          "score": 48.61
+          "rank": 16,
+          "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
+          "score": 75.51
         }
       ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-05T06:33:19.030522+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 8,
-      "change": 0
+      "rank": 2,
+      "change": "NEW"
     },
     {
-      "id": "ie375bdab",
-      "title": "리얼미터] 이재명대통령 지지율",
+      "id": "i1c6fbb40",
+      "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
       "keywords": [
-        "지지율",
-        "리얼미터"
+        "경계",
+        "추미애",
+        "비루한",
+        "남기겠다",
+        "극단주의",
+        "침묵보다"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 88.49,
-      "peak_score": 77.0,
-      "appearances": 2,
+      "post_count": 3,
+      "score": 88.56,
+      "peak_score": 88.56,
+      "appearances": 1,
       "sources": [
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 28,
-          "title": "리얼미터] 이재명대통령 지지율",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736318",
-          "score": 69.0
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142612",
+          "score": 79.56
         },
         {
           "source": "클리앙",
-          "rank": 44,
-          "title": "李 지지율 37.4% 3주만에 하락…민주 42.5%·국힘 38.4% [리얼미터]",
-          "url": "https://www.clien.net/service/board/park/19273618?od=T31&po=0&category=0&groupCd=",
-          "score": 64.29
+          "rank": 17,
+          "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
+          "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
+          "score": 75.12
         }
       ],
-      "first_seen": "2026-10-05T08:56:53.530658+09:00",
-      "last_seen": "2026-10-05T09:08:15.084314+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": 1
+      "rank": 3,
+      "change": "NEW"
     },
     {
-      "id": "ib3fd2c1d",
-      "title": "‘노스포’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia8451ee4",
+      "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "노스포"
+        "군면제"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.98,
-      "peak_score": 75.49,
-      "appearances": 2,
+      "score": 97.69,
+      "peak_score": 97.69,
+      "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 66.49
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+          "score": 88.69
         },
         {
-          "source": "뽐뿌",
-          "rank": 60,
-          "title": "암살자들 보고 왔습니다. (노스포)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 57.51
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "싱글벙글 군면제 논란 여초 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+          "score": 75.63
         }
       ],
-      "first_seen": "2026-10-05T03:11:37.919671+09:00",
-      "last_seen": "2026-10-05T06:04:47.419469+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
-    }
-  ],
-  "realtime_issues": [
+      "rank": 4,
+      "change": "NEW"
+    },
     {
       "id": "i00705cf2",
       "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
@@ -933,419 +1081,376 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.94,
-      "peak_score": 95.94,
+      "score": 82.96,
+      "peak_score": 82.96,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "유해진 관상 ㅎㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-          "score": 86.94
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 73.96
         },
         {
-          "source": "인벤",
-          "rank": 92,
-          "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-          "score": 51.49
-        }
-      ],
-      "rank": 1,
-      "change": 3
-    },
-    {
-      "id": "iaec9192e",
-      "title": "‘시간이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "시간이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.36,
-      "peak_score": 91.36,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "시간이 참 빨리 흐른단 증거 jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
-          "score": 82.36
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 42,
-          "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
-          "score": 64.62
-        }
-      ],
-      "rank": 2,
-      "change": 1
-    },
-    {
-      "id": "icb33dad5",
-      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "sns"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.37,
-      "peak_score": 89.37,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 11,
-          "title": "이재명 sns",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-          "score": 80.37
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 43,
-          "title": "추미애 SNS 떴네요. jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142307",
-          "score": 64.59
-        }
-      ],
-      "rank": 3,
-      "change": -2
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.37,
-      "peak_score": 89.37,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 11,
-          "title": "이재명 sns",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-          "score": 80.37
-        },
-        {
-          "source": "클리앙",
-          "rank": 39,
-          "title": "이재명 계속 응원하고 지지합니다",
-          "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-          "score": 65.68
-        }
-      ],
-      "rank": 4,
-      "change": -2
-    },
-    {
-      "id": "ie375bdab",
-      "title": "리얼미터] 이재명대통령 지지율",
-      "keywords": [
-        "지지율",
-        "리얼미터"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.0,
-      "peak_score": 77.0,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 28,
-          "title": "리얼미터] 이재명대통령 지지율",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736318",
-          "score": 69.0
-        },
-        {
-          "source": "클리앙",
-          "rank": 44,
-          "title": "李 지지율 37.4% 3주만에 하락…민주 42.5%·국힘 38.4% [리얼미터]",
-          "url": "https://www.clien.net/service/board/park/19273618?od=T31&po=0&category=0&groupCd=",
-          "score": 64.29
+          "source": "더쿠",
+          "rank": 73,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://theqoo.net/hot/4365522232",
+          "score": 58.26
         }
       ],
       "rank": 5,
-      "change": 0
+      "change": -4
+    },
+    {
+      "id": "iaf3fcbdb",
+      "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젤렌스키"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.74,
+      "peak_score": 80.74,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 25,
+          "title": "젤렌스키 \"북한군 포로, 韓 요청으로 송환\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468045&_dcbest=1&page=1",
+          "score": 71.74
+        },
+        {
+          "source": "인벤",
+          "rank": 52,
+          "title": "젤렌스키 \"한국이 북한 군인 송환 요청...북한군도 한국인\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736417",
+          "score": 63.27
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i128ea4ee",
+      "title": "단번에 국적을 알 수 있는 사진 (내용 추가)",
+      "keywords": [
+        "국적을",
+        "단번에"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 67.53,
+      "peak_score": 67.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 69,
+          "title": "단번에 국적을 알 수 있는 사진 (내용 추가)",
+          "url": "https://theqoo.net/hot/4365613395",
+          "score": 59.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 98,
+          "title": "단번에 국적을 알 수 있는 사진",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915925?m=humor_only&t=now",
+          "score": 49.74
+        }
+      ],
+      "rank": 7,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "많이",
-      "score": 131.63,
+      "keyword": "경계",
+      "score": 136.39,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 1,
+      "best_rank": 9,
       "sources": [
         "디시인사이드",
-        "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 8
+      "change": "NEW"
     },
     {
-      "keyword": "시간",
-      "score": 125.37,
+      "keyword": "한국",
+      "score": 135.72,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 9,
+      "best_rank": 2,
       "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": -1
+      "change": 9
     },
     {
-      "keyword": "이재명",
-      "score": 102.88,
+      "keyword": "유해진",
+      "score": 114.68,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 11,
+      "source_count": 3,
+      "best_rank": 21,
       "sources": [
-        "인벤",
+        "더쿠",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 0
+      "change": 2
     },
     {
-      "keyword": "sns",
-      "score": 99.2,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 11,
+      "keyword": "북한",
+      "score": 113.28,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 52,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "유해진",
-      "score": 95.7,
-      "post_count": 2,
+      "keyword": "아시안게임",
+      "score": 111.39,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 4,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 5
-    },
-    {
-      "keyword": "리얼미터",
-      "score": 92.26,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "지지율"
-      ],
-      "rank": 6,
-      "change": 2
-    },
-    {
-      "keyword": "좋은",
-      "score": 91.02,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "keyword": "일본",
-      "score": 90.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 36,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "keyword": "누나",
-      "score": 87.49,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": 2
+      "rank": 5,
+      "change": "NEW"
     },
     {
-      "keyword": "사건",
-      "score": 84.18,
+      "keyword": "군면제",
+      "score": 108.56,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 4,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "남기겠다",
+      "score": 107.38,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [
+        "극단주",
+        "비루한",
+        "진실",
+        "추미애",
+        "침묵"
+      ],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "응수",
+      "score": 104.63,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "blind",
+      "score": 104.16,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 30,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "나라",
+      "score": 101.82,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 97.03,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -3
+    },
+    {
+      "keyword": "젤렌스키",
+      "score": 91.9,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "북한군",
+        "송환",
+        "요청"
+      ],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "아내",
+      "score": 88.61,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 37,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "게임",
+      "score": 86.07,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 43,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "이제",
+      "score": 84.54,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 34,
       "sources": [
-        "인벤",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": -8
-    },
-    {
-      "keyword": "한국",
-      "score": 81.06,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
+      "rank": 15,
       "change": "NEW"
-    },
-    {
-      "keyword": "버블",
-      "score": 81.0,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 56,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": 3
-    },
-    {
-      "keyword": "운동",
-      "score": 80.43,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 61,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": -1
-    },
-    {
-      "keyword": "쯔양",
-      "score": 64.27,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 70,
-      "sources": [
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": 2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "요즘 20대 이하에서 많이 보이는 유형.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76912242?m=humor",
-      "score": 97.02,
-      "views": 24103,
-      "comments": 75
+      "title": "국밥집인데 잘못하면 팝콘각 떴다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913858?m=humor",
+      "score": 97.67,
+      "views": 18345,
+      "comments": 71
     },
     {
       "source": "뽐뿌",
-      "title": "유해진 관상 ㅎㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-      "score": 86.94,
-      "views": 11039,
-      "comments": 29
-    },
-    {
-      "source": "더쿠",
-      "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
-      "url": "https://theqoo.net/hot/4365437448",
-      "score": 85.84,
-      "views": 75708,
-      "comments": 368
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ) 마트에서 장 보는 눈나들",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736314",
-      "score": 84.17,
-      "views": 5700,
-      "comments": 20
+      "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
+      "score": 88.69,
+      "views": 10226,
+      "comments": 60
     },
     {
       "source": "디시인사이드",
-      "title": "비상금 4천8백 걸린 아내의 반응 및 여자 쉴드 댓글들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467979&_dcbest=1&page=1",
-      "score": 82.41,
-      "views": 17455,
-      "comments": 424
+      "title": "싱글벙글 미쳐버린 9월 한국 수출과, 한국 무역 근황..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468059&_dcbest=1&page=1",
+      "score": 84.69,
+      "views": 12043,
+      "comments": 305
+    },
+    {
+      "source": "인벤",
+      "title": "블라) 여동생이 미친짓해서 뒤지게 팼다 하...",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736432",
+      "score": 84.54,
+      "views": 1904,
+      "comments": 13
+    },
+    {
+      "source": "더쿠",
+      "title": "플타는 중인 리더가 막내 윽박지르는 남돌",
+      "url": "https://theqoo.net/hot/4365609971",
+      "score": 78.37,
+      "views": 72096,
+      "comments": 948
     },
     {
       "source": "클리앙",
-      "title": "최근 우리 클리앙의 우경화 흐름은 그냥 그렇다 보는데... 보수를 찍겠다는건 ...",
-      "url": "https://www.clien.net/service/board/park/19273607?od=T31&po=0&category=0&groupCd=",
-      "score": 70.22,
-      "views": 2634,
-      "comments": 66
+      "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
+      "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
+      "score": 75.12,
+      "views": 532,
+      "comments": 5
     }
   ]
 }
