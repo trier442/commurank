@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-05",
   "label": "2026년 10월 05일",
-  "collected_at": "2026-10-05T19:44:22.350622+09:00",
+  "collected_at": "2026-10-05T21:38:23.054976+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #이재명. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 19,
-    "top100_views": 1034331,
-    "top100_comments": 14091
+    "keywords": 18,
+    "top100_views": 964095,
+    "top100_comments": 12758
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "마운자로(GLP-1)와 췌장염의 상관관계",
+      "title": "서브컬처 게임 추세",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914727?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76917424?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#이재명",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "이재명"
+      "title": "#중국",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "중국"
     }
   ],
   "top_posts": [
+    {
+      "title": "서브컬처 게임 추세",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76917424?m=humor",
+      "first_seen": "2026-10-05T21:38:23.054976+09:00",
+      "last_seen": "2026-10-05T21:38:23.054976+09:00",
+      "peak_score": 98.94,
+      "max_views": 23608,
+      "max_likes": 104,
+      "max_comments": 86,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-05": {
+          "max_score": 98.94,
+          "max_views": 23608,
+          "max_likes": 104,
+          "max_comments": 86,
+          "appearances": 1,
+          "last_seen": "2026-10-05T21:38:23.054976+09:00"
+        }
+      },
+      "score": 108.46,
+      "views": 23608,
+      "likes": 104,
+      "comments": 86,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "마운자로(GLP-1)와 췌장염의 상관관계",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-05T16:10:48.666367+09:00"
         }
       },
-      "score": 106.94,
+      "score": 106.78,
       "views": 19874,
       "likes": 138,
       "comments": 65,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "국밥집인데 잘못하면 팝콘각 떴다",
@@ -88,12 +117,12 @@
           "last_seen": "2026-10-05T14:33:20.457945+09:00"
         }
       },
-      "score": 106.76,
+      "score": 106.6,
       "views": 18345,
       "likes": 174,
       "comments": 71,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "나리타 공항이 접근성이 좋다고?? 정말??",
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-05T16:10:48.666367+09:00"
         }
       },
-      "score": 106.72,
+      "score": 106.56,
       "views": 16174,
       "likes": 110,
       "comments": 93,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "애국커피 근황",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-05T02:55:49.352765+09:00"
         }
       },
-      "score": 106.66,
+      "score": 106.51,
       "views": 25132,
       "likes": 148,
       "comments": 69,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "독일, \"한국은 제 안위만 신경쓰는 이기적인 나라\"",
@@ -175,12 +204,12 @@
           "last_seen": "2026-10-05T14:33:20.457945+09:00"
         }
       },
-      "score": 106.52,
+      "score": 106.36,
       "views": 34258,
       "likes": 303,
       "comments": 118,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "교수 : 아무리 명작이라도 누가 1권의 첫 문장을 기억하겠는가?",
@@ -204,12 +233,12 @@
           "last_seen": "2026-10-05T14:48:07.927986+09:00"
         }
       },
-      "score": 106.43,
+      "score": 106.27,
       "views": 8545,
       "likes": 75,
       "comments": 74,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "지금의 넥슨을 만들어준 전설의 이벤트",
@@ -233,12 +262,12 @@
           "last_seen": "2026-10-05T07:58:56.319427+09:00"
         }
       },
-      "score": 106.22,
+      "score": 106.06,
       "views": 17067,
       "likes": 99,
       "comments": 44,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "소니의 뻘짓후 여파",
@@ -262,12 +291,12 @@
           "last_seen": "2026-10-05T19:44:22.350622+09:00"
         }
       },
-      "score": 105.71,
+      "score": 105.56,
       "views": 18285,
       "likes": 139,
       "comments": 88,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "요즘 20대 이하에서 많이 보이는 유형.jpg",
@@ -291,53 +320,124 @@
           "last_seen": "2026-10-05T09:08:15.084314+09:00"
         }
       },
-      "score": 105.66,
+      "score": 105.5,
       "views": 24103,
       "likes": 95,
       "comments": 75,
       "active_days": 1,
       "change": -1
-    },
-    {
-      "title": "흔한 폭풍우 속 거대선박 항해 시점",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76916169?m=humor",
-      "first_seen": "2026-10-05T19:44:22.350622+09:00",
-      "last_seen": "2026-10-05T19:44:22.350622+09:00",
-      "peak_score": 96.04,
-      "max_views": 18242,
-      "max_likes": 73,
-      "max_comments": 76,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-05": {
-          "max_score": 96.04,
-          "max_views": 18242,
-          "max_likes": 73,
-          "max_comments": 76,
-          "appearances": 1,
-          "last_seen": "2026-10-05T19:44:22.350622+09:00"
-        }
-      },
-      "score": 105.56,
-      "views": 18242,
-      "likes": 73,
-      "comments": 76,
-      "active_days": 1,
-      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "소니의 뻘짓후 여파",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76916882?m=humor",
+      "source": "뽐뿌",
+      "title": "남자친구가 hpv 보균자인데도 이별을 못하겠어요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=236976",
       "category": "이슈",
-      "views": 18285,
-      "likes": 139,
-      "comments": 88,
-      "score": 96.19,
+      "views": 23661,
+      "likes": 3,
+      "comments": 94,
+      "score": 51.4,
+      "change": 0,
+      "current_rank": 98,
+      "new_entry": false,
+      "delta_views": 16107,
+      "delta_likes": 2,
+      "delta_comments": 38,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 114
+    },
+    {
+      "source": "클리앙",
+      "title": "이재명대통령은 박정희가 되고싶은가봅니다",
+      "url": "https://www.clien.net/service/board/park/19273851?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3417,
+      "likes": 13,
+      "comments": 26,
+      "score": 60.01,
+      "change": 0,
+      "current_rank": 59,
+      "new_entry": false,
+      "delta_views": 2999,
+      "delta_likes": 8,
+      "delta_comments": 18,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 114
+    },
+    {
+      "source": "더쿠",
+      "title": "분리독립 원하는것 같은 서울 강남구.JPG",
+      "url": "https://theqoo.net/hot/4366071287",
+      "category": "이슈",
+      "views": 65283,
+      "likes": 0,
+      "comments": 529,
+      "score": 73.37,
+      "change": 1,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 41370,
+      "delta_likes": 0,
+      "delta_comments": 231,
+      "rank_gain": 1,
+      "rising_score": 88.33,
+      "rising_rank": 3,
+      "window_minutes": 114
+    },
+    {
+      "source": "디시인사이드",
+      "title": "연애 보다는 혼자가 맘 편하다는 요즘 2030 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468123&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13464,
+      "likes": 40,
+      "comments": 527,
+      "score": 68.81,
+      "change": 13,
+      "current_rank": 23,
+      "new_entry": false,
+      "delta_views": 9446,
+      "delta_likes": 29,
+      "delta_comments": 382,
+      "rank_gain": 13,
+      "rising_score": 84.29,
+      "rising_rank": 4,
+      "window_minutes": 114
+    },
+    {
+      "source": "디시인사이드",
+      "title": "안싱글벙글 한국기술 빼간 CXMT 중국 D램기업 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468125&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17402,
+      "likes": 128,
+      "comments": 530,
+      "score": 76.05,
+      "change": 0,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 7348,
+      "delta_likes": 68,
+      "delta_comments": 319,
+      "rank_gain": 0,
+      "rising_score": 83.73,
+      "rising_rank": 5,
+      "window_minutes": 114
+    },
+    {
+      "source": "루리웹",
+      "title": "서브컬처 게임 추세",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76917424?m=humor",
+      "category": "게임",
+      "views": 23608,
+      "likes": 104,
+      "comments": 86,
+      "score": 98.94,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -345,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 1,
-      "window_minutes": 214
+      "rising_score": 83.55,
+      "rising_rank": 6,
+      "window_minutes": 114
     },
     {
       "source": "루리웹",
-      "title": "흔한 폭풍우 속 거대선박 항해 시점",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76916169?m=humor",
+      "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76918893?m=humor",
       "category": "이슈",
-      "views": 18242,
-      "likes": 73,
-      "comments": 76,
-      "score": 96.04,
+      "views": 15483,
+      "likes": 79,
+      "comments": 134,
+      "score": 95.77,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -365,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.34,
-      "rising_rank": 2,
-      "window_minutes": 214
+      "rising_score": 82.22,
+      "rising_rank": 7,
+      "window_minutes": 114
     },
     {
       "source": "루리웹",
-      "title": "의사들이 응급 소아 수술 손 떼게 만든 대법원 판례",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76918533?m=humor",
+      "title": "누구보다 취향존중 할 생각 없는 커뮤 유저",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76917396?m=humor",
       "category": "이슈",
-      "views": 10258,
-      "likes": 150,
-      "comments": 101,
-      "score": 94.25,
+      "views": 12574,
+      "likes": 90,
+      "comments": 85,
+      "score": 92.97,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -385,149 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.59,
-      "rising_rank": 3,
-      "window_minutes": 214
-    },
-    {
-      "source": "뽐뿌",
-      "title": "이재명 SNS 팩폭 박는 박은정",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142877",
-      "category": "이슈",
-      "views": 5310,
-      "likes": 83,
-      "comments": 23,
-      "score": 83.83,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.21,
-      "rising_rank": 4,
-      "window_minutes": 214
-    },
-    {
-      "source": "디시인사이드",
-      "title": "국방부 군면제 폐지 논의...jpg,",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468105&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17748,
-      "likes": 238,
-      "comments": 814,
-      "score": 81.65,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.29,
-      "rising_rank": 5,
-      "window_minutes": 214
-    },
-    {
-      "source": "뽐뿌",
-      "title": "시댁에서 제발 좀 그만오라는 며느리",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142388",
-      "category": "이슈",
-      "views": 22587,
-      "likes": 3,
-      "comments": 44,
-      "score": 80.47,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.8,
-      "rising_rank": 6,
-      "window_minutes": 214
+      "rising_score": 81.05,
+      "rising_rank": 8,
+      "window_minutes": 114
     },
     {
       "source": "더쿠",
       "title": "엄마의 긴 노년이 나를 죽음으로 몰아간다",
       "url": "https://theqoo.net/hot/4366035606",
       "category": "이슈",
-      "views": 34377,
+      "views": 69027,
       "likes": 0,
-      "comments": 392,
-      "score": 77.84,
-      "change": "NEW",
+      "comments": 648,
+      "score": 76.21,
+      "change": 0,
       "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 34650,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 256,
       "rank_gain": 0,
-      "rising_score": 74.69,
-      "rising_rank": 7,
-      "window_minutes": 214
-    },
-    {
-      "source": "디시인사이드",
-      "title": "안싱글벙글 한국기술 빼간 CXMT 중국 D램기업 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468125&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 10054,
-      "likes": 60,
-      "comments": 211,
-      "score": 76.85,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.28,
-      "rising_rank": 8,
-      "window_minutes": 214
-    },
-    {
-      "source": "더쿠",
-      "title": "한국 여권은 단어장 같다는 일본인 트윗",
-      "url": "https://theqoo.net/hot/4365965362",
-      "category": "이슈",
-      "views": 57615,
-      "likes": 0,
-      "comments": 727,
-      "score": 76.37,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.08,
+      "rising_score": 80.13,
       "rising_rank": 9,
-      "window_minutes": 214
+      "window_minutes": 114
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 응우옌 직원 상위 1%",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468117&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 15241,
-      "likes": 124,
-      "comments": 158,
-      "score": 76.34,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 23818,
+      "likes": 171,
+      "comments": 252,
+      "score": 71.32,
+      "change": 0,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 8577,
+      "delta_likes": 47,
+      "delta_comments": 94,
       "rank_gain": 0,
-      "rising_score": 74.06,
+      "rising_score": 78.57,
       "rising_rank": 10,
-      "window_minutes": 214
+      "window_minutes": 114
     }
   ],
   "issues": [
@@ -666,6 +666,47 @@
       "change": 0
     },
     {
+      "id": "iafce283e",
+      "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
+      "keywords": [
+        "분리배출",
+        "내년부터",
+        "의무화",
+        "우유팩"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.24,
+      "peak_score": 103.77,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76918893?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "내년부터 우유팩 분리배출 의무화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736572",
+          "score": 55.63
+        }
+      ],
+      "first_seen": "2026-10-05T21:38:23.054976+09:00",
+      "last_seen": "2026-10-05T21:38:23.054976+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "i8b4085e0",
       "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -700,8 +741,8 @@
       "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -739,8 +780,8 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -778,8 +819,8 @@
       "last_seen": "2026-10-05T19:44:22.350622+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i1c6fbb40",
@@ -822,7 +863,7 @@
       "last_seen": "2026-10-05T14:48:07.927986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
+      "rank": 8,
       "change": -1
     },
     {
@@ -860,7 +901,7 @@
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 9,
       "change": -1
     },
     {
@@ -911,428 +952,298 @@
       "last_seen": "2026-10-05T14:48:07.927986+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 99.03,
-      "peak_score": 83.07,
-      "appearances": 5,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 14,
-          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-          "score": 73.87
-        },
-        {
-          "source": "인벤",
-          "rank": 91,
-          "title": "[속보] 최휘영 \"'암살자(들)' 신변 위협은 민주주의 파괴… 엄정 법 집행 요청\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736439",
-          "score": 53.93
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-05T16:10:48.666367+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 0
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "icb33dad5",
-      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i78f6419e",
+      "title": "영화 <암살자(들)> 보고 왔습니다. (약스포)",
       "keywords": [
-        "sns",
-        "이재명"
+        "암살자",
+        "영화"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 93.83,
-      "peak_score": 93.83,
+      "score": 75.17,
+      "peak_score": 75.17,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "이재명 SNS 팩폭 박는 박은정",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142877",
-          "score": 83.83
+          "source": "디시인사이드",
+          "rank": 34,
+          "title": "'암살자(들)' 보지 말라더니 더 몰렸다…11일 만에 200만 돌파",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468115&_dcbest=1&page=1",
+          "score": 65.17
         },
         {
-          "source": "인벤",
-          "rank": 92,
-          "title": "이재명 대통령의 SNS 청와대에서 관리팀 따로 두고 따로 관리해야 합니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736532",
-          "score": 52.37
+          "source": "클리앙",
+          "rank": 45,
+          "title": "영화 <암살자(들)> 보고 왔습니다. (약스포)",
+          "url": "https://www.clien.net/service/board/park/19273868?od=T31&po=0&category=0&groupCd=",
+          "score": 62.82
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 74,
+          "title": "속보]최휘영 장관 \"영화 '암살자(들)' 배우 자택 시위는 민주주의 파괴",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468109&_dcbest=1&page=1",
+          "score": 56.68
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iafce283e",
+      "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
       "keywords": [
-        "인스타"
+        "분리배출",
+        "내년부터",
+        "의무화",
+        "우유팩"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 68.95,
-      "peak_score": 68.95,
+      "post_count": 2,
+      "score": 103.77,
+      "peak_score": 103.77,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 63,
-          "title": "후방 ㅡ 야살 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736556",
-          "score": 58.95
+          "source": "루리웹",
+          "rank": 2,
+          "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76918893?m=humor",
+          "score": 95.77
         },
         {
-          "source": "더쿠",
-          "rank": 73,
-          "title": "인스타 스토리에 이런 거 올리면 길티야?",
-          "url": "https://theqoo.net/hot/4365814477",
-          "score": 56.26
+          "source": "인벤",
+          "rank": 77,
+          "title": "내년부터 우유팩 분리배출 의무화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736572",
+          "score": 55.63
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i17cc70e6",
+      "title": "‘이제는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본인"
+        "이제는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.37,
-      "peak_score": 85.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 9,
-          "title": "한국 여권은 단어장 같다는 일본인 트윗",
-          "url": "https://theqoo.net/hot/4365965362",
-          "score": 76.37
-        },
-        {
-          "source": "인벤",
-          "rank": 86,
-          "title": "부산 택시에서 금기어를 말해버린 일본인",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736525",
-          "score": 53.9
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "icaddf5b1",
-      "title": "김용민 의원 브라질 대선, 남의 일이 아닙니다",
-      "keywords": [
-        "김용민",
-        "의원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.59,
-      "peak_score": 75.59,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 29,
-          "title": "김용민 의원 브라질 대선, 남의 일이 아닙니다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736549",
-          "score": 67.59
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 49,
-          "title": "김용민 의원 SNS",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142882",
-          "score": 61.54
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i022d114b",
-      "title": "‘난투극’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난투극",
-        "외국인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.91,
-      "peak_score": 70.91,
+      "score": 79.55,
+      "peak_score": 79.55,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 47,
-          "title": "평택 어린이공원서 외국인 집단 난투극",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736553",
-          "score": 61.91
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 78,
-          "title": "[속보]'코드 제로 발령' 평택서 외국인 난투극…jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468073&_dcbest=1&page=1",
-          "score": 55.28
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i1adf40a5",
-      "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지지율"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.44,
-      "peak_score": 70.44,
-      "appearances": 1,
-      "sources": [
-        "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 51,
-          "title": "이재명 정부의 지지율 하락원인.. 부동산일까? 검찰개혁일까? 민생일까?",
-          "url": "https://www.clien.net/service/board/park/19273831?od=T31&po=0&category=0&groupCd=",
-          "score": 61.44
+          "rank": 17,
+          "title": "그알 이제는 말할 수 있다 보고 와서 소감문이나 쓰라고 하시죠",
+          "url": "https://www.clien.net/service/board/park/19273874?od=T31&po=0&category=0&groupCd=",
+          "score": 70.55
         },
         {
-          "source": "인벤",
-          "rank": 99,
-          "title": "트럼프. 중간선거 전 지지율 30% 붕괴.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736529",
-          "score": 50.37
+          "source": "디시인사이드",
+          "rank": 65,
+          "title": "싱글벙글 이제는 사라진 전쟁 떡밥",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468087&_dcbest=1&page=1",
+          "score": 58.61
         }
       ],
-      "rank": 6,
+      "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "ic36704ce",
-      "title": "‘정규시즌’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5281ded9",
+      "title": "‘전기차’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "정규시즌"
+        "전기차"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 70.42,
-      "peak_score": 70.42,
+      "score": 70.15,
+      "peak_score": 70.15,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 52,
-          "title": "kt위즈, 한국시리즈 직행 … 5년 만에 정규시즌 우승",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736561",
-          "score": 61.42
+          "source": "뽐뿌",
+          "rank": 53,
+          "title": "그런데 전기차 타시는분들은 왜 주유소 가는게 귀찮다는거에요?",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978749",
+          "score": 61.15
         },
         {
-          "source": "더쿠",
-          "rank": 82,
-          "title": "[KBO] 2026 KBO 정규시즌 우승 kt wiz",
-          "url": "https://theqoo.net/hot/4365908280",
-          "score": 54.89
+          "source": "인벤",
+          "rank": 83,
+          "title": "전기차 많아진 중국 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736582",
+          "score": 54.53
         }
       ],
-      "rank": 7,
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "score": 126.77,
+      "keyword": "중국",
+      "score": 144.62,
       "post_count": 4,
-      "source_count": 3,
-      "best_rank": 4,
+      "source_count": 4,
+      "best_rank": 8,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
+        "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 7
+      "change": 3
     },
     {
-      "keyword": "한국",
-      "score": 117.53,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 9,
+      "keyword": "게임",
+      "score": 103.28,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "keyword": "sns",
-      "score": 101.7,
-      "post_count": 3,
+      "keyword": "엄마",
+      "score": 101.45,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 7,
       "sources": [
-        "뽐뿌",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 12
+      "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 100.46,
+      "keyword": "분리배출",
+      "score": 100.26,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 2,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "내년",
+        "우유팩",
+        "의무화"
+      ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "일본인",
-      "score": 92.93,
-      "post_count": 2,
+      "keyword": "이제",
+      "score": 99.31,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 17,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "만에",
-      "score": 91.96,
+      "keyword": "서울",
+      "score": 95.32,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "김용민",
-      "score": 90.96,
-      "post_count": 2,
+      "keyword": "좋은",
+      "score": 95.2,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 29,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [
-        "의원"
-      ],
+      "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "인스타",
-      "score": 88.42,
+      "keyword": "암살자",
+      "score": 94.24,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 63,
+      "best_rank": 34,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "가는",
-      "score": 88.08,
+      "keyword": "한국",
+      "score": 94.07,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 42,
+      "best_rank": 28,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -7
     },
     {
-      "keyword": "벌써",
-      "score": 85.8,
+      "keyword": "있다",
+      "score": 93.81,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 17,
       "sources": [
         "더쿠",
         "클리앙"
@@ -1342,41 +1253,41 @@
       "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 84.84,
+      "keyword": "모음",
+      "score": 88.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 32,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "처음",
-      "score": 84.83,
+      "keyword": "결론",
+      "score": 86.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 24,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "부산",
-      "score": 84.08,
+      "keyword": "김지용",
+      "score": 86.71,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 49,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1384,11 +1295,11 @@
       "change": "NEW"
     },
     {
-      "keyword": "어떤",
-      "score": 83.68,
+      "keyword": "미국",
+      "score": 85.9,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 54,
+      "best_rank": 55,
       "sources": [
         "인벤",
         "클리앙"
@@ -1398,18 +1309,16 @@
       "change": "NEW"
     },
     {
-      "keyword": "외국인",
-      "score": 83.65,
+      "keyword": "영화",
+      "score": 84.69,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 47,
+      "best_rank": 45,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
-      "aliases": [
-        "난투극"
-      ],
+      "aliases": [],
       "rank": 15,
       "change": "NEW"
     }
@@ -1417,51 +1326,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "소니의 뻘짓후 여파",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76916882?m=humor",
-      "score": 96.19,
-      "views": 18285,
-      "comments": 88
+      "title": "서브컬처 게임 추세",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76917424?m=humor",
+      "score": 98.94,
+      "views": 23608,
+      "comments": 86
+    },
+    {
+      "source": "클리앙",
+      "title": "민주당과 정부가 추진하는 기업형 임대의 결말이 이런거죠",
+      "url": "https://www.clien.net/service/board/park/19273863?od=T31&po=0&category=0&groupCd=",
+      "score": 79.25,
+      "views": 2615,
+      "comments": 66
     },
     {
       "source": "뽐뿌",
-      "title": "이재명 SNS 팩폭 박는 박은정",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142877",
-      "score": 83.83,
-      "views": 5310,
-      "comments": 23
-    },
-    {
-      "source": "디시인사이드",
-      "title": "국방부 군면제 폐지 논의...jpg,",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468105&_dcbest=1&page=1",
-      "score": 81.65,
-      "views": 17748,
-      "comments": 814
+      "title": "[KB스타뱅킹] 스타퀴즈 10/5일자 정답",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119275",
+      "score": 77.9,
+      "views": 3957,
+      "comments": 10
     },
     {
       "source": "더쿠",
       "title": "엄마의 긴 노년이 나를 죽음으로 몰아간다",
       "url": "https://theqoo.net/hot/4366035606",
-      "score": 77.84,
-      "views": 34377,
-      "comments": 392
+      "score": 76.21,
+      "views": 69027,
+      "comments": 648
     },
     {
-      "source": "클리앙",
-      "title": "이야 코덱스 진짜 좋네요",
-      "url": "https://www.clien.net/service/board/park/19273847?od=T31&po=0&category=0&groupCd=",
-      "score": 73.72,
-      "views": 1067,
-      "comments": 0
+      "source": "디시인사이드",
+      "title": "안싱글벙글 한국기술 빼간 CXMT 중국 D램기업 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468125&_dcbest=1&page=1",
+      "score": 76.05,
+      "views": 17402,
+      "comments": 530
     },
     {
       "source": "인벤",
-      "title": "고현정 근황",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736546",
-      "score": 72.76,
-      "views": 1387,
-      "comments": 11
+      "title": "빠르게 물 빼고 싶을 때 gif",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736599",
+      "score": 69.94,
+      "views": 728,
+      "comments": 7
     }
   ]
 }
