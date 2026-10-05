@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-06",
   "label": "2026년 10월 06일",
-  "collected_at": "2026-10-06T06:03:38.576351+09:00",
+  "collected_at": "2026-10-06T08:00:21.222028+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 101.17,
+      "score": 102.61,
       "peak_score": 89.68,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -24,25 +24,25 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 6,
-          "title": "이재명 형보수지를 7년을 커버했는데",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
-          "score": 80.68
+          "rank": 14,
+          "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
+          "score": 74.44
         },
         {
           "source": "인벤",
-          "rank": 21,
+          "rank": 20,
           "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
           "score": 70.02
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "last_seen": "2026-10-06T08:00:21.222028+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
       "id": "idb93748a",
@@ -52,9 +52,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 99.89,
+      "score": 101.33,
       "peak_score": 88.4,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -62,25 +62,63 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 7,
+          "rank": 13,
           "title": "훌쩍훌쩍 아빠가 집을 나갈 때마다 안방 문을 잠그는 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468193&_dcbest=1&page=1",
-          "score": 79.4
+          "score": 75.17
         },
         {
           "source": "인벤",
-          "rank": 53,
+          "rank": 59,
           "title": "아들~ 아빠가 햄버거 사 왔다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736591",
           "score": 58.81
         }
       ],
       "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "last_seen": "2026-10-06T08:00:21.222028+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.91,
+      "peak_score": 83.44,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 14,
+          "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
+          "score": 74.44
+        },
+        {
+          "source": "클리앙",
+          "rank": 18,
+          "title": "임대아파트 공급은 민주당 몰표에요",
+          "url": "https://www.clien.net/service/board/park/19273954?od=T31&po=0&category=0&groupCd=",
+          "score": 71.58
+        }
+      ],
+      "first_seen": "2026-09-29T19:53:33.458089+09:00",
+      "last_seen": "2026-10-06T08:00:21.222028+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i5781c296",
@@ -117,8 +155,8 @@
       "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ibb35f05f",
@@ -155,7 +193,7 @@
       "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     }
   ]
