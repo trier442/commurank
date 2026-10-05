@@ -2,41 +2,99 @@
   "version": 1,
   "date": "2026-10-06",
   "label": "2026년 10월 06일",
-  "collected_at": "2026-10-06T05:52:18.787765+09:00",
+  "collected_at": "2026-10-06T06:03:38.576351+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘아빠가’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #무료. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #이재명. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 5,
     "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 14,
-    "top100_views": 1058487,
-    "top100_comments": 9257
+    "daily_issues": 4,
+    "keywords": 13,
+    "top100_views": 1075746,
+    "top100_comments": 9302
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘아빠가’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "idb93748a"
+      "issue_id": "i039fd79c"
     },
     {
       "type": "post",
-      "title": "게임업계 입문을 포기한 이유.jpg",
+      "title": "옛날 게임 개발자 찬양하던걸로 자주 올라왔던 짤 특징",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922124?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922872?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#무료",
+      "title": "#이재명",
       "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "무료"
+      "keyword": "이재명"
     }
   ],
   "top_posts": [
+    {
+      "title": "옛날 게임 개발자 찬양하던걸로 자주 올라왔던 짤 특징",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922872?m=humor",
+      "first_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "peak_score": 96.63,
+      "max_views": 13618,
+      "max_likes": 102,
+      "max_comments": 45,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-06": {
+          "max_score": 96.63,
+          "max_views": 13618,
+          "max_likes": 102,
+          "max_comments": 45,
+          "appearances": 2,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
+        }
+      },
+      "score": 107.05,
+      "views": 13618,
+      "likes": 102,
+      "comments": 45,
+      "active_days": 1,
+      "change": 1
+    },
+    {
+      "title": "K-단열 시공.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76921985?m=humor",
+      "first_seen": "2026-10-06T06:03:38.576351+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "peak_score": 97.29,
+      "max_views": 16342,
+      "max_likes": 109,
+      "max_comments": 43,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-06": {
+          "max_score": 97.29,
+          "max_views": 16342,
+          "max_likes": 109,
+          "max_comments": 43,
+          "appearances": 1,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
+        }
+      },
+      "score": 106.81,
+      "views": 16342,
+      "likes": 109,
+      "comments": 43,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "게임업계 입문을 포기한 이유.jpg",
       "source": "루리웹",
@@ -59,41 +117,12 @@
           "last_seen": "2026-10-06T05:52:18.787765+09:00"
         }
       },
-      "score": 106.54,
+      "score": 106.53,
       "views": 24893,
       "likes": 141,
       "comments": 115,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "옛날 게임 개발자 찬양하던걸로 자주 올라왔던 짤 특징",
-      "source": "루리웹",
-      "category": "게임",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922872?m=humor",
-      "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "peak_score": 96.63,
-      "max_views": 13618,
-      "max_likes": 102,
-      "max_comments": 45,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-06": {
-          "max_score": 96.63,
-          "max_views": 13618,
-          "max_likes": 102,
-          "max_comments": 45,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
-        }
-      },
-      "score": 106.15,
-      "views": 13618,
-      "likes": 102,
-      "comments": 45,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "돈 자랑하다 친구들한테 손절 당한 사연.jpg",
@@ -101,26 +130,55 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143054",
       "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "peak_score": 93.48,
-      "max_views": 21659,
+      "max_views": 22883,
       "max_likes": 0,
-      "max_comments": 54,
-      "appearances": 1,
+      "max_comments": 56,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-06": {
           "max_score": 93.48,
-          "max_views": 21659,
+          "max_views": 22883,
           "max_likes": 0,
-          "max_comments": 54,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
+          "max_comments": 56,
+          "appearances": 2,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
         }
       },
-      "score": 103.0,
-      "views": 21659,
+      "score": 103.9,
+      "views": 22883,
       "likes": 0,
-      "comments": 54,
+      "comments": 56,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "엔화 850원 대 붕괴",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922041?m=humor",
+      "first_seen": "2026-10-06T06:03:38.576351+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "peak_score": 92.59,
+      "max_views": 21110,
+      "max_likes": 60,
+      "max_comments": 78,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-06": {
+          "max_score": 92.59,
+          "max_views": 21110,
+          "max_likes": 60,
+          "max_comments": 78,
+          "appearances": 1,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
+        }
+      },
+      "score": 102.11,
+      "views": 21110,
+      "likes": 60,
+      "comments": 78,
       "active_days": 1,
       "change": "NEW"
     },
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-06T05:52:18.787765+09:00"
         }
       },
-      "score": 102.09,
+      "score": 102.08,
       "views": 11543,
       "likes": 93,
       "comments": 47,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "암살자들 \"총성은 6발인데 탄환은 4개다?\" 진실",
@@ -159,28 +217,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468197&_dcbest=1&page=1",
       "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "peak_score": 85.01,
-      "max_views": 9941,
-      "max_likes": 140,
-      "max_comments": 271,
-      "appearances": 1,
+      "max_views": 10188,
+      "max_likes": 150,
+      "max_comments": 275,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-06": {
           "max_score": 85.01,
-          "max_views": 9941,
-          "max_likes": 140,
-          "max_comments": 271,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
+          "max_views": 10188,
+          "max_likes": 150,
+          "max_comments": 275,
+          "appearances": 2,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
         }
       },
-      "score": 94.53,
-      "views": 9941,
-      "likes": 140,
-      "comments": 271,
+      "score": 95.43,
+      "views": 10188,
+      "likes": 150,
+      "comments": 275,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "[GOG] Bounty Train (무료)",
@@ -212,12 +270,41 @@
           "last_seen": "2026-10-06T05:52:18.787765+09:00"
         }
       },
-      "score": 92.99,
+      "score": 92.98,
       "views": 39062,
       "likes": 106,
       "comments": 7,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
+    },
+    {
+      "title": "이재명 형보수지를 7년을 커버했는데",
+      "source": "뽐뿌",
+      "category": "이슈",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
+      "first_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "peak_score": 80.68,
+      "max_views": 5577,
+      "max_likes": 34,
+      "max_comments": 25,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-06": {
+          "max_score": 80.68,
+          "max_views": 5577,
+          "max_likes": 34,
+          "max_comments": 25,
+          "appearances": 2,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
+        }
+      },
+      "score": 91.1,
+      "views": 5577,
+      "likes": 34,
+      "comments": 25,
+      "active_days": 1,
+      "change": 9
     },
     {
       "title": "훌쩍훌쩍 아빠가 집을 나갈 때마다 안방 문을 잠그는 이유",
@@ -225,167 +312,180 @@
       "category": "생활",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468193&_dcbest=1&page=1",
       "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "peak_score": 79.13,
-      "max_views": 10840,
-      "max_likes": 47,
-      "max_comments": 160,
-      "appearances": 1,
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "peak_score": 79.4,
+      "max_views": 11147,
+      "max_likes": 48,
+      "max_comments": 165,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-06": {
-          "max_score": 79.13,
-          "max_views": 10840,
-          "max_likes": 47,
-          "max_comments": 160,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
+          "max_score": 79.4,
+          "max_views": 11147,
+          "max_likes": 48,
+          "max_comments": 165,
+          "appearances": 2,
+          "last_seen": "2026-10-06T06:03:38.576351+09:00"
         }
       },
-      "score": 88.65,
-      "views": 10840,
-      "likes": 47,
-      "comments": 160,
+      "score": 89.82,
+      "views": 11147,
+      "likes": 48,
+      "comments": 165,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "제네시스 하브 대박사건 (feat.토요타 ㅂㅂ)",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978779",
-      "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "peak_score": 76.14,
-      "max_views": 23020,
-      "max_likes": 7,
-      "max_comments": 132,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-06": {
-          "max_score": 76.14,
-          "max_views": 23020,
-          "max_likes": 7,
-          "max_comments": 132,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
-        }
-      },
-      "score": 85.66,
-      "views": 23020,
-      "likes": 7,
-      "comments": 132,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "이광수 버블 '넌 지금 꿈' +추가",
-      "source": "더쿠",
-      "category": "유머",
-      "url": "https://theqoo.net/hot/4366424003",
-      "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "peak_score": 74.84,
-      "max_views": 32778,
-      "max_likes": 0,
-      "max_comments": 275,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-06": {
-          "max_score": 74.84,
-          "max_views": 32778,
-          "max_likes": 0,
-          "max_comments": 275,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
-        }
-      },
-      "score": 84.36,
-      "views": 32778,
-      "likes": 0,
-      "comments": 275,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "정말 지극히 남자만이 할 수 있는 생각",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4366367160",
-      "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "peak_score": 74.21,
-      "max_views": 51090,
-      "max_likes": 0,
-      "max_comments": 446,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-06": {
-          "max_score": 74.21,
-          "max_views": 51090,
-          "max_likes": 0,
-          "max_comments": 446,
-          "appearances": 1,
-          "last_seen": "2026-10-06T05:52:18.787765+09:00"
-        }
-      },
-      "score": 83.73,
-      "views": 51090,
-      "likes": 0,
-      "comments": 446,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "rising": [
     {
       "source": "인벤",
-      "title": "아버지의 유품에 시간을 쌓아가는 아들",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736595",
+      "title": "내년부터 우유팩 분리배출 의무화",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736572",
       "category": "이슈",
-      "views": 649,
+      "views": 1875,
       "likes": 0,
-      "comments": 0,
-      "score": 53.28,
-      "change": 13,
-      "current_rank": 78,
+      "comments": 39,
+      "score": 51.92,
+      "change": 4,
+      "current_rank": 88,
       "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 13,
-      "rising_score": 97.37,
+      "rank_gain": 4,
+      "rising_score": 96.15,
       "rising_rank": 1,
-      "window_minutes": 489
+      "window_minutes": 11
     },
     {
-      "source": "인벤",
-      "title": "투게더 생산과정",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736594",
+      "source": "디시인사이드",
+      "title": "암살자들 \"총성은 6발인데 탄환은 4개다?\" 진실",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468197&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 824,
-      "likes": 0,
-      "comments": 3,
-      "score": 53.5,
-      "change": 12,
-      "current_rank": 77,
+      "views": 10188,
+      "likes": 150,
+      "comments": 275,
+      "score": 85.01,
+      "change": 0,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 12,
-      "rising_score": 92.11,
+      "delta_views": 247,
+      "delta_likes": 10,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 89.99,
       "rising_rank": 2,
-      "window_minutes": 489
+      "window_minutes": 11
+    },
+    {
+      "source": "클리앙",
+      "title": "극우들이 물어뜯고있는 최우진선수 지뢰피해 조롱 세레모니??",
+      "url": "https://www.clien.net/service/board/park/19273952?od=T31&po=0&category=0&groupCd=",
+      "category": "스포츠",
+      "views": 579,
+      "likes": 0,
+      "comments": 6,
+      "score": 72.25,
+      "change": 14,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 280,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 14,
+      "rising_score": 89.91,
+      "rising_rank": 3,
+      "window_minutes": 11
     },
     {
       "source": "루리웹",
-      "title": "게임업계 입문을 포기한 이유.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922124?m=humor",
-      "category": "게임",
-      "views": 24893,
-      "likes": 141,
-      "comments": 115,
-      "score": 97.02,
+      "title": "화가 많이 난 일본인 jpg.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76923677?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 3247,
+      "likes": 27,
+      "comments": 6,
+      "score": 57.79,
+      "change": 20,
+      "current_rank": 59,
+      "new_entry": false,
+      "delta_views": 2566,
+      "delta_likes": 17,
+      "delta_comments": 3,
+      "rank_gain": 20,
+      "rising_score": 87.06,
+      "rising_rank": 4,
+      "window_minutes": 11
+    },
+    {
+      "source": "디시인사이드",
+      "title": "남친이 S성향이라 고민된다는 사연녀",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468183&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12797,
+      "likes": 6,
+      "comments": 129,
+      "score": 65.4,
+      "change": 0,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 232,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 84.78,
+      "rising_rank": 5,
+      "window_minutes": 11
+    },
+    {
+      "source": "뽐뿌",
+      "title": "돈 자랑하다 친구들한테 손절 당한 사연.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143054",
+      "category": "이슈",
+      "views": 22883,
+      "likes": 0,
+      "comments": 56,
+      "score": 85.91,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 1224,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 0,
+      "rising_score": 83.37,
+      "rising_rank": 6,
+      "window_minutes": 11
+    },
+    {
+      "source": "더쿠",
+      "title": "이광수 버블 '넌 지금 꿈' +추가",
+      "url": "https://theqoo.net/hot/4366424003",
+      "category": "유머",
+      "views": 34223,
+      "likes": 0,
+      "comments": 278,
+      "score": 74.84,
+      "change": 0,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 1445,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 83.27,
+      "rising_rank": 7,
+      "window_minutes": 11
+    },
+    {
+      "source": "루리웹",
+      "title": "K-단열 시공.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76921985?m=humor",
+      "category": "이슈",
+      "views": 16342,
+      "likes": 109,
+      "comments": 43,
+      "score": 97.29,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -393,39 +493,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 3,
-      "window_minutes": 489
+      "rising_score": 82.86,
+      "rising_rank": 8,
+      "window_minutes": 11
+    },
+    {
+      "source": "클리앙",
+      "title": "이런 경사스러운 날에 혼자 분위기 파악 못하는 종목.JPG",
+      "url": "https://www.clien.net/service/board/park/19273951?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1598,
+      "likes": 0,
+      "comments": 2,
+      "score": 72.76,
+      "change": 3,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 272,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 3,
+      "rising_score": 81.47,
+      "rising_rank": 9,
+      "window_minutes": 11
     },
     {
       "source": "루리웹",
-      "title": "옛날 게임 개발자 찬양하던걸로 자주 올라왔던 짤 특징",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922872?m=humor",
-      "category": "게임",
-      "views": 13618,
-      "likes": 102,
-      "comments": 45,
-      "score": 96.63,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 4,
-      "window_minutes": 489
-    },
-    {
-      "source": "뽐뿌",
-      "title": "돈 자랑하다 친구들한테 손절 당한 사연.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143054",
+      "title": "엔화 850원 대 붕괴",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922041?m=humor",
       "category": "이슈",
-      "views": 21659,
-      "likes": 0,
-      "comments": 54,
-      "score": 93.48,
+      "views": 21110,
+      "likes": 60,
+      "comments": 78,
+      "score": 92.59,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -433,112 +533,50 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.26,
-      "rising_rank": 5,
-      "window_minutes": 489
-    },
-    {
-      "source": "루리웹",
-      "title": "휴게소에서 밤샘하는 만화",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922829?m=humor",
-      "category": "이슈",
-      "views": 11543,
-      "likes": 93,
-      "comments": 47,
-      "score": 92.57,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.88,
-      "rising_rank": 6,
-      "window_minutes": 489
-    },
-    {
-      "source": "인벤",
-      "title": "한국 비자받기 어려워서 좋다는 영국인",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736607",
-      "category": "유머",
-      "views": 74,
-      "likes": 0,
-      "comments": 0,
-      "score": 59.98,
-      "change": 9,
-      "current_rank": 46,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 9,
-      "rising_score": 78.95,
-      "rising_rank": 7,
-      "window_minutes": 489
-    },
-    {
-      "source": "인벤",
-      "title": "임은정 “한동훈 처남 성폭력 감찰 민원, 김지용이 묵살”",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736604",
-      "category": "이슈",
-      "views": 224,
-      "likes": 0,
-      "comments": 0,
-      "score": 57.9,
-      "change": 9,
-      "current_rank": 59,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 9,
-      "rising_score": 78.95,
-      "rising_rank": 8,
-      "window_minutes": 489
-    },
-    {
-      "source": "인벤",
-      "title": "참신 했던 공룡 상상도",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736597",
-      "category": "이슈",
-      "views": 782,
-      "likes": 0,
-      "comments": 0,
-      "score": 57.33,
-      "change": 9,
-      "current_rank": 64,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 9,
-      "rising_score": 78.95,
-      "rising_rank": 9,
-      "window_minutes": 489
-    },
-    {
-      "source": "인벤",
-      "title": "윤석열 계좌 '9시마다' 꽉 찼다…한도 차면 빼고 또 채우고 / JTBC 뉴스룸",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736593",
-      "category": "이슈",
-      "views": 638,
-      "likes": 1,
-      "comments": 7,
-      "score": 54.4,
-      "change": 9,
-      "current_rank": 74,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 9,
-      "rising_score": 78.95,
+      "rising_score": 80.89,
       "rising_rank": 10,
-      "window_minutes": 489
+      "window_minutes": 11
     }
   ],
   "issues": [
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.17,
+      "peak_score": 89.68,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "이재명 형보수지를 7년을 커버했는데",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
+          "score": 80.68
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
+          "score": 70.02
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "idb93748a",
       "title": "‘아빠가’ 관련 글이 여러 커뮤니티에서 화제",
@@ -547,9 +585,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.6,
-      "peak_score": 88.13,
-      "appearances": 1,
+      "score": 99.89,
+      "peak_score": 88.4,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -560,60 +598,60 @@
           "rank": 7,
           "title": "훌쩍훌쩍 아빠가 집을 나갈 때마다 안방 문을 잠그는 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468193&_dcbest=1&page=1",
-          "score": 79.13
+          "score": 79.4
         },
         {
           "source": "인벤",
-          "rank": 55,
+          "rank": 53,
           "title": "아들~ 아빠가 햄버거 사 왔다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736591",
           "score": 58.81
         }
       ],
       "first_seen": "2026-10-06T05:52:18.787765+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.56,
-      "peak_score": 79.09,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "이재명 형보수지를 7년을 커버했는데",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
-          "score": 70.09
-        },
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
-          "score": 70.02
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 4
+      "change": -1
+    },
+    {
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.83,
+      "peak_score": 82.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 11,
+          "title": "[네이버] PS5 페르소나4 리바이벌 리미티드박스(149,800/3000)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107782",
+          "score": 73.36
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 35,
+          "title": "[네이버] 네이버멤버십_ 제주 삼다수 2L, 500ml, 동원 딤섬만두, 오뚜기피자 (다양/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738235",
+          "score": 63.86
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "ibb35f05f",
@@ -623,9 +661,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.36,
+      "score": 80.38,
       "peak_score": 68.89,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "루리웹",
         "클리앙"
@@ -636,25 +674,59 @@
           "rank": 48,
           "title": "바이브코딩 시대에 상용 앱은 어떻게 될까요.",
           "url": "https://www.clien.net/service/board/park/19273937?od=T31&po=0&category=0&groupCd=",
-          "score": 59.89
+          "score": 59.44
         },
         {
           "source": "루리웹",
-          "rank": 56,
+          "rank": 68,
           "title": "어떻게 택시조합 이름이 운수좋은날 ㅋㅋㅋㅋㅋㅋㅋ",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/76923649?m=humor_only&t=now",
-          "score": 58.49
+          "score": 55.97
         }
       ],
       "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-06T05:52:18.787765+09:00",
+      "last_seen": "2026-10-06T06:03:38.576351+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     }
   ],
   "realtime_issues": [
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.68,
+      "peak_score": 89.68,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "이재명 형보수지를 7년을 커버했는데",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
+          "score": 80.68
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
+          "score": 70.02
+        }
+      ],
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "idb93748a",
       "title": "‘아빠가’ 관련 글이 여러 커뮤니티에서 화제",
@@ -663,8 +735,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.13,
-      "peak_score": 88.13,
+      "score": 88.4,
+      "peak_score": 88.4,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -676,51 +748,51 @@
           "rank": 7,
           "title": "훌쩍훌쩍 아빠가 집을 나갈 때마다 안방 문을 잠그는 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468193&_dcbest=1&page=1",
-          "score": 79.13
+          "score": 79.4
         },
         {
           "source": "인벤",
-          "rank": 55,
+          "rank": 53,
           "title": "아들~ 아빠가 햄버거 사 왔다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736591",
           "score": 58.81
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "네이버"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.09,
-      "peak_score": 79.09,
+      "score": 82.36,
+      "peak_score": 82.36,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "이재명 형보수지를 7년을 커버했는데",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143167",
-          "score": 70.09
+          "source": "루리웹",
+          "rank": 11,
+          "title": "[네이버] PS5 페르소나4 리바이벌 리미티드박스(149,800/3000)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107782",
+          "score": 73.36
         },
         {
-          "source": "인벤",
-          "rank": 20,
-          "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
-          "score": 70.02
+          "source": "뽐뿌",
+          "rank": 35,
+          "title": "[네이버] 네이버멤버십_ 제주 삼다수 2L, 500ml, 동원 딤섬만두, 오뚜기피자 (다양/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738235",
+          "score": 63.86
         }
       ],
-      "rank": 2,
+      "rank": 3,
       "change": "NEW"
     },
     {
@@ -731,8 +803,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.97,
-      "peak_score": 75.97,
+      "score": 76.24,
+      "peak_score": 76.24,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -741,21 +813,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 25,
+          "rank": 26,
           "title": "남자가 비싼 시계를 찼을때 여성들의 생각.",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468153&_dcbest=1&page=1",
-          "score": 66.97
+          "score": 67.24
         },
         {
           "source": "더쿠",
-          "rank": 83,
+          "rank": 84,
           "title": "데이트 비용 10:0, 9:1 이런사람들은 계산할때 당연히 그냥 남자가 하게끔 두는거야?",
           "url": "https://theqoo.net/hot/4366331063",
           "score": 52.89
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ibb35f05f",
@@ -765,8 +837,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 68.89,
-      "peak_score": 68.89,
+      "score": 68.44,
+      "peak_score": 68.44,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -778,52 +850,38 @@
           "rank": 48,
           "title": "바이브코딩 시대에 상용 앱은 어떻게 될까요.",
           "url": "https://www.clien.net/service/board/park/19273937?od=T31&po=0&category=0&groupCd=",
-          "score": 59.89
+          "score": 59.44
         },
         {
           "source": "루리웹",
-          "rank": 56,
+          "rank": 68,
           "title": "어떻게 택시조합 이름이 운수좋은날 ㅋㅋㅋㅋㅋㅋㅋ",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/76923649?m=humor_only&t=now",
-          "score": 58.49
+          "score": 55.97
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     }
   ],
   "keywords": [
     {
-      "keyword": "무료",
-      "score": 105.08,
+      "keyword": "이재명",
+      "score": 105.0,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 6,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 12
-    },
-    {
-      "keyword": "만화",
-      "score": 104.23,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
+      "change": 4
     },
     {
       "keyword": "자주",
-      "score": 103.17,
+      "score": 103.29,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 2,
@@ -832,12 +890,26 @@
         "인벤"
       ],
       "aliases": [],
+      "rank": 2,
+      "change": 1
+    },
+    {
+      "keyword": "네이버",
+      "score": 99.08,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 11,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
       "keyword": "아빠",
-      "score": 98.66,
+      "score": 98.94,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 7,
@@ -847,39 +919,25 @@
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "이재명",
-      "score": 98.0,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "여성들",
-      "score": 95.29,
+      "score": 94.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": "NEW"
+      "rank": 5,
+      "change": 1
     },
     {
       "keyword": "엄마",
-      "score": 91.7,
+      "score": 91.6,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 34,
@@ -888,40 +946,26 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": -6
-    },
-    {
-      "keyword": "사건",
-      "score": 89.14,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 50,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 6,
+      "change": 1
     },
     {
       "keyword": "ai",
-      "score": 88.17,
+      "score": 87.6,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 40,
       "sources": [
         "루리웹",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
+      "rank": 7,
+      "change": 2
     },
     {
       "keyword": "어떻게",
-      "score": 86.33,
+      "score": 84.48,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 48,
@@ -930,105 +974,119 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": "NEW"
+      "rank": 8,
+      "change": 2
+    },
+    {
+      "keyword": "사건",
+      "score": 83.31,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 50,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -1
     },
     {
       "keyword": "만든",
-      "score": 82.79,
+      "score": 79.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 74,
       "sources": [
         "더쿠",
         "루리웹"
       ],
       "aliases": [],
+      "rank": 10,
+      "change": 1
+    },
+    {
+      "keyword": "30대",
+      "score": 78.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 69,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": 2
     },
     {
       "keyword": "영국",
-      "score": 82.0,
+      "score": 78.74,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 74,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "30대",
-      "score": 78.68,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 70,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "중국",
-      "score": 75.59,
+      "score": 75.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 81,
+      "best_rank": 83,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": -7
+      "rank": 13,
+      "change": 1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "게임업계 입문을 포기한 이유.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76922124?m=humor",
-      "score": 97.02,
-      "views": 24893,
-      "comments": 115
+      "title": "K-단열 시공.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76921985?m=humor",
+      "score": 97.29,
+      "views": 16342,
+      "comments": 43
     },
     {
       "source": "뽐뿌",
       "title": "돈 자랑하다 친구들한테 손절 당한 사연.jpg",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143054",
-      "score": 93.48,
-      "views": 21659,
-      "comments": 54
+      "score": 85.91,
+      "views": 22883,
+      "comments": 56
     },
     {
       "source": "디시인사이드",
       "title": "암살자들 \"총성은 6발인데 탄환은 4개다?\" 진실",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468197&_dcbest=1&page=1",
       "score": 85.01,
-      "views": 9941,
-      "comments": 271
+      "views": 10188,
+      "comments": 275
     },
     {
       "source": "더쿠",
-      "title": "이광수 버블 '넌 지금 꿈' +추가",
-      "url": "https://theqoo.net/hot/4366424003",
-      "score": 74.84,
-      "views": 32778,
-      "comments": 275
+      "title": "정말 지극히 남자만이 할 수 있는 생각",
+      "url": "https://theqoo.net/hot/4366367160",
+      "score": 75.21,
+      "views": 51972,
+      "comments": 450
     },
     {
       "source": "클리앙",
       "title": "디아블로2 3인칭모드가 등장했습니다.",
       "url": "https://www.clien.net/service/board/park/19273950?od=T31&po=0&category=0&groupCd=",
-      "score": 71.95,
-      "views": 1240,
+      "score": 73.11,
+      "views": 1464,
       "comments": 3
     },
     {
