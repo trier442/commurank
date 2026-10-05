@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-05T16:10:48.666367+09:00",
+  "collected_at": "2026-10-05T19:44:22.350622+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -93,7 +93,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -133,7 +133,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -256,7 +256,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i199bc4da",
@@ -296,7 +296,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibd61c9f9",
@@ -354,7 +354,7 @@
       "latest_source_count": 4,
       "latest_post_count": 4,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i00705cf2",
@@ -722,6 +722,47 @@
       "change": 0
     },
     {
+      "id": "icb33dad5",
+      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "sns",
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 109.79,
+      "peak_score": 93.83,
+      "appearances": 5,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "이재명 SNS 팩폭 박는 박은정",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142877",
+          "score": 83.83
+        },
+        {
+          "source": "인벤",
+          "rank": 92,
+          "title": "이재명 대통령의 SNS 청와대에서 관리팀 따로 두고 따로 관리해야 합니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736532",
+          "score": 52.37
+        }
+      ],
+      "first_seen": "2026-10-03T08:03:19.978953+09:00",
+      "last_seen": "2026-10-05T19:44:22.350622+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "i707041a3",
       "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -766,8 +807,8 @@
       "last_seen": "2026-10-04T16:53:53.925317+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i533b29bd",
@@ -804,48 +845,8 @@
       "last_seen": "2026-10-01T19:14:44.159749+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국의"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 106.2,
-      "peak_score": 88.8,
-      "appearances": 7,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 48,
-          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
-          "url": "https://theqoo.net/hot/4364454659",
-          "score": 62.21
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "한국의 1/11 이라는 일본 연예계 출연료",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
-          "score": 59.04
-        }
-      ],
-      "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-04T10:06:25.171924+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
