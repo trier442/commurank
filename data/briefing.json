@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-05",
   "label": "2026년 10월 05일",
-  "collected_at": "2026-10-05T14:48:07.927986+09:00",
+  "collected_at": "2026-10-05T16:10:48.666367+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #유해진. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘군면제’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -13,8 +13,8 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 970355,
-    "top100_comments": 13767
+    "top100_views": 1071413,
+    "top100_comments": 16446
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "국밥집인데 잘못하면 팝콘각 떴다",
+      "title": "마운자로(GLP-1)와 췌장염의 상관관계",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76913858?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914727?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#유해진",
-      "text": "5개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "유해진"
+      "title": "#한국",
+      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "마운자로(GLP-1)와 췌장염의 상관관계",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914727?m=humor",
+      "first_seen": "2026-10-05T16:10:48.666367+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
+      "peak_score": 97.71,
+      "max_views": 19874,
+      "max_likes": 138,
+      "max_comments": 65,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-05": {
+          "max_score": 97.71,
+          "max_views": 19874,
+          "max_likes": 138,
+          "max_comments": 65,
+          "appearances": 1,
+          "last_seen": "2026-10-05T16:10:48.666367+09:00"
+        }
+      },
+      "score": 107.23,
+      "views": 19874,
+      "likes": 138,
+      "comments": 65,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "국밥집인데 잘못하면 팝콘각 떴다",
       "source": "루리웹",
@@ -59,12 +88,41 @@
           "last_seen": "2026-10-05T14:33:20.457945+09:00"
         }
       },
-      "score": 107.17,
+      "score": 107.06,
       "views": 18345,
       "likes": 174,
       "comments": 71,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "나리타 공항이 접근성이 좋다고?? 정말??",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914965?m=humor",
+      "first_seen": "2026-10-05T14:48:07.927986+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
+      "peak_score": 96.6,
+      "max_views": 16174,
+      "max_likes": 110,
+      "max_comments": 93,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-05": {
+          "max_score": 96.6,
+          "max_views": 16174,
+          "max_likes": 110,
+          "max_comments": 93,
+          "appearances": 2,
+          "last_seen": "2026-10-05T16:10:48.666367+09:00"
+        }
+      },
+      "score": 107.02,
+      "views": 16174,
+      "likes": 110,
+      "comments": 93,
+      "active_days": 1,
+      "change": 3
     },
     {
       "title": "애국커피 근황",
@@ -88,12 +146,12 @@
           "last_seen": "2026-10-05T02:55:49.352765+09:00"
         }
       },
-      "score": 107.08,
+      "score": 106.96,
       "views": 25132,
       "likes": 148,
       "comments": 69,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "독일, \"한국은 제 안위만 신경쓰는 이기적인 나라\"",
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-05T14:33:20.457945+09:00"
         }
       },
-      "score": 106.93,
+      "score": 106.82,
       "views": 34258,
       "likes": 303,
       "comments": 118,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "교수 : 아무리 명작이라도 누가 1권의 첫 문장을 기억하겠는가?",
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-05T14:48:07.927986+09:00"
         }
       },
-      "score": 106.84,
+      "score": 106.72,
       "views": 8545,
       "likes": 75,
       "comments": 74,
       "active_days": 1,
-      "change": 15
+      "change": -2
     },
     {
       "title": "지금의 넥슨을 만들어준 전설의 이벤트",
@@ -175,41 +233,12 @@
           "last_seen": "2026-10-05T07:58:56.319427+09:00"
         }
       },
-      "score": 106.63,
+      "score": 106.51,
       "views": 17067,
       "likes": 99,
       "comments": 44,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "나리타 공항이 접근성이 좋다고?? 정말??",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914965?m=humor",
-      "first_seen": "2026-10-05T14:48:07.927986+09:00",
-      "last_seen": "2026-10-05T14:48:07.927986+09:00",
-      "peak_score": 96.6,
-      "max_views": 12206,
-      "max_likes": 96,
-      "max_comments": 85,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-05": {
-          "max_score": 96.6,
-          "max_views": 12206,
-          "max_likes": 96,
-          "max_comments": 85,
-          "appearances": 1,
-          "last_seen": "2026-10-05T14:48:07.927986+09:00"
-        }
-      },
-      "score": 106.12,
-      "views": 12206,
-      "likes": 96,
-      "comments": 85,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "요즘 20대 이하에서 많이 보이는 유형.jpg",
@@ -233,12 +262,12 @@
           "last_seen": "2026-10-05T09:08:15.084314+09:00"
         }
       },
-      "score": 106.07,
+      "score": 105.96,
       "views": 24103,
       "likes": 95,
       "comments": 75,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "노가다판에도 침투중인 AI",
@@ -262,12 +291,12 @@
           "last_seen": "2026-10-05T03:11:37.919671+09:00"
         }
       },
-      "score": 105.17,
+      "score": 105.05,
       "views": 21089,
       "likes": 70,
       "comments": 66,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "우리나라 음식 신제품이 넘어야 하는 산",
@@ -291,233 +320,164 @@
           "last_seen": "2026-10-05T06:04:47.419469+09:00"
         }
       },
-      "score": 105.02,
+      "score": 104.9,
       "views": 13138,
       "likes": 61,
       "comments": 55,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "아이패드 가지고 싶어 병과 유사하다는 병",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76910292?m=humor",
-      "first_seen": "2026-10-05T03:11:37.919671+09:00",
-      "last_seen": "2026-10-05T03:11:37.919671+09:00",
-      "peak_score": 96.46,
-      "max_views": 8996,
-      "max_likes": 67,
-      "max_comments": 61,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-05": {
-          "max_score": 96.46,
-          "max_views": 8996,
-          "max_likes": 67,
-          "max_comments": 61,
-          "appearances": 1,
-          "last_seen": "2026-10-05T03:11:37.919671+09:00"
-        }
-      },
-      "score": 105.02,
-      "views": 8996,
-      "likes": 67,
-      "comments": 61,
-      "active_days": 1,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "교수 : 아무리 명작이라도 누가 1권의 첫 문장을 기억하겠는가?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76915462?m=humor",
+      "source": "클리앙",
+      "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
+      "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 8545,
-      "likes": 75,
-      "comments": 74,
-      "score": 96.42,
-      "change": 1,
-      "current_rank": 2,
+      "views": 3267,
+      "likes": 28,
+      "comments": 33,
+      "score": 52.14,
+      "change": 0,
+      "current_rank": 97,
       "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 1,
+      "delta_views": 2133,
+      "delta_likes": 14,
+      "delta_comments": 19,
+      "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 15
-    },
-    {
-      "source": "디시인사이드",
-      "title": "노처녀가 딩크족인지 의심하는 노총각.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468063&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 4972,
-      "likes": 24,
-      "comments": 146,
-      "score": 70.56,
-      "change": 23,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 2173,
-      "delta_likes": 12,
-      "delta_comments": 74,
-      "rank_gain": 23,
-      "rising_score": 96.81,
-      "rising_rank": 2,
-      "window_minutes": 15
-    },
-    {
-      "source": "클리앙",
-      "title": "빌라가 주차문제만 없으면 가성비 좋죠",
-      "url": "https://www.clien.net/service/board/park/19273731?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 932,
-      "likes": 0,
-      "comments": 28,
-      "score": 82.52,
-      "change": 26,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 714,
-      "delta_likes": 0,
-      "delta_comments": 23,
-      "rank_gain": 26,
-      "rising_score": 94.14,
-      "rising_rank": 3,
-      "window_minutes": 15
-    },
-    {
-      "source": "인벤",
-      "title": "과외 선생님한테 질싸 하려고 전국 1등한 일본 남고생",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736421",
-      "category": "유머",
-      "views": 3691,
-      "likes": 1,
-      "comments": 24,
-      "score": 60.75,
-      "change": 0,
-      "current_rank": 59,
-      "new_entry": false,
-      "delta_views": 569,
-      "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 91.76,
-      "rising_rank": 4,
-      "window_minutes": 15
-    },
-    {
-      "source": "디시인사이드",
-      "title": "AI로 성착취물 유포 20대 현직 경찰관 구속",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468065&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 1945,
-      "likes": 14,
-      "comments": 91,
-      "score": 63.65,
-      "change": 18,
-      "current_rank": 47,
-      "new_entry": false,
-      "delta_views": 1459,
-      "delta_likes": 10,
-      "delta_comments": 69,
-      "rank_gain": 18,
-      "rising_score": 90.28,
-      "rising_rank": 5,
-      "window_minutes": 15
+      "window_minutes": 83
     },
     {
       "source": "뽐뿌",
-      "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-      "category": "스포츠",
-      "views": 14201,
-      "likes": 52,
-      "comments": 74,
-      "score": 83.49,
-      "change": 0,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 3975,
-      "delta_likes": 15,
-      "delta_comments": 14,
-      "rank_gain": 0,
-      "rising_score": 87.63,
-      "rising_rank": 6,
-      "window_minutes": 15
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 군면제 논란 여초 반응",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+      "title": "김용민의원 방금 SNS",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142628",
       "category": "이슈",
-      "views": 9655,
-      "likes": 67,
-      "comments": 365,
-      "score": 76.15,
+      "views": 7075,
+      "likes": 87,
+      "comments": 7,
+      "score": 52.95,
       "change": 0,
-      "current_rank": 15,
+      "current_rank": 93,
       "new_entry": false,
-      "delta_views": 1143,
-      "delta_likes": 8,
-      "delta_comments": 32,
+      "delta_views": 6065,
+      "delta_likes": 74,
+      "delta_comments": 6,
       "rank_gain": 0,
-      "rising_score": 85.2,
-      "rising_rank": 7,
-      "window_minutes": 15
-    },
-    {
-      "source": "디시인사이드",
-      "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 5791,
-      "likes": 22,
-      "comments": 508,
-      "score": 74.07,
-      "change": 3,
-      "current_rank": 18,
-      "new_entry": false,
-      "delta_views": 1675,
-      "delta_likes": 6,
-      "delta_comments": 118,
-      "rank_gain": 3,
-      "rising_score": 85.12,
-      "rising_rank": 8,
-      "window_minutes": 15
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 83
     },
     {
       "source": "더쿠",
       "title": "‘나혼산’ 김민, 구옥 생활 연출이었나…7월 로드뷰 비교에 갑론을박",
       "url": "https://theqoo.net/hot/4365714915",
       "category": "이슈",
-      "views": 39902,
+      "views": 69605,
       "likes": 0,
-      "comments": 367,
-      "score": 70.0,
-      "change": 3,
-      "current_rank": 28,
+      "comments": 540,
+      "score": 71.37,
+      "change": 6,
+      "current_rank": 22,
       "new_entry": false,
-      "delta_views": 7271,
+      "delta_views": 29703,
       "delta_likes": 0,
-      "delta_comments": 69,
-      "rank_gain": 3,
-      "rising_score": 83.47,
-      "rising_rank": 9,
-      "window_minutes": 15
+      "delta_comments": 173,
+      "rank_gain": 6,
+      "rising_score": 92.78,
+      "rising_rank": 3,
+      "window_minutes": 83
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 바이오하자드 실사화 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468067&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 10492,
+      "likes": 129,
+      "comments": 306,
+      "score": 78.44,
+      "change": 22,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 8210,
+      "delta_likes": 97,
+      "delta_comments": 218,
+      "rank_gain": 22,
+      "rising_score": 92.75,
+      "rising_rank": 4,
+      "window_minutes": 83
+    },
+    {
+      "source": "인벤",
+      "title": "약후) 블핑 제니 아슬아슬한 의상",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736444",
+      "category": "연예",
+      "views": 4332,
+      "likes": 0,
+      "comments": 25,
+      "score": 74.5,
+      "change": 52,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 4308,
+      "delta_likes": 0,
+      "delta_comments": 25,
+      "rank_gain": 52,
+      "rising_score": 91.85,
+      "rising_rank": 5,
+      "window_minutes": 83
+    },
+    {
+      "source": "디시인사이드",
+      "title": "노처녀가 딩크족인지 의심하는 노총각.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468063&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13566,
+      "likes": 65,
+      "comments": 364,
+      "score": 75.94,
+      "change": 18,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 8594,
+      "delta_likes": 41,
+      "delta_comments": 218,
+      "rank_gain": 18,
+      "rising_score": 91.25,
+      "rising_rank": 6,
+      "window_minutes": 83
     },
     {
       "source": "루리웹",
       "title": "나리타 공항이 접근성이 좋다고?? 정말??",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/76914965?m=humor",
       "category": "이슈",
-      "views": 12206,
-      "likes": 96,
-      "comments": 85,
-      "score": 96.6,
+      "views": 16174,
+      "likes": 110,
+      "comments": 93,
+      "score": 95.36,
+      "change": 0,
+      "current_rank": 2,
+      "new_entry": false,
+      "delta_views": 3968,
+      "delta_likes": 14,
+      "delta_comments": 8,
+      "rank_gain": 0,
+      "rising_score": 87.5,
+      "rising_rank": 7,
+      "window_minutes": 83
+    },
+    {
+      "source": "루리웹",
+      "title": "마운자로(GLP-1)와 췌장염의 상관관계",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914727?m=humor",
+      "category": "이슈",
+      "views": 19874,
+      "likes": 138,
+      "comments": 65,
+      "score": 97.71,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -525,9 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.57,
+      "rising_score": 83.04,
+      "rising_rank": 8,
+      "window_minutes": 83
+    },
+    {
+      "source": "루리웹",
+      "title": "금메달 군면제 이슈가 이렇게 커진 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76915869?m=humor",
+      "category": "이슈",
+      "views": 16684,
+      "likes": 175,
+      "comments": 82,
+      "score": 94.25,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.59,
+      "rising_rank": 9,
+      "window_minutes": 83
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 군면제 논란 여초 반응",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 14006,
+      "likes": 100,
+      "comments": 441,
+      "score": 72.95,
+      "change": 0,
+      "current_rank": 18,
+      "new_entry": false,
+      "delta_views": 4351,
+      "delta_likes": 33,
+      "delta_comments": 76,
+      "rank_gain": 0,
+      "rising_score": 79.17,
       "rising_rank": 10,
-      "window_minutes": 15
+      "window_minutes": 83
     }
   ],
   "issues": [
@@ -539,9 +539,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 117.71,
+      "score": 118.62,
       "peak_score": 103.66,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -550,26 +550,73 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 83.49
+          "source": "루리웹",
+          "rank": 3,
+          "title": "금메달 군면제 이슈가 이렇게 커진 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915869?m=humor",
+          "score": 94.25
         },
         {
           "source": "디시인사이드",
-          "rank": 15,
+          "rank": 18,
           "title": "싱글벙글 군면제 논란 여초 반응",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
-          "score": 76.15
+          "score": 72.95
         }
       ],
       "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-05T14:48:07.927986+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i00705cf2",
+      "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유해진"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 115.9,
+      "peak_score": 95.94,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 73.87
+        },
+        {
+          "source": "인벤",
+          "rank": 53,
+          "title": "유해진 측, 강경 대응 예고.. 신변 위협명예 훼 손, 모든 조치 취할 것",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736440",
+          "score": 61.3
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 82,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142473",
+          "score": 55.47
+        }
+      ],
+      "first_seen": "2026-10-04T16:53:53.925317+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": 3
     },
     {
       "id": "i106465f0",
@@ -579,9 +626,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 113.92,
+      "score": 115.04,
       "peak_score": 90.99,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -591,32 +638,32 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 60,
-          "title": "암살자들 보고 왔습니다. (노스포)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 57.51
+          "rank": 30,
+          "title": "국짐 이인선 \"'암살자들' 관람 현황 내라\" 학교에 요구",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142691",
+          "score": 67.99
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "논란의 중심 암살자들 보고왔습니다(약 스포일러)",
+          "url": "https://www.clien.net/service/board/park/19273757?od=T31&po=0&category=0&groupCd=",
+          "score": 60.59
         },
         {
           "source": "인벤",
-          "rank": 75,
-          "title": "암살자들 영화로 국민의힘이 선동하는중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
-          "score": 54.26
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 94,
-          "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-          "score": 51.83
+          "rank": 60,
+          "title": "영화 암살자들 보고 왔습니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736461",
+          "score": 60.4
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-05T06:04:47.419469+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i8b4085e0",
@@ -626,35 +673,35 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 111.18,
+      "score": 112.62,
       "peak_score": 98.69,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 83.49
-        },
-        {
           "source": "디시인사이드",
-          "rank": 17,
+          "rank": 41,
           "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
-          "score": 74.53
+          "score": 65.35
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 64,
+          "title": "[아시안게임] \"토하고 머리까지 잘랐다\" 정수진 실격 논란…대한유도회 사과",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=355047",
+          "score": 59.89
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-05T14:48:07.927986+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": 2
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -690,46 +737,6 @@
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
       "last_seen": "2026-10-05T09:08:15.084314+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
-    },
-    {
-      "id": "i00705cf2",
-      "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유해진"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 109.99,
-      "peak_score": 95.94,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 21,
-          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-          "score": 73.96
-        },
-        {
-          "source": "더쿠",
-          "rank": 73,
-          "title": "배우 유해진 소속사 공지",
-          "url": "https://theqoo.net/hot/4365522232",
-          "score": 58.26
-        }
-      ],
-      "first_seen": "2026-10-04T16:53:53.925317+09:00",
-      "last_seen": "2026-10-05T14:33:20.457945+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
@@ -777,7 +784,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 6,
-      "change": 2
+      "change": 0
     },
     {
       "id": "iaec9192e",
@@ -815,7 +822,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icb33dad5",
@@ -853,7 +860,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9aa41ed1",
@@ -904,7 +911,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -914,9 +921,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 98.12,
+      "score": 99.03,
       "peak_score": 83.07,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -924,73 +931,110 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 18,
+          "rank": 14,
           "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-          "score": 74.07
+          "score": 73.87
         },
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 91,
           "title": "[속보] 최휘영 \"'암살자(들)' 신변 위협은 민주주의 파괴… 엄정 법 집행 요청\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736439",
-          "score": 69.5
+          "score": 53.93
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-05T14:48:07.927986+09:00",
+      "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": 2
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
-      "id": "i9aa41ed1",
-      "title": "유해진 측, 강경 대응 예고..신변 위협명예 훼손, 모든 조치 취할 것\"",
+      "id": "i00705cf2",
+      "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "대응",
-        "유해진",
-        "신변",
-        "조치",
-        "모든",
-        "위협명예"
+        "유해진"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 86.06,
-      "peak_score": 86.06,
+      "score": 90.87,
+      "peak_score": 90.87,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 24,
-          "title": "유해진 측, 강경 대응 예고..신변 위협명예 훼손, 모든 조치 취할 것\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142637",
-          "score": 71.06
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 73.87
         },
         {
           "source": "인벤",
-          "rank": 30,
+          "rank": 53,
           "title": "유해진 측, 강경 대응 예고.. 신변 위협명예 훼 손, 모든 조치 취할 것",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736440",
-          "score": 67.85
+          "score": 61.3
         },
         {
-          "source": "더쿠",
-          "rank": 100,
-          "title": "유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"",
-          "url": "https://theqoo.net/hot/4365633746",
-          "score": 51.53
+          "source": "뽐뿌",
+          "rank": 82,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142473",
+          "score": 55.47
         }
       ],
       "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 84.99,
+      "peak_score": 84.99,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "국짐 이인선 \"'암살자들' 관람 현황 내라\" 학교에 요구",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142691",
+          "score": 67.99
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "논란의 중심 암살자들 보고왔습니다(약 스포일러)",
+          "url": "https://www.clien.net/service/board/park/19273757?od=T31&po=0&category=0&groupCd=",
+          "score": 60.59
+        },
+        {
+          "source": "인벤",
+          "rank": 60,
+          "title": "영화 암살자들 보고 왔습니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736461",
+          "score": 60.4
+        }
+      ],
+      "rank": 2,
       "change": "NEW"
     },
     {
@@ -1001,8 +1045,8 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 82.06,
-      "peak_score": 82.06,
+      "score": 75.74,
+      "peak_score": 75.74,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1011,20 +1055,20 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 23,
+          "rank": 45,
           "title": "결정사 다 믿지 마세요.blind",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468049&_dcbest=1&page=1",
-          "score": 71.06
+          "score": 64.74
         },
         {
           "source": "더쿠",
-          "rank": 53,
+          "rank": 98,
           "title": "퇴근하고 오면 나를 쥐잡듯이 잡는 아내.blind",
           "url": "https://theqoo.net/hot/4365551535",
-          "score": 61.74
+          "score": 52.11
         }
       ],
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
@@ -1035,8 +1079,8 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 93.49,
-      "peak_score": 93.49,
+      "score": 75.35,
+      "peak_score": 75.35,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1044,58 +1088,18 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 83.49
-        },
-        {
           "source": "디시인사이드",
-          "rank": 17,
+          "rank": 41,
           "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
-          "score": 74.53
-        }
-      ],
-      "rank": 3,
-      "change": -1
-    },
-    {
-      "id": "i1c6fbb40",
-      "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
-      "keywords": [
-        "추미애",
-        "침묵보다",
-        "극단주의",
-        "경계",
-        "진실",
-        "비루한",
-        "남기겠다"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 90.69,
-      "peak_score": 90.69,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 7,
-          "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
-          "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
-          "score": 81.69
+          "score": 65.35
         },
         {
           "source": "뽐뿌",
-          "rank": 19,
-          "title": "[속보] 추미애, \"비루한 침묵보다 진실 남기겠다\".이대통령 '극단주의 경계' 응수",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142612",
-          "score": 73.58
+          "rank": 64,
+          "title": "[아시안게임] \"토하고 머리까지 잘랐다\" 정수진 실격 논란…대한유도회 사과",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=355047",
+          "score": 59.89
         }
       ],
       "rank": 4,
@@ -1109,31 +1113,99 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.49,
-      "peak_score": 92.49,
+      "score": 103.25,
+      "peak_score": 103.25,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 83.49
+          "source": "루리웹",
+          "rank": 3,
+          "title": "금메달 군면제 이슈가 이렇게 커진 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915869?m=humor",
+          "score": 94.25
         },
         {
           "source": "디시인사이드",
-          "rank": 15,
+          "rank": 18,
           "title": "싱글벙글 군면제 논란 여초 반응",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
-          "score": 76.15
+          "score": 72.95
         }
       ],
       "rank": 5,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ifbbf094d",
+      "title": "‘학교에’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "학교에"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.81,
+      "peak_score": 84.81,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 9,
+          "title": "남은 대파를 학교에 처리하는 경북대생",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736456",
+          "score": 75.81
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "국짐 이인선 \"'암살자들' 관람 현황 내라\" 학교에 요구",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142691",
+          "score": 67.99
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i76aeafd1",
+      "title": "‘호날두’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "호날두"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.62,
+      "peak_score": 83.62,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "호날두 누구신지? 하무스 최근 국대 3경기 연속 공격포인트...gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468079&_dcbest=1&page=1",
+          "score": 74.62
+        },
+        {
+          "source": "인벤",
+          "rank": 50,
+          "title": "삐진 호날두' 한 명에 나라가 벌벌 떤다...\"갈등 풀어라\" 정치권·경제계 압박",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736460",
+          "score": 62.76
+        }
+      ],
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i78f6419e",
@@ -1143,8 +1215,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.07,
-      "peak_score": 83.07,
+      "score": 82.87,
+      "peak_score": 82.87,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1153,184 +1225,108 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 18,
+          "rank": 14,
           "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-          "score": 74.07
+          "score": 73.87
         },
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 91,
           "title": "[속보] 최휘영 \"'암살자(들)' 신변 위협은 민주주의 파괴… 엄정 법 집행 요청\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736439",
-          "score": 69.5
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "iaf3fcbdb",
-      "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "젤렌스키"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.58,
-      "peak_score": 80.58,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 22,
-          "title": "젤렌스키 \"북한군 포로, 韓 요청으로 송환\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468045&_dcbest=1&page=1",
-          "score": 71.58
-        },
-        {
-          "source": "인벤",
-          "rank": 89,
-          "title": "젤렌스키 \"한국이 북한 군인 송환 요청...북한군도 한국인\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736417",
-          "score": 55.89
-        }
-      ],
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "ibc97457d",
-      "title": "약후) 블핑 제니 아슬아슬한 의상",
-      "keywords": [
-        "아슬아슬한",
-        "블핑",
-        "의상",
-        "약후",
-        "제니"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.12,
-      "peak_score": 70.12,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 52,
-          "title": "약후) 블핑 제니 아슬아슬한 의상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22484",
-          "score": 62.12
-        },
-        {
-          "source": "인벤",
-          "rank": 63,
-          "title": "약후) 블핑 제니 아슬아슬한 의상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736444",
-          "score": 60.4
+          "score": 53.93
         }
       ],
       "rank": 8,
-      "change": "NEW"
+      "change": -2
     }
   ],
   "keywords": [
     {
-      "keyword": "유해진",
-      "score": 180.06,
+      "keyword": "한국",
+      "score": 145.62,
       "post_count": 6,
-      "source_count": 5,
-      "best_rank": 18,
+      "source_count": 3,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 2
+      "change": 13
     },
     {
-      "keyword": "모든",
-      "score": 147.69,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 24,
+      "keyword": "군면제",
+      "score": 134.96,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "뽐뿌",
-        "인벤"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 6
     },
     {
-      "keyword": "경계",
-      "score": 134.23,
-      "post_count": 4,
+      "keyword": "영화",
+      "score": 122.02,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 7,
+      "best_rank": 12,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "신변",
-      "score": 125.46,
-      "post_count": 4,
+      "keyword": "유해진",
+      "score": 119.21,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 24,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "대응",
-      "score": 116.69,
+      "keyword": "혜택",
+      "score": 119.12,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 24,
+      "best_rank": 15,
       "sources": [
-        "더쿠",
-        "뽐뿌",
-        "인벤"
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [
-        "조치"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "극단주",
-      "score": 111.28,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 7,
+      "keyword": "암살자들",
+      "score": 117.04,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 30,
       "sources": [
         "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1338,86 +1334,83 @@
       "change": "NEW"
     },
     {
-      "keyword": "아시안게임",
-      "score": 110.03,
-      "post_count": 3,
+      "keyword": "학교",
+      "score": 101.54,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 9,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "군면제",
-      "score": 107.44,
-      "post_count": 2,
+      "keyword": "이재명",
+      "score": 99.9,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "응수",
-      "score": 105.41,
+      "keyword": "호날두",
+      "score": 97.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 10,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 9,
-      "change": -1
-    },
-    {
-      "keyword": "남기겠다",
-      "score": 104.56,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [
-        "비루한",
-        "진실",
-        "추미애",
-        "침묵"
-      ],
-      "rank": 10,
-      "change": -3
+      "change": "NEW"
     },
     {
       "keyword": "blind",
-      "score": 103.62,
+      "score": 93.25,
       "post_count": 4,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 45,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 11,
-      "change": -2
+      "rank": 10,
+      "change": 1
     },
     {
-      "keyword": "암살자",
-      "score": 97.4,
+      "keyword": "젤렌스키",
+      "score": 92.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 25,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "북한군"
+      ],
+      "rank": 11,
+      "change": 7
+    },
+    {
+      "keyword": "잃은",
+      "score": 90.87,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 38,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1427,96 +1420,96 @@
       "change": "NEW"
     },
     {
-      "keyword": "요청",
-      "score": 96.42,
+      "keyword": "아시안게임",
+      "score": 90.65,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 41,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "한국",
-      "score": 96.41,
+      "keyword": "암살자",
+      "score": 89.63,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 14,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 14,
-      "change": -12
+      "change": -2
     },
     {
-      "keyword": "일본",
-      "score": 95.31,
+      "keyword": "sns",
+      "score": 87.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 17,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 15,
-      "change": -4
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "나리타 공항이 접근성이 좋다고?? 정말??",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914965?m=humor",
-      "score": 96.6,
-      "views": 12206,
-      "comments": 85
+      "title": "마운자로(GLP-1)와 췌장염의 상관관계",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76914727?m=humor",
+      "score": 97.71,
+      "views": 19874,
+      "comments": 65
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 미쳐버린 9월 한국 수출과, 한국 무역 근황..",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468059&_dcbest=1&page=1",
-      "score": 85.07,
-      "views": 13112,
-      "comments": 352
+      "score": 78.61,
+      "views": 17067,
+      "comments": 475
     },
     {
       "source": "뽐뿌",
-      "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-      "score": 83.49,
-      "views": 14201,
-      "comments": 74
-    },
-    {
-      "source": "클리앙",
-      "title": "빌라가 주차문제만 없으면 가성비 좋죠",
-      "url": "https://www.clien.net/service/board/park/19273731?od=T31&po=0&category=0&groupCd=",
-      "score": 82.52,
-      "views": 932,
-      "comments": 28
+      "title": "평생 혼자 살것 같은 여자.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142497",
+      "score": 77.45,
+      "views": 24490,
+      "comments": 59
     },
     {
       "source": "인벤",
-      "title": "블라) 여동생이 미친짓해서 뒤지게 팼다 하...",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736432",
-      "score": 79.15,
-      "views": 2439,
-      "comments": 14
+      "title": "남은 대파를 학교에 처리하는 경북대생",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736456",
+      "score": 75.81,
+      "views": 1543,
+      "comments": 13
     },
     {
       "source": "더쿠",
       "title": "섹스리스로 이혼한지 3년된 블라남",
       "url": "https://theqoo.net/hot/4365658250",
-      "score": 77.68,
-      "views": 57240,
-      "comments": 738
+      "score": 74.05,
+      "views": 75309,
+      "comments": 879
+    },
+    {
+      "source": "클리앙",
+      "title": "군면제보다 군연기를 시켜주면 어떨까 하는 생각도...",
+      "url": "https://www.clien.net/service/board/park/19273758?od=T31&po=0&category=0&groupCd=",
+      "score": 67.72,
+      "views": 460,
+      "comments": 8
     }
   ]
 }
