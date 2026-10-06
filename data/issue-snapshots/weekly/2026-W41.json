@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-06T08:00:21.222028+09:00",
+  "collected_at": "2026-10-06T10:32:41.837933+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -45,6 +45,46 @@
       "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 115.95,
+      "peak_score": 90.99,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "암살자들 \"총성은 6발인데 탄환은 4개다?\" 진실",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468197&_dcbest=1&page=1",
+          "score": 69.52
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 98,
+          "title": "암살자들 저대신 보실분~",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143013",
+          "score": 52.53
+        }
+      ],
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-10-06T10:32:41.837933+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 1
     },
     {
       "id": "i00705cf2",
@@ -90,55 +130,8 @@
       "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자들"
-      ],
-      "source_count": 4,
-      "post_count": 4,
-      "score": 115.04,
-      "peak_score": 90.99,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 30,
-          "title": "국짐 이인선 \"'암살자들' 관람 현황 내라\" 학교에 요구",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142691",
-          "score": 67.99
-        },
-        {
-          "source": "클리앙",
-          "rank": 58,
-          "title": "논란의 중심 암살자들 보고왔습니다(약 스포일러)",
-          "url": "https://www.clien.net/service/board/park/19273757?od=T31&po=0&category=0&groupCd=",
-          "score": 60.59
-        },
-        {
-          "source": "인벤",
-          "rank": 60,
-          "title": "영화 암살자들 보고 왔습니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736461",
-          "score": 60.4
-        }
-      ],
-      "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-05T16:10:48.666367+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 3,
-      "change": 0
+      "change": -1
     },
     {
       "id": "iafce283e",
@@ -415,7 +408,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i9aa41ed1",
@@ -466,7 +459,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -513,7 +506,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i106183b4",
@@ -741,7 +734,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iaf3fcbdb",
@@ -779,7 +772,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5781c296",
@@ -817,7 +810,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
