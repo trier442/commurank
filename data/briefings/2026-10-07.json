@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-07",
   "label": "2026년 10월 07일",
-  "collected_at": "2026-10-07T00:11:23.560735+09:00",
+  "collected_at": "2026-10-07T00:15:15.763348+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘연구소에서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘얼마나’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 6,
-    "keywords": 19,
-    "top100_views": 940675,
-    "top100_comments": 11214
+    "daily_issues": 8,
+    "keywords": 17,
+    "top100_views": 932707,
+    "top100_comments": 11352
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘연구소에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ia6af4d8f"
+      "issue_id": "i73215f7c"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#중국",
+      "text": "2개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "중국"
     }
   ],
   "top_posts": [
@@ -64,7 +64,94 @@
       "likes": 119,
       "comments": 83,
       "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "北 \"영토 1mm라도 침범한다면 즉시적 강력한 대응할 것\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76931493?m=humor",
+      "first_seen": "2026-10-07T00:15:15.763348+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "peak_score": 96.61,
+      "max_views": 17007,
+      "max_likes": 135,
+      "max_comments": 115,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-07": {
+          "max_score": 96.61,
+          "max_views": 17007,
+          "max_likes": 135,
+          "max_comments": 115,
+          "appearances": 1,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
+        }
+      },
+      "score": 106.13,
+      "views": 17007,
+      "likes": 135,
+      "comments": 115,
+      "active_days": 1,
       "change": "NEW"
+    },
+    {
+      "title": "???:이슬람의 부부생활이 얼마나 아름다운지 보세요",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76933511?m=humor",
+      "first_seen": "2026-10-07T00:15:15.763348+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "peak_score": 96.46,
+      "max_views": 10657,
+      "max_likes": 89,
+      "max_comments": 74,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-07": {
+          "max_score": 96.46,
+          "max_views": 10657,
+          "max_likes": 89,
+          "max_comments": 74,
+          "appearances": 1,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
+        }
+      },
+      "score": 105.98,
+      "views": 10657,
+      "likes": 89,
+      "comments": 74,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "남미 오징어 씨를 말리러 온 중국 어선들",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76933105?m=humor",
+      "first_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "peak_score": 95.34,
+      "max_views": 17083,
+      "max_likes": 118,
+      "max_comments": 91,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-07": {
+          "max_score": 95.34,
+          "max_views": 17083,
+          "max_likes": 118,
+          "max_comments": 91,
+          "appearances": 2,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
+        }
+      },
+      "score": 105.76,
+      "views": 17083,
+      "likes": 118,
+      "comments": 91,
+      "active_days": 1,
+      "change": -1
     },
     {
       "title": "[속보] 노벨 물리학상 수상자 발표",
@@ -93,36 +180,7 @@
       "likes": 144,
       "comments": 93,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "남미 오징어 씨를 말리러 온 중국 어선들",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76933105?m=humor",
-      "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
-      "peak_score": 95.34,
-      "max_views": 17083,
-      "max_likes": 118,
-      "max_comments": 91,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-07": {
-          "max_score": 95.34,
-          "max_views": 17083,
-          "max_likes": 118,
-          "max_comments": 91,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
-        }
-      },
-      "score": 104.86,
-      "views": 17083,
-      "likes": 118,
-      "comments": 91,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "[스팀] 파이널판타지 16 컴플리트에디션 31920원",
@@ -151,7 +209,7 @@
       "likes": 19,
       "comments": 58,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "한국경제의 뇌관 가계부채 근황",
@@ -159,28 +217,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468409&_dcbest=1&page=1",
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "peak_score": 83.44,
-      "max_views": 15986,
+      "max_views": 16117,
       "max_likes": 86,
       "max_comments": 475,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-07": {
           "max_score": 83.44,
-          "max_views": 15986,
+          "max_views": 16117,
           "max_likes": 86,
           "max_comments": 475,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
+          "appearances": 2,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
         }
       },
-      "score": 92.96,
-      "views": 15986,
+      "score": 93.86,
+      "views": 16117,
       "likes": 86,
       "comments": 475,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "개발자 분들 AI로 작성한 코드 보면 어떤 생각 드시나요?",
@@ -188,28 +246,28 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19274357?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "peak_score": 81.57,
-      "max_views": 669,
+      "max_views": 790,
       "max_likes": 0,
-      "max_comments": 12,
-      "appearances": 1,
+      "max_comments": 13,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-07": {
           "max_score": 81.57,
-          "max_views": 669,
+          "max_views": 790,
           "max_likes": 0,
-          "max_comments": 12,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
+          "max_comments": 13,
+          "appearances": 2,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
         }
       },
-      "score": 91.09,
-      "views": 669,
+      "score": 91.99,
+      "views": 790,
       "likes": 0,
-      "comments": 12,
+      "comments": 13,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "여자친구의 여동생 남편이 너무 능력이 좋아서 기가 죽네요",
@@ -217,86 +275,28 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237018",
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "peak_score": 81.13,
-      "max_views": 19181,
+      "max_views": 19649,
       "max_likes": 4,
-      "max_comments": 64,
-      "appearances": 1,
+      "max_comments": 66,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-07": {
           "max_score": 81.13,
-          "max_views": 19181,
+          "max_views": 19649,
           "max_likes": 4,
-          "max_comments": 64,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
+          "max_comments": 66,
+          "appearances": 2,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
         }
       },
-      "score": 90.65,
-      "views": 19181,
+      "score": 91.55,
+      "views": 19649,
       "likes": 4,
-      "comments": 64,
+      "comments": 66,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "스레드 어린이집 이름 안 써서 보낸 신발 논란",
-      "source": "더쿠",
-      "category": "생활",
-      "url": "https://theqoo.net/hot/4367324245",
-      "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
-      "peak_score": 79.21,
-      "max_views": 49449,
-      "max_likes": 0,
-      "max_comments": 738,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-07": {
-          "max_score": 79.21,
-          "max_views": 49449,
-          "max_likes": 0,
-          "max_comments": 738,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
-        }
-      },
-      "score": 88.73,
-      "views": 49449,
-      "likes": 0,
-      "comments": 738,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "3D프린터 금손들 부럽네.....",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737089",
-      "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
-      "peak_score": 79.01,
-      "max_views": 1962,
-      "max_likes": 4,
-      "max_comments": 17,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-07": {
-          "max_score": 79.01,
-          "max_views": 1962,
-          "max_likes": 4,
-          "max_comments": 17,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
-        }
-      },
-      "score": 88.53,
-      "views": 1962,
-      "likes": 4,
-      "comments": 17,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "대흥민 프리킥 선제골...gif",
@@ -304,40 +304,200 @@
       "category": "스포츠",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468424&_dcbest=1&page=1",
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
-      "peak_score": 78.75,
-      "max_views": 5832,
-      "max_likes": 212,
-      "max_comments": 113,
-      "appearances": 1,
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "peak_score": 79.29,
+      "max_views": 6078,
+      "max_likes": 217,
+      "max_comments": 116,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-07": {
-          "max_score": 78.75,
-          "max_views": 5832,
-          "max_likes": 212,
-          "max_comments": 113,
-          "appearances": 1,
-          "last_seen": "2026-10-07T00:11:23.560735+09:00"
+          "max_score": 79.29,
+          "max_views": 6078,
+          "max_likes": 217,
+          "max_comments": 116,
+          "appearances": 2,
+          "last_seen": "2026-10-07T00:15:15.763348+09:00"
         }
       },
-      "score": 88.27,
-      "views": 5832,
-      "likes": 212,
-      "comments": 113,
+      "score": 89.71,
+      "views": 6078,
+      "likes": 217,
+      "comments": 116,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "한국 콜옵 전문유튜버의 모던워페어4에 대한 마음가짐",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76930036?m=humor",
+      "source": "인벤",
+      "title": "진짜 법카 미친 쉐키들... ...",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737101",
       "category": "이슈",
-      "views": 11985,
-      "likes": 119,
-      "comments": 83,
-      "score": 96.84,
+      "views": 214,
+      "likes": 0,
+      "comments": 1,
+      "score": 61.05,
+      "change": 1,
+      "current_rank": 57,
+      "new_entry": false,
+      "delta_views": 152,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 1,
+      "rising_score": 95.09,
+      "rising_rank": 1,
+      "window_minutes": 4
+    },
+    {
+      "source": "디시인사이드",
+      "title": "모든 사람의 월급을 검색 가능한 노르웨이..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468426&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 1322,
+      "likes": 15,
+      "comments": 37,
+      "score": 63.27,
+      "change": 9,
+      "current_rank": 46,
+      "new_entry": false,
+      "delta_views": 507,
+      "delta_likes": 5,
+      "delta_comments": 12,
+      "rank_gain": 9,
+      "rising_score": 94.58,
+      "rising_rank": 2,
+      "window_minutes": 4
+    },
+    {
+      "source": "뽐뿌",
+      "title": "잘못 건 전화로 딸이 생겼다..",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=784889",
+      "category": "유머",
+      "views": 6317,
+      "likes": 4,
+      "comments": 14,
+      "score": 73.67,
+      "change": 13,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 810,
+      "delta_likes": 2,
+      "delta_comments": 4,
+      "rank_gain": 13,
+      "rising_score": 94.2,
+      "rising_rank": 3,
+      "window_minutes": 4
+    },
+    {
+      "source": "인벤",
+      "title": "(ㅎㅂ) 카우걸 고라니율",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737067",
+      "category": "이슈",
+      "views": 5638,
+      "likes": 3,
+      "comments": 20,
+      "score": 53.05,
+      "change": 0,
+      "current_rank": 92,
+      "new_entry": false,
+      "delta_views": 189,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 0,
+      "rising_score": 93.49,
+      "rising_rank": 4,
+      "window_minutes": 4
+    },
+    {
+      "source": "디시인사이드",
+      "title": "오싹오싹 중국 시골 결혼못한 남자들의 여성 인신매매",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468421&_dcbest=1&page=1",
+      "category": "스포츠",
+      "views": 5476,
+      "likes": 54,
+      "comments": 158,
+      "score": 73.26,
+      "change": 2,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 467,
+      "delta_likes": 4,
+      "delta_comments": 18,
+      "rank_gain": 2,
+      "rising_score": 87.04,
+      "rising_rank": 5,
+      "window_minutes": 4
+    },
+    {
+      "source": "뽐뿌",
+      "title": "쏘카 직원의 고충.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144240",
+      "category": "이슈",
+      "views": 28642,
+      "likes": 21,
+      "comments": 60,
+      "score": 71.16,
+      "change": 0,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 588,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 86.36,
+      "rising_rank": 6,
+      "window_minutes": 4
+    },
+    {
+      "source": "인벤",
+      "title": "핵폭발이 낮에 일어나야 하는 이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737085",
+      "category": "이슈",
+      "views": 3637,
+      "likes": 2,
+      "comments": 8,
+      "score": 67.22,
+      "change": 0,
+      "current_rank": 34,
+      "new_entry": false,
+      "delta_views": 109,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 86.0,
+      "rising_rank": 7,
+      "window_minutes": 4
+    },
+    {
+      "source": "클리앙",
+      "title": "국대 3인방 은퇴시사 부인하는 선수들.",
+      "url": "https://www.clien.net/service/board/park/19274355?od=T31&po=0&category=0&groupCd=",
+      "category": "스포츠",
+      "views": 1320,
+      "likes": 2,
+      "comments": 2,
+      "score": 74.32,
+      "change": 1,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 134,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 1,
+      "rising_score": 83.18,
+      "rising_rank": 8,
+      "window_minutes": 4
+    },
+    {
+      "source": "루리웹",
+      "title": "北 \"영토 1mm라도 침범한다면 즉시적 강력한 대응할 것\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76931493?m=humor",
+      "category": "이슈",
+      "views": 17007,
+      "likes": 135,
+      "comments": 115,
+      "score": 96.61,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -345,19 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.67,
-      "rising_rank": 1,
-      "window_minutes": 293
+      "rising_score": 82.58,
+      "rising_rank": 9,
+      "window_minutes": 4
     },
     {
       "source": "루리웹",
-      "title": "[속보] 노벨 물리학상 수상자 발표",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76930444?m=humor",
+      "title": "???:이슬람의 부부생활이 얼마나 아름다운지 보세요",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76933511?m=humor",
       "category": "이슈",
-      "views": 31239,
-      "likes": 144,
-      "comments": 93,
-      "score": 95.5,
+      "views": 10657,
+      "likes": 89,
+      "comments": 74,
+      "score": 96.46,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -365,172 +525,50 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.11,
-      "rising_rank": 2,
-      "window_minutes": 293
-    },
-    {
-      "source": "루리웹",
-      "title": "남미 오징어 씨를 말리러 온 중국 어선들",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76933105?m=humor",
-      "category": "이슈",
-      "views": 17083,
-      "likes": 118,
-      "comments": 91,
-      "score": 95.34,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.04,
-      "rising_rank": 3,
-      "window_minutes": 293
-    },
-    {
-      "source": "루리웹",
-      "title": "[스팀] 파이널판타지 16 컴플리트에디션 31920원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107813",
-      "category": "게임",
-      "views": 29681,
-      "likes": 19,
-      "comments": 58,
-      "score": 86.23,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.22,
-      "rising_rank": 4,
-      "window_minutes": 293
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한국경제의 뇌관 가계부채 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468409&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15986,
-      "likes": 86,
-      "comments": 475,
-      "score": 83.44,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.04,
-      "rising_rank": 5,
-      "window_minutes": 293
-    },
-    {
-      "source": "클리앙",
-      "title": "개발자 분들 AI로 작성한 코드 보면 어떤 생각 드시나요?",
-      "url": "https://www.clien.net/service/board/park/19274357?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 669,
-      "likes": 0,
-      "comments": 12,
-      "score": 81.57,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.26,
-      "rising_rank": 6,
-      "window_minutes": 293
-    },
-    {
-      "source": "뽐뿌",
-      "title": "여자친구의 여동생 남편이 너무 능력이 좋아서 기가 죽네요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237018",
-      "category": "이슈",
-      "views": 19181,
-      "likes": 4,
-      "comments": 64,
-      "score": 81.13,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.07,
-      "rising_rank": 7,
-      "window_minutes": 293
-    },
-    {
-      "source": "디시인사이드",
-      "title": "광주 술집에서 X떡갈비로 메뉴명 지어서 논란됨..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468356&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 30650,
-      "likes": 267,
-      "comments": 828,
-      "score": 57.8,
-      "change": 0,
-      "current_rank": 72,
-      "new_entry": false,
-      "delta_views": 20065,
-      "delta_likes": 164,
-      "delta_comments": 457,
-      "rank_gain": 0,
-      "rising_score": 75.93,
-      "rising_rank": 8,
-      "window_minutes": 293
-    },
-    {
-      "source": "더쿠",
-      "title": "스레드 어린이집 이름 안 써서 보낸 신발 논란",
-      "url": "https://theqoo.net/hot/4367324245",
-      "category": "생활",
-      "views": 49449,
-      "likes": 0,
-      "comments": 738,
-      "score": 79.21,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.27,
-      "rising_rank": 9,
-      "window_minutes": 293
-    },
-    {
-      "source": "인벤",
-      "title": "3D프린터 금손들 부럽네.....",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737089",
-      "category": "이슈",
-      "views": 1962,
-      "likes": 4,
-      "comments": 17,
-      "score": 79.01,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.18,
+      "rising_score": 82.51,
       "rising_rank": 10,
-      "window_minutes": 293
+      "window_minutes": 4
     }
   ],
   "issues": [
+    {
+      "id": "i73215f7c",
+      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "얼마나"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.93,
+      "peak_score": 105.46,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "???:이슬람의 부부생활이 얼마나 아름다운지 보세요",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76933511?m=humor",
+          "score": 96.46
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 36,
+          "title": "나락간 유튜버는 얼마나 벌까?.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468379&_dcbest=1&page=1",
+          "score": 66.38
+        }
+      ],
+      "first_seen": "2026-10-07T00:15:15.763348+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ia6af4d8f",
       "title": "‘연구소에서’ 관련 글이 여러 커뮤니티에서 화제",
@@ -539,9 +577,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.0,
+      "score": 99.02,
       "peak_score": 87.53,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "인벤"
@@ -549,38 +587,38 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 11,
+          "rank": 9,
           "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
           "url": "https://theqoo.net/hot/4367368536",
           "score": 78.53
         },
         {
           "source": "인벤",
-          "rank": 59,
+          "rank": 68,
           "title": "러시아의 페스트 연구소에서 발생한 원인 불명의 연구원 사망",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737086",
-          "score": 60.79
+          "score": 58.87
         }
       ],
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i4d9d2f7e",
       "title": "대흥민 프리킥 선제골...gif",
       "keywords": [
-        "프리킥",
-        "선제골"
+        "선제골",
+        "프리킥"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 96.22,
-      "peak_score": 86.75,
-      "appearances": 1,
+      "score": 98.78,
+      "peak_score": 87.29,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -588,65 +626,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 7,
           "title": "대흥민 프리킥 선제골...gif",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468424&_dcbest=1&page=1",
-          "score": 78.75
+          "score": 79.29
         },
         {
           "source": "뽐뿌",
-          "rank": 64,
+          "rank": 67,
           "title": "손흥민 한국기록 세우는 프리킥 선제골..gif",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189330",
           "score": 59.49
         }
       ],
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i5791457f",
-      "title": "국대 3인방 은퇴 시사",
-      "keywords": [
-        "국대",
-        "3인방",
-        "은퇴"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 93.56,
-      "peak_score": 83.09,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "국대 3인방 은퇴 시사",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737095",
-          "score": 74.09
-        },
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "국대 3인방 은퇴시사 부인하는 선수들.",
-          "url": "https://www.clien.net/service/board/park/19274355?od=T31&po=0&category=0&groupCd=",
-          "score": 74.02
-        }
-      ],
-      "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "iead2b930",
@@ -656,9 +654,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.31,
-      "peak_score": 83.84,
-      "appearances": 1,
+      "score": 95.83,
+      "peak_score": 84.34,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "뽐뿌"
@@ -666,10 +664,10 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 17,
+          "rank": 16,
           "title": "오늘자 한복 입은 엔믹스 설윤...jpg",
           "url": "https://theqoo.net/hot/4367375301",
-          "score": 74.84
+          "score": 75.34
         },
         {
           "source": "뽐뿌",
@@ -680,26 +678,65 @@
         }
       ],
       "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i5791457f",
+      "title": "국대 3인방 은퇴 시사",
+      "keywords": [
+        "국대",
+        "3인방"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.58,
+      "peak_score": 83.09,
+      "appearances": 2,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "국대 3인방 은퇴 시사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737095",
+          "score": 74.65
+        },
+        {
+          "source": "클리앙",
+          "rank": 19,
+          "title": "국대 3인방 은퇴시사 부인하는 선수들.",
+          "url": "https://www.clien.net/service/board/park/19274355?od=T31&po=0&category=0&groupCd=",
+          "score": 74.32
+        }
+      ],
+      "first_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ic1563516",
-      "title": "‘황희찬’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘황인범’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "황희찬",
         "황인범"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.47,
+      "score": 87.49,
       "peak_score": 76.0,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
+        "인벤",
         "클리앙"
       ],
       "posts": [
@@ -711,19 +748,19 @@
           "score": 67.0
         },
         {
-          "source": "클리앙",
-          "rank": 100,
-          "title": "[단독] 김민재·황인범·황희찬 동료에게 국대 은퇴 폭탄 발언",
-          "url": "https://www.clien.net/service/board/park/19274341?od=T31&po=0&category=0&groupCd=",
-          "score": 50.99
+          "source": "인벤",
+          "rank": 55,
+          "title": "황인범 모레노 감독 인터뷰",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737098",
+          "score": 61.37
         }
       ],
       "first_seen": "2026-10-07T00:11:23.560735+09:00",
-      "last_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "icfb7b12b",
@@ -760,57 +797,19 @@
       "last_seen": "2026-10-07T00:11:23.560735+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": "NEW"
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i5791457f",
-      "title": "국대 3인방 은퇴 시사",
-      "keywords": [
-        "국대",
-        "3인방",
-        "은퇴"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 83.09,
-      "peak_score": 83.09,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "국대 3인방 은퇴 시사",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737095",
-          "score": 74.09
-        },
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "국대 3인방 은퇴시사 부인하는 선수들.",
-          "url": "https://www.clien.net/service/board/park/19274355?od=T31&po=0&category=0&groupCd=",
-          "score": 74.02
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 7,
+      "change": -1
     },
     {
-      "id": "icfb7b12b",
-      "title": "‘해리포터’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5bb35ae6",
+      "title": "‘키갈하는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "해리포터"
+        "키갈하는"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 65.87,
-      "peak_score": 65.87,
+      "post_count": 2,
+      "score": 70.65,
+      "peak_score": 61.18,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -818,21 +817,61 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 81,
-          "title": "해리포터) 말포이 TS 보고 유입되는 사람들이 볼 빨간약.JPG",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76934362?m=humor_only&t=now",
-          "score": 55.87
-        },
-        {
           "source": "인벤",
-          "rank": 93,
+          "rank": 96,
           "title": "말포이에게 키갈하는 해리포터",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737071",
-          "score": 53.47
+          "score": 52.18
+        },
+        {
+          "source": "루리웹",
+          "rank": 99,
+          "title": "말포이 키갈하는 포터",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76933603?m=humor_only&t=now",
+          "score": 52.02
         }
       ],
-      "rank": 2,
+      "first_seen": "2026-10-07T00:15:15.763348+09:00",
+      "last_seen": "2026-10-07T00:15:15.763348+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i73215f7c",
+      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "얼마나"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.46,
+      "peak_score": 105.46,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "???:이슬람의 부부생활이 얼마나 아름다운지 보세요",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76933511?m=humor",
+          "score": 96.46
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 36,
+          "title": "나락간 유튜버는 얼마나 벌까?.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468379&_dcbest=1&page=1",
+          "score": 66.38
+        }
+      ],
+      "rank": 1,
       "change": "NEW"
     },
     {
@@ -853,33 +892,33 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 11,
+          "rank": 9,
           "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
           "url": "https://theqoo.net/hot/4367368536",
           "score": 78.53
         },
         {
           "source": "인벤",
-          "rank": 59,
+          "rank": 68,
           "title": "러시아의 페스트 연구소에서 발생한 원인 불명의 연구원 사망",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737086",
-          "score": 60.79
+          "score": 58.87
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 2,
+      "change": 1
     },
     {
       "id": "i4d9d2f7e",
       "title": "대흥민 프리킥 선제골...gif",
       "keywords": [
-        "프리킥",
-        "선제골"
+        "선제골",
+        "프리킥"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.75,
-      "peak_score": 86.75,
+      "score": 87.29,
+      "peak_score": 87.29,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -888,21 +927,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 7,
           "title": "대흥민 프리킥 선제골...gif",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468424&_dcbest=1&page=1",
-          "score": 78.75
+          "score": 79.29
         },
         {
           "source": "뽐뿌",
-          "rank": 64,
+          "rank": 67,
           "title": "손흥민 한국기록 세우는 프리킥 선제골..gif",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189330",
           "score": 59.49
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 3,
+      "change": 1
     },
     {
       "id": "iead2b930",
@@ -912,8 +951,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.84,
-      "peak_score": 83.84,
+      "score": 84.34,
+      "peak_score": 84.34,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -922,10 +961,10 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 17,
+          "rank": 16,
           "title": "오늘자 한복 입은 엔믹스 설윤...jpg",
           "url": "https://theqoo.net/hot/4367375301",
-          "score": 74.84
+          "score": 75.34
         },
         {
           "source": "뽐뿌",
@@ -935,14 +974,48 @@
           "score": 63.18
         }
       ],
+      "rank": 4,
+      "change": 1
+    },
+    {
+      "id": "i5791457f",
+      "title": "국대 3인방 은퇴 시사",
+      "keywords": [
+        "국대",
+        "3인방"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.65,
+      "peak_score": 82.65,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "국대 3인방 은퇴 시사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737095",
+          "score": 74.65
+        },
+        {
+          "source": "클리앙",
+          "rank": 19,
+          "title": "국대 3인방 은퇴시사 부인하는 선수들.",
+          "url": "https://www.clien.net/service/board/park/19274355?od=T31&po=0&category=0&groupCd=",
+          "score": 74.32
+        }
+      ],
       "rank": 5,
-      "change": "NEW"
+      "change": -4
     },
     {
       "id": "ic1563516",
-      "title": "‘황희찬’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘황인범’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "황희찬",
         "황인범"
       ],
       "source_count": 2,
@@ -952,7 +1025,7 @@
       "appearances": 1,
       "sources": [
         "더쿠",
-        "클리앙"
+        "인벤"
       ],
       "posts": [
         {
@@ -963,52 +1036,55 @@
           "score": 67.0
         },
         {
-          "source": "클리앙",
-          "rank": 100,
-          "title": "[단독] 김민재·황인범·황희찬 동료에게 국대 은퇴 폭탄 발언",
-          "url": "https://www.clien.net/service/board/park/19274341?od=T31&po=0&category=0&groupCd=",
-          "score": 50.99
+          "source": "인벤",
+          "rank": 55,
+          "title": "황인범 모레노 감독 인터뷰",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737098",
+          "score": 61.37
         }
       ],
       "rank": 6,
+      "change": 0
+    },
+    {
+      "id": "i5bb35ae6",
+      "title": "‘키갈하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "키갈하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 61.18,
+      "peak_score": 61.18,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 96,
+          "title": "말포이에게 키갈하는 해리포터",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737071",
+          "score": 52.18
+        },
+        {
+          "source": "루리웹",
+          "rank": 99,
+          "title": "말포이 키갈하는 포터",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76933603?m=humor_only&t=now",
+          "score": 52.02
+        }
+      ],
+      "rank": 7,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 152.75,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 13
-    },
-    {
-      "keyword": "황인범",
-      "score": 113.23,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 35,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
       "keyword": "중국",
-      "score": 111.77,
+      "score": 112.02,
       "post_count": 3,
       "source_count": 2,
       "best_rank": 3,
@@ -1017,33 +1093,61 @@
         "루리웹"
       ],
       "aliases": [],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 1,
+      "change": 2
+    },
+    {
+      "keyword": "한국",
+      "score": 109.43,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 63,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": -1
     },
     {
       "keyword": "남편",
-      "score": 106.74,
+      "score": 107.28,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 6,
       "sources": [
         "더쿠",
         "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": 1
+    },
+    {
+      "keyword": "얼마나",
+      "score": 106.78,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 103.6,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 86,
+      "keyword": "영토",
+      "score": 103.4,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
@@ -1051,21 +1155,21 @@
     },
     {
       "keyword": "유출",
-      "score": 99.72,
+      "score": 100.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 9,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "3인방",
-      "score": 99.12,
+      "score": 99.36,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 18,
@@ -1073,30 +1177,34 @@
         "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "국대"
+      ],
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "국대",
-      "score": 97.48,
-      "post_count": 3,
+      "keyword": "프리킥",
+      "score": 97.34,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 7,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "선제골"
+      ],
       "rank": 8,
-      "change": "NEW"
+      "change": 2
     },
     {
       "keyword": "러시아",
-      "score": 96.49,
+      "score": 96.09,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 9,
       "sources": [
         "더쿠",
         "인벤"
@@ -1105,110 +1213,108 @@
         "연구소"
       ],
       "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "프리킥",
-      "score": 96.21,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [
-        "선제골"
-      ],
-      "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "오늘자",
-      "score": 94.81,
+      "score": 95.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 16,
       "sources": [
         "더쿠",
         "뽐뿌"
       ],
       "aliases": [],
+      "rank": 10,
+      "change": 1
+    },
+    {
+      "keyword": "발생",
+      "score": 93.74,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": 2
     },
     {
       "keyword": "만화",
-      "score": 93.73,
+      "score": 93.27,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 29,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "발생",
-      "score": 92.7,
+      "keyword": "황인범",
+      "score": 89.41,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 35,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "은퇴",
-      "score": 86.29,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
+      "change": -11
     },
     {
       "keyword": "광주",
-      "score": 85.07,
+      "score": 84.28,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 46,
+      "best_rank": 51,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
+      "rank": 14,
+      "change": 1
+    },
+    {
+      "keyword": "단독",
+      "score": 75.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 87,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -10
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국 콜옵 전문유튜버의 모던워페어4에 대한 마음가짐",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76930036?m=humor",
-      "score": 96.84,
-      "views": 11985,
-      "comments": 83
+      "title": "北 \"영토 1mm라도 침범한다면 즉시적 강력한 대응할 것\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76931493?m=humor",
+      "score": 96.61,
+      "views": 17007,
+      "comments": 115
     },
     {
       "source": "디시인사이드",
       "title": "한국경제의 뇌관 가계부채 근황",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468409&_dcbest=1&page=1",
       "score": 83.44,
-      "views": 15986,
+      "views": 16117,
       "comments": 475
     },
     {
@@ -1216,31 +1322,31 @@
       "title": "개발자 분들 AI로 작성한 코드 보면 어떤 생각 드시나요?",
       "url": "https://www.clien.net/service/board/park/19274357?od=T31&po=0&category=0&groupCd=",
       "score": 81.57,
-      "views": 669,
-      "comments": 12
+      "views": 790,
+      "comments": 13
     },
     {
       "source": "뽐뿌",
       "title": "여자친구의 여동생 남편이 너무 능력이 좋아서 기가 죽네요",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237018",
-      "score": 81.13,
-      "views": 19181,
-      "comments": 64
+      "score": 80.74,
+      "views": 19649,
+      "comments": 66
     },
     {
       "source": "더쿠",
       "title": "스레드 어린이집 이름 안 써서 보낸 신발 논란",
       "url": "https://theqoo.net/hot/4367324245",
       "score": 79.21,
-      "views": 49449,
-      "comments": 738
+      "views": 49958,
+      "comments": 743
     },
     {
       "source": "인벤",
       "title": "3D프린터 금손들 부럽네.....",
       "url": "https://www.inven.co.kr/board/webzine/2097/2737089",
-      "score": 79.01,
-      "views": 1962,
+      "score": 77.97,
+      "views": 2048,
       "comments": 17
     }
   ]
