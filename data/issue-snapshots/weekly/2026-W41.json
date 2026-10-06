@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-07T08:04:26.921509+09:00",
+  "collected_at": "2026-10-07T08:05:50.892282+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -283,7 +283,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": 1
+      "change": 0
     },
     {
       "id": "iafce283e",
@@ -324,7 +324,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -563,6 +563,44 @@
       "change": 0
     },
     {
+      "id": "i9785fc48",
+      "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "드디어"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.33,
+      "peak_score": 89.84,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
+          "url": "https://theqoo.net/hot/4367550702",
+          "score": 80.84
+        },
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "[펌]딸에게 드디어 엄마가 되었습니다",
+          "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
+          "score": 54.88
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-07T08:05:50.892282+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": 3
+    },
+    {
       "id": "i78f6419e",
       "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -599,8 +637,8 @@
       "last_seen": "2026-10-06T19:18:32.883997+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i9aa41ed1",
@@ -650,8 +688,8 @@
       "last_seen": "2026-10-05T14:48:07.927986+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i4c28989e",
@@ -698,46 +736,8 @@
       "last_seen": "2026-10-06T17:04:46.984922+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 17,
-      "change": 0
-    },
-    {
-      "id": "i9785fc48",
-      "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "드디어"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.31,
-      "peak_score": 89.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 7,
-          "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
-          "url": "https://theqoo.net/hot/4367550702",
-          "score": 80.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 67,
-          "title": "[펌]딸에게 드디어 엄마가 되었습니다",
-          "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
-          "score": 57.27
-        }
-      ],
-      "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-07T08:04:26.921509+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 18,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ia6af4d8f",
@@ -775,7 +775,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4d9d2f7e",
@@ -814,7 +814,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }

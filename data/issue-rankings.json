@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-07T08:04:26.921509+09:00",
+  "collected_at": "2026-10-07T08:05:50.892282+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -10,6 +10,40 @@
   },
   "rankings": {
     "realtime": [
+      {
+        "id": "ib3876eed",
+        "title": "‘여자의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "여자의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.96,
+        "peak_score": 94.96,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 5,
+            "title": "한국 남자와 결혼한 왜국 여자의 마인드",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2737138",
+            "score": 85.96
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 51,
+            "title": "자기랑 안 맞는 남자들 만났을 때 돌싱 여자의 반응.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468423&_dcbest=1&page=1",
+            "score": 60.9
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "i9785fc48",
         "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
@@ -28,21 +62,21 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 7,
+            "rank": 8,
             "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
             "url": "https://theqoo.net/hot/4367550702",
             "score": 80.84
           },
           {
             "source": "클리앙",
-            "rank": 67,
+            "rank": 74,
             "title": "[펌]딸에게 드디어 엄마가 되었습니다",
             "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
-            "score": 57.27
+            "score": 54.88
           }
         ],
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "i26c94275",
@@ -52,8 +86,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.24,
-        "peak_score": 78.24,
+        "score": 77.74,
+        "peak_score": 77.74,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -62,21 +96,21 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 21,
+            "rank": 30,
             "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
             "url": "https://theqoo.net/hot/4367368536",
-            "score": 69.24
+            "score": 68.74
           },
           {
             "source": "인벤",
-            "rank": 52,
+            "rank": 32,
             "title": "러시아 ‘페스트 유출 의심’ 연구원 사망…전 세계 ‘촉각’",
             "url": "https://www.inven.co.kr/board/webzine/2097/2737132",
-            "score": 60.4
+            "score": 68.34
           }
         ],
-        "rank": 2,
-        "change": 1
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ibb53d25b",
@@ -86,8 +120,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.83,
-        "peak_score": 75.83,
+        "score": 61.76,
+        "peak_score": 61.76,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -95,90 +129,21 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 28,
-            "title": "세계가 감탄한 말포이 가슴 공식",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2737115",
-            "score": 66.83
-          },
-          {
             "source": "루리웹",
-            "rank": 90,
+            "rank": 80,
             "title": "해리포터) 말포이 TS 붐이 역설적으로 증명한 것",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/76935831?m=humor_only&t=now",
-            "score": 51.52
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.0,
-        "peak_score": 75.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 31,
-            "title": "[단독] 축구·야구 아시안게임 후폭풍…주호영 '병역 혜택 폐지법' 발의",
-            "url": "https://theqoo.net/hot/4367576093",
-            "score": 66.0
+            "score": 52.76
           },
           {
             "source": "인벤",
-            "rank": 63,
-            "title": "(ㅇㅎ?) 아시안게임",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2737118",
-            "score": 57.96
+            "rank": 99,
+            "title": "세계가 감탄한 말포이 가슴 공식",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2737115",
+            "score": 50.29
           }
         ],
         "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i71d2ce21",
-        "title": "오늘자 한복 입은 엔믹스 설윤...jpg",
-        "keywords": [
-          "엔믹스",
-          "설윤"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.05,
-        "peak_score": 73.05,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 36,
-            "title": "오늘자 한복 입은 엔믹스 설윤...jpg",
-            "url": "https://theqoo.net/hot/4367375301",
-            "score": 65.05
-          },
-          {
-            "source": "인벤",
-            "rank": 51,
-            "title": "옆얼굴도 예쁜 엔믹스 설윤",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2737123",
-            "score": 60.58
-          }
-        ],
-        "rank": 5,
         "change": -1
       }
     ],
@@ -305,9 +270,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 99.31,
+        "score": 101.33,
         "peak_score": 89.84,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "클리앙"
@@ -315,25 +280,25 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 7,
+            "rank": 8,
             "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
             "url": "https://theqoo.net/hot/4367550702",
             "score": 80.84
           },
           {
             "source": "클리앙",
-            "rank": 67,
+            "rank": 74,
             "title": "[펌]딸에게 드디어 엄마가 되었습니다",
             "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
-            "score": 57.27
+            "score": 54.88
           }
         ],
         "first_seen": "2026-09-30T21:25:18.067717+09:00",
-        "last_seen": "2026-10-07T08:04:26.921509+09:00",
+        "last_seen": "2026-10-07T08:05:50.892282+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ia6af4d8f",
@@ -371,7 +336,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4d9d2f7e",
@@ -410,7 +375,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5791457f",
@@ -449,7 +414,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iead2b930",
@@ -487,7 +452,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i26c94275",
@@ -497,9 +462,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 93.38,
+        "score": 94.82,
         "peak_score": 81.89,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "인벤"
@@ -507,25 +472,25 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 21,
+            "rank": 30,
             "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
             "url": "https://theqoo.net/hot/4367368536",
-            "score": 69.24
+            "score": 68.74
           },
           {
             "source": "인벤",
-            "rank": 52,
+            "rank": 32,
             "title": "러시아 ‘페스트 유출 의심’ 연구원 사망…전 세계 ‘촉각’",
             "url": "https://www.inven.co.kr/board/webzine/2097/2737132",
-            "score": 60.4
+            "score": 68.34
           }
         ],
         "first_seen": "2026-09-27T14:04:44.915653+09:00",
-        "last_seen": "2026-10-07T08:04:26.921509+09:00",
+        "last_seen": "2026-10-07T08:05:50.892282+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i71d2ce21",
@@ -603,7 +568,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -2
+        "change": 0
       },
       {
         "id": "ibb53d25b",
@@ -613,35 +578,35 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.3,
+        "score": 87.32,
         "peak_score": 75.83,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "루리웹",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 28,
-            "title": "세계가 감탄한 말포이 가슴 공식",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2737115",
-            "score": 66.83
-          },
-          {
             "source": "루리웹",
-            "rank": 90,
+            "rank": 80,
             "title": "해리포터) 말포이 TS 붐이 역설적으로 증명한 것",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/76935831?m=humor_only&t=now",
-            "score": 51.52
+            "score": 52.76
+          },
+          {
+            "source": "인벤",
+            "rank": 99,
+            "title": "세계가 감탄한 말포이 가슴 공식",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2737115",
+            "score": 50.29
           }
         ],
         "first_seen": "2026-10-07T08:04:26.921509+09:00",
-        "last_seen": "2026-10-07T08:04:26.921509+09:00",
+        "last_seen": "2026-10-07T08:05:50.892282+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ibc7a7b69",
@@ -684,7 +649,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i8b4085e0",
@@ -722,7 +687,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "icfb7b12b",
@@ -760,7 +725,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 15,
-        "change": -3
+        "change": 0
       },
       {
         "id": "i5bb35ae6",
@@ -798,7 +763,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -3
+        "change": 0
       }
     ],
     "weekly": [
@@ -1079,7 +1044,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": 1
+        "change": 0
       },
       {
         "id": "iafce283e",
@@ -1120,7 +1085,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -1359,6 +1324,44 @@
         "change": 0
       },
       {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 101.33,
+        "peak_score": 89.84,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 8,
+            "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
+            "url": "https://theqoo.net/hot/4367550702",
+            "score": 80.84
+          },
+          {
+            "source": "클리앙",
+            "rank": 74,
+            "title": "[펌]딸에게 드디어 엄마가 되었습니다",
+            "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
+            "score": 54.88
+          }
+        ],
+        "first_seen": "2026-09-30T21:25:18.067717+09:00",
+        "last_seen": "2026-10-07T08:05:50.892282+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": 3
+      },
+      {
         "id": "i78f6419e",
         "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1395,8 +1398,8 @@
         "last_seen": "2026-10-06T19:18:32.883997+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i9aa41ed1",
@@ -1446,8 +1449,8 @@
         "last_seen": "2026-10-05T14:48:07.927986+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i4c28989e",
@@ -1494,46 +1497,8 @@
         "last_seen": "2026-10-06T17:04:46.984922+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "i9785fc48",
-        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "드디어"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 99.31,
-        "peak_score": 89.84,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 7,
-            "title": "팬에게 줄 선물을 항상 차에 싣고 다니다가 드디어 만나게 된 김우빈.jpg",
-            "url": "https://theqoo.net/hot/4367550702",
-            "score": 80.84
-          },
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "[펌]딸에게 드디어 엄마가 되었습니다",
-            "url": "https://www.clien.net/service/board/park/19274391?od=T31&po=0&category=0&groupCd=",
-            "score": 57.27
-          }
-        ],
-        "first_seen": "2026-09-30T21:25:18.067717+09:00",
-        "last_seen": "2026-10-07T08:04:26.921509+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ia6af4d8f",
@@ -1571,7 +1536,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4d9d2f7e",
@@ -1610,7 +1575,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
