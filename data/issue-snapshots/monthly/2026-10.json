@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-07T21:02:54.370235+09:00",
+  "collected_at": "2026-10-07T22:16:07.179889+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 5,
-      "score": 140.2,
+      "score": 140.47,
       "peak_score": 108.75,
-      "appearances": 17,
+      "appearances": 18,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -26,22 +26,22 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 18,
-          "title": "암살자들 \"총성은 6발인데 탄환은 4개다?\" 진실",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468197&_dcbest=1&page=1",
-          "score": 69.52
+          "source": "더쿠",
+          "rank": 21,
+          "title": "대형 로펌과 고소 준비중이라는 암살자들 제작사",
+          "url": "https://theqoo.net/hot/4368284376",
+          "score": 71.21
         },
         {
-          "source": "뽐뿌",
-          "rank": 98,
-          "title": "암살자들 저대신 보실분~",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143013",
-          "score": 52.53
+          "source": "클리앙",
+          "rank": 79,
+          "title": "암살자들 너무 재밌게 보고왔네요",
+          "url": "https://www.clien.net/service/board/park/19274745?od=T31&po=0&category=0&groupCd=",
+          "score": 56.9
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-06T10:32:41.837933+09:00",
+      "last_seen": "2026-10-07T22:16:07.179889+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -766,6 +766,45 @@
       "change": 0
     },
     {
+      "id": "i8213e5c0",
+      "title": "‘누리호’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "누리호"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.35,
+      "peak_score": 102.42,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "JTBC: 침착맨이 이번에 누리호 실패하면 북한에 떨어뜨리라고 논란일으킴",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76944119?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 92,
+          "title": "누리호 5차 발사 in 낭도 방파제",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468628&_dcbest=1&page=1",
+          "score": 53.51
+        }
+      ],
+      "first_seen": "2026-10-07T19:14:33.646935+09:00",
+      "last_seen": "2026-10-07T22:16:07.179889+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i73215f7c",
       "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -800,46 +839,8 @@
       "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i51a99cec",
-      "title": "‘남자들의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "남자들의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.45,
-      "peak_score": 104.98,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "여자들은 절대 이해 못한다는 남자들의 방",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76934758?m=humor",
-          "score": 95.98
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "오싹오싹 중국 시골 결혼못한 남자들의 여성 인신매매",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468421&_dcbest=1&page=1",
-          "score": 76.81
-        }
-      ],
-      "first_seen": "2026-10-07T05:22:13.835361+09:00",
-      "last_seen": "2026-10-07T05:22:13.835361+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
