@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-07T22:16:07.179889+09:00",
+  "collected_at": "2026-10-08T03:52:22.165654+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -727,6 +727,46 @@
       "change": 0
     },
     {
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 115.51,
+      "peak_score": 92.09,
+      "appearances": 11,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 8,
+          "title": "[네이버] ps4 메타포 2만",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
+          "score": 83.09
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 24,
+          "title": "[네이버] XINMENG ZERO 1 Ultra 8K 초경량 무선 게이밍마우스(39,800원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738671",
+          "score": 67.8
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-08T03:52:22.165654+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "i53a2e4b6",
       "title": "(빡침주의)현재 인스타 논란중인 영상",
       "keywords": [
@@ -762,8 +802,8 @@
       "last_seen": "2026-10-07T19:14:33.646935+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i8213e5c0",
@@ -799,44 +839,6 @@
       ],
       "first_seen": "2026-10-07T19:14:33.646935+09:00",
       "last_seen": "2026-10-07T22:16:07.179889+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "i73215f7c",
-      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "얼마나"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.93,
-      "peak_score": 105.46,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "???:이슬람의 부부생활이 얼마나 아름다운지 보세요",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76933511?m=humor",
-          "score": 96.46
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 36,
-          "title": "나락간 유튜버는 얼마나 벌까?.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468379&_dcbest=1&page=1",
-          "score": 66.38
-        }
-      ],
-      "first_seen": "2026-10-07T00:15:15.763348+09:00",
-      "last_seen": "2026-10-07T00:15:15.763348+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
