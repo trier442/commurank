@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-08",
   "label": "2026년 10월 08일",
-  "collected_at": "2026-10-08T04:25:39.605389+09:00",
+  "collected_at": "2026-10-08T07:57:08.417782+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -42,7 +42,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i5791457f",
@@ -80,7 +80,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i5781c296",
@@ -118,7 +118,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ic3b280b7",
+      "title": "[GS25] 오모리김치찌개라면 1+1 1,850₩",
+      "keywords": [
+        "오모리김치찌개라면"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.37,
+      "peak_score": 94.9,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[GS25] 오모리김치찌개라면 1+1 1,850₩",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107841",
+          "score": 86.9
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 44,
+          "title": "[우리동네gs]오모리김치찌개라면 대컵1+1(1,850원/픽업)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738695",
+          "score": 64.78
+        }
+      ],
+      "first_seen": "2026-10-08T07:57:08.417782+09:00",
+      "last_seen": "2026-10-08T07:57:08.417782+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i0f001078",
@@ -155,8 +193,8 @@
       "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -2
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -166,34 +204,111 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.75,
-      "peak_score": 78.28,
-      "appearances": 1,
+      "score": 90.33,
+      "peak_score": 78.84,
+      "appearances": 2,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 23,
-          "title": "일본 맥도날드 신제품이 미국에서 난리난 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76946810?m=humor_only&t=now",
-          "score": 69.28
+          "source": "더쿠",
+          "rank": 18,
+          "title": "(약후방) 트위터 난리난 변태 씹덕들 붙어서 괴랄해져간다는 치이카와 판",
+          "url": "https://theqoo.net/hot/4368653989",
+          "score": 69.84
         },
         {
           "source": "디시인사이드",
-          "rank": 41,
+          "rank": 56,
           "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
-          "score": 63.0
+          "score": 62.47
         }
       ],
       "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "last_seen": "2026-10-08T07:57:08.417782+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i1060e3b1",
+      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "조희대"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.98,
+      "peak_score": 75.51,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 32,
+          "title": "오마카세는 왜? 조희대 \"좋은 음식 먹고싶어서\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468700&_dcbest=1&page=1",
+          "score": 66.51
+        },
+        {
+          "source": "인벤",
+          "rank": 43,
+          "title": "민주당 : 조희대 사퇴하세욧!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737552",
+          "score": 64.83
+        }
+      ],
+      "first_seen": "2026-10-06T17:04:46.984922+09:00",
+      "last_seen": "2026-10-08T07:57:08.417782+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "icb33dad5",
+      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "sns"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.87,
+      "peak_score": 74.4,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 36,
+          "title": "李, 밤 12시-새벽 1시20분에도 SNS 글…이틀에 한번꼴 한밤 올려",
+          "url": "https://www.clien.net/service/board/park/19274824?od=T31&po=0&category=0&groupCd=",
+          "score": 65.4
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 52,
+          "title": "청와대] 이재명 '쉴 새 없는 SNS'에 \"현 상황 절박하게 본 것\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145282",
+          "score": 62.97
+        }
+      ],
+      "first_seen": "2026-10-03T08:03:19.978953+09:00",
+      "last_seen": "2026-10-08T07:57:08.417782+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -231,7 +346,7 @@
       "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 9,
       "change": -3
     }
   ]
