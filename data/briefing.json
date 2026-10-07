@@ -2,41 +2,70 @@
   "version": 1,
   "date": "2026-10-08",
   "label": "2026년 10월 08일",
-  "collected_at": "2026-10-08T03:52:22.165654+09:00",
+  "collected_at": "2026-10-08T04:25:39.605389+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘네이버’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘mbc’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
+    "daily_issues": 6,
     "keywords": 12,
-    "top100_views": 857172,
-    "top100_comments": 11868
+    "top100_views": 879697,
+    "top100_comments": 11842
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i5781c296"
+      "title": "‘mbc’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 4개 관련 인기글이 포착됐습니다.",
+      "issue_id": "id4a51cf7"
     },
     {
       "type": "post",
-      "title": "식객) 양식이 자연산을 압도한다는 해산물",
+      "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944017?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor"
     },
     {
       "type": "keyword",
       "title": "#일본",
-      "text": "2개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
       "keyword": "일본"
     }
   ],
   "top_posts": [
+    {
+      "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+      "source": "루리웹",
+      "category": "스포츠",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+      "first_seen": "2026-10-08T04:25:39.605389+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 98.96,
+      "max_views": 25383,
+      "max_likes": 162,
+      "max_comments": 66,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 98.96,
+          "max_views": 25383,
+          "max_likes": 162,
+          "max_comments": 66,
+          "appearances": 1,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
+        }
+      },
+      "score": 108.48,
+      "views": 25383,
+      "likes": 162,
+      "comments": 66,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "식객) 양식이 자연산을 압도한다는 해산물",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 107.19,
+      "score": 107.15,
       "views": 13530,
       "likes": 146,
       "comments": 69,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "허영만 화백 부고 소식은 사실이 아닐 수도 있음",
@@ -88,12 +117,12 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 104.87,
+      "score": 104.83,
       "views": 11807,
       "likes": 80,
       "comments": 159,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "중국 창신메모리 실사용 후기.jpg",
@@ -117,10 +146,68 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 104.17,
+      "score": 104.13,
       "views": 25592,
       "likes": 129,
       "comments": 84,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "아이는 정자은행으로 갖자고 하는 여자친구",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76945384?m=humor",
+      "first_seen": "2026-10-08T04:25:39.605389+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 94.11,
+      "max_views": 10205,
+      "max_likes": 55,
+      "max_comments": 94,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 94.11,
+          "max_views": 10205,
+          "max_likes": 55,
+          "max_comments": 94,
+          "appearances": 1,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
+        }
+      },
+      "score": 103.63,
+      "views": 10205,
+      "likes": 55,
+      "comments": 94,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "유게에서 혐오렉카가 날뛰는 이유는 이거 하나로 정리됨",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76945861?m=humor",
+      "first_seen": "2026-10-08T04:25:39.605389+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 93.0,
+      "max_views": 6058,
+      "max_likes": 143,
+      "max_comments": 56,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 93.0,
+          "max_views": 6058,
+          "max_likes": 143,
+          "max_comments": 56,
+          "appearances": 1,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
+        }
+      },
+      "score": 102.52,
+      "views": 6058,
+      "likes": 143,
+      "comments": 56,
       "active_days": 1,
       "change": "NEW"
     },
@@ -130,28 +217,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 88.01,
-      "max_views": 22549,
-      "max_likes": 244,
-      "max_comments": 452,
-      "appearances": 1,
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 88.28,
+      "max_views": 23233,
+      "max_likes": 250,
+      "max_comments": 479,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-08": {
-          "max_score": 88.01,
-          "max_views": 22549,
-          "max_likes": 244,
-          "max_comments": 452,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
+          "max_score": 88.28,
+          "max_views": 23233,
+          "max_likes": 250,
+          "max_comments": 479,
+          "appearances": 2,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 97.53,
-      "views": 22549,
-      "likes": 244,
-      "comments": 452,
+      "score": 98.7,
+      "views": 23233,
+      "likes": 250,
+      "comments": 479,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "트럼프가 미친 짓 한 번 더했음 좋겠네요.",
@@ -159,28 +246,28 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19274802?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 86.38,
-      "max_views": 3285,
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 87.06,
+      "max_views": 3621,
       "max_likes": 0,
       "max_comments": 16,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-08": {
-          "max_score": 86.38,
-          "max_views": 3285,
+          "max_score": 87.06,
+          "max_views": 3621,
           "max_likes": 0,
           "max_comments": 16,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
+          "appearances": 2,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 95.9,
-      "views": 3285,
+      "score": 97.48,
+      "views": 3621,
       "likes": 0,
       "comments": 16,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "한국의 외국인 의료 관광은 철저하게 서울 위주로 집중되어 있네요...",
@@ -188,28 +275,28 @@
       "category": "생활",
       "url": "https://www.clien.net/service/board/park/19274804?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 85.36,
-      "max_views": 2270,
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "peak_score": 86.05,
+      "max_views": 2538,
       "max_likes": 0,
       "max_comments": 17,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-08": {
-          "max_score": 85.36,
-          "max_views": 2270,
+          "max_score": 86.05,
+          "max_views": 2538,
           "max_likes": 0,
           "max_comments": 17,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
+          "appearances": 2,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 94.88,
-      "views": 2270,
+      "score": 96.47,
+      "views": 2538,
       "likes": 0,
       "comments": 17,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "반도체 낙수효과가 미미한 이유",
@@ -217,147 +304,180 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19274794?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "peak_score": 84.86,
-      "max_views": 4719,
+      "max_views": 4990,
       "max_likes": 0,
       "max_comments": 18,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-08": {
           "max_score": 84.86,
-          "max_views": 4719,
+          "max_views": 4990,
           "max_likes": 0,
           "max_comments": 18,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
+          "appearances": 2,
+          "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 94.38,
-      "views": 4719,
+      "score": 95.28,
+      "views": 4990,
       "likes": 0,
       "comments": 18,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "[네이버] ps4 메타포 2만",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 83.09,
-      "max_views": 20066,
-      "max_likes": 17,
-      "max_comments": 31,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 83.09,
-          "max_views": 20066,
-          "max_likes": 17,
-          "max_comments": 31,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
-        }
-      },
-      "score": 92.61,
-      "views": 20066,
-      "likes": 17,
-      "comments": 31,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "요즘 일본 버튜버 신입 수준.avi",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19274799?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 81.57,
-      "max_views": 3817,
-      "max_likes": 0,
-      "max_comments": 8,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 81.57,
-          "max_views": 3817,
-          "max_likes": 0,
-          "max_comments": 8,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
-        }
-      },
-      "score": 91.09,
-      "views": 3817,
-      "likes": 0,
-      "comments": 8,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "치솟은 기름값 뒤 담합 있었나…“4년간 44조 원 규모”",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737544",
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
-      "peak_score": 80.0,
-      "max_views": 0,
-      "max_likes": 0,
-      "max_comments": 0,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 80.0,
-          "max_views": 0,
-          "max_likes": 0,
-          "max_comments": 0,
-          "appearances": 1,
-          "last_seen": "2026-10-08T03:52:22.165654+09:00"
-        }
-      },
-      "score": 89.52,
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "(블라) 여자나이로 후려치지 말라는 블줌마",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468648&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "[네이버] ps4 메타포 2만",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
       "category": "이슈",
-      "views": 13842,
-      "likes": 193,
-      "comments": 377,
-      "score": 66.7,
-      "change": 1,
+      "views": 20862,
+      "likes": 17,
+      "comments": 31,
+      "score": 84.82,
+      "change": 0,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 796,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 33
+    },
+    {
+      "source": "클리앙",
+      "title": "트럼프가 미친 짓 한 번 더했음 좋겠네요.",
+      "url": "https://www.clien.net/service/board/park/19274802?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3621,
+      "likes": 0,
+      "comments": 16,
+      "score": 87.06,
+      "change": 0,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 336,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 96.43,
+      "rising_rank": 2,
+      "window_minutes": 33
+    },
+    {
+      "source": "디시인사이드",
+      "title": "안 싱글벙글 행복해보이는 집안이라 살해한 미친새끼",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468686&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 7115,
+      "likes": 78,
+      "comments": 221,
+      "score": 77.61,
+      "change": 0,
+      "current_rank": 12,
+      "new_entry": false,
+      "delta_views": 611,
+      "delta_likes": 10,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 93.05,
+      "rising_rank": 3,
+      "window_minutes": 33
+    },
+    {
+      "source": "디시인사이드",
+      "title": "훌쩍훌쩍 군대에서 죽은 전국 수능 차석 서울대생..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 23233,
+      "likes": 250,
+      "comments": 479,
+      "score": 88.28,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 684,
+      "delta_likes": 6,
+      "delta_comments": 27,
+      "rank_gain": 0,
+      "rising_score": 92.82,
+      "rising_rank": 4,
+      "window_minutes": 33
+    },
+    {
+      "source": "더쿠",
+      "title": "\"과학적으로 증명된 최고의 엉덩이운동!\" 10분 후 엉덩이 근육 생기는 운동",
+      "url": "https://theqoo.net/hot/4368629972",
+      "category": "이슈",
+      "views": 4921,
+      "likes": 0,
+      "comments": 101,
+      "score": 67.0,
+      "change": 9,
       "current_rank": 27,
       "new_entry": false,
-      "delta_views": 11717,
-      "delta_likes": 143,
-      "delta_comments": 333,
-      "rank_gain": 1,
-      "rising_score": 83.75,
-      "rising_rank": 1,
-      "window_minutes": 336
+      "delta_views": 1856,
+      "delta_likes": 0,
+      "delta_comments": 34,
+      "rank_gain": 9,
+      "rising_score": 92.0,
+      "rising_rank": 5,
+      "window_minutes": 33
+    },
+    {
+      "source": "뽐뿌",
+      "title": "'잠온다'에 이어 충격 받았던..서울에선 안 쓰는 단어.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145434",
+      "category": "이슈",
+      "views": 4103,
+      "likes": 1,
+      "comments": 34,
+      "score": 64.68,
+      "change": 0,
+      "current_rank": 34,
+      "new_entry": false,
+      "delta_views": 1501,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 90.7,
+      "rising_rank": 6,
+      "window_minutes": 33
+    },
+    {
+      "source": "디시인사이드",
+      "title": "MBC) \"중국보다 AI가 위험\" 전직 엔지니어 증언",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468688&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3981,
+      "likes": 8,
+      "comments": 112,
+      "score": 63.08,
+      "change": 4,
+      "current_rank": 40,
+      "new_entry": false,
+      "delta_views": 459,
+      "delta_likes": 0,
+      "delta_comments": 8,
+      "rank_gain": 4,
+      "rising_score": 84.65,
+      "rising_rank": 7,
+      "window_minutes": 33
     },
     {
       "source": "루리웹",
-      "title": "식객) 양식이 자연산을 압도한다는 해산물",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944017?m=humor",
-      "category": "이슈",
-      "views": 13530,
-      "likes": 146,
-      "comments": 69,
-      "score": 97.67,
+      "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+      "category": "스포츠",
+      "views": 25383,
+      "likes": 162,
+      "comments": 66,
+      "score": 98.96,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,173 +485,129 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.02,
-      "rising_rank": 2,
-      "window_minutes": 336
-    },
-    {
-      "source": "루리웹",
-      "title": "허영만 화백 부고 소식은 사실이 아닐 수도 있음",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76946378?m=humor",
-      "category": "이슈",
-      "views": 11807,
-      "likes": 80,
-      "comments": 159,
-      "score": 95.35,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.05,
-      "rising_rank": 3,
-      "window_minutes": 336
-    },
-    {
-      "source": "루리웹",
-      "title": "중국 창신메모리 실사용 후기.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76945223?m=humor",
-      "category": "이슈",
-      "views": 25592,
-      "likes": 129,
-      "comments": 84,
-      "score": 94.65,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.75,
-      "rising_rank": 4,
-      "window_minutes": 336
-    },
-    {
-      "source": "디시인사이드",
-      "title": "요즘 늘었다는 반출생주의 남녀들.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468614&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 29472,
-      "likes": 144,
-      "comments": 1219,
-      "score": 52.58,
-      "change": 0,
-      "current_rank": 89,
-      "new_entry": false,
-      "delta_views": 12583,
-      "delta_likes": 57,
-      "delta_comments": 369,
-      "rank_gain": 0,
-      "rising_score": 80.56,
-      "rising_rank": 5,
-      "window_minutes": 336
-    },
-    {
-      "source": "디시인사이드",
-      "title": "훌쩍훌쩍 군대에서 죽은 전국 수능 차석 서울대생..",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 22549,
-      "likes": 244,
-      "comments": 452,
-      "score": 88.01,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.96,
-      "rising_rank": 6,
-      "window_minutes": 336
-    },
-    {
-      "source": "클리앙",
-      "title": "트럼프가 미친 짓 한 번 더했음 좋겠네요.",
-      "url": "https://www.clien.net/service/board/park/19274802?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 3285,
-      "likes": 0,
-      "comments": 16,
-      "score": 86.38,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.28,
-      "rising_rank": 7,
-      "window_minutes": 336
-    },
-    {
-      "source": "클리앙",
-      "title": "한국의 외국인 의료 관광은 철저하게 서울 위주로 집중되어 있네요...",
-      "url": "https://www.clien.net/service/board/park/19274804?od=T31&po=0&category=0&groupCd=",
-      "category": "생활",
-      "views": 2270,
-      "likes": 0,
-      "comments": 17,
-      "score": 85.36,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.85,
+      "rising_score": 83.56,
       "rising_rank": 8,
-      "window_minutes": 336
+      "window_minutes": 33
     },
     {
       "source": "클리앙",
       "title": "반도체 낙수효과가 미미한 이유",
       "url": "https://www.clien.net/service/board/park/19274794?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 4719,
+      "views": 4990,
       "likes": 0,
       "comments": 18,
       "score": 84.86,
-      "change": "NEW",
+      "change": 0,
       "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 271,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.64,
+      "rising_score": 82.14,
       "rising_rank": 9,
-      "window_minutes": 336
+      "window_minutes": 33
     },
     {
-      "source": "루리웹",
-      "title": "[네이버] ps4 메타포 2만",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
-      "category": "이슈",
-      "views": 20066,
-      "likes": 17,
-      "comments": 31,
-      "score": 83.09,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
+      "source": "더쿠",
+      "title": "전세계 여자들 상상만으로 신나하는 와중에 좀 슬프기도 한 트윗",
+      "url": "https://theqoo.net/hot/4368623860",
+      "category": "유머",
+      "views": 24397,
+      "likes": 0,
+      "comments": 297,
+      "score": 72.84,
+      "change": 0,
+      "current_rank": 16,
+      "new_entry": false,
+      "delta_views": 1400,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 11,
       "rank_gain": 0,
-      "rising_score": 76.9,
+      "rising_score": 81.92,
       "rising_rank": 10,
-      "window_minutes": 336
+      "window_minutes": 33
     }
   ],
   "issues": [
     {
+      "id": "id4a51cf7",
+      "title": "‘mbc’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "mbc"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 121.43,
+      "peak_score": 109.96,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 40,
+          "title": "MBC) \"중국보다 AI가 위험\" 전직 엔지니어 증언",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468688&_dcbest=1&page=1",
+          "score": 63.08
+        }
+      ],
+      "first_seen": "2026-10-08T04:25:39.605389+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i5791457f",
+      "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "3인방"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 117.43,
+      "peak_score": 107.96,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "현재 케톡에서 명명되고 있는 축구 3인방 사건",
+          "url": "https://theqoo.net/hot/4368469781",
+          "score": 61.74
+        }
+      ],
+      "first_seen": "2026-10-07T00:11:23.560735+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i5781c296",
       "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -539,9 +615,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 101.56,
-      "peak_score": 92.09,
-      "appearances": 1,
+      "score": 105.31,
+      "peak_score": 93.82,
+      "appearances": 2,
       "sources": [
         "루리웹",
         "뽐뿌"
@@ -552,22 +628,22 @@
           "rank": 8,
           "title": "[네이버] ps4 메타포 2만",
           "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
-          "score": 83.09
+          "score": 84.82
         },
         {
           "source": "뽐뿌",
-          "rank": 24,
+          "rank": 54,
           "title": "[네이버] XINMENG ZERO 1 Ultra 8K 초경량 무선 게이밍마우스(39,800원/무료)",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738671",
-          "score": 67.8
+          "score": 59.92
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i0f001078",
@@ -577,9 +653,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.21,
-      "peak_score": 80.74,
-      "appearances": 1,
+      "score": 93.05,
+      "peak_score": 81.56,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -587,24 +663,62 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 18,
+          "rank": 17,
           "title": "싱글벙글 서울대 법대 입학한 16살",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468672&_dcbest=1&page=1",
-          "score": 71.74
+          "score": 72.56
         },
         {
           "source": "더쿠",
-          "rank": 97,
+          "rank": 99,
           "title": "“요즘 재벌집 자녀들은 서울대 안 간다”…확 달라진 오너 4·5세 ‘유학 공식’ 보니",
           "url": "https://theqoo.net/hot/4368423646",
           "score": 51.26
         }
       ],
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.75,
+      "peak_score": 78.28,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 23,
+          "title": "일본 맥도날드 신제품이 미국에서 난리난 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76946810?m=humor_only&t=now",
+          "score": 69.28
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 41,
+          "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
+          "score": 63.0
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -615,9 +729,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.06,
-      "peak_score": 71.59,
-      "appearances": 1,
+      "score": 83.49,
+      "peak_score": 72.0,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -625,29 +739,97 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 40,
+          "rank": 41,
           "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
-          "score": 62.59
+          "score": 63.0
         },
         {
           "source": "인벤",
-          "rank": 67,
+          "rank": 95,
           "title": "진짜 ㅈ 된것같은 프랑스 근황",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737511",
-          "score": 56.66
+          "score": 51.66
         }
       ],
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 6,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
+      "id": "id4a51cf7",
+      "title": "‘mbc’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "mbc"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 109.96,
+      "peak_score": 109.96,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 40,
+          "title": "MBC) \"중국보다 AI가 위험\" 전직 엔지니어 증언",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468688&_dcbest=1&page=1",
+          "score": 63.08
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i5791457f",
+      "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "3인방"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 107.96,
+      "peak_score": 107.96,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "현재 케톡에서 명명되고 있는 축구 3인방 사건",
+          "url": "https://theqoo.net/hot/4368469781",
+          "score": 61.74
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i5781c296",
       "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -655,8 +837,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.09,
-      "peak_score": 92.09,
+      "score": 93.82,
+      "peak_score": 93.82,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -668,18 +850,18 @@
           "rank": 8,
           "title": "[네이버] ps4 메타포 2만",
           "url": "https://bbs.ruliweb.com/market/board/1020/read/107839",
-          "score": 83.09
+          "score": 84.82
         },
         {
           "source": "뽐뿌",
-          "rank": 24,
+          "rank": 54,
           "title": "[네이버] XINMENG ZERO 1 Ultra 8K 초경량 무선 게이밍마우스(39,800원/무료)",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738671",
-          "score": 67.8
+          "score": 59.92
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i0f001078",
@@ -689,8 +871,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.74,
-      "peak_score": 80.74,
+      "score": 81.56,
+      "peak_score": 81.56,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -699,20 +881,54 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 18,
+          "rank": 17,
           "title": "싱글벙글 서울대 법대 입학한 16살",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468672&_dcbest=1&page=1",
-          "score": 71.74
+          "score": 72.56
         },
         {
           "source": "더쿠",
-          "rank": 97,
+          "rank": 99,
           "title": "“요즘 재벌집 자녀들은 서울대 안 간다”…확 달라진 오너 4·5세 ‘유학 공식’ 보니",
           "url": "https://theqoo.net/hot/4368423646",
           "score": 51.26
         }
       ],
-      "rank": 2,
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.28,
+      "peak_score": 78.28,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 23,
+          "title": "일본 맥도날드 신제품이 미국에서 난리난 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76946810?m=humor_only&t=now",
+          "score": 69.28
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 41,
+          "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
+          "score": 63.0
+        }
+      ],
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -723,8 +939,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 71.59,
-      "peak_score": 71.59,
+      "score": 72.0,
+      "peak_score": 72.0,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -733,55 +949,100 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 40,
+          "rank": 41,
           "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
-          "score": 62.59
+          "score": 63.0
         },
         {
           "source": "인벤",
-          "rank": 67,
+          "rank": 95,
           "title": "진짜 ㅈ 된것같은 프랑스 근황",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737511",
-          "score": 56.66
+          "score": 51.66
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 6,
+      "change": -3
     }
   ],
   "keywords": [
     {
       "keyword": "일본",
-      "score": 106.37,
-      "post_count": 3,
-      "source_count": 2,
+      "score": 135.4,
+      "post_count": 4,
+      "source_count": 3,
       "best_rank": 9,
       "sources": [
         "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 5
+      "change": 0
     },
     {
-      "keyword": "중국",
-      "score": 104.54,
-      "post_count": 2,
+      "keyword": "mbc",
+      "score": 113.98,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 1,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 17
+      "change": 10
+    },
+    {
+      "keyword": "3인방",
+      "score": 105.99,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [
+        "축구"
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "방금",
+      "score": 105.69,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "아이",
+      "score": 103.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "keyword": "네이버",
-      "score": 103.72,
+      "score": 99.26,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 8,
@@ -790,26 +1051,12 @@
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "후기",
-      "score": 102.02,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 3,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -3
     },
     {
       "keyword": "신입",
-      "score": 97.81,
+      "score": 97.13,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 9,
@@ -818,101 +1065,74 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한국",
-      "score": 94.88,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": -4
-    },
-    {
-      "keyword": "서울대",
-      "score": 86.36,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "프랑스",
-      "score": 86.09,
+      "keyword": "난리난",
+      "score": 93.08,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 40,
+      "best_rank": 23,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "댓글",
-      "score": 83.02,
+      "keyword": "서울대",
+      "score": 86.7,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 56,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "병역",
-      "score": 81.33,
+      "keyword": "특징",
+      "score": 86.26,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 33,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "여친",
-      "score": 81.04,
+      "keyword": "프랑스",
+      "score": 81.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 41,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "mbc",
-      "score": 73.11,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 40,
+      "keyword": "온다",
+      "score": 80.04,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 53,
       "sources": [
-        "디시인사이드"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
@@ -922,51 +1142,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "식객) 양식이 자연산을 압도한다는 해산물",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944017?m=humor",
-      "score": 97.67,
-      "views": 13530,
-      "comments": 69
+      "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+      "score": 98.96,
+      "views": 25383,
+      "comments": 66
     },
     {
       "source": "디시인사이드",
       "title": "훌쩍훌쩍 군대에서 죽은 전국 수능 차석 서울대생..",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
-      "score": 88.01,
-      "views": 22549,
-      "comments": 452
+      "score": 88.28,
+      "views": 23233,
+      "comments": 479
     },
     {
       "source": "클리앙",
       "title": "트럼프가 미친 짓 한 번 더했음 좋겠네요.",
       "url": "https://www.clien.net/service/board/park/19274802?od=T31&po=0&category=0&groupCd=",
-      "score": 86.38,
-      "views": 3285,
+      "score": 87.06,
+      "views": 3621,
       "comments": 16
     },
     {
-      "source": "인벤",
-      "title": "치솟은 기름값 뒤 담합 있었나…“4년간 44조 원 규모”",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737544",
-      "score": 80.0,
-      "views": 0,
-      "comments": 0
-    },
-    {
       "source": "뽐뿌",
-      "title": "[우리동네gs]오모리김치찌개라면 대컵1+1(1,850원/픽업)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738695",
-      "score": 74.59,
-      "views": 4167,
-      "comments": 25
+      "title": "무사고 기원 신차 출고 인증입니다.",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=978909",
+      "score": 79.13,
+      "views": 4471,
+      "comments": 38
     },
     {
       "source": "더쿠",
       "title": "전세계 여자들 상상만으로 신나하는 와중에 좀 슬프기도 한 트윗",
       "url": "https://theqoo.net/hot/4368623860",
       "score": 72.84,
-      "views": 22997,
-      "comments": 286
+      "views": 24397,
+      "comments": 297
+    },
+    {
+      "source": "인벤",
+      "title": "다시 과거로",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737542",
+      "score": 67.89,
+      "views": 815,
+      "comments": 7
     }
   ]
 }
