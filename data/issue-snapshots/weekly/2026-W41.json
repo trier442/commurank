@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-09T02:33:14.081994+09:00",
+  "collected_at": "2026-10-09T07:24:11.375041+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -272,6 +272,45 @@
       "change": 0
     },
     {
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 117.89,
+      "peak_score": 102.84,
+      "appearances": 4,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 30,
+          "title": "트럼프, 폭스뉴스 폐업 경고..“계속..시청률 추락”",
+          "url": "https://www.clien.net/service/board/park/19275253?od=T31&po=0&category=0&groupCd=",
+          "score": 65.02
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "유럽의회에 '벌거벗은 트럼프' 등장‥백악관 침묵",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468923&_dcbest=1&page=1",
+          "score": 53.78
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 7,
+      "change": 2
+    },
+    {
       "id": "i106465f0",
       "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -309,8 +348,8 @@
       "last_seen": "2026-10-07T22:16:07.179889+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i00705cf2",
@@ -349,47 +388,8 @@
       "last_seen": "2026-10-06T19:18:32.883997+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 115.77,
-      "peak_score": 102.84,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "속보) 트럼프 \"조만간 미국은 무역필요없는나라될것\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76949184?m=humor",
-          "score": 93.84
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 89,
-          "title": "트럼프, 러시아 페스트 사고 정보 공개 압박",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468753&_dcbest=1&page=1",
-          "score": 53.27
-        }
-      ],
-      "first_seen": "2026-10-01T08:10:08.976041+09:00",
-      "last_seen": "2026-10-08T12:46:19.241908+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ide45eba0",

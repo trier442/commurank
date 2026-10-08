@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-09",
   "label": "2026년 10월 09일",
-  "collected_at": "2026-10-09T02:33:14.081994+09:00",
+  "collected_at": "2026-10-09T07:24:11.375041+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘강호동 아들 시후군 근황’입니다. 실시간 키워드 상위: #아들. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘미국 입국이 막히고 있는 우리 정부 인사들과 정치인들’입니다. 실시간 키워드 상위: #정부. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 10,
-    "top100_views": 877039,
-    "top100_comments": 9525
+    "daily_issues": 8,
+    "keywords": 18,
+    "top100_views": 1020486,
+    "top100_comments": 9119
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "강호동 아들 시후군 근황",
-      "text": "2개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i273326f6"
+      "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ib765494c"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#아들",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "아들"
+      "title": "#정부",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "정부"
     }
   ],
   "top_posts": [
@@ -59,10 +59,68 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 108.47,
+      "score": 108.07,
       "views": 17168,
       "likes": 289,
       "comments": 117,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "ㅇㅂ 작가 사건 제일 무서운 댓글",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958748?m=humor",
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "peak_score": 96.61,
+      "max_views": 16905,
+      "max_likes": 211,
+      "max_comments": 52,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 96.61,
+          "max_views": 16905,
+          "max_likes": 211,
+          "max_comments": 52,
+          "appearances": 1,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+        }
+      },
+      "score": 106.13,
+      "views": 16905,
+      "likes": 211,
+      "comments": 52,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "재정파탄난 프랑스와 스페인",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76959233?m=humor",
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "peak_score": 94.79,
+      "max_views": 7675,
+      "max_likes": 58,
+      "max_comments": 43,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 94.79,
+          "max_views": 7675,
+          "max_likes": 58,
+          "max_comments": 43,
+          "appearances": 1,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+        }
+      },
+      "score": 104.31,
+      "views": 7675,
+      "likes": 58,
+      "comments": 43,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,12 +146,12 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 104.01,
+      "score": 103.61,
       "views": 13466,
       "likes": 146,
       "comments": 75,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "디시 아카가 자랑하는 '자유로운 커뮤니티' 는 사실 유게였던거 아님?",
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 102.92,
+      "score": 102.52,
       "views": 12940,
       "likes": 215,
       "comments": 93,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 9원",
@@ -154,12 +212,99 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 100.53,
+      "score": 100.13,
       "views": 49483,
       "likes": 204,
       "comments": 26,
       "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "허허 원시 고대 유게를 모르는 애들이 많구나",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958697?m=humor",
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "peak_score": 90.5,
+      "max_views": 6442,
+      "max_likes": 60,
+      "max_comments": 68,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 90.5,
+          "max_views": 6442,
+          "max_likes": 60,
+          "max_comments": 68,
+          "appearances": 1,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+        }
+      },
+      "score": 100.02,
+      "views": 6442,
+      "likes": 60,
+      "comments": 68,
+      "active_days": 1,
       "change": "NEW"
+    },
+    {
+      "title": "천안에 새로 생긴다는 휴먼루왁 카페",
+      "source": "인벤",
+      "category": "생활",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737973",
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "peak_score": 88.8,
+      "max_views": 2369,
+      "max_likes": 0,
+      "max_comments": 17,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 88.8,
+          "max_views": 2369,
+          "max_likes": 0,
+          "max_comments": 17,
+          "appearances": 1,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+        }
+      },
+      "score": 98.32,
+      "views": 2369,
+      "likes": 0,
+      "comments": 17,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "군 면제 인터뷰에 극대노 한 이경규.jpg",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468959&_dcbest=1&page=1",
+      "first_seen": "2026-10-09T02:33:14.081994+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "peak_score": 86.94,
+      "max_views": 14287,
+      "max_likes": 220,
+      "max_comments": 266,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 86.94,
+          "max_views": 14287,
+          "max_likes": 220,
+          "max_comments": 266,
+          "appearances": 2,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+        }
+      },
+      "score": 97.36,
+      "views": 14287,
+      "likes": 220,
+      "comments": 266,
+      "active_days": 1,
+      "change": 5
     },
     {
       "title": "중딩 아들 선물용 레고 샀습니다 ㅎㅎ",
@@ -167,225 +312,120 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145881",
       "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "peak_score": 86.6,
-      "max_views": 23138,
-      "max_likes": 9,
-      "max_comments": 75,
-      "appearances": 1,
+      "max_views": 30742,
+      "max_likes": 11,
+      "max_comments": 78,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-09": {
           "max_score": 86.6,
-          "max_views": 23138,
-          "max_likes": 9,
-          "max_comments": 75,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
+          "max_views": 30742,
+          "max_likes": 11,
+          "max_comments": 78,
+          "appearances": 2,
+          "last_seen": "2026-10-09T07:24:11.375041+09:00"
         }
       },
-      "score": 96.12,
-      "views": 23138,
-      "likes": 9,
-      "comments": 75,
+      "score": 97.02,
+      "views": 30742,
+      "likes": 11,
+      "comments": 78,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "거세거세 남자가 아닌 존재들",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468947&_dcbest=1&page=1",
-      "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 82.7,
-      "max_views": 19661,
-      "max_likes": 61,
-      "max_comments": 370,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 82.7,
-          "max_views": 19661,
-          "max_likes": 61,
-          "max_comments": 370,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 92.22,
-      "views": 19661,
-      "likes": 61,
-      "comments": 370,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "ㅎㅂ)회보찍는 스시국 인스타녀",
-      "source": "인벤",
-      "category": "연예",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737929",
-      "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 78.96,
-      "max_views": 4068,
-      "max_likes": 0,
-      "max_comments": 15,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 78.96,
-          "max_views": 4068,
-          "max_likes": 0,
-          "max_comments": 15,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 88.48,
-      "views": 4068,
-      "likes": 0,
-      "comments": 15,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "직장 선배분이 갑작스럽게 돌아 가셨습니다.",
-      "source": "클리앙",
-      "category": "생활",
-      "url": "https://www.clien.net/service/board/park/19275235?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 78.66,
-      "max_views": 1682,
-      "max_likes": 8,
-      "max_comments": 4,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 78.66,
-          "max_views": 1682,
-          "max_likes": 8,
-          "max_comments": 4,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 88.18,
-      "views": 1682,
-      "likes": 8,
-      "comments": 4,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "폴리주를 훔친 말포이",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468933&_dcbest=1&page=1",
-      "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 76.81,
-      "max_views": 17395,
-      "max_likes": 408,
-      "max_comments": 191,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 76.81,
-          "max_views": 17395,
-          "max_likes": 408,
-          "max_comments": 191,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 86.33,
-      "views": 17395,
-      "likes": 408,
-      "comments": 191,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "실시간 쿠팡 서버 터짐",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4369562698",
-      "first_seen": "2026-10-09T02:33:14.081994+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 76.0,
-      "max_views": 20423,
-      "max_likes": 0,
-      "max_comments": 194,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 76.0,
-          "max_views": 20423,
-          "max_likes": 0,
-          "max_comments": 194,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 85.52,
-      "views": 20423,
-      "likes": 0,
-      "comments": 194,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -5
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145927",
+      "source": "디시인사이드",
+      "title": "군 면제 인터뷰에 극대노 한 이경규.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468959&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 25137,
-      "likes": 3,
-      "comments": 55,
-      "score": 64.9,
-      "change": 28,
-      "current_rank": 39,
+      "views": 14287,
+      "likes": 220,
+      "comments": 266,
+      "score": 86.94,
+      "change": 9,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 12849,
-      "delta_likes": 1,
-      "delta_comments": 26,
-      "rank_gain": 28,
-      "rising_score": 100.0,
+      "delta_views": 10181,
+      "delta_likes": 150,
+      "delta_comments": 167,
+      "rank_gain": 9,
+      "rising_score": 94.38,
       "rising_rank": 1,
-      "window_minutes": 389
+      "window_minutes": 291
     },
     {
       "source": "디시인사이드",
-      "title": "안싱글벙글 개물림 사고(강아지사망) 당했습니다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468885&_dcbest=1&page=1",
+      "title": "싱글벙글 요즘 한국에서 은글슬쩍 유행하는 그림체",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468957&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 25602,
-      "likes": 129,
-      "comments": 522,
-      "score": 53.55,
-      "change": 0,
-      "current_rank": 89,
+      "views": 16736,
+      "likes": 55,
+      "comments": 111,
+      "score": 74.56,
+      "change": 21,
+      "current_rank": 13,
       "new_entry": false,
-      "delta_views": 10114,
-      "delta_likes": 65,
-      "delta_comments": 212,
-      "rank_gain": 0,
-      "rising_score": 100.0,
+      "delta_views": 9745,
+      "delta_likes": 27,
+      "delta_comments": 65,
+      "rank_gain": 21,
+      "rising_score": 87.86,
       "rising_rank": 2,
-      "window_minutes": 389
+      "window_minutes": 291
+    },
+    {
+      "source": "디시인사이드",
+      "title": "MBC) 보호복 타들어가는 느낌...반도체 노동자의 비극",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468961&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 9097,
+      "likes": 31,
+      "comments": 236,
+      "score": 74.14,
+      "change": 30,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 6954,
+      "delta_likes": 20,
+      "delta_comments": 162,
+      "rank_gain": 30,
+      "rising_score": 85.42,
+      "rising_rank": 3,
+      "window_minutes": 291
+    },
+    {
+      "source": "더쿠",
+      "title": "강호동 아들 시후군 근황",
+      "url": "https://theqoo.net/hot/4369490902",
+      "category": "이슈",
+      "views": 75679,
+      "likes": 0,
+      "comments": 510,
+      "score": 71.89,
+      "change": 0,
+      "current_rank": 18,
+      "new_entry": false,
+      "delta_views": 23567,
+      "delta_likes": 0,
+      "delta_comments": 47,
+      "rank_gain": 0,
+      "rising_score": 84.19,
+      "rising_rank": 4,
+      "window_minutes": 291
     },
     {
       "source": "루리웹",
-      "title": "트릭컬,ㅇㅂ주의)일베작가 해명문보니 웃기네",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76956558?m=humor",
-      "category": "유머",
-      "views": 17168,
-      "likes": 289,
-      "comments": 117,
-      "score": 98.95,
+      "title": "ㅇㅂ 작가 사건 제일 무서운 댓글",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958748?m=humor",
+      "category": "이슈",
+      "views": 16905,
+      "likes": 211,
+      "comments": 52,
+      "score": 96.61,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -393,19 +433,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 3,
-      "window_minutes": 389
+      "rising_score": 82.58,
+      "rising_rank": 5,
+      "window_minutes": 291
     },
     {
       "source": "루리웹",
-      "title": "유해진, 남우주연상 수상에도 시상식 불참.webp",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76955456?m=humor",
+      "title": "재정파탄난 프랑스와 스페인",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76959233?m=humor",
       "category": "이슈",
-      "views": 13466,
-      "likes": 146,
-      "comments": 75,
-      "score": 94.49,
+      "views": 7675,
+      "likes": 58,
+      "comments": 43,
+      "score": 94.79,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -413,19 +453,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.69,
-      "rising_rank": 4,
-      "window_minutes": 389
+      "rising_score": 81.81,
+      "rising_rank": 6,
+      "window_minutes": 291
     },
     {
       "source": "루리웹",
-      "title": "디시 아카가 자랑하는 '자유로운 커뮤니티' 는 사실 유게였던거 아님?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76955090?m=humor",
+      "title": "허허 원시 고대 유게를 모르는 애들이 많구나",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958697?m=humor",
       "category": "이슈",
-      "views": 12940,
-      "likes": 215,
-      "comments": 93,
-      "score": 93.4,
+      "views": 6442,
+      "likes": 60,
+      "comments": 68,
+      "score": 90.5,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -433,19 +473,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.23,
-      "rising_rank": 5,
-      "window_minutes": 389
+      "rising_score": 80.01,
+      "rising_rank": 7,
+      "window_minutes": 291
     },
     {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 9원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107820",
-      "category": "이슈",
-      "views": 49483,
-      "likes": 204,
-      "comments": 26,
-      "score": 91.01,
+      "source": "인벤",
+      "title": "천안에 새로 생긴다는 휴먼루왁 카페",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737973",
+      "category": "생활",
+      "views": 2369,
+      "likes": 0,
+      "comments": 17,
+      "score": 88.8,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -453,39 +493,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.22,
-      "rising_rank": 6,
-      "window_minutes": 389
+      "rising_score": 79.3,
+      "rising_rank": 8,
+      "window_minutes": 291
     },
     {
-      "source": "뽐뿌",
-      "title": "중딩 아들 선물용 레고 샀습니다 ㅎㅎ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145881",
+      "source": "인벤",
+      "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737971",
       "category": "이슈",
-      "views": 23138,
-      "likes": 9,
-      "comments": 75,
-      "score": 86.6,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.37,
-      "rising_rank": 7,
-      "window_minutes": 389
-    },
-    {
-      "source": "디시인사이드",
-      "title": "거세거세 남자가 아닌 존재들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468947&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19661,
-      "likes": 61,
-      "comments": 370,
-      "score": 82.7,
+      "views": 2611,
+      "likes": 0,
+      "comments": 16,
+      "score": 86.87,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -493,52 +513,155 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.73,
-      "rising_rank": 8,
-      "window_minutes": 389
-    },
-    {
-      "source": "인벤",
-      "title": "ㅎㅂ)회보찍는 스시국 인스타녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737929",
-      "category": "연예",
-      "views": 4068,
-      "likes": 0,
-      "comments": 15,
-      "score": 78.96,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.16,
+      "rising_score": 78.49,
       "rising_rank": 9,
-      "window_minutes": 389
+      "window_minutes": 291
     },
     {
-      "source": "클리앙",
-      "title": "직장 선배분이 갑작스럽게 돌아 가셨습니다.",
-      "url": "https://www.clien.net/service/board/park/19275235?od=T31&po=0&category=0&groupCd=",
-      "category": "생활",
-      "views": 1682,
-      "likes": 8,
-      "comments": 4,
-      "score": 78.66,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "source": "디시인사이드",
+      "title": "거세거세 남자가 아닌 존재들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468947&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 26605,
+      "likes": 77,
+      "comments": 466,
+      "score": 82.25,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 6944,
+      "delta_likes": 16,
+      "delta_comments": 96,
       "rank_gain": 0,
-      "rising_score": 75.04,
+      "rising_score": 76.89,
       "rising_rank": 10,
-      "window_minutes": 389
+      "window_minutes": 291
     }
   ],
   "issues": [
+    {
+      "id": "ib765494c",
+      "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+      "keywords": [
+        "정부",
+        "우리",
+        "인사들과",
+        "미국",
+        "정치인들",
+        "입국이",
+        "막히고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.34,
+      "peak_score": 94.87,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737971",
+          "score": 86.87
+        },
+        {
+          "source": "클리앙",
+          "rank": 19,
+          "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+          "url": "https://www.clien.net/service/board/park/19275252?od=T31&po=0&category=0&groupCd=",
+          "score": 71.71
+        }
+      ],
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i8d54d86c",
+      "title": "[스팀] Ultimechs (무료)",
+      "keywords": [
+        "스팀",
+        "무료"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 98.33,
+      "peak_score": 88.86,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 8,
+          "title": "[스팀] Ultimechs (무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107876",
+          "score": 80.86
+        },
+        {
+          "source": "인벤",
+          "rank": 31,
+          "title": "스팀 무료 게임 - Pony Island",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737968",
+          "score": 64.52
+        }
+      ],
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i3ebdf053",
+      "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
+      "keywords": [
+        "김밥",
+        "집단",
+        "식중독"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.35,
+      "peak_score": 87.88,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 9,
+          "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737970",
+          "score": 79.88
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "김제 축제서 김밥 먹은 280명 집단 구토·설사…식중독 의심",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468937&_dcbest=1&page=1",
+          "score": 72.23
+        }
+      ],
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
     {
       "id": "i273326f6",
       "title": "강호동 아들 시후군 근황",
@@ -582,8 +705,8 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 4,
+      "change": -3
     },
     {
       "id": "ifd58168c",
@@ -620,8 +743,46 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 14
+      "rank": 5,
+      "change": -3
+    },
+    {
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 85.49,
+      "peak_score": 75.02,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 30,
+          "title": "트럼프, 폭스뉴스 폐업 경고..“계속..시청률 추락”",
+          "url": "https://www.clien.net/service/board/park/19275253?od=T31&po=0&category=0&groupCd=",
+          "score": 65.02
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "유럽의회에 '벌거벗은 트럼프' 등장‥백악관 침묵",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468923&_dcbest=1&page=1",
+          "score": 53.78
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i3597fd5d",
@@ -664,326 +825,535 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "id": "i68c59bfc",
+      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "할아버지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.88,
+      "peak_score": 66.41,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 72,
+          "title": "손녀가 쌍수하고 나타났을때 할머니 할아버지 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468939&_dcbest=1&page=1",
+          "score": 57.41
+        },
+        {
+          "source": "루리웹",
+          "rank": 93,
+          "title": "회사가지마까 할아버지 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76960157?m=humor_only&t=now",
+          "score": 53.76
+        }
+      ],
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i273326f6",
-      "title": "강호동 아들 시후군 근황",
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "강호동",
-        "아들"
+        "트럼프"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 82.05,
-      "peak_score": 82.05,
+      "score": 75.02,
+      "peak_score": 75.02,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 16,
-          "title": "강호동 아들 시후군 근황",
-          "url": "https://theqoo.net/hot/4369490902",
-          "score": 72.05
-        },
-        {
-          "source": "인벤",
-          "rank": 23,
-          "title": "강호동 선수시절 정장핏",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737935",
-          "score": 68.98
-        },
-        {
-          "source": "인벤",
-          "rank": 51,
-          "title": "강호동 아들 아형 대기실 왔을때 썰",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737936",
-          "score": 61.9
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "ifd58168c",
-      "title": "‘초등학교’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "초등학교"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.84,
-      "peak_score": 77.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 25,
-          "title": "2000년대 부산지역 초등학교 입학식때 했다는 문화",
-          "url": "https://theqoo.net/hot/4369549137",
-          "score": 68.84
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 39,
-          "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145927",
-          "score": 64.9
-        }
-      ],
-      "rank": 2,
-      "change": 6
-    },
-    {
-      "id": "i3597fd5d",
-      "title": "생일 선물이냐' 푸틴 생일날 대규모 공습‥어린이까지 대량 살상",
-      "keywords": [
-        "푸틴",
-        "생일날",
-        "어린이까지",
-        "생일",
-        "대량",
-        "선물이냐",
-        "대규모"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.84,
-      "peak_score": 73.84,
-      "appearances": 1,
-      "sources": [
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 38,
-          "title": "생일 선물이냐' 푸틴 생일날 대규모 공습‥어린이까지 대량 살상",
-          "url": "https://www.clien.net/service/board/park/19275226?od=T31&po=0&category=0&groupCd=",
-          "score": 65.84
+          "rank": 30,
+          "title": "트럼프, 폭스뉴스 폐업 경고..“계속..시청률 추락”",
+          "url": "https://www.clien.net/service/board/park/19275253?od=T31&po=0&category=0&groupCd=",
+          "score": 65.02
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "유럽의회에 '벌거벗은 트럼프' 등장‥백악관 침묵",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468923&_dcbest=1&page=1",
+          "score": 53.78
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "ib765494c",
+      "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+      "keywords": [
+        "정부",
+        "우리",
+        "인사들과",
+        "미국",
+        "정치인들",
+        "입국이",
+        "막히고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.87,
+      "peak_score": 94.87,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737971",
+          "score": 86.87
+        },
+        {
+          "source": "클리앙",
+          "rank": 19,
+          "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+          "url": "https://www.clien.net/service/board/park/19275252?od=T31&po=0&category=0&groupCd=",
+          "score": 71.71
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ib3876eed",
+      "title": "‘남자가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "남자가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.25,
+      "peak_score": 91.25,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "거세거세 남자가 아닌 존재들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468947&_dcbest=1&page=1",
+          "score": 82.25
         },
         {
           "source": "인벤",
-          "rank": 60,
-          "title": "생일 선물이냐\" 푸틴 생일날 대규모 공습‥어린이까지 대량 살상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737927",
-          "score": 59.7
+          "rank": 64,
+          "title": "잘생긴 남자가 엘리베이터에서 쳐다본다면?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737958",
+          "score": 58.78
         }
       ],
       "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i8d54d86c",
+      "title": "[스팀] Ultimechs (무료)",
+      "keywords": [
+        "스팀",
+        "무료"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.86,
+      "peak_score": 88.86,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 8,
+          "title": "[스팀] Ultimechs (무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107876",
+          "score": 80.86
+        },
+        {
+          "source": "인벤",
+          "rank": 31,
+          "title": "스팀 무료 게임 - Pony Island",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737968",
+          "score": 64.52
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i3ebdf053",
+      "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
+      "keywords": [
+        "김밥",
+        "집단",
+        "식중독"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.88,
+      "peak_score": 87.88,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 9,
+          "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737970",
+          "score": 79.88
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "김제 축제서 김밥 먹은 280명 집단 구토·설사…식중독 의심",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468937&_dcbest=1&page=1",
+          "score": 72.23
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i68c59bfc",
+      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "할아버지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 66.41,
+      "peak_score": 66.41,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 72,
+          "title": "손녀가 쌍수하고 나타났을때 할머니 할아버지 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468939&_dcbest=1&page=1",
+          "score": 57.41
+        },
+        {
+          "source": "루리웹",
+          "rank": 93,
+          "title": "회사가지마까 할아버지 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76960157?m=humor_only&t=now",
+          "score": 53.76
+        }
+      ],
+      "rank": 6,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "아들",
-      "score": 131.31,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 5,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한국",
-      "score": 123.05,
+      "keyword": "정부",
+      "score": 130.7,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 34,
+      "best_rank": 6,
       "sources": [
         "디시인사이드",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": 3
+      "rank": 1,
+      "change": "NEW"
     },
     {
-      "keyword": "강호동",
-      "score": 102.38,
+      "keyword": "무료",
+      "score": 129.18,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 16,
+      "source_count": 3,
+      "best_rank": 8,
       "sources": [
-        "더쿠",
+        "루리웹",
+        "뽐뿌",
         "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "게임",
+      "score": 117.36,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 31,
+      "sources": [
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "민주",
-      "score": 96.37,
-      "post_count": 2,
+      "keyword": "한국",
+      "score": 106.74,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 13,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 4,
+      "change": -2
+    },
+    {
+      "keyword": "정치인들",
+      "score": 106.34,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [
+        "막히고",
+        "미국",
+        "우리",
+        "인사들",
+        "입국"
+      ],
+      "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 95.68,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 39,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -4
-    },
-    {
-      "keyword": "초등학교",
-      "score": 93.28,
+      "keyword": "식중독",
+      "score": 104.27,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "김밥",
+        "집단"
+      ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "면제",
-      "score": 89.12,
+      "keyword": "스팀",
+      "score": 102.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 8,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "선물이냐",
-      "score": 88.06,
+      "keyword": "해외",
+      "score": 100.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 12,
       "sources": [
-        "인벤",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
-      "aliases": [
-        "공습",
-        "대규모",
-        "대량",
-        "살상",
-        "생일"
-      ],
+      "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "사고",
-      "score": 85.71,
-      "post_count": 3,
+      "keyword": "의심",
+      "score": 95.58,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 58,
+      "best_rank": 17,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "가격",
-      "score": 85.28,
+      "keyword": "돌파",
+      "score": 94.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 26,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "아닌",
+      "score": 93.41,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "트럼프",
+      "score": 89.96,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": 9
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "만에",
+      "score": 87.03,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "어떤",
+      "score": 82.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 37,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "성능",
+      "score": 81.86,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 51,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "트릭컬,ㅇㅂ주의)일베작가 해명문보니 웃기네",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76956558?m=humor",
-      "score": 98.95,
-      "views": 17168,
-      "comments": 117
-    },
-    {
-      "source": "뽐뿌",
-      "title": "중딩 아들 선물용 레고 샀습니다 ㅎㅎ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145881",
-      "score": 86.6,
-      "views": 23138,
-      "comments": 75
-    },
-    {
-      "source": "디시인사이드",
-      "title": "거세거세 남자가 아닌 존재들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468947&_dcbest=1&page=1",
-      "score": 82.7,
-      "views": 19661,
-      "comments": 370
+      "title": "ㅇㅂ 작가 사건 제일 무서운 댓글",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958748?m=humor",
+      "score": 96.61,
+      "views": 16905,
+      "comments": 52
     },
     {
       "source": "인벤",
-      "title": "ㅎㅂ)회보찍는 스시국 인스타녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737929",
-      "score": 78.96,
-      "views": 4068,
-      "comments": 15
+      "title": "천안에 새로 생긴다는 휴먼루왁 카페",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737973",
+      "score": 88.8,
+      "views": 2369,
+      "comments": 17
     },
     {
-      "source": "클리앙",
-      "title": "직장 선배분이 갑작스럽게 돌아 가셨습니다.",
-      "url": "https://www.clien.net/service/board/park/19275235?od=T31&po=0&category=0&groupCd=",
-      "score": 78.66,
-      "views": 1682,
-      "comments": 4
+      "source": "디시인사이드",
+      "title": "군 면제 인터뷰에 극대노 한 이경규.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468959&_dcbest=1&page=1",
+      "score": 86.94,
+      "views": 14287,
+      "comments": 266
+    },
+    {
+      "source": "뽐뿌",
+      "title": "너희들이 '그 어려운 여야 통합 해냈다'",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22718",
+      "score": 78.98,
+      "views": 11940,
+      "comments": 38
     },
     {
       "source": "더쿠",
-      "title": "실시간 쿠팡 서버 터짐",
+      "title": "실시간 쿠팡 서버 터짐 -> 현재 복구됨",
       "url": "https://theqoo.net/hot/4369562698",
-      "score": 76.0,
-      "views": 20423,
-      "comments": 194
+      "score": 76.84,
+      "views": 42340,
+      "comments": 228
+    },
+    {
+      "source": "클리앙",
+      "title": "미국 입국이 막히고 있는 우리 정부 인사들과 정치인들",
+      "url": "https://www.clien.net/service/board/park/19275252?od=T31&po=0&category=0&groupCd=",
+      "score": 71.71,
+      "views": 2406,
+      "comments": 9
     }
   ]
 }
