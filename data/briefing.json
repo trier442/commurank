@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-08",
   "label": "2026년 10월 08일",
-  "collected_at": "2026-10-08T08:32:39.904273+09:00",
+  "collected_at": "2026-10-08T11:52:47.411122+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘mbc’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘mbc’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #손흥민. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 15,
-    "keywords": 20,
-    "top100_views": 954826,
-    "top100_comments": 8592
+    "daily_issues": 20,
+    "keywords": 16,
+    "top100_views": 1103734,
+    "top100_comments": 12567
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "4개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#손흥민",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "손흥민"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 108.14,
+      "score": 107.86,
       "views": 25383,
       "likes": 162,
       "comments": 66,
@@ -88,12 +88,41 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 106.81,
+      "score": 106.53,
       "views": 13530,
       "likes": 146,
       "comments": 69,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "요즘 고등학교 상황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947000?m=humor",
+      "first_seen": "2026-10-08T07:57:08.417782+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
+      "peak_score": 95.83,
+      "max_views": 36261,
+      "max_likes": 133,
+      "max_comments": 76,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 95.83,
+          "max_views": 36261,
+          "max_likes": 133,
+          "max_comments": 76,
+          "appearances": 2,
+          "last_seen": "2026-10-08T11:52:47.411122+09:00"
+        }
+      },
+      "score": 106.25,
+      "views": 36261,
+      "likes": 133,
+      "comments": 76,
+      "active_days": 1,
+      "change": 1
     },
     {
       "title": "국산 다이어트약 평가가 ㅋㅋ",
@@ -117,39 +146,10 @@
           "last_seen": "2026-10-08T08:32:39.904273+09:00"
         }
       },
-      "score": 105.68,
+      "score": 105.41,
       "views": 15629,
       "likes": 112,
       "comments": 39,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "요즘 고등학교 상황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947000?m=humor",
-      "first_seen": "2026-10-08T07:57:08.417782+09:00",
-      "last_seen": "2026-10-08T07:57:08.417782+09:00",
-      "peak_score": 95.83,
-      "max_views": 10212,
-      "max_likes": 61,
-      "max_comments": 41,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 95.83,
-          "max_views": 10212,
-          "max_likes": 61,
-          "max_comments": 41,
-          "appearances": 1,
-          "last_seen": "2026-10-08T07:57:08.417782+09:00"
-        }
-      },
-      "score": 105.31,
-      "views": 10212,
-      "likes": 61,
-      "comments": 41,
       "active_days": 1,
       "change": -1
     },
@@ -175,12 +175,41 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 104.49,
+      "score": 104.21,
       "views": 11807,
       "likes": 80,
       "comments": 159,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "닌텐도 vs 블리자드 커뮤니티별 반응",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947973?m=humor",
+      "first_seen": "2026-10-08T11:52:47.411122+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
+      "peak_score": 94.37,
+      "max_views": 14411,
+      "max_likes": 50,
+      "max_comments": 129,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 94.37,
+          "max_views": 14411,
+          "max_likes": 50,
+          "max_comments": 129,
+          "appearances": 1,
+          "last_seen": "2026-10-08T11:52:47.411122+09:00"
+        }
+      },
+      "score": 103.89,
+      "views": 14411,
+      "likes": 50,
+      "comments": 129,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "중국 창신메모리 실사용 후기.jpg",
@@ -204,7 +233,7 @@
           "last_seen": "2026-10-08T03:52:22.165654+09:00"
         }
       },
-      "score": 103.79,
+      "score": 103.51,
       "views": 25592,
       "likes": 129,
       "comments": 84,
@@ -233,12 +262,41 @@
           "last_seen": "2026-10-08T04:25:39.605389+09:00"
         }
       },
-      "score": 103.29,
+      "score": 103.01,
       "views": 10205,
       "likes": 55,
       "comments": 94,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "홈플러스 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76948426?m=humor",
+      "first_seen": "2026-10-08T11:52:47.411122+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
+      "peak_score": 93.4,
+      "max_views": 16852,
+      "max_likes": 129,
+      "max_comments": 109,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-08": {
+          "max_score": 93.4,
+          "max_views": 16852,
+          "max_likes": 129,
+          "max_comments": 109,
+          "appearances": 1,
+          "last_seen": "2026-10-08T11:52:47.411122+09:00"
+        }
+      },
+      "score": 102.92,
+      "views": 16852,
+      "likes": 129,
+      "comments": 109,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "전시상태 아닌가 싶은 일본 학교급식",
@@ -262,68 +320,10 @@
           "last_seen": "2026-10-08T08:32:39.904273+09:00"
         }
       },
-      "score": 103.14,
+      "score": 102.87,
       "views": 15085,
       "likes": 64,
       "comments": 42,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "종부세가 너무 많이 나와서 포장마차한다는 아줌마",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76946779?m=humor",
-      "first_seen": "2026-10-08T07:57:08.417782+09:00",
-      "last_seen": "2026-10-08T07:57:08.417782+09:00",
-      "peak_score": 93.42,
-      "max_views": 11797,
-      "max_likes": 109,
-      "max_comments": 35,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 93.42,
-          "max_views": 11797,
-          "max_likes": 109,
-          "max_comments": 35,
-          "appearances": 1,
-          "last_seen": "2026-10-08T07:57:08.417782+09:00"
-        }
-      },
-      "score": 102.9,
-      "views": 11797,
-      "likes": 109,
-      "comments": 35,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "우크라이나 장관 : 한국때문에 우리 작전이 무너졌다.",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76946789?m=humor",
-      "first_seen": "2026-10-08T07:57:08.417782+09:00",
-      "last_seen": "2026-10-08T07:57:08.417782+09:00",
-      "peak_score": 93.06,
-      "max_views": 10742,
-      "max_likes": 60,
-      "max_comments": 37,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-08": {
-          "max_score": 93.06,
-          "max_views": 10742,
-          "max_likes": 60,
-          "max_comments": 37,
-          "appearances": 1,
-          "last_seen": "2026-10-08T07:57:08.417782+09:00"
-        }
-      },
-      "score": 102.54,
-      "views": 10742,
-      "likes": 60,
-      "comments": 37,
       "active_days": 1,
       "change": -2
     }
@@ -334,110 +334,30 @@
       "title": "[단독] '15살 차' 지창욱·NCT 위시 시온, 일본 동반 여행…새 예능 '오지상과 미소년' 촬영 완료",
       "url": "https://theqoo.net/hot/4368681907",
       "category": "생활",
-      "views": 21520,
+      "views": 55819,
       "likes": 0,
-      "comments": 337,
-      "score": 75.0,
-      "change": 7,
-      "current_rank": 12,
+      "comments": 777,
+      "score": 64.58,
+      "change": 0,
+      "current_rank": 35,
       "new_entry": false,
-      "delta_views": 15187,
+      "delta_views": 34299,
       "delta_likes": 0,
-      "delta_comments": 215,
-      "rank_gain": 7,
-      "rising_score": 90.14,
+      "delta_comments": 440,
+      "rank_gain": 0,
+      "rising_score": 87.5,
       "rising_rank": 1,
-      "window_minutes": 36
-    },
-    {
-      "source": "디시인사이드",
-      "title": "오마카세는 왜? 조희대 \"좋은 음식 먹고싶어서\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468700&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 4169,
-      "likes": 46,
-      "comments": 182,
-      "score": 69.12,
-      "change": 12,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 1891,
-      "delta_likes": 9,
-      "delta_comments": 87,
-      "rank_gain": 12,
-      "rising_score": 86.96,
-      "rising_rank": 2,
-      "window_minutes": 36
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 실제로 자이니치들이 많은 분야.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468702&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12801,
-      "likes": 44,
-      "comments": 42,
-      "score": 69.56,
-      "change": 0,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 2453,
-      "delta_likes": 6,
-      "delta_comments": 17,
-      "rank_gain": 0,
-      "rising_score": 83.9,
-      "rising_rank": 3,
-      "window_minutes": 36
-    },
-    {
-      "source": "인벤",
-      "title": "빠따누나 ㅇㅎ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737556",
-      "category": "이슈",
-      "views": 3538,
-      "likes": 6,
-      "comments": 16,
-      "score": 67.92,
-      "change": 3,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 1696,
-      "delta_likes": 4,
-      "delta_comments": 10,
-      "rank_gain": 3,
-      "rising_score": 83.57,
-      "rising_rank": 4,
-      "window_minutes": 36
-    },
-    {
-      "source": "디시인사이드",
-      "title": "회계팀, 인사팀이 줄퇴사 하는데 어떻게 하면 좋을까요?",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468698&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 7032,
-      "likes": 9,
-      "comments": 34,
-      "score": 57.26,
-      "change": 0,
-      "current_rank": 77,
-      "new_entry": false,
-      "delta_views": 2913,
-      "delta_likes": 5,
-      "delta_comments": 13,
-      "rank_gain": 0,
-      "rising_score": 82.54,
-      "rising_rank": 5,
-      "window_minutes": 36
+      "window_minutes": 200
     },
     {
       "source": "루리웹",
-      "title": "국산 다이어트약 평가가 ㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947134?m=humor",
-      "category": "유머",
-      "views": 15629,
-      "likes": 112,
-      "comments": 39,
-      "score": 96.16,
+      "title": "요즘 고등학교 상황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947000?m=humor",
+      "category": "이슈",
+      "views": 36261,
+      "likes": 133,
+      "comments": 76,
+      "score": 95.73,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -445,59 +365,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.39,
-      "rising_rank": 6,
-      "window_minutes": 36
+      "rising_score": 82.21,
+      "rising_rank": 2,
+      "window_minutes": 200
     },
     {
       "source": "디시인사이드",
-      "title": "훌쩍훌쩍 군대에서 죽은 전국 수능 차석 서울대생..",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
+      "title": "싱글벙글 미국 PC주의가 몰락한 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468712&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 30998,
-      "likes": 341,
-      "comments": 593,
-      "score": 79.75,
+      "views": 26441,
+      "likes": 175,
+      "comments": 232,
+      "score": 72.63,
       "change": 0,
-      "current_rank": 6,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 1505,
-      "delta_likes": 17,
-      "delta_comments": 16,
+      "delta_views": 12294,
+      "delta_likes": 111,
+      "delta_comments": 197,
       "rank_gain": 0,
-      "rising_score": 81.82,
-      "rising_rank": 7,
-      "window_minutes": 36
-    },
-    {
-      "source": "인벤",
-      "title": "일본, 중국이 한자 포기 못하는 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737562",
-      "category": "이슈",
-      "views": 2322,
-      "likes": 3,
-      "comments": 13,
-      "score": 67.48,
-      "change": 33,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 1478,
-      "delta_likes": 3,
-      "delta_comments": 10,
-      "rank_gain": 33,
-      "rising_score": 81.39,
-      "rising_rank": 8,
-      "window_minutes": 36
+      "rising_score": 81.75,
+      "rising_rank": 3,
+      "window_minutes": 200
     },
     {
       "source": "루리웹",
-      "title": "전시상태 아닌가 싶은 일본 학교급식",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76946995?m=humor",
-      "category": "이슈",
-      "views": 15085,
-      "likes": 64,
-      "comments": 42,
-      "score": 93.62,
+      "title": "닌텐도 vs 블리자드 커뮤니티별 반응",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947973?m=humor",
+      "category": "게임",
+      "views": 14411,
+      "likes": 50,
+      "comments": 129,
+      "score": 94.37,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -505,29 +405,129 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.32,
-      "rising_rank": 9,
-      "window_minutes": 36
+      "rising_score": 81.64,
+      "rising_rank": 4,
+      "window_minutes": 200
     },
     {
-      "source": "인벤",
-      "title": "은근히 많다는 신입사원이 실수하는 유형",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737570",
+      "source": "루리웹",
+      "title": "홈플러스 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76948426?m=humor",
       "category": "이슈",
-      "views": 2075,
-      "likes": 3,
-      "comments": 6,
-      "score": 72.36,
-      "change": 31,
-      "current_rank": 15,
-      "new_entry": false,
-      "delta_views": 1717,
-      "delta_likes": 2,
-      "delta_comments": 5,
-      "rank_gain": 31,
-      "rising_score": 80.07,
+      "views": 16852,
+      "likes": 129,
+      "comments": 109,
+      "score": 93.4,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.23,
+      "rising_rank": 5,
+      "window_minutes": 200
+    },
+    {
+      "source": "디시인사이드",
+      "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 25063,
+      "likes": 616,
+      "comments": 608,
+      "score": 87.25,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.64,
+      "rising_rank": 6,
+      "window_minutes": 200
+    },
+    {
+      "source": "루리웹",
+      "title": "[네이버페이] 일일적립, 클릭 65원, 퀴즈미션, 라이브예고 7원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107842",
+      "category": "이슈",
+      "views": 27636,
+      "likes": 171,
+      "comments": 19,
+      "score": 87.12,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.59,
+      "rising_rank": 7,
+      "window_minutes": 200
+    },
+    {
+      "source": "디시인사이드",
+      "title": "계곡왕 이은해 근황.News",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468755&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11633,
+      "likes": 69,
+      "comments": 259,
+      "score": 82.94,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.83,
+      "rising_rank": 8,
+      "window_minutes": 200
+    },
+    {
+      "source": "더쿠",
+      "title": "[단독]유승호·임세주, 알고보니 장기연애 커플…6년째 열애 중",
+      "url": "https://theqoo.net/hot/4368803568",
+      "category": "이슈",
+      "views": 51392,
+      "likes": 0,
+      "comments": 367,
+      "score": 82.0,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.44,
+      "rising_rank": 9,
+      "window_minutes": 200
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[동원몰] MEGA릴레이페스타 1주차(~10/11) 참치캔 150g 15캔 특가! 100g당 1,200원",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304075",
+      "category": "이슈",
+      "views": 204,
+      "likes": 10,
+      "comments": 98,
+      "score": 80.16,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.67,
       "rising_rank": 10,
-      "window_minutes": 36
+      "window_minutes": 200
     }
   ],
   "issues": [
@@ -570,6 +570,52 @@
       "change": 0
     },
     {
+      "id": "i413fcde4",
+      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "손흥민"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 120.72,
+      "peak_score": 105.25,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+          "score": 87.25
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 10,
+          "title": "손흥민 & 양민혁 과거 인터뷰 수준.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
+          "score": 76.76
+        },
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "손흥민 주장 9년…92·96라인 갈등, 갈 데까지 갔다",
+          "url": "https://theqoo.net/hot/4368725620",
+          "score": 65.05
+        }
+      ],
+      "first_seen": "2026-10-08T11:52:47.411122+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i5791457f",
       "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -604,8 +650,8 @@
       "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i5781c296",
@@ -642,8 +688,8 @@
       "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ic3b280b7",
@@ -680,8 +726,46 @@
       "last_seen": "2026-10-08T07:57:08.417782+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "id": "i56bc6007",
+      "title": "‘이은해’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이은해"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.41,
+      "peak_score": 91.94,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "계곡왕 이은해 근황.News",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468755&_dcbest=1&page=1",
+          "score": 82.94
+        },
+        {
+          "source": "클리앙",
+          "rank": 99,
+          "title": "‘계곡 살인’ 이은해, 이번엔 구치소서 도박…판돈은 ‘우표’",
+          "url": "https://www.clien.net/service/board/park/19274909?od=T31&po=0&category=0&groupCd=",
+          "score": 50.47
+        }
+      ],
+      "first_seen": "2026-10-08T11:52:47.411122+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "ife021da2",
@@ -719,8 +803,8 @@
       "last_seen": "2026-10-08T08:32:39.904273+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i4aeaabb9",
@@ -757,8 +841,8 @@
       "last_seen": "2026-10-08T08:32:39.904273+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i0f001078",
@@ -795,131 +879,42 @@
       "last_seen": "2026-10-08T04:25:39.605389+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": -2
     },
     {
-      "id": "i1060e3b1",
-      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "조희대"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 91.61,
-      "peak_score": 79.12,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "오마카세는 왜? 조희대 \"좋은 음식 먹고싶어서\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468700&_dcbest=1&page=1",
-          "score": 69.12
-        },
-        {
-          "source": "인벤",
-          "rank": 30,
-          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737580",
-          "score": 64.77
-        }
-      ],
-      "first_seen": "2026-10-06T17:04:46.984922+09:00",
-      "last_seen": "2026-10-08T08:32:39.904273+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "i10990536",
-      "title": "삼성전자 3분기 잠정실적",
-      "keywords": [
-        "삼성전자",
-        "3분기",
-        "영업이익"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 89.65,
-      "peak_score": 79.18,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 26,
-          "title": "삼성전자 또 ‘신기록’…영업익 107조, 韓 최초 ‘100조 벽’ 깼다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737573",
-          "score": 67.18
-        },
-        {
-          "source": "클리앙",
-          "rank": 52,
-          "title": "[속보] 삼성전자, 3분기 영업이익 107조원…시장 전망치 부합",
-          "url": "https://www.clien.net/service/board/park/19274826?od=T31&po=0&category=0&groupCd=",
-          "score": 60.51
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "삼성전자 3분기 잠정실적",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737572",
-          "score": 64.41
-        }
-      ],
-      "first_seen": "2026-10-08T08:32:39.904273+09:00",
-      "last_seen": "2026-10-08T08:32:39.904273+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i2885ff88",
-      "title": "[단독]'민티' 방송 한 달 만에…론칭 주도한 메인 작가 하차",
-      "keywords": [
-        "주도한",
-        "작가",
-        "만에",
-        "론칭",
-        "단독"
+        "트럼프"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.2,
-      "peak_score": 76.73,
+      "score": 92.87,
+      "peak_score": 83.4,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 22,
-          "title": "[단독]'민티' 방송 한 달 만에…론칭 주도한 메인 작가 하차",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737571",
-          "score": 68.73
+          "source": "루리웹",
+          "rank": 14,
+          "title": "속보) 트럼프 \"조만간 미국은 무역필요없는나라될것\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76949184?m=humor_only&t=now",
+          "score": 74.4
         },
         {
-          "source": "뽐뿌",
-          "rank": 62,
-          "title": "[단독]'민티' 방송 한 달 만에..론칭 주도한 메인 작가 하차",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145505",
-          "score": 59.57
+          "source": "디시인사이드",
+          "rank": 61,
+          "title": "트럼프, 러시아 페스트 사고 정보 공개 압박",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468753&_dcbest=1&page=1",
+          "score": 58.43
         }
       ],
-      "first_seen": "2026-10-08T08:32:39.904273+09:00",
-      "last_seen": "2026-10-08T08:32:39.904273+09:00",
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-08T11:52:47.411122+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
@@ -928,58 +923,99 @@
   ],
   "realtime_issues": [
     {
-      "id": "i10990536",
-      "title": "삼성전자 3분기 잠정실적",
+      "id": "i413fcde4",
+      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "삼성전자",
-        "3분기",
-        "영업이익"
+        "손흥민"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 79.18,
-      "peak_score": 79.18,
+      "source_count": 3,
+      "post_count": 4,
+      "score": 105.25,
+      "peak_score": 105.25,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 26,
-          "title": "삼성전자 또 ‘신기록’…영업익 107조, 韓 최초 ‘100조 벽’ 깼다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737573",
-          "score": 67.18
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+          "score": 87.25
         },
         {
-          "source": "클리앙",
-          "rank": 52,
-          "title": "[속보] 삼성전자, 3분기 영업이익 107조원…시장 전망치 부합",
-          "url": "https://www.clien.net/service/board/park/19274826?od=T31&po=0&category=0&groupCd=",
-          "score": 60.51
+          "source": "뽐뿌",
+          "rank": 10,
+          "title": "손흥민 & 양민혁 과거 인터뷰 수준.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
+          "score": 76.76
         },
         {
-          "source": "인벤",
+          "source": "더쿠",
           "rank": 32,
-          "title": "삼성전자 3분기 잠정실적",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737572",
-          "score": 64.41
+          "title": "손흥민 주장 9년…92·96라인 갈등, 갈 데까지 갔다",
+          "url": "https://theqoo.net/hot/4368725620",
+          "score": 65.05
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i1060e3b1",
-      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i1b672c00",
+      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "조희대"
+        "치이카와"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 73.42,
+      "peak_score": 73.42,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 74,
+          "title": "(약후방) 트위터 난리난 변태 씹덕들 붙어서 괴랄해져간다는 치이카와 판",
+          "url": "https://theqoo.net/hot/4368653989",
+          "score": 56.42
+        },
+        {
+          "source": "루리웹",
+          "rank": 89,
+          "title": "극장판 치이카와 옵세션의 비밀.manwha",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76948844?m=humor_only&t=now",
+          "score": 53.32
+        },
+        {
+          "source": "클리앙",
+          "rank": 94,
+          "title": "치이카와 (먼작귀) 아실까요? 이게 엄청 인기인가 보네요",
+          "url": "https://www.clien.net/service/board/park/19274911?od=T31&po=0&category=0&groupCd=",
+          "score": 52.15
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "if8890818",
+      "title": "‘jtbc’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "jtbc"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 79.12,
-      "peak_score": 79.12,
+      "score": 81.85,
+      "peak_score": 81.85,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -988,172 +1024,135 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 20,
-          "title": "오마카세는 왜? 조희대 \"좋은 음식 먹고싶어서\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468700&_dcbest=1&page=1",
-          "score": 69.12
+          "rank": 17,
+          "title": "JTBC) 중국인 장예모 감독도 \"이건 창작의 자유\" 옹호",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468749&_dcbest=1&page=1",
+          "score": 71.85
         },
         {
           "source": "인벤",
-          "rank": 30,
-          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737580",
-          "score": 64.77
-        }
-      ],
-      "rank": 2,
-      "change": 1
-    },
-    {
-      "id": "i4998f359",
-      "title": "‘영업이익’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "영업이익"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 70.51,
-      "peak_score": 70.51,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 52,
-          "title": "[속보] 삼성전자, 3분기 영업이익 107조원…시장 전망치 부합",
-          "url": "https://www.clien.net/service/board/park/19274826?od=T31&po=0&category=0&groupCd=",
-          "score": 60.51
-        },
-        {
-          "source": "인벤",
-          "rank": 58,
-          "title": "삼성전자 3분기 영업이익 107조4000억원…국내 기업 최초 100조 돌파",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737582",
-          "score": 59.98
+          "rank": 88,
+          "title": "시장이 학생들 감쌌다…26만 명으로 커진 프랑스 시위 #소셜픽 / JTBC 아침&",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737641",
+          "score": 53.8
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i56bc6007",
+      "title": "‘이은해’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "난리난"
+        "이은해"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.84,
-      "peak_score": 84.84,
+      "score": 91.94,
+      "peak_score": 91.94,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "(약후방) 트위터 난리난 변태 씹덕들 붙어서 괴랄해져간다는 치이카와 판",
-          "url": "https://theqoo.net/hot/4368653989",
-          "score": 75.84
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "계곡왕 이은해 근황.News",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468755&_dcbest=1&page=1",
+          "score": 82.94
         },
         {
-          "source": "디시인사이드",
-          "rank": 63,
-          "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
-          "score": 59.51
+          "source": "클리앙",
+          "rank": 99,
+          "title": "‘계곡 살인’ 이은해, 이번엔 구치소서 도박…판돈은 ‘우표’",
+          "url": "https://www.clien.net/service/board/park/19274909?od=T31&po=0&category=0&groupCd=",
+          "score": 50.47
         }
       ],
       "rank": 4,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "id": "i4aeaabb9",
-      "title": "‘트위터’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "트위터"
+        "트럼프"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.84,
-      "peak_score": 84.84,
+      "score": 83.4,
+      "peak_score": 83.4,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "(약후방) 트위터 난리난 변태 씹덕들 붙어서 괴랄해져간다는 치이카와 판",
-          "url": "https://theqoo.net/hot/4368653989",
-          "score": 75.84
+          "source": "루리웹",
+          "rank": 14,
+          "title": "속보) 트럼프 \"조만간 미국은 무역필요없는나라될것\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76949184?m=humor_only&t=now",
+          "score": 74.4
         },
         {
-          "source": "루리웹",
-          "rank": 48,
-          "title": "태국에게 망언을 했던 아이치현 지사를 욕하는 일본 트위터.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76947493?m=humor_only&t=now",
-          "score": 60.75
+          "source": "디시인사이드",
+          "rank": 61,
+          "title": "트럼프, 러시아 페스트 사고 정보 공개 압박",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468753&_dcbest=1&page=1",
+          "score": 58.43
         }
       ],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "id": "i2885ff88",
-      "title": "[단독]'민티' 방송 한 달 만에…론칭 주도한 메인 작가 하차",
+      "id": "i1e941339",
+      "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "주도한",
-        "작가",
-        "만에",
-        "론칭",
-        "단독"
+        "중국인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.73,
-      "peak_score": 76.73,
+      "score": 80.85,
+      "peak_score": 80.85,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 22,
-          "title": "[단독]'민티' 방송 한 달 만에…론칭 주도한 메인 작가 하차",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737571",
-          "score": 68.73
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "JTBC) 중국인 장예모 감독도 \"이건 창작의 자유\" 옹호",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468749&_dcbest=1&page=1",
+          "score": 71.85
         },
         {
           "source": "뽐뿌",
-          "rank": 62,
-          "title": "[단독]'민티' 방송 한 달 만에..론칭 주도한 메인 작가 하차",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145505",
-          "score": 59.57
+          "rank": 59,
+          "title": "한국 지하철에서 중국인 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145661",
+          "score": 59.07
         }
       ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "id": "i6f021dfe",
-      "title": "‘107조’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9ff6bf96",
+      "title": "프랑스 여고생의 시위 연설",
       "keywords": [
-        "107조"
+        "프랑스",
+        "시위"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.18,
-      "peak_score": 76.18,
+      "score": 79.14,
+      "peak_score": 79.14,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1161,36 +1160,33 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 26,
-          "title": "삼성전자 또 ‘신기록’…영업익 107조, 韓 최초 ‘100조 벽’ 깼다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737573",
-          "score": 67.18
+          "source": "클리앙",
+          "rank": 20,
+          "title": "프랑스 여고생의 시위 연설",
+          "url": "https://www.clien.net/service/board/park/19274912?od=T31&po=0&category=0&groupCd=",
+          "score": 71.14
         },
         {
-          "source": "클리앙",
-          "rank": 85,
-          "title": "삼성전자 26년 3분기 영업이익 발표, 107조",
-          "url": "https://www.clien.net/service/board/park/19274825?od=T31&po=0&category=0&groupCd=",
-          "score": 55.48
+          "source": "인벤",
+          "rank": 88,
+          "title": "시장이 학생들 감쌌다…26만 명으로 커진 프랑스 시위 #소셜픽 / JTBC 아침&",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737641",
+          "score": 53.8
         }
       ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i9aca226b",
-      "title": "한국 금융권 해킹범, 26세 중국인.",
+      "id": "i62196098",
+      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "해킹범",
-        "26세",
-        "금융권",
-        "한국"
+        "김지용"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.94,
-      "peak_score": 75.94,
+      "score": 65.54,
+      "peak_score": 65.54,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1198,18 +1194,18 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 23,
-          "title": "한국 금융권 해킹범, 26세 중국인.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737576",
-          "score": 67.94
+          "source": "클리앙",
+          "rank": 73,
+          "title": "중수청장에 김지용 후보자가 임명되기를 바랍니다.",
+          "url": "https://www.clien.net/service/board/park/19274904?od=T31&po=0&category=0&groupCd=",
+          "score": 56.54
         },
         {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "한국 금융권 해킹범, 중국 광둥성 26세 추정…신원 단서 포착",
-          "url": "https://www.clien.net/service/board/park/19274842?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
+          "source": "인벤",
+          "rank": 96,
+          "title": "[속보] 김민석 “김지용 반대에 여당·공직자 절제 필요... 필요한 부분 당에서 제어”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737629",
+          "score": 51.91
         }
       ],
       "rank": 8,
@@ -1218,31 +1214,29 @@
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 172.33,
-      "post_count": 6,
-      "source_count": 4,
-      "best_rank": 2,
+      "keyword": "손흥민",
+      "score": 139.04,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 4,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
       "keyword": "단독",
-      "score": 155.13,
-      "post_count": 5,
-      "source_count": 4,
-      "best_rank": 12,
+      "score": 135.81,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 7,
       "sources": [
         "더쿠",
-        "뽐뿌",
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1250,196 +1244,187 @@
       "change": 0
     },
     {
-      "keyword": "중국",
-      "score": 125.4,
+      "keyword": "한국",
+      "score": 122.29,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 25,
+      "best_rank": 21,
       "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 6
+      "change": 4
     },
     {
-      "keyword": "만에",
-      "score": 114.25,
+      "keyword": "치이카",
+      "score": 105.79,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 22,
+      "best_rank": 74,
       "sources": [
-        "뽐뿌",
-        "인벤",
+        "더쿠",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 6
+      "change": "NEW"
     },
     {
-      "keyword": "프랑스",
-      "score": 110.05,
+      "keyword": "미국",
+      "score": 102.18,
       "post_count": 3,
-      "source_count": 3,
-      "best_rank": 55,
+      "source_count": 2,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
-      "change": 7
+      "change": "NEW"
     },
     {
-      "keyword": "삼성전자",
-      "score": 108.32,
-      "post_count": 5,
+      "keyword": "커플",
+      "score": 100.67,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 7,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 103.64,
-      "post_count": 3,
+      "keyword": "많이",
+      "score": 94.83,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 11,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "3분기",
-      "score": 99.45,
-      "post_count": 4,
+      "keyword": "jtbc",
+      "score": 94.29,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 17,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "많은",
-      "score": 99.3,
+      "keyword": "여고생",
+      "score": 94.25,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 20,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "조희대",
-      "score": 97.58,
-      "post_count": 3,
+      "keyword": "트럼프",
+      "score": 93.94,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 14,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -4
+      "change": "NEW"
     },
     {
-      "keyword": "트위터",
-      "score": 97.43,
+      "keyword": "이은해",
+      "score": 93.22,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 6,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 95.46,
+      "keyword": "중국인",
+      "score": 92.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 17,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 12,
-      "change": -7
-    },
-    {
-      "keyword": "동반",
-      "score": 94.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "금융권",
-      "score": 91.37,
+      "keyword": "프랑스",
+      "score": 86.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 20,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [
-        "26세",
-        "해킹범"
+        "시위"
       ],
+      "rank": 13,
+      "change": -8
+    },
+    {
+      "keyword": "오마카세",
+      "score": 82.37,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 62,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "주도한",
-      "score": 90.12,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 22,
+      "keyword": "사고",
+      "score": 78.82,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 12,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드"
       ],
-      "aliases": [
-        "론칭",
-        "메인",
-        "민티",
-        "방송",
-        "작가"
-      ],
+      "aliases": [],
       "rank": 15,
       "change": "NEW"
     }
@@ -1447,51 +1432,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "국산 다이어트약 평가가 ㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947134?m=humor",
-      "score": 96.16,
-      "views": 15629,
-      "comments": 39
-    },
-    {
-      "source": "더쿠",
-      "title": "\"과학적으로 증명된 최고의 엉덩이운동!\" 10분 후 엉덩이 근육 생기는 운동",
-      "url": "https://theqoo.net/hot/4368629972",
-      "score": 81.68,
-      "views": 35627,
-      "comments": 559
+      "title": "요즘 고등학교 상황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76947000?m=humor",
+      "score": 95.73,
+      "views": 36261,
+      "comments": 76
     },
     {
       "source": "디시인사이드",
-      "title": "훌쩍훌쩍 군대에서 죽은 전국 수능 차석 서울대생..",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468678&_dcbest=1&page=1",
-      "score": 79.75,
-      "views": 30998,
-      "comments": 593
+      "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+      "score": 87.25,
+      "views": 25063,
+      "comments": 608
+    },
+    {
+      "source": "더쿠",
+      "title": "[단독]유승호·임세주, 알고보니 장기연애 커플…6년째 열애 중",
+      "url": "https://theqoo.net/hot/4368803568",
+      "score": 82.0,
+      "views": 51392,
+      "comments": 367
     },
     {
       "source": "뽐뿌",
-      "title": "1년내내 마라톤 대회하는 이유, 돈벌이",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22689",
-      "score": 78.45,
-      "views": 11428,
-      "comments": 38
+      "title": "[동원몰] MEGA릴레이페스타 1주차(~10/11) 참치캔 150g 15캔 특가! 100g당 1,200원",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304075",
+      "score": 80.16,
+      "views": 204,
+      "comments": 98
     },
     {
       "source": "인벤",
-      "title": "한국 남자들은 일본여자에 대해 과대평 가하고 있다는 일본여자",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737578",
-      "score": 74.03,
-      "views": 862,
-      "comments": 16
+      "title": "욕 많이 먹는다는 원이",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737647",
+      "score": 76.55,
+      "views": 820,
+      "comments": 14
     },
     {
       "source": "클리앙",
-      "title": "서초동 나의가야.",
-      "url": "https://www.clien.net/service/board/park/19274836?od=T31&po=0&category=0&groupCd=",
-      "score": 72.72,
-      "views": 683,
-      "comments": 0
+      "title": "프랑스 여고생의 시위 연설",
+      "url": "https://www.clien.net/service/board/park/19274912?od=T31&po=0&category=0&groupCd=",
+      "score": 71.14,
+      "views": 2674,
+      "comments": 16
     }
   ]
 }
