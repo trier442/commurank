@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-09",
   "label": "2026년 10월 09일",
-  "collected_at": "2026-10-09T11:28:35.054057+09:00",
+  "collected_at": "2026-10-09T18:31:29.622627+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘싱글벙글 서버터진 쿠팡 실시간 근황’입니다. 실시간 키워드 상위: #한동훈. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘싱글벙글 서버터진 쿠팡 실시간 근황’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 16,
-    "keywords": 19,
-    "top100_views": 994117,
-    "top100_comments": 9036
+    "daily_issues": 20,
+    "keywords": 17,
+    "top100_views": 880189,
+    "top100_comments": 10516
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한동훈",
+      "title": "#한국",
       "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한동훈"
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,10 +59,39 @@
           "last_seen": "2026-10-09T11:28:35.054057+09:00"
         }
       },
-      "score": 108.9,
+      "score": 108.32,
       "views": 27559,
       "likes": 142,
       "comments": 69,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76962822?m=humor",
+      "first_seen": "2026-10-09T18:31:29.622627+09:00",
+      "last_seen": "2026-10-09T18:31:29.622627+09:00",
+      "peak_score": 98.08,
+      "max_views": 29253,
+      "max_likes": 277,
+      "max_comments": 68,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 98.08,
+          "max_views": 29253,
+          "max_likes": 277,
+          "max_comments": 68,
+          "appearances": 1,
+          "last_seen": "2026-10-09T18:31:29.622627+09:00"
+        }
+      },
+      "score": 107.6,
+      "views": 29253,
+      "likes": 277,
+      "comments": 68,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,7 +117,7 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 107.73,
+      "score": 107.14,
       "views": 17168,
       "likes": 289,
       "comments": 117,
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-09T07:24:11.375041+09:00"
         }
       },
-      "score": 105.8,
+      "score": 105.21,
       "views": 16905,
       "likes": 211,
       "comments": 52,
@@ -146,10 +175,39 @@
           "last_seen": "2026-10-09T11:28:35.054057+09:00"
         }
       },
-      "score": 105.29,
+      "score": 104.71,
       "views": 10867,
       "likes": 90,
       "comments": 64,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "이쯤되면 그냥 루리웹이 세계에서 가장 무서운 커뮤인거 아님?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76963794?m=humor",
+      "first_seen": "2026-10-09T18:31:29.622627+09:00",
+      "last_seen": "2026-10-09T18:31:29.622627+09:00",
+      "peak_score": 94.66,
+      "max_views": 15010,
+      "max_likes": 208,
+      "max_comments": 106,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-09": {
+          "max_score": 94.66,
+          "max_views": 15010,
+          "max_likes": 208,
+          "max_comments": 106,
+          "appearances": 1,
+          "last_seen": "2026-10-09T18:31:29.622627+09:00"
+        }
+      },
+      "score": 104.18,
+      "views": 15010,
+      "likes": 208,
+      "comments": 106,
       "active_days": 1,
       "change": "NEW"
     },
@@ -175,7 +233,7 @@
           "last_seen": "2026-10-09T07:24:11.375041+09:00"
         }
       },
-      "score": 103.98,
+      "score": 103.39,
       "views": 7675,
       "likes": 58,
       "comments": 43,
@@ -204,7 +262,7 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 103.27,
+      "score": 102.68,
       "views": 13466,
       "likes": 146,
       "comments": 75,
@@ -233,7 +291,7 @@
           "last_seen": "2026-10-09T02:33:14.081994+09:00"
         }
       },
-      "score": 102.18,
+      "score": 101.59,
       "views": 12940,
       "likes": 215,
       "comments": 93,
@@ -241,151 +299,45 @@
       "change": -2
     },
     {
-      "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 9원",
+      "title": "한국과 비슷한 부동산 정책을 다른나라에서 해본다면???",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107820",
-      "first_seen": "2026-10-07T05:22:13.835361+09:00",
-      "last_seen": "2026-10-09T02:33:14.081994+09:00",
-      "peak_score": 91.01,
-      "max_views": 49483,
-      "max_likes": 204,
-      "max_comments": 26,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-07": {
-          "max_score": 88.57,
-          "max_views": 11782,
-          "max_likes": 97,
-          "max_comments": 13,
-          "appearances": 1,
-          "last_seen": "2026-10-07T05:22:13.835361+09:00"
-        },
-        "2026-10-09": {
-          "max_score": 91.01,
-          "max_views": 49483,
-          "max_likes": 204,
-          "max_comments": 26,
-          "appearances": 1,
-          "last_seen": "2026-10-09T02:33:14.081994+09:00"
-        }
-      },
-      "score": 99.79,
-      "views": 49483,
-      "likes": 204,
-      "comments": 26,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "허허 원시 고대 유게를 모르는 애들이 많구나",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76958697?m=humor",
-      "first_seen": "2026-10-09T07:24:11.375041+09:00",
-      "last_seen": "2026-10-09T07:24:11.375041+09:00",
-      "peak_score": 90.5,
-      "max_views": 6442,
-      "max_likes": 60,
-      "max_comments": 68,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76965280?m=humor",
+      "first_seen": "2026-10-09T18:31:29.622627+09:00",
+      "last_seen": "2026-10-09T18:31:29.622627+09:00",
+      "peak_score": 91.59,
+      "max_views": 9933,
+      "max_likes": 58,
+      "max_comments": 102,
       "appearances": 1,
       "daily_stats": {
         "2026-10-09": {
-          "max_score": 90.5,
-          "max_views": 6442,
-          "max_likes": 60,
-          "max_comments": 68,
+          "max_score": 91.59,
+          "max_views": 9933,
+          "max_likes": 58,
+          "max_comments": 102,
           "appearances": 1,
-          "last_seen": "2026-10-09T07:24:11.375041+09:00"
+          "last_seen": "2026-10-09T18:31:29.622627+09:00"
         }
       },
-      "score": 99.69,
-      "views": 6442,
-      "likes": 60,
-      "comments": 68,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-      "first_seen": "2026-10-09T11:28:35.054057+09:00",
-      "last_seen": "2026-10-09T11:28:35.054057+09:00",
-      "peak_score": 89.29,
-      "max_views": 27862,
-      "max_likes": 145,
-      "max_comments": 266,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-09": {
-          "max_score": 89.29,
-          "max_views": 27862,
-          "max_likes": 145,
-          "max_comments": 266,
-          "appearances": 1,
-          "last_seen": "2026-10-09T11:28:35.054057+09:00"
-        }
-      },
-      "score": 98.81,
-      "views": 27862,
-      "likes": 145,
-      "comments": 266,
+      "score": 101.11,
+      "views": 9933,
+      "likes": 58,
+      "comments": 102,
       "active_days": 1,
       "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "한글날이라고 어플 이름 바꾼 뱅크샐러드",
-      "url": "https://theqoo.net/hot/4369594970",
-      "category": "이슈",
-      "views": 70214,
-      "likes": 0,
-      "comments": 431,
-      "score": 66.89,
-      "change": 4,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 58377,
-      "delta_likes": 0,
-      "delta_comments": 347,
-      "rank_gain": 4,
-      "rising_score": 85.56,
-      "rising_rank": 1,
-      "window_minutes": 244
-    },
-    {
-      "source": "디시인사이드",
-      "title": "군 면제 인터뷰에 극대노 한 이경규.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468959&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 21091,
-      "likes": 310,
-      "comments": 366,
-      "score": 65.08,
-      "change": 0,
-      "current_rank": 28,
-      "new_entry": false,
-      "delta_views": 6804,
-      "delta_likes": 90,
-      "delta_comments": 100,
-      "rank_gain": 0,
-      "rising_score": 85.56,
-      "rising_rank": 2,
-      "window_minutes": 244
-    },
-    {
       "source": "루리웹",
-      "title": "저격받은 작가 그래도 사과문은 올렷네",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76960106?m=humor",
+      "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76962822?m=humor",
       "category": "이슈",
-      "views": 27559,
-      "likes": 142,
-      "comments": 69,
-      "score": 99.38,
+      "views": 29253,
+      "likes": 277,
+      "comments": 68,
+      "score": 98.08,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -393,19 +345,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.74,
-      "rising_rank": 3,
-      "window_minutes": 244
+      "rising_score": 83.19,
+      "rising_rank": 1,
+      "window_minutes": 423
     },
     {
       "source": "루리웹",
-      "title": "“부캉이 하고 싶은 대로 해.. 구조 포기”",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76961491?m=humor",
+      "title": "이쯤되면 그냥 루리웹이 세계에서 가장 무서운 커뮤인거 아님?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76963794?m=humor",
       "category": "이슈",
-      "views": 10867,
-      "likes": 90,
-      "comments": 64,
-      "score": 95.77,
+      "views": 15010,
+      "likes": 208,
+      "comments": 106,
+      "score": 94.66,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -413,19 +365,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 4,
-      "window_minutes": 244
+      "rising_score": 81.76,
+      "rising_rank": 2,
+      "window_minutes": 423
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "한국과 비슷한 부동산 정책을 다른나라에서 해본다면???",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76965280?m=humor",
       "category": "이슈",
-      "views": 27862,
-      "likes": 145,
-      "comments": 266,
-      "score": 89.29,
+      "views": 9933,
+      "likes": 58,
+      "comments": 102,
+      "score": 91.59,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -433,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.5,
-      "rising_rank": 5,
-      "window_minutes": 244
+      "rising_score": 80.47,
+      "rising_rank": 3,
+      "window_minutes": 423
     },
     {
-      "source": "루리웹",
-      "title": "워해머40K 복귀 시점에서 길리먼이 개사기인 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76961567?m=humor",
+      "source": "뽐뿌",
+      "title": "추장군 쎄네요.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146887",
       "category": "이슈",
-      "views": 4504,
-      "likes": 42,
-      "comments": 57,
-      "score": 88.84,
+      "views": 7464,
+      "likes": 76,
+      "comments": 20,
+      "score": 83.23,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -453,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.31,
-      "rising_rank": 6,
-      "window_minutes": 244
+      "rising_score": 76.96,
+      "rising_rank": 4,
+      "window_minutes": 423
     },
     {
-      "source": "디시인사이드",
-      "title": "청래 비자발급 거부 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469009&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 11528,
-      "likes": 248,
-      "comments": 236,
-      "score": 87.02,
+      "source": "인벤",
+      "title": "대학 축제 무대에 일반인 난입",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2738205",
+      "category": "연예",
+      "views": 1475,
+      "likes": 3,
+      "comments": 24,
+      "score": 76.73,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -473,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.55,
-      "rising_rank": 7,
-      "window_minutes": 244
+      "rising_score": 74.23,
+      "rising_rank": 5,
+      "window_minutes": 423
     },
     {
-      "source": "디시인사이드",
-      "title": "오싹오싹 개인도 가능해진 죽은 인터넷 이론..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468993&_dcbest=1&page=1",
+      "source": "클리앙",
+      "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+      "url": "https://www.clien.net/service/board/park/19275472?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 26540,
-      "likes": 279,
-      "comments": 402,
-      "score": 85.89,
+      "views": 893,
+      "likes": 0,
+      "comments": 8,
+      "score": 76.61,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -493,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.07,
-      "rising_rank": 8,
-      "window_minutes": 244
+      "rising_score": 74.18,
+      "rising_rank": 6,
+      "window_minutes": 423
     },
     {
-      "source": "클리앙",
-      "title": "[속보] 추미애 '김지용, '한동훈 아이폰' 포렌식 비용 4억 승인 안해, 증거 은폐",
-      "url": "https://www.clien.net/service/board/park/19275315?od=T31&po=0&category=0&groupCd=",
+      "source": "더쿠",
+      "title": "최근 X에서 붐업돼서 여팬유입 늘은 유투버 반응",
+      "url": "https://theqoo.net/hot/4369915508",
       "category": "이슈",
-      "views": 2282,
-      "likes": 8,
-      "comments": 18,
-      "score": 81.17,
+      "views": 83503,
+      "likes": 0,
+      "comments": 505,
+      "score": 74.89,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -513,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.09,
-      "rising_rank": 9,
-      "window_minutes": 244
+      "rising_score": 73.45,
+      "rising_rank": 7,
+      "window_minutes": 423
     },
     {
-      "source": "루리웹",
-      "title": "[스팀] Pony Island 무료",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107883",
-      "category": "게임",
-      "views": 21662,
-      "likes": 71,
-      "comments": 2,
-      "score": 80.44,
+      "source": "디시인사이드",
+      "title": "싱글벙글 영국 역사에서 제일 중요한 문화재...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469087&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13784,
+      "likes": 74,
+      "comments": 97,
+      "score": 74.13,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -533,9 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.78,
+      "rising_score": 73.13,
+      "rising_rank": 8,
+      "window_minutes": 423
+    },
+    {
+      "source": "클리앙",
+      "title": "유럽도 맛이 가네요",
+      "url": "https://www.clien.net/service/board/park/19275460?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2287,
+      "likes": 0,
+      "comments": 12,
+      "score": 72.78,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.57,
+      "rising_rank": 9,
+      "window_minutes": 423
+    },
+    {
+      "source": "클리앙",
+      "title": "군대 = 남자로 태어난 죄",
+      "url": "https://www.clien.net/service/board/park/19275471?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 691,
+      "likes": 4,
+      "comments": 8,
+      "score": 72.76,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.56,
       "rising_rank": 10,
-      "window_minutes": 244
+      "window_minutes": 423
     }
   ],
   "issues": [
@@ -576,7 +568,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib765494c",
@@ -620,7 +612,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i62196098",
@@ -664,7 +656,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8d54d86c",
@@ -703,7 +695,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -2
+      "change": 0
     },
     {
       "id": "icf6262ec",
@@ -744,7 +736,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i3ebdf053",
@@ -784,7 +776,96 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -3
+      "change": 0
+    },
+    {
+      "id": "i70b9aed6",
+      "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+      "keywords": [
+        "유감",
+        "표명",
+        "아닌",
+        "외무부",
+        "갈등",
+        "우크라"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.08,
+      "peak_score": 84.61,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 6,
+          "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+          "url": "https://www.clien.net/service/board/park/19275472?od=T31&po=0&category=0&groupCd=",
+          "score": 76.61
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738206",
+          "score": 64.79
+        }
+      ],
+      "first_seen": "2026-10-09T18:31:29.622627+09:00",
+      "last_seen": "2026-10-09T18:31:29.622627+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 93.68,
+      "peak_score": 79.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 47,
+          "title": "위장을 밖으로 꺼내 장세척 하는 부캉이(와 글에 달린 댓글들)",
+          "url": "https://theqoo.net/hot/4369973629",
+          "score": 62.21
+        },
+        {
+          "source": "인벤",
+          "rank": 89,
+          "title": "소주 에디션까지 나온 부캉이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738194",
+          "score": 52.8
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 94,
+          "title": "국민 상어 부캉이, 새끼 낳았나",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469043&_dcbest=1&page=1",
+          "score": 52.13
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-09T18:31:29.622627+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i273326f6",
@@ -829,8 +910,8 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
-      "change": -3
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "icb33dad5",
@@ -867,179 +948,108 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
-    },
+      "rank": 10,
+      "change": -2
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "i3c9f989c",
-      "title": "‘한글날’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "한글날"
+        "부캉이"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.12,
-      "peak_score": 81.65,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "조국 원장 한글날 SNS .jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146589",
-          "score": 72.65
-        },
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "한글날.. 아이들과 청계천을 가볼까 합니다 .",
-          "url": "https://www.clien.net/service/board/park/19275328?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "first_seen": "2026-10-09T11:28:35.054057+09:00",
-      "last_seen": "2026-10-09T11:28:35.054057+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i7a4f439c",
-      "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-      "keywords": [
-        "입상자",
-        "단독",
-        "병역",
-        "예술",
-        "국내"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.0,
-      "peak_score": 78.53,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 79.21,
+      "peak_score": 79.21,
       "appearances": 1,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "인벤"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 16,
-          "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-          "url": "https://theqoo.net/hot/4369646940",
-          "score": 70.53
+          "rank": 47,
+          "title": "위장을 밖으로 꺼내 장세척 하는 부캉이(와 글에 달린 댓글들)",
+          "url": "https://theqoo.net/hot/4369973629",
+          "score": 62.21
         },
         {
           "source": "인벤",
-          "rank": 53,
-          "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738052",
-          "score": 59.98
-        }
-      ],
-      "first_seen": "2026-10-09T11:28:35.054057+09:00",
-      "last_seen": "2026-10-09T11:28:35.054057+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i62196098",
-      "title": "[속보] 추미애 '김지용, '한동훈 아이폰' 포렌식 비용 4억 승인 안해, 증거 은폐",
-      "keywords": [
-        "추미애",
-        "4억",
-        "김지용",
-        "한동훈",
-        "은폐",
-        "포렌식",
-        "아이폰"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 90.17,
-      "peak_score": 90.17,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 7,
-          "title": "[속보] 추미애 '김지용, '한동훈 아이폰' 포렌식 비용 4억 승인 안해, 증거 은폐",
-          "url": "https://www.clien.net/service/board/park/19275315?od=T31&po=0&category=0&groupCd=",
-          "score": 81.17
+          "rank": 89,
+          "title": "소주 에디션까지 나온 부캉이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738194",
+          "score": 52.8
         },
         {
-          "source": "뽐뿌",
-          "rank": 83,
-          "title": "[속보] 추미애 \"김지용, '한동훈 아이폰' 포렌식 비용 4억 승인 안해, 증거 은폐\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146573",
-          "score": 55.29
+          "source": "디시인사이드",
+          "rank": 94,
+          "title": "국민 상어 부캉이, 새끼 낳았나",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469043&_dcbest=1&page=1",
+          "score": 52.13
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "iae6b0123",
-      "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
+      "id": "ic34a2502",
+      "title": "속보) 노벨 평화상 남아공 나바네템 나비 필레이",
       "keywords": [
-        "실시간",
-        "쿠팡"
+        "나비",
+        "평화상",
+        "노벨",
+        "필라이"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.29,
-      "peak_score": 97.29,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 76.48,
+      "peak_score": 76.48,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 3,
-          "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-          "score": 89.29
+          "source": "인벤",
+          "rank": 49,
+          "title": "속보) 노벨 평화상 남아공 나바네템 나비 필레이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738211",
+          "score": 61.48
         },
         {
-          "source": "더쿠",
-          "rank": 75,
-          "title": "실시간 쿠팡 서버 터짐 -> 현재 복구됨",
-          "url": "https://theqoo.net/hot/4369562698",
-          "score": 56.58
+          "source": "디시인사이드",
+          "rank": 57,
+          "title": "2026 노벨 평화상: 나비 필라이(전 UN 인권고등판무관/ICC재판관)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469101&_dcbest=1&page=1",
+          "score": 60.68
+        },
+        {
+          "source": "루리웹",
+          "rank": 64,
+          "title": "[속보] 노벨평화상 나비 필라이 전 유엔 인권최고대표",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76966409?m=humor_only&t=now",
+          "score": 58.29
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "icf6262ec",
-      "title": "[스팀] Pony Island 무료",
+      "id": "i015a50b6",
+      "title": "‘롯데온’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "스팀",
-        "pony",
-        "island",
-        "무료"
+        "롯데온"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 88.44,
-      "peak_score": 88.44,
+      "post_count": 3,
+      "score": 76.52,
+      "peak_score": 76.52,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -1047,139 +1057,38 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 8,
-          "title": "[스팀] Pony Island 무료",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107883",
-          "score": 80.44
+          "source": "뽐뿌",
+          "rank": 35,
+          "title": "[롯데온] 백년가게 춘포수산 홍어회무침 1kg (12,990원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738992",
+          "score": 66.52
         },
         {
-          "source": "뽐뿌",
-          "rank": 21,
-          "title": "[스팀] Pony Island / 월드 오브 워쉽 Ning Hai 재배포 (무료/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=738935",
-          "score": 69.05
+          "source": "루리웹",
+          "rank": 42,
+          "title": "[롯데온]연세 고칼슘 두유검은콩+호두아몬드 180ml 48팩(17,550원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107890",
+          "score": 64.01
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i3c9f989c",
-      "title": "‘한글날’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i70b9aed6",
+      "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
       "keywords": [
-        "한글날"
+        "유감",
+        "표명",
+        "아닌",
+        "외무부",
+        "갈등",
+        "우크라"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.65,
-      "peak_score": 81.65,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "조국 원장 한글날 SNS .jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146589",
-          "score": 72.65
-        },
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "한글날.. 아이들과 청계천을 가볼까 합니다 .",
-          "url": "https://www.clien.net/service/board/park/19275328?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "icb33dad5",
-      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "sns"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.65,
-      "peak_score": 81.65,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "조국 원장 한글날 SNS .jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146589",
-          "score": 72.65
-        },
-        {
-          "source": "인벤",
-          "rank": 50,
-          "title": "어제자 김민석 더불어민주당 대표 SNS...jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738053",
-          "score": 60.4
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i7a4f439c",
-      "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-      "keywords": [
-        "입상자",
-        "단독",
-        "병역",
-        "예술",
-        "국내"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.53,
-      "peak_score": 78.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 16,
-          "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-          "url": "https://theqoo.net/hot/4369646940",
-          "score": 70.53
-        },
-        {
-          "source": "인벤",
-          "rank": 53,
-          "title": "[단독] 예술 병역 특례 86%가 국내 입상자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738052",
-          "score": 59.98
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "iaab2b0f0",
-      "title": "‘좌아하게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "좌아하게"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.94,
-      "peak_score": 70.94,
+      "score": 84.61,
+      "peak_score": 84.61,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1188,97 +1097,63 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 40,
-          "title": "김어준을 까기전에 좌아하게 단어 부터 생각해봅시다",
-          "url": "https://www.clien.net/service/board/park/19275301?od=T31&po=0&category=0&groupCd=",
-          "score": 61.94
+          "rank": 6,
+          "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+          "url": "https://www.clien.net/service/board/park/19275472?od=T31&po=0&category=0&groupCd=",
+          "score": 76.61
         },
         {
           "source": "인벤",
-          "rank": 44,
-          "title": "\"'좌아하게'는 일베 용어\"라는 김어준, 사실일까",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738031",
-          "score": 61.28
+          "rank": 39,
+          "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738206",
+          "score": 64.79
         }
       ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i11bc5a40",
-      "title": "‘없다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "없다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 66.29,
-      "peak_score": 66.29,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "GOTY에서 경쟁작들을 이겨본 적이 없다는 GTA 시리즈",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738034",
-          "score": 57.29
-        },
-        {
-          "source": "루리웹",
-          "rank": 89,
-          "title": "불륜논란이 1도 없다는 동호회.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76962061?m=humor_only&t=now",
-          "score": 54.46
-        }
-      ],
-      "rank": 8,
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한동훈",
-      "score": 129.37,
+      "keyword": "한국",
+      "score": 139.33,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 7,
+      "best_rank": 1,
       "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 16
     },
     {
-      "keyword": "스팀",
-      "score": 128.24,
+      "keyword": "일본",
+      "score": 134.8,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 8,
+      "best_rank": 1,
       "sources": [
+        "디시인사이드",
         "루리웹",
-        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 5
+      "change": "NEW"
     },
     {
-      "keyword": "증거",
-      "score": 126.0,
-      "post_count": 4,
+      "keyword": "우크라",
+      "score": 127.99,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 7,
+      "best_rank": 6,
       "sources": [
-        "루리웹",
         "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1286,105 +1161,105 @@
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 118.49,
+      "keyword": "나비",
+      "score": 114.48,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 16,
+      "best_rank": 49,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "부캉",
+      "score": 108.44,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 47,
       "sources": [
         "더쿠",
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 4,
+      "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 106.98,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 8,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -3
-    },
-    {
-      "keyword": "시점",
-      "score": 106.56,
+      "keyword": "외무부",
+      "score": 101.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 6,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "갈등",
+        "사과",
+        "아닌",
+        "유감",
+        "표명"
+      ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "island",
-      "score": 103.89,
-      "post_count": 2,
+      "keyword": "무료",
+      "score": 98.85,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 33,
       "sources": [
         "루리웹",
         "뽐뿌"
       ],
-      "aliases": [
-        "pony"
-      ],
+      "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "추미애",
-      "score": 102.74,
+      "keyword": "롯데온",
+      "score": 93.43,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 35,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "루리웹",
+        "뽐뿌"
       ],
-      "aliases": [
-        "4억",
-        "김지용"
-      ],
+      "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 99.25,
+      "keyword": "작가",
+      "score": 89.58,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 19,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
-      "aliases": [
-        "쿠팡"
-      ],
+      "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "라는",
-      "score": 98.51,
+      "keyword": "할인",
+      "score": 87.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 30,
       "sources": [
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1392,13 +1267,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "의혹",
-      "score": 97.08,
-      "post_count": 3,
+      "keyword": "김영광",
+      "score": 87.83,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 36,
       "sources": [
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1406,69 +1281,60 @@
       "change": "NEW"
     },
     {
-      "keyword": "한글날",
-      "score": 97.07,
-      "post_count": 3,
+      "keyword": "평화상",
+      "score": 86.62,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 49,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "노벨"
+      ],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "sns",
-      "score": 95.29,
+      "keyword": "영화",
+      "score": 86.6,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 20,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "아이폰",
-      "score": 95.09,
+      "keyword": "분노",
+      "score": 85.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 34,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [
-        "비용",
-        "승인",
-        "안해",
-        "은폐",
-        "포렌식"
-      ],
+      "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "입상자",
-      "score": 93.63,
+      "keyword": "필라",
+      "score": 84.38,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 57,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
-      "aliases": [
-        "국내",
-        "병역",
-        "예술",
-        "특례"
-      ],
+      "aliases": [],
       "rank": 15,
       "change": "NEW"
     }
@@ -1476,51 +1342,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "저격받은 작가 그래도 사과문은 올렷네",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76960106?m=humor",
-      "score": 99.38,
-      "views": 27559,
-      "comments": 69
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-      "score": 89.29,
-      "views": 27862,
-      "comments": 266
-    },
-    {
-      "source": "클리앙",
-      "title": "[속보] 추미애 '김지용, '한동훈 아이폰' 포렌식 비용 4억 승인 안해, 증거 은폐",
-      "url": "https://www.clien.net/service/board/park/19275315?od=T31&po=0&category=0&groupCd=",
-      "score": 81.17,
-      "views": 2282,
-      "comments": 18
+      "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76962822?m=humor",
+      "score": 98.08,
+      "views": 29253,
+      "comments": 68
     },
     {
       "source": "뽐뿌",
-      "title": "안아키 했던 엄마들의 후회",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146506",
-      "score": 77.72,
-      "views": 23478,
-      "comments": 66
-    },
-    {
-      "source": "더쿠",
-      "title": "미국에서 총살형을 생중계한대",
-      "url": "https://theqoo.net/hot/4369683979",
-      "score": 74.0,
-      "views": 19256,
-      "comments": 221
+      "title": "추장군 쎄네요.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146887",
+      "score": 83.23,
+      "views": 7464,
+      "comments": 20
     },
     {
       "source": "인벤",
-      "title": "글자수 제한이 만든 대참사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738036",
-      "score": 70.14,
-      "views": 1285,
-      "comments": 9
+      "title": "대학 축제 무대에 일반인 난입",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2738205",
+      "score": 76.73,
+      "views": 1475,
+      "comments": 24
+    },
+    {
+      "source": "클리앙",
+      "title": "우크라 외무부..韓에 사과 아닌 유감 표명…갈등, 합의 해석 차",
+      "url": "https://www.clien.net/service/board/park/19275472?od=T31&po=0&category=0&groupCd=",
+      "score": 76.61,
+      "views": 893,
+      "comments": 8
+    },
+    {
+      "source": "더쿠",
+      "title": "최근 X에서 붐업돼서 여팬유입 늘은 유투버 반응",
+      "url": "https://theqoo.net/hot/4369915508",
+      "score": 74.89,
+      "views": 83503,
+      "comments": 505
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 영국 역사에서 제일 중요한 문화재...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469087&_dcbest=1&page=1",
+      "score": 74.13,
+      "views": 13784,
+      "comments": 97
     }
   ]
 }
