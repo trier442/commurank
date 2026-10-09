@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-10T01:30:24.946350+09:00",
+  "collected_at": "2026-10-10T06:10:39.632663+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,15 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i123ff185",
-        "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "페이스북"
+          "이재명"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 85.63,
-        "peak_score": 85.63,
+        "post_count": 4,
+        "score": 85.86,
+        "peak_score": 85.86,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -29,19 +29,121 @@
           {
             "source": "뽐뿌",
             "rank": 9,
-            "title": "김창록 교수 페이스북.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
-            "score": 75.63
+            "title": "이재명 임기는 1년남았다봐야죠",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+            "score": 74.86
           },
           {
             "source": "인벤",
-            "rank": 11,
-            "title": "박은정 의원 페이스북",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2738335",
-            "score": 74.09
+            "rank": 14,
+            "title": "2016년 이재명 성남시장 SNS - 등 뒤에서 내리 꽂히는 비수. 아프다. 정말 아프다.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738342",
+            "score": 73.94
           }
         ],
         "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i0118d867",
+        "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "노벨평화상"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 106.54,
+        "peak_score": 106.54,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+            "score": 96.54
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+            "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+            "score": 66.31
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "iae209e51",
+        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "충격적인"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 81.51,
+        "peak_score": 81.51,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "새벽에 빵구우려 했다가 충격적인? 댓글을 봤네요.txt",
+            "url": "https://www.clien.net/service/board/park/19275602?od=T31&po=0&category=0&groupCd=",
+            "score": 72.51
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "충격적인) 위고비 마운자로 최근 연구결과 정리 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147313",
+            "score": 69.14
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ifd5a2cc3",
+        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "한국의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.5,
+        "peak_score": 71.5,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "외국인들 놀란 한국의 문 문화…‘쾅’ 닫히는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469157&_dcbest=1&page=1",
+            "score": 62.5
+          },
+          {
+            "source": "루리웹",
+            "rank": 95,
+            "title": "이름을 잃어버린 한국의 전통음료.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76971682?m=humor_only&t=now",
+            "score": 52.07
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -49,14 +151,14 @@
         "title": "축협회장 선거에 태클거는 피파",
         "keywords": [
           "태클거는",
+          "선거에",
           "축협회장",
-          "피파",
-          "선거에"
+          "피파"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 73.84,
-        "peak_score": 73.84,
+        "score": 59.56,
+        "peak_score": 59.56,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -65,24 +167,100 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 34,
+            "rank": 98,
             "title": "축협회장 선거에 태클거는 피파",
             "url": "https://www.clien.net/service/board/park/19275588?od=T31&po=0&category=0&groupCd=",
-            "score": 65.84
+            "score": 51.56
           },
           {
             "source": "인벤",
-            "rank": 95,
+            "rank": 100,
             "title": "축협회장 선거에 태클거는 피파",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738328",
             "score": 51.44
           }
         ],
-        "rank": 2,
-        "change": "NEW"
+        "rank": 5,
+        "change": -3
       }
     ],
     "daily": [
+      {
+        "id": "i0118d867",
+        "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "노벨평화상"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 117.01,
+        "peak_score": 106.54,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+            "score": 96.54
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+            "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+            "score": 66.31
+          }
+        ],
+        "first_seen": "2026-10-10T06:10:39.632663+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 97.33,
+        "peak_score": 85.86,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "이재명 임기는 1년남았다봐야죠",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+            "score": 74.86
+          },
+          {
+            "source": "인벤",
+            "rank": 14,
+            "title": "2016년 이재명 성남시장 SNS - 등 뒤에서 내리 꽂히는 비수. 아프다. 정말 아프다.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738342",
+            "score": 73.94
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 2,
+        "change": "NEW"
+      },
       {
         "id": "i123ff185",
         "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
@@ -118,7 +296,45 @@
         "last_seen": "2026-10-10T01:30:24.946350+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 1,
+        "rank": 3,
+        "change": -2
+      },
+      {
+        "id": "iae209e51",
+        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "충격적인"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.98,
+        "peak_score": 81.51,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "새벽에 빵구우려 했다가 충격적인? 댓글을 봤네요.txt",
+            "url": "https://www.clien.net/service/board/park/19275602?od=T31&po=0&category=0&groupCd=",
+            "score": 72.51
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "충격적인) 위고비 마운자로 최근 연구결과 정리 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147313",
+            "score": 69.14
+          }
+        ],
+        "first_seen": "2026-09-30T11:27:58.185526+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -126,15 +342,15 @@
         "title": "축협회장 선거에 태클거는 피파",
         "keywords": [
           "태클거는",
+          "선거에",
           "축협회장",
-          "피파",
-          "선거에"
+          "피파"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.31,
+        "score": 85.33,
         "peak_score": 73.84,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -142,24 +358,62 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 34,
+            "rank": 98,
             "title": "축협회장 선거에 태클거는 피파",
             "url": "https://www.clien.net/service/board/park/19275588?od=T31&po=0&category=0&groupCd=",
-            "score": 65.84
+            "score": 51.56
           },
           {
             "source": "인벤",
-            "rank": 95,
+            "rank": 100,
             "title": "축협회장 선거에 태클거는 피파",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738328",
             "score": 51.44
           }
         ],
         "first_seen": "2026-10-10T01:30:24.946350+09:00",
-        "last_seen": "2026-10-10T01:30:24.946350+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 5,
+        "change": -3
+      },
+      {
+        "id": "ifd5a2cc3",
+        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "한국의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.97,
+        "peak_score": 71.5,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "외국인들 놀란 한국의 문 문화…‘쾅’ 닫히는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469157&_dcbest=1&page=1",
+            "score": 62.5
+          },
+          {
+            "source": "루리웹",
+            "rank": 95,
+            "title": "이름을 잃어버린 한국의 전통음료.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76971682?m=humor_only&t=now",
+            "score": 52.07
+          }
+        ],
+        "first_seen": "2026-09-29T17:24:25.017696+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
         "change": "NEW"
       }
     ],
@@ -469,6 +723,44 @@
         "change": 0
       },
       {
+        "id": "i0118d867",
+        "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "노벨평화상"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 117.01,
+        "peak_score": 106.54,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+            "score": 96.54
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+            "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+            "score": 66.31
+          }
+        ],
+        "first_seen": "2026-10-10T06:10:39.632663+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
         "id": "i106465f0",
         "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -506,8 +798,8 @@
         "last_seen": "2026-10-07T22:16:07.179889+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i00705cf2",
@@ -546,8 +838,8 @@
         "last_seen": "2026-10-06T19:18:32.883997+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ide45eba0",
@@ -588,8 +880,8 @@
         "last_seen": "2026-10-08T20:03:47.708548+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i53a2e4b6",
@@ -627,8 +919,8 @@
         "last_seen": "2026-10-07T19:14:33.646935+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i8213e5c0",
@@ -666,8 +958,8 @@
         "last_seen": "2026-10-07T22:16:07.179889+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i73215f7c",
@@ -704,8 +996,8 @@
         "last_seen": "2026-10-07T00:15:15.763348+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "if8890818",
@@ -743,8 +1035,8 @@
         "last_seen": "2026-10-08T11:52:47.411122+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "id17d1547",
@@ -790,8 +1082,8 @@
         "last_seen": "2026-10-08T12:46:19.241908+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i51a99cec",
@@ -828,8 +1120,8 @@
         "last_seen": "2026-10-07T05:22:13.835361+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i64779620",
@@ -869,8 +1161,8 @@
         "last_seen": "2026-10-09T19:48:30.742386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i8b4085e0",
@@ -909,49 +1201,8 @@
         "last_seen": "2026-10-07T08:04:26.921509+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "iafce283e",
-        "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
-        "keywords": [
-          "분리배출",
-          "내년부터",
-          "의무화",
-          "우유팩"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 113.24,
-        "peak_score": 103.77,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "속보) 내년부터 공동주택 우유팩 분리배출 의무화.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76918893?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "내년부터 우유팩 분리배출 의무화",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736572",
-            "score": 55.63
-          }
-        ],
-        "first_seen": "2026-10-05T21:38:23.054976+09:00",
-        "last_seen": "2026-10-05T21:38:23.054976+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 19,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -960,10 +1211,10 @@
           "이재명"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 112.29,
+        "post_count": 4,
+        "score": 113.72,
         "peak_score": 93.3,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -972,23 +1223,23 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 14,
-            "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
-            "score": 74.44
+            "rank": 9,
+            "title": "이재명 임기는 1년남았다봐야죠",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+            "score": 74.86
           },
           {
             "source": "인벤",
-            "rank": 20,
-            "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
-            "score": 70.02
+            "rank": 14,
+            "title": "2016년 이재명 성남시장 SNS - 등 뒤에서 내리 꽂히는 비수. 아프다. 정말 아프다.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738342",
+            "score": 73.94
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-06T08:00:21.222028+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 4,
         "rank": 20,
         "change": 0
       }
@@ -1036,6 +1287,46 @@
         "change": 0
       },
       {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 129.62,
+        "peak_score": 100.45,
+        "appearances": 30,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "이재명 임기는 1년남았다봐야죠",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+            "score": 74.86
+          },
+          {
+            "source": "인벤",
+            "rank": 14,
+            "title": "2016년 이재명 성남시장 SNS - 등 뒤에서 내리 꽂히는 비수. 아프다. 정말 아프다.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738342",
+            "score": 73.94
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 2,
+        "change": 1
+      },
+      {
         "id": "i78f6419e",
         "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1073,48 +1364,8 @@
         "last_seen": "2026-10-06T19:18:32.883997+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 129.46,
-        "peak_score": 100.45,
-        "appearances": 29,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 14,
-            "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
-            "score": 74.44
-          },
-          {
-            "source": "인벤",
-            "rank": 20,
-            "title": "이재명 대통령을 귀한 줄 알아야 하는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736606",
-            "score": 70.02
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-06T08:00:21.222028+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 3,
-        "change": 0
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -1683,6 +1934,44 @@
         "change": 0
       },
       {
+        "id": "i0118d867",
+        "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "노벨평화상"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 117.01,
+        "peak_score": 106.54,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+            "score": 96.54
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+            "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+            "score": 66.31
+          }
+        ],
+        "first_seen": "2026-10-10T06:10:39.632663+09:00",
+        "last_seen": "2026-10-10T06:10:39.632663+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
         "id": "ifb9def44",
         "title": "‘양민혁’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1718,8 +2007,8 @@
         "last_seen": "2026-10-04T17:18:37.774835+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "ife3c822c",
@@ -1756,8 +2045,8 @@
         "last_seen": "2026-10-04T17:18:37.774835+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i64779620",
@@ -1798,47 +2087,8 @@
         "last_seen": "2026-10-09T19:48:30.742386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ic7c7aec6",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프",
-          "알래스카"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 115.91,
-        "peak_score": 106.44,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "트럼프 “韓 알래스카 LNG 투자 않으면 2배로 청구”",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76893468?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 53,
-            "title": "트럼프 \"한국이 알래스카 승인 안했다고? 괜찮아 떠블로 가\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467661&_dcbest=1&page=1",
-            "score": 60.74
-          }
-        ],
-        "first_seen": "2026-10-03T21:26:38.061970+09:00",
-        "last_seen": "2026-10-03T21:26:38.061970+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }
