@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-09T18:31:29.622627+09:00",
+  "collected_at": "2026-10-09T19:48:30.742386+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -674,6 +674,47 @@
       "change": 0
     },
     {
+      "id": "i64779620",
+      "title": "스페인 강제 퇴거 할머니 사망.jpg",
+      "keywords": [
+        "사망",
+        "강제",
+        "할머니",
+        "퇴거"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.08,
+      "peak_score": 104.61,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "스페인 강제 퇴거 할머니 사망.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76964959?m=humor",
+          "score": 96.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "sbs) '강제 퇴거' 할머니 끝내 사망...스페인사람들 더 커진 분노",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469095&_dcbest=1&page=1",
+          "score": 66.85
+        }
+      ],
+      "first_seen": "2026-10-01T11:11:46.951540+09:00",
+      "last_seen": "2026-10-09T19:48:30.742386+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
+    },
+    {
       "id": "i8b4085e0",
       "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -710,8 +751,8 @@
       "last_seen": "2026-10-07T08:04:26.921509+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "iafce283e",
@@ -751,8 +792,8 @@
       "last_seen": "2026-10-05T21:38:23.054976+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -790,46 +831,8 @@
       "last_seen": "2026-10-06T08:00:21.222028+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "if1498e47",
-      "title": "‘시리즈’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "시리즈"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 112.16,
-      "peak_score": 102.69,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "킹덤하츠 모든 시리즈 한국어화 예정 ㄷㄷㄷㄷㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76948930?m=humor",
-          "score": 93.69
-        },
-        {
-          "source": "인벤",
-          "rank": 94,
-          "title": "뉴욕타임스 선정 21세기 최고의 TV 시리즈",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737639",
-          "score": 52.8
-        }
-      ],
-      "first_seen": "2026-10-08T12:46:19.241908+09:00",
-      "last_seen": "2026-10-08T12:46:19.241908+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }

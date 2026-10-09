@@ -3,9 +3,50 @@
   "period": "daily",
   "key": "2026-10-09",
   "label": "2026년 10월 09일",
-  "collected_at": "2026-10-09T18:31:29.622627+09:00",
+  "collected_at": "2026-10-09T19:48:30.742386+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i64779620",
+      "title": "스페인 강제 퇴거 할머니 사망.jpg",
+      "keywords": [
+        "사망",
+        "강제",
+        "할머니",
+        "퇴거"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.08,
+      "peak_score": 104.61,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "스페인 강제 퇴거 할머니 사망.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76964959?m=humor",
+          "score": 96.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "sbs) '강제 퇴거' 할머니 끝내 사망...스페인사람들 더 커진 분노",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469095&_dcbest=1&page=1",
+          "score": 66.85
+        }
+      ],
+      "first_seen": "2026-10-01T11:11:46.951540+09:00",
+      "last_seen": "2026-10-09T19:48:30.742386+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "iae6b0123",
       "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
@@ -42,8 +83,8 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ib765494c",
@@ -86,8 +127,8 @@
       "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i62196098",
@@ -130,8 +171,8 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i8d54d86c",
@@ -169,8 +210,8 @@
       "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "icf6262ec",
@@ -210,8 +251,8 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i3ebdf053",
@@ -250,7 +291,46 @@
       "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 95.7,
+      "peak_score": 79.21,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 51,
+          "title": "아쿠아리움 된 부산?…부캉이 이어 새 손님 찾아왔다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469115&_dcbest=1&page=1",
+          "score": 61.5
+        },
+        {
+          "source": "더쿠",
+          "rank": 87,
+          "title": "위장을 밖으로 꺼내 장세척 하는 부캉이(와 글에 달린 댓글들)",
+          "url": "https://theqoo.net/hot/4369973629",
+          "score": 54.42
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-09T19:48:30.742386+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": 0
     },
     {
@@ -293,54 +373,8 @@
       "last_seen": "2026-10-09T18:31:29.622627+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 93.68,
-      "peak_score": 79.21,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 47,
-          "title": "위장을 밖으로 꺼내 장세척 하는 부캉이(와 글에 달린 댓글들)",
-          "url": "https://theqoo.net/hot/4369973629",
-          "score": 62.21
-        },
-        {
-          "source": "인벤",
-          "rank": 89,
-          "title": "소주 에디션까지 나온 부캉이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738194",
-          "score": 52.8
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 94,
-          "title": "국민 상어 부캉이, 새끼 낳았나",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469043&_dcbest=1&page=1",
-          "score": 52.13
-        }
-      ],
-      "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-09T18:31:29.622627+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i273326f6",
@@ -385,8 +419,8 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -423,8 +457,8 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i3c9f989c",
@@ -461,8 +495,8 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ic34a2502",
@@ -510,8 +544,8 @@
       "last_seen": "2026-10-09T18:31:29.622627+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i7a4f439c",
@@ -552,8 +586,47 @@
       "last_seen": "2026-10-09T11:28:35.054057+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -3
+      "rank": 14,
+      "change": -1
+    },
+    {
+      "id": "ie60effa4",
+      "title": "현재 파묘된 김영광 운전 습관",
+      "keywords": [
+        "운전",
+        "김영광"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.77,
+      "peak_score": 78.3,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 16,
+          "title": "현재 파묘된 김영광 운전 습관",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738232",
+          "score": 70.3
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "공중파에 나온 김영광 운전 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146845",
+          "score": 57.6
+        }
+      ],
+      "first_seen": "2026-10-09T19:48:30.742386+09:00",
+      "last_seen": "2026-10-09T19:48:30.742386+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
     },
     {
       "id": "ifd58168c",
@@ -590,8 +663,8 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -3
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "i015a50b6",
@@ -628,8 +701,8 @@
       "last_seen": "2026-10-09T18:31:29.622627+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "if553a5cf",
@@ -666,8 +739,8 @@
       "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": -4
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i3597fd5d",
@@ -710,122 +783,46 @@
       "last_seen": "2026-10-09T02:33:14.081994+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -4
+      "rank": 19,
+      "change": -2
     },
     {
-      "id": "iaab2b0f0",
-      "title": "‘좌아하게’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7ac9c329",
+      "title": "‘최태원’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "좌아하게"
+        "최태원"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 80.41,
-      "peak_score": 70.94,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 40,
-          "title": "김어준을 까기전에 좌아하게 단어 부터 생각해봅시다",
-          "url": "https://www.clien.net/service/board/park/19275301?od=T31&po=0&category=0&groupCd=",
-          "score": 61.94
-        },
-        {
-          "source": "인벤",
-          "rank": 44,
-          "title": "\"'좌아하게'는 일베 용어\"라는 김어준, 사실일까",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738031",
-          "score": 61.28
-        }
-      ],
-      "first_seen": "2026-10-01T14:33:16.710055+09:00",
-      "last_seen": "2026-10-09T11:28:35.054057+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -4
-    },
-    {
-      "id": "i68c59bfc",
-      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "할아버지"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.88,
-      "peak_score": 66.41,
+      "post_count": 3,
+      "score": 82.05,
+      "peak_score": 71.58,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "뽐뿌"
       ],
       "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "최태원 SK그룹 회장 근황 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146976",
+          "score": 61.58
+        },
         {
           "source": "디시인사이드",
-          "rank": 72,
-          "title": "손녀가 쌍수하고 나타났을때 할머니 할아버지 반응",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468939&_dcbest=1&page=1",
-          "score": 57.41
-        },
-        {
-          "source": "루리웹",
-          "rank": 93,
-          "title": "회사가지마까 할아버지 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76960157?m=humor_only&t=now",
-          "score": 53.76
+          "rank": 86,
+          "title": "최태원 \"용수•전력 안 갖춰져도 광주 팹 먼저 들어갈것\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469075&_dcbest=1&page=1",
+          "score": 55.05
         }
       ],
-      "first_seen": "2026-10-09T07:24:11.375041+09:00",
-      "last_seen": "2026-10-09T07:24:11.375041+09:00",
+      "first_seen": "2026-10-09T19:48:30.742386+09:00",
+      "last_seen": "2026-10-09T19:48:30.742386+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -4
-    },
-    {
-      "id": "i11bc5a40",
-      "title": "‘없다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "없다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.76,
-      "peak_score": 66.29,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "GOTY에서 경쟁작들을 이겨본 적이 없다는 GTA 시리즈",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738034",
-          "score": 57.29
-        },
-        {
-          "source": "루리웹",
-          "rank": 89,
-          "title": "불륜논란이 1도 없다는 동호회.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76962061?m=humor_only&t=now",
-          "score": 54.46
-        }
-      ],
-      "first_seen": "2026-10-09T11:28:35.054057+09:00",
-      "last_seen": "2026-10-09T11:28:35.054057+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 20,
-      "change": -4
+      "change": "NEW"
     }
   ]
 }
