@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-10",
   "label": "2026년 10월 10일",
-  "collected_at": "2026-10-10T08:05:19.721877+09:00",
+  "collected_at": "2026-10-10T09:56:04.775934+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #노벨평화상. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 13,
-    "keywords": 17,
-    "top100_views": 994887,
-    "top100_comments": 9745
+    "daily_issues": 18,
+    "keywords": 15,
+    "top100_views": 982167,
+    "top100_comments": 9687
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#노벨평화상",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "노벨평화상"
     }
   ],
   "top_posts": [
@@ -59,12 +59,41 @@
           "last_seen": "2026-10-10T08:05:19.721877+09:00"
         }
       },
-      "score": 108.09,
+      "score": 107.93,
       "views": 17864,
       "likes": 136,
       "comments": 55,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "군생활중 역대급 충격이었던 사건",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971910?m=humor",
+      "first_seen": "2026-10-10T09:56:04.775934+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
+      "peak_score": 97.29,
+      "max_views": 13855,
+      "max_likes": 63,
+      "max_comments": 58,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-10": {
+          "max_score": 97.29,
+          "max_views": 13855,
+          "max_likes": 63,
+          "max_comments": 58,
+          "appearances": 1,
+          "last_seen": "2026-10-10T09:56:04.775934+09:00"
+        }
+      },
+      "score": 106.81,
+      "views": 13855,
+      "likes": 63,
+      "comments": 58,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
@@ -88,12 +117,12 @@
           "last_seen": "2026-10-10T06:10:39.632663+09:00"
         }
       },
-      "score": 105.91,
+      "score": 105.75,
       "views": 15187,
       "likes": 138,
       "comments": 52,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "\"한국사회는 다문화가 아니라 만달로어식을 원한다.\"",
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-10T01:30:24.946350+09:00"
         }
       },
-      "score": 104.48,
+      "score": 104.32,
       "views": 16601,
       "likes": 108,
       "comments": 125,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "실제로 나처럼 일본 사는 유게이한테 술한잔 하자 쪽지 받아봄",
@@ -146,10 +175,39 @@
           "last_seen": "2026-10-10T08:05:19.721877+09:00"
         }
       },
-      "score": 104.46,
+      "score": 104.31,
       "views": 8261,
       "likes": 98,
       "comments": 48,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "일본 정부에서 표창받은 일본 학교 급식",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76972205?m=humor",
+      "first_seen": "2026-10-10T09:56:04.775934+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
+      "peak_score": 94.25,
+      "max_views": 10647,
+      "max_likes": 67,
+      "max_comments": 72,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-10": {
+          "max_score": 94.25,
+          "max_views": 10647,
+          "max_likes": 67,
+          "max_comments": 72,
+          "appearances": 1,
+          "last_seen": "2026-10-10T09:56:04.775934+09:00"
+        }
+      },
+      "score": 103.77,
+      "views": 10647,
+      "likes": 67,
+      "comments": 72,
       "active_days": 1,
       "change": "NEW"
     },
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-10T06:10:39.632663+09:00"
         }
       },
-      "score": 103.19,
+      "score": 103.03,
       "views": 14269,
       "likes": 66,
       "comments": 129,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "유럽 재무장관들 \"프랑스 국채위기 알아서 해결하라\"…ECB 개입 차단",
@@ -204,10 +262,39 @@
           "last_seen": "2026-10-10T01:30:24.946350+09:00"
         }
       },
-      "score": 102.88,
+      "score": 102.72,
       "views": 10579,
       "likes": 49,
       "comments": 85,
+      "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "사실 소년만화 라이벌 TS화는 문제점이 있는게",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971433?m=humor",
+      "first_seen": "2026-10-10T08:05:19.721877+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
+      "peak_score": 92.02,
+      "max_views": 10587,
+      "max_likes": 44,
+      "max_comments": 56,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-10": {
+          "max_score": 92.02,
+          "max_views": 10587,
+          "max_likes": 44,
+          "max_comments": 56,
+          "appearances": 2,
+          "last_seen": "2026-10-10T09:56:04.775934+09:00"
+        }
+      },
+      "score": 102.44,
+      "views": 10587,
+      "likes": 44,
+      "comments": 56,
       "active_days": 1,
       "change": -1
     },
@@ -217,247 +304,140 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
       "first_seen": "2026-10-10T06:10:39.632663+09:00",
-      "last_seen": "2026-10-10T08:05:19.721877+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
       "peak_score": 91.13,
-      "max_views": 23935,
-      "max_likes": 187,
-      "max_comments": 282,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-10": {
-          "max_score": 91.13,
-          "max_views": 23935,
-          "max_likes": 187,
-          "max_comments": 282,
-          "appearances": 2,
-          "last_seen": "2026-10-10T08:05:19.721877+09:00"
-        }
-      },
-      "score": 101.55,
-      "views": 23935,
-      "likes": 187,
-      "comments": 282,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "사실 소년만화 라이벌 TS화는 문제점이 있는게",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971433?m=humor",
-      "first_seen": "2026-10-10T08:05:19.721877+09:00",
-      "last_seen": "2026-10-10T08:05:19.721877+09:00",
-      "peak_score": 91.46,
-      "max_views": 7409,
-      "max_likes": 37,
-      "max_comments": 50,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-10": {
-          "max_score": 91.46,
-          "max_views": 7409,
-          "max_likes": 37,
-          "max_comments": 50,
-          "appearances": 1,
-          "last_seen": "2026-10-10T08:05:19.721877+09:00"
-        }
-      },
-      "score": 100.98,
-      "views": 7409,
-      "likes": 37,
-      "comments": 50,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "2027년에 애니화하는 한국작품 원작",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76969359?m=humor",
-      "first_seen": "2026-10-10T01:30:24.946350+09:00",
-      "last_seen": "2026-10-10T01:30:24.946350+09:00",
-      "peak_score": 90.83,
-      "max_views": 14875,
-      "max_likes": 25,
-      "max_comments": 69,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-10": {
-          "max_score": 90.83,
-          "max_views": 14875,
-          "max_likes": 25,
-          "max_comments": 69,
-          "appearances": 1,
-          "last_seen": "2026-10-10T01:30:24.946350+09:00"
-        }
-      },
-      "score": 99.81,
-      "views": 14875,
-      "likes": 25,
-      "comments": 69,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "안싱글벙글 오늘자 고속도로 사망사고",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-      "first_seen": "2026-10-10T01:30:24.946350+09:00",
-      "last_seen": "2026-10-10T08:05:19.721877+09:00",
-      "peak_score": 86.27,
-      "max_views": 31050,
-      "max_likes": 77,
-      "max_comments": 501,
+      "max_views": 26762,
+      "max_likes": 211,
+      "max_comments": 322,
       "appearances": 3,
       "daily_stats": {
         "2026-10-10": {
-          "max_score": 86.27,
-          "max_views": 31050,
-          "max_likes": 77,
-          "max_comments": 501,
+          "max_score": 91.13,
+          "max_views": 26762,
+          "max_likes": 211,
+          "max_comments": 322,
           "appearances": 3,
-          "last_seen": "2026-10-10T08:05:19.721877+09:00"
+          "last_seen": "2026-10-10T09:56:04.775934+09:00"
         }
       },
-      "score": 97.32,
-      "views": 31050,
-      "likes": 77,
-      "comments": 501,
+      "score": 102.18,
+      "views": 26762,
+      "likes": 211,
+      "comments": 322,
       "active_days": 1,
-      "change": -2
+      "change": -3
     }
   ],
   "rising": [
     {
       "source": "뽐뿌",
-      "title": "오늘 이재명 엑스 글 하트순 2번째 댓글",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146764",
+      "title": "오늘자 고속도로 제네시스 추돌 사망사고 ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979104",
       "category": "이슈",
-      "views": 7853,
-      "likes": 43,
-      "comments": 12,
-      "score": 58.25,
+      "views": 21819,
+      "likes": 8,
+      "comments": 123,
+      "score": 57.36,
       "change": 0,
-      "current_rank": 74,
+      "current_rank": 62,
       "new_entry": false,
-      "delta_views": 5991,
-      "delta_likes": 26,
-      "delta_comments": 4,
+      "delta_views": 14178,
+      "delta_likes": 4,
+      "delta_comments": 75,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 115
+      "window_minutes": 111
     },
     {
       "source": "루리웹",
-      "title": "한국 군필자, \"포를 쏘고 바로 덮는건 비현실적\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971188?m=humor",
+      "title": "사실 소년만화 라이벌 TS화는 문제점이 있는게",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971433?m=humor",
       "category": "이슈",
-      "views": 17864,
-      "likes": 136,
-      "comments": 55,
-      "score": 95.5,
+      "views": 10587,
+      "likes": 44,
+      "comments": 56,
+      "score": 92.02,
       "change": 0,
-      "current_rank": 1,
+      "current_rank": 3,
       "new_entry": false,
-      "delta_views": 4412,
-      "delta_likes": 11,
-      "delta_comments": 2,
+      "delta_views": 3178,
+      "delta_likes": 7,
+      "delta_comments": 6,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 2,
-      "window_minutes": 115
+      "window_minutes": 111
     },
     {
       "source": "디시인사이드",
-      "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23935,
-      "likes": 187,
-      "comments": 282,
-      "score": 84.69,
-      "change": 0,
-      "current_rank": 4,
+      "title": "용인 반도체 공사판 함바집 월매출 수준",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469203&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 6724,
+      "likes": 30,
+      "comments": 179,
+      "score": 63.55,
+      "change": 21,
+      "current_rank": 38,
       "new_entry": false,
-      "delta_views": 3545,
-      "delta_likes": 25,
-      "delta_comments": 41,
-      "rank_gain": 0,
-      "rising_score": 97.28,
+      "delta_views": 6292,
+      "delta_likes": 26,
+      "delta_comments": 171,
+      "rank_gain": 21,
+      "rising_score": 92.21,
       "rising_rank": 3,
-      "window_minutes": 115
+      "window_minutes": 111
     },
     {
       "source": "더쿠",
       "title": "교통사고로 사망한 초등학생의 진실",
       "url": "https://theqoo.net/hot/4370513118",
       "category": "이슈",
-      "views": 34961,
+      "views": 62598,
       "likes": 0,
-      "comments": 174,
-      "score": 75.0,
-      "change": 11,
-      "current_rank": 11,
-      "new_entry": false,
-      "delta_views": 21431,
-      "delta_likes": 0,
-      "delta_comments": 79,
-      "rank_gain": 11,
-      "rising_score": 93.85,
-      "rising_rank": 4,
-      "window_minutes": 115
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 애낳고 sns하면 안되는 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469149&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 35152,
-      "likes": 317,
-      "comments": 660,
-      "score": 67.8,
-      "change": 0,
-      "current_rank": 26,
-      "new_entry": false,
-      "delta_views": 2627,
-      "delta_likes": 21,
-      "delta_comments": 30,
-      "rank_gain": 0,
-      "rising_score": 85.41,
-      "rising_rank": 5,
-      "window_minutes": 115
-    },
-    {
-      "source": "디시인사이드",
-      "title": "안싱글벙글 오늘자 고속도로 사망사고",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 31050,
-      "likes": 77,
-      "comments": 501,
-      "score": 78.88,
-      "change": 0,
+      "comments": 296,
+      "score": 78.84,
+      "change": 5,
       "current_rank": 6,
       "new_entry": false,
-      "delta_views": 3176,
-      "delta_likes": 12,
-      "delta_comments": 32,
-      "rank_gain": 0,
-      "rising_score": 83.68,
-      "rising_rank": 6,
-      "window_minutes": 115
+      "delta_views": 27637,
+      "delta_likes": 0,
+      "delta_comments": 122,
+      "rank_gain": 5,
+      "rising_score": 83.33,
+      "rising_rank": 4,
+      "window_minutes": 111
     },
     {
       "source": "루리웹",
-      "title": "실제로 나처럼 일본 사는 유게이한테 술한잔 하자 쪽지 받아봄",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971451?m=humor",
+      "title": "군생활중 역대급 충격이었던 사건",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971910?m=humor",
       "category": "이슈",
-      "views": 8261,
-      "likes": 98,
-      "comments": 48,
-      "score": 94.94,
+      "views": 13855,
+      "likes": 63,
+      "comments": 58,
+      "score": 97.29,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.86,
+      "rising_rank": 5,
+      "window_minutes": 111
+    },
+    {
+      "source": "루리웹",
+      "title": "일본 정부에서 표창받은 일본 학교 급식",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76972205?m=humor",
+      "category": "이슈",
+      "views": 10647,
+      "likes": 67,
+      "comments": 72,
+      "score": 94.25,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -465,59 +445,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.87,
-      "rising_rank": 7,
-      "window_minutes": 115
+      "rising_score": 81.59,
+      "rising_rank": 6,
+      "window_minutes": 111
     },
     {
       "source": "루리웹",
-      "title": "사실 소년만화 라이벌 TS화는 문제점이 있는게",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971433?m=humor",
-      "category": "이슈",
-      "views": 7409,
-      "likes": 37,
-      "comments": 50,
-      "score": 91.46,
+      "title": "[스팀] Pony Island 무료",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107883",
+      "category": "게임",
+      "views": 40773,
+      "likes": 105,
+      "comments": 4,
+      "score": 83.15,
       "change": "NEW",
-      "current_rank": 3,
+      "current_rank": 4,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.41,
+      "rising_score": 76.92,
+      "rising_rank": 7,
+      "window_minutes": 111
+    },
+    {
+      "source": "디시인사이드",
+      "title": "사랑만 가지고 결혼하면 후회하는 이유.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469199&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7881,
+      "likes": 17,
+      "comments": 234,
+      "score": 62.01,
+      "change": 21,
+      "current_rank": 42,
+      "new_entry": false,
+      "delta_views": 5865,
+      "delta_likes": 10,
+      "delta_comments": 180,
+      "rank_gain": 21,
+      "rising_score": 75.29,
       "rising_rank": 8,
-      "window_minutes": 115
+      "window_minutes": 111
     },
     {
       "source": "클리앙",
-      "title": "이 대통령은 왜 이렇게 총기와 유연성을 잃었나요?",
-      "url": "https://www.clien.net/service/board/park/19275604?od=T31&po=0&category=0&groupCd=",
+      "title": "부동산 외통수에 걸렸네요",
+      "url": "https://www.clien.net/service/board/park/19275629?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 2694,
-      "likes": 7,
-      "comments": 10,
-      "score": 76.34,
-      "change": 42,
-      "current_rank": 9,
-      "new_entry": false,
-      "delta_views": 2490,
-      "delta_likes": 7,
-      "delta_comments": 10,
-      "rank_gain": 42,
-      "rising_score": 75.36,
-      "rising_rank": 9,
-      "window_minutes": 115
-    },
-    {
-      "source": "루리웹",
-      "title": "[스팀] Fireside Feelings (무료)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107911",
-      "category": "게임",
-      "views": 11654,
-      "likes": 63,
-      "comments": 2,
-      "score": 79.19,
+      "views": 2299,
+      "likes": 6,
+      "comments": 28,
+      "score": 79.04,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -525,9 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.26,
+      "rising_score": 75.2,
+      "rising_rank": 9,
+      "window_minutes": 111
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[스팀] Fireside Feelings (무료/무료)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739066",
+      "category": "게임",
+      "views": 3421,
+      "likes": 15,
+      "comments": 3,
+      "score": 78.46,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.95,
       "rising_rank": 10,
-      "window_minutes": 115
+      "window_minutes": 111
     }
   ],
   "issues": [
@@ -539,35 +539,75 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 117.01,
+      "score": 119.03,
       "peak_score": 106.54,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
+        "디시인사이드",
         "루리웹",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
-          "score": 96.54
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469213&_dcbest=1&page=1",
+          "score": 65.15
         },
         {
-          "source": "클리앙",
-          "rank": 34,
-          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
-          "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
-          "score": 66.31
+          "source": "루리웹",
+          "rank": 75,
+          "title": "트럼프긁기시전하는 노벨평화상 수상자",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76972588?m=humor_only&t=now",
+          "score": 55.53
         }
       ],
       "first_seen": "2026-10-10T06:10:39.632663+09:00",
-      "last_seen": "2026-10-10T06:10:39.632663+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i8d54d86c",
+      "title": "[스팀] Pony Island 무료",
+      "keywords": [
+        "스팀",
+        "무료"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.62,
+      "peak_score": 91.15,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[스팀] Pony Island 무료",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107883",
+          "score": 83.15
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "[스팀] Fireside Feelings (무료/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739066",
+          "score": 78.46
+        }
+      ],
+      "first_seen": "2026-10-09T07:24:11.375041+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -604,22 +644,22 @@
       "last_seen": "2026-10-10T08:05:19.721877+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "idcd59a51",
       "title": "안싱글벙글 오늘자 고속도로 사망사고",
       "keywords": [
         "사망사고",
-        "오늘자",
-        "고속도로"
+        "고속도로",
+        "오늘자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 96.35,
+      "score": 98.37,
       "peak_score": 86.88,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -627,25 +667,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 24,
           "title": "안싱글벙글 오늘자 고속도로 사망사고",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-          "score": 78.88
+          "score": 68.15
         },
         {
           "source": "뽐뿌",
-          "rank": 18,
+          "rank": 62,
           "title": "오늘자 고속도로 제네시스 추돌 사망사고 ㄷㄷ.jpg",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979104",
-          "score": 71.48
+          "score": 57.36
         }
       ],
       "first_seen": "2026-10-10T08:05:19.721877+09:00",
-      "last_seen": "2026-10-10T08:05:19.721877+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i123ff185",
@@ -682,7 +722,7 @@
       "last_seen": "2026-10-10T01:30:24.946350+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -725,8 +765,8 @@
       "last_seen": "2026-10-10T08:05:19.721877+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "iae209e51",
@@ -763,8 +803,8 @@
       "last_seen": "2026-10-10T06:10:39.632663+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i0bc54f1a",
@@ -802,8 +842,8 @@
       "last_seen": "2026-10-10T08:05:19.721877+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i5bc1f20b",
@@ -846,8 +886,8 @@
       "last_seen": "2026-10-10T08:05:19.721877+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i1a0292b7",
@@ -884,138 +924,58 @@
       "last_seen": "2026-10-10T08:05:19.721877+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i493aee10",
-      "title": "축협회장 선거에 태클거는 피파",
-      "keywords": [
-        "태클거는",
-        "선거에",
-        "축협회장",
-        "피파"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.33,
-      "peak_score": 73.84,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 98,
-          "title": "축협회장 선거에 태클거는 피파",
-          "url": "https://www.clien.net/service/board/park/19275588?od=T31&po=0&category=0&groupCd=",
-          "score": 51.56
-        },
-        {
-          "source": "인벤",
-          "rank": 100,
-          "title": "축협회장 선거에 태클거는 피파",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738328",
-          "score": 51.44
-        }
-      ],
-      "first_seen": "2026-10-10T01:30:24.946350+09:00",
-      "last_seen": "2026-10-10T06:10:39.632663+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": -5
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "idcd59a51",
-      "title": "안싱글벙글 오늘자 고속도로 사망사고",
+      "id": "i8d54d86c",
+      "title": "[스팀] Pony Island 무료",
       "keywords": [
-        "사망사고",
-        "오늘자",
-        "고속도로"
+        "스팀",
+        "무료"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.88,
-      "peak_score": 86.88,
+      "score": 91.15,
+      "peak_score": 91.15,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 6,
-          "title": "안싱글벙글 오늘자 고속도로 사망사고",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-          "score": 78.88
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[스팀] Pony Island 무료",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107883",
+          "score": 83.15
         },
         {
           "source": "뽐뿌",
-          "rank": 18,
-          "title": "오늘자 고속도로 제네시스 추돌 사망사고 ㄷㄷ.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979104",
-          "score": 71.48
+          "rank": 7,
+          "title": "[스팀] Fireside Feelings (무료/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739066",
+          "score": 78.46
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i7f6e9411",
-      "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
+      "id": "idcd59a51",
+      "title": "안싱글벙글 오늘자 고속도로 사망사고",
       "keywords": [
-        "사업을",
-        "대형",
-        "처한",
-        "일본에",
-        "빼앗길",
-        "위기에"
+        "사망사고",
+        "고속도로",
+        "오늘자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.65,
-      "peak_score": 81.65,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 14,
-          "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738386",
-          "score": 73.65
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 22,
-          "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147346",
-          "score": 70.8
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i0bc54f1a",
-      "title": "충격) 강화 해수욕장서 북 지뢰 발견.. 전면 통제 ㄷㄷ..mp4",
-      "keywords": [
-        "발견",
-        "지뢰"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.36,
-      "peak_score": 81.36,
+      "score": 76.15,
+      "peak_score": 76.15,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1023,73 +983,33 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "충격) 강화 해수욕장서 북 지뢰 발견.. 전면 통제 ㄷㄷ..mp4",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147243",
-          "score": 73.36
-        },
-        {
           "source": "디시인사이드",
-          "rank": 70,
-          "title": "강화도 에서 지뢰 발견",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469167&_dcbest=1&page=1",
-          "score": 59.29
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i5bc1f20b",
-      "title": "푸틴에 손벌린 트럼프 '러 경유 공급 합의'…대러 제재 완화",
-      "keywords": [
-        "경유",
-        "합의",
-        "공급",
-        "손벌린",
-        "대러",
-        "트럼프",
-        "푸틴에"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.83,
-      "peak_score": 78.83,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 21,
-          "title": "푸틴에 손벌린 트럼프 '러 경유 공급 합의'…대러 제재 완화",
-          "url": "https://www.clien.net/service/board/park/19275605?od=T31&po=0&category=0&groupCd=",
-          "score": 70.83
+          "rank": 24,
+          "title": "안싱글벙글 오늘자 고속도로 사망사고",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
+          "score": 68.15
         },
         {
-          "source": "인벤",
-          "rank": 46,
-          "title": "푸틴에 손벌린 트럼프 \"러 경유 공급 합의\"…대러 제재 완화",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738376",
-          "score": 62.88
+          "source": "뽐뿌",
+          "rank": 62,
+          "title": "오늘자 고속도로 제네시스 추돌 사망사고 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979104",
+          "score": 57.36
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
-      "id": "i1a0292b7",
-      "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0118d867",
+      "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "안되는"
+        "노벨평화상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.8,
-      "peak_score": 76.8,
+      "score": 74.15,
+      "peak_score": 74.15,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1098,66 +1018,100 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 26,
-          "title": "싱글벙글 애낳고 sns하면 안되는 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469149&_dcbest=1&page=1",
-          "score": 67.8
+          "rank": 28,
+          "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469213&_dcbest=1&page=1",
+          "score": 65.15
         },
         {
           "source": "루리웹",
-          "rank": 60,
-          "title": "사진 동아리가 장사가 안되는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76972000?m=humor_only&t=now",
-          "score": 60.41
+          "rank": 75,
+          "title": "트럼프긁기시전하는 노벨평화상 수상자",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76972588?m=humor_only&t=now",
+          "score": 55.53
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ie46031e7",
+      "title": "‘필라이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "필라이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.15,
+      "peak_score": 74.15,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469213&_dcbest=1&page=1",
+          "score": 65.15
+        },
+        {
+          "source": "인벤",
+          "rank": 85,
+          "title": "노벨평화상에 나비 필라이…미·이스라엘 반발",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738409",
+          "score": 53.55
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ic7fd3c5b",
+      "title": "‘예정입니다’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "예정입니다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 68.53,
+      "peak_score": 68.53,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 54,
+          "title": "11월달 5080 구입 예정입니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738408",
+          "score": 59.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 95,
+          "title": "오늘 안병하 치안감님 추모식에 다녀올 예정입니다",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76972589?m=humor_only&t=now",
+          "score": 51.29
         }
       ],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i10990536",
+      "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "삼성전자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.33,
-      "peak_score": 73.33,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 39,
-          "title": "이재명 대통령의 현재 상황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
-          "score": 64.33
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 74,
-          "title": "오늘 이재명 엑스 글 하트순 2번째 댓글",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146764",
-          "score": 58.25
-        }
-      ],
-      "rank": 6,
-      "change": -5
-    },
-    {
-      "id": "i6c2c2d02",
-      "title": "‘갑자기’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "갑자기"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.08,
-      "peak_score": 71.08,
+      "score": 67.64,
+      "peak_score": 67.64,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1166,68 +1120,67 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 51,
-          "title": "호주 댄스팀의 갑자기 커버 댄스",
-          "url": "https://www.clien.net/service/board/park/19275612?od=T31&po=0&category=0&groupCd=",
-          "score": 62.08
+          "rank": 58,
+          "title": "'성과급 30억' 삼성전자 사내 부부 '서민 탈출한 듯, 5년 내 퇴사'",
+          "url": "https://www.clien.net/service/board/park/19275633?od=T31&po=0&category=0&groupCd=",
+          "score": 58.64
         },
         {
           "source": "인벤",
-          "rank": 61,
-          "title": "세금체납 1위자가 갑자기 세금을 완납한 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738391",
-          "score": 60.39
+          "rank": 97,
+          "title": "인생이 이렇게 쉬워도 되냐는 삼성전자",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738400",
+          "score": 50.85
         }
       ],
-      "rank": 7,
+      "rank": 6,
       "change": "NEW"
     },
     {
-      "id": "i7f48cc7a",
-      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i8a19fd8b",
+      "title": "‘어제자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "반도체"
+        "어제자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 69.54,
-      "peak_score": 69.54,
+      "score": 67.55,
+      "peak_score": 67.55,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
+          "source": "인벤",
           "rank": 59,
-          "title": "용인 반도체 공사판 함바집 월매출 수준",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469203&_dcbest=1&page=1",
-          "score": 60.54
+          "title": "어제자 콘서트 레전드 찍었다는 악뮤 최신 근황.jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738399",
+          "score": 58.55
         },
         {
-          "source": "뽐뿌",
-          "rank": 78,
-          "title": "반도체 오늘까지 떨어지면 안될것 같은데요..",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=440405",
-          "score": 57.33
+          "source": "디시인사이드",
+          "rank": 77,
+          "title": "어제자 폐가,폐광 바리 (사진많음, 귀신없음)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469205&_dcbest=1&page=1",
+          "score": 55.14
         }
       ],
-      "rank": 8,
+      "rank": 7,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 164.65,
-      "post_count": 5,
-      "source_count": 4,
-      "best_rank": 2,
+      "keyword": "노벨평화상",
+      "score": 112.46,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 28,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹",
-        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1235,45 +1188,43 @@
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 160.7,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 1,
+      "keyword": "스팀",
+      "score": 109.15,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
         "루리웹",
-        "뽐뿌",
-        "인벤"
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "무료"
+      ],
       "rank": 2,
-      "change": -1
-    },
-    {
-      "keyword": "트럼프",
-      "score": 127.04,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 21,
-      "sources": [
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "경유",
-      "score": 121.16,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 21,
+      "keyword": "일본",
+      "score": 101.38,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
       "sources": [
         "루리웹",
-        "인벤",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": -2
+    },
+    {
+      "keyword": "영화",
+      "score": 99.05,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 26,
+      "sources": [
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1281,26 +1232,39 @@
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 118.68,
+      "keyword": "미국",
+      "score": 95.52,
       "post_count": 3,
-      "source_count": 3,
-      "best_rank": 20,
+      "source_count": 2,
+      "best_rank": 19,
       "sources": [
-        "뽐뿌",
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": -3
+      "change": "NEW"
+    },
+    {
+      "keyword": "순위",
+      "score": 93.97,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "keyword": "고속도로",
-      "score": 105.31,
+      "score": 89.49,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 6,
+      "best_rank": 24,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -1309,50 +1273,31 @@
         "사망사고",
         "오늘자"
       ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "빼앗길",
-      "score": 100.24,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 14,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [
-        "대형",
-        "사업",
-        "위기",
-        "처한"
-      ],
       "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "댓글",
-      "score": 96.16,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 8,
       "change": -1
     },
     {
-      "keyword": "제재",
-      "score": 94.76,
-      "post_count": 3,
+      "keyword": "트럼프",
+      "score": 87.43,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 28,
       "sources": [
-        "인벤",
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": -5
+    },
+    {
+      "keyword": "단독",
+      "score": 86.56,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1360,147 +1305,137 @@
       "change": "NEW"
     },
     {
-      "keyword": "엄마",
-      "score": 94.28,
+      "keyword": "서양",
+      "score": 85.56,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": -6
-    },
-    {
-      "keyword": "손벌린",
-      "score": 92.92,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 21,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "공급",
-        "대러",
-        "완화",
-        "푸틴",
-        "합의"
-      ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "강화",
-      "score": 92.36,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
-      "aliases": [
-        "발견",
-        "지뢰"
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "필라",
+      "score": 85.3,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 28,
+      "sources": [
+        "디시인사이드",
+        "인벤"
       ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "부동산",
+      "score": 82.8,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 5,
+      "sources": [
+        "클리앙"
+      ],
+      "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "안되",
-      "score": 89.87,
+      "keyword": "어제자",
+      "score": 81.84,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 59,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "갑자기",
-      "score": 85.95,
+      "keyword": "예정입니다",
+      "score": 79.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 54,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "평소",
-      "score": 83.2,
+      "keyword": "삼성전자",
+      "score": 78.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 58,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
-      "change": -4
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국 군필자, \"포를 쏘고 바로 덮는건 비현실적\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971188?m=humor",
-      "score": 95.5,
-      "views": 17864,
-      "comments": 55
+      "title": "군생활중 역대급 충격이었던 사건",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971910?m=humor",
+      "score": 97.29,
+      "views": 13855,
+      "comments": 58
+    },
+    {
+      "source": "클리앙",
+      "title": "부동산 외통수에 걸렸네요",
+      "url": "https://www.clien.net/service/board/park/19275629?od=T31&po=0&category=0&groupCd=",
+      "score": 79.04,
+      "views": 2299,
+      "comments": 28
+    },
+    {
+      "source": "더쿠",
+      "title": "교통사고로 사망한 초등학생의 진실",
+      "url": "https://theqoo.net/hot/4370513118",
+      "score": 78.84,
+      "views": 62598,
+      "comments": 296
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[스팀] Fireside Feelings (무료/무료)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739066",
+      "score": 78.46,
+      "views": 3421,
+      "comments": 3
+    },
+    {
+      "source": "인벤",
+      "title": "게임 실사화 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2738413",
+      "score": 78.1,
+      "views": 1677,
+      "comments": 17
     },
     {
       "source": "디시인사이드",
       "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
-      "score": 84.69,
-      "views": 23935,
-      "comments": 282
-    },
-    {
-      "source": "클리앙",
-      "title": "새벽에 빵구우려 했다가 충격적인? 댓글을 봤네요.txt",
-      "url": "https://www.clien.net/service/board/park/19275602?od=T31&po=0&category=0&groupCd=",
-      "score": 78.11,
-      "views": 3652,
-      "comments": 17
-    },
-    {
-      "source": "더쿠",
-      "title": "열애설 터지고 전시회 취소해서 욕 먹은 탑 20년 팬사이트 탈덕문",
-      "url": "https://theqoo.net/hot/4370468270",
-      "score": 77.37,
-      "views": 63743,
-      "comments": 374
-    },
-    {
-      "source": "뽐뿌",
-      "title": "[50억] 세상 미친 결혼식",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147271",
-      "score": 75.0,
-      "views": 5591,
-      "comments": 22
-    },
-    {
-      "source": "인벤",
-      "title": "대형 사업을 일본에 빼앗길 위기에 처한 한국",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738386",
-      "score": 73.65,
-      "views": 1088,
-      "comments": 9
+      "score": 74.1,
+      "views": 26762,
+      "comments": 322
     }
   ]
 }

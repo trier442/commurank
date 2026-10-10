@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-10T08:05:19.721877+09:00",
+  "collected_at": "2026-10-10T09:56:04.775934+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -189,6 +189,45 @@
       "change": 0
     },
     {
+      "id": "i0118d867",
+      "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "노벨평화상"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 119.03,
+      "peak_score": 106.54,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나눠야\" 농담",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469213&_dcbest=1&page=1",
+          "score": 65.15
+        },
+        {
+          "source": "루리웹",
+          "rank": 75,
+          "title": "트럼프긁기시전하는 노벨평화상 수상자",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76972588?m=humor_only&t=now",
+          "score": 55.53
+        }
+      ],
+      "first_seen": "2026-10-10T06:10:39.632663+09:00",
+      "last_seen": "2026-10-10T09:56:04.775934+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 3
+    },
+    {
       "id": "ia8451ee4",
       "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -225,8 +264,8 @@
       "last_seen": "2026-10-05T16:10:48.666367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i0cd78725",
@@ -268,8 +307,8 @@
       "last_seen": "2026-10-06T17:04:46.984922+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -307,46 +346,8 @@
       "last_seen": "2026-10-09T07:24:11.375041+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i0118d867",
-      "title": "‘노벨평화상’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "노벨평화상"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 117.01,
-      "peak_score": 106.54,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
-          "score": 96.54
-        },
-        {
-          "source": "클리앙",
-          "rank": 34,
-          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
-          "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
-          "score": 66.31
-        }
-      ],
-      "first_seen": "2026-10-10T06:10:39.632663+09:00",
-      "last_seen": "2026-10-10T06:10:39.632663+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 8,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i106465f0",
@@ -748,7 +749,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i64779620",
@@ -789,7 +790,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -829,7 +830,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
