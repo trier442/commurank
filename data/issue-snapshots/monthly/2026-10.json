@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-10T19:19:54.392704+09:00",
+  "collected_at": "2026-10-10T22:31:21.077301+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -535,41 +535,35 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 120.72,
+      "score": 122.74,
       "peak_score": 105.25,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
+          "source": "인벤",
+          "rank": 7,
+          "title": "극한직업 손흥민",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
+          "score": 81.14
+        },
+        {
           "source": "디시인사이드",
-          "rank": 4,
-          "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
-          "score": 87.25
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "손흥민 & 양민혁 과거 인터뷰 수준.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
-          "score": 76.76
-        },
-        {
-          "source": "더쿠",
-          "rank": 32,
-          "title": "손흥민 주장 9년…92·96라인 갈등, 갈 데까지 갔다",
-          "url": "https://theqoo.net/hot/4368725620",
-          "score": 65.05
+          "rank": 37,
+          "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
+          "score": 66.46
         }
       ],
       "first_seen": "2026-10-08T11:52:47.411122+09:00",
-      "last_seen": "2026-10-08T11:52:47.411122+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-10T22:31:21.077301+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 13,
       "change": 0
     },
@@ -811,7 +805,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife3c822c",
@@ -849,7 +843,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
