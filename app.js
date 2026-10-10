@@ -1,6 +1,6 @@
 const fallbackPosts = [
-  {title:"랭킹 데이터를 불러오지 못했습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
-  {title:"잠시 후 새로고침하면 최신 인기글을 다시 불러옵니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
+  {title:"현재 표시할 인기글이 없습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
+  {title:"다른 기간의 랭킹을 확인해 보세요.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
 ];
 
 const periodInfo = {
@@ -257,20 +257,10 @@ function renderPortal(){
 }
 
 function renderSourceShortcutHealth(){
-  const statusMap = new Map((liveData?.sources || []).map(row => [row.source, row]));
+  // Source health is monitored by private GitHub Actions, not public badges.
   document.querySelectorAll("[data-source-shortcut]").forEach(link => {
-    const name = link.dataset.sourceShortcut;
-    const status = statusMap.get(name);
     link.classList.remove("source-unavailable", "source-cached");
     link.removeAttribute("title");
-    if (!status) return;
-    if (status.cached && status.count > 0) {
-      link.classList.add("source-cached");
-      link.title = `${name} · 최근 정상 수집 캐시 사용 중`;
-    } else if (!status.ok || status.count <= 0) {
-      link.classList.add("source-unavailable");
-      link.title = `${name} · 현재 수집 점검 중`;
-    }
   });
 }
 
@@ -337,7 +327,7 @@ function render(){
     month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
   });
   updatedNode.textContent = ageMinutes < 1 ? exactTime + " · 방금 전" : exactTime + ` · ${ageMinutes}분 전`;
-  updatedNode.classList.toggle("stale", ageMinutes > 30 && !archiveData);
+  updatedNode.classList.remove("stale");
 
   const keywordBar = document.querySelector("#activeKeywordBar");
   keywordBar.hidden = !keyword;
@@ -400,16 +390,9 @@ async function loadLiveData(){
 
     const sourceRows = liveData.sources || [];
     const availableSources = sourceRows.filter(s => s.count > 0).length;
-    const cachedSources = sourceRows.filter(s => s.cached && s.count > 0).length;
-    const failedSources = sourceRows.filter(s => !s.ok && !s.cached);
-    const totalSources = sourceRows.length;
     const sourceStatus = document.querySelector("#sourceStatus");
-    sourceStatus.textContent = totalSources
-      ? `${availableSources}개 수집${cachedSources ? " · " + cachedSources + "개 캐시" : ""}${failedSources.length ? " · " + failedSources.length + "개 점검 중" : ""}`
-      : "수집 준비";
-    sourceStatus.title = failedSources.length
-      ? failedSources.map(s => s.source + " 수집 점검 중").join(" · ")
-      : "현재 연결된 커뮤니티 수집 정상";
+    sourceStatus.textContent = `${availableSources}개 커뮤니티 집계`;
+    sourceStatus.removeAttribute("title");
 
     const params = new URLSearchParams(location.search);
     const requestedPeriod = params.get("period");
@@ -430,8 +413,8 @@ async function loadLiveData(){
     }
   } catch (err) {
     liveData = null;
-    document.querySelector("#updatedAt").textContent = "자동 수집 대기";
-    document.querySelector("#sourceStatus").textContent = "수집 대기";
+    document.querySelector("#updatedAt").textContent = "최근 랭킹 확인 중";
+    document.querySelector("#sourceStatus").textContent = "커뮤니티 인기글";
   }
   render();
 }
