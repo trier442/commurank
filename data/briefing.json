@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-11",
   "label": "2026년 10월 11일",
-  "collected_at": "2026-10-11T15:18:43.156205+09:00",
+  "collected_at": "2026-10-11T22:06:22.512179+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #태릉. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #이재명. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 11,
+    "daily_issues": 14,
     "keywords": 13,
-    "top100_views": 980681,
-    "top100_comments": 11280
+    "top100_views": 880466,
+    "top100_comments": 9783
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "이과가 세상을 발전시킬 동안 문과는 뭐 함?",
+      "title": "월급의 98%가 임대료인 스페인 근황",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76982242?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76987893?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#태릉",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "태릉"
+      "title": "#이재명",
+      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "이재명"
     }
   ],
   "top_posts": [
+    {
+      "title": "월급의 98%가 임대료인 스페인 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76987893?m=humor",
+      "first_seen": "2026-10-11T22:06:22.512179+09:00",
+      "last_seen": "2026-10-11T22:06:22.512179+09:00",
+      "peak_score": 98.12,
+      "max_views": 32641,
+      "max_likes": 164,
+      "max_comments": 181,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-11": {
+          "max_score": 98.12,
+          "max_views": 32641,
+          "max_likes": 164,
+          "max_comments": 181,
+          "appearances": 1,
+          "last_seen": "2026-10-11T22:06:22.512179+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 32641,
+      "likes": 164,
+      "comments": 181,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "이과가 세상을 발전시킬 동안 문과는 뭐 함?",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-11T06:31:46.129959+09:00"
         }
       },
-      "score": 107.75,
+      "score": 107.19,
       "views": 13273,
       "likes": 145,
       "comments": 113,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "기독교계에서 유독 박진영을 걸고 넘어지는 이유",
@@ -88,10 +117,39 @@
           "last_seen": "2026-10-11T15:18:43.156205+09:00"
         }
       },
-      "score": 107.19,
+      "score": 106.63,
       "views": 10435,
       "likes": 167,
       "comments": 91,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "제조업 현장에서 생각하는 “청년들이 안오는 이유”.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76989734?m=humor",
+      "first_seen": "2026-10-11T22:06:22.512179+09:00",
+      "last_seen": "2026-10-11T22:06:22.512179+09:00",
+      "peak_score": 96.19,
+      "max_views": 18570,
+      "max_likes": 237,
+      "max_comments": 102,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-11": {
+          "max_score": 96.19,
+          "max_views": 18570,
+          "max_likes": 237,
+          "max_comments": 102,
+          "appearances": 1,
+          "last_seen": "2026-10-11T22:06:22.512179+09:00"
+        }
+      },
+      "score": 105.71,
+      "views": 18570,
+      "likes": 237,
+      "comments": 102,
       "active_days": 1,
       "change": "NEW"
     },
@@ -117,12 +175,12 @@
           "last_seen": "2026-10-11T09:24:50.446193+09:00"
         }
       },
-      "score": 106.05,
+      "score": 105.49,
       "views": 18288,
       "likes": 135,
       "comments": 54,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "실수령액 400초반 35살 여자가 실수령액 200초반인 28살 여자 못이겨?",
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-11T09:24:50.446193+09:00"
         }
       },
-      "score": 105.7,
+      "score": 105.14,
       "views": 15491,
       "likes": 101,
       "comments": 42,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "조선을 사람들이 ㅈㄴ 무시하는데",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-11T15:18:43.156205+09:00"
         }
       },
-      "score": 105.49,
+      "score": 104.93,
       "views": 19202,
       "likes": 150,
       "comments": 115,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "한국에 북한군 중국군 공동묘지 조성한 이유.jpg",
@@ -204,7 +262,7 @@
           "last_seen": "2026-10-11T02:57:47.337075+09:00"
         }
       },
-      "score": 104.92,
+      "score": 104.35,
       "views": 11104,
       "likes": 81,
       "comments": 74,
@@ -233,7 +291,7 @@
           "last_seen": "2026-10-11T02:57:47.337075+09:00"
         }
       },
-      "score": 104.25,
+      "score": 103.68,
       "views": 16999,
       "likes": 112,
       "comments": 76,
@@ -262,102 +320,24 @@
           "last_seen": "2026-10-11T06:31:46.129959+09:00"
         }
       },
-      "score": 104.15,
+      "score": 103.59,
       "views": 11179,
       "likes": 121,
       "comments": 51,
       "active_days": 1,
       "change": -2
-    },
-    {
-      "title": "'단일문화로 흡수해야 한다'의 현대적 실천을 하는 국가",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76978884?m=humor",
-      "first_seen": "2026-10-11T02:57:47.337075+09:00",
-      "last_seen": "2026-10-11T02:57:47.337075+09:00",
-      "peak_score": 95.08,
-      "max_views": 21600,
-      "max_likes": 179,
-      "max_comments": 137,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-11": {
-          "max_score": 95.08,
-          "max_views": 21600,
-          "max_likes": 179,
-          "max_comments": 137,
-          "appearances": 1,
-          "last_seen": "2026-10-11T02:57:47.337075+09:00"
-        }
-      },
-      "score": 103.58,
-      "views": 21600,
-      "likes": 179,
-      "comments": 137,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "처참한 여수섬박람회 근황.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76983978?m=humor",
-      "first_seen": "2026-10-11T15:18:43.156205+09:00",
-      "last_seen": "2026-10-11T15:18:43.156205+09:00",
-      "peak_score": 93.98,
-      "max_views": 34579,
-      "max_likes": 150,
-      "max_comments": 80,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-11": {
-          "max_score": 93.98,
-          "max_views": 34579,
-          "max_likes": 150,
-          "max_comments": 80,
-          "appearances": 1,
-          "last_seen": "2026-10-11T15:18:43.156205+09:00"
-        }
-      },
-      "score": 103.5,
-      "views": 34579,
-      "likes": 150,
-      "comments": 80,
-      "active_days": 1,
-      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "훌쩍훌쩍 딸 살리려고 팀장에서 CEO까지 오른 사나이",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469439&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 25987,
-      "likes": 211,
-      "comments": 198,
-      "score": 51.92,
-      "change": 0,
-      "current_rank": 100,
-      "new_entry": false,
-      "delta_views": 11590,
-      "delta_likes": 100,
-      "delta_comments": 86,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 354
-    },
-    {
       "source": "루리웹",
-      "title": "기독교계에서 유독 박진영을 걸고 넘어지는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76986477?m=humor",
+      "title": "월급의 98%가 임대료인 스페인 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76987893?m=humor",
       "category": "이슈",
-      "views": 10435,
-      "likes": 167,
-      "comments": 91,
-      "score": 97.67,
+      "views": 32641,
+      "likes": 164,
+      "comments": 181,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,19 +345,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.02,
-      "rising_rank": 2,
-      "window_minutes": 354
+      "rising_score": 83.21,
+      "rising_rank": 1,
+      "window_minutes": 408
     },
     {
       "source": "루리웹",
-      "title": "조선을 사람들이 ㅈㄴ 무시하는데",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76984715?m=humor",
+      "title": "제조업 현장에서 생각하는 “청년들이 안오는 이유”.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76989734?m=humor",
       "category": "이슈",
-      "views": 19202,
-      "likes": 150,
-      "comments": 115,
-      "score": 95.97,
+      "views": 18570,
+      "likes": 237,
+      "comments": 102,
+      "score": 96.19,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,19 +365,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.31,
-      "rising_rank": 3,
-      "window_minutes": 354
+      "rising_score": 82.4,
+      "rising_rank": 2,
+      "window_minutes": 408
     },
     {
       "source": "루리웹",
-      "title": "처참한 여수섬박람회 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76983978?m=humor",
+      "title": "가난 판독기 반찬.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76989703?m=humor",
       "category": "이슈",
-      "views": 34579,
-      "likes": 150,
-      "comments": 80,
-      "score": 93.98,
+      "views": 14399,
+      "likes": 73,
+      "comments": 85,
+      "score": 91.75,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.47,
-      "rising_rank": 4,
-      "window_minutes": 354
+      "rising_score": 80.53,
+      "rising_rank": 3,
+      "window_minutes": 408
     },
     {
-      "source": "뽐뿌",
-      "title": "현대차 내부에서 난리났다고 함 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979216",
+      "source": "루리웹",
+      "title": "[네이버페이] 일일적립, 클릭 29원, 퀴즈미션, 라이브예고 1원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107921",
       "category": "이슈",
-      "views": 20639,
-      "likes": 17,
-      "comments": 119,
-      "score": 83.44,
+      "views": 42367,
+      "likes": 196,
+      "comments": 22,
+      "score": 90.44,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -425,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.04,
-      "rising_rank": 5,
-      "window_minutes": 354
+      "rising_score": 79.98,
+      "rising_rank": 4,
+      "window_minutes": 408
     },
     {
       "source": "디시인사이드",
-      "title": "검찰청 폐지 후 경찰 분위기 '폭풍 전 고요' ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469504&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 9516,
-      "likes": 68,
-      "comments": 242,
-      "score": 82.51,
+      "title": "싱글벙글 자신을 치료해준 아재를 불길속에서 구한 털바퀴",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469576&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17103,
+      "likes": 153,
+      "comments": 168,
+      "score": 77.73,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -445,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.65,
-      "rising_rank": 6,
-      "window_minutes": 354
+      "rising_score": 74.65,
+      "rising_rank": 5,
+      "window_minutes": 408
     },
     {
-      "source": "인벤",
-      "title": "[속보] 李 대통령, 휴일 태릉 골프장 방문 확인…청와대 \"비공개 일정 정치공방 유감\"",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738876",
-      "category": "스포츠",
-      "views": 1345,
-      "likes": 0,
-      "comments": 81,
-      "score": 81.47,
+      "source": "디시인사이드",
+      "title": "싱글벙글 우크라이나 근황...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469556&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 31193,
+      "likes": 234,
+      "comments": 552,
+      "score": 75.73,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -465,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.22,
-      "rising_rank": 7,
-      "window_minutes": 354
+      "rising_score": 73.81,
+      "rising_rank": 6,
+      "window_minutes": 408
     },
     {
       "source": "디시인사이드",
-      "title": "\"공부를 그렇게 못하면 어쩌냐\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469496&_dcbest=1&page=1",
+      "title": "이게 대한민국 부동산 근황임",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469570&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 11432,
-      "likes": 58,
-      "comments": 317,
-      "score": 80.37,
+      "views": 14718,
+      "likes": 47,
+      "comments": 473,
+      "score": 74.96,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -485,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.76,
-      "rising_rank": 8,
-      "window_minutes": 354
+      "rising_score": 73.48,
+      "rising_rank": 7,
+      "window_minutes": 408
     },
     {
       "source": "인벤",
-      "title": "당근 나눔을 하면 안되는 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738868",
+      "title": "건설사가 철근을 화끈하게 빼먹는이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739004",
       "category": "이슈",
-      "views": 1993,
-      "likes": 4,
-      "comments": 13,
-      "score": 78.58,
+      "views": 1303,
+      "likes": 6,
+      "comments": 8,
+      "score": 73.2,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -505,19 +485,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.0,
-      "rising_rank": 9,
-      "window_minutes": 354
+      "rising_score": 72.74,
+      "rising_rank": 8,
+      "window_minutes": 408
     },
     {
-      "source": "뽐뿌",
-      "title": "담당자 실수로 중환자실 실려간 헌혈왕",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22917",
+      "source": "디시인사이드",
+      "title": "문재인 대통령 x실시간 트렌드 입갤",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469592&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 12763,
-      "likes": 12,
-      "comments": 36,
-      "score": 76.82,
+      "views": 2834,
+      "likes": 87,
+      "comments": 80,
+      "score": 72.76,
       "change": "NEW",
       "current_rank": 9,
       "new_entry": true,
@@ -525,9 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.26,
+      "rising_score": 72.56,
+      "rising_rank": 9,
+      "window_minutes": 408
+    },
+    {
+      "source": "클리앙",
+      "title": "혈세로 호사 누리는 고관대작…",
+      "url": "https://www.clien.net/service/board/park/19276230?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1143,
+      "likes": 5,
+      "comments": 14,
+      "score": 72.44,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.42,
       "rising_rank": 10,
-      "window_minutes": 354
+      "window_minutes": 408
     }
   ],
   "issues": [
@@ -539,35 +539,43 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 129.99,
+      "score": 131.43,
       "peak_score": 106.5,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 16,
-          "title": "이재명 X소리에 김용민 의원 대답 ㅎㅎ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148260",
-          "score": 71.75
+          "source": "클리앙",
+          "rank": 43,
+          "title": "트럼프 구라를 한번 겪습니까? 이재명 대통령님? 이시국에 골프라뇨..",
+          "url": "https://www.clien.net/service/board/park/19276231?od=T31&po=0&category=0&groupCd=",
+          "score": 61.48
         },
         {
-          "source": "인벤",
-          "rank": 40,
-          "title": "이재명 대통령 인스타 사진 업로드 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738762",
-          "score": 65.0
+          "source": "뽐뿌",
+          "rank": 50,
+          "title": "미워도 이재명 아니면 내란당이 정권잡을지도",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148794",
+          "score": 60.74
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 58,
+          "title": "이재명 대통령 골프장서 붕괴사고 지시",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469540&_dcbest=1&page=1",
+          "score": 59.63
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-11T09:24:50.446193+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-11T22:06:22.512179+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
       "rank": 1,
       "change": 0
     },
@@ -647,6 +655,83 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "i2272efa7",
+      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "리센느"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.98,
+      "peak_score": 82.05,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "(혐주의) 트위터 알티타는 돌판 민심 돌아서게 만든 리센느 일부 남팬들 댓글들",
+          "url": "https://theqoo.net/hot/4372261809",
+          "score": 72.05
+        },
+        {
+          "source": "인벤",
+          "rank": 93,
+          "title": "[인터뷰] 리센느 \"향기처럼 오래 기억에 남는 그룹이고 싶어\" / SBS 8뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738991",
+          "score": 52.23
+        }
+      ],
+      "first_seen": "2026-09-27T12:58:49.050910+09:00",
+      "last_seen": "2026-10-11T22:06:22.512179+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": 5
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.43,
+      "peak_score": 83.96,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "이게 대한민국 부동산 근황임",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469570&_dcbest=1&page=1",
+          "score": 74.96
+        },
+        {
+          "source": "인벤",
+          "rank": 64,
+          "title": "대한민국 모두의 대통령 이재명의 성과 총정리!!!!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739014",
+          "score": 58.7
+        }
+      ],
+      "first_seen": "2026-09-30T16:29:04.314799+09:00",
+      "last_seen": "2026-10-11T22:06:22.512179+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -684,8 +769,8 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": -1
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i2af08ac5",
@@ -723,8 +808,8 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "icb33dad5",
@@ -761,8 +846,8 @@
       "last_seen": "2026-10-11T09:24:50.446193+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i82d4eed1",
@@ -799,8 +884,8 @@
       "last_seen": "2026-10-11T09:24:50.446193+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i54cc5255",
@@ -837,21 +922,132 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
+      "rank": 10,
+      "change": -2
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 79.48,
+      "peak_score": 79.48,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 43,
+          "title": "트럼프 구라를 한번 겪습니까? 이재명 대통령님? 이시국에 골프라뇨..",
+          "url": "https://www.clien.net/service/board/park/19276231?od=T31&po=0&category=0&groupCd=",
+          "score": 61.48
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 50,
+          "title": "미워도 이재명 아니면 내란당이 정권잡을지도",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148794",
+          "score": 60.74
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 58,
+          "title": "이재명 대통령 골프장서 붕괴사고 지시",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469540&_dcbest=1&page=1",
+          "score": 59.63
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
     },
     {
       "id": "i2272efa7",
-      "title": "리센느 원이",
+      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "원이",
         "리센느"
       ],
       "source_count": 2,
+      "post_count": 3,
+      "score": 82.05,
+      "peak_score": 82.05,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "(혐주의) 트위터 알티타는 돌판 민심 돌아서게 만든 리센느 일부 남팬들 댓글들",
+          "url": "https://theqoo.net/hot/4372261809",
+          "score": 72.05
+        },
+        {
+          "source": "인벤",
+          "rank": 93,
+          "title": "[인터뷰] 리센느 \"향기처럼 오래 기억에 남는 그룹이고 싶어\" / SBS 8뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738991",
+          "score": 52.23
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
       "post_count": 2,
-      "score": 84.0,
-      "peak_score": 72.51,
-      "appearances": 2,
+      "score": 83.96,
+      "peak_score": 83.96,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "이게 대한민국 부동산 근황임",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469570&_dcbest=1&page=1",
+          "score": 74.96
+        },
+        {
+          "source": "인벤",
+          "rank": 64,
+          "title": "대한민국 모두의 대통령 이재명의 성과 총정리!!!!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739014",
+          "score": 58.7
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i1bf23001",
+      "title": "‘살해하고’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "살해하고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 66.28,
+      "peak_score": 66.28,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -859,153 +1055,67 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 76,
-          "title": "리센느 원이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738714",
-          "score": 55.83
+          "rank": 71,
+          "title": "남편 살해하고 유족연금 타간 이은해…환수 한 푼도 못 했다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739005",
+          "score": 57.28
         },
         {
           "source": "디시인사이드",
-          "rank": 90,
-          "title": "비서진에서 발동한 리센느 원이 나락감지 회피스킬.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469352&_dcbest=1&page=1",
-          "score": 52.98
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-10-11T06:31:46.129959+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "iab5c98b9",
-      "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
-      "keywords": [
-        "탱크데이",
-        "5개월",
-        "스타벅스",
-        "만에",
-        "1위"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.37,
-      "peak_score": 70.9,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 50,
-          "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469456&_dcbest=1&page=1",
-          "score": 62.9
-        },
-        {
-          "source": "더쿠",
-          "rank": 92,
-          "title": "'탱크데이' 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
-          "url": "https://theqoo.net/hot/4371579324",
-          "score": 53.11
-        }
-      ],
-      "first_seen": "2026-10-11T15:18:43.156205+09:00",
-      "last_seen": "2026-10-11T15:18:43.156205+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "iaf37cd06",
-      "title": "\"공부를 그렇게 못하면 어쩌냐\"",
-      "keywords": [
-        "그렇게",
-        "공부를",
-        "못하면"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.37,
-      "peak_score": 88.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "\"공부를 그렇게 못하면 어쩌냐\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469496&_dcbest=1&page=1",
-          "score": 80.37
-        },
-        {
-          "source": "더쿠",
           "rank": 83,
-          "title": "제자에게 “공부를 그렇게 못하면 어짜노”… 초등 담임 벌금 500만원 확정",
-          "url": "https://theqoo.net/hot/4371602229",
-          "score": 55.26
+          "title": "이혼소송 중 장모 살해하고 부인 납치해 도주…20대 남성 체포",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469558&_dcbest=1&page=1",
+          "score": 55.21
         }
       ],
-      "rank": 1,
+      "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "iab5c98b9",
-      "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
+      "id": "ie534742f",
+      "title": "‘던지고’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "탱크데이",
-        "5개월",
-        "스타벅스",
-        "만에",
-        "1위"
+        "던지고"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 70.9,
-      "peak_score": 70.9,
+      "score": 66.27,
+      "peak_score": 66.27,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 50,
-          "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469456&_dcbest=1&page=1",
-          "score": 62.9
+          "source": "인벤",
+          "rank": 72,
+          "title": "몇명 던지고 감....",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739003",
+          "score": 57.27
         },
         {
-          "source": "더쿠",
-          "rank": 92,
-          "title": "'탱크데이' 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
-          "url": "https://theqoo.net/hot/4371579324",
-          "score": 53.11
+          "source": "디시인사이드",
+          "rank": 82,
+          "title": "위협구 던지고 이강철 쳐다보는 후라도.gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469532&_dcbest=1&page=1",
+          "score": 55.45
         }
       ],
-      "rank": 2,
+      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "태릉",
-      "score": 105.46,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
+      "keyword": "이재명",
+      "score": 151.0,
+      "post_count": 5,
+      "source_count": 4,
+      "best_rank": 43,
       "sources": [
+        "디시인사이드",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
@@ -1014,39 +1124,39 @@
       "change": "NEW"
     },
     {
-      "keyword": "휴일",
-      "score": 101.95,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
+      "keyword": "치어리더",
+      "score": 111.06,
+      "post_count": 9,
+      "source_count": 1,
+      "best_rank": 24,
       "sources": [
-        "인벤",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 97.25,
+      "keyword": "뉴스",
+      "score": 107.86,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 11,
+      "source_count": 3,
+      "best_rank": 66,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 5
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 95.5,
-      "post_count": 4,
+      "keyword": "리센느",
+      "score": 97.17,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 12,
       "sources": [
         "더쿠",
         "인벤"
@@ -1056,133 +1166,126 @@
       "change": "NEW"
     },
     {
-      "keyword": "그렇게",
-      "score": 94.98,
+      "keyword": "대한민국",
+      "score": 96.98,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 7,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [
-        "공부",
-        "못하면"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "대화",
-      "score": 90.14,
-      "post_count": 2,
+      "keyword": "남성",
+      "score": 95.74,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 15,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "이젠",
-      "score": 90.01,
+      "keyword": "하면",
+      "score": 91.85,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 26,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "투썸",
-      "score": 87.74,
+      "keyword": "엄청",
+      "score": 90.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 22,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "트럼프",
-      "score": 87.42,
-      "post_count": 2,
+      "keyword": "살해",
+      "score": 88.06,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 61,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 9,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "많은",
-      "score": 81.52,
+      "keyword": "단독",
+      "score": 85.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 42,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "스타벅스",
-      "score": 81.44,
+      "keyword": "장모",
+      "score": 80.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 61,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [
-        "1위",
-        "5개월",
-        "만에",
-        "탱크데"
-      ],
+      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "공감",
-      "score": 81.4,
+      "keyword": "던지고",
+      "score": 79.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 72,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "만화",
-      "score": 70.58,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 29,
+      "keyword": "음식",
+      "score": 72.74,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 98,
       "sources": [
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 13,
@@ -1192,51 +1295,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "기독교계에서 유독 박진영을 걸고 넘어지는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76986477?m=humor",
-      "score": 97.67,
-      "views": 10435,
-      "comments": 91
-    },
-    {
-      "source": "뽐뿌",
-      "title": "현대차 내부에서 난리났다고 함 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979216",
-      "score": 83.44,
-      "views": 20639,
-      "comments": 119
+      "title": "월급의 98%가 임대료인 스페인 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76987893?m=humor",
+      "score": 98.12,
+      "views": 32641,
+      "comments": 181
     },
     {
       "source": "디시인사이드",
-      "title": "검찰청 폐지 후 경찰 분위기 '폭풍 전 고요' ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469504&_dcbest=1&page=1",
-      "score": 82.51,
-      "views": 9516,
-      "comments": 242
+      "title": "싱글벙글 자신을 치료해준 아재를 불길속에서 구한 털바퀴",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469576&_dcbest=1&page=1",
+      "score": 77.73,
+      "views": 17103,
+      "comments": 168
     },
     {
       "source": "인벤",
-      "title": "[속보] 李 대통령, 휴일 태릉 골프장 방문 확인…청와대 \"비공개 일정 정치공방 유감\"",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738876",
-      "score": 81.47,
-      "views": 1345,
-      "comments": 81
+      "title": "건설사가 철근을 화끈하게 빼먹는이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739004",
+      "score": 73.2,
+      "views": 1303,
+      "comments": 8
     },
     {
       "source": "클리앙",
-      "title": "투썸 실망스럽네요",
-      "url": "https://www.clien.net/service/board/park/19276075?od=T31&po=0&category=0&groupCd=",
-      "score": 72.08,
-      "views": 1955,
+      "title": "혈세로 호사 누리는 고관대작…",
+      "url": "https://www.clien.net/service/board/park/19276230?od=T31&po=0&category=0&groupCd=",
+      "score": 72.44,
+      "views": 1143,
       "comments": 14
     },
     {
       "source": "더쿠",
-      "title": "[KBO] 풀카운트에서 볼넷 줬다고 성질부리는 최원준",
-      "url": "https://theqoo.net/hot/4371817731",
-      "score": 66.84,
-      "views": 8406,
-      "comments": 280
+      "title": "(혐주의) 트위터 알티타는 돌판 민심 돌아서게 만든 리센느 일부 남팬들 댓글들",
+      "url": "https://theqoo.net/hot/4372261809",
+      "score": 72.05,
+      "views": 44233,
+      "comments": 804
+    },
+    {
+      "source": "뽐뿌",
+      "title": "보복운전 레전드 영상 ㄷ..gif",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979187",
+      "score": 67.79,
+      "views": 20348,
+      "comments": 52
     }
   ]
 }
