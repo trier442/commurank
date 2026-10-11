@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-11",
   "label": "2026년 10월 11일",
-  "collected_at": "2026-10-11T06:31:46.129959+09:00",
+  "collected_at": "2026-10-11T09:24:50.446193+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 127.97,
+      "score": 129.99,
       "peak_score": 106.5,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "뽐뿌",
@@ -25,38 +25,24 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 5,
-          "title": "이재명 - 비난해도 sns 계속 하겠다",
-          "url": "https://www.clien.net/service/board/park/19275924?od=T31&po=0&category=0&groupCd=",
-          "score": 80.5
-        },
-        {
           "source": "뽐뿌",
-          "rank": 8,
-          "title": "문재인 전대통령 VS 이재명 비교",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148073",
-          "score": 79.14
+          "rank": 16,
+          "title": "이재명 X소리에 김용민 의원 대답 ㅎㅎ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148260",
+          "score": 71.75
         },
         {
           "source": "인벤",
-          "rank": 26,
-          "title": "이재명 대통령을 끝까지 지지할겁니다.[장문]",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738698",
-          "score": 66.36
-        },
-        {
-          "source": "더쿠",
-          "rank": 96,
-          "title": "결혼식에서 이재명 재판받아라 외친 그분들 신혼여행으로",
-          "url": "https://theqoo.net/hot/4371342129",
-          "score": 52.58
+          "rank": 40,
+          "title": "이재명 대통령 인스타 사진 업로드 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738762",
+          "score": 65.0
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-11T02:57:47.337075+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 6,
+      "last_seen": "2026-10-11T09:24:50.446193+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
       "rank": 1,
       "change": 0
     },
@@ -96,7 +82,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -134,7 +120,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2af08ac5",
@@ -173,7 +159,83 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "icb33dad5",
+      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "sns"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 87.52,
+      "peak_score": 76.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 39,
+          "title": "김광민 변호사 sns",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148001",
+          "score": 65.05
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "어제자 이재명 대통령 SNS....jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738757",
+          "score": 64.1
+        }
+      ],
+      "first_seen": "2026-10-03T08:03:19.978953+09:00",
+      "last_seen": "2026-10-11T09:24:50.446193+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i82d4eed1",
+      "title": "‘보면서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "보면서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.31,
+      "peak_score": 77.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 22,
+          "title": "(스압) 난 진짜 3n년을 엔팁 보면서 얘네 근거없는 자존감 높은거 ㅈㄴ 신기함",
+          "url": "https://theqoo.net/hot/4371524438",
+          "score": 68.84
+        },
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "ㅇㅎ) 그동안 오이갤을 보면서 느낀점 다섯가지",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738737",
+          "score": 67.43
+        }
+      ],
+      "first_seen": "2026-10-11T09:24:50.446193+09:00",
+      "last_seen": "2026-10-11T09:24:50.446193+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i54cc5255",
@@ -210,8 +272,8 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i2272efa7",
@@ -249,8 +311,8 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -3
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "ib1da3385",
@@ -291,8 +353,8 @@
       "last_seen": "2026-10-11T06:31:46.129959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     }
   ]
 }
