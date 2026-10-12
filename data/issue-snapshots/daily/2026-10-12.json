@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-12",
   "label": "2026년 10월 12일",
-  "collected_at": "2026-10-12T07:02:30.022923+09:00",
+  "collected_at": "2026-10-12T10:13:28.509441+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -51,7 +51,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i653d69c1",
@@ -89,7 +89,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib92d7d28",
@@ -127,7 +127,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i5781c296",
@@ -165,7 +165,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -3
+      "change": 0
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.5,
+      "peak_score": 79.03,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 20,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107937",
+          "score": 70.03
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 43,
+          "title": "10/12일자 네이버페이 188원(168원) + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548646",
+          "score": 62.95
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-12T10:13:28.509441+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "iae6b0123",
@@ -202,8 +240,8 @@
       "last_seen": "2026-10-12T03:07:28.872364+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -3
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i68fcb6ec",
@@ -247,8 +285,8 @@
       "last_seen": "2026-10-12T07:02:30.022923+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 7,
+      "change": -1
     }
   ]
 }
