@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-12T10:13:28.509441+09:00",
+  "collected_at": "2026-10-12T16:25:50.612992+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -226,9 +226,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 125.06,
+      "score": 125.65,
       "peak_score": 103.66,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -238,22 +238,22 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "금메달 군면제 이슈가 이렇게 커진 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915869?m=humor",
-          "score": 94.25
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "싱글벙글 콩쿠르 군면제 축소 ㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469741&_dcbest=1&page=1",
+          "score": 92.03
         },
         {
-          "source": "디시인사이드",
-          "rank": 18,
-          "title": "싱글벙글 군면제 논란 여초 반응",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
-          "score": 72.95
+          "source": "더쿠",
+          "rank": 45,
+          "title": "군면제 불똥튄 예술계",
+          "url": "https://theqoo.net/hot/4373087558",
+          "score": 63.0
         }
       ],
       "first_seen": "2026-09-29T17:24:25.017696+09:00",
-      "last_seen": "2026-10-05T16:10:48.666367+09:00",
+      "last_seen": "2026-10-12T16:25:50.612992+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
@@ -816,42 +816,46 @@
       "change": 0
     },
     {
-      "id": "ife3c822c",
-      "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7b918478",
+      "title": "어제자 대참사난 일본 축제 사망자 2명",
       "keywords": [
-        "안하는"
+        "일본",
+        "축제"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 116.18,
-      "peak_score": 106.71,
-      "appearances": 1,
+      "score": 116.25,
+      "peak_score": 99.85,
+      "appearances": 7,
       "sources": [
+        "디시인사이드",
         "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "공무원이 일 안하는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76902573?m=humor",
-          "score": 97.71
+          "source": "디시인사이드",
+          "rank": 70,
+          "title": "어제자 대참사난 일본 축제 사망자 2명",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469705&_dcbest=1&page=1",
+          "score": 57.99
         },
         {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "제가 다이소 가서 멤버십 적립을 안하는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141670",
-          "score": 67.99
+          "source": "루리웹",
+          "rank": 91,
+          "title": "일본 축제 사고의 어둠..",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76998528?m=humor_only&t=now",
+          "score": 52.12
         }
       ],
-      "first_seen": "2026-10-04T17:18:37.774835+09:00",
-      "last_seen": "2026-10-04T17:18:37.774835+09:00",
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-12T16:25:50.612992+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": "NEW"
     }
   ]
 }
