@@ -4,6 +4,13 @@
     "daily": [
       {
         "period": "daily",
+        "key": "2026-10-14",
+        "label": "2026년 10월 14일",
+        "collected_at": "2026-10-14T03:31:35.725826+09:00",
+        "path": "issue-snapshots/daily/2026-10-14.json"
+      },
+      {
+        "period": "daily",
         "key": "2026-10-13",
         "label": "2026년 10월 13일",
         "collected_at": "2026-10-13T23:42:33.839540+09:00",
@@ -127,7 +134,7 @@
         "period": "weekly",
         "key": "2026-W42",
         "label": "2026.10.12 ~ 10.18",
-        "collected_at": "2026-10-13T23:42:33.839540+09:00",
+        "collected_at": "2026-10-14T03:31:35.725826+09:00",
         "path": "issue-snapshots/weekly/2026-W42.json"
       },
       {
@@ -157,7 +164,7 @@
         "period": "monthly",
         "key": "2026-10",
         "label": "2026년 10월",
-        "collected_at": "2026-10-13T23:42:33.839540+09:00",
+        "collected_at": "2026-10-14T03:31:35.725826+09:00",
         "path": "issue-snapshots/monthly/2026-10.json"
       },
       {
@@ -169,5 +176,5 @@
       }
     ]
   },
-  "updated_at": "2026-10-13T23:42:33.839540+09:00"
+  "updated_at": "2026-10-14T03:31:35.725826+09:00"
 }

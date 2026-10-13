@@ -1,33 +1,33 @@
 {
   "version": 1,
-  "date": "2026-10-13",
-  "label": "2026년 10월 13일",
-  "collected_at": "2026-10-13T23:42:33.839540+09:00",
+  "date": "2026-10-14",
+  "label": "2026년 10월 14일",
+  "collected_at": "2026-10-14T03:31:35.725826+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘속보)인천 칼부림 발생’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘난리난’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 1065833,
-    "top100_comments": 13344
+    "daily_issues": 7,
+    "keywords": 18,
+    "top100_views": 887238,
+    "top100_comments": 11660
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "속보)인천 칼부림 발생",
-      "text": "4개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i849dd46f"
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ife021da2"
     },
     {
       "type": "post",
-      "title": "인턴 리메이크 한것도 망한거 같네",
+      "title": "로봇 합체씬에서 불똥이 튀고 연기가 나던 이유",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77005461?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014628?m=humor"
     },
     {
       "type": "keyword",
@@ -38,346 +38,346 @@
   ],
   "top_posts": [
     {
-      "title": "인턴 리메이크 한것도 망한거 같네",
+      "title": "로봇 합체씬에서 불똥이 튀고 연기가 나던 이유",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77005461?m=humor",
-      "first_seen": "2026-10-13T08:34:17.510208+09:00",
-      "last_seen": "2026-10-13T08:59:16.846376+09:00",
-      "peak_score": 98.54,
-      "max_views": 19953,
-      "max_likes": 136,
-      "max_comments": 50,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-13": {
-          "max_score": 98.54,
-          "max_views": 19953,
-          "max_likes": 136,
-          "max_comments": 50,
-          "appearances": 2,
-          "last_seen": "2026-10-13T08:59:16.846376+09:00"
-        }
-      },
-      "score": 107.73,
-      "views": 19953,
-      "likes": 136,
-      "comments": 50,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "타일러: 스웨덴 세금 없에니까 기업이 돌아왔다.",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77005125?m=humor",
-      "first_seen": "2026-10-13T08:59:16.846376+09:00",
-      "last_seen": "2026-10-13T08:59:16.846376+09:00",
-      "peak_score": 99.37,
-      "max_views": 22665,
-      "max_likes": 154,
-      "max_comments": 88,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014628?m=humor",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 98.1,
+      "max_views": 13904,
+      "max_likes": 113,
+      "max_comments": 91,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-13": {
-          "max_score": 99.37,
-          "max_views": 22665,
-          "max_likes": 154,
-          "max_comments": 88,
+        "2026-10-14": {
+          "max_score": 98.1,
+          "max_views": 13904,
+          "max_likes": 113,
+          "max_comments": 91,
           "appearances": 1,
-          "last_seen": "2026-10-13T08:59:16.846376+09:00"
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 107.67,
-      "views": 22665,
-      "likes": 154,
-      "comments": 88,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "아이오닉5 전방주시태만 스마트크루즈사고 보니까",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77001577?m=humor",
-      "first_seen": "2026-10-13T01:56:17.405112+09:00",
-      "last_seen": "2026-10-13T02:50:57.414194+09:00",
-      "peak_score": 98.53,
-      "max_views": 16475,
-      "max_likes": 175,
-      "max_comments": 151,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-13": {
-          "max_score": 98.53,
-          "max_views": 16475,
-          "max_likes": 175,
-          "max_comments": 151,
-          "appearances": 2,
-          "last_seen": "2026-10-13T02:50:57.414194+09:00"
-        }
-      },
-      "score": 107.21,
-      "views": 16475,
-      "likes": 175,
-      "comments": 151,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "엄청나다는 한국 일본 격차 ㄷㄷ",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77011798?m=humor",
-      "first_seen": "2026-10-13T20:39:06.906706+09:00",
-      "last_seen": "2026-10-13T20:39:06.906706+09:00",
-      "peak_score": 97.29,
-      "max_views": 19460,
-      "max_likes": 122,
-      "max_comments": 117,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-13": {
-          "max_score": 97.29,
-          "max_views": 19460,
-          "max_likes": 122,
-          "max_comments": 117,
-          "appearances": 1,
-          "last_seen": "2026-10-13T20:39:06.906706+09:00"
-        }
-      },
-      "score": 106.56,
-      "views": 19460,
-      "likes": 122,
-      "comments": 117,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "오늘 갑자기 폭탄을 터트려버린 림월드",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77012087?m=humor",
-      "first_seen": "2026-10-13T23:42:33.839540+09:00",
-      "last_seen": "2026-10-13T23:42:33.839540+09:00",
-      "peak_score": 96.88,
-      "max_views": 20931,
-      "max_likes": 153,
-      "max_comments": 94,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-13": {
-          "max_score": 96.88,
-          "max_views": 20931,
-          "max_likes": 153,
-          "max_comments": 94,
-          "appearances": 1,
-          "last_seen": "2026-10-13T23:42:33.839540+09:00"
-        }
-      },
-      "score": 106.4,
-      "views": 20931,
-      "likes": 153,
-      "comments": 94,
+      "score": 107.62,
+      "views": 13904,
+      "likes": 113,
+      "comments": 91,
       "active_days": 1,
       "change": "NEW"
     },
     {
-      "title": "볼넷이라고 패악질 부리던 야구 선수 근황",
-      "source": "루리웹",
-      "category": "스포츠",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77006485?m=humor",
-      "first_seen": "2026-10-13T12:55:26.446706+09:00",
-      "last_seen": "2026-10-13T12:55:26.446706+09:00",
-      "peak_score": 97.29,
-      "max_views": 18363,
-      "max_likes": 141,
-      "max_comments": 89,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-13": {
-          "max_score": 97.29,
-          "max_views": 18363,
-          "max_likes": 141,
-          "max_comments": 89,
-          "appearances": 1,
-          "last_seen": "2026-10-13T12:55:26.446706+09:00"
-        }
-      },
-      "score": 105.92,
-      "views": 18363,
-      "likes": 141,
-      "comments": 89,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "이제 일본 넷우익한테 금기시된 단어",
+      "title": "현재 일본에서 난리난 성매매 법안",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77011324?m=humor",
-      "first_seen": "2026-10-13T23:42:33.839540+09:00",
-      "last_seen": "2026-10-13T23:42:33.839540+09:00",
-      "peak_score": 96.19,
-      "max_views": 23995,
-      "max_likes": 165,
-      "max_comments": 118,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 97.43,
+      "max_views": 29412,
+      "max_likes": 242,
+      "max_comments": 131,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-13": {
-          "max_score": 96.19,
-          "max_views": 23995,
-          "max_likes": 165,
-          "max_comments": 118,
+        "2026-10-14": {
+          "max_score": 97.43,
+          "max_views": 29412,
+          "max_likes": 242,
+          "max_comments": 131,
           "appearances": 1,
-          "last_seen": "2026-10-13T23:42:33.839540+09:00"
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 105.71,
-      "views": 23995,
-      "likes": 165,
-      "comments": 118,
+      "score": 106.95,
+      "views": 29412,
+      "likes": 242,
+      "comments": 131,
       "active_days": 1,
       "change": "NEW"
     },
     {
-      "title": "일본관광객 \"서울버스는 거칠지만 익숙해지면 중독돼\"",
+      "title": "\" 야짤에서 지나치게 못생긴 남캐가 나오는게 싫다. \".jpg",
       "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77006424?m=humor",
-      "first_seen": "2026-10-13T15:44:30.450438+09:00",
-      "last_seen": "2026-10-13T15:44:30.450438+09:00",
-      "peak_score": 96.73,
-      "max_views": 32210,
-      "max_likes": 221,
-      "max_comments": 101,
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77015686?m=humor",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 92.97,
+      "max_views": 9522,
+      "max_likes": 110,
+      "max_comments": 78,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-13": {
-          "max_score": 96.73,
-          "max_views": 32210,
-          "max_likes": 221,
-          "max_comments": 101,
+        "2026-10-14": {
+          "max_score": 92.97,
+          "max_views": 9522,
+          "max_likes": 110,
+          "max_comments": 78,
           "appearances": 1,
-          "last_seen": "2026-10-13T15:44:30.450438+09:00"
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 105.59,
-      "views": 32210,
-      "likes": 221,
-      "comments": 101,
+      "score": 102.49,
+      "views": 9522,
+      "likes": 110,
+      "comments": 78,
       "active_days": 1,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "title": "인천 칼부림 가해자 아주 미쳤는데 ㄷㄷㄷ",
-      "source": "루리웹",
+      "title": "서경덕 교수 \"중국이 문화침탈 정부는뭐하고있냐\"",
+      "source": "디시인사이드",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77009681?m=humor",
-      "first_seen": "2026-10-13T20:39:06.906706+09:00",
-      "last_seen": "2026-10-13T20:39:06.906706+09:00",
-      "peak_score": 95.98,
-      "max_views": 35782,
-      "max_likes": 136,
-      "max_comments": 104,
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470106&_dcbest=1&page=1",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 83.6,
+      "max_views": 8874,
+      "max_likes": 197,
+      "max_comments": 322,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-13": {
-          "max_score": 95.98,
-          "max_views": 35782,
-          "max_likes": 136,
-          "max_comments": 104,
+        "2026-10-14": {
+          "max_score": 83.6,
+          "max_views": 8874,
+          "max_likes": 197,
+          "max_comments": 322,
           "appearances": 1,
-          "last_seen": "2026-10-13T20:39:06.906706+09:00"
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 105.25,
-      "views": 35782,
-      "likes": 136,
-      "comments": 104,
+      "score": 93.12,
+      "views": 8874,
+      "likes": 197,
+      "comments": 322,
       "active_days": 1,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "title": "서른살 전에 월급만 받아 1억 이상 모으는 사람 특징",
+      "title": "[네이버페이] 일일적립, 클릭 38원, 라이브예고 18원",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77005859?m=humor",
-      "first_seen": "2026-10-13T12:55:26.446706+09:00",
-      "last_seen": "2026-10-13T12:55:26.446706+09:00",
-      "peak_score": 96.4,
-      "max_views": 34919,
-      "max_likes": 222,
-      "max_comments": 79,
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108004",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 80.97,
+      "max_views": 9022,
+      "max_likes": 74,
+      "max_comments": 9,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-13": {
-          "max_score": 96.4,
-          "max_views": 34919,
-          "max_likes": 222,
-          "max_comments": 79,
+        "2026-10-14": {
+          "max_score": 80.97,
+          "max_views": 9022,
+          "max_likes": 74,
+          "max_comments": 9,
           "appearances": 1,
-          "last_seen": "2026-10-13T12:55:26.446706+09:00"
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 105.03,
-      "views": 34919,
-      "likes": 222,
-      "comments": 79,
+      "score": 90.49,
+      "views": 9022,
+      "likes": 74,
+      "comments": 9,
       "active_days": 1,
-      "change": -2
+      "change": "NEW"
+    },
+    {
+      "title": "신비신비 침술의 원리가 아직도 밝혀지지 않은 이유(한줄요약있음)",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470108&_dcbest=1&page=1",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 80.49,
+      "max_views": 13492,
+      "max_likes": 82,
+      "max_comments": 231,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 80.49,
+          "max_views": 13492,
+          "max_likes": 82,
+          "max_comments": 231,
+          "appearances": 1,
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
+        }
+      },
+      "score": 90.01,
+      "views": 13492,
+      "likes": 82,
+      "comments": 231,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "온리팬스 서버 터진 이유",
+      "source": "인벤",
+      "category": "유머",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739968",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 80.35,
+      "max_views": 1304,
+      "max_likes": 0,
+      "max_comments": 7,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 80.35,
+          "max_views": 1304,
+          "max_likes": 0,
+          "max_comments": 7,
+          "appearances": 1,
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
+        }
+      },
+      "score": 89.87,
+      "views": 1304,
+      "likes": 0,
+      "comments": 7,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "올해 초의 우려가 현실이 되버렸네요.",
+      "source": "클리앙",
+      "category": "이슈",
+      "url": "https://www.clien.net/service/board/park/19277178?od=T31&po=0&category=0&groupCd=",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 79.31,
+      "max_views": 2119,
+      "max_likes": 0,
+      "max_comments": 7,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 79.31,
+          "max_views": 2119,
+          "max_likes": 0,
+          "max_comments": 7,
+          "appearances": 1,
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
+        }
+      },
+      "score": 88.83,
+      "views": 2119,
+      "likes": 0,
+      "comments": 7,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "대게 바꿔치기 하다 자백한 생선선생 근황",
+      "source": "인벤",
+      "category": "이슈",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739960",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 77.96,
+      "max_views": 2025,
+      "max_likes": 3,
+      "max_comments": 16,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 77.96,
+          "max_views": 2025,
+          "max_likes": 3,
+          "max_comments": 16,
+          "appearances": 1,
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
+        }
+      },
+      "score": 87.48,
+      "views": 2025,
+      "likes": 3,
+      "comments": 16,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "어디서 부터 썩어 빠진건지 감도 안오는 의료업계",
+      "source": "인벤",
+      "category": "이슈",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739965",
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "peak_score": 77.23,
+      "max_views": 1971,
+      "max_likes": 1,
+      "max_comments": 19,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 77.23,
+          "max_views": 1971,
+          "max_likes": 1,
+          "max_comments": 19,
+          "appearances": 1,
+          "last_seen": "2026-10-14T03:31:35.725826+09:00"
+        }
+      },
+      "score": 86.75,
+      "views": 1971,
+      "likes": 1,
+      "comments": 19,
+      "active_days": 1,
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "[예판]리센느 4th 미니앨범 [PULSE] 예약판매",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107983",
-      "category": "이슈",
-      "views": 29522,
-      "likes": 42,
-      "comments": 52,
-      "score": 86.07,
-      "change": 2,
-      "current_rank": 4,
-      "new_entry": false,
-      "delta_views": 4482,
-      "delta_likes": 5,
-      "delta_comments": 5,
-      "rank_gain": 2,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 183
-    },
-    {
       "source": "디시인사이드",
-      "title": "실시간 중국인들 발작중인 글..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+      "title": "가슴 좋아하는 남친 이야기로 내분난 여초 상황.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470084&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 29137,
-      "likes": 365,
-      "comments": 1059,
-      "score": 76.0,
+      "views": 27483,
+      "likes": 114,
+      "comments": 324,
+      "score": 74.63,
       "change": 0,
-      "current_rank": 11,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 17683,
-      "delta_likes": 249,
-      "delta_comments": 781,
+      "delta_views": 14151,
+      "delta_likes": 57,
+      "delta_comments": 165,
       "rank_gain": 0,
-      "rising_score": 95.45,
+      "rising_score": 91.48,
+      "rising_rank": 1,
+      "window_minutes": 229
+    },
+    {
+      "source": "클리앙",
+      "title": "애플티비 만족하는점",
+      "url": "https://www.clien.net/service/board/park/19277164?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2657,
+      "likes": 0,
+      "comments": 9,
+      "score": 69.72,
+      "change": 26,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 2595,
+      "delta_likes": 0,
+      "delta_comments": 7,
+      "rank_gain": 26,
+      "rising_score": 91.33,
       "rising_rank": 2,
-      "window_minutes": 183
+      "window_minutes": 229
     },
     {
       "source": "루리웹",
-      "title": "오늘 갑자기 폭탄을 터트려버린 림월드",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77012087?m=humor",
+      "title": "로봇 합체씬에서 불똥이 튀고 연기가 나던 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014628?m=humor",
       "category": "이슈",
-      "views": 20931,
-      "likes": 153,
-      "comments": 94,
-      "score": 96.88,
+      "views": 13904,
+      "likes": 113,
+      "comments": 91,
+      "score": 98.1,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -385,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.69,
+      "rising_score": 83.2,
       "rising_rank": 3,
-      "window_minutes": 183
+      "window_minutes": 229
     },
     {
       "source": "루리웹",
-      "title": "이제 일본 넷우익한테 금기시된 단어",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77011324?m=humor",
+      "title": "현재 일본에서 난리난 성매매 법안",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
       "category": "이슈",
-      "views": 23995,
-      "likes": 165,
-      "comments": 118,
-      "score": 96.19,
+      "views": 29412,
+      "likes": 242,
+      "comments": 131,
+      "score": 97.43,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,19 +405,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
+      "rising_score": 82.92,
       "rising_rank": 4,
-      "window_minutes": 183
+      "window_minutes": 229
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본근황) 음식점에서 남의 고기 훔쳐먹는 손님 많아져 난리",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470082&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 9333,
+      "likes": 156,
+      "comments": 207,
+      "score": 64.95,
+      "change": 0,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 6339,
+      "delta_likes": 76,
+      "delta_comments": 78,
+      "rank_gain": 0,
+      "rising_score": 81.11,
+      "rising_rank": 5,
+      "window_minutes": 229
     },
     {
       "source": "루리웹",
-      "title": "칼부림범...현장 당시 증언...JPG",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77010951?m=humor",
-      "category": "이슈",
-      "views": 35006,
-      "likes": 149,
-      "comments": 127,
-      "score": 94.67,
+      "title": "\" 야짤에서 지나치게 못생긴 남캐가 나오는게 싫다. \".jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77015686?m=humor",
+      "category": "유머",
+      "views": 9522,
+      "likes": 110,
+      "comments": 78,
+      "score": 92.97,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,79 +445,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 5,
-      "window_minutes": 183
-    },
-    {
-      "source": "디시인사이드",
-      "title": "헤이딜러 때문에 가격 유출되서 난리난 투싼",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470044&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15856,
-      "likes": 90,
-      "comments": 399,
-      "score": 66.05,
-      "change": 0,
-      "current_rank": 37,
-      "new_entry": false,
-      "delta_views": 10960,
-      "delta_likes": 60,
-      "delta_comments": 281,
-      "rank_gain": 0,
-      "rising_score": 78.79,
+      "rising_score": 81.05,
       "rising_rank": 6,
-      "window_minutes": 183
-    },
-    {
-      "source": "더쿠",
-      "title": "트위터에서 갑론을박 중인 구교환 영화 무대인사 태도",
-      "url": "https://theqoo.net/hot/4374595693",
-      "category": "연예",
-      "views": 87597,
-      "likes": 0,
-      "comments": 892,
-      "score": 79.05,
-      "change": 47,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 80440,
-      "delta_likes": 0,
-      "delta_comments": 805,
-      "rank_gain": 47,
-      "rising_score": 78.33,
-      "rising_rank": 7,
-      "window_minutes": 183
+      "window_minutes": 229
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 일본 만화가가 논란을 회피한 방법",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470038&_dcbest=1&page=1",
+      "title": "서경덕 교수 \"중국이 문화침탈 정부는뭐하고있냐\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470106&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 19415,
-      "likes": 273,
-      "comments": 358,
-      "score": 65.56,
-      "change": 0,
-      "current_rank": 39,
-      "new_entry": false,
-      "delta_views": 9501,
-      "delta_likes": 127,
-      "delta_comments": 106,
+      "views": 8874,
+      "likes": 197,
+      "comments": 322,
+      "score": 83.6,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.78,
-      "rising_rank": 8,
-      "window_minutes": 183
+      "rising_score": 77.11,
+      "rising_rank": 7,
+      "window_minutes": 229
     },
     {
-      "source": "뽐뿌",
-      "title": "[네이버페이] 사조대림, 삼성전자 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119562",
+      "source": "디시인사이드",
+      "title": "실시간 중국인들 발작중인 글..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 7502,
-      "likes": 31,
-      "comments": 10,
-      "score": 82.2,
+      "views": 34918,
+      "likes": 437,
+      "comments": 1152,
+      "score": 61.82,
+      "change": 0,
+      "current_rank": 52,
+      "new_entry": false,
+      "delta_views": 5781,
+      "delta_likes": 72,
+      "delta_comments": 93,
+      "rank_gain": 0,
+      "rising_score": 76.3,
+      "rising_rank": 8,
+      "window_minutes": 229
+    },
+    {
+      "source": "루리웹",
+      "title": "[네이버페이] 일일적립, 클릭 38원, 라이브예고 18원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108004",
+      "category": "이슈",
+      "views": 9022,
+      "likes": 74,
+      "comments": 9,
+      "score": 80.97,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -505,19 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.52,
+      "rising_score": 76.01,
       "rising_rank": 9,
-      "window_minutes": 183
+      "window_minutes": 229
     },
     {
-      "source": "더쿠",
-      "title": "쩝 초등교사 힘들다 하는거 공감 안되네...",
-      "url": "https://theqoo.net/hot/4374710257",
+      "source": "디시인사이드",
+      "title": "신비신비 침술의 원리가 아직도 밝혀지지 않은 이유(한줄요약있음)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470108&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 40647,
-      "likes": 0,
-      "comments": 652,
-      "score": 81.84,
+      "views": 13492,
+      "likes": 82,
+      "comments": 231,
+      "score": 80.49,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,466 +525,125 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.37,
+      "rising_score": 75.81,
       "rising_rank": 10,
-      "window_minutes": 183
+      "window_minutes": 229
     }
   ],
   "issues": [
     {
-      "id": "i849dd46f",
-      "title": "속보)인천 칼부림 발생",
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "인천",
-        "칼부림",
-        "홈플러스",
-        "구월점서",
-        "부상"
+        "난리난"
       ],
-      "source_count": 4,
-      "post_count": 5,
-      "score": 132.43,
-      "peak_score": 111.96,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "속보)인천 칼부림 발생",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469959&_dcbest=1&page=1",
-          "score": 88.96
-        },
-        {
-          "source": "더쿠",
-          "rank": 13,
-          "title": "[1보] 홈플러스 인천 구월점서 칼부림 신고…\"6∼8명 부상\"",
-          "url": "https://theqoo.net/hot/4374226625",
-          "score": 72.37
-        },
-        {
-          "source": "인벤",
-          "rank": 69,
-          "title": "[속보] 홈플러스 인천 구월점서 칼부림⋯1명 심정지·7명 부상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739719",
-          "score": 59.18
-        },
-        {
-          "source": "루리웹",
-          "rank": 80,
-          "title": "인천 칼부림 범인 살인미수로 복역 전자발찌 착용상태로 범행",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77009918?m=humor_only&t=now",
-          "score": 56.28
-        }
-      ],
-      "first_seen": "2026-10-13T15:44:30.450438+09:00",
-      "last_seen": "2026-10-13T15:44:30.450438+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 5,
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "i47b692dc",
-      "title": "‘칼부림’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "칼부림"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 127.45,
-      "peak_score": 112.98,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.9,
+      "peak_score": 106.43,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "루리웹",
-        "클리앙"
+        "루리웹"
       ],
       "posts": [
         {
           "source": "루리웹",
           "rank": 2,
-          "title": "인천 칼부림 가해자 아주 미쳤는데 ㄷㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77009681?m=humor",
-          "score": 95.98
-        },
-        {
-          "source": "클리앙",
-          "rank": 46,
-          "title": "범인은 '전처 살인미수' 전과자…대낮 쇼핑몰 칼부림..",
-          "url": "https://www.clien.net/service/board/park/19277072?od=T31&po=0&category=0&groupCd=",
-          "score": 63.56
+          "title": "현재 일본에서 난리난 성매매 법안",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+          "score": 97.43
         },
         {
           "source": "디시인사이드",
-          "rank": 53,
-          "title": "인천 홈플러스 칼부림 용의자, 지난달 1인시위",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470042&_dcbest=1&page=1",
-          "score": 62.64
+          "rank": 93,
+          "title": "헤이딜러 때문에 가격 유출되서 난리난 투싼",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470044&_dcbest=1&page=1",
+          "score": 52.13
         }
       ],
-      "first_seen": "2026-10-13T20:39:06.906706+09:00",
-      "last_seen": "2026-10-13T20:39:06.906706+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 111.25,
-      "peak_score": 94.76,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "이재명 대통령은 왜 인천 전자발찌 흉기 난동 현장으로 향했는가에 대해서",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739931",
-          "score": 59.15
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "이재명 계란사태 근황.....jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-          "score": 58.83
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-13T23:42:33.839540+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 108.08,
-      "peak_score": 98.61,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 26원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107970",
-          "score": 89.61
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 66,
-          "title": "[네이버페이] NH투자증권 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119563",
-          "score": 57.69
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-13T08:34:17.510208+09:00",
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "i4a0a5902",
-      "title": "실시간 IMF GDP 떴냐? ㄷㄷ",
-      "keywords": [
-        "gdp",
-        "imf"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 107.98,
-      "peak_score": 98.51,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "실시간 IMF GDP 떴냐? ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469921&_dcbest=1&page=1",
-          "score": 90.51
-        },
-        {
-          "source": "클리앙",
-          "rank": 26,
-          "title": "IMF:한국 1인당 GDP 43,510달러",
-          "url": "https://www.clien.net/service/board/park/19276877?od=T31&po=0&category=0&groupCd=",
-          "score": 66.4
-        }
-      ],
-      "first_seen": "2026-10-13T12:55:26.446706+09:00",
-      "last_seen": "2026-10-13T12:55:26.446706+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i2272efa7",
-      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "리센느"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 107.56,
-      "peak_score": 95.07,
-      "appearances": 2,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[예판]리센느 4th 미니앨범 [PULSE] 예약판매",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107983",
-          "score": 86.07
-        },
-        {
-          "source": "인벤",
-          "rank": 46,
-          "title": "사전예약 리센느 질문 조공 약 ㅎㅂ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739933",
-          "score": 63.18
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-10-13T23:42:33.839540+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i5781c296",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.96,
-      "peak_score": 90.49,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 5,
-          "title": "[네이버]VGN Dragonfly F1 V2 SE+ (19,800원/무료)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107966",
-          "score": 81.49
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 55,
-          "title": "[네이버] 샤오미 미지아 구강세정기 2세대 MEO705(25,890원/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739619",
-          "score": 61.62
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-13T01:56:17.405112+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "ib32476d8",
-      "title": "‘twt’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "twt"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 98.52,
-      "peak_score": 84.05,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 29,
-          "title": "미주신경성 실신의 전조.twt",
-          "url": "https://theqoo.net/hot/4374178134",
-          "score": 67.05
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 68,
-          "title": "감독 오피셜.twt",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469943&_dcbest=1&page=1",
-          "score": 59.35
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "외모 객관화가 안된다는 일본 남자들.twt",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739716",
-          "score": 58.18
-        }
-      ],
-      "first_seen": "2026-10-13T15:44:30.450438+09:00",
-      "last_seen": "2026-10-13T15:44:30.450438+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "ib19f68fa",
-      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "추미애"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.14,
-      "peak_score": 88.67,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "추미애 '국감 자료 제출 거부', 17개시도에서 유일",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739853",
-          "score": 79.67
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 64,
-          "title": "추미애 \"12억 관사 전세라서 호화사치 아니다\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470016&_dcbest=1&page=1",
-          "score": 59.35
-        }
-      ],
-      "first_seen": "2026-10-03T10:28:43.355161+09:00",
-      "last_seen": "2026-10-13T20:39:06.906706+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "iead2b930",
-      "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오늘자"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.08,
-      "peak_score": 87.61,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "오늘자 hda사고",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979347",
-          "score": 78.61
-        },
-        {
-          "source": "더쿠",
-          "rank": 65,
-          "title": "오늘자 이수만(52년생. 74세) 모습",
-          "url": "https://theqoo.net/hot/4373609454",
-          "score": 59.26
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-13T02:50:57.414194+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 69.15,
-      "peak_score": 69.15,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "이재명 대통령은 왜 인천 전자발찌 흉기 난동 현장으로 향했는가에 대해서",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739931",
-          "score": 59.15
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "이재명 계란사태 근황.....jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-          "score": 58.83
-        }
-      ],
       "rank": 1,
-      "change": 1
+      "change": "NEW"
+    },
+    {
+      "id": "ibd822fda",
+      "title": "‘아직도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아직도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 98.96,
+      "peak_score": 89.49,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "신비신비 침술의 원리가 아직도 밝혀지지 않은 이유(한줄요약있음)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470108&_dcbest=1&page=1",
+          "score": 80.49
+        },
+        {
+          "source": "클리앙",
+          "rank": 31,
+          "title": "듀오 예약구매 3일도 안남았는데 케이스티파이는 아직도 비공개네요..",
+          "url": "https://www.clien.net/service/board/park/19277168?od=T31&po=0&category=0&groupCd=",
+          "score": 66.73
+        }
+      ],
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.31,
+      "peak_score": 82.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
+          "url": "https://theqoo.net/hot/4374896772",
+          "score": 73.84
+        },
+        {
+          "source": "인벤",
+          "rank": 42,
+          "title": "고맙다고 말해주는 일본인 여자친구.mp4",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739962",
+          "score": 63.59
+        }
+      ],
+      "first_seen": "2026-10-02T06:06:28.724750+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i2272efa7",
@@ -994,115 +653,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.07,
-      "peak_score": 95.07,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[예판]리센느 4th 미니앨범 [PULSE] 예약판매",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107983",
-          "score": 86.07
-        },
-        {
-          "source": "인벤",
-          "rank": 46,
-          "title": "사전예약 리센느 질문 조공 약 ㅎㅂ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739933",
-          "score": 63.18
-        }
-      ],
-      "rank": 2,
-      "change": 2
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.0,
-      "peak_score": 85.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 11,
-          "title": "실시간 중국인들 발작중인 글..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
-          "score": 76.0
-        },
-        {
-          "source": "더쿠",
-          "rank": 12,
-          "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
-          "url": "https://theqoo.net/hot/4374778306",
-          "score": 76.0
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i62196098",
-      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김지용"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.84,
-      "peak_score": 80.84,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "[단독] 김지용~ 터지기 시작~~ ㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151060",
-          "score": 71.84
-        },
-        {
-          "source": "인벤",
-          "rank": 58,
-          "title": "김지용 “인사 공개 비판은 부적절…기강 확립”…‘감찰 대상’ 임은정은 ‘침묵’",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739934",
-          "score": 60.4
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i7481726a",
-      "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
-      "keywords": [
-        "방문",
-        "점검",
-        "흉기",
-        "마트",
-        "경위",
-        "인천경찰청"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.34,
-      "peak_score": 78.34,
+      "score": 87.0,
+      "peak_score": 77.53,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1112,21 +664,141 @@
         {
           "source": "인벤",
           "rank": 23,
-          "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739921",
-          "score": 70.34
+          "title": "리센느 신곡 안무가 정체 알고 소름 돋을 수 밖에 없는 이유 ㄷㄷㄷㄷ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739963",
+          "score": 68.53
         },
         {
           "source": "클리앙",
-          "rank": 36,
-          "title": "李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
-          "url": "https://www.clien.net/service/board/park/19277148?od=T31&po=0&category=0&groupCd=",
-          "score": 66.87
+          "rank": 41,
+          "title": "오랜만에 음악 cd란 걸 주문했는데여 (리센느)",
+          "url": "https://www.clien.net/service/board/park/19277166?od=T31&po=0&category=0&groupCd=",
+          "score": 64.07
         }
       ],
-      "rank": 5,
-      "change": "NEW"
+      "first_seen": "2026-09-27T12:58:49.050910+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 2
     },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.52,
+      "peak_score": 75.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 34,
+          "title": "펌) 이재명 청와대 충격 근황 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151211",
+          "score": 66.05
+        },
+        {
+          "source": "인벤",
+          "rank": 98,
+          "title": "이재명 감옥갈듯",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+          "score": 51.55
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": -2
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.89,
+      "peak_score": 72.42,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 45,
+          "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
+          "url": "https://theqoo.net/hot/4374778306",
+          "score": 63.42
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 52,
+          "title": "실시간 중국인들 발작중인 글..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+          "score": 61.82
+        }
+      ],
+      "first_seen": "2026-10-07T14:44:26.372950+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 7
+    },
+    {
+      "id": "i52afc93f",
+      "title": "‘실패한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실패한"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.51,
+      "peak_score": 72.04,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 48,
+          "title": "실패한 행성과 호의",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470092&_dcbest=1&page=1",
+          "score": 63.04
+        },
+        {
+          "source": "루리웹",
+          "rank": 64,
+          "title": "실패한 자1살이 가장 끔찍한 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77016563?m=humor_only&t=now",
+          "score": 59.81
+        }
+      ],
+      "first_seen": "2026-10-14T03:31:35.725826+09:00",
+      "last_seen": "2026-10-14T03:31:35.725826+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
     {
       "id": "ife021da2",
       "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
@@ -1135,105 +807,241 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.18,
-      "peak_score": 77.18,
+      "score": 106.43,
+      "peak_score": 106.43,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 31,
-          "title": "현재 일본에서 난리난 성매매 법안 ㄷㄷ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739912",
-          "score": 68.18
+          "source": "루리웹",
+          "rank": 2,
+          "title": "현재 일본에서 난리난 성매매 법안",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+          "score": 97.43
         },
         {
           "source": "디시인사이드",
-          "rank": 37,
+          "rank": 93,
           "title": "헤이딜러 때문에 가격 유출되서 난리난 투싼",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470044&_dcbest=1&page=1",
-          "score": 66.05
+          "score": 52.13
         }
       ],
-      "rank": 6,
+      "rank": 1,
+      "change": 5
+    },
+    {
+      "id": "ibd822fda",
+      "title": "‘아직도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아직도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.49,
+      "peak_score": 89.49,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "신비신비 침술의 원리가 아직도 밝혀지지 않은 이유(한줄요약있음)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470108&_dcbest=1&page=1",
+          "score": 80.49
+        },
+        {
+          "source": "클리앙",
+          "rank": 31,
+          "title": "듀오 예약구매 3일도 안남았는데 케이스티파이는 아직도 비공개네요..",
+          "url": "https://www.clien.net/service/board/park/19277168?od=T31&po=0&category=0&groupCd=",
+          "score": 66.73
+        }
+      ],
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i8214f1d0",
-      "title": "‘흉기난동’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "흉기난동"
+        "일본인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.74,
-      "peak_score": 74.74,
+      "score": 82.84,
+      "peak_score": 82.84,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "인벤"
       ],
       "posts": [
         {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
+          "url": "https://theqoo.net/hot/4374896772",
+          "score": 73.84
+        },
+        {
           "source": "인벤",
-          "rank": 38,
-          "title": "인천 구월동 상가서 흉기난동…9명 부상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739927",
-          "score": 65.74
+          "rank": 42,
+          "title": "고맙다고 말해주는 일본인 여자친구.mp4",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739962",
+          "score": 63.59
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i2272efa7",
+      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "리센느"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.53,
+      "peak_score": 77.53,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "리센느 신곡 안무가 정체 알고 소름 돋을 수 밖에 없는 이유 ㄷㄷㄷㄷ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739963",
+          "score": 68.53
+        },
+        {
+          "source": "클리앙",
+          "rank": 41,
+          "title": "오랜만에 음악 cd란 걸 주문했는데여 (리센느)",
+          "url": "https://www.clien.net/service/board/park/19277166?od=T31&po=0&category=0&groupCd=",
+          "score": 64.07
+        }
+      ],
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.05,
+      "peak_score": 75.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 34,
+          "title": "펌) 이재명 청와대 충격 근황 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151211",
+          "score": 66.05
+        },
+        {
+          "source": "인벤",
+          "rank": 98,
+          "title": "이재명 감옥갈듯",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+          "score": 51.55
+        }
+      ],
+      "rank": 5,
+      "change": -4
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.42,
+      "peak_score": 72.42,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 45,
+          "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
+          "url": "https://theqoo.net/hot/4374778306",
+          "score": 63.42
         },
         {
           "source": "디시인사이드",
-          "rank": 81,
-          "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
-          "score": 55.89
+          "rank": 52,
+          "title": "실시간 중국인들 발작중인 글..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+          "score": 61.82
+        }
+      ],
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "id": "i52afc93f",
+      "title": "‘실패한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실패한"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.04,
+      "peak_score": 72.04,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 48,
+          "title": "실패한 행성과 호의",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470092&_dcbest=1&page=1",
+          "score": 63.04
+        },
+        {
+          "source": "루리웹",
+          "rank": 64,
+          "title": "실패한 자1살이 가장 끔찍한 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77016563?m=humor_only&t=now",
+          "score": 59.81
         }
       ],
       "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i50b33b63",
-      "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "고양이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 72.2,
-      "peak_score": 72.2,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 45,
-          "title": "자는척하면서 몰래 아이스크림을 가져가는 고양이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739926",
-          "score": 63.2
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 65,
-          "title": "고양이 찬양 하는 만화",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470054&_dcbest=1&page=1",
-          "score": 58.96
-        }
-      ],
-      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "일본",
-      "score": 157.58,
+      "score": 154.37,
       "post_count": 4,
       "source_count": 4,
       "best_rank": 2,
@@ -1241,100 +1049,73 @@
         "더쿠",
         "디시인사이드",
         "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
-      "keyword": "실시간",
-      "score": 103.91,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 11,
+      "keyword": "아직",
+      "score": 129.41,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 6,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 4
-    },
-    {
-      "keyword": "흉기",
-      "score": 103.63,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
+        "디시인사이드",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 3,
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "리센느",
-      "score": 102.74,
+      "keyword": "난리난",
+      "score": 98.08,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 2,
       "sources": [
-        "루리웹",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": 10
+    },
+    {
+      "keyword": "일본인",
+      "score": 94.98,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 4
+      "change": "NEW"
     },
     {
-      "keyword": "현장",
-      "score": 101.68,
+      "keyword": "상황",
+      "score": 93.8,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 16,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "태도",
-      "score": 101.3,
+      "keyword": "리센느",
+      "score": 93.12,
       "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "영화",
-      "score": 97.95,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": 11
-    },
-    {
-      "keyword": "난동",
-      "score": 97.73,
-      "post_count": 3,
       "source_count": 2,
       "best_rank": 23,
       "sources": [
@@ -1342,29 +1123,57 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
-      "keyword": "인천",
-      "score": 96.29,
-      "post_count": 4,
+      "keyword": "한국",
+      "score": 92.19,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 13,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": -8
+      "rank": 7,
+      "change": 3
     },
     {
-      "keyword": "한국",
-      "score": 95.49,
-      "post_count": 3,
+      "keyword": "3명",
+      "score": 90.18,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 22,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "실시간",
+      "score": 88.13,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 45,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -7
+    },
+    {
+      "keyword": "신작",
+      "score": 86.77,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 27,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -1374,32 +1183,27 @@
       "change": "NEW"
     },
     {
-      "keyword": "인천경찰청",
-      "score": 94.37,
+      "keyword": "실패한",
+      "score": 86.0,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 48,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
-      "aliases": [
-        "경위",
-        "마트",
-        "방문",
-        "점검"
-      ],
+      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "신형",
-      "score": 93.63,
-      "post_count": 3,
+      "keyword": "마트",
+      "score": 84.88,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 59,
       "sources": [
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1407,96 +1211,96 @@
       "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 92.87,
+      "keyword": "이재명",
+      "score": 82.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 34,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": 2
     },
     {
-      "keyword": "김지용",
-      "score": 92.33,
+      "keyword": "정청래",
+      "score": 79.98,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 74,
       "sources": [
         "뽐뿌",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 89.57,
-      "post_count": 3,
+      "keyword": "많은",
+      "score": 78.85,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 64,
+      "best_rank": 72,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 15,
-      "change": -11
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "오늘 갑자기 폭탄을 터트려버린 림월드",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77012087?m=humor",
-      "score": 96.88,
-      "views": 20931,
-      "comments": 94
-    },
-    {
-      "source": "뽐뿌",
-      "title": "[네이버페이] 사조대림, 삼성전자 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119562",
-      "score": 82.2,
-      "views": 7502,
-      "comments": 10
-    },
-    {
-      "source": "더쿠",
-      "title": "쩝 초등교사 힘들다 하는거 공감 안되네...",
-      "url": "https://theqoo.net/hot/4374710257",
-      "score": 81.84,
-      "views": 40647,
-      "comments": 652
+      "title": "로봇 합체씬에서 불똥이 튀고 연기가 나던 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014628?m=humor",
+      "score": 98.1,
+      "views": 13904,
+      "comments": 91
     },
     {
       "source": "디시인사이드",
-      "title": "가슴 좋아하는 남친 이야기로 내분난 여초 상황.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470084&_dcbest=1&page=1",
-      "score": 77.25,
-      "views": 13332,
-      "comments": 159
+      "title": "서경덕 교수 \"중국이 문화침탈 정부는뭐하고있냐\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470106&_dcbest=1&page=1",
+      "score": 83.6,
+      "views": 8874,
+      "comments": 322
     },
     {
       "source": "인벤",
-      "title": "주적이 누군지 다들 잊은거",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2739919",
-      "score": 74.59,
-      "views": 1015,
-      "comments": 37
+      "title": "온리팬스 서버 터진 이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739968",
+      "score": 80.35,
+      "views": 1304,
+      "comments": 7
     },
     {
       "source": "클리앙",
-      "title": "머스크 아이 낳은 女, 비밀계약 공개…“534억에 평생 발설 불가”",
-      "url": "https://www.clien.net/service/board/park/19277141?od=T31&po=0&category=0&groupCd=",
-      "score": 70.65,
-      "views": 2563,
+      "title": "올해 초의 우려가 현실이 되버렸네요.",
+      "url": "https://www.clien.net/service/board/park/19277178?od=T31&po=0&category=0&groupCd=",
+      "score": 79.31,
+      "views": 2119,
       "comments": 7
+    },
+    {
+      "source": "뽐뿌",
+      "title": "검찰 카르텔과 한몸이 되어버린 청와대",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150969",
+      "score": 77.0,
+      "views": 6233,
+      "comments": 11
+    },
+    {
+      "source": "더쿠",
+      "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
+      "url": "https://theqoo.net/hot/4374896772",
+      "score": 73.84,
+      "views": 22323,
+      "comments": 308
     }
   ]
 }
