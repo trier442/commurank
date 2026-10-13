@@ -3,9 +3,67 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-13T12:55:26.446706+09:00",
+  "collected_at": "2026-10-13T15:44:30.450438+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i849dd46f",
+      "title": "속보)인천 칼부림 발생",
+      "keywords": [
+        "인천",
+        "칼부림",
+        "홈플러스",
+        "구월점서",
+        "부상"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 132.43,
+      "peak_score": 111.96,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "속보)인천 칼부림 발생",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469959&_dcbest=1&page=1",
+          "score": 88.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 13,
+          "title": "[1보] 홈플러스 인천 구월점서 칼부림 신고…\"6∼8명 부상\"",
+          "url": "https://theqoo.net/hot/4374226625",
+          "score": 72.37
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "[속보] 홈플러스 인천 구월점서 칼부림⋯1명 심정지·7명 부상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739719",
+          "score": 59.18
+        },
+        {
+          "source": "루리웹",
+          "rank": 80,
+          "title": "인천 칼부림 범인 살인미수로 복역 전자발찌 착용상태로 범행",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77009918?m=humor_only&t=now",
+          "score": 56.28
+        }
+      ],
+      "first_seen": "2026-10-13T15:44:30.450438+09:00",
+      "last_seen": "2026-10-13T15:44:30.450438+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 5,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ia8451ee4",
       "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,8 +99,8 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -79,8 +137,8 @@
       "last_seen": "2026-10-13T08:34:17.510208+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i4a0a5902",
@@ -118,8 +176,8 @@
       "last_seen": "2026-10-13T12:55:26.446706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ifd5a2cc3",
@@ -156,7 +214,7 @@
       "last_seen": "2026-10-12T16:25:50.612992+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -202,7 +260,7 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -241,8 +299,54 @@
       "last_seen": "2026-10-13T01:56:17.405112+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": -1
+    },
+    {
+      "id": "ib32476d8",
+      "title": "‘twt’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "twt"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 98.52,
+      "peak_score": 84.05,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "미주신경성 실신의 전조.twt",
+          "url": "https://theqoo.net/hot/4374178134",
+          "score": 67.05
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 68,
+          "title": "감독 오피셜.twt",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469943&_dcbest=1&page=1",
+          "score": 59.35
+        },
+        {
+          "source": "인벤",
+          "rank": 73,
+          "title": "외모 객관화가 안된다는 일본 남자들.twt",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739716",
+          "score": 58.18
+        }
+      ],
+      "first_seen": "2026-10-13T15:44:30.450438+09:00",
+      "last_seen": "2026-10-13T15:44:30.450438+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "iead2b930",
@@ -279,8 +383,8 @@
       "last_seen": "2026-10-13T02:50:57.414194+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "ie375bdab",
@@ -326,8 +430,8 @@
       "last_seen": "2026-10-12T07:02:30.022923+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": -1
+      "rank": 10,
+      "change": -2
     },
     {
       "id": "i36ddd5fd",
@@ -365,8 +469,8 @@
       "last_seen": "2026-10-13T12:55:26.446706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 11,
+      "change": -2
     },
     {
       "id": "i94b10f2d",
@@ -403,7 +507,7 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 12,
       "change": -2
     },
     {
@@ -442,8 +546,8 @@
       "last_seen": "2026-10-13T12:55:26.446706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 1
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "i653d69c1",
@@ -480,8 +584,8 @@
       "last_seen": "2026-10-12T07:02:30.022923+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -3
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i5b69a25a",
@@ -518,8 +622,8 @@
       "last_seen": "2026-10-13T12:55:26.446706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": "NEW"
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "ib92d7d28",
@@ -556,8 +660,8 @@
       "last_seen": "2026-10-12T07:02:30.022923+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": -4
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "ie761e8b9",
@@ -598,8 +702,8 @@
       "last_seen": "2026-10-13T02:50:57.414194+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -4
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i9992652a",
@@ -637,8 +741,8 @@
       "last_seen": "2026-10-13T12:55:26.446706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "ibb53d25b",
@@ -675,8 +779,8 @@
       "last_seen": "2026-10-13T01:56:17.405112+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -4
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "ifcbb8cb4",
@@ -714,84 +818,8 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -4
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.95,
-      "peak_score": 75.48,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 28,
-          "title": "현재 펨코 // '클리앙 공략' 관련 실시간 인기글",
-          "url": "https://www.clien.net/service/board/park/19276281?od=T31&po=0&category=0&groupCd=",
-          "score": 66.48
-        },
-        {
-          "source": "더쿠",
-          "rank": 50,
-          "title": "10월 중순 실시간 사람들 근황.....jpg",
-          "url": "https://theqoo.net/hot/4372449799",
-          "score": 62.58
-        }
-      ],
-      "first_seen": "2026-10-07T14:44:26.372950+09:00",
-      "last_seen": "2026-10-12T03:07:28.872364+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -4
-    },
-    {
-      "id": "ie1537023",
-      "title": "‘김수현’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김수현"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 84.89,
-      "peak_score": 74.42,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "[단독] \"2016년 카톡은, 연예인 A씨\"…김수현, 조작의 피해자",
-          "url": "https://theqoo.net/hot/4373977216",
-          "score": 64.42
-        },
-        {
-          "source": "인벤",
-          "rank": 89,
-          "title": "김수현 사건으로 펨코가 하던 조롱",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739654",
-          "score": 55.15
-        }
-      ],
-      "first_seen": "2026-10-13T12:55:26.446706+09:00",
-      "last_seen": "2026-10-13T12:55:26.446706+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 20,
-      "change": "NEW"
+      "change": -2
     }
   ]
 }
