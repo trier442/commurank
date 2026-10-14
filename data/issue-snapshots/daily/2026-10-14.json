@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-14",
   "label": "2026년 10월 14일",
-  "collected_at": "2026-10-14T17:54:17.976605+09:00",
+  "collected_at": "2026-10-14T22:01:36.734890+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -238,6 +238,45 @@
       "change": 0
     },
     {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.27,
+      "peak_score": 84.34,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 74,
+          "title": "한국의 GDP가 앞서갔다며 돈 달라는 일본인",
+          "url": "https://theqoo.net/hot/4375694345",
+          "score": 55.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 81,
+          "title": "러시아 정보국, 일본인 스파이 체포 전격 공개... 양국 갈등 심각화",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470285&_dcbest=1&page=1",
+          "score": 53.21
+        }
+      ],
+      "first_seen": "2026-10-02T06:06:28.724750+09:00",
+      "last_seen": "2026-10-14T22:01:36.734890+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
+    },
+    {
       "id": "i6696390a",
       "title": "투싼 가격공개 연기 이유",
       "keywords": [
@@ -273,46 +312,8 @@
       "last_seen": "2026-10-14T08:04:49.393710+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.83,
-      "peak_score": 84.34,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 13,
-          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
-          "url": "https://theqoo.net/hot/4374896772",
-          "score": 75.34
-        },
-        {
-          "source": "인벤",
-          "rank": 48,
-          "title": "고맙다고 말해주는 일본인 여자친구.mp4",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739962",
-          "score": 62.26
-        }
-      ],
-      "first_seen": "2026-10-02T06:06:28.724750+09:00",
-      "last_seen": "2026-10-14T05:27:21.903710+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i33918c7f",
@@ -579,7 +580,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2b31c12c",
@@ -618,7 +619,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i06681ab6",
@@ -656,7 +657,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3fd021ac",
@@ -694,7 +695,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibadbb9af",
@@ -732,7 +733,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iaaaa8104",
@@ -771,7 +772,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }

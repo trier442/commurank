@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-14",
   "label": "2026년 10월 14일",
-  "collected_at": "2026-10-14T17:54:17.976605+09:00",
+  "collected_at": "2026-10-14T22:01:36.734890+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘난리난’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #이해. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘난리난’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #제압. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 14,
-    "top100_views": 907638,
-    "top100_comments": 10625
+    "keywords": 15,
+    "top100_views": 1047868,
+    "top100_comments": 12276
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "플스 탈옥 가지고 댓싸움하는데 아주 가관이네 ㅋㅋㅋ",
+      "title": "PC방에서 돈 낸 1시간 내에 CPU 훔치면 합법임?",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77020011?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021396?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#이해",
+      "title": "#제압",
       "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "이해"
+      "keyword": "제압"
     }
   ],
   "top_posts": [
+    {
+      "title": "PC방에서 돈 낸 1시간 내에 CPU 훔치면 합법임?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021396?m=humor",
+      "first_seen": "2026-10-14T17:54:17.976605+09:00",
+      "last_seen": "2026-10-14T22:01:36.734890+09:00",
+      "peak_score": 98.12,
+      "max_views": 28610,
+      "max_likes": 168,
+      "max_comments": 111,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 98.12,
+          "max_views": 28610,
+          "max_likes": 168,
+          "max_comments": 111,
+          "appearances": 2,
+          "last_seen": "2026-10-14T22:01:36.734890+09:00"
+        }
+      },
+      "score": 108.54,
+      "views": 28610,
+      "likes": 168,
+      "comments": 111,
+      "active_days": 1,
+      "change": 13
+    },
     {
       "title": "플스 탈옥 가지고 댓싸움하는데 아주 가관이네 ㅋㅋㅋ",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-14T17:54:17.976605+09:00"
         }
       },
-      "score": 107.21,
+      "score": 106.87,
       "views": 18157,
       "likes": 124,
       "comments": 102,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "\"한 시간 반째 버스가 안 와요\"‥마라톤하면 버스가 안 온다",
@@ -88,7 +117,7 @@
           "last_seen": "2026-10-14T12:20:41.119211+09:00"
         }
       },
-      "score": 107.18,
+      "score": 106.84,
       "views": 14454,
       "likes": 131,
       "comments": 85,
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-14T16:27:05.676357+09:00"
         }
       },
-      "score": 107.11,
+      "score": 106.77,
       "views": 37650,
       "likes": 83,
       "comments": 124,
@@ -146,7 +175,7 @@
           "last_seen": "2026-10-14T16:27:05.676357+09:00"
         }
       },
-      "score": 106.84,
+      "score": 106.5,
       "views": 46691,
       "likes": 165,
       "comments": 146,
@@ -175,12 +204,41 @@
           "last_seen": "2026-10-14T05:27:21.903710+09:00"
         }
       },
-      "score": 106.61,
+      "score": 106.26,
       "views": 21313,
       "likes": 98,
       "comments": 65,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "유게에서 디얍 언금 이제 풀렸나 보네",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021713?m=humor",
+      "first_seen": "2026-10-14T22:01:36.734890+09:00",
+      "last_seen": "2026-10-14T22:01:36.734890+09:00",
+      "peak_score": 96.61,
+      "max_views": 21823,
+      "max_likes": 199,
+      "max_comments": 134,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-14": {
+          "max_score": 96.61,
+          "max_views": 21823,
+          "max_likes": 199,
+          "max_comments": 134,
+          "appearances": 1,
+          "last_seen": "2026-10-14T22:01:36.734890+09:00"
+        }
+      },
+      "score": 106.13,
+      "views": 21823,
+      "likes": 199,
+      "comments": 134,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "로봇 합체씬에서 불똥이 튀고 연기가 나던 이유",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-14T03:31:35.725826+09:00"
         }
       },
-      "score": 106.43,
+      "score": 106.08,
       "views": 13904,
       "likes": 113,
       "comments": 91,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "요즘 키작은 남자들 더 인식이 안좋은 이유 jpg",
@@ -233,12 +291,12 @@
           "last_seen": "2026-10-14T17:54:17.976605+09:00"
         }
       },
-      "score": 106.12,
+      "score": 105.78,
       "views": 27798,
       "likes": 123,
       "comments": 110,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "의외로 여자들이 게임하는 남자를 기분나빠하는 이유",
@@ -262,142 +320,64 @@
           "last_seen": "2026-10-14T08:52:45.032622+09:00"
         }
       },
-      "score": 105.83,
+      "score": 105.49,
       "views": 18614,
       "likes": 83,
       "comments": 53,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "행정법의 한 획을 그은 미국인",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77017604?m=humor",
-      "first_seen": "2026-10-14T10:56:49.628204+09:00",
-      "last_seen": "2026-10-14T10:56:49.628204+09:00",
-      "peak_score": 96.84,
-      "max_views": 14758,
-      "max_likes": 122,
-      "max_comments": 75,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-14": {
-          "max_score": 96.84,
-          "max_views": 14758,
-          "max_likes": 122,
-          "max_comments": 75,
-          "appearances": 1,
-          "last_seen": "2026-10-14T10:56:49.628204+09:00"
-        }
-      },
-      "score": 105.79,
-      "views": 14758,
-      "likes": 122,
-      "comments": 75,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "현재 일본에서 난리난 성매매 법안",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
-      "first_seen": "2026-10-14T03:31:35.725826+09:00",
-      "last_seen": "2026-10-14T03:31:35.725826+09:00",
-      "peak_score": 97.43,
-      "max_views": 29412,
-      "max_likes": 242,
-      "max_comments": 131,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-14": {
-          "max_score": 97.43,
-          "max_views": 29412,
-          "max_likes": 242,
-          "max_comments": 131,
-          "appearances": 1,
-          "last_seen": "2026-10-14T03:31:35.725826+09:00"
-        }
-      },
-      "score": 105.76,
-      "views": 29412,
-      "likes": 242,
-      "comments": 131,
       "active_days": 1,
       "change": -2
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "펌)리얼한 노로바이러스 후기",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151790",
+      "source": "루리웹",
+      "title": "PC방에서 돈 낸 1시간 내에 CPU 훔치면 합법임?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021396?m=humor",
       "category": "이슈",
-      "views": 29693,
-      "likes": 16,
-      "comments": 128,
-      "score": 57.12,
-      "change": 0,
-      "current_rank": 71,
+      "views": 28610,
+      "likes": 168,
+      "comments": 111,
+      "score": 98.12,
+      "change": 2,
+      "current_rank": 1,
       "new_entry": false,
-      "delta_views": 15070,
-      "delta_likes": 8,
-      "delta_comments": 49,
-      "rank_gain": 0,
+      "delta_views": 8881,
+      "delta_likes": 35,
+      "delta_comments": 11,
+      "rank_gain": 2,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 87
+      "window_minutes": 247
     },
     {
-      "source": "디시인사이드",
-      "title": "성추행범 누명 쓴 초등학생",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470255&_dcbest=1&page=1",
+      "source": "뽐뿌",
+      "title": "현재) 난리난 다음달 수능 비상 근황 ㄷ..jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151867",
       "category": "이슈",
-      "views": 21615,
-      "likes": 204,
-      "comments": 525,
-      "score": 84.64,
-      "change": 60,
-      "current_rank": 4,
+      "views": 24709,
+      "likes": 1,
+      "comments": 89,
+      "score": 61.26,
+      "change": 0,
+      "current_rank": 52,
       "new_entry": false,
-      "delta_views": 21244,
-      "delta_likes": 201,
-      "delta_comments": 512,
-      "rank_gain": 60,
-      "rising_score": 95.52,
-      "rising_rank": 2,
-      "window_minutes": 87
-    },
-    {
-      "source": "루리웹",
-      "title": "플스 탈옥 가지고 댓싸움하는데 아주 가관이네 ㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77020011?m=humor",
-      "category": "게임",
-      "views": 18157,
-      "likes": 124,
-      "comments": 102,
-      "score": 97.69,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
+      "delta_views": 20075,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 67,
       "rank_gain": 0,
-      "rising_score": 83.03,
-      "rising_rank": 3,
-      "window_minutes": 87
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 247
     },
     {
       "source": "루리웹",
-      "title": "요즘 키작은 남자들 더 인식이 안좋은 이유 jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77019852?m=humor",
+      "title": "유게에서 디얍 언금 이제 풀렸나 보네",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021713?m=humor",
       "category": "이슈",
-      "views": 27798,
-      "likes": 123,
-      "comments": 110,
-      "score": 96.6,
+      "views": 21823,
+      "likes": 199,
+      "comments": 134,
+      "score": 96.61,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.57,
-      "rising_rank": 4,
-      "window_minutes": 87
+      "rising_score": 82.58,
+      "rising_rank": 3,
+      "window_minutes": 247
     },
     {
       "source": "루리웹",
-      "title": "PC방에서 돈 낸 1시간 내에 CPU 훔치면 합법임?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021396?m=humor",
-      "category": "이슈",
-      "views": 19729,
-      "likes": 133,
-      "comments": 100,
-      "score": 94.22,
+      "title": "\"오랜만에 던파 근황이나 유튜브로 봐야겠다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021496?m=humor",
+      "category": "게임",
+      "views": 24696,
+      "likes": 117,
+      "comments": 125,
+      "score": 93.84,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,99 +405,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.57,
+      "rising_score": 81.41,
+      "rising_rank": 4,
+      "window_minutes": 247
+    },
+    {
+      "source": "디시인사이드",
+      "title": "성추행범 누명 쓴 초등학생",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470255&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 33118,
+      "likes": 342,
+      "comments": 730,
+      "score": 56.55,
+      "change": 0,
+      "current_rank": 70,
+      "new_entry": false,
+      "delta_views": 11503,
+      "delta_likes": 138,
+      "delta_comments": 205,
+      "rank_gain": 0,
+      "rising_score": 79.63,
       "rising_rank": 5,
-      "window_minutes": 87
+      "window_minutes": 247
     },
     {
-      "source": "인벤",
-      "title": "택시 탈 때 존나 이해 안되는 반응",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740203",
+      "source": "디시인사이드",
+      "title": "ㅋㅋㅋㅋㅋㅋ진실의 입 열렸노ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470323&_dcbest=1&page=1",
       "category": "유머",
-      "views": 4902,
-      "likes": 11,
-      "comments": 34,
-      "score": 52.57,
-      "change": 0,
-      "current_rank": 91,
-      "new_entry": false,
-      "delta_views": 3476,
-      "delta_likes": 9,
-      "delta_comments": 16,
-      "rank_gain": 0,
-      "rising_score": 81.02,
-      "rising_rank": 6,
-      "window_minutes": 87
-    },
-    {
-      "source": "더쿠",
-      "title": "현재 난리난 식약처 마운자로 직구에대한입장",
-      "url": "https://theqoo.net/hot/4375400769",
-      "category": "이슈",
-      "views": 55456,
-      "likes": 0,
-      "comments": 507,
-      "score": 73.37,
-      "change": 4,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 26257,
+      "views": 15672,
+      "likes": 476,
+      "comments": 241,
+      "score": 87.52,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 168,
-      "rank_gain": 4,
-      "rising_score": 78.33,
-      "rising_rank": 7,
-      "window_minutes": 87
-    },
-    {
-      "source": "디시인사이드",
-      "title": "훌쩍훌쩍 한국형 핵추진 잠수함 계획 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470252&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 7017,
-      "likes": 117,
-      "comments": 158,
-      "score": 69.35,
-      "change": 0,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 4671,
-      "delta_likes": 71,
-      "delta_comments": 72,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.69,
-      "rising_rank": 8,
-      "window_minutes": 87
+      "rising_score": 78.76,
+      "rising_rank": 6,
+      "window_minutes": 247
     },
     {
       "source": "디시인사이드",
-      "title": "부캉이, 12월에 죽을지도…수온 하락에 폐사 가능성 나왔다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470253&_dcbest=1&page=1",
+      "title": "싱글벙글 질삭튀를 하는 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470333&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 7450,
-      "likes": 15,
-      "comments": 232,
-      "score": 65.16,
-      "change": 17,
-      "current_rank": 31,
-      "new_entry": false,
-      "delta_views": 6290,
-      "delta_likes": 8,
-      "delta_comments": 167,
-      "rank_gain": 17,
-      "rising_score": 74.06,
-      "rising_rank": 9,
-      "window_minutes": 87
-    },
-    {
-      "source": "디시인사이드",
-      "title": "IMF \"한국 올해 1인당GDP 4만3512달러 전망\"ㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470262&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 3864,
-      "likes": 63,
-      "comments": 383,
-      "score": 75.77,
+      "views": 14760,
+      "likes": 86,
+      "comments": 158,
+      "score": 85.44,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -525,9 +465,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.82,
+      "rising_score": 77.88,
+      "rising_rank": 7,
+      "window_minutes": 247
+    },
+    {
+      "source": "디시인사이드",
+      "title": "마라톤 사망여성 스펙...",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470307&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 24796,
+      "likes": 90,
+      "comments": 697,
+      "score": 80.92,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.99,
+      "rising_rank": 8,
+      "window_minutes": 247
+    },
+    {
+      "source": "뽐뿌",
+      "title": "화장실 바닥 타일 틈새에서 발견된 몰카 ㄷ.avi",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151830",
+      "category": "이슈",
+      "views": 23431,
+      "likes": 0,
+      "comments": 78,
+      "score": 80.15,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.66,
+      "rising_rank": 9,
+      "window_minutes": 247
+    },
+    {
+      "source": "디시인사이드",
+      "title": "IMF \"한국 올해 1인당GDP 4만3512달러 전망\"ㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470262&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 39081,
+      "likes": 89,
+      "comments": 643,
+      "score": 58.55,
+      "change": 0,
+      "current_rank": 65,
+      "new_entry": false,
+      "delta_views": 35217,
+      "delta_likes": 26,
+      "delta_comments": 260,
+      "rank_gain": 0,
+      "rising_score": 75.46,
       "rising_rank": 10,
-      "window_minutes": 87
+      "window_minutes": 247
     }
   ],
   "issues": [
@@ -763,6 +763,45 @@
       "change": 0
     },
     {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.27,
+      "peak_score": 84.34,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 74,
+          "title": "한국의 GDP가 앞서갔다며 돈 달라는 일본인",
+          "url": "https://theqoo.net/hot/4375694345",
+          "score": 55.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 81,
+          "title": "러시아 정보국, 일본인 스파이 체포 전격 공개... 양국 갈등 심각화",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470285&_dcbest=1&page=1",
+          "score": 53.21
+        }
+      ],
+      "first_seen": "2026-10-02T06:06:28.724750+09:00",
+      "last_seen": "2026-10-14T22:01:36.734890+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
+    },
+    {
       "id": "i6696390a",
       "title": "투싼 가격공개 연기 이유",
       "keywords": [
@@ -798,46 +837,8 @@
       "last_seen": "2026-10-14T08:04:49.393710+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.83,
-      "peak_score": 84.34,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 13,
-          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
-          "url": "https://theqoo.net/hot/4374896772",
-          "score": 75.34
-        },
-        {
-          "source": "인벤",
-          "rank": 48,
-          "title": "고맙다고 말해주는 일본인 여자친구.mp4",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739962",
-          "score": 62.26
-        }
-      ],
-      "first_seen": "2026-10-02T06:06:28.724750+09:00",
-      "last_seen": "2026-10-14T05:27:21.903710+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i33918c7f",
@@ -918,351 +919,216 @@
   ],
   "realtime_issues": [
     {
-      "id": "i33918c7f",
-      "title": "‘식약처’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i62196098",
+      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "식약처"
+        "김지용"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 82.37,
-      "peak_score": 82.37,
+      "score": 72.7,
+      "peak_score": 72.7,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 8,
-          "title": "현재 난리난 식약처 마운자로 직구에대한입장",
-          "url": "https://theqoo.net/hot/4375400769",
-          "score": 73.37
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 96,
-          "title": "MBC) 위고비 맞고 시력 손상...식약처 이상증상 인정",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470240&_dcbest=1&page=1",
-          "score": 50.92
-        }
-      ],
-      "rank": 1,
-      "change": 2
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.37,
-      "peak_score": 82.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 8,
-          "title": "현재 난리난 식약처 마운자로 직구에대한입장",
-          "url": "https://theqoo.net/hot/4375400769",
-          "score": 73.37
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 24,
-          "title": "현재) 난리난 다음달 수능 비상 근황 ㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151867",
-          "score": 67.24
-        }
-      ],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i4b729352",
-      "title": "‘기안84’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "기안84"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.26,
-      "peak_score": 78.26,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "사흘간 팬티 안 갈아입었다는 기안84…",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470264&_dcbest=1&page=1",
-          "score": 69.26
-        },
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "김연경이 극혐하는 기안84 위생관념",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740230",
-          "score": 68.23
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "ibadbb9af",
-      "title": "‘안된다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안된다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.53,
-      "peak_score": 76.53,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 23,
-          "title": "택시 탈때 이해 안된다는 반응 은근 있는거.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151902",
-          "score": 67.53
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 53,
-          "title": "여자들끼리만 말하는.. 외부로 알려선 안된다는 꿀직업..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470224&_dcbest=1&page=1",
-          "score": 59.53
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.03,
-      "peak_score": 76.03,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 25,
-          "title": "민주당...다음 대선주자 예상",
-          "url": "https://www.clien.net/service/board/park/19277487?od=T31&po=0&category=0&groupCd=",
-          "score": 67.03
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 63,
-          "title": "[속보]김민석\"신천지, 민주당 집단 가입 확인..증언도 있다\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151833",
-          "score": 58.3
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "iaaaa8104",
-      "title": "택시 탈때 이해 안된다는 반응 은근 있는거.jpg",
-      "keywords": [
-        "이해",
-        "택시"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.53,
-      "peak_score": 75.53,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 23,
-          "title": "택시 탈때 이해 안된다는 반응 은근 있는거.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151902",
-          "score": 67.53
+          "rank": 39,
+          "title": "누가 거짓말을 하는가? 김지용 VS 청와대",
+          "url": "https://www.clien.net/service/board/park/19277570?od=T31&po=0&category=0&groupCd=",
+          "score": 63.7
         },
         {
           "source": "인벤",
-          "rank": 91,
-          "title": "택시 탈 때 존나 이해 안되는 반응",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740203",
-          "score": 52.57
+          "rank": 71,
+          "title": "김지용 후보가 청문에헤서 한 발언 \":정진웅, 업무상 과실치상으로 기소하는 것은 정당했다”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740324",
+          "score": 56.45
         }
       ],
-      "rank": 6,
+      "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "ib910859c",
-      "title": "‘위고비’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia155b8b2",
+      "title": "범정부 훈련 홍보물에 중국군 유사 계급장?…현수막·온라인에 확산",
       "keywords": [
-        "위고비"
+        "중국군",
+        "범정부",
+        "홍보물에"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 67.72,
-      "peak_score": 67.72,
+      "score": 69.18,
+      "peak_score": 69.18,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "범정부 훈련 홍보물에 중국군 유사 계급장?…현수막·온라인에 확산",
+          "url": "https://www.clien.net/service/board/park/19277573?od=T31&po=0&category=0&groupCd=",
+          "score": 61.18
+        },
+        {
           "source": "인벤",
-          "rank": 60,
-          "title": "[단독] 한미약품 비만약 月12만 9800원…위고비·마운자로보다 싸다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740217",
-          "score": 58.72
+          "rank": 69,
+          "title": "범정부 홍보물에 중국군 계급 이미지 논란",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740342",
+          "score": 57.12
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 64.21,
+      "peak_score": 64.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 74,
+          "title": "한국의 GDP가 앞서갔다며 돈 달라는 일본인",
+          "url": "https://theqoo.net/hot/4375694345",
+          "score": 55.21
         },
         {
           "source": "디시인사이드",
-          "rank": 96,
-          "title": "MBC) 위고비 맞고 시력 손상...식약처 이상증상 인정",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470240&_dcbest=1&page=1",
-          "score": 50.92
+          "rank": 81,
+          "title": "러시아 정보국, 일본인 스파이 체포 전격 공개... 양국 갈등 심각화",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470285&_dcbest=1&page=1",
+          "score": 53.21
         }
       ],
-      "rank": 7,
-      "change": -2
+      "rank": 3,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "이해",
-      "score": 118.53,
+      "keyword": "제압",
+      "score": 114.67,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 19,
+      "best_rank": 37,
       "sources": [
         "더쿠",
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 6
+      "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 102.29,
-      "post_count": 2,
+      "keyword": "인스타",
+      "score": 108.06,
+      "post_count": 5,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 42,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 4
+      "change": "NEW"
     },
     {
-      "keyword": "기안84",
-      "score": 99.28,
-      "post_count": 2,
+      "keyword": "전망",
+      "score": 103.12,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 12,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 98.54,
+      "keyword": "정부",
+      "score": 95.72,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 10
+      "change": "NEW"
     },
     {
-      "keyword": "여성",
-      "score": 97.49,
-      "post_count": 2,
+      "keyword": "애플",
+      "score": 94.31,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 17,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "마운자로",
-      "score": 96.77,
+      "keyword": "중국",
+      "score": 93.91,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "식약처",
-      "score": 91.36,
-      "post_count": 2,
+      "keyword": "한국",
+      "score": 93.21,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 24,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 3
+      "change": -3
     },
     {
-      "keyword": "안된다",
-      "score": 90.91,
-      "post_count": 2,
+      "keyword": "체포",
+      "score": 88.18,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 50,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -1272,13 +1138,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "민주당",
-      "score": 89.23,
+      "keyword": "김지용",
+      "score": 85.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 39,
       "sources": [
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1286,124 +1152,140 @@
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 88.48,
+      "keyword": "범정부",
+      "score": 84.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 53,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "중국군",
+        "홍보물"
+      ],
       "rank": 10,
-      "change": 1
+      "change": "NEW"
     },
     {
       "keyword": "후기",
-      "score": 85.81,
+      "score": 82.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 39,
+      "best_rank": 60,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
-      "change": -10
+      "change": 0
     },
     {
-      "keyword": "택시",
-      "score": 85.37,
+      "keyword": "리센느",
+      "score": 82.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 48,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 79.22,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 73,
+      "keyword": "후방",
+      "score": 78.89,
+      "post_count": 4,
+      "source_count": 1,
+      "best_rank": 42,
       "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": -11
-    },
-    {
-      "keyword": "위고비",
-      "score": 78.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 60,
-      "sources": [
-        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본인",
+      "score": 78.82,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 74,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
       "rank": 14,
-      "change": 2
+      "change": "NEW"
+    },
+    {
+      "keyword": "만화",
+      "score": 78.09,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 64,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "플스 탈옥 가지고 댓싸움하는데 아주 가관이네 ㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77020011?m=humor",
-      "score": 97.69,
-      "views": 18157,
-      "comments": 102
+      "title": "PC방에서 돈 낸 1시간 내에 CPU 훔치면 합법임?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77021396?m=humor",
+      "score": 98.12,
+      "views": 28610,
+      "comments": 111
     },
     {
       "source": "디시인사이드",
-      "title": "성추행범 누명 쓴 초등학생",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470255&_dcbest=1&page=1",
-      "score": 84.64,
-      "views": 21615,
-      "comments": 525
-    },
-    {
-      "source": "인벤",
-      "title": "신형 투싼 유출된 가격",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740224",
-      "score": 74.23,
-      "views": 2473,
-      "comments": 19
-    },
-    {
-      "source": "더쿠",
-      "title": "현재 난리난 식약처 마운자로 직구에대한입장",
-      "url": "https://theqoo.net/hot/4375400769",
-      "score": 73.37,
-      "views": 55456,
-      "comments": 507
+      "title": "ㅋㅋㅋㅋㅋㅋ진실의 입 열렸노ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470323&_dcbest=1&page=1",
+      "score": 87.52,
+      "views": 15672,
+      "comments": 241
     },
     {
       "source": "뽐뿌",
-      "title": "심폐소생술 할때 \"여성 속옷\" 벗기지마!!",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151823",
-      "score": 72.6,
-      "views": 5927,
-      "comments": 25
+      "title": "화장실 바닥 타일 틈새에서 발견된 몰카 ㄷ.avi",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151830",
+      "score": 80.15,
+      "views": 23431,
+      "comments": 78
+    },
+    {
+      "source": "인벤",
+      "title": "배현진 \"조국과 한동훈 딸은 다르다\"",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2740336",
+      "score": 73.43,
+      "views": 1157,
+      "comments": 15
+    },
+    {
+      "source": "더쿠",
+      "title": "성심당 싹쓸이 논란 해명글 올린 이지혜 인스타그램 업데이트 (어이없음 주의)",
+      "url": "https://theqoo.net/hot/4375712403",
+      "score": 72.37,
+      "views": 54388,
+      "comments": 545
     },
     {
       "source": "클리앙",
-      "title": "민주당...다음 대선주자 예상",
-      "url": "https://www.clien.net/service/board/park/19277487?od=T31&po=0&category=0&groupCd=",
-      "score": 67.03,
-      "views": 1328,
-      "comments": 29
+      "title": "오 애플 홈뷰 벽걸이가 되는군요?",
+      "url": "https://www.clien.net/service/board/park/19277565?od=T31&po=0&category=0&groupCd=",
+      "score": 71.58,
+      "views": 1465,
+      "comments": 8
     }
   ]
 }
