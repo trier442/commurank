@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-15",
   "label": "2026년 10월 15일",
-  "collected_at": "2026-10-15T06:59:35.048367+09:00",
+  "collected_at": "2026-10-15T09:03:33.722260+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -133,6 +133,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.83,
+      "peak_score": 87.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 11,
+          "title": "[설빙] 네이버페이 9,900원 이상 결제 시 50% 적립(10/15~18)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108045",
+          "score": 78.36
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 27,
+          "title": "[란123] 네이버페이 78원 + 랜덤 포인트 받으세요 (+기타 464원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328",
+          "score": 69.16
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-15T09:03:33.722260+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "ib9056a9e",
       "title": "‘중수청장’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -167,8 +205,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i7f2707f9",
@@ -207,8 +245,8 @@
       "last_seen": "2026-10-15T02:57:30.176530+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i4a0a5902",
@@ -246,8 +284,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i2272efa7",
@@ -284,8 +322,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ifd7a1560",
@@ -323,8 +361,8 @@
       "last_seen": "2026-10-15T03:46:46.002128+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i36a25170",
@@ -361,7 +399,47 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 10,
+      "change": -1
+    },
+    {
+      "id": "i647b8566",
+      "title": "고일석 기자의 김지용 청문회 감상문",
+      "keywords": [
+        "고일석",
+        "김지용",
+        "청문회"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.04,
+      "peak_score": 68.57,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 54,
+          "title": "고일석 기자의 김지용 청문회 감상문",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152295",
+          "score": 60.57
+        },
+        {
+          "source": "클리앙",
+          "rank": 83,
+          "title": "(펌)고일석 - 김지용 청문회",
+          "url": "https://www.clien.net/service/board/park/19277673?od=T31&po=0&category=0&groupCd=",
+          "score": 54.42
+        }
+      ],
+      "first_seen": "2026-10-15T09:03:33.722260+09:00",
+      "last_seen": "2026-10-15T09:03:33.722260+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
       "change": "NEW"
     },
     {
@@ -399,8 +477,8 @@
       "last_seen": "2026-10-15T02:57:30.176530+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
+      "rank": 12,
+      "change": -2
     }
   ]
 }
