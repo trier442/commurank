@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-15",
   "label": "2026년 10월 15일",
-  "collected_at": "2026-10-15T13:27:28.732130+09:00",
+  "collected_at": "2026-10-15T14:11:05.910258+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘한국에서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #인천. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘한국에서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #가능성. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 17,
-    "top100_views": 886550,
-    "top100_comments": 9335
+    "keywords": 16,
+    "top100_views": 964862,
+    "top100_comments": 9014
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "일본 규동이 한국에서 힘을 못쓰는 이유",
+      "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77028723?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#인천",
+      "title": "#가능성",
       "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "인천"
+      "keyword": "가능성"
     }
   ],
   "top_posts": [
+    {
+      "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
+      "source": "루리웹",
+      "category": "연예",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
+      "first_seen": "2026-10-15T09:30:37.326325+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "peak_score": 98.54,
+      "max_views": 33112,
+      "max_likes": 279,
+      "max_comments": 87,
+      "appearances": 3,
+      "daily_stats": {
+        "2026-10-15": {
+          "max_score": 98.54,
+          "max_views": 33112,
+          "max_likes": 279,
+          "max_comments": 87,
+          "appearances": 3,
+          "last_seen": "2026-10-15T14:11:05.910258+09:00"
+        }
+      },
+      "score": 109.59,
+      "views": 33112,
+      "likes": 279,
+      "comments": 87,
+      "active_days": 1,
+      "change": 2
+    },
     {
       "title": "일본 규동이 한국에서 힘을 못쓰는 이유",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-15T09:30:37.326325+09:00"
         }
       },
-      "score": 109.26,
+      "score": 109.2,
       "views": 27832,
       "likes": 124,
       "comments": 73,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "성심당 싹쓸이 논란 해명글 올린 이지혜",
@@ -88,41 +117,41 @@
           "last_seen": "2026-10-15T03:46:46.002128+09:00"
         }
       },
-      "score": 108.98,
+      "score": 108.92,
       "views": 21625,
       "likes": 270,
       "comments": 84,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
-      "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
+      "title": "유럽 내 주요 선진국들 수도 월세근황",
       "source": "루리웹",
-      "category": "연예",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
-      "first_seen": "2026-10-15T09:30:37.326325+09:00",
-      "last_seen": "2026-10-15T13:27:28.732130+09:00",
-      "peak_score": 98.54,
-      "max_views": 33112,
-      "max_likes": 279,
-      "max_comments": 87,
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
+      "first_seen": "2026-10-15T13:27:28.732130+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "peak_score": 97.29,
+      "max_views": 20060,
+      "max_likes": 131,
+      "max_comments": 88,
       "appearances": 2,
       "daily_stats": {
         "2026-10-15": {
-          "max_score": 98.54,
-          "max_views": 33112,
-          "max_likes": 279,
-          "max_comments": 87,
+          "max_score": 97.29,
+          "max_views": 20060,
+          "max_likes": 131,
+          "max_comments": 88,
           "appearances": 2,
-          "last_seen": "2026-10-15T13:27:28.732130+09:00"
+          "last_seen": "2026-10-15T14:11:05.910258+09:00"
         }
       },
-      "score": 108.96,
-      "views": 33112,
-      "likes": 279,
-      "comments": 87,
+      "score": 107.71,
+      "views": 20060,
+      "likes": 131,
+      "comments": 88,
       "active_days": 1,
-      "change": 0
+      "change": 6
     },
     {
       "title": "요리학원 중3짜리 마의 길에 빠트릴 예정",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-15T09:03:33.722260+09:00"
         }
       },
-      "score": 106.87,
+      "score": 106.81,
       "views": 11397,
       "likes": 84,
       "comments": 62,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "부활한 전설의술 캡틴큐 구형과 신형 리뷰.jpg",
@@ -175,12 +204,41 @@
           "last_seen": "2026-10-15T03:46:46.002128+09:00"
         }
       },
-      "score": 105.98,
+      "score": 105.92,
       "views": 19959,
       "likes": 90,
       "comments": 77,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "홍명보를 국대 감독으로 선임했던 진짜 이유...jpg",
+      "source": "디시인사이드",
+      "category": "스포츠",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470379&_dcbest=1&page=1",
+      "first_seen": "2026-10-15T02:57:30.176530+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "peak_score": 91.54,
+      "max_views": 33078,
+      "max_likes": 1199,
+      "max_comments": 748,
+      "appearances": 8,
+      "daily_stats": {
+        "2026-10-15": {
+          "max_score": 91.54,
+          "max_views": 33078,
+          "max_likes": 1199,
+          "max_comments": 748,
+          "appearances": 8,
+          "last_seen": "2026-10-15T14:11:05.910258+09:00"
+        }
+      },
+      "score": 104.37,
+      "views": 33078,
+      "likes": 1199,
+      "comments": 748,
+      "active_days": 1,
+      "change": 1
     },
     {
       "title": "요양원에서 가려지는 진짜 효심.jpg",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-15T02:57:30.176530+09:00"
         }
       },
-      "score": 104.4,
+      "score": 104.34,
       "views": 16189,
       "likes": 110,
       "comments": 62,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "미국 수출 굴 전량 폐기",
@@ -233,41 +291,12 @@
           "last_seen": "2026-10-15T09:03:33.722260+09:00"
         }
       },
-      "score": 104.25,
+      "score": 104.19,
       "views": 28247,
       "likes": 102,
       "comments": 60,
       "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "홍명보를 국대 감독으로 선임했던 진짜 이유...jpg",
-      "source": "디시인사이드",
-      "category": "스포츠",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470379&_dcbest=1&page=1",
-      "first_seen": "2026-10-15T02:57:30.176530+09:00",
-      "last_seen": "2026-10-15T13:27:28.732130+09:00",
-      "peak_score": 91.54,
-      "max_views": 31823,
-      "max_likes": 1176,
-      "max_comments": 719,
-      "appearances": 7,
-      "daily_stats": {
-        "2026-10-15": {
-          "max_score": 91.54,
-          "max_views": 31823,
-          "max_likes": 1176,
-          "max_comments": 719,
-          "appearances": 7,
-          "last_seen": "2026-10-15T13:27:28.732130+09:00"
-        }
-      },
-      "score": 104.11,
-      "views": 31823,
-      "likes": 1176,
-      "comments": 719,
-      "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "의사되면 대부분 돈 쉽게 버는 걸로 생각하는데....내가 본 의사들은....",
@@ -291,92 +320,123 @@
           "last_seen": "2026-10-15T13:27:28.732130+09:00"
         }
       },
-      "score": 103.63,
+      "score": 103.57,
       "views": 12030,
       "likes": 66,
       "comments": 102,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "유럽 내 주요 선진국들 수도 월세근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
-      "first_seen": "2026-10-15T13:27:28.732130+09:00",
-      "last_seen": "2026-10-15T13:27:28.732130+09:00",
-      "peak_score": 93.84,
-      "max_views": 20060,
-      "max_likes": 131,
-      "max_comments": 88,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-15": {
-          "max_score": 93.84,
-          "max_views": 20060,
-          "max_likes": 131,
-          "max_comments": 88,
-          "appearances": 1,
-          "last_seen": "2026-10-15T13:27:28.732130+09:00"
-        }
-      },
-      "score": 103.36,
-      "views": 20060,
-      "likes": 131,
-      "comments": 88,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "rising": [
     {
       "source": "루리웹",
-      "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
-      "category": "연예",
-      "views": 33112,
-      "likes": 279,
-      "comments": 87,
-      "score": 98.54,
-      "change": 0,
-      "current_rank": 1,
-      "new_entry": false,
-      "delta_views": 17101,
-      "delta_likes": 95,
-      "delta_comments": 20,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 237
-    },
-    {
-      "source": "루리웹",
-      "title": "의사되면 대부분 돈 쉽게 버는 걸로 생각하는데....내가 본 의사들은....",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77031177?m=humor",
-      "category": "이슈",
-      "views": 12030,
-      "likes": 66,
-      "comments": 102,
-      "score": 94.11,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.53,
-      "rising_rank": 2,
-      "window_minutes": 237
-    },
-    {
-      "source": "루리웹",
       "title": "유럽 내 주요 선진국들 수도 월세근황",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
       "category": "이슈",
       "views": 20060,
       "likes": 131,
       "comments": 88,
+      "score": 97.29,
+      "change": 2,
+      "current_rank": 1,
+      "new_entry": false,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 2,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 44
+    },
+    {
+      "source": "클리앙",
+      "title": "계엄 + 180석 들고 시작한 대통령 허니문 기간에 지지율 반토막난 주요원인이 내부분열",
+      "url": "https://www.clien.net/service/board/park/19277856?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2443,
+      "likes": 6,
+      "comments": 28,
+      "score": 58.1,
+      "change": 0,
+      "current_rank": 64,
+      "new_entry": false,
+      "delta_views": 2214,
+      "delta_likes": 5,
+      "delta_comments": 21,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 44
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 오늘자 코스피",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 34595,
+      "likes": 247,
+      "comments": 674,
+      "score": 83.63,
+      "change": 0,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 5725,
+      "delta_likes": 35,
+      "delta_comments": 110,
+      "rank_gain": 0,
+      "rising_score": 97.3,
+      "rising_rank": 3,
+      "window_minutes": 44
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 임진왜란 만화 그리는 일본인...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470463&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 6045,
+      "likes": 41,
+      "comments": 117,
+      "score": 66.87,
+      "change": 8,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 3137,
+      "delta_likes": 27,
+      "delta_comments": 64,
+      "rank_gain": 8,
+      "rising_score": 89.5,
+      "rising_rank": 4,
+      "window_minutes": 44
+    },
+    {
+      "source": "더쿠",
+      "title": "윤남노 빚 6억인 이유.jpg",
+      "url": "https://theqoo.net/hot/4376332931",
+      "category": "이슈",
+      "views": 31440,
+      "likes": 0,
+      "comments": 213,
+      "score": 57.21,
+      "change": 11,
+      "current_rank": 71,
+      "new_entry": false,
+      "delta_views": 19735,
+      "delta_likes": 0,
+      "delta_comments": 117,
+      "rank_gain": 11,
+      "rising_score": 87.04,
+      "rising_rank": 5,
+      "window_minutes": 44
+    },
+    {
+      "source": "루리웹",
+      "title": "레이싱모델은 최고야",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77031449?m=humor",
+      "category": "이슈",
+      "views": 21565,
+      "likes": 106,
+      "comments": 97,
       "score": 93.84,
       "change": "NEW",
       "current_rank": 3,
@@ -386,18 +446,38 @@
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 81.41,
-      "rising_rank": 3,
-      "window_minutes": 237
+      "rising_rank": 6,
+      "window_minutes": 44
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 오늘자 코스피",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+      "title": "성우 네모토 미야리 유사 코지랑 결혼 발표...",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470466&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 28870,
-      "likes": 212,
-      "comments": 564,
-      "score": 87.74,
+      "views": 4672,
+      "likes": 36,
+      "comments": 74,
+      "score": 64.03,
+      "change": 3,
+      "current_rank": 38,
+      "new_entry": false,
+      "delta_views": 3103,
+      "delta_likes": 22,
+      "delta_comments": 44,
+      "rank_gain": 3,
+      "rising_score": 78.94,
+      "rising_rank": 7,
+      "window_minutes": 44
+    },
+    {
+      "source": "디시인사이드",
+      "title": "와들와들 인천 캴부림을 시민들이 제압한 과정.JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470471&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 16416,
+      "likes": 119,
+      "comments": 312,
+      "score": 85.14,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -405,129 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.85,
-      "rising_rank": 4,
-      "window_minutes": 237
-    },
-    {
-      "source": "뽐뿌",
-      "title": "중국 테슬라 FSD 근황 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979581",
-      "category": "이슈",
-      "views": 18350,
-      "likes": 14,
-      "comments": 56,
-      "score": 85.15,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
       "rising_score": 77.76,
-      "rising_rank": 5,
-      "window_minutes": 237
-    },
-    {
-      "source": "뽐뿌",
-      "title": "ㅇㅎ 미인대회 수영복 심사",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=786590",
-      "category": "유머",
-      "views": 19799,
-      "likes": 6,
-      "comments": 27,
-      "score": 83.44,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.04,
-      "rising_rank": 6,
-      "window_minutes": 237
-    },
-    {
-      "source": "디시인사이드",
-      "title": "(통녹O) 관세청에서 인도 마운자로 짝퉁이라고 발표한거 관련해서 전화함",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470439&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15379,
-      "likes": 247,
-      "comments": 363,
-      "score": 77.95,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.74,
-      "rising_rank": 7,
-      "window_minutes": 237
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 념글 보적보대응 여자코스어",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470403&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 37337,
-      "likes": 244,
-      "comments": 284,
-      "score": 65.51,
-      "change": 0,
-      "current_rank": 33,
-      "new_entry": false,
-      "delta_views": 11411,
-      "delta_likes": 89,
-      "delta_comments": 106,
-      "rank_gain": 0,
-      "rising_score": 74.07,
       "rising_rank": 8,
-      "window_minutes": 237
+      "window_minutes": 44
     },
     {
-      "source": "클리앙",
-      "title": "왜 국짐이었으면...어쩌구 저쩌구 하시는거죠?",
-      "url": "https://www.clien.net/service/board/park/19277849?od=T31&po=0&category=0&groupCd=",
+      "source": "디시인사이드",
+      "title": "중수청, 대장동 수사관 탈락, 음주운전자 합격 채용 논란",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470459&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 684,
-      "likes": 7,
-      "comments": 16,
-      "score": 76.03,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 5277,
+      "likes": 135,
+      "comments": 149,
+      "score": 71.72,
+      "change": 0,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 1453,
+      "delta_likes": 27,
+      "delta_comments": 32,
       "rank_gain": 0,
-      "rising_score": 73.93,
+      "rising_score": 76.88,
       "rising_rank": 9,
-      "window_minutes": 237
+      "window_minutes": 44
     },
     {
       "source": "더쿠",
-      "title": "원덬 트위터에만 도배중인 마블 새 배우",
-      "url": "https://theqoo.net/hot/4376310017",
-      "category": "연예",
-      "views": 42778,
+      "title": "김주애가 북한 지도자가 되면 북한이 둘로 쪼개질 가능성이 높은 이유.jpg",
+      "url": "https://theqoo.net/hot/4376357474",
+      "category": "이슈",
+      "views": 36490,
       "likes": 0,
-      "comments": 323,
-      "score": 75.37,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 434,
+      "score": 76.53,
+      "change": 5,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 17828,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.66,
+      "delta_comments": 178,
+      "rank_gain": 5,
+      "rising_score": 76.67,
       "rising_rank": 10,
-      "window_minutes": 237
+      "window_minutes": 44
     }
   ],
   "issues": [
@@ -568,6 +568,44 @@
       "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i82773ad8",
+      "title": "‘임금체불’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "임금체불"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.03,
+      "peak_score": 107.54,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
+          "score": 96.19
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 86,
+          "title": "이수만 걸그룹 A2O 멤버, 부모 임금체불 의혹에 어머니 입장문 발표",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470428&_dcbest=1&page=1",
+          "score": 53.46
+        }
+      ],
+      "first_seen": "2026-10-15T13:27:28.732130+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 1
     },
     {
       "id": "ibfcfedac",
@@ -616,45 +654,124 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
-      "id": "i82773ad8",
-      "title": "‘임금체불’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2312b010",
+      "title": "유럽 내 주요 선진국들 수도 월세근황",
       "keywords": [
-        "임금체불"
+        "수도",
+        "유럽",
+        "주요",
+        "선진국들"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 117.01,
-      "peak_score": 107.54,
+      "score": 114.76,
+      "peak_score": 105.29,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
           "source": "루리웹",
           "rank": 1,
-          "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
-          "score": 98.54
+          "title": "유럽 내 주요 선진국들 수도 월세근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
+          "score": 97.29
         },
         {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "이수만 걸그룹 A2O 멤버, 부모 임금체불 의혹에 어머니 입장문 발표",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470428&_dcbest=1&page=1",
-          "score": 58.53
+          "source": "인벤",
+          "rank": 32,
+          "title": "유럽 내 주요 선진국들 수도 월세 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740581",
+          "score": 65.31
         }
       ],
-      "first_seen": "2026-10-15T13:27:28.732130+09:00",
-      "last_seen": "2026-10-15T13:27:28.732130+09:00",
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i64aac33b",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 104.1,
+      "peak_score": 93.63,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "싱글벙글 오늘자 코스피",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+          "score": 83.63
+        },
+        {
+          "source": "인벤",
+          "rank": 51,
+          "title": "코스피 현재 상황 및 1주일 변화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740591",
+          "score": 60.4
+        }
+      ],
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "iafac55c0",
+      "title": "‘시민들이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "시민들이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.61,
+      "peak_score": 94.14,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "와들와들 인천 캴부림을 시민들이 제압한 과정.JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470471&_dcbest=1&page=1",
+          "score": 85.14
+        },
+        {
+          "source": "더쿠",
+          "rank": 99,
+          "title": "인천 흉기난동 때 키즈카페 못가게 시민들이 막은거 알고",
+          "url": "https://theqoo.net/hot/4376261000",
+          "score": 50.26
+        }
+      ],
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
       "change": "NEW"
     },
     {
@@ -692,8 +809,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 7,
+      "change": -3
     },
     {
       "id": "i5d6688ff",
@@ -730,196 +847,80 @@
       "last_seen": "2026-10-15T09:03:33.722260+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "id": "ib9056a9e",
-      "title": "‘중수청장’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "중수청장"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 92.88,
-      "peak_score": 77.83,
-      "appearances": 4,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 37,
-          "title": "김지용 중수청장 후보자 청문회",
-          "url": "https://www.clien.net/service/board/park/19277641?od=T31&po=0&category=0&groupCd=",
-          "score": 66.58
-        },
-        {
-          "source": "인벤",
-          "rank": 60,
-          "title": "중수청장 김현지 작품 아님?",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740384",
-          "score": 60.91
-        }
-      ],
-      "first_seen": "2026-10-02T01:18:55.067443+09:00",
-      "last_seen": "2026-10-15T06:59:35.048367+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 6,
-      "change": -1
-    },
-    {
-      "id": "i62196098",
-      "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김지용"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.6,
-      "peak_score": 80.13,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 21,
-          "title": "고일석 기자의 김지용 청문회 감상문",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152295",
-          "score": 71.13
-        },
-        {
-          "source": "인벤",
-          "rank": 96,
-          "title": "행안위, 내일 김지용 청문보고서 채택키로…與 '적격' 의견",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740440",
-          "score": 52.76
-        }
-      ],
-      "first_seen": "2026-10-01T15:40:53.338507+09:00",
-      "last_seen": "2026-10-15T09:30:37.326325+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i7f2707f9",
-      "title": "망사 속 언더붑 에스파 카리나 2",
-      "keywords": [
-        "카리나",
-        "언더붑",
-        "에스파"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 87.65,
-      "peak_score": 77.18,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 22,
-          "title": "망사 속 언더붑 에스파 카리나 2",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740396",
-          "score": 68.18
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 49,
-          "title": "카리나 과감한 언더붑 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.MP4",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152203",
-          "score": 61.44
-        }
-      ],
-      "first_seen": "2026-10-15T02:57:30.176530+09:00",
-      "last_seen": "2026-10-15T02:57:30.176530+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 8,
-      "change": -1
+      "change": -3
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "난리난"
+        "실시간"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.52,
-      "peak_score": 78.05,
+      "score": 96.65,
+      "peak_score": 87.18,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 27,
-          "title": "현재 일본에서 난리난 성매매 법안",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152219",
-          "score": 69.05
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "와들와들 실시간 여초 긁어서 개처맞는 주둥이방송",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470475&_dcbest=1&page=1",
+          "score": 78.18
         },
         {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "요즘 팝 리스너, 평론가들 ㄹㅇ 극찬하고 난리난 노래...jpg (제발 나 믿고 한 번만 들어보셈 진심 10초 만에 노래 좋다고 하게 될 거라고 생각함... 덬들한테 새롭고 좋은 노래 떠먹여주고 싶어서 글 써봄 제발 한 번만 한 번만 나 봐서 한 번만~~~)",
-          "url": "https://theqoo.net/hot/4375975256",
-          "score": 65.89
+          "source": "인벤",
+          "rank": 34,
+          "title": "실시간 하후돈이 된 침착맨",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740569",
+          "score": 64.5
         }
       ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-15T09:30:37.326325+09:00",
+      "first_seen": "2026-10-07T14:44:26.372950+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "id": "ie5a2c1ba",
-      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0e90b422",
+      "title": "‘가능성이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "아파트"
+        "가능성이"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.27,
-      "peak_score": 77.8,
+      "score": 95.0,
+      "peak_score": 85.53,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
+        "더쿠",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 21,
-          "title": "'대통령 아파트 과세대상 아니야' 발언 하루만에 비서실장됐네요",
-          "url": "https://www.clien.net/service/board/park/19277846?od=T31&po=0&category=0&groupCd=",
-          "score": 68.8
+          "source": "더쿠",
+          "rank": 10,
+          "title": "김주애가 북한 지도자가 되면 북한이 둘로 쪼개질 가능성이 높은 이유.jpg",
+          "url": "https://theqoo.net/hot/4376357474",
+          "score": 76.53
         },
         {
-          "source": "뽐뿌",
-          "rank": 23,
-          "title": "충격) 한강뷰 아파트 분양 대폭망ㄷ.JPG",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152786",
-          "score": 67.42
+          "source": "클리앙",
+          "rank": 72,
+          "title": "금융소득 종합과세 기준이 다시 상승될 가능성이 있을까요?",
+          "url": "https://www.clien.net/service/board/park/19277871?od=T31&po=0&category=0&groupCd=",
+          "score": 57.11
         }
       ],
-      "first_seen": "2026-10-09T19:48:30.742386+09:00",
-      "last_seen": "2026-10-15T13:27:28.732130+09:00",
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
@@ -928,6 +929,77 @@
   ],
   "realtime_issues": [
     {
+      "id": "i64aac33b",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 93.63,
+      "peak_score": 93.63,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "싱글벙글 오늘자 코스피",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+          "score": 83.63
+        },
+        {
+          "source": "인벤",
+          "rank": 51,
+          "title": "코스피 현재 상황 및 1주일 변화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740591",
+          "score": 60.4
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i2312b010",
+      "title": "유럽 내 주요 선진국들 수도 월세근황",
+      "keywords": [
+        "수도",
+        "유럽",
+        "주요",
+        "선진국들"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.29,
+      "peak_score": 105.29,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "유럽 내 주요 선진국들 수도 월세근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
+          "score": 97.29
+        },
+        {
+          "source": "인벤",
+          "rank": 32,
+          "title": "유럽 내 주요 선진국들 수도 월세 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740581",
+          "score": 65.31
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i82773ad8",
       "title": "‘임금체불’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -935,8 +1007,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 107.54,
-      "peak_score": 107.54,
+      "score": 105.19,
+      "peak_score": 105.19,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -945,88 +1017,156 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 1,
+          "rank": 2,
           "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
-          "score": 98.54
+          "score": 96.19
         },
         {
           "source": "디시인사이드",
-          "rank": 67,
+          "rank": 86,
           "title": "이수만 걸그룹 A2O 멤버, 부모 임금체불 의혹에 어머니 입장문 발표",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470428&_dcbest=1&page=1",
-          "score": 58.53
+          "score": 53.46
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 3,
+      "change": -2
     },
     {
-      "id": "ie5a2c1ba",
-      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iafac55c0",
+      "title": "‘시민들이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "아파트"
+        "시민들이"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.8,
-      "peak_score": 77.8,
+      "score": 94.14,
+      "peak_score": 94.14,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "와들와들 인천 캴부림을 시민들이 제압한 과정.JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470471&_dcbest=1&page=1",
+          "score": 85.14
+        },
+        {
+          "source": "더쿠",
+          "rank": 99,
+          "title": "인천 흉기난동 때 키즈카페 못가게 시민들이 막은거 알고",
+          "url": "https://theqoo.net/hot/4376261000",
+          "score": 50.26
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.18,
+      "peak_score": 87.18,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "와들와들 실시간 여초 긁어서 개처맞는 주둥이방송",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470475&_dcbest=1&page=1",
+          "score": 78.18
+        },
+        {
+          "source": "인벤",
+          "rank": 34,
+          "title": "실시간 하후돈이 된 침착맨",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740569",
+          "score": 64.5
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i0e90b422",
+      "title": "‘가능성이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "가능성이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.53,
+      "peak_score": 85.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 10,
+          "title": "김주애가 북한 지도자가 되면 북한이 둘로 쪼개질 가능성이 높은 이유.jpg",
+          "url": "https://theqoo.net/hot/4376357474",
+          "score": 76.53
+        },
+        {
+          "source": "클리앙",
+          "rank": 72,
+          "title": "금융소득 종합과세 기준이 다시 상승될 가능성이 있을까요?",
+          "url": "https://www.clien.net/service/board/park/19277871?od=T31&po=0&category=0&groupCd=",
+          "score": 57.11
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i1adf40a5",
+      "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "지지율"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 67.1,
+      "peak_score": 67.1,
+      "appearances": 1,
+      "sources": [
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 21,
-          "title": "'대통령 아파트 과세대상 아니야' 발언 하루만에 비서실장됐네요",
-          "url": "https://www.clien.net/service/board/park/19277846?od=T31&po=0&category=0&groupCd=",
-          "score": 68.8
+          "rank": 64,
+          "title": "계엄 + 180석 들고 시작한 대통령 허니문 기간에 지지율 반토막난 주요원인이 내부분열",
+          "url": "https://www.clien.net/service/board/park/19277856?od=T31&po=0&category=0&groupCd=",
+          "score": 58.1
         },
-        {
-          "source": "뽐뿌",
-          "rank": 23,
-          "title": "충격) 한강뷰 아파트 분양 대폭망ㄷ.JPG",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152786",
-          "score": 67.42
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i11fa4c33",
-      "title": "‘아이돌’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이돌"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.53,
-      "peak_score": 71.53,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
         {
           "source": "인벤",
-          "rank": 51,
-          "title": "염병하는 1020세대들한테 개빡친 남자 아이돌",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740551",
-          "score": 62.53
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 54,
-          "title": "이수만이 픽업한 13년생 아이돌",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23342",
-          "score": 62.1
+          "rank": 87,
+          "title": "이 대통령 지지율 44% 보합‥민주-국힘 지지율 격차 줄어 [NBS]",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740583",
+          "score": 53.09
         }
       ],
-      "rank": 3,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -1037,8 +1177,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 70.4,
-      "peak_score": 70.4,
+      "score": 63.67,
+      "peak_score": 63.67,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1047,109 +1187,79 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 58,
+          "rank": 78,
           "title": "인천 흉기난동 50대, 22년 전 살인미수에도 집행유예…재범 위",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470444&_dcbest=1&page=1",
-          "score": 61.4
+          "score": 54.67
         },
         {
           "source": "더쿠",
-          "rank": 69,
+          "rank": 99,
           "title": "인천 흉기난동 때 키즈카페 못가게 시민들이 막은거 알고",
           "url": "https://theqoo.net/hot/4376261000",
-          "score": 57.74
+          "score": 50.26
         }
       ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i5b69a25a",
-      "title": "‘이수만’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이수만"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 68.11,
-      "peak_score": 68.11,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 65,
-          "title": "이수만 여돌 데뷔 후 보아 팬들이 화난 이유",
-          "url": "https://theqoo.net/hot/4376245070",
-          "score": 59.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "이수만 걸그룹 A2O 멤버, 부모 임금체불 의혹에 어머니 입장문 발표",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470428&_dcbest=1&page=1",
-          "score": 58.53
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 8,
+      "change": -4
     }
   ],
   "keywords": [
     {
-      "keyword": "인천",
-      "score": 111.85,
+      "keyword": "가능성",
+      "score": 120.06,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 58,
+      "best_rank": 10,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "임금체불",
-      "score": 102.72,
+      "keyword": "선진국들",
+      "score": 107.69,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "수도",
+        "유럽",
+        "주요"
+      ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "아파트",
-      "score": 96.03,
+      "keyword": "대구",
+      "score": 105.37,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 2,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "가능성",
-      "score": 95.58,
-      "post_count": 2,
+      "keyword": "코스피",
+      "score": 102.64,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
@@ -1157,11 +1267,11 @@
       "change": "NEW"
     },
     {
-      "keyword": "결혼",
-      "score": 93.56,
+      "keyword": "실시간",
+      "score": 101.85,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1171,137 +1281,137 @@
       "change": "NEW"
     },
     {
-      "keyword": "이제",
-      "score": 89.52,
+      "keyword": "임금체불",
+      "score": 98.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 2,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "아이돌",
-      "score": 87.09,
-      "post_count": 2,
+      "keyword": "인천",
+      "score": 98.1,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 51,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "흉기난동",
-      "score": 83.68,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 58,
+      "best_rank": 4,
       "sources": [
         "더쿠",
         "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": -6
+    },
+    {
+      "keyword": "인도",
+      "score": 96.59,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "상황",
-      "score": 83.07,
+      "keyword": "시민들",
+      "score": 94.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 52,
+      "best_rank": 4,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "이수",
-      "score": 82.87,
+      "keyword": "이제",
+      "score": 87.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 65,
+      "best_rank": 22,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "한국",
-      "score": 82.16,
+      "keyword": "이슈",
+      "score": 85.56,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 66,
+      "best_rank": 36,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 11,
-      "change": -7
+      "change": "NEW"
     },
     {
-      "keyword": "주식",
-      "score": 82.05,
-      "post_count": 3,
+      "keyword": "월세",
+      "score": 85.55,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 78,
+      "best_rank": 32,
       "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "시대",
-      "score": 80.94,
+      "keyword": "만화",
+      "score": 83.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 61,
+      "best_rank": 26,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "아내",
-      "score": 80.48,
+      "keyword": "지지율",
+      "score": 79.69,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 56,
+      "best_rank": 64,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "경찰",
-      "score": 77.99,
+      "keyword": "내부",
+      "score": 79.04,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 70,
+      "best_rank": 76,
       "sources": [
         "더쿠",
         "인벤"
@@ -1314,51 +1424,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "대구 임금체불 심하다 까던 여성 방송인 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77029555?m=humor",
-      "score": 98.54,
-      "views": 33112,
-      "comments": 87
+      "title": "유럽 내 주요 선진국들 수도 월세근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77030058?m=humor",
+      "score": 97.29,
+      "views": 20060,
+      "comments": 88
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 오늘자 코스피",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-      "score": 87.74,
-      "views": 28870,
-      "comments": 564
-    },
-    {
-      "source": "뽐뿌",
-      "title": "중국 테슬라 FSD 근황 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979581",
-      "score": 85.15,
-      "views": 18350,
-      "comments": 56
-    },
-    {
-      "source": "클리앙",
-      "title": "왜 국짐이었으면...어쩌구 저쩌구 하시는거죠?",
-      "url": "https://www.clien.net/service/board/park/19277849?od=T31&po=0&category=0&groupCd=",
-      "score": 76.03,
-      "views": 684,
-      "comments": 16
+      "title": "와들와들 인천 캴부림을 시민들이 제압한 과정.JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470471&_dcbest=1&page=1",
+      "score": 85.14,
+      "views": 16416,
+      "comments": 312
     },
     {
       "source": "더쿠",
-      "title": "원덬 트위터에만 도배중인 마블 새 배우",
-      "url": "https://theqoo.net/hot/4376310017",
-      "score": 75.37,
-      "views": 42778,
-      "comments": 323
+      "title": "친구들과 여행 중 난 사고 독박 쓰는 게 맞나요?",
+      "url": "https://theqoo.net/hot/4376359709",
+      "score": 78.68,
+      "views": 31096,
+      "comments": 547
+    },
+    {
+      "source": "뽐뿌",
+      "title": "이번에는 핸들 빠진 중국차",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979570",
+      "score": 77.99,
+      "views": 18052,
+      "comments": 45
     },
     {
       "source": "인벤",
-      "title": "얘들아 40대 그렇게 어르신아니야..",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740560",
-      "score": 73.58,
-      "views": 1046,
-      "comments": 13
+      "title": "남친에게 받은 최악의 선물",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2740589",
+      "score": 73.73,
+      "views": 709,
+      "comments": 6
+    },
+    {
+      "source": "클리앙",
+      "title": "대통령은 큰 일 하라고 있는 자리입니다.",
+      "url": "https://www.clien.net/service/board/park/19277876?od=T31&po=0&category=0&groupCd=",
+      "score": 72.52,
+      "views": 648,
+      "comments": 7
     }
   ]
 }
