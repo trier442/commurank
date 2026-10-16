@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-16T08:54:31.305763+09:00",
+  "collected_at": "2026-10-16T09:31:39.837551+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -274,6 +274,45 @@
       "change": 0
     },
     {
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 118.82,
+      "peak_score": 104.77,
+      "appearances": 4,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "트럼프 미쳤네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
+          "score": 77.47
+        },
+        {
+          "source": "클리앙",
+          "rank": 75,
+          "title": "트럼프 새 대변인, 가짜 변호사..허위 경력..'발칵’",
+          "url": "https://www.clien.net/service/board/park/19278263?od=T31&po=0&category=0&groupCd=",
+          "score": 56.4
+        }
+      ],
+      "first_seen": "2026-10-01T08:10:08.976041+09:00",
+      "last_seen": "2026-10-16T09:31:39.837551+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명은’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -310,47 +349,8 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 117.7,
-      "peak_score": 104.77,
-      "appearances": 3,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "트럼프 미쳤네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
-          "score": 92.64
-        },
-        {
-          "source": "클리앙",
-          "rank": 65,
-          "title": "트럼프 '총살형 생중계..여론 역풍에 취소",
-          "url": "https://www.clien.net/service/board/park/19278236?od=T31&po=0&category=0&groupCd=",
-          "score": 59.4
-        }
-      ],
-      "first_seen": "2026-10-01T08:10:08.976041+09:00",
-      "last_seen": "2026-10-16T08:54:31.305763+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": 1
+      "change": -1
     },
     {
       "id": "i2272efa7",
@@ -391,7 +391,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i03005878",
@@ -432,6 +432,46 @@
       "change": 0
     },
     {
+      "id": "i6f11e91b",
+      "title": "20대 마라톤 러너 사망사건 근황",
+      "keywords": [
+        "러너",
+        "마라톤",
+        "사망사건"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.91,
+      "peak_score": 105.44,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "20대 마라톤 러너 사망사건 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77041344?m=humor",
+          "score": 97.44
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 62,
+          "title": "20대 마라톤 러너 사망사건 근황 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=running&no=8705",
+          "score": 59.16
+        }
+      ],
+      "first_seen": "2026-10-16T09:31:39.837551+09:00",
+      "last_seen": "2026-10-16T09:31:39.837551+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
       "id": "i9ff6bf96",
       "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -467,8 +507,8 @@
       "last_seen": "2026-10-14T23:22:00.131943+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i2312b010",
@@ -508,8 +548,8 @@
       "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i5b69a25a",
@@ -549,8 +589,8 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "ia8451ee4",
@@ -587,8 +627,8 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -625,8 +665,8 @@
       "last_seen": "2026-10-15T09:03:33.722260+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i4a0a5902",
@@ -664,8 +704,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i25779e27",
@@ -702,8 +742,8 @@
       "last_seen": "2026-10-14T16:27:05.676357+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -741,8 +781,8 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i0bf49b29",
@@ -796,46 +836,8 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i64aac33b",
-      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "코스피"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 104.1,
-      "peak_score": 93.63,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "싱글벙글 오늘자 코스피",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-          "score": 83.63
-        },
-        {
-          "source": "인벤",
-          "rank": 51,
-          "title": "코스피 현재 상황 및 1주일 변화",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740591",
-          "score": 60.4
-        }
-      ],
-      "first_seen": "2026-10-15T14:11:05.910258+09:00",
-      "last_seen": "2026-10-15T14:11:05.910258+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
