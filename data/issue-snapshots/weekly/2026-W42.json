@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-16T18:45:01.821788+09:00",
+  "collected_at": "2026-10-16T23:00:03.677661+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -742,6 +742,47 @@
       "change": 0
     },
     {
+      "id": "ib7853c3a",
+      "title": "공항에 3~4시간 전에 가라는 건 억지 헛소리라고 봅니다",
+      "keywords": [
+        "억지",
+        "공항에",
+        "봅니다",
+        "헛소리라고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.97,
+      "peak_score": 103.5,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "공항에 3~4시간 전에 가라는 건 억지 헛소리라고 봅니다",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77048964?m=humor",
+          "score": 95.5
+        },
+        {
+          "source": "더쿠",
+          "rank": 41,
+          "title": "공항에 3~4시간전에 가라는건 억지 헛소리라고 봅니다",
+          "url": "https://theqoo.net/hot/4377623530",
+          "score": 64.26
+        }
+      ],
+      "first_seen": "2026-10-16T23:00:03.677661+09:00",
+      "last_seen": "2026-10-16T23:00:03.677661+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "i5d6688ff",
       "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -776,8 +817,8 @@
       "last_seen": "2026-10-15T09:03:33.722260+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i4a0a5902",
@@ -815,46 +856,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i25779e27",
-      "title": "‘현대차’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "현대차"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 111.06,
-      "peak_score": 101.59,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "현대차 플레오스 기가막힌 옵션 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77018950?m=humor",
-          "score": 92.59
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 13,
-          "title": "최근 현대차 가격이 600만원씩 오른 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979523",
-          "score": 74.25
-        }
-      ],
-      "first_seen": "2026-10-14T16:27:05.676357+09:00",
-      "last_seen": "2026-10-14T16:27:05.676357+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
