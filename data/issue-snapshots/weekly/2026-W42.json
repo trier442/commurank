@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T08:26:24.297684+09:00",
+  "collected_at": "2026-10-17T08:52:26.363084+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -543,6 +543,44 @@
       "change": 0
     },
     {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 115.46,
+      "peak_score": 102.97,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "테슬라 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+          "score": 92.55
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 28,
+          "title": "테슬라 로드스터 공식 유튜브 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
+          "score": 67.7
+        }
+      ],
+      "first_seen": "2026-09-30T16:33:10.684178+09:00",
+      "last_seen": "2026-10-17T08:52:26.363084+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 13,
+      "change": 5
+    },
+    {
       "id": "i6f11e91b",
       "title": "20대 마라톤 러너 사망사건 근황",
       "keywords": [
@@ -579,8 +617,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -618,8 +656,8 @@
       "last_seen": "2026-10-14T23:22:00.131943+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i2312b010",
@@ -659,8 +697,8 @@
       "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i5b69a25a",
@@ -700,8 +738,8 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "ia8451ee4",
@@ -738,46 +776,8 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
-    },
-    {
-      "id": "i89c5681f",
-      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "테슬라"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 113.44,
-      "peak_score": 102.97,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "테슬라 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
-          "score": 92.97
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 9,
-          "title": "테슬라 로드스터 공식 유튜브 영상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
-          "score": 76.68
-        }
-      ],
-      "first_seen": "2026-09-30T16:33:10.684178+09:00",
-      "last_seen": "2026-10-17T08:26:24.297684+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 18,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ib7853c3a",
@@ -818,7 +818,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i36ddd5fd",
@@ -859,7 +859,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
