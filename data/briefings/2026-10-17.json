@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-17",
   "label": "2026년 10월 17일",
-  "collected_at": "2026-10-17T06:27:49.462651+09:00",
+  "collected_at": "2026-10-17T08:26:24.297684+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘여자들이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #소방관. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘테슬라’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #아이. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 12,
-    "keywords": 18,
-    "top100_views": 943903,
-    "top100_comments": 9454
+    "daily_issues": 16,
+    "keywords": 16,
+    "top100_views": 1044645,
+    "top100_comments": 9252
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ib4309374"
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i89c5681f"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#소방관",
+      "title": "#아이",
       "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "소방관"
+      "keyword": "아이"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-17T05:54:10.592830+09:00"
         }
       },
-      "score": 108.02,
+      "score": 107.85,
       "views": 12718,
       "likes": 136,
       "comments": 80,
@@ -88,10 +88,39 @@
           "last_seen": "2026-10-17T06:27:49.462651+09:00"
         }
       },
-      "score": 107.2,
+      "score": 107.04,
       "views": 13142,
       "likes": 72,
       "comments": 45,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "36살이나 됐으면 부모 원망은 그만해야지",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053013?m=humor",
+      "first_seen": "2026-10-17T08:26:24.297684+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "peak_score": 97.43,
+      "max_views": 19133,
+      "max_likes": 81,
+      "max_comments": 60,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-17": {
+          "max_score": 97.43,
+          "max_views": 19133,
+          "max_likes": 81,
+          "max_comments": 60,
+          "appearances": 1,
+          "last_seen": "2026-10-17T08:26:24.297684+09:00"
+        }
+      },
+      "score": 106.95,
+      "views": 19133,
+      "likes": 81,
+      "comments": 60,
       "active_days": 1,
       "change": "NEW"
     },
@@ -117,12 +146,41 @@
           "last_seen": "2026-10-17T03:17:12.823957+09:00"
         }
       },
-      "score": 106.76,
+      "score": 106.6,
       "views": 20904,
       "likes": 108,
       "comments": 89,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "군대 음료 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053418?m=humor",
+      "first_seen": "2026-10-17T08:26:24.297684+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "peak_score": 96.85,
+      "max_views": 12017,
+      "max_likes": 52,
+      "max_comments": 49,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-17": {
+          "max_score": 96.85,
+          "max_views": 12017,
+          "max_likes": 52,
+          "max_comments": 49,
+          "appearances": 1,
+          "last_seen": "2026-10-17T08:26:24.297684+09:00"
+        }
+      },
+      "score": 106.37,
+      "views": 12017,
+      "likes": 52,
+      "comments": 49,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "ㄴㅂㅍㅇ 공모전 1위 근황",
@@ -146,12 +204,12 @@
           "last_seen": "2026-10-17T03:17:12.823957+09:00"
         }
       },
-      "score": 105.72,
+      "score": 105.56,
       "views": 17842,
       "likes": 86,
       "comments": 77,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "아주대 응급실 의사들 사직, 항의 표시인 줄 알았는데 진심이었구나.X",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-17T02:56:53.776363+09:00"
         }
       },
-      "score": 105.64,
+      "score": 105.48,
       "views": 14681,
       "likes": 109,
       "comments": 86,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "스팀 계정에 게임 5100개",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-17T03:17:12.823957+09:00"
         }
       },
-      "score": 105.24,
+      "score": 105.08,
       "views": 20573,
       "likes": 124,
       "comments": 139,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "넷플에서 만든다는 [나니아 연대기] 신작 영화 근황",
@@ -233,12 +291,12 @@
           "last_seen": "2026-10-17T06:27:49.462651+09:00"
         }
       },
-      "score": 104.22,
+      "score": 104.06,
       "views": 10728,
       "likes": 65,
       "comments": 45,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "휴전이 아니라 확전이 되어버린 중동",
@@ -262,242 +320,44 @@
           "last_seen": "2026-10-17T05:54:10.592830+09:00"
         }
       },
-      "score": 103.32,
+      "score": 103.15,
       "views": 14647,
       "likes": 94,
       "comments": 49,
       "active_days": 1,
       "change": -2
-    },
-    {
-      "title": "주둥이 치이카와 논란 결말",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-      "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "peak_score": 90.94,
-      "max_views": 23498,
-      "max_likes": 279,
-      "max_comments": 220,
-      "appearances": 4,
-      "daily_stats": {
-        "2026-10-17": {
-          "max_score": 90.94,
-          "max_views": 23498,
-          "max_likes": 279,
-          "max_comments": 220,
-          "appearances": 4,
-          "last_seen": "2026-10-17T06:27:49.462651+09:00"
-        }
-      },
-      "score": 102.48,
-      "views": 23498,
-      "likes": 279,
-      "comments": 220,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "누가 루리웹을 7000일씩이나 하고 있냐",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77052342?m=humor",
-      "first_seen": "2026-10-17T06:27:49.462651+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "peak_score": 92.37,
-      "max_views": 7020,
-      "max_likes": 72,
-      "max_comments": 48,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-17": {
-          "max_score": 92.37,
-          "max_views": 7020,
-          "max_likes": 72,
-          "max_comments": 48,
-          "appearances": 1,
-          "last_seen": "2026-10-17T06:27:49.462651+09:00"
-        }
-      },
-      "score": 101.89,
-      "views": 7020,
-      "likes": 72,
-      "comments": 48,
-      "active_days": 1,
-      "change": "NEW"
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "콜옵 신작 첫 미션 편의점 내부.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053296?m=humor_only&t=now",
-      "category": "생활",
-      "views": 5996,
-      "likes": 63,
-      "comments": 22,
-      "score": 52.67,
-      "change": 0,
-      "current_rank": 90,
-      "new_entry": false,
-      "delta_views": 4406,
-      "delta_likes": 40,
-      "delta_comments": 12,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 34
-    },
-    {
-      "source": "인벤",
-      "title": "핸드폰 할부 통지서 대참사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741345",
-      "category": "유머",
-      "views": 2182,
-      "likes": 2,
-      "comments": 6,
-      "score": 80.36,
-      "change": 7,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 832,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 7,
-      "rising_score": 91.98,
-      "rising_rank": 2,
-      "window_minutes": 34
-    },
-    {
-      "source": "디시인사이드",
-      "title": "주둥이 치이카와 논란 결말",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23498,
-      "likes": 279,
-      "comments": 220,
-      "score": 90.94,
-      "change": 0,
-      "current_rank": 4,
-      "new_entry": false,
-      "delta_views": 766,
-      "delta_likes": 13,
-      "delta_comments": 12,
-      "rank_gain": 0,
-      "rising_score": 91.19,
-      "rising_rank": 3,
-      "window_minutes": 34
-    },
-    {
-      "source": "디시인사이드",
-      "title": "암 치료제가 나오면 재앙이 될 수 있는 이유?",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470896&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15472,
-      "likes": 33,
-      "comments": 366,
-      "score": 75.22,
-      "change": 0,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 1024,
-      "delta_likes": 4,
-      "delta_comments": 7,
-      "rank_gain": 0,
-      "rising_score": 91.02,
-      "rising_rank": 4,
-      "window_minutes": 34
-    },
-    {
-      "source": "인벤",
-      "title": "지구에서 가장 깨끗한 도구",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741340",
-      "category": "이슈",
-      "views": 2744,
-      "likes": 0,
-      "comments": 4,
-      "score": 75.85,
-      "change": 0,
-      "current_rank": 13,
-      "new_entry": false,
-      "delta_views": 409,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 89.58,
-      "rising_rank": 5,
-      "window_minutes": 34
-    },
-    {
-      "source": "클리앙",
-      "title": "간밤에 미국서 메모리 폭락했네요",
-      "url": "https://www.clien.net/service/board/park/19278742?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1560,
-      "likes": 0,
-      "comments": 1,
-      "score": 64.35,
-      "change": 7,
-      "current_rank": 39,
-      "new_entry": false,
-      "delta_views": 1084,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 7,
-      "rising_score": 87.19,
-      "rising_rank": 6,
-      "window_minutes": 34
-    },
     {
       "source": "더쿠",
       "title": "중딩 여자애들보고 이딴 거 찍게하는 이수만 할배는 잘만 빨아주는데 언더피프틴은 왜 욕먹었는지?",
       "url": "https://theqoo.net/hot/4378003278",
       "category": "이슈",
-      "views": 26351,
+      "views": 55075,
       "likes": 0,
-      "comments": 310,
-      "score": 80.0,
-      "change": 1,
-      "current_rank": 9,
+      "comments": 463,
+      "score": 85.53,
+      "change": 5,
+      "current_rank": 4,
       "new_entry": false,
-      "delta_views": 5197,
+      "delta_views": 28724,
       "delta_likes": 0,
-      "delta_comments": 32,
-      "rank_gain": 1,
-      "rising_score": 87.0,
-      "rising_rank": 7,
-      "window_minutes": 34
-    },
-    {
-      "source": "디시인사이드",
-      "title": "주식에 물린 아이가 하소연 했을때 시민들의 반응...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470908&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9727,
-      "likes": 7,
-      "comments": 141,
-      "score": 69.66,
-      "change": 3,
-      "current_rank": 23,
-      "new_entry": false,
-      "delta_views": 986,
-      "delta_likes": 0,
-      "delta_comments": 6,
-      "rank_gain": 3,
-      "rising_score": 86.34,
-      "rising_rank": 8,
-      "window_minutes": 34
+      "delta_comments": 153,
+      "rank_gain": 5,
+      "rising_score": 92.78,
+      "rising_rank": 1,
+      "window_minutes": 119
     },
     {
       "source": "루리웹",
-      "title": "속보) 트럼프측 '중간선거 조작시 계엄령' 논의",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77052756?m=humor",
+      "title": "36살이나 됐으면 부모 원망은 그만해야지",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053013?m=humor",
       "category": "이슈",
-      "views": 13142,
-      "likes": 72,
-      "comments": 45,
-      "score": 97.68,
+      "views": 19133,
+      "likes": 81,
+      "comments": 60,
+      "score": 97.43,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -505,32 +365,210 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.03,
-      "rising_rank": 9,
-      "window_minutes": 34
+      "rising_score": 82.92,
+      "rising_rank": 2,
+      "window_minutes": 119
     },
     {
       "source": "디시인사이드",
-      "title": "빵 서비스 받고 큰절한 아이들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470904&_dcbest=1&page=1",
+      "title": "주둥이 치이카와 논란 결말",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 7719,
-      "likes": 39,
-      "comments": 122,
-      "score": 68.25,
-      "change": 6,
-      "current_rank": 28,
+      "views": 26983,
+      "likes": 310,
+      "comments": 248,
+      "score": 82.3,
+      "change": 0,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 653,
-      "delta_likes": 4,
-      "delta_comments": 10,
-      "rank_gain": 6,
-      "rising_score": 82.73,
+      "delta_views": 3485,
+      "delta_likes": 31,
+      "delta_comments": 28,
+      "rank_gain": 0,
+      "rising_score": 82.72,
+      "rising_rank": 3,
+      "window_minutes": 119
+    },
+    {
+      "source": "루리웹",
+      "title": "군대 음료 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053418?m=humor",
+      "category": "이슈",
+      "views": 12017,
+      "likes": 52,
+      "comments": 49,
+      "score": 96.85,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.68,
+      "rising_rank": 4,
+      "window_minutes": 119
+    },
+    {
+      "source": "루리웹",
+      "title": "테슬라 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+      "category": "이슈",
+      "views": 9479,
+      "likes": 60,
+      "comments": 39,
+      "score": 92.97,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.05,
+      "rising_rank": 5,
+      "window_minutes": 119
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 요즘 여자들이 보는 남자 키",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 45677,
+      "likes": 206,
+      "comments": 609,
+      "score": 75.01,
+      "change": 0,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 3022,
+      "delta_likes": 22,
+      "delta_comments": 47,
+      "rank_gain": 0,
+      "rising_score": 79.01,
+      "rising_rank": 6,
+      "window_minutes": 119
+    },
+    {
+      "source": "인벤",
+      "title": "핸드폰 할부 통지서 대참사",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741345",
+      "category": "유머",
+      "views": 5589,
+      "likes": 3,
+      "comments": 14,
+      "score": 70.77,
+      "change": 0,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 3407,
+      "delta_likes": 1,
+      "delta_comments": 8,
+      "rank_gain": 0,
+      "rising_score": 75.93,
+      "rising_rank": 7,
+      "window_minutes": 119
+    },
+    {
+      "source": "인벤",
+      "title": "진짜 심각하다는 30대 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741356",
+      "category": "이슈",
+      "views": 2929,
+      "likes": 3,
+      "comments": 13,
+      "score": 80.69,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.89,
+      "rising_rank": 8,
+      "window_minutes": 119
+    },
+    {
+      "source": "인벤",
+      "title": "축제공연 가수무대 중단시키고 올라온 김민석 ㅋㅋ",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741355",
+      "category": "연예",
+      "views": 1836,
+      "likes": 4,
+      "comments": 18,
+      "score": 80.17,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.67,
+      "rising_rank": 9,
+      "window_minutes": 119
+    },
+    {
+      "source": "인벤",
+      "title": "7만전자, 20만닉스?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741354",
+      "category": "이슈",
+      "views": 2055,
+      "likes": 0,
+      "comments": 17,
+      "score": 78.83,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.11,
       "rising_rank": 10,
-      "window_minutes": 34
+      "window_minutes": 119
     }
   ],
   "issues": [
+    {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 113.44,
+      "peak_score": 102.97,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "테슬라 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+          "score": 92.97
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "테슬라 로드스터 공식 유튜브 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
+          "score": 76.68
+        }
+      ],
+      "first_seen": "2026-09-30T16:33:10.684178+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ib4309374",
       "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
@@ -539,9 +577,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 107.53,
+      "score": 108.44,
       "peak_score": 93.48,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -549,25 +587,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 10,
           "title": "싱글벙글 요즘 여자들이 보는 남자 키",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
-          "score": 84.48
+          "score": 75.01
         },
         {
           "source": "더쿠",
-          "rank": 21,
+          "rank": 22,
           "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
           "url": "https://theqoo.net/hot/4377989355",
-          "score": 71.84
+          "score": 70.37
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ib6bfa345",
@@ -612,8 +650,47 @@
       "last_seen": "2026-10-17T06:27:49.462651+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i01009091",
+      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 102.66,
+      "peak_score": 90.17,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 7,
+          "title": "축제공연 가수무대 중단시키고 올라온 김민석 ㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741355",
+          "score": 80.17
+        },
+        {
+          "source": "클리앙",
+          "rank": 80,
+          "title": "이재명이랑 김민석 맞짱뜨면 누가 이겨요?",
+          "url": "https://www.clien.net/service/board/park/19278744?od=T31&po=0&category=0&groupCd=",
+          "score": 54.87
+        }
+      ],
+      "first_seen": "2026-10-03T16:01:31.160167+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": 7
     },
     {
       "id": "i7d8a3e8a",
@@ -650,8 +727,86 @@
       "last_seen": "2026-10-17T02:56:53.776363+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 5,
+      "change": -2
+    },
+    {
+      "id": "ib19f68fa",
+      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "추미애"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 98.18,
+      "peak_score": 82.22,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 16,
+          "title": "소방관님 추미애 등진 사진은 역대급이네요",
+          "url": "https://www.clien.net/service/board/park/19278761?od=T31&po=0&category=0&groupCd=",
+          "score": 72.22
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 89,
+          "title": "이대통령) 추미애 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154785",
+          "score": 52.74
+        }
+      ],
+      "first_seen": "2026-10-03T10:28:43.355161+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 6,
       "change": 0
+    },
+    {
+      "id": "i55b3a015",
+      "title": "진짜 심각하다는 30대 근황",
+      "keywords": [
+        "심각하다는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 98.16,
+      "peak_score": 88.69,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "진짜 심각하다는 30대 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741356",
+          "score": 80.69
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "요즘) 진짜 심각하다는 30대 근황 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154809",
+          "score": 70.67
+        }
+      ],
+      "first_seen": "2026-10-17T08:26:24.297684+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i9c248c8d",
@@ -688,8 +843,46 @@
       "last_seen": "2026-10-17T06:27:49.462651+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 8,
+      "change": -4
+    },
+    {
+      "id": "iea87c8f0",
+      "title": "‘한다네요’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한다네요"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.6,
+      "peak_score": 83.13,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 12,
+          "title": "박선원이 최강욱 고소 한다네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154739",
+          "score": 74.13
+        },
+        {
+          "source": "클리앙",
+          "rank": 48,
+          "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
+          "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
+          "score": 63.8
+        }
+      ],
+      "first_seen": "2026-10-17T08:26:24.297684+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "i0cdcc665",
@@ -699,35 +892,105 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 90.25,
+      "score": 91.37,
       "peak_score": 76.32,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 56,
-          "title": "아이폰 듀오, 나노텍스쳐 선동이 어이가 없는 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470879&_dcbest=1&page=1",
-          "score": 60.05
+          "source": "클리앙",
+          "rank": 48,
+          "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
+          "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
+          "score": 63.8
         },
         {
-          "source": "클리앙",
-          "rank": 72,
-          "title": "아이폰 듀오때문에 잠도 안오네요 -_-;;",
-          "url": "https://www.clien.net/service/board/park/19278729?od=T31&po=0&category=0&groupCd=",
-          "score": 55.0
+          "source": "디시인사이드",
+          "rank": 86,
+          "title": "아이폰 듀오, 나노텍스쳐 선동이 어이가 없는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470879&_dcbest=1&page=1",
+          "score": 54.58
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-17T05:54:10.592830+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 5,
-      "change": 0
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": -5
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 102.97,
+      "peak_score": 102.97,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "테슬라 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+          "score": 92.97
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "테슬라 로드스터 공식 유튜브 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
+          "score": 76.68
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i01009091",
+      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 90.17,
+      "peak_score": 90.17,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 7,
+          "title": "축제공연 가수무대 중단시키고 올라온 김민석 ㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741355",
+          "score": 80.17
+        },
+        {
+          "source": "클리앙",
+          "rank": 80,
+          "title": "이재명이랑 김민석 맞짱뜨면 누가 이겨요?",
+          "url": "https://www.clien.net/service/board/park/19278744?od=T31&po=0&category=0&groupCd=",
+          "score": 54.87
+        }
+      ],
+      "rank": 2,
+      "change": 5
     },
     {
       "id": "ib19f68fa",
@@ -736,237 +999,67 @@
         "추미애"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 90.13,
-      "peak_score": 76.08,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 40,
-          "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
-          "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
-          "score": 64.28
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.92
-        }
-      ],
-      "first_seen": "2026-10-03T10:28:43.355161+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.1,
-      "peak_score": 77.63,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 26,
-          "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
-          "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-          "score": 68.63
-        },
-        {
-          "source": "인벤",
-          "rank": 47,
-          "title": "이재명 대통령 “행정공개가 원칙”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
-          "score": 62.45
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i87351a46",
-      "title": "‘호불호’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "호불호"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.84,
-      "peak_score": 77.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 20,
-          "title": "은근 호불호 많이갈린다는 이불취향...jpg",
-          "url": "https://theqoo.net/hot/4377921460",
-          "score": 68.37
-        },
-        {
-          "source": "루리웹",
-          "rank": 84,
-          "title": "호불호 햄버거.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77052937?m=humor_only&t=now",
-          "score": 53.62
-        }
-      ],
-      "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-17T02:56:53.776363+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "i351af4be",
-      "title": "다음주에 개봉하는 국산 애니메이션",
-      "keywords": [
-        "애니메이션",
-        "국산",
-        "다음주에",
-        "개봉하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.17,
-      "peak_score": 74.7,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "다음주에 개봉하는 국산 애니메이션",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741347",
-          "score": 66.7
-        },
-        {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "다음주에 개봉하는 국산 애니메이션",
-          "url": "https://www.clien.net/service/board/park/19278745?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "first_seen": "2026-10-17T06:27:49.462651+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i799fc775",
-      "title": "‘대변인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "대변인",
-        "백악관"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.16,
-      "peak_score": 70.69,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "[속보/AP] 백악관 대변인 5일천하. 케이티 재커리아 해임.",
-          "url": "https://www.clien.net/service/board/park/19278741?od=T31&po=0&category=0&groupCd=",
-          "score": 61.69
-        },
-        {
-          "source": "루리웹",
-          "rank": 84,
-          "title": "백악관 대변인 취임 5일 만에 경질 ㅋㅋㅋ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053235?m=humor_only&t=now",
-          "score": 52.55
-        }
-      ],
-      "first_seen": "2026-10-17T05:54:10.592830+09:00",
-      "last_seen": "2026-10-17T05:54:10.592830+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ib6bfa345",
-      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "소방관"
-      ],
-      "source_count": 3,
       "post_count": 3,
-      "score": 85.63,
-      "peak_score": 85.63,
+      "score": 82.22,
+      "peak_score": 82.22,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 26,
-          "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
-          "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-          "score": 68.63
+          "rank": 16,
+          "title": "소방관님 추미애 등진 사진은 역대급이네요",
+          "url": "https://www.clien.net/service/board/park/19278761?od=T31&po=0&category=0&groupCd=",
+          "score": 72.22
         },
         {
-          "source": "인벤",
-          "rank": 31,
-          "title": "추미애에게 눈물흘리며 등돌린 소방관",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
-          "score": 66.95
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.92
+          "source": "뽐뿌",
+          "rank": 89,
+          "title": "이대통령) 추미애 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154785",
+          "score": 52.74
         }
       ],
-      "rank": 1,
-      "change": 0
+      "rank": 3,
+      "change": 3
+    },
+    {
+      "id": "i55b3a015",
+      "title": "진짜 심각하다는 30대 근황",
+      "keywords": [
+        "심각하다는",
+        "30대"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.69,
+      "peak_score": 88.69,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "진짜 심각하다는 30대 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741356",
+          "score": 80.69
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "요즘) 진짜 심각하다는 30대 근황 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154809",
+          "score": 70.67
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "ib4309374",
@@ -976,8 +1069,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.48,
-      "peak_score": 93.48,
+      "score": 84.01,
+      "peak_score": 84.01,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -986,103 +1079,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 10,
           "title": "싱글벙글 요즘 여자들이 보는 남자 키",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
-          "score": 84.48
+          "score": 75.01
         },
         {
           "source": "더쿠",
-          "rank": 21,
+          "rank": 22,
           "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
           "url": "https://theqoo.net/hot/4377989355",
-          "score": 71.84
+          "score": 70.37
         }
       ],
-      "rank": 2,
-      "change": 1
+      "rank": 5,
+      "change": -3
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iea87c8f0",
+      "title": "‘한다네요’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "한다네요"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.63,
-      "peak_score": 77.63,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 26,
-          "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
-          "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-          "score": 68.63
-        },
-        {
-          "source": "인벤",
-          "rank": 47,
-          "title": "이재명 대통령 “행정공개가 원칙”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
-          "score": 62.45
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i351af4be",
-      "title": "다음주에 개봉하는 국산 애니메이션",
-      "keywords": [
-        "애니메이션",
-        "국산",
-        "다음주에",
-        "개봉하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.7,
-      "peak_score": 74.7,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "다음주에 개봉하는 국산 애니메이션",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741347",
-          "score": 66.7
-        },
-        {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "다음주에 개봉하는 국산 애니메이션",
-          "url": "https://www.clien.net/service/board/park/19278745?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i9c248c8d",
-      "title": "‘메모리’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "메모리"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.35,
-      "peak_score": 73.35,
+      "score": 83.13,
+      "peak_score": 83.13,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -1090,217 +1112,156 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 39,
-          "title": "간밤에 미국서 메모리 폭락했네요",
-          "url": "https://www.clien.net/service/board/park/19278742?od=T31&po=0&category=0&groupCd=",
-          "score": 64.35
-        },
-        {
           "source": "뽐뿌",
-          "rank": 44,
-          "title": "창신 메모리 흑자전환 기습발표후 미장 메모리 나락중 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443452",
-          "score": 63.52
-        }
-      ],
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "id": "ib19f68fa",
-      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "추미애"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.28,
-      "peak_score": 73.28,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 40,
-          "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
-          "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
-          "score": 64.28
+          "rank": 12,
+          "title": "박선원이 최강욱 고소 한다네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154739",
+          "score": 74.13
         },
         {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.92
+          "source": "클리앙",
+          "rank": 48,
+          "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
+          "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
+          "score": 63.8
         }
       ],
       "rank": 6,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i82121c4f",
+      "title": "‘마세요’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "김민석"
+        "마세요"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 68.93,
-      "peak_score": 68.93,
+      "score": 77.7,
+      "peak_score": 77.7,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 57,
-          "title": "이재명이랑 김민석 맞짱뜨면 누가 이겨요?",
-          "url": "https://www.clien.net/service/board/park/19278744?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
+          "source": "인벤",
+          "rank": 28,
+          "title": "회사에서 \"아니 근데...\" 쓰지 마세요",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741358",
+          "score": 68.7
         },
         {
-          "source": "더쿠",
-          "rank": 95,
-          "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-          "url": "https://theqoo.net/hot/4377907618",
-          "score": 50.58
+          "source": "뽐뿌",
+          "rank": 42,
+          "title": "공포에 사로잡히지 마세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443503",
+          "score": 65.62
         }
       ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0cdcc665",
+      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "민주당"
+        "아이폰"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 62.92,
-      "peak_score": 62.92,
+      "score": 72.8,
+      "peak_score": 72.8,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.92
+          "source": "클리앙",
+          "rank": 48,
+          "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
+          "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
+          "score": 63.8
         },
         {
-          "source": "더쿠",
-          "rank": 95,
-          "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-          "url": "https://theqoo.net/hot/4377907618",
-          "score": 50.58
+          "source": "디시인사이드",
+          "rank": 86,
+          "title": "아이폰 듀오, 나노텍스쳐 선동이 어이가 없는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470879&_dcbest=1&page=1",
+          "score": 54.58
         }
       ],
       "rank": 8,
-      "change": -1
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "소방관",
-      "score": 117.73,
+      "keyword": "아이",
+      "score": 121.54,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 26,
+      "best_rank": 25,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "인벤",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": 9
     },
     {
-      "keyword": "추미애",
-      "score": 116.2,
+      "keyword": "테슬라",
+      "score": 113.36,
       "post_count": 3,
-      "source_count": 3,
-      "best_rank": 31,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "keyword": "여자들",
-      "score": 106.25,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "인천",
-      "score": 102.97,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "keyword": "누가",
-      "score": 102.31,
-      "post_count": 2,
       "source_count": 2,
       "best_rank": 3,
       "sources": [
         "루리웹",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
-      "rank": 5,
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "메모리",
-      "score": 100.27,
-      "post_count": 3,
+      "keyword": "심각하다",
+      "score": 105.09,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 6,
       "sources": [
         "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [
+        "30대"
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김민석",
+      "score": 103.12,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": 1
+      "rank": 4,
+      "change": 13
     },
     {
-      "keyword": "은근",
-      "score": 100.05,
-      "post_count": 2,
+      "keyword": "인천",
+      "score": 102.44,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 14,
       "sources": [
@@ -1308,17 +1269,45 @@
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": -2
+      "rank": 5,
+      "change": -1
     },
     {
-      "keyword": "이재명",
-      "score": 97.88,
+      "keyword": "여자들",
+      "score": 102.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 10,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "keyword": "추미애",
+      "score": 97.81,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 16,
       "sources": [
-        "인벤",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": -5
+    },
+    {
+      "keyword": "한다네요",
+      "score": 97.15,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 12,
+      "sources": [
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1326,13 +1315,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "하고",
-      "score": 97.76,
+      "keyword": "마세요",
+      "score": 92.64,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 28,
       "sources": [
-        "루리웹",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1340,142 +1329,138 @@
       "change": "NEW"
     },
     {
-      "keyword": "아이",
-      "score": 96.49,
+      "keyword": "세계",
+      "score": 91.09,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 33,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "은근",
+      "score": 91.02,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 24,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 10,
+      "rank": 11,
       "change": -4
     },
     {
-      "keyword": "주식",
-      "score": 93.89,
-      "post_count": 2,
+      "keyword": "듀오",
+      "score": 87.0,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 48,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 11,
-      "change": "NEW"
+      "rank": 12,
+      "change": 3
     },
     {
-      "keyword": "애니메이션",
-      "score": 89.75,
+      "keyword": "주식",
+      "score": 83.8,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 44,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -2
+    },
+    {
+      "keyword": "누가",
+      "score": 83.09,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 49,
       "sources": [
         "인벤",
         "클리앙"
       ],
-      "aliases": [
-        "개봉하",
-        "국산",
-        "다음주"
-      ],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한국",
-      "score": 87.22,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": -5
-    },
-    {
-      "keyword": "사과",
-      "score": 84.03,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 40,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
       "aliases": [],
       "rank": 14,
-      "change": -3
+      "change": -9
     },
     {
-      "keyword": "듀오",
-      "score": 80.81,
+      "keyword": "아이폰",
+      "score": 82.73,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 58,
+      "best_rank": 48,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 15,
-      "change": -5
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "속보) 트럼프측 '중간선거 조작시 계엄령' 논의",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77052756?m=humor",
-      "score": 97.68,
-      "views": 13142,
-      "comments": 45
-    },
-    {
-      "source": "디시인사이드",
-      "title": "주둥이 치이카와 논란 결말",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-      "score": 90.94,
-      "views": 23498,
-      "comments": 220
-    },
-    {
-      "source": "클리앙",
-      "title": "이동형이는 완전히 정신이 나갔네요",
-      "url": "https://www.clien.net/service/board/park/19278740?od=T31&po=0&category=0&groupCd=",
-      "score": 82.87,
-      "views": 2285,
-      "comments": 12
-    },
-    {
-      "source": "인벤",
-      "title": "핸드폰 할부 통지서 대참사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741345",
-      "score": 80.36,
-      "views": 2182,
-      "comments": 6
+      "title": "36살이나 됐으면 부모 원망은 그만해야지",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053013?m=humor",
+      "score": 97.43,
+      "views": 19133,
+      "comments": 60
     },
     {
       "source": "더쿠",
       "title": "중딩 여자애들보고 이딴 거 찍게하는 이수만 할배는 잘만 빨아주는데 언더피프틴은 왜 욕먹었는지?",
       "url": "https://theqoo.net/hot/4378003278",
-      "score": 80.0,
-      "views": 26351,
-      "comments": 310
+      "score": 85.53,
+      "views": 55075,
+      "comments": 463
+    },
+    {
+      "source": "디시인사이드",
+      "title": "주둥이 치이카와 논란 결말",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+      "score": 82.3,
+      "views": 26983,
+      "comments": 248
+    },
+    {
+      "source": "인벤",
+      "title": "진짜 심각하다는 30대 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741356",
+      "score": 80.69,
+      "views": 2929,
+      "comments": 13
     },
     {
       "source": "뽐뿌",
-      "title": "참 삼전 허탈하네 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443407",
-      "score": 75.85,
-      "views": 25101,
-      "comments": 51
+      "title": "테슬라 로드스터 공식 유튜브 영상",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
+      "score": 76.68,
+      "views": 12515,
+      "comments": 57
+    },
+    {
+      "source": "클리앙",
+      "title": "젤렌스키, EU에 “내년 전쟁 비용 1550억유로…700억유로 더 달라”",
+      "url": "https://www.clien.net/service/board/park/19278764?od=T31&po=0&category=0&groupCd=",
+      "score": 73.01,
+      "views": 837,
+      "comments": 5
     }
   ]
 }

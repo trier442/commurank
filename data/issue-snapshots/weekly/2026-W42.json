@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T06:27:49.462651+09:00",
+  "collected_at": "2026-10-17T08:26:24.297684+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -334,7 +334,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": 3
+      "change": 0
     },
     {
       "id": "i82773ad8",
@@ -372,7 +372,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibfcfedac",
@@ -422,7 +422,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -461,7 +461,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -742,6 +742,44 @@
       "change": 0
     },
     {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 113.44,
+      "peak_score": 102.97,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "테슬라 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+          "score": 92.97
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "테슬라 로드스터 공식 유튜브 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
+          "score": 76.68
+        }
+      ],
+      "first_seen": "2026-09-30T16:33:10.684178+09:00",
+      "last_seen": "2026-10-17T08:26:24.297684+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "ib7853c3a",
       "title": "공항에 3~4시간 전에 가라는 건 억지 헛소리라고 봅니다",
       "keywords": [
@@ -779,8 +817,8 @@
       "last_seen": "2026-10-16T23:00:03.677661+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -820,46 +858,8 @@
       "last_seen": "2026-10-17T06:27:49.462651+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 111.54,
-      "peak_score": 98.61,
-      "appearances": 3,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 11,
-          "title": "[설빙] 네이버페이 9,900원 이상 결제 시 50% 적립(10/15~18)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108045",
-          "score": 78.36
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 27,
-          "title": "[란123] 네이버페이 78원 + 랜덤 포인트 받으세요 (+기타 464원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328",
-          "score": 69.16
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-15T09:03:33.722260+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
