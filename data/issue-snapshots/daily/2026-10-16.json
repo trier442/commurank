@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T23:00:03.677661+09:00",
+  "collected_at": "2026-10-16T23:25:48.811710+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -235,7 +235,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i4f451ecc",
@@ -273,7 +273,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 100.17,
+      "peak_score": 87.68,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 57,
+          "title": "이재명 대통령은 지금 [구조적 다수] [특정 소수] 어느쪽 하고 있을까요?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741296",
+          "score": 60.4
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 64,
+          "title": "82쿡펌> 푸어 이재명",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154627",
+          "score": 59.62
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-16T23:25:48.811710+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 2
     },
     {
       "id": "i62196098",
@@ -312,7 +351,7 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 8,
       "change": -1
     },
     {
@@ -350,20 +389,58 @@
       "last_seen": "2026-10-16T18:45:01.821788+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 9,
       "change": -1
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib19f68fa",
+      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "추미애"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 98.15,
-      "peak_score": 87.68,
-      "appearances": 1,
+      "score": 98.65,
+      "peak_score": 86.16,
+      "appearances": 2,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "추미애 아직도 사과 안했나요, 정당만 사과하고.",
+          "url": "https://www.clien.net/service/board/park/19278684?od=T31&po=0&category=0&groupCd=",
+          "score": 76.16
+        },
+        {
+          "source": "인벤",
+          "rank": 19,
+          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
+          "score": 71.11
+        }
+      ],
+      "first_seen": "2026-10-03T10:28:43.355161+09:00",
+      "last_seen": "2026-10-16T23:25:48.811710+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 10,
+      "change": 7
+    },
+    {
+      "id": "ib6bfa345",
+      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "소방관"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 97.68,
+      "peak_score": 83.19,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
@@ -371,25 +448,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 12,
-          "title": "이재명 x",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
-          "score": 77.68
+          "rank": 19,
+          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
+          "score": 71.11
         },
         {
           "source": "클리앙",
-          "rank": 24,
-          "title": "이재명 정부의 업적",
-          "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
-          "score": 70.19
+          "rank": 86,
+          "title": "李대통령, 전국체전서 부상 소방관 쾌유 기원…'천금도 아깝지 않아'(종합)",
+          "url": "https://www.clien.net/service/board/park/19278686?od=T31&po=0&category=0&groupCd=",
+          "score": 56.03
         }
       ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-16T13:18:04.982341+09:00",
+      "first_seen": "2026-10-16T23:00:03.677661+09:00",
+      "last_seen": "2026-10-16T23:25:48.811710+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 9,
-      "change": -1
+      "latest_post_count": 5,
+      "rank": 11,
+      "change": 3
     },
     {
       "id": "i60771edb",
@@ -430,8 +507,8 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "ia96e470d",
@@ -468,8 +545,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -1
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "ia0358651",
@@ -506,8 +583,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -1
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "ife3c822c",
@@ -544,46 +621,8 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -1
-    },
-    {
-      "id": "ib6bfa345",
-      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "소방관"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 94.66,
-      "peak_score": 83.19,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 14,
-          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
-          "score": 72.19
-        },
-        {
-          "source": "클리앙",
-          "rank": 62,
-          "title": "李대통령, 전국체전서 부상 소방관 쾌유 기원…'천금도 아깝지 않아'(종합)",
-          "url": "https://www.clien.net/service/board/park/19278686?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
-        }
-      ],
-      "first_seen": "2026-10-16T23:00:03.677661+09:00",
-      "last_seen": "2026-10-16T23:00:03.677661+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i2d3c9cf7",
@@ -620,8 +659,8 @@
       "last_seen": "2026-10-16T18:06:39.550171+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -2
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "ic1ce5071",
@@ -670,45 +709,45 @@
       "last_seen": "2026-10-16T18:06:39.550171+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": -2
+      "rank": 17,
+      "change": -1
     },
     {
-      "id": "ib19f68fa",
-      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia8f88e22",
+      "title": "‘유승민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "추미애"
+        "유승민"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 92.66,
-      "peak_score": 82.19,
-      "appearances": 1,
+      "post_count": 2,
+      "score": 92.01,
+      "peak_score": 80.52,
+      "appearances": 2,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 14,
-          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
-          "score": 72.19
+          "rank": 17,
+          "title": "‘딸 교수 임용 특혜 의혹’ 유승민 전 의원 송치…“정치수사” 반박",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741290",
+          "score": 71.52
         },
         {
-          "source": "클리앙",
-          "rank": 32,
-          "title": "추미애 아직도 사과 안했나요, 정당만 사과하고.",
-          "url": "https://www.clien.net/service/board/park/19278684?od=T31&po=0&category=0&groupCd=",
-          "score": 65.34
+          "source": "디시인사이드",
+          "rank": 60,
+          "title": "유승민, 경찰 발표에 대한 입장문",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470835&_dcbest=1&page=1",
+          "score": 60.33
         }
       ],
-      "first_seen": "2026-10-03T10:28:43.355161+09:00",
-      "last_seen": "2026-10-16T23:00:03.677661+09:00",
+      "first_seen": "2026-10-16T23:00:03.677661+09:00",
+      "last_seen": "2026-10-16T23:25:48.811710+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 17,
+      "latest_post_count": 2,
+      "rank": 18,
       "change": "NEW"
     },
     {
@@ -749,8 +788,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -3
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i1a0292b7",
@@ -787,46 +826,8 @@
       "last_seen": "2026-10-16T04:05:55.363364+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -3
-    },
-    {
-      "id": "i4c8bdd1e",
-      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "대한민국"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.37,
-      "peak_score": 80.9,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "위기의 대한민국 30대",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741170",
-          "score": 71.9
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 73,
-          "title": "[오피셜] 대한민국 서비스 종료 확정 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470743&_dcbest=1&page=1",
-          "score": 55.84
-        }
-      ],
-      "first_seen": "2026-09-30T16:29:04.314799+09:00",
-      "last_seen": "2026-10-16T18:45:01.821788+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -3
+      "change": -1
     }
   ]
 }
