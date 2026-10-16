@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T14:03:55.495801+09:00",
+  "collected_at": "2026-10-16T18:06:39.550171+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -115,7 +115,7 @@
       "latest_source_count": 4,
       "latest_post_count": 7,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -154,7 +154,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i6f11e91b",
@@ -194,7 +194,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i62196098",
@@ -272,7 +272,45 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 6,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ib6978d90",
+      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마라톤"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.72,
+      "peak_score": 87.25,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 4,
+          "title": "마라톤 대회 얼마나 많길래",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741157",
+          "score": 78.25
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "기괴하다vs뭐 어때로 갈린다는 마라톤 추모.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470767&_dcbest=1&page=1",
+          "score": 64.69
+        }
+      ],
+      "first_seen": "2026-10-14T07:59:33.070594+09:00",
+      "last_seen": "2026-10-16T18:06:39.550171+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i60771edb",
@@ -313,8 +351,8 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ia96e470d",
@@ -351,8 +389,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ia0358651",
@@ -389,8 +427,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ife3c822c",
@@ -427,7 +465,95 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
+      "change": -1
+    },
+    {
+      "id": "i2d3c9cf7",
+      "title": "‘성폭행’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "성폭행"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.71,
+      "peak_score": 84.24,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "[단독] 성폭행 피해자 '맞신고'한 남학생들...'시간 끌기 전략'으로",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470773&_dcbest=1&page=1",
+          "score": 75.24
+        },
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "성폭행 영상까지 나왔지만 학폭처리 안하고 대학 보낸 국립전통예술고등학교",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741146",
+          "score": 65.56
+        }
+      ],
+      "first_seen": "2026-09-29T19:53:33.458089+09:00",
+      "last_seen": "2026-10-16T18:06:39.550171+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "id": "ic1ce5071",
+      "title": "5·18 '폭동' 표현 일베 글 항소심 무죄…\"허위사실 아닌 의견\"(종합2보)",
+      "keywords": [
+        "폭동",
+        "일베",
+        "무죄",
+        "18은",
+        "항소심서"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 93.21,
+      "peak_score": 78.74,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "5·18 '폭동' 표현 일베 글 항소심 무죄…\"허위사실 아닌 의견\"(종합2보)",
+          "url": "https://theqoo.net/hot/4377509142",
+          "score": 63.74
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "'5.18은 폭동' 일베 게시 40대 항소심서 무죄",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741141",
+          "score": 60.26
+        },
+        {
+          "source": "클리앙",
+          "rank": 89,
+          "title": "'5.18은 폭동' 일베 게시 40대 항소심서 무죄",
+          "url": "https://www.clien.net/service/board/park/19278543?od=T31&po=0&category=0&groupCd=",
+          "score": 54.37
+        }
+      ],
+      "first_seen": "2026-10-16T18:06:39.550171+09:00",
+      "last_seen": "2026-10-16T18:06:39.550171+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 13,
       "change": "NEW"
     },
     {
@@ -468,7 +594,7 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 14,
       "change": -3
     },
     {
@@ -506,7 +632,7 @@
       "last_seen": "2026-10-16T04:05:55.363364+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
+      "rank": 15,
       "change": -3
     },
     {
@@ -544,7 +670,7 @@
       "last_seen": "2026-10-16T13:18:04.982341+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 16,
       "change": -3
     },
     {
@@ -585,7 +711,7 @@
       "last_seen": "2026-10-16T08:54:31.305763+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
+      "rank": 17,
       "change": -3
     },
     {
@@ -623,8 +749,8 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 18,
+      "change": -3
     },
     {
       "id": "i1bf23001",
@@ -661,8 +787,8 @@
       "last_seen": "2026-10-16T14:03:55.495801+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 19,
+      "change": -3
     },
     {
       "id": "iad5a47fb",
@@ -704,128 +830,8 @@
       "last_seen": "2026-10-16T06:43:28.182532+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -5
-    },
-    {
-      "id": "ib4558ea4",
-      "title": "[단독] ‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
-      "keywords": [
-        "여행",
-        "조작",
-        "단독",
-        "있었다",
-        "대본",
-        "전현무",
-        "카자흐스탄"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.31,
-      "peak_score": 77.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "[단독] ‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
-          "url": "https://theqoo.net/hot/4377088174",
-          "score": 69.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 32,
-          "title": "[단독] ‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
-          "url": "https://www.clien.net/service/board/park/19278240?od=T31&po=0&category=0&groupCd=",
-          "score": 66.99
-        }
-      ],
-      "first_seen": "2026-10-16T08:54:31.305763+09:00",
-      "last_seen": "2026-10-16T08:54:31.305763+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -5
-    },
-    {
-      "id": "i1b672c00",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "치이카와"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.02,
-      "peak_score": 75.53,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 51,
-          "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
-          "url": "https://theqoo.net/hot/4377244873",
-          "score": 62.05
-        },
-        {
-          "source": "루리웹",
-          "rank": 80,
-          "title": "치이카와 토벌봉 굿즈.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77026247?m=humor_only&t=now",
-          "score": 55.53
-        }
-      ],
-      "first_seen": "2026-10-08T11:52:47.411122+09:00",
-      "last_seen": "2026-10-16T14:03:55.495801+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "어떻게"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.47,
-      "peak_score": 77.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 29,
-          "title": "유튜브에서 게이 부부의 자녀가 두 아빠를 daddy와 papa로 구분지어 호칭하는걸 봤다 한국에선 어떻게 적용할 수 있을지 고민하다가",
-          "url": "https://theqoo.net/hot/4377290920",
-          "score": 68.0
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "(영상첨부) 고속도로에서 액체 테러를 당했어요. 누가 범인이고, 어떻게 해야 할까요?",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979644",
-          "score": 56.52
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-16T13:18:04.982341+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -6
+      "change": -3
     }
   ]
 }
