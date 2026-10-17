@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-17",
   "label": "2026년 10월 17일",
-  "collected_at": "2026-10-17T11:43:51.025948+09:00",
+  "collected_at": "2026-10-17T15:03:41.666610+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘테슬라’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #소방관. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘테슬라’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #남녀. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 998633,
-    "top100_comments": 8767
+    "keywords": 11,
+    "top100_views": 1104579,
+    "top100_comments": 11397
   },
   "highlights": [
     {
@@ -25,18 +25,76 @@
     },
     {
       "type": "post",
-      "title": "\"성폭행 영상도 나왔는데\"‥'학폭' 기록 한줄 없이 '대입 성공'",
+      "title": "어른 되어서 다른 시각으로 보게 된 장면.gif",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053313?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054209?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#소방관",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "소방관"
+      "title": "#남녀",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "남녀"
     }
   ],
   "top_posts": [
+    {
+      "title": "어른 되어서 다른 시각으로 보게 된 장면.gif",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054209?m=humor",
+      "first_seen": "2026-10-17T10:28:14.893649+09:00",
+      "last_seen": "2026-10-17T15:03:41.666610+09:00",
+      "peak_score": 97.7,
+      "max_views": 20513,
+      "max_likes": 89,
+      "max_comments": 109,
+      "appearances": 3,
+      "daily_stats": {
+        "2026-10-17": {
+          "max_score": 97.7,
+          "max_views": 20513,
+          "max_likes": 89,
+          "max_comments": 109,
+          "appearances": 3,
+          "last_seen": "2026-10-17T15:03:41.666610+09:00"
+        }
+      },
+      "score": 108.75,
+      "views": 20513,
+      "likes": 89,
+      "comments": 109,
+      "active_days": 1,
+      "change": 1
+    },
+    {
+      "title": "생김새와 다르게 생각보다 파괴력이 좋은 무기.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054158?m=humor",
+      "first_seen": "2026-10-17T15:03:41.666610+09:00",
+      "last_seen": "2026-10-17T15:03:41.666610+09:00",
+      "peak_score": 98.54,
+      "max_views": 24739,
+      "max_likes": 122,
+      "max_comments": 73,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-17": {
+          "max_score": 98.54,
+          "max_views": 24739,
+          "max_likes": 122,
+          "max_comments": 73,
+          "appearances": 1,
+          "last_seen": "2026-10-17T15:03:41.666610+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 24739,
+      "likes": 122,
+      "comments": 73,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "\"성폭행 영상도 나왔는데\"‥'학폭' 기록 한줄 없이 '대입 성공'",
       "source": "루리웹",
@@ -59,41 +117,12 @@
           "last_seen": "2026-10-17T08:52:26.363084+09:00"
         }
       },
-      "score": 108.23,
+      "score": 107.95,
       "views": 18720,
       "likes": 139,
       "comments": 43,
       "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "어른 되어서 다른 시각으로 보게 된 장면.gif",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054209?m=humor",
-      "first_seen": "2026-10-17T10:28:14.893649+09:00",
-      "last_seen": "2026-10-17T11:43:51.025948+09:00",
-      "peak_score": 97.7,
-      "max_views": 14206,
-      "max_likes": 71,
-      "max_comments": 87,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-17": {
-          "max_score": 97.7,
-          "max_views": 14206,
-          "max_likes": 71,
-          "max_comments": 87,
-          "appearances": 2,
-          "last_seen": "2026-10-17T11:43:51.025948+09:00"
-        }
-      },
-      "score": 108.12,
-      "views": 14206,
-      "likes": 71,
-      "comments": 87,
-      "active_days": 1,
-      "change": 16
+      "change": -2
     },
     {
       "title": "하루 19시간 노동에 대들보 매달려 학대 당한 영광 염전근로자 3명",
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-17T05:54:10.592830+09:00"
         }
       },
-      "score": 107.58,
+      "score": 107.3,
       "views": 12718,
       "likes": 136,
       "comments": 80,
@@ -146,12 +175,41 @@
           "last_seen": "2026-10-17T10:28:14.893649+09:00"
         }
       },
-      "score": 107.54,
+      "score": 107.26,
       "views": 13870,
       "likes": 115,
       "comments": 56,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "미국 오리건주 초등학교에서 16세 소년이 총기난사 어린이 3명, 교사 1명 사망",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054087?m=humor",
+      "first_seen": "2026-10-17T11:43:51.025948+09:00",
+      "last_seen": "2026-10-17T15:03:41.666610+09:00",
+      "peak_score": 96.19,
+      "max_views": 21327,
+      "max_likes": 120,
+      "max_comments": 95,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-17": {
+          "max_score": 96.19,
+          "max_views": 21327,
+          "max_likes": 120,
+          "max_comments": 95,
+          "appearances": 2,
+          "last_seen": "2026-10-17T15:03:41.666610+09:00"
+        }
+      },
+      "score": 106.61,
+      "views": 21327,
+      "likes": 120,
+      "comments": 95,
+      "active_days": 1,
+      "change": 12
     },
     {
       "title": "속보) 트럼프측 '중간선거 조작시 계엄령' 논의",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-17T06:27:49.462651+09:00"
         }
       },
-      "score": 106.77,
+      "score": 106.49,
       "views": 13142,
       "likes": 72,
       "comments": 45,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "36살이나 됐으면 부모 원망은 그만해야지",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-17T08:26:24.297684+09:00"
         }
       },
-      "score": 106.68,
+      "score": 106.4,
       "views": 19133,
       "likes": 81,
       "comments": 60,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "속보) 송민호 102일 재복무 확정 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
@@ -233,41 +291,12 @@
           "last_seen": "2026-10-17T03:17:12.823957+09:00"
         }
       },
-      "score": 106.32,
+      "score": 106.05,
       "views": 20904,
       "likes": 108,
       "comments": 89,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "군대 음료 근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053418?m=humor",
-      "first_seen": "2026-10-17T08:26:24.297684+09:00",
-      "last_seen": "2026-10-17T08:26:24.297684+09:00",
-      "peak_score": 96.85,
-      "max_views": 12017,
-      "max_likes": 52,
-      "max_comments": 49,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-17": {
-          "max_score": 96.85,
-          "max_views": 12017,
-          "max_likes": 52,
-          "max_comments": 49,
-          "appearances": 1,
-          "last_seen": "2026-10-17T08:26:24.297684+09:00"
-        }
-      },
-      "score": 106.1,
-      "views": 12017,
-      "likes": 52,
-      "comments": 49,
-      "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "아니 요즘 치킨 가격 진짜 미쳤네 ㅋㅋㅋ",
@@ -291,133 +320,64 @@
           "last_seen": "2026-10-17T11:43:51.025948+09:00"
         }
       },
-      "score": 106.09,
+      "score": 105.82,
       "views": 17535,
       "likes": 87,
       "comments": 59,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "가짜 폐급과 진짜 폐급의 차이",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054195?m=humor",
-      "first_seen": "2026-10-17T10:28:14.893649+09:00",
-      "last_seen": "2026-10-17T10:28:14.893649+09:00",
-      "peak_score": 96.61,
-      "max_views": 11240,
-      "max_likes": 157,
-      "max_comments": 58,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-17": {
-          "max_score": 96.61,
-          "max_views": 11240,
-          "max_likes": 157,
-          "max_comments": 58,
-          "appearances": 1,
-          "last_seen": "2026-10-17T10:28:14.893649+09:00"
-        }
-      },
-      "score": 106.03,
-      "views": 11240,
-      "likes": 157,
-      "comments": 58,
-      "active_days": 1,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "어른 되어서 다른 시각으로 보게 된 장면.gif",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054209?m=humor",
+      "source": "디시인사이드",
+      "title": "은근히 잘 모르는 한국이 일본 테러할려고 했던 사건",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470966&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14206,
-      "likes": 71,
-      "comments": 87,
-      "score": 97.7,
-      "change": 2,
-      "current_rank": 1,
-      "new_entry": false,
-      "delta_views": 4178,
-      "delta_likes": 17,
-      "delta_comments": 15,
-      "rank_gain": 2,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 76
-    },
-    {
-      "source": "뽐뿌",
-      "title": "창고에 처박힌 400억",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23497",
-      "category": "이슈",
-      "views": 15229,
-      "likes": 9,
-      "comments": 25,
-      "score": 60.17,
+      "views": 16035,
+      "likes": 101,
+      "comments": 267,
+      "score": 68.22,
       "change": 0,
-      "current_rank": 61,
+      "current_rank": 30,
       "new_entry": false,
-      "delta_views": 13830,
-      "delta_likes": 9,
-      "delta_comments": 22,
+      "delta_views": 9938,
+      "delta_likes": 68,
+      "delta_comments": 178,
       "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 76
-    },
-    {
-      "source": "더쿠",
-      "title": "외국인 때문에 한국 아이들과 부모가 피해보게 된 아주대 소아과 사태",
-      "url": "https://theqoo.net/hot/4378099556",
-      "category": "이슈",
-      "views": 44199,
-      "likes": 0,
-      "comments": 540,
-      "score": 86.84,
-      "change": 15,
-      "current_rank": 4,
-      "new_entry": false,
-      "delta_views": 31959,
-      "delta_likes": 0,
-      "delta_comments": 355,
-      "rank_gain": 15,
-      "rising_score": 92.33,
-      "rising_rank": 3,
-      "window_minutes": 76
+      "rising_score": 84.72,
+      "rising_rank": 1,
+      "window_minutes": 200
     },
     {
       "source": "루리웹",
-      "title": "아니 요즘 치킨 가격 진짜 미쳤네 ㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77053651?m=humor",
-      "category": "유머",
-      "views": 17535,
-      "likes": 87,
-      "comments": 59,
-      "score": 96.57,
+      "title": "생김새와 다르게 생각보다 파괴력이 좋은 무기.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054158?m=humor",
+      "category": "이슈",
+      "views": 24739,
+      "likes": 122,
+      "comments": 73,
+      "score": 98.54,
       "change": "NEW",
-      "current_rank": 2,
+      "current_rank": 1,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.56,
-      "rising_rank": 4,
-      "window_minutes": 76
+      "rising_score": 83.39,
+      "rising_rank": 2,
+      "window_minutes": 200
     },
     {
-      "source": "루리웹",
-      "title": "미국 오리건주 초등학교에서 16세 소년이 총기난사 어린이 3명, 교사 1명 사망",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054087?m=humor",
+      "source": "디시인사이드",
+      "title": "오너 올해 역대급 리신판 ㄹㅇ....jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471000&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 12461,
-      "likes": 80,
-      "comments": 77,
-      "score": 93.4,
+      "views": 26327,
+      "likes": 599,
+      "comments": 286,
+      "score": 93.66,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,79 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.23,
-      "rising_rank": 5,
-      "window_minutes": 76
+      "rising_score": 81.34,
+      "rising_rank": 3,
+      "window_minutes": 200
     },
     {
       "source": "디시인사이드",
-      "title": "연영과 아무나 못 가는 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470950&_dcbest=1&page=1",
+      "title": "훌쩍훌쩍 20대 남녀 고민거리 차이",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471006&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 7688,
-      "likes": 15,
-      "comments": 107,
-      "score": 61.54,
-      "change": 0,
-      "current_rank": 46,
-      "new_entry": false,
-      "delta_views": 6637,
-      "delta_likes": 9,
-      "delta_comments": 83,
-      "rank_gain": 0,
-      "rising_score": 78.28,
-      "rising_rank": 6,
-      "window_minutes": 76
-    },
-    {
-      "source": "더쿠",
-      "title": "주식고수 황현희: 저는 제 목에 칼이 들어와도 지금 주식 시장 안들어갑니다. [개별종목 안해도된다. 지수를 해라]",
-      "url": "https://theqoo.net/hot/4378054036",
-      "category": "이슈",
-      "views": 46655,
-      "likes": 0,
-      "comments": 394,
-      "score": 66.89,
-      "change": 0,
-      "current_rank": 33,
-      "new_entry": false,
-      "delta_views": 12346,
-      "delta_likes": 0,
-      "delta_comments": 115,
-      "rank_gain": 0,
-      "rising_score": 78.08,
-      "rising_rank": 7,
-      "window_minutes": 76
-    },
-    {
-      "source": "디시인사이드",
-      "title": "형에게 장난감 취급 당했다는 남동생들.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470948&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12993,
-      "likes": 39,
-      "comments": 143,
-      "score": 68.59,
-      "change": 0,
-      "current_rank": 28,
-      "new_entry": false,
-      "delta_views": 6029,
-      "delta_likes": 12,
-      "delta_comments": 64,
-      "rank_gain": 0,
-      "rising_score": 77.27,
-      "rising_rank": 8,
-      "window_minutes": 76
-    },
-    {
-      "source": "뽐뿌",
-      "title": "계속 심각하다는 '굴' 근황",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23500",
-      "category": "이슈",
-      "views": 13107,
-      "likes": 3,
-      "comments": 46,
-      "score": 80.22,
+      "views": 13673,
+      "likes": 63,
+      "comments": 206,
+      "score": 85.55,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -505,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.69,
-      "rising_rank": 9,
-      "window_minutes": 76
+      "rising_score": 77.93,
+      "rising_rank": 4,
+      "window_minutes": 200
     },
     {
       "source": "뽐뿌",
-      "title": "ㅇㅎ 새로 들인 가사 도우미",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=786906",
-      "category": "유머",
-      "views": 18338,
-      "likes": 3,
-      "comments": 21,
-      "score": 79.59,
+      "title": "요즘 번화가 문신충들 근황.gif",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155016",
+      "category": "이슈",
+      "views": 25942,
+      "likes": 5,
+      "comments": 70,
+      "score": 84.36,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,9 +425,109 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.43,
+      "rising_score": 77.43,
+      "rising_rank": 5,
+      "window_minutes": 200
+    },
+    {
+      "source": "더쿠",
+      "title": "바퀴 달린 장바구니 들고 시내버스 탄 할머니, 기사가 경찰 불러서 강제 하차 시킴.",
+      "url": "https://theqoo.net/hot/4378202295",
+      "category": "이슈",
+      "views": 50861,
+      "likes": 0,
+      "comments": 1151,
+      "score": 81.68,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.31,
+      "rising_rank": 6,
+      "window_minutes": 200
+    },
+    {
+      "source": "디시인사이드",
+      "title": "외모지상주의 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470974&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 28216,
+      "likes": 170,
+      "comments": 211,
+      "score": 77.58,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.58,
+      "rising_rank": 7,
+      "window_minutes": 200
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 강원랜드 가보는 만화.Manhwa",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470996&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12878,
+      "likes": 92,
+      "comments": 114,
+      "score": 76.74,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.23,
+      "rising_rank": 8,
+      "window_minutes": 200
+    },
+    {
+      "source": "클리앙",
+      "title": "순직한 소방관 여러모로 안타깝네요.",
+      "url": "https://www.clien.net/service/board/park/19278962?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 522,
+      "likes": 2,
+      "comments": 4,
+      "score": 76.35,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.07,
+      "rising_rank": 9,
+      "window_minutes": 200
+    },
+    {
+      "source": "더쿠",
+      "title": "해외에서 플타는 NEON 애플뮤직 근황",
+      "url": "https://theqoo.net/hot/4378221460",
+      "category": "이슈",
+      "views": 44854,
+      "likes": 0,
+      "comments": 425,
+      "score": 75.84,
+      "change": "NEW",
+      "current_rank": 11,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.85,
       "rising_rank": 10,
-      "window_minutes": 76
+      "window_minutes": 200
     }
   ],
   "issues": [
@@ -645,23 +645,19 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib6bfa345",
-      "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
+      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "소방관",
-        "화재",
-        "부천",
-        "진압",
-        "끝내"
+        "소방관"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 110.12,
+      "score": 110.89,
       "peak_score": 90.16,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -671,31 +667,24 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
+          "source": "클리앙",
           "rank": 10,
+          "title": "순직한 소방관 여러모로 안타깝네요.",
+          "url": "https://www.clien.net/service/board/park/19278962?od=T31&po=0&category=0&groupCd=",
+          "score": 76.35
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 47,
           "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470963&_dcbest=1&page=1",
-          "score": 75.16
-        },
-        {
-          "source": "더쿠",
-          "rank": 48,
-          "title": "[속보] 부천 도장공장 화재 진압 소방관 1명 사망",
-          "url": "https://theqoo.net/hot/4378059075",
-          "score": 61.21
-        },
-        {
-          "source": "루리웹",
-          "rank": 68,
-          "title": "부천 화재 소방관 끝내 순직",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77055111?m=humor_only&t=now",
-          "score": 59.03
+          "score": 63.55
         }
       ],
       "first_seen": "2026-10-16T23:00:03.677661+09:00",
-      "last_seen": "2026-10-17T11:43:51.025948+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-17T15:03:41.666610+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 4,
       "change": 0
     },
@@ -735,7 +724,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i2c099e33",
@@ -773,7 +762,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i55b3a015",
@@ -811,7 +800,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i01009091",
@@ -850,7 +839,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i7d8a3e8a",
@@ -888,7 +877,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ib19f68fa",
@@ -928,266 +917,214 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -2
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
       "id": "ib6bfa345",
-      "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
+      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "소방관",
-        "화재",
-        "부천",
-        "진압",
-        "끝내"
+        "소방관"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 90.16,
-      "peak_score": 90.16,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.35,
+      "peak_score": 85.35,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 10,
+          "title": "순직한 소방관 여러모로 안타깝네요.",
+          "url": "https://www.clien.net/service/board/park/19278962?od=T31&po=0&category=0&groupCd=",
+          "score": 76.35
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 47,
+          "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470963&_dcbest=1&page=1",
+          "score": 63.55
+        }
+      ],
+      "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "ie0b569fe",
+      "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아주대",
+        "소아과"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.58,
+      "peak_score": 76.58,
       "appearances": 1,
       "sources": [
         "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "외국인 때문에 한국 아이들과 부모가 피해보게 된 아주대 소아과 사태",
+          "url": "https://theqoo.net/hot/4378099556",
+          "score": 67.58
+        },
+        {
+          "source": "루리웹",
+          "rank": 69,
+          "title": "아주대 소아과 압수수색 하는거 보고 유게가 의사 편 이러던더",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77056853?m=humor_only&t=now",
+          "score": 58.35
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ia4c7959d",
+      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "좋아하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.61,
+      "peak_score": 74.61,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 40,
+          "title": "업소에서 만난 그녀, 절 좋아하는 것일까요?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741501",
+          "score": 65.61
+        },
+        {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "외국인들이 좋아하는 남산뷰라는데요",
+          "url": "https://www.clien.net/service/board/park/19278953?od=T31&po=0&category=0&groupCd=",
+          "score": 62.19
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i86377919",
+      "title": "‘전설의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "전설의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 69.45,
+      "peak_score": 69.45,
+      "appearances": 1,
+      "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
-          "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470963&_dcbest=1&page=1",
-          "score": 75.16
-        },
-        {
-          "source": "더쿠",
-          "rank": 48,
-          "title": "[속보] 부천 도장공장 화재 진압 소방관 1명 사망",
-          "url": "https://theqoo.net/hot/4378059075",
-          "score": 61.21
+          "rank": 60,
+          "title": "일본 '전설의 경제 토론'으로 보는 일본 경제의 몰락",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470954&_dcbest=1&page=1",
+          "score": 60.45
         },
         {
           "source": "루리웹",
-          "rank": 68,
-          "title": "부천 화재 소방관 끝내 순직",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77055111?m=humor_only&t=now",
-          "score": 59.03
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i42f8564a",
-      "title": "‘16세’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "16세"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 102.4,
-      "peak_score": 102.4,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "미국 오리건주 초등학교에서 16세 소년이 총기난사 어린이 3명, 교사 1명 사망",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77054087?m=humor",
-          "score": 93.4
-        },
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "죄명:강간당함으로 사형당한 이란 16세 소녀",
-          "url": "https://theqoo.net/hot/4378077063",
-          "score": 65.53
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i2c099e33",
-      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "외국인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.84,
-      "peak_score": 95.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 4,
-          "title": "외국인 때문에 한국 아이들과 부모가 피해보게 된 아주대 소아과 사태",
-          "url": "https://theqoo.net/hot/4378099556",
-          "score": 86.84
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "정부에서 삭제한 영상을 가지고 있는 외국인.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77055102?m=humor_only&t=now",
-          "score": 56.33
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i44705d07",
-      "title": "‘흉기난동범’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "흉기난동범"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 68.72,
-      "peak_score": 68.72,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "8명 부상' 인천 흉기난동범 신상정보 공개…59세 최충락",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741433",
-          "score": 59.72
-        },
-        {
-          "source": "더쿠",
-          "rank": 94,
-          "title": "[단독]인천 흉기난동범 “어린이집 범행대상 고민”",
-          "url": "https://theqoo.net/hot/4378049729",
-          "score": 52.74
+          "rank": 71,
+          "title": "어떤 작가가 일본공산당에 가입까지 하는 전설의 시뻘갱이가 된 이유.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77056867?m=humor_only&t=now",
+          "score": 58.21
         }
       ],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "icacffce4",
-      "title": "창고에 처박힌 400억",
-      "keywords": [
-        "창고에",
-        "처박힌",
-        "400억"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 68.17,
-      "peak_score": 68.17,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 61,
-          "title": "창고에 처박힌 400억",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23497",
-          "score": 60.17
-        },
-        {
-          "source": "클리앙",
-          "rank": 100,
-          "title": "창고에 처박힌 400억",
-          "url": "https://www.clien.net/service/board/park/19278835?od=T31&po=0&category=0&groupCd=",
-          "score": 51.58
-        }
-      ],
-      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "소방관",
-      "score": 122.9,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 10,
+      "keyword": "남녀",
+      "score": 107.93,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "루리웹"
+        "뽐뿌"
       ],
-      "aliases": [
-        "부천",
-        "화재"
-      ],
+      "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "주식",
-      "score": 115.81,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 33,
+      "keyword": "일본",
+      "score": 106.53,
+      "post_count": 5,
+      "source_count": 2,
+      "best_rank": 30,
       "sources": [
         "더쿠",
-        "인벤",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 12
-    },
-    {
-      "keyword": "치킨",
-      "score": 109.97,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 2,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
+      "change": 14
     },
     {
       "keyword": "소년",
-      "score": 108.77,
+      "score": 100.14,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 3,
+      "change": 1
     },
     {
-      "keyword": "사망",
-      "score": 108.65,
-      "post_count": 3,
+      "keyword": "소방관",
+      "score": 98.49,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 10,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": -3
+    },
+    {
+      "keyword": "차이",
+      "score": 96.05,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
         "더쿠",
-        "루리웹"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 5,
@@ -1195,68 +1132,70 @@
     },
     {
       "keyword": "한국",
-      "score": 107.78,
+      "score": 93.81,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 30,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "16세",
-      "score": 105.76,
+      "keyword": "좋아하",
+      "score": 88.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 40,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "1명",
-      "score": 103.72,
+      "keyword": "아주대",
+      "score": 87.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 32,
       "sources": [
         "더쿠",
         "루리웹"
       ],
-      "aliases": [],
+      "aliases": [
+        "소아"
+      ],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "다른",
-      "score": 98.1,
+      "keyword": "제일",
+      "score": 87.57,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 1,
+      "best_rank": 45,
       "sources": [
         "더쿠",
         "루리웹"
       ],
       "aliases": [],
       "rank": 9,
-      "change": -7
+      "change": "NEW"
     },
     {
-      "keyword": "외국인",
-      "score": 98.04,
+      "keyword": "전설",
+      "score": 83.13,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 60,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
@@ -1264,124 +1203,68 @@
       "change": "NEW"
     },
     {
-      "keyword": "진압",
-      "score": 97.87,
+      "keyword": "외국인들",
+      "score": 81.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 53,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
-    },
-    {
-      "keyword": "어느",
-      "score": 96.18,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "끝내",
-      "score": 95.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "현대",
-      "score": 94.71,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 11,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "만에",
-      "score": 86.25,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 37,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 15,
-      "change": -9
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "어른 되어서 다른 시각으로 보게 된 장면.gif",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054209?m=humor",
-      "score": 97.7,
-      "views": 14206,
-      "comments": 87
-    },
-    {
-      "source": "더쿠",
-      "title": "외국인 때문에 한국 아이들과 부모가 피해보게 된 아주대 소아과 사태",
-      "url": "https://theqoo.net/hot/4378099556",
-      "score": 86.84,
-      "views": 44199,
-      "comments": 540
-    },
-    {
-      "source": "뽐뿌",
-      "title": "계속 심각하다는 '굴' 근황",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23500",
-      "score": 80.22,
-      "views": 13107,
-      "comments": 46
-    },
-    {
-      "source": "인벤",
-      "title": "아줌마들 발작버튼 눌린 인스타",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741436",
-      "score": 77.85,
-      "views": 818,
-      "comments": 8
+      "title": "생김새와 다르게 생각보다 파괴력이 좋은 무기.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77054158?m=humor",
+      "score": 98.54,
+      "views": 24739,
+      "comments": 73
     },
     {
       "source": "디시인사이드",
-      "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470963&_dcbest=1&page=1",
-      "score": 75.16,
-      "views": 3801,
-      "comments": 178
+      "title": "오너 올해 역대급 리신판 ㄹㅇ....jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471000&_dcbest=1&page=1",
+      "score": 93.66,
+      "views": 26327,
+      "comments": 286
+    },
+    {
+      "source": "뽐뿌",
+      "title": "요즘 번화가 문신충들 근황.gif",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155016",
+      "score": 84.36,
+      "views": 25942,
+      "comments": 70
+    },
+    {
+      "source": "더쿠",
+      "title": "바퀴 달린 장바구니 들고 시내버스 탄 할머니, 기사가 경찰 불러서 강제 하차 시킴.",
+      "url": "https://theqoo.net/hot/4378202295",
+      "score": 81.68,
+      "views": 50861,
+      "comments": 1151
     },
     {
       "source": "클리앙",
-      "title": "지역농협 근무 3개월차 후기..",
-      "url": "https://www.clien.net/service/board/park/19278848?od=T31&po=0&category=0&groupCd=",
-      "score": 72.9,
-      "views": 1197,
-      "comments": 17
+      "title": "순직한 소방관 여러모로 안타깝네요.",
+      "url": "https://www.clien.net/service/board/park/19278962?od=T31&po=0&category=0&groupCd=",
+      "score": 76.35,
+      "views": 522,
+      "comments": 4
+    },
+    {
+      "source": "인벤",
+      "title": "당대표의 대선행보",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741510",
+      "score": 74.69,
+      "views": 308,
+      "comments": 4
     }
   ]
 }
