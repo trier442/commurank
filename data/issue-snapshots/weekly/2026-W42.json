@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T10:28:14.893649+09:00",
+  "collected_at": "2026-10-17T11:43:51.025948+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -738,7 +738,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i5b69a25a",
@@ -779,7 +779,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia8451ee4",
@@ -817,48 +817,59 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
-      "id": "ib7853c3a",
-      "title": "공항에 3~4시간 전에 가라는 건 억지 헛소리라고 봅니다",
+      "id": "ib6bfa345",
+      "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
       "keywords": [
-        "억지",
-        "공항에",
-        "봅니다",
-        "헛소리라고"
+        "소방관",
+        "화재",
+        "부천",
+        "진압",
+        "끝내"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 112.97,
-      "peak_score": 103.5,
-      "appearances": 1,
+      "source_count": 3,
+      "post_count": 5,
+      "score": 113.56,
+      "peak_score": 90.16,
+      "appearances": 7,
       "sources": [
         "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "공항에 3~4시간 전에 가라는 건 억지 헛소리라고 봅니다",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77048964?m=humor",
-          "score": 95.5
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "부천 공장 화재 진압 중 심정지…40대 소방관 끝내 숨져",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470963&_dcbest=1&page=1",
+          "score": 75.16
         },
         {
           "source": "더쿠",
-          "rank": 41,
-          "title": "공항에 3~4시간전에 가라는건 억지 헛소리라고 봅니다",
-          "url": "https://theqoo.net/hot/4377623530",
-          "score": 64.26
+          "rank": 48,
+          "title": "[속보] 부천 도장공장 화재 진압 소방관 1명 사망",
+          "url": "https://theqoo.net/hot/4378059075",
+          "score": 61.21
+        },
+        {
+          "source": "루리웹",
+          "rank": 68,
+          "title": "부천 화재 소방관 끝내 순직",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77055111?m=humor_only&t=now",
+          "score": 59.03
         }
       ],
       "first_seen": "2026-10-16T23:00:03.677661+09:00",
-      "last_seen": "2026-10-16T23:00:03.677661+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-10-17T11:43:51.025948+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 20,
-      "change": -1
+      "change": "NEW"
     }
   ]
 }
