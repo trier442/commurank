@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-18T04:11:39.475211+09:00",
+  "collected_at": "2026-10-18T04:43:29.762238+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -337,6 +337,48 @@
       "change": 0
     },
     {
+      "id": "i9ff6bf96",
+      "title": "프랑스 시위가 심각해 보입니다",
+      "keywords": [
+        "프랑스",
+        "시위가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.04,
+      "peak_score": 103.31,
+      "appearances": 6,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "프랑스 시위가 심각해 보입니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
+          "score": 64.63
+        },
+        {
+          "source": "클리앙",
+          "rank": 63,
+          "title": "프랑스 시위가 날로 격화되고 있네요.",
+          "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
+        }
+      ],
+      "first_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-18T04:43:29.762238+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": 3
+    },
+    {
       "id": "i82773ad8",
       "title": "‘임금체불’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -371,8 +413,8 @@
       "last_seen": "2026-10-15T14:11:05.910258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ibfcfedac",
@@ -421,8 +463,8 @@
       "last_seen": "2026-10-15T06:59:35.048367+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -460,50 +502,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "프랑스 시위가 심각해 보입니다",
-      "keywords": [
-        "시위가",
-        "프랑스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 118.27,
-      "peak_score": 103.31,
-      "appearances": 5,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 38,
-          "title": "프랑스 시위가 심각해 보입니다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-          "score": 64.17
-        },
-        {
-          "source": "클리앙",
-          "rank": 61,
-          "title": "프랑스 시위가 날로 격화되고 있네요.",
-          "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
-        }
-      ],
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-18T04:11:39.475211+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": 2
+      "change": -1
     },
     {
       "id": "iaf3fcbdb",
@@ -543,7 +543,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -584,7 +584,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib6bfa345",
