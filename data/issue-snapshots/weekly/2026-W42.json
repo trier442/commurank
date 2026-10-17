@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T23:43:39.592683+09:00",
+  "collected_at": "2026-10-18T01:58:34.021805+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -609,6 +609,46 @@
       "change": 0
     },
     {
+      "id": "i9ff6bf96",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.24,
+      "peak_score": 103.31,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 35,
+          "title": "프랑스 시위가 심각해 보입니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
+          "score": 63.86
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+          "score": 61.75
+        }
+      ],
+      "first_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-18T01:58:34.021805+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 3
+    },
+    {
       "id": "i03005878",
       "title": "‘허위사실’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -643,8 +683,8 @@
       "last_seen": "2026-10-14T23:22:00.131943+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i89c5681f",
@@ -681,8 +721,8 @@
       "last_seen": "2026-10-17T08:52:26.363084+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i6f11e91b",
@@ -721,47 +761,8 @@
       "last_seen": "2026-10-16T09:31:39.837551+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.8,
-      "peak_score": 103.31,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "프랑스 망했다는 글의 웃긴 점.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77026879?m=humor",
-          "score": 94.25
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 39,
-          "title": "프랑스 학생들이 시위하는 이유를 알려주는 프랑스 거주 유튜버",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470345&_dcbest=1&page=1",
-          "score": 63.79
-        }
-      ],
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-14T23:22:00.131943+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 17,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i2312b010",
@@ -841,7 +842,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "if9124a1e",
@@ -881,7 +882,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
