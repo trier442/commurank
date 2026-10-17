@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-18T01:58:34.021805+09:00",
+  "collected_at": "2026-10-18T02:40:06.433334+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,40 +11,6 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.13,
-        "peak_score": 79.13,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 16,
-            "title": "묵묵히 정의를 구현해나가는 대한민국 사법부",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741654",
-            "score": 70.13
-          },
-          {
-            "source": "루리웹",
-            "rank": 37,
-            "title": "콜옵) 대한민국 이등병 전투력 수준",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77063655?m=humor_only&t=now",
-            "score": 63.74
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
         "id": "i9ff6bf96",
         "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -52,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.86,
-        "peak_score": 72.86,
+        "score": 76.43,
+        "peak_score": 76.43,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -62,21 +28,21 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 35,
+            "rank": 30,
             "title": "프랑스 시위가 심각해 보입니다",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 63.86
+            "score": 67.43
           },
           {
             "source": "뽐뿌",
-            "rank": 47,
+            "rank": 37,
             "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-            "score": 61.75
+            "score": 64.23
           }
         ],
-        "rank": 2,
-        "change": "NEW"
+        "rank": 1,
+        "change": 1
       }
     ],
     "daily": [
@@ -116,7 +82,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i9ff6bf96",
@@ -126,9 +92,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 82.33,
-        "peak_score": 72.86,
-        "appearances": 1,
+        "score": 87.92,
+        "peak_score": 76.43,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "인벤"
@@ -136,25 +102,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 35,
+            "rank": 30,
             "title": "프랑스 시위가 심각해 보입니다",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 63.86
+            "score": 67.43
           },
           {
             "source": "뽐뿌",
-            "rank": 47,
+            "rank": 37,
             "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-            "score": 61.75
+            "score": 64.23
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-18T01:58:34.021805+09:00",
+        "last_seen": "2026-10-18T02:40:06.433334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "weekly": [
@@ -697,6 +663,46 @@
         "change": 0
       },
       {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 117.36,
+        "peak_score": 103.31,
+        "appearances": 4,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 30,
+            "title": "프랑스 시위가 심각해 보입니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
+            "score": 67.43
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 37,
+            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+            "score": 64.23
+          }
+        ],
+        "first_seen": "2026-10-08T03:52:22.165654+09:00",
+        "last_seen": "2026-10-18T02:40:06.433334+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": 1
+      },
+      {
         "id": "ib6bfa345",
         "title": "순직한 소방관 빈소",
         "keywords": [
@@ -757,48 +763,8 @@
         "last_seen": "2026-10-17T16:22:11.813347+09:00",
         "latest_source_count": 3,
         "latest_post_count": 5,
-        "rank": 13,
-        "change": 0
-      },
-      {
-        "id": "i9ff6bf96",
-        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "프랑스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 116.24,
-        "peak_score": 103.31,
-        "appearances": 3,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 35,
-            "title": "프랑스 시위가 심각해 보입니다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 63.86
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 47,
-            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-            "score": 61.75
-          }
-        ],
-        "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-18T01:58:34.021805+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 14,
-        "change": 3
+        "change": -1
       },
       {
         "id": "i03005878",
@@ -836,7 +802,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i89c5681f",
@@ -874,7 +840,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i6f11e91b",
@@ -914,7 +880,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2312b010",
