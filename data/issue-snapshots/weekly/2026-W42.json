@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T08:52:26.363084+09:00",
+  "collected_at": "2026-10-17T10:28:14.893649+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -578,7 +578,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 13,
-      "change": 5
+      "change": 0
     },
     {
       "id": "i6f11e91b",
@@ -618,7 +618,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9ff6bf96",
@@ -657,7 +657,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2312b010",
@@ -698,7 +698,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i06233958",
+      "title": "가짜 폐급과 진짜 폐급의 차이",
+      "keywords": [
+        "가짜",
+        "폐급의",
+        "차이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.08,
+      "peak_score": 104.61,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "가짜 폐급과 진짜 폐급의 차이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77054195?m=humor",
+          "score": 96.61
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "가짜 폐급 vs 진짜 폐급의 차이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741382",
+          "score": 55.07
+        }
+      ],
+      "first_seen": "2026-10-17T10:28:14.893649+09:00",
+      "last_seen": "2026-10-17T10:28:14.893649+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i5b69a25a",
@@ -738,7 +778,7 @@
       "last_seen": "2026-10-15T23:21:36.213985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -776,7 +816,7 @@
       "last_seen": "2026-10-12T19:05:38.987385+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -817,49 +857,8 @@
       "last_seen": "2026-10-16T23:00:03.677661+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 112.23,
-      "peak_score": 92.81,
-      "appearances": 11,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.92
-        },
-        {
-          "source": "더쿠",
-          "rank": 95,
-          "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-          "url": "https://theqoo.net/hot/4377907618",
-          "score": 50.58
-        }
-      ],
-      "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-10-17T06:27:49.462651+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
