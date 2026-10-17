@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T22:53:42.571506+09:00",
+  "collected_at": "2026-10-17T23:43:39.592683+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -805,85 +805,83 @@
       "change": 0
     },
     {
-      "id": "i06233958",
-      "title": "가짜 폐급과 진짜 폐급의 차이",
+      "id": "i25779e27",
+      "title": "‘현대차’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "가짜",
-        "폐급의",
-        "차이"
+        "현대차"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 114.08,
-      "peak_score": 104.61,
+      "score": 114.52,
+      "peak_score": 101.59,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 45,
+          "title": "현대차 주식 당장 팔라는 블라인드 현대차 직원 글",
+          "url": "https://theqoo.net/hot/4378528530",
+          "score": 62.74
+        },
+        {
+          "source": "루리웹",
+          "rank": 82,
+          "title": "현대차 제네시스 레이싱 팀 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77062716?m=humor_only&t=now",
+          "score": 55.13
+        }
+      ],
+      "first_seen": "2026-10-14T16:27:05.676357+09:00",
+      "last_seen": "2026-10-17T23:43:39.592683+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
+      "id": "if9124a1e",
+      "title": "군산 짬뽕 축제 논란",
+      "keywords": [
+        "군산",
+        "짬뽕",
+        "축제"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.49,
+      "peak_score": 105.02,
       "appearances": 1,
       "sources": [
         "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
       "posts": [
         {
           "source": "루리웹",
-          "rank": 2,
-          "title": "가짜 폐급과 진짜 폐급의 차이",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77054195?m=humor",
-          "score": 96.61
+          "rank": 1,
+          "title": "군산 짬뽕 축제 논란",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77059247?m=humor",
+          "score": 97.02
         },
-        {
-          "source": "인벤",
-          "rank": 82,
-          "title": "가짜 폐급 vs 진짜 폐급의 차이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741382",
-          "score": 55.07
-        }
-      ],
-      "first_seen": "2026-10-17T10:28:14.893649+09:00",
-      "last_seen": "2026-10-17T10:28:14.893649+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5b69a25a",
-      "title": "‘이수만’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이수만"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 114.06,
-      "peak_score": 94.01,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
         {
           "source": "뽐뿌",
-          "rank": 15,
-          "title": "이수만 걸그룹 센터 비주얼",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153416",
-          "score": 75.02
-        },
-        {
-          "source": "더쿠",
-          "rank": 65,
-          "title": "이수만 여돌 갈색머리 걔 직캠 뜸",
-          "url": "https://theqoo.net/hot/4376655621",
-          "score": 59.74
+          "rank": 56,
+          "title": "8만명이 몰린 군산 짬뽕 축제 논란.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155593",
+          "score": 60.14
         }
       ],
-      "first_seen": "2026-10-13T12:55:26.446706+09:00",
-      "last_seen": "2026-10-15T23:21:36.213985+09:00",
+      "first_seen": "2026-10-17T23:43:39.592683+09:00",
+      "last_seen": "2026-10-17T23:43:39.592683+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": "NEW"
     }
   ]
 }
