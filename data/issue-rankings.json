@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-19T05:29:32.748309+09:00",
+  "collected_at": "2026-10-19T05:57:45.591857+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -16,37 +16,45 @@
         "keywords": [
           "프랑스"
         ],
-        "source_count": 3,
-        "post_count": 5,
-        "score": 116.71,
-        "peak_score": 116.71,
+        "source_count": 4,
+        "post_count": 4,
+        "score": 102.32,
+        "peak_score": 102.32,
         "appearances": 1,
         "sources": [
           "루리웹",
+          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "전세계 오타쿠들에게 위로 받고있는 프랑스 사장님",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074658?m=humor",
-            "score": 97.71
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "프랑스 재정위기 원인",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156687",
+            "score": 77.32
           },
           {
             "source": "클리앙",
-            "rank": 43,
+            "rank": 61,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 60.8
+            "score": 58.71
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "현재 SNS에서 프랑스 파리 근황이라고 퍼지는 사진의 정체",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075076?m=humor_only&t=now",
+            "score": 55.89
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 83,
             "title": "현재 프랑스 상황",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 58.37
+            "score": 54.46
           }
         ],
         "rank": 1,
@@ -60,8 +68,8 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 77.65,
-        "peak_score": 77.65,
+        "score": 79.35,
+        "peak_score": 79.35,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -71,17 +79,17 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 46,
+            "rank": 37,
             "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
             "url": "https://www.clien.net/service/board/park/19279547?od=T31&po=0&category=0&groupCd=",
-            "score": 60.65
+            "score": 62.35
           },
           {
             "source": "루리웹",
-            "rank": 64,
+            "rank": 72,
             "title": "속보) 트럼프 \"네타냐후 지지안하면 미국의 적\"",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77075023?m=humor_only&t=now",
-            "score": 57.47
+            "score": 56.95
           },
           {
             "source": "디시인사이드",
@@ -92,7 +100,7 @@
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -102,8 +110,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 99.03,
-        "peak_score": 99.03,
+        "score": 74.65,
+        "peak_score": 74.65,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -112,21 +120,58 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 4,
-            "title": "[네이버페이] 일일적립, 119원, 퀴즈미션, 라이브예고 19원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108133",
-            "score": 90.03
+            "rank": 25,
+            "title": "[네이버페이] 카페 2천원 이상 결제시 500원 적립 (10/19~25)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108131",
+            "score": 65.65
           },
           {
             "source": "뽐뿌",
-            "rank": 20,
+            "rank": 76,
             "title": "[란123] 네이버페이 172원 + 랜덤 포인트 받으세요 (+기타 277원)",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156652",
-            "score": 68.79
+            "score": 56.06
           }
         ],
         "rank": 3,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "icbac9b88",
+        "title": "마크롱 대국민 연설 내용",
+        "keywords": [
+          "내용",
+          "연설",
+          "대국민",
+          "마크롱"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.35,
+        "peak_score": 73.35,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "마크롱 대국민 연설 내용",
+            "url": "https://www.clien.net/service/board/park/19279554?od=T31&po=0&category=0&groupCd=",
+            "score": 65.35
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "마크롱 대국민 연설 내용",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
+            "score": 63.26
+          }
+        ],
+        "rank": 4,
+        "change": 1
       },
       {
         "id": "i1e941339",
@@ -136,68 +181,31 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 77.77,
-        "peak_score": 77.77,
+        "score": 70.45,
+        "peak_score": 70.45,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "루리웹",
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 22,
+            "rank": 43,
             "title": "한국은 기괴하고 이상한 규칙이 많다는 중국인",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156649",
-            "score": 68.77
+            "score": 61.45
           },
           {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "프랑스보면 무슬림보다 중국인 이민 받는게 낫죠",
-            "url": "https://www.clien.net/service/board/park/19279522?od=T31&po=0&category=0&groupCd=",
-            "score": 53.93
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "icbac9b88",
-        "title": "마크롱 대국민 연설 내용",
-        "keywords": [
-          "내용",
-          "연설",
-          "마크롱",
-          "대국민"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.78,
-        "peak_score": 76.78,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 21,
-            "title": "마크롱 대국민 연설 내용",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
-            "score": 68.78
-          },
-          {
-            "source": "클리앙",
-            "rank": 45,
-            "title": "마크롱 대국민 연설 내용",
-            "url": "https://www.clien.net/service/board/park/19279554?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "source": "루리웹",
+            "rank": 78,
+            "title": "제주 여행 온 중국인이 생각 하는 중국인.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075045?m=humor_only&t=now",
+            "score": 55.8
           }
         ],
         "rank": 5,
-        "change": "NEW"
+        "change": -1
       }
     ],
     "daily": [
@@ -207,11 +215,11 @@
         "keywords": [
           "프랑스"
         ],
-        "source_count": 3,
+        "source_count": 4,
         "post_count": 5,
-        "score": 137.76,
+        "score": 142.67,
         "peak_score": 116.71,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -220,31 +228,38 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "전세계 오타쿠들에게 위로 받고있는 프랑스 사장님",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074658?m=humor",
-            "score": 97.71
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "프랑스 재정위기 원인",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156687",
+            "score": 77.32
           },
           {
             "source": "클리앙",
-            "rank": 43,
+            "rank": 61,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 60.8
+            "score": 58.71
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "현재 SNS에서 프랑스 파리 근황이라고 퍼지는 사진의 정체",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075076?m=humor_only&t=now",
+            "score": 55.89
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 83,
             "title": "현재 프랑스 상황",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 58.37
+            "score": 54.46
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 1,
         "change": 0
       },
@@ -335,9 +350,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 108.5,
+        "score": 110.52,
         "peak_score": 99.03,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "루리웹",
           "뽐뿌"
@@ -345,25 +360,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 4,
-            "title": "[네이버페이] 일일적립, 119원, 퀴즈미션, 라이브예고 19원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108133",
-            "score": 90.03
+            "rank": 25,
+            "title": "[네이버페이] 카페 2천원 이상 결제시 500원 적립 (10/19~25)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108131",
+            "score": 65.65
           },
           {
             "source": "뽐뿌",
-            "rank": 20,
+            "rank": 76,
             "title": "[란123] 네이버페이 172원 + 랜덤 포인트 받으세요 (+기타 277원)",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156652",
-            "score": 68.79
+            "score": 56.06
           }
         ],
         "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -373,9 +388,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 92.12,
-        "peak_score": 77.65,
-        "appearances": 1,
+        "score": 95.84,
+        "peak_score": 79.35,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -384,17 +399,17 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 46,
+            "rank": 37,
             "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
             "url": "https://www.clien.net/service/board/park/19279547?od=T31&po=0&category=0&groupCd=",
-            "score": 60.65
+            "score": 62.35
           },
           {
             "source": "루리웹",
-            "rank": 64,
+            "rank": 72,
             "title": "속보) 트럼프 \"네타냐후 지지안하면 미국의 적\"",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77075023?m=humor_only&t=now",
-            "score": 57.47
+            "score": 56.95
           },
           {
             "source": "디시인사이드",
@@ -405,11 +420,11 @@
           }
         ],
         "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i51a99cec",
@@ -447,7 +462,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i1e941339",
@@ -457,35 +472,36 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 87.24,
+        "score": 89.26,
         "peak_score": 77.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "루리웹",
           "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 22,
+            "rank": 43,
             "title": "한국은 기괴하고 이상한 규칙이 많다는 중국인",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156649",
-            "score": 68.77
+            "score": 61.45
           },
           {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "프랑스보면 무슬림보다 중국인 이민 받는게 낫죠",
-            "url": "https://www.clien.net/service/board/park/19279522?od=T31&po=0&category=0&groupCd=",
-            "score": 53.93
+            "source": "루리웹",
+            "rank": 78,
+            "title": "제주 여행 온 중국인이 생각 하는 중국인.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075045?m=humor_only&t=now",
+            "score": 55.8
           }
         ],
         "first_seen": "2026-09-30T04:57:06.263561+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "icbac9b88",
@@ -493,40 +509,40 @@
         "keywords": [
           "내용",
           "연설",
-          "마크롱",
-          "대국민"
+          "대국민",
+          "마크롱"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 86.25,
+        "score": 88.27,
         "peak_score": 76.78,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 21,
-            "title": "마크롱 대국민 연설 내용",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
-            "score": 68.78
-          },
-          {
             "source": "클리앙",
-            "rank": 45,
+            "rank": 27,
             "title": "마크롱 대국민 연설 내용",
             "url": "https://www.clien.net/service/board/park/19279554?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "score": 65.35
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "마크롱 대국민 연설 내용",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
+            "score": 63.26
           }
         ],
         "first_seen": "2026-10-18T23:52:06.183402+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i3cbc3731",
@@ -569,7 +585,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -4
+        "change": 0
       }
     ],
     "weekly": [
@@ -579,11 +595,11 @@
         "keywords": [
           "프랑스"
         ],
-        "source_count": 3,
+        "source_count": 4,
         "post_count": 5,
-        "score": 137.76,
+        "score": 142.67,
         "peak_score": 116.71,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -592,31 +608,38 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "전세계 오타쿠들에게 위로 받고있는 프랑스 사장님",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074658?m=humor",
-            "score": 97.71
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "프랑스 재정위기 원인",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156687",
+            "score": 77.32
           },
           {
             "source": "클리앙",
-            "rank": 43,
+            "rank": 61,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 60.8
+            "score": 58.71
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "현재 SNS에서 프랑스 파리 근황이라고 퍼지는 사진의 정체",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075076?m=humor_only&t=now",
+            "score": 55.89
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 83,
             "title": "현재 프랑스 상황",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 58.37
+            "score": 54.46
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 1,
         "change": 0
       },
@@ -707,9 +730,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 108.5,
+        "score": 110.52,
         "peak_score": 99.03,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "루리웹",
           "뽐뿌"
@@ -717,25 +740,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 4,
-            "title": "[네이버페이] 일일적립, 119원, 퀴즈미션, 라이브예고 19원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108133",
-            "score": 90.03
+            "rank": 25,
+            "title": "[네이버페이] 카페 2천원 이상 결제시 500원 적립 (10/19~25)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108131",
+            "score": 65.65
           },
           {
             "source": "뽐뿌",
-            "rank": 20,
+            "rank": 76,
             "title": "[란123] 네이버페이 172원 + 랜덤 포인트 받으세요 (+기타 277원)",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156652",
-            "score": 68.79
+            "score": 56.06
           }
         ],
         "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -745,9 +768,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 92.12,
-        "peak_score": 77.65,
-        "appearances": 1,
+        "score": 95.84,
+        "peak_score": 79.35,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -756,17 +779,17 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 46,
+            "rank": 37,
             "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
             "url": "https://www.clien.net/service/board/park/19279547?od=T31&po=0&category=0&groupCd=",
-            "score": 60.65
+            "score": 62.35
           },
           {
             "source": "루리웹",
-            "rank": 64,
+            "rank": 72,
             "title": "속보) 트럼프 \"네타냐후 지지안하면 미국의 적\"",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77075023?m=humor_only&t=now",
-            "score": 57.47
+            "score": 56.95
           },
           {
             "source": "디시인사이드",
@@ -777,11 +800,11 @@
           }
         ],
         "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i51a99cec",
@@ -819,7 +842,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i1e941339",
@@ -829,35 +852,36 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 87.24,
+        "score": 89.26,
         "peak_score": 77.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "루리웹",
           "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 22,
+            "rank": 43,
             "title": "한국은 기괴하고 이상한 규칙이 많다는 중국인",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156649",
-            "score": 68.77
+            "score": 61.45
           },
           {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "프랑스보면 무슬림보다 중국인 이민 받는게 낫죠",
-            "url": "https://www.clien.net/service/board/park/19279522?od=T31&po=0&category=0&groupCd=",
-            "score": 53.93
+            "source": "루리웹",
+            "rank": 78,
+            "title": "제주 여행 온 중국인이 생각 하는 중국인.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075045?m=humor_only&t=now",
+            "score": 55.8
           }
         ],
         "first_seen": "2026-09-30T04:57:06.263561+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "icbac9b88",
@@ -865,40 +889,40 @@
         "keywords": [
           "내용",
           "연설",
-          "마크롱",
-          "대국민"
+          "대국민",
+          "마크롱"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 86.25,
+        "score": 88.27,
         "peak_score": 76.78,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 21,
-            "title": "마크롱 대국민 연설 내용",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
-            "score": 68.78
-          },
-          {
             "source": "클리앙",
-            "rank": 45,
+            "rank": 27,
             "title": "마크롱 대국민 연설 내용",
             "url": "https://www.clien.net/service/board/park/19279554?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "score": 65.35
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "마크롱 대국민 연설 내용",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741985",
+            "score": 63.26
           }
         ],
         "first_seen": "2026-10-18T23:52:06.183402+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i3cbc3731",
@@ -941,7 +965,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -4
+        "change": 0
       }
     ],
     "monthly": [
@@ -953,9 +977,9 @@
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 155.83,
+        "score": 156.03,
         "peak_score": 120.94,
-        "appearances": 23,
+        "appearances": 24,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -966,31 +990,38 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "전세계 오타쿠들에게 위로 받고있는 프랑스 사장님",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074658?m=humor",
-            "score": 97.71
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "프랑스 재정위기 원인",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156687",
+            "score": 77.32
           },
           {
             "source": "클리앙",
-            "rank": 43,
+            "rank": 61,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 60.8
+            "score": 58.71
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "현재 SNS에서 프랑스 파리 근황이라고 퍼지는 사진의 정체",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77075076?m=humor_only&t=now",
+            "score": 55.89
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 83,
             "title": "현재 프랑스 상황",
             "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 58.37
+            "score": 54.46
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 1,
         "change": 0
       },
@@ -1149,9 +1180,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 131.55,
+        "score": 131.86,
         "peak_score": 106.69,
-        "appearances": 15,
+        "appearances": 16,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -1162,17 +1193,17 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 46,
+            "rank": 37,
             "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
             "url": "https://www.clien.net/service/board/park/19279547?od=T31&po=0&category=0&groupCd=",
-            "score": 60.65
+            "score": 62.35
           },
           {
             "source": "루리웹",
-            "rank": 64,
+            "rank": 72,
             "title": "속보) 트럼프 \"네타냐후 지지안하면 미국의 적\"",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77075023?m=humor_only&t=now",
-            "score": 57.47
+            "score": 56.95
           },
           {
             "source": "디시인사이드",
@@ -1183,7 +1214,7 @@
           }
         ],
         "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-19T05:29:32.748309+09:00",
+        "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
