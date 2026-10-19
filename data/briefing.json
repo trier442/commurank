@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-19",
   "label": "2026년 10월 19일",
-  "collected_at": "2026-10-19T15:26:16.729650+09:00",
+  "collected_at": "2026-10-19T19:50:22.340836+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘프랑스 시위 근황’입니다. 실시간 키워드 상위: #프랑스. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘프랑스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #프랑스. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -13,13 +13,13 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 924292,
-    "top100_comments": 11460
+    "top100_views": 832531,
+    "top100_comments": 9387
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "프랑스 시위 근황",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "4개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
       "issue_id": "i9ff6bf96"
     },
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#프랑스",
-      "text": "5개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
       "keyword": "프랑스"
     }
   ],
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-19T15:26:16.729650+09:00"
         }
       },
-      "score": 109.38,
+      "score": 109.01,
       "views": 36079,
       "likes": 143,
       "comments": 101,
       "active_days": 1,
-      "change": 13
+      "change": 0
     },
     {
       "title": "알고보면 어처구니없는 이번 프랑스 시위의 시작 이유",
@@ -88,12 +88,12 @@
           "last_seen": "2026-10-19T10:15:52.809606+09:00"
         }
       },
-      "score": 109.37,
+      "score": 109.0,
       "views": 16274,
       "likes": 107,
       "comments": 63,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "너의 능력은 '레고 블록'을 무한정 꺼내는 능력이다",
@@ -117,12 +117,41 @@
           "last_seen": "2026-10-19T08:08:12.018535+09:00"
         }
       },
-      "score": 108.56,
+      "score": 108.19,
       "views": 12581,
       "likes": 100,
       "comments": 37,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "남자들 왜 타짜 대사를 다 외우고있는거야?.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77079035?m=humor",
+      "first_seen": "2026-10-19T19:50:22.340836+09:00",
+      "last_seen": "2026-10-19T19:50:22.340836+09:00",
+      "peak_score": 98.54,
+      "max_views": 21042,
+      "max_likes": 145,
+      "max_comments": 99,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-19": {
+          "max_score": 98.54,
+          "max_views": 21042,
+          "max_likes": 145,
+          "max_comments": 99,
+          "appearances": 1,
+          "last_seen": "2026-10-19T19:50:22.340836+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 21042,
+      "likes": 145,
+      "comments": 99,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "장사 안돼는 8000원 뷔폐집",
@@ -146,7 +175,7 @@
           "last_seen": "2026-10-19T03:23:24.243907+09:00"
         }
       },
-      "score": 108.13,
+      "score": 107.76,
       "views": 16399,
       "likes": 121,
       "comments": 92,
@@ -175,7 +204,7 @@
           "last_seen": "2026-10-19T02:59:43.463813+09:00"
         }
       },
-      "score": 107.48,
+      "score": 107.11,
       "views": 31417,
       "likes": 123,
       "comments": 96,
@@ -204,7 +233,7 @@
           "last_seen": "2026-10-19T14:11:07.705524+09:00"
         }
       },
-      "score": 106.92,
+      "score": 106.55,
       "views": 15995,
       "likes": 85,
       "comments": 100,
@@ -233,7 +262,7 @@
           "last_seen": "2026-10-19T05:29:32.748309+09:00"
         }
       },
-      "score": 106.41,
+      "score": 106.04,
       "views": 11524,
       "likes": 104,
       "comments": 54,
@@ -262,7 +291,7 @@
           "last_seen": "2026-10-19T10:15:52.809606+09:00"
         }
       },
-      "score": 106.18,
+      "score": 105.81,
       "views": 9894,
       "likes": 70,
       "comments": 62,
@@ -291,113 +320,64 @@
           "last_seen": "2026-10-19T05:57:45.591857+09:00"
         }
       },
-      "score": 106.18,
+      "score": 105.81,
       "views": 16042,
       "likes": 114,
       "comments": 85,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "오늘 뜬금없이 유게 AI 감식반 오발탄 쏟아진 베스트 글",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77073829?m=humor",
-      "first_seen": "2026-10-19T05:57:45.591857+09:00",
-      "last_seen": "2026-10-19T05:57:45.591857+09:00",
-      "peak_score": 97.29,
-      "max_views": 7925,
-      "max_likes": 111,
-      "max_comments": 50,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-19": {
-          "max_score": 97.29,
-          "max_views": 7925,
-          "max_likes": 111,
-          "max_comments": 50,
-          "appearances": 1,
-          "last_seen": "2026-10-19T05:57:45.591857+09:00"
-        }
-      },
-      "score": 106.03,
-      "views": 7925,
-      "likes": 111,
-      "comments": 50,
       "active_days": 1,
       "change": -1
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "남친 집에 처음 인사드리러갔는데 좀 당황했어.blind",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471449&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 15681,
-      "likes": 71,
-      "comments": 460,
-      "score": 76.32,
-      "change": 4,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 6612,
-      "delta_likes": 35,
-      "delta_comments": 207,
-      "rank_gain": 4,
-      "rising_score": 97.86,
-      "rising_rank": 1,
-      "window_minutes": 75
-    },
-    {
       "source": "루리웹",
-      "title": "이번에 데뷔한 신입 버튜버",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77076983?m=humor",
+      "title": "남자들 왜 타짜 대사를 다 외우고있는거야?.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77079035?m=humor",
       "category": "이슈",
-      "views": 36079,
-      "likes": 143,
-      "comments": 101,
-      "score": 98.96,
-      "change": 2,
+      "views": 21042,
+      "likes": 145,
+      "comments": 99,
+      "score": 98.54,
+      "change": "NEW",
       "current_rank": 1,
-      "new_entry": false,
-      "delta_views": 12857,
-      "delta_likes": 26,
-      "delta_comments": 10,
-      "rank_gain": 2,
-      "rising_score": 88.75,
-      "rising_rank": 2,
-      "window_minutes": 75
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.39,
+      "rising_rank": 1,
+      "window_minutes": 264
     },
     {
       "source": "디시인사이드",
-      "title": "금감원장 \"출시 일정 맞추려 레버리지 ETF 심사 서둘러\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471460&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 3545,
-      "likes": 31,
-      "comments": 58,
-      "score": 58.05,
+      "title": "전라인민공화국 2026년에도 염전노예 굴리다 걸림 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471464&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 26346,
+      "likes": 498,
+      "comments": 1072,
+      "score": 60.03,
       "change": 0,
-      "current_rank": 69,
+      "current_rank": 61,
       "new_entry": false,
-      "delta_views": 3472,
-      "delta_likes": 31,
-      "delta_comments": 55,
+      "delta_views": 18062,
+      "delta_likes": 312,
+      "delta_comments": 633,
       "rank_gain": 0,
-      "rising_score": 85.98,
-      "rising_rank": 3,
-      "window_minutes": 75
+      "rising_score": 83.33,
+      "rising_rank": 2,
+      "window_minutes": 264
     },
     {
       "source": "루리웹",
-      "title": "\"20대로 돌아간다면 반도체는 하지 않을 것\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77076072?m=humor",
-      "category": "이슈",
-      "views": 34775,
-      "likes": 109,
-      "comments": 103,
-      "score": 96.19,
+      "title": "이젠 1000만원조차 아니라는 RTX 5090 근황 ㅋㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77081462?m=humor",
+      "category": "유머",
+      "views": 13428,
+      "likes": 94,
+      "comments": 86,
+      "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,18 +385,18 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 4,
-      "window_minutes": 75
+      "rising_score": 82.05,
+      "rising_rank": 3,
+      "window_minutes": 264
     },
     {
       "source": "루리웹",
-      "title": "닌텐도: \"와씨 이번 젤다 반응 미쳤네\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77077624?m=humor",
-      "category": "게임",
-      "views": 18977,
-      "likes": 129,
-      "comments": 81,
+      "title": "한국 군사력 5위가 의미 없는 이유.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77081508?m=humor",
+      "category": "이슈",
+      "views": 12583,
+      "likes": 89,
+      "comments": 153,
       "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
@@ -426,58 +406,18 @@
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 81.24,
-      "rising_rank": 5,
-      "window_minutes": 75
-    },
-    {
-      "source": "더쿠",
-      "title": "대식가 남편이 먹는 식사 양ㄷㄷ.jpg",
-      "url": "https://theqoo.net/hot/4380249821",
-      "category": "이슈",
-      "views": 43406,
-      "likes": 0,
-      "comments": 258,
-      "score": 52.74,
-      "change": 0,
-      "current_rank": 98,
-      "new_entry": false,
-      "delta_views": 24675,
-      "delta_likes": 0,
-      "delta_comments": 127,
-      "rank_gain": 0,
-      "rising_score": 79.81,
-      "rising_rank": 6,
-      "window_minutes": 75
+      "rising_rank": 4,
+      "window_minutes": 264
     },
     {
       "source": "디시인사이드",
-      "title": "프랑스 시위 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471428&_dcbest=1&page=1",
+      "title": "프랑스 나와있는데 지금 난리다(사진O)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471525&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14643,
-      "likes": 108,
-      "comments": 358,
-      "score": 63.27,
-      "change": 0,
-      "current_rank": 42,
-      "new_entry": false,
-      "delta_views": 2819,
-      "delta_likes": 20,
-      "delta_comments": 64,
-      "rank_gain": 0,
-      "rising_score": 79.37,
-      "rising_rank": 7,
-      "window_minutes": 75
-    },
-    {
-      "source": "뽐뿌",
-      "title": "ㅅㅅ 영상 돌고있다는 어떤 치어리더",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157162",
-      "category": "이슈",
-      "views": 23930,
-      "likes": 1,
-      "comments": 60,
-      "score": 83.05,
+      "views": 21094,
+      "likes": 392,
+      "comments": 551,
+      "score": 86.44,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -485,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.88,
-      "rising_rank": 8,
-      "window_minutes": 75
+      "rising_score": 78.3,
+      "rising_rank": 5,
+      "window_minutes": 264
     },
     {
-      "source": "디시인사이드",
-      "title": "전라인민공화국 2026년에도 염전노예 굴리다 걸림 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471464&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 8284,
-      "likes": 186,
-      "comments": 439,
-      "score": 83.0,
+      "source": "루리웹",
+      "title": "[쿠팡] 개성 왕만두 (냉동) 1.2kg (6,680원/로켓프레시)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108101",
+      "category": "이슈",
+      "views": 34078,
+      "likes": 9,
+      "comments": 19,
+      "score": 79.61,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -505,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.86,
-      "rising_rank": 9,
-      "window_minutes": 75
+      "rising_score": 75.44,
+      "rising_rank": 6,
+      "window_minutes": 264
     },
     {
       "source": "인벤",
-      "title": "고소당한 황희찬",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742231",
+      "title": "마작이 널리 퍼지지 못한 이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2742349",
       "category": "이슈",
-      "views": 858,
+      "views": 774,
       "likes": 0,
-      "comments": 17,
-      "score": 79.6,
+      "comments": 11,
+      "score": 77.29,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,24 +465,83 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.43,
+      "rising_score": 74.46,
+      "rising_rank": 7,
+      "window_minutes": 264
+    },
+    {
+      "source": "클리앙",
+      "title": "첫키스에 가슴, 된다 안 된다 논란.",
+      "url": "https://www.clien.net/service/board/park/19279876?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 795,
+      "likes": 0,
+      "comments": 9,
+      "score": 77.01,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.34,
+      "rising_rank": 8,
+      "window_minutes": 264
+    },
+    {
+      "source": "디시인사이드",
+      "title": "속보) 주한미군이 운전하던 차량 사고로 한국군 1명 사망",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471538&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7611,
+      "likes": 52,
+      "comments": 245,
+      "score": 76.36,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.07,
+      "rising_rank": 9,
+      "window_minutes": 264
+    },
+    {
+      "source": "뽐뿌",
+      "title": "와이프 내일부터 친정감",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=21682",
+      "category": "이슈",
+      "views": 7565,
+      "likes": 20,
+      "comments": 32,
+      "score": 76.13,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.97,
       "rising_rank": 10,
-      "window_minutes": 75
+      "window_minutes": 264
     }
   ],
   "issues": [
     {
       "id": "i9ff6bf96",
-      "title": "프랑스 시위 근황",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "시위",
         "프랑스"
       ],
       "source_count": 4,
       "post_count": 5,
-      "score": 146.37,
+      "score": 146.8,
       "peak_score": 117.38,
-      "appearances": 10,
+      "appearances": 11,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -554,23 +553,30 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 42,
-          "title": "프랑스 시위 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471428&_dcbest=1&page=1",
-          "score": 63.27
+          "rank": 4,
+          "title": "프랑스 나와있는데 지금 난리다(사진O)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471525&_dcbest=1&page=1",
+          "score": 86.44
         },
         {
-          "source": "더쿠",
-          "rank": 62,
-          "title": "프랑스 시위 관심 없는 외국인들도 헉!! 했다는 사진",
-          "url": "https://theqoo.net/hot/4380161915",
-          "score": 59.61
+          "source": "클리앙",
+          "rank": 23,
+          "title": "프랑스 이민자 폭동, 남의 일이 아닙니다 한국의 미래입니다",
+          "url": "https://www.clien.net/service/board/park/19279872?od=T31&po=0&category=0&groupCd=",
+          "score": 67.54
+        },
+        {
+          "source": "인벤",
+          "rank": 67,
+          "title": "이상해지고 있는 프랑스 학생 시위 근황.Jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742321",
+          "score": 58.11
         }
       ],
       "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-19T15:26:16.729650+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-19T19:50:22.340836+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 5,
       "rank": 1,
       "change": 0
     },
@@ -582,9 +588,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 114.84,
+      "score": 115.75,
       "peak_score": 95.79,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -593,24 +599,24 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "윤석열 만도 못한 이재명 현실.. 잔인하게 까발린 최배근 교수",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156864",
-          "score": 63.66
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "이재명, '국민연금 182조 증발' 직권남용 혐의 공수처 고발돼",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471530&_dcbest=1&page=1",
+          "score": 69.89
         },
         {
           "source": "클리앙",
-          "rank": 82,
-          "title": "여조전문가가 말하는 저번주와 이번주 이재명 지지율이 조금 회복된 이유",
-          "url": "https://www.clien.net/service/board/park/19279750?od=T31&po=0&category=0&groupCd=",
-          "score": 55.06
+          "rank": 69,
+          "title": "이재명 대통령 지지자분들 제발",
+          "url": "https://www.clien.net/service/board/park/19279854?od=T31&po=0&category=0&groupCd=",
+          "score": 57.45
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-19T15:26:16.729650+09:00",
+      "last_seen": "2026-10-19T19:50:22.340836+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 2,
       "change": 0
     },
@@ -951,109 +957,45 @@
   "realtime_issues": [
     {
       "id": "i9ff6bf96",
-      "title": "프랑스 시위 근황",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "시위",
         "프랑스"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 72.27,
-      "peak_score": 72.27,
+      "source_count": 3,
+      "post_count": 5,
+      "score": 105.44,
+      "peak_score": 105.44,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 42,
-          "title": "프랑스 시위 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471428&_dcbest=1&page=1",
-          "score": 63.27
-        },
-        {
-          "source": "더쿠",
-          "rank": 62,
-          "title": "프랑스 시위 관심 없는 외국인들도 헉!! 했다는 사진",
-          "url": "https://theqoo.net/hot/4380161915",
-          "score": 59.61
-        }
-      ],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "icbcc6f0d",
-      "title": "12월 6일에 부산에서 열리는 마라톤 행사",
-      "keywords": [
-        "행사",
-        "12월",
-        "마라톤",
-        "부산에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.52,
-      "peak_score": 74.52,
-      "appearances": 1,
-      "sources": [
+        "디시인사이드",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "12월 6일에 부산에서 열리는 마라톤 행사",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742232",
-          "score": 66.52
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "프랑스 나와있는데 지금 난리다(사진O)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471525&_dcbest=1&page=1",
+          "score": 86.44
         },
         {
           "source": "클리앙",
-          "rank": 73,
-          "title": "12월 6일 부산에서 열린다는 마라톤 행사",
-          "url": "https://www.clien.net/service/board/park/19279744?od=T31&po=0&category=0&groupCd=",
-          "score": 56.89
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.85,
-      "peak_score": 73.85,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 33,
-          "title": "부캉이 지느러미 상처 ㅜㅠ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471470&_dcbest=1&page=1",
-          "score": 64.85
+          "rank": 23,
+          "title": "프랑스 이민자 폭동, 남의 일이 아닙니다 한국의 미래입니다",
+          "url": "https://www.clien.net/service/board/park/19279872?od=T31&po=0&category=0&groupCd=",
+          "score": 67.54
         },
         {
-          "source": "더쿠",
-          "rank": 93,
-          "title": "부캉이 보러갔다가 부산 택시 경험한 만화.jpg",
-          "url": "https://theqoo.net/hot/4380206699",
-          "score": 53.42
+          "source": "인벤",
+          "rank": 67,
+          "title": "이상해지고 있는 프랑스 학생 시위 근황.Jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742321",
+          "score": 58.11
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 1,
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -1062,46 +1004,9 @@
         "이재명"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 72.66,
-      "peak_score": 72.66,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "윤석열 만도 못한 이재명 현실.. 잔인하게 까발린 최배근 교수",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156864",
-          "score": 63.66
-        },
-        {
-          "source": "클리앙",
-          "rank": 82,
-          "title": "여조전문가가 말하는 저번주와 이번주 이재명 지지율이 조금 회복된 이유",
-          "url": "https://www.clien.net/service/board/park/19279750?od=T31&po=0&category=0&groupCd=",
-          "score": 55.06
-        }
-      ],
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "ib9a81f19",
-      "title": "속보속보 JMS 정명석 1심 징역 33년 추가선고",
-      "keywords": [
-        "33년",
-        "징역",
-        "정명석",
-        "jms"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.52,
-      "peak_score": 71.52,
+      "post_count": 3,
+      "score": 79.89,
+      "peak_score": 79.89,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1110,70 +1015,74 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 39,
-          "title": "속보속보 JMS 정명석 1심 징역 33년 추가선고",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471462&_dcbest=1&page=1",
-          "score": 63.52
+          "rank": 14,
+          "title": "이재명, '국민연금 182조 증발' 직권남용 혐의 공수처 고발돼",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471530&_dcbest=1&page=1",
+          "score": 69.89
         },
         {
           "source": "클리앙",
-          "rank": 91,
-          "title": "JMS 정명석, 준강간 혐의로 징역 33년…2인자 정조은도 중형",
-          "url": "https://www.clien.net/service/board/park/19279736?od=T31&po=0&category=0&groupCd=",
-          "score": 54.03
+          "rank": 69,
+          "title": "이재명 대통령 지지자분들 제발",
+          "url": "https://www.clien.net/service/board/park/19279854?od=T31&po=0&category=0&groupCd=",
+          "score": 57.45
         }
       ],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 2,
+      "change": 2
     },
     {
-      "id": "ib0728af7",
-      "title": "헌신 잊지않겠다\" 부천 순직 소방관 영결식 엄수",
+      "id": "i3ccc2d51",
+      "title": "그록 AI와 키배 뜨는 일본인",
       "keywords": [
-        "영결식",
-        "소방관",
-        "엄수",
-        "잊지않겠다",
-        "순직"
+        "일본인",
+        "뜨는"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 62.18,
-      "peak_score": 62.18,
+      "post_count": 3,
+      "score": 70.4,
+      "peak_score": 70.4,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 88,
-          "title": "헌신 잊지않겠다\" 부천 순직 소방관 영결식 엄수",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742225",
-          "score": 54.18
+          "rank": 60,
+          "title": "그록 AI와 키배 뜨는 일본인",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742351",
+          "score": 60.4
         },
         {
-          "source": "클리앙",
-          "rank": 95,
-          "title": "헌신 잊지않겠다' 부천 순직 소방관 영결식 엄수",
-          "url": "https://www.clien.net/service/board/park/19279748?od=T31&po=0&category=0&groupCd=",
-          "score": 53.25
+          "source": "루리웹",
+          "rank": 81,
+          "title": "日) 몽골 대화재 일으킨 일본인 관련 기사를 검색해봄",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77082045?m=humor_only&t=now",
+          "score": 54.03
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "그록AI와 야차 뜨는 일본인",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77082057?m=humor_only&t=now",
+          "score": 52.75
         }
       ],
-      "rank": 6,
+      "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i8ec2c109",
-      "title": "‘남편이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i567efd17",
+      "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "남편이"
+        "드라마"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 61.74,
-      "peak_score": 61.74,
+      "score": 80.84,
+      "peak_score": 80.84,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1182,34 +1091,176 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 98,
-          "title": "대식가 남편이 먹는 식사 양ㄷㄷ.jpg",
-          "url": "https://theqoo.net/hot/4380249821",
-          "score": 52.74
+          "rank": 13,
+          "title": "전개될수록 설정이 과하다는 반응 나오는 중인 드라마",
+          "url": "https://theqoo.net/hot/4380578564",
+          "score": 71.84
         },
         {
           "source": "디시인사이드",
-          "rank": 99,
-          "title": "남편이 남자로 안보인다는 블라인....ㄹㅇ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471417&_dcbest=1&page=1",
-          "score": 52.64
+          "rank": 25,
+          "title": "백제 금동대향로 등장 논란 생긴 중국 사극 드라마.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1",
+          "score": 67.35
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.68,
+      "peak_score": 78.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 16,
+          "title": "요새 일본에서 혐한이 줄어드는 이유.x",
+          "url": "https://theqoo.net/hot/4380577260",
+          "score": 69.68
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "현재 일본에서 난리난 03년생 청년농부..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471487&_dcbest=1&page=1",
+          "score": 68.85
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "icae01ceb",
+      "title": "이재명, '국민연금 182조 증발' 직권남용 혐의 공수처 고발돼",
+      "keywords": [
+        "혐의",
+        "이재명",
+        "고발돼",
+        "국민연금",
+        "182조",
+        "공수처",
+        "직권남용"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.89,
+      "peak_score": 77.89,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "이재명, '국민연금 182조 증발' 직권남용 혐의 공수처 고발돼",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471530&_dcbest=1&page=1",
+          "score": 69.89
+        },
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "이재명, '국민연금 182조 증발' 직권남용 혐의 공수처 고발돼",
+          "url": "https://www.clien.net/service/board/park/19279868?od=T31&po=0&category=0&groupCd=",
+          "score": 55.32
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "ic9ddfc4a",
+      "title": "오늘 있었던 대통령 깜짝 기자간담회",
+      "keywords": [
+        "기자간담회",
+        "깜짝",
+        "있었던"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 73.04,
+      "peak_score": 73.04,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "오늘 있었던 대통령 깜짝 기자간담회",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742350",
+          "score": 65.04
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "오늘 있었던 대통령 깜짝 기자간담회",
+          "url": "https://www.clien.net/service/board/park/19279878?od=T31&po=0&category=0&groupCd=",
+          "score": 61.74
         }
       ],
       "rank": 7,
-      "change": -2
+      "change": "NEW"
+    },
+    {
+      "id": "i11fa4c33",
+      "title": "‘아이돌’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이돌"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.62,
+      "peak_score": 72.62,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 44,
+          "title": "아이돌) 리센느 메이 말랑이 던지는 짤.gif",
+          "url": "https://www.clien.net/service/board/park/19279877?od=T31&po=0&category=0&groupCd=",
+          "score": 63.62
+        },
+        {
+          "source": "더쿠",
+          "rank": 68,
+          "title": "요즘 여돌들 술 먹는 콘텐츠 (인간적인 모습 VS 아이돌 자아)",
+          "url": "https://theqoo.net/hot/4380568251",
+          "score": 57.53
+        }
+      ],
+      "rank": 8,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "프랑스",
-      "score": 202.55,
-      "post_count": 9,
-      "source_count": 5,
-      "best_rank": 18,
+      "score": 146.53,
+      "post_count": 6,
+      "source_count": 3,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
@@ -1218,201 +1269,207 @@
       "change": 0
     },
     {
-      "keyword": "시위",
-      "score": 124.6,
-      "post_count": 4,
+      "keyword": "한국",
+      "score": 132.83,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 18,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
-        "디시인사이드",
+        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 1
+      "change": 8
     },
     {
-      "keyword": "부산",
-      "score": 112.14,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 29,
+      "keyword": "아니라",
+      "score": 108.99,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
       "sources": [
         "더쿠",
-        "인벤",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "소방관",
-      "score": 109.26,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 41,
+      "keyword": "드라마",
+      "score": 99.62,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
       "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "피해",
-      "score": 98.29,
+      "keyword": "일본",
+      "score": 98.95,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 16,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "20대",
-      "score": 92.7,
-      "post_count": 2,
+      "keyword": "이재명",
+      "score": 95.83,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 14,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -4
+      "change": 7
     },
     {
-      "keyword": "폭동",
-      "score": 91.41,
+      "keyword": "언론",
+      "score": 92.73,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 21,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "리뷰",
-      "score": 89.56,
+      "keyword": "중국",
+      "score": 92.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "이어",
-      "score": 88.6,
+      "keyword": "아파트",
+      "score": 91.76,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 30,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 87.67,
+      "keyword": "국민연금",
+      "score": 91.31,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 43,
+      "best_rank": 14,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": 3
-    },
-    {
-      "keyword": "12월",
-      "score": 87.28,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 29,
-      "sources": [
-        "인벤",
         "클리앙"
       ],
       "aliases": [
-        "마라톤",
-        "행사"
+        "182조",
+        "고발돼",
+        "공수처",
+        "증발",
+        "직권남용"
       ],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "의원",
+      "score": 91.27,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 28,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "호텔",
-      "score": 85.34,
+      "keyword": "순위",
+      "score": 89.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 35,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 84.46,
+      "keyword": "기자간담회",
+      "score": 88.95,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 41,
       "sources": [
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "깜짝",
+        "있었던"
+      ],
       "rank": 13,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "부캉",
-      "score": 83.68,
+      "keyword": "리센느",
+      "score": 88.25,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 44,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "메이"
+      ],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "시위대",
-      "score": 83.38,
-      "post_count": 2,
+      "keyword": "부동산",
+      "score": 87.47,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 47,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1423,51 +1480,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "이번에 데뷔한 신입 버튜버",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77076983?m=humor",
-      "score": 98.96,
-      "views": 36079,
-      "comments": 101
-    },
-    {
-      "source": "뽐뿌",
-      "title": "ㅅㅅ 영상 돌고있다는 어떤 치어리더",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157162",
-      "score": 83.05,
-      "views": 23930,
-      "comments": 60
+      "title": "남자들 왜 타짜 대사를 다 외우고있는거야?.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77079035?m=humor",
+      "score": 98.54,
+      "views": 21042,
+      "comments": 99
     },
     {
       "source": "디시인사이드",
-      "title": "전라인민공화국 2026년에도 염전노예 굴리다 걸림 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471464&_dcbest=1&page=1",
-      "score": 83.0,
-      "views": 8284,
-      "comments": 439
+      "title": "프랑스 나와있는데 지금 난리다(사진O)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471525&_dcbest=1&page=1",
+      "score": 86.44,
+      "views": 21094,
+      "comments": 551
     },
     {
       "source": "인벤",
-      "title": "고소당한 황희찬",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742231",
-      "score": 79.6,
-      "views": 858,
-      "comments": 17
-    },
-    {
-      "source": "더쿠",
-      "title": "암환자가 느낀 암 발생원인",
-      "url": "https://theqoo.net/hot/4380339380",
-      "score": 73.0,
-      "views": 22576,
-      "comments": 277
+      "title": "마작이 널리 퍼지지 못한 이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2742349",
+      "score": 77.29,
+      "views": 774,
+      "comments": 11
     },
     {
       "source": "클리앙",
-      "title": "프랑스 시위가 전세계 세대갈등의 신호탄이 될거 같네요",
-      "url": "https://www.clien.net/service/board/park/19279738?od=T31&po=0&category=0&groupCd=",
-      "score": 69.28,
-      "views": 2282,
-      "comments": 19
+      "title": "첫키스에 가슴, 된다 안 된다 논란.",
+      "url": "https://www.clien.net/service/board/park/19279876?od=T31&po=0&category=0&groupCd=",
+      "score": 77.01,
+      "views": 795,
+      "comments": 9
+    },
+    {
+      "source": "뽐뿌",
+      "title": "와이프 내일부터 친정감",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=21682",
+      "score": 76.13,
+      "views": 7565,
+      "comments": 32
+    },
+    {
+      "source": "더쿠",
+      "title": "전개될수록 설정이 과하다는 반응 나오는 중인 드라마",
+      "url": "https://theqoo.net/hot/4380578564",
+      "score": 71.84,
+      "views": 39847,
+      "comments": 217
     }
   ]
 }
