@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-21T02:57:44.287013+09:00",
+  "collected_at": "2026-10-21T04:32:55.970701+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,49 @@
   "rankings": {
     "realtime": [
       {
+        "id": "ic71c3480",
+        "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "정은경"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.09,
+        "peak_score": 78.09,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "정은경 그냥 사퇴하고 나오는게 나을거 같네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158906",
+            "score": 69.09
+          },
+          {
+            "source": "인벤",
+            "rank": 97,
+            "title": "불가능한걸 알면서 정은경 장관 면박주는 대통령",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742921",
+            "score": 51.32
+          }
+        ],
+        "rank": 1,
+        "change": 2
+      },
+      {
         "id": "i1b672c00",
         "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "치이카와"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 75.55,
-        "peak_score": 75.55,
+        "post_count": 2,
+        "score": 77.8,
+        "peak_score": 77.8,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -28,66 +62,34 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 32,
+            "rank": 16,
             "title": "개박살났다던 치이카와 근황",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471940&_dcbest=1&page=1",
-            "score": 65.55
+            "score": 68.8
           },
           {
             "source": "루리웹",
-            "rank": 98,
-            "title": "ㅆㄷ) 프리렌 & 치이카와",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77094616?m=humor_only&t=now",
-            "score": 49.25
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i6c387ceb",
-        "title": "‘압수수색’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "압수수색"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.26,
-        "peak_score": 88.26,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 5,
-            "title": "딴지에서 시시타파 압수수색 당한다고 분노하는거 보면",
-            "url": "https://www.clien.net/service/board/park/19280490?od=T31&po=0&category=0&groupCd=",
-            "score": 79.26
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 64,
-            "title": "시사타파 압수수색 소식을 접한 최강욱의 촉",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159079",
-            "score": 58.28
+            "rank": 71,
+            "title": "치이카와)나가노가 그린 팬아트",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77094084?m=humor_only&t=now",
+            "score": 55.56
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": -1
       },
       {
-        "id": "ic71c3480",
-        "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib884afec",
+        "title": "오래된 속옷 버려야하는 이유.",
         "keywords": [
-          "정은경"
+          "버려야하는",
+          "오래된",
+          "속옷"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.4,
-        "peak_score": 81.4,
+        "score": 74.38,
+        "peak_score": 74.38,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -96,20 +98,54 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 10,
-            "title": "불가능한걸 알면서 정은경 장관 면박주는 대통령",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742921",
-            "score": 72.4
+            "rank": 26,
+            "title": "오래된 속옷 버려야하는 이유.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742941",
+            "score": 66.38
           },
           {
             "source": "뽐뿌",
-            "rank": 78,
-            "title": "\"아 솔직히 얘기하세요\".대통령, 정은경 향해 폭발",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158948",
-            "score": 55.4
+            "rank": 77,
+            "title": "오래된 속옷 버려야하는 이유.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159065",
+            "score": 54.48
           }
         ],
         "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ie5a2c1ba",
+        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아파트"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.39,
+        "peak_score": 70.39,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 42,
+            "title": "신축 아파트 하자 수준",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77097129?m=humor_only&t=now",
+            "score": 61.39
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "회계부 실수로 두 달째 전 직원 건강보험료 미납 상태였음 직원 1명이 내일 당장 아파트 중도금 내야 하는데 은행 대출 막혔다고 엉엉 우심..",
+            "url": "https://theqoo.net/hot/4381900668",
+            "score": 59.21
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       }
     ],
@@ -188,7 +224,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "ic71c3480",
+        "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "정은경"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.89,
+        "peak_score": 81.4,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "정은경 그냥 사퇴하고 나오는게 나을거 같네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158906",
+            "score": 69.09
+          },
+          {
+            "source": "인벤",
+            "rank": 97,
+            "title": "불가능한걸 알면서 정은경 장관 면박주는 대통령",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742921",
+            "score": 51.32
+          }
+        ],
+        "first_seen": "2026-10-21T02:57:44.287013+09:00",
+        "last_seen": "2026-10-21T04:32:55.970701+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": 1
       },
       {
         "id": "i5781c296",
@@ -225,46 +299,46 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
         "change": -1
       },
       {
-        "id": "ic71c3480",
-        "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "정은경"
+          "치이카와"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 90.87,
-        "peak_score": 81.4,
-        "appearances": 1,
+        "post_count": 3,
+        "score": 90.29,
+        "peak_score": 77.8,
+        "appearances": 2,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 10,
-            "title": "불가능한걸 알면서 정은경 장관 면박주는 대통령",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742921",
-            "score": 72.4
+            "source": "디시인사이드",
+            "rank": 16,
+            "title": "개박살났다던 치이카와 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471940&_dcbest=1&page=1",
+            "score": 68.8
           },
           {
-            "source": "뽐뿌",
-            "rank": 78,
-            "title": "\"아 솔직히 얘기하세요\".대통령, 정은경 향해 폭발",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158948",
-            "score": 55.4
+            "source": "루리웹",
+            "rank": 71,
+            "title": "치이카와)나가노가 그린 팬아트",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77094084?m=humor_only&t=now",
+            "score": 55.56
           }
         ],
-        "first_seen": "2026-10-21T02:57:44.287013+09:00",
-        "last_seen": "2026-10-21T02:57:44.287013+09:00",
+        "first_seen": "2026-10-08T11:52:47.411122+09:00",
+        "last_seen": "2026-10-21T04:32:55.970701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 5,
+        "change": 1
       },
       {
         "id": "ib6bfa345",
@@ -301,45 +375,47 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": -2
+        "rank": 6,
+        "change": -1
       },
       {
-        "id": "i1b672c00",
-        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib884afec",
+        "title": "오래된 속옷 버려야하는 이유.",
         "keywords": [
-          "치이카와"
+          "버려야하는",
+          "오래된",
+          "속옷"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 86.02,
-        "peak_score": 75.55,
+        "post_count": 2,
+        "score": 83.85,
+        "peak_score": 74.38,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "개박살났다던 치이카와 근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471940&_dcbest=1&page=1",
-            "score": 65.55
+            "source": "인벤",
+            "rank": 26,
+            "title": "오래된 속옷 버려야하는 이유.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742941",
+            "score": 66.38
           },
           {
-            "source": "루리웹",
-            "rank": 98,
-            "title": "ㅆㄷ) 프리렌 & 치이카와",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77094616?m=humor_only&t=now",
-            "score": 49.25
+            "source": "뽐뿌",
+            "rank": 77,
+            "title": "오래된 속옷 버려야하는 이유.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159065",
+            "score": 54.48
           }
         ],
-        "first_seen": "2026-10-08T11:52:47.411122+09:00",
-        "last_seen": "2026-10-21T02:57:44.287013+09:00",
+        "first_seen": "2026-10-21T04:32:55.970701+09:00",
+        "last_seen": "2026-10-21T04:32:55.970701+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 6,
+        "latest_post_count": 2,
+        "rank": 7,
         "change": "NEW"
       },
       {
@@ -377,8 +453,8 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -3
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "ifb853e0d",
@@ -415,8 +491,8 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -3
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "if5672d4e",
@@ -456,8 +532,46 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
+        "rank": 10,
+        "change": -1
+      },
+      {
+        "id": "ie5a2c1ba",
+        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아파트"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.86,
+        "peak_score": 70.39,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 42,
+            "title": "신축 아파트 하자 수준",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77097129?m=humor_only&t=now",
+            "score": 61.39
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "회계부 실수로 두 달째 전 직원 건강보험료 미납 상태였음 직원 1명이 내일 당장 아파트 중도금 내야 하는데 은행 대출 막혔다고 엉엉 우심..",
+            "url": "https://theqoo.net/hot/4381900668",
+            "score": 59.21
+          }
+        ],
+        "first_seen": "2026-10-09T19:48:30.742386+09:00",
+        "last_seen": "2026-10-21T04:32:55.970701+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i6deb5617",
@@ -494,8 +608,8 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ifd5a2cc3",
@@ -532,8 +646,8 @@
         "last_seen": "2026-10-21T00:20:16.266341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": -2
       }
     ],
     "weekly": [
@@ -634,33 +748,34 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 115.83,
+        "score": 117.85,
         "peak_score": 105.36,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "더쿠",
           "루리웹",
           "인벤"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
-            "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
-            "score": 95.36
+            "rank": 42,
+            "title": "신축 아파트 하자 수준",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77097129?m=humor_only&t=now",
+            "score": 61.39
           },
           {
-            "source": "인벤",
-            "rank": 41,
-            "title": "배관에 시멘트가 들어가 있는 신축 아파트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742641",
-            "score": 65.68
+            "source": "더쿠",
+            "rank": 53,
+            "title": "회계부 실수로 두 달째 전 직원 건강보험료 미납 상태였음 직원 1명이 내일 당장 아파트 중도금 내야 하는데 은행 대출 막혔다고 엉엉 우심..",
+            "url": "https://theqoo.net/hot/4381900668",
+            "score": 59.21
           }
         ],
         "first_seen": "2026-10-09T19:48:30.742386+09:00",
-        "last_seen": "2026-10-20T14:22:41.982357+09:00",
+        "last_seen": "2026-10-21T04:32:55.970701+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
