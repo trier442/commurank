@@ -1,6 +1,89 @@
 {
   "version": 1,
   "issues": {
+    "i567efd17": {
+      "id": "i567efd17",
+      "first_seen": "2026-10-01T11:11:46.951540+09:00",
+      "last_seen": "2026-10-21T06:34:20.452425+09:00",
+      "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "드라마"
+      ],
+      "points": [
+        {
+          "at": "2026-10-01T11:11:46.951540+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 69.19,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2734711",
+            "https://theqoo.net/hot/4361634281"
+          ]
+        },
+        {
+          "at": "2026-10-19T19:50:22.340836+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 80.84,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4380578564",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-19T22:56:39.382237+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 73.03,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4380578564"
+          ]
+        },
+        {
+          "at": "2026-10-21T06:34:20.452425+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 102.3,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77096207?m=humor",
+            "https://theqoo.net/hot/4381914095"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "어느 일본인이 뽑은 최고의 한국 드라마 .JPG",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77096207?m=humor",
+          "score": 93.3
+        },
+        {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "임시완 드라마 <나의 유죄인간> 시청자들 반응 난리난 장면...twt",
+          "url": "https://theqoo.net/hot/4381914095",
+          "score": 70.37
+        }
+      ]
+    },
     "i1b672c00": {
       "id": "i1b672c00",
       "first_seen": "2026-10-08T11:52:47.411122+09:00",
@@ -7017,75 +7100,6 @@
           "title": "난민 받은 프랑스 vs 난민 거부한 폴란드 근황",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157397",
           "score": 61.16
-        }
-      ]
-    },
-    "i567efd17": {
-      "id": "i567efd17",
-      "first_seen": "2026-10-01T11:11:46.951540+09:00",
-      "last_seen": "2026-10-19T22:56:39.382237+09:00",
-      "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "드라마"
-      ],
-      "points": [
-        {
-          "at": "2026-10-01T11:11:46.951540+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 69.19,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2734711",
-            "https://theqoo.net/hot/4361634281"
-          ]
-        },
-        {
-          "at": "2026-10-19T19:50:22.340836+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 80.84,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4380578564",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-10-19T22:56:39.382237+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 73.03,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4380578564"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "백제 금동대향로 등장 논란 생긴 중국 사극 드라마.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1",
-          "score": 64.03
-        },
-        {
-          "source": "더쿠",
-          "rank": 51,
-          "title": "전개될수록 설정이 과하다는 반응 나오는 중인 드라마",
-          "url": "https://theqoo.net/hot/4380578564",
-          "score": 61.42
         }
       ]
     },
@@ -35268,5 +35282,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T04:32:55.970701+09:00"
+  "updated_at": "2026-10-21T06:34:20.452425+09:00"
 }
