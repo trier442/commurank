@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-20T09:42:56.495038+09:00",
+  "collected_at": "2026-10-20T10:57:33.504413+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,57 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i6c2b933f",
-        "title": "‘길거리’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "길거리"
+          "추미애"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 85.08,
+        "peak_score": 85.08,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
+            "score": 67.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
+            "url": "https://theqoo.net/hot/4381064697",
+            "score": 64.21
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 83.92,
-        "peak_score": 83.92,
+        "post_count": 5,
+        "score": 90.61,
+        "peak_score": 90.61,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -27,55 +69,58 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 11,
-            "title": "길거리 노숙자가 안타깝다는 여성, 팩폭하는 스님",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742497",
-            "score": 74.92
-          },
-          {
             "source": "디시인사이드",
-            "rank": 99,
-            "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
-            "score": 52.19
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "idb51f807",
-        "title": "‘김정은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김정은"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.91,
-        "peak_score": 81.91,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "김정은 찌라시 보셨나요?",
-            "url": "https://www.clien.net/service/board/park/19280035?od=T31&po=0&category=0&groupCd=",
-            "score": 72.91
+            "rank": 8,
+            "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
+            "score": 78.61
           },
           {
-            "source": "뽐뿌",
-            "rank": 55,
-            "title": "김정은 사망설?",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=444322",
-            "score": 61.5
+            "source": "인벤",
+            "rank": 66,
+            "title": "간단하게 보는 프랑스 현상황 manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
+            "score": 59.32
           }
         ],
         "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "ife70f848",
+        "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+        "keywords": [
+          "재정구조",
+          "지적한",
+          "아냐",
+          "모독"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.08,
+        "peak_score": 76.08,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "인벤",
+            "rank": 78,
+            "title": "소방 노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742518",
+            "score": 56.6
+          }
+        ],
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -86,8 +131,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.05,
-        "peak_score": 80.05,
+        "score": 66.07,
+        "peak_score": 66.07,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -95,21 +140,21 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-            "url": "https://theqoo.net/hot/4381035613",
-            "score": 71.05
-          },
-          {
             "source": "디시인사이드",
-            "rank": 37,
+            "rank": 75,
             "title": "닉네임을 신중하게 지어야 하는 이유.corona",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-            "score": 65.64
+            "score": 57.07
+          },
+          {
+            "source": "더쿠",
+            "rank": 82,
+            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
+            "url": "https://theqoo.net/hot/4381035613",
+            "score": 55.11
           }
         ],
-        "rank": 3,
+        "rank": 4,
         "change": -1
       }
     ],
@@ -232,6 +277,47 @@
         "change": 0
       },
       {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 111.66,
+        "peak_score": 90.61,
+        "appearances": 4,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
+            "score": 78.61
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "간단하게 보는 프랑스 현상황 manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
+            "score": 59.32
+          }
+        ],
+        "first_seen": "2026-10-08T03:52:22.165654+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 4,
+        "change": 1
+      },
+      {
         "id": "ife8009bc",
         "title": "‘신상공개’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -266,48 +352,91 @@
         "last_seen": "2026-10-20T04:53:33.080873+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
-        "id": "i9ff6bf96",
-        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스"
+          "추미애"
         ],
         "source_count": 3,
-        "post_count": 4,
-        "score": 98.42,
-        "peak_score": 79.49,
+        "post_count": 3,
+        "score": 99.55,
+        "peak_score": 85.08,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
+            "score": 67.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
+            "url": "https://theqoo.net/hot/4381064697",
+            "score": 64.21
+          }
+        ],
+        "first_seen": "2026-10-03T10:28:43.355161+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "ibbdb8f43",
+        "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "지어야"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.78,
+        "peak_score": 83.85,
         "appearances": 3,
         "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
+          "더쿠",
+          "디시인사이드"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 43,
-            "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
-            "score": 61.62
+            "rank": 75,
+            "title": "닉네임을 신중하게 지어야 하는 이유.corona",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
+            "score": 57.07
           },
           {
-            "source": "클리앙",
-            "rank": 63,
-            "title": "근데 프랑스 폭동들은 즉결심판급 아닌가요?",
-            "url": "https://www.clien.net/service/board/park/19279984?od=T31&po=0&category=0&groupCd=",
-            "score": 57.6
+            "source": "더쿠",
+            "rank": 82,
+            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
+            "url": "https://theqoo.net/hot/4381035613",
+            "score": 55.11
           }
         ],
-        "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-20T06:42:50.456816+09:00",
+        "first_seen": "2026-10-20T08:18:23.233090+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 7,
         "change": 0
       },
       {
@@ -348,46 +477,8 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
-      },
-      {
-        "id": "ibbdb8f43",
-        "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "지어야"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.34,
-        "peak_score": 83.85,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-            "url": "https://theqoo.net/hot/4381035613",
-            "score": 71.05
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 37,
-            "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-            "score": 65.64
-          }
-        ],
-        "first_seen": "2026-10-20T08:18:23.233090+09:00",
-        "last_seen": "2026-10-20T09:42:56.495038+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 7,
-        "change": 1
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "i2272efa7",
@@ -432,7 +523,7 @@
         "last_seen": "2026-10-20T06:42:50.456816+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -470,8 +561,8 @@
         "last_seen": "2026-10-20T09:42:56.495038+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "idb51f807",
@@ -508,8 +599,8 @@
         "last_seen": "2026-10-20T09:42:56.495038+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -546,8 +637,8 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "if8b91d71",
@@ -584,8 +675,8 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
-        "change": -2
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i4f7064f0",
@@ -622,8 +713,49 @@
         "last_seen": "2026-10-20T02:25:06.177143+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -2
+        "rank": 14,
+        "change": -1
+      },
+      {
+        "id": "ife70f848",
+        "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+        "keywords": [
+          "재정구조",
+          "지적한",
+          "아냐",
+          "모독"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.55,
+        "peak_score": 76.08,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "인벤",
+            "rank": 78,
+            "title": "소방 노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742518",
+            "score": 56.6
+          }
+        ],
+        "first_seen": "2026-10-20T10:57:33.504413+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
       },
       {
         "id": "i9022d324",
@@ -660,7 +792,7 @@
         "last_seen": "2026-10-20T06:42:50.456816+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 16,
         "change": -2
       },
       {
@@ -698,7 +830,7 @@
         "last_seen": "2026-10-20T04:53:33.080873+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 17,
         "change": -2
       },
       {
@@ -736,7 +868,7 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 18,
         "change": -2
       },
       {
@@ -774,7 +906,7 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 19,
         "change": -2
       },
       {
@@ -812,84 +944,6 @@
         "last_seen": "2026-10-20T04:53:33.080873+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "idb5a99a7",
-        "title": "힘을 숨긴 택시기사",
-        "keywords": [
-          "힘을",
-          "숨긴",
-          "택시기사"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.55,
-        "peak_score": 71.08,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 38,
-            "title": "힘을 숨긴 택시기사",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77086052?m=humor_only&t=now",
-            "score": 63.08
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 90,
-            "title": "싱글벙글 힘을 숨긴 택시기사",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471637&_dcbest=1&page=1",
-            "score": 52.53
-          }
-        ],
-        "first_seen": "2026-10-01T11:11:46.951540+09:00",
-        "last_seen": "2026-10-20T06:42:50.456816+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -2
-      },
-      {
-        "id": "i3ccc2d51",
-        "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "일본인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.96,
-        "peak_score": 70.49,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 39,
-            "title": "싱글벙글 프랑스 시위를 목격한 일본인 반응...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471576&_dcbest=1&page=1",
-            "score": 61.49
-          },
-          {
-            "source": "루리웹",
-            "rank": 69,
-            "title": "일본인 : 한국인들아 김치 이렇게 먹어서 미안해 ㅠㅠ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77085546?m=humor_only&t=now",
-            "score": 56.53
-          }
-        ],
-        "first_seen": "2026-10-02T06:06:28.724750+09:00",
-        "last_seen": "2026-10-20T02:25:06.177143+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
         "change": -2
       }
@@ -903,9 +957,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 148.24,
+        "score": 148.55,
         "peak_score": 117.38,
-        "appearances": 15,
+        "appearances": 16,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -917,23 +971,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 43,
-            "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
-            "score": 61.62
+            "rank": 8,
+            "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
+            "score": 78.61
           },
           {
-            "source": "클리앙",
-            "rank": 63,
-            "title": "근데 프랑스 폭동들은 즉결심판급 아닌가요?",
-            "url": "https://www.clien.net/service/board/park/19279984?od=T31&po=0&category=0&groupCd=",
-            "score": 57.6
+            "source": "인벤",
+            "rank": 66,
+            "title": "간단하게 보는 프랑스 현상황 manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
+            "score": 59.32
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-20T06:42:50.456816+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -1250,6 +1304,53 @@
         "change": 0
       },
       {
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "추미애"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 101.57,
+        "peak_score": 85.08,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
+            "score": 67.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
+            "url": "https://theqoo.net/hot/4381064697",
+            "score": 64.21
+          }
+        ],
+        "first_seen": "2026-10-03T10:28:43.355161+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
         "id": "i2691fdce",
         "title": "동남아 인기 줄어든 이유.JPG",
         "keywords": [
@@ -1286,8 +1387,8 @@
         "last_seen": "2026-10-19T14:11:07.705524+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i2c5269d4",
@@ -1334,8 +1435,46 @@
         "last_seen": "2026-10-19T10:15:52.809606+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
+      },
+      {
+        "id": "ibbdb8f43",
+        "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "지어야"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.78,
+        "peak_score": 83.85,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 75,
+            "title": "닉네임을 신중하게 지어야 하는 이유.corona",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
+            "score": 57.07
+          },
+          {
+            "source": "더쿠",
+            "rank": 82,
+            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
+            "url": "https://theqoo.net/hot/4381035613",
+            "score": 55.11
+          }
+        ],
+        "first_seen": "2026-10-20T08:18:23.233090+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": 1
       },
       {
         "id": "i48bc7a3d",
@@ -1375,8 +1514,8 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "if553a5cf",
@@ -1421,46 +1560,8 @@
         "last_seen": "2026-10-19T05:57:45.591857+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": 0
-      },
-      {
-        "id": "ibbdb8f43",
-        "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "지어야"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.34,
-        "peak_score": 83.85,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-            "url": "https://theqoo.net/hot/4381035613",
-            "score": 71.05
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 37,
-            "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-            "score": 65.64
-          }
-        ],
-        "first_seen": "2026-10-20T08:18:23.233090+09:00",
-        "last_seen": "2026-10-20T09:42:56.495038+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": 2
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "i2272efa7",
@@ -1505,7 +1606,7 @@
         "last_seen": "2026-10-20T06:42:50.456816+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -1548,7 +1649,7 @@
         "last_seen": "2026-10-19T10:15:52.809606+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -1586,8 +1687,8 @@
         "last_seen": "2026-10-20T09:42:56.495038+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "if8b91d71",
@@ -1625,7 +1726,7 @@
         "last_seen": "2026-10-20T08:18:23.233090+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -1663,45 +1764,6 @@
         "last_seen": "2026-10-19T22:56:39.382237+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "ifeed66d7",
-        "title": "‘김건희’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김건희",
-          "조희대"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 92.04,
-        "peak_score": 81.57,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 21,
-            "title": "조국 \"무기력 민주당, 김건희 걸어 나오면 그 때 조희대 탄핵할 텐가.. 허송세월에 내부 싸움만\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742025",
-            "score": 71.57
-          },
-          {
-            "source": "클리앙",
-            "rank": 81,
-            "title": "열흘 남은 김건희 구속 만료… 조희대.분수령",
-            "url": "https://www.clien.net/service/board/park/19279594?od=T31&po=0&category=0&groupCd=",
-            "score": 55.17
-          }
-        ],
-        "first_seen": "2026-10-19T09:26:39.061877+09:00",
-        "last_seen": "2026-10-19T09:26:39.061877+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 20,
         "change": -1
       }
@@ -1715,9 +1777,9 @@
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 157.72,
+        "score": 157.86,
         "peak_score": 120.94,
-        "appearances": 34,
+        "appearances": 35,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1729,23 +1791,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 43,
-            "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
-            "score": 61.62
+            "rank": 8,
+            "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
+            "score": 78.61
           },
           {
-            "source": "클리앙",
-            "rank": 63,
-            "title": "근데 프랑스 폭동들은 즉결심판급 아닌가요?",
-            "url": "https://www.clien.net/service/board/park/19279984?od=T31&po=0&category=0&groupCd=",
-            "score": 57.6
+            "source": "인벤",
+            "rank": 66,
+            "title": "간단하게 보는 프랑스 현상황 manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
+            "score": 59.32
           }
         ],
         "first_seen": "2026-10-08T03:52:22.165654+09:00",
-        "last_seen": "2026-10-20T06:42:50.456816+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -2248,6 +2310,54 @@
         "change": 0
       },
       {
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "추미애"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 125.02,
+        "peak_score": 99.04,
+        "appearances": 19,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
+            "score": 68.08
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
+            "score": 67.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
+            "url": "https://theqoo.net/hot/4381064697",
+            "score": 64.21
+          }
+        ],
+        "first_seen": "2026-10-03T10:28:43.355161+09:00",
+        "last_seen": "2026-10-20T10:57:33.504413+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
         "id": "i199bc4da",
         "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2284,8 +2394,8 @@
         "last_seen": "2026-10-01T19:14:44.159749+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "ibd61c9f9",
@@ -2342,8 +2452,8 @@
         "last_seen": "2026-10-04T10:56:40.820491+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i1b32b99d",
@@ -2397,8 +2507,8 @@
         "last_seen": "2026-10-18T15:30:44.980988+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i698d5433",
@@ -2455,8 +2565,8 @@
         "last_seen": "2026-10-07T14:44:26.372950+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5791457f",
@@ -2495,8 +2605,8 @@
         "last_seen": "2026-10-08T04:25:39.605389+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i00705cf2",
@@ -2536,8 +2646,8 @@
         "last_seen": "2026-10-06T19:18:32.883997+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "id4a51cf7",
@@ -2575,48 +2685,8 @@
         "last_seen": "2026-10-10T15:55:14.904371+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i413fcde4",
-        "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "손흥민"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 122.74,
-        "peak_score": 105.25,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 7,
-            "title": "극한직업 손흥민",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
-            "score": 81.14
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 37,
-            "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
-            "score": 66.46
-          }
-        ],
-        "first_seen": "2026-10-08T11:52:47.411122+09:00",
-        "last_seen": "2026-10-10T22:31:21.077301+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }
