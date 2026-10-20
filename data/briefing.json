@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-20",
   "label": "2026년 10월 20일",
-  "collected_at": "2026-10-20T10:57:33.504413+09:00",
+  "collected_at": "2026-10-20T14:22:41.982357+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘유럽에서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #프랑스. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘아파트’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #김정. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,16 +12,16 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 17,
-    "top100_views": 802645,
-    "top100_comments": 7922
+    "keywords": 20,
+    "top100_views": 1066461,
+    "top100_comments": 11758
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘유럽에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ied6d77dc"
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ie5a2c1ba"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#프랑스",
-      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "프랑스"
+      "title": "#김정",
+      "text": "5개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "keyword": "김정"
     }
   ],
   "top_posts": [
@@ -59,12 +59,41 @@
           "last_seen": "2026-10-20T10:57:33.504413+09:00"
         }
       },
-      "score": 108.96,
+      "score": 108.67,
       "views": 19551,
       "likes": 157,
       "comments": 116,
       "active_days": 1,
-      "change": 1
+      "change": 0
+    },
+    {
+      "title": "철인정치가 결국 망상인 이유",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77087180?m=humor",
+      "first_seen": "2026-10-20T14:22:41.982357+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "peak_score": 98.96,
+      "max_views": 21659,
+      "max_likes": 140,
+      "max_comments": 131,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-20": {
+          "max_score": 98.96,
+          "max_views": 21659,
+          "max_likes": 140,
+          "max_comments": 131,
+          "appearances": 1,
+          "last_seen": "2026-10-20T14:22:41.982357+09:00"
+        }
+      },
+      "score": 108.48,
+      "views": 21659,
+      "likes": 140,
+      "comments": 131,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "중기사)스포]주인공 아빠가 검성에 집착한 이유.JPG",
@@ -88,7 +117,7 @@
           "last_seen": "2026-10-20T06:42:50.456816+09:00"
         }
       },
-      "score": 108.18,
+      "score": 107.9,
       "views": 11004,
       "likes": 122,
       "comments": 78,
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-20T06:42:50.456816+09:00"
         }
       },
-      "score": 106.46,
+      "score": 106.18,
       "views": 12129,
       "likes": 95,
       "comments": 46,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "국산 비만약 ‘에페’ 판매 임박… 위고비·마운자로와 ‘삼파전’",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-20T09:42:56.495038+09:00"
         }
       },
-      "score": 105.61,
+      "score": 105.33,
       "views": 18678,
       "likes": 138,
       "comments": 63,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "왜 날씨 예보 틀리나 했더니…\"불합격 판정 받고도 운영, 기상청 방치\"",
@@ -175,12 +204,41 @@
           "last_seen": "2026-10-20T08:18:23.233090+09:00"
         }
       },
-      "score": 105.49,
+      "score": 105.21,
       "views": 18860,
       "likes": 110,
       "comments": 47,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+      "first_seen": "2026-10-20T14:22:41.982357+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "peak_score": 95.36,
+      "max_views": 14675,
+      "max_likes": 114,
+      "max_comments": 98,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-20": {
+          "max_score": 95.36,
+          "max_views": 14675,
+          "max_likes": 114,
+          "max_comments": 98,
+          "appearances": 1,
+          "last_seen": "2026-10-20T14:22:41.982357+09:00"
+        }
+      },
+      "score": 104.88,
+      "views": 14675,
+      "likes": 114,
+      "comments": 98,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "유럽에서 이민자, 난민 문제가 끊이지 않는 이유",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-20T02:25:06.177143+09:00"
         }
       },
-      "score": 105.0,
+      "score": 104.72,
       "views": 13099,
       "likes": 110,
       "comments": 116,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "5평 원룸에 사는 예비부부 근황",
@@ -233,12 +291,12 @@
           "last_seen": "2026-10-20T04:53:33.080873+09:00"
         }
       },
-      "score": 104.11,
+      "score": 103.82,
       "views": 21243,
       "likes": 129,
       "comments": 70,
       "active_days": 1,
-      "change": 0
+      "change": -2
     },
     {
       "title": "요즘 부동산 시장 체감근황",
@@ -262,142 +320,84 @@
           "last_seen": "2026-10-20T10:57:33.504413+09:00"
         }
       },
-      "score": 104.01,
+      "score": 103.73,
       "views": 17533,
       "likes": 116,
       "comments": 71,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "사우디아라비아에서 방글라데시 부부가 사형 당하는 이유.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77085562?m=humor",
-      "first_seen": "2026-10-20T04:53:33.080873+09:00",
-      "last_seen": "2026-10-20T04:53:33.080873+09:00",
-      "peak_score": 94.11,
-      "max_views": 8293,
-      "max_likes": 76,
-      "max_comments": 65,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-20": {
-          "max_score": 94.11,
-          "max_views": 8293,
-          "max_likes": 76,
-          "max_comments": 65,
-          "appearances": 1,
-          "last_seen": "2026-10-20T04:53:33.080873+09:00"
-        }
-      },
-      "score": 103.13,
-      "views": 8293,
-      "likes": 76,
-      "comments": 65,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "일본인이 말하는 혐한이 줄어드는 이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77083286?m=humor",
-      "first_seen": "2026-10-20T02:25:06.177143+09:00",
-      "last_seen": "2026-10-20T02:25:06.177143+09:00",
-      "peak_score": 94.25,
-      "max_views": 26489,
-      "max_likes": 149,
-      "max_comments": 85,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-20": {
-          "max_score": 94.25,
-          "max_views": 26489,
-          "max_likes": 149,
-          "max_comments": 85,
-          "appearances": 1,
-          "last_seen": "2026-10-20T02:25:06.177143+09:00"
-        }
-      },
-      "score": 103.06,
-      "views": 26489,
-      "likes": 149,
-      "comments": 85,
-      "active_days": 1,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "화재현장으로 돌진한 굴착기 기사",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23706",
+      "source": "디시인사이드",
+      "title": "속보속보 김정은 뇌출혈로 베이징 병원으로 이송중",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471729&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 13512,
-      "likes": 29,
-      "comments": 14,
-      "score": 76.28,
-      "change": 35,
+      "views": 69714,
+      "likes": 301,
+      "comments": 1042,
+      "score": 76.82,
+      "change": 0,
       "current_rank": 11,
       "new_entry": false,
-      "delta_views": 9098,
-      "delta_likes": 22,
-      "delta_comments": 8,
-      "rank_gain": 35,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 75
-    },
-    {
-      "source": "루리웹",
-      "title": "폴란드 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77086394?m=humor",
-      "category": "이슈",
-      "views": 19551,
-      "likes": 157,
-      "comments": 116,
-      "score": 98.12,
-      "change": 0,
-      "current_rank": 1,
-      "new_entry": false,
-      "delta_views": 3489,
-      "delta_likes": 18,
-      "delta_comments": 18,
+      "delta_views": 53884,
+      "delta_likes": 242,
+      "delta_comments": 902,
       "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 75
+      "rising_score": 95.45,
+      "rising_rank": 1,
+      "window_minutes": 205
     },
     {
       "source": "디시인사이드",
-      "title": "ㅅㄱㅂㄱ 꼴값오지는 직업",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471690&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20464,
-      "likes": 121,
-      "comments": 263,
-      "score": 69.83,
+      "title": "몽골에서 대형사고 친 일본인들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471723&_dcbest=1&page=1",
+      "category": "스포츠",
+      "views": 16569,
+      "likes": 173,
+      "comments": 254,
+      "score": 68.33,
       "change": 0,
-      "current_rank": 24,
+      "current_rank": 29,
       "new_entry": false,
-      "delta_views": 4846,
-      "delta_likes": 25,
-      "delta_comments": 42,
+      "delta_views": 11580,
+      "delta_likes": 83,
+      "delta_comments": 139,
       "rank_gain": 0,
-      "rising_score": 82.39,
-      "rising_rank": 3,
-      "window_minutes": 75
+      "rising_score": 86.36,
+      "rising_rank": 2,
+      "window_minutes": 205
     },
     {
       "source": "루리웹",
-      "title": "요즘 부동산 시장 체감근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77086342?m=humor",
+      "title": "철인정치가 결국 망상인 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77087180?m=humor",
       "category": "이슈",
-      "views": 17533,
-      "likes": 116,
-      "comments": 71,
-      "score": 94.49,
+      "views": 21659,
+      "likes": 140,
+      "comments": 131,
+      "score": 98.96,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.56,
+      "rising_rank": 3,
+      "window_minutes": 205
+    },
+    {
+      "source": "루리웹",
+      "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+      "category": "이슈",
+      "views": 14675,
+      "likes": 114,
+      "comments": 98,
+      "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.69,
+      "rising_score": 82.05,
       "rising_rank": 4,
-      "window_minutes": 75
+      "window_minutes": 205
     },
     {
       "source": "루리웹",
-      "title": "성심당 창업자도 '빨갱이'이네요",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77087076?m=humor",
+      "title": "너무 비싸서 욕먹던 신형 아반떼 하이브리드 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77086990?m=humor",
       "category": "이슈",
-      "views": 13611,
-      "likes": 166,
-      "comments": 94,
-      "score": 93.4,
+      "views": 22004,
+      "likes": 74,
+      "comments": 112,
+      "score": 93.84,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.23,
+      "rising_score": 81.41,
       "rising_rank": 5,
-      "window_minutes": 75
+      "window_minutes": 205
     },
     {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 18원, 라이브예고 13원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108165",
+      "source": "디시인사이드",
+      "title": "와들와들 한국 서민이 시위를 하지않는이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471770&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 27525,
-      "likes": 168,
-      "comments": 20,
-      "score": 88.19,
+      "views": 16971,
+      "likes": 113,
+      "comments": 303,
+      "score": 88.22,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -445,39 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.04,
+      "rising_score": 79.05,
       "rising_rank": 6,
-      "window_minutes": 75
+      "window_minutes": 205
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 아직도 현재진행형인 한국 망사용료 법안 논쟁",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471709&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8434,
-      "likes": 55,
-      "comments": 221,
-      "score": 72.02,
-      "change": 0,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 4333,
-      "delta_likes": 28,
-      "delta_comments": 89,
-      "rank_gain": 0,
-      "rising_score": 78.45,
-      "rising_rank": 7,
-      "window_minutes": 75
-    },
-    {
-      "source": "디시인사이드",
-      "title": "속보속보 김정은 뇌출혈로 베이징 병원으로 이송중",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471729&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15830,
-      "likes": 59,
-      "comments": 140,
-      "score": 84.9,
+      "title": "게임에서의 BL 구분법",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471776&_dcbest=1&page=1",
+      "category": "게임",
+      "views": 12947,
+      "likes": 115,
+      "comments": 182,
+      "score": 87.35,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -485,39 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.66,
-      "rising_rank": 8,
-      "window_minutes": 75
+      "rising_score": 78.69,
+      "rising_rank": 7,
+      "window_minutes": 205
     },
     {
-      "source": "디시인사이드",
-      "title": "라면 한개 한입에 먹기 도전한 쯔양 ㄷㄷㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471712&_dcbest=1&page=1",
+      "source": "뽐뿌",
+      "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158051",
       "category": "이슈",
-      "views": 6999,
-      "likes": 15,
-      "comments": 142,
-      "score": 64.99,
-      "change": 18,
-      "current_rank": 39,
-      "new_entry": false,
-      "delta_views": 6613,
-      "delta_likes": 12,
-      "delta_comments": 121,
-      "rank_gain": 18,
-      "rising_score": 77.48,
-      "rising_rank": 9,
-      "window_minutes": 75
-    },
-    {
-      "source": "더쿠",
-      "title": "“부캉이, 2주밖에 못 살 수도” 벽에 머리 ‘쾅’ 이상행동…지느러미까지 찢어졌다",
-      "url": "https://theqoo.net/hot/4381105376",
-      "category": "이슈",
-      "views": 20821,
-      "likes": 0,
-      "comments": 283,
-      "score": 81.0,
+      "views": 24376,
+      "likes": 6,
+      "comments": 86,
+      "score": 84.29,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,12 +485,90 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.02,
+      "rising_score": 77.4,
+      "rising_rank": 8,
+      "window_minutes": 205
+    },
+    {
+      "source": "뽐뿌",
+      "title": "(블라펌) 지금 삼전 닉스 빠지는 이유",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=444483",
+      "category": "이슈",
+      "views": 22368,
+      "likes": 7,
+      "comments": 68,
+      "score": 80.96,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.0,
+      "rising_rank": 9,
+      "window_minutes": 205
+    },
+    {
+      "source": "디시인사이드",
+      "title": "황희찬 갑질 논란을 기자들이 별로 안 다루는 이유...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471764&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11932,
+      "likes": 475,
+      "comments": 167,
+      "score": 79.85,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.54,
       "rising_rank": 10,
-      "window_minutes": 75
+      "window_minutes": 205
     }
   ],
   "issues": [
+    {
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아파트"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 115.83,
+      "peak_score": 105.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+          "score": 95.36
+        },
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "배관에 시멘트가 들어가 있는 신축 아파트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742641",
+          "score": 65.68
+        }
+      ],
+      "first_seen": "2026-10-09T19:48:30.742386+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ied6d77dc",
       "title": "‘유럽에서’ 관련 글이 여러 커뮤니티에서 화제",
@@ -566,8 +604,105 @@
       "last_seen": "2026-10-20T02:25:06.177143+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "i9fddae44",
+      "title": "‘특이한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "특이한"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.83,
+      "peak_score": 104.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+          "score": 95.36
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "강남 반포 한 아파트의 특이한 쇼핑문화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742646",
+          "score": 70.35
+        }
+      ],
+      "first_seen": "2026-10-20T14:22:41.982357+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ie33ae889",
+      "title": "\"김정은, 중국서 응급치료 받던 중 사망\"",
+      "keywords": [
+        "사망",
+        "김정은",
+        "받던",
+        "응급치료",
+        "중국서",
+        "37번째"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 113.39,
+      "peak_score": 93.92,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 17,
+          "title": "\"김정은, 중국서 응급치료 받던 중 사망\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158145",
+          "score": 71.92
+        },
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "김정은 37번째 사망",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742657",
+          "score": 69.63
+        },
+        {
+          "source": "루리웹",
+          "rank": 51,
+          "title": "속보) 김정은 37번째 사망",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77089446?m=humor_only&t=now",
+          "score": 63.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 79,
+          "title": "\"김정은, 중국서 응급치료 받던 중 사망\"... SNS발 소문 급속 확산/YTN",
+          "url": "https://theqoo.net/hot/4381187919",
+          "score": 54.58
+        }
+      ],
+      "first_seen": "2026-10-20T14:22:41.982357+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i533b29bd",
@@ -604,8 +739,50 @@
       "last_seen": "2026-10-20T02:25:06.177143+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 5,
+      "change": -3
+    },
+    {
+      "id": "i9ff6bf96",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "프랑스"
+      ],
+      "source_count": 3,
+      "post_count": 5,
+      "score": 112.57,
+      "peak_score": 90.61,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 35,
+          "title": "프랑스 시위가 극도로 격화된 이유....jpg",
+          "url": "https://theqoo.net/hot/4381204717",
+          "score": 66.89
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 64,
+          "title": "싱글벙글 3년전 작성된 디시위키 프랑스 관련 틀",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471746&_dcbest=1&page=1",
+          "score": 59.15
+        }
+      ],
+      "first_seen": "2026-10-08T03:52:22.165654+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "id4af6b9b",
@@ -645,49 +822,8 @@
       "last_seen": "2026-10-20T04:53:33.080873+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스"
-      ],
-      "source_count": 3,
-      "post_count": 5,
-      "score": 111.66,
-      "peak_score": 90.61,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 8,
-          "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
-          "score": 78.61
-        },
-        {
-          "source": "인벤",
-          "rank": 66,
-          "title": "간단하게 보는 프랑스 현상황 manhwa",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
-          "score": 59.32
-        }
-      ],
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-10-20T10:57:33.504413+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 5,
-      "rank": 4,
-      "change": 1
+      "rank": 7,
+      "change": -4
     },
     {
       "id": "ife8009bc",
@@ -724,8 +860,8 @@
       "last_seen": "2026-10-20T04:53:33.080873+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 8,
+      "change": -3
     },
     {
       "id": "ib19f68fa",
@@ -735,9 +871,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 99.55,
-      "peak_score": 85.08,
-      "appearances": 1,
+      "score": 102.38,
+      "peak_score": 85.89,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -746,235 +882,119 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 28,
-          "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
-          "score": 68.08
+          "rank": 10,
+          "title": "기사) 추미애, 경기국제공항 추진 ㄷㄷ.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158119",
+          "score": 76.89
         },
         {
           "source": "디시인사이드",
-          "rank": 32,
+          "rank": 86,
           "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
-          "score": 67.32
-        },
-        {
-          "source": "더쿠",
-          "rank": 41,
-          "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
-          "url": "https://theqoo.net/hot/4381064697",
-          "score": 64.21
+          "score": 53.39
         }
       ],
       "first_seen": "2026-10-03T10:28:43.355161+09:00",
-      "last_seen": "2026-10-20T10:57:33.504413+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "ibbdb8f43",
-      "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지어야"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.78,
-      "peak_score": 83.85,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 75,
-          "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-          "score": 57.07
-        },
-        {
-          "source": "더쿠",
-          "rank": 82,
-          "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-          "url": "https://theqoo.net/hot/4381035613",
-          "score": 55.11
-        }
-      ],
-      "first_seen": "2026-10-20T08:18:23.233090+09:00",
-      "last_seen": "2026-10-20T10:57:33.504413+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i48bc7a3d",
-      "title": "토요코 키즈 몰살 방법",
-      "keywords": [
-        "방법",
-        "몰살",
-        "키즈",
-        "토요코"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.46,
-      "peak_score": 84.97,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 48,
-          "title": "토요코 키즈 몰살 방법",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742461",
-          "score": 61.53
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 57,
-          "title": "싱글벙글 갓본 토요코 키즈 몰살 방법",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471654&_dcbest=1&page=1",
-          "score": 60.5
-        }
-      ],
-      "first_seen": "2026-10-20T06:42:50.456816+09:00",
-      "last_seen": "2026-10-20T08:18:23.233090+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "i2272efa7",
-      "title": "리센느 미나미의 서예 선생님, 한국 친정집에서 팬미팅 개최",
-      "keywords": [
-        "팬미팅",
-        "개최",
-        "서예",
-        "친정집에서",
-        "한국",
-        "미나미의",
-        "선생님",
-        "리센느"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.33,
-      "peak_score": 82.84,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 14,
-          "title": "리센느 미나미의 서예 선생님, 한국 친정집에서 팬미팅 개최",
-          "url": "https://theqoo.net/hot/4380956850",
-          "score": 74.84
-        },
-        {
-          "source": "루리웹",
-          "rank": 82,
-          "title": "리센느 미나미의 서예 선생님, 한국 친정집에서 팬미팅 개최",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77085984?m=humor_only&t=now",
-          "score": 54.09
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-10-20T06:42:50.456816+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": -3
     },
     {
-      "id": "i6c2b933f",
-      "title": "‘길거리’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "id82e2381",
+      "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
       "keywords": [
-        "길거리"
+        "11만원인데",
+        "10만원",
+        "친구",
+        "축의금"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.39,
-      "peak_score": 83.92,
+      "score": 101.76,
+      "peak_score": 92.29,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 11,
-          "title": "길거리 노숙자가 안타깝다는 여성, 팩폭하는 스님",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742497",
-          "score": 74.92
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158051",
+          "score": 84.29
         },
         {
-          "source": "디시인사이드",
-          "rank": 99,
-          "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
-          "score": 52.19
+          "source": "더쿠",
+          "rank": 32,
+          "title": "\"식대가 11만원인데 축의금 10만원?\"…적게 냈다고 카톡 한 친구",
+          "url": "https://theqoo.net/hot/4381278640",
+          "score": 67.84
         }
       ],
-      "first_seen": "2026-10-20T09:42:56.495038+09:00",
-      "last_seen": "2026-10-20T09:42:56.495038+09:00",
+      "first_seen": "2026-10-20T14:22:41.982357+09:00",
+      "last_seen": "2026-10-20T14:22:41.982357+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "ib19f68fa",
-      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ie33ae889",
+      "title": "\"김정은, 중국서 응급치료 받던 중 사망\"",
       "keywords": [
-        "추미애"
+        "사망",
+        "김정은",
+        "받던",
+        "응급치료",
+        "중국서",
+        "37번째"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 85.08,
-      "peak_score": 85.08,
+      "source_count": 4,
+      "post_count": 4,
+      "score": 93.92,
+      "peak_score": 93.92,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 28,
-          "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
-          "score": 68.08
+          "rank": 17,
+          "title": "\"김정은, 중국서 응급치료 받던 중 사망\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158145",
+          "score": 71.92
         },
         {
-          "source": "디시인사이드",
-          "rank": 32,
-          "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
-          "score": 67.32
+          "source": "인벤",
+          "rank": 23,
+          "title": "김정은 37번째 사망",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742657",
+          "score": 69.63
+        },
+        {
+          "source": "루리웹",
+          "rank": 51,
+          "title": "속보) 김정은 37번째 사망",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77089446?m=humor_only&t=now",
+          "score": 63.11
         },
         {
           "source": "더쿠",
-          "rank": 41,
-          "title": "추미애 “경기도에 공항 없는 건 말 안돼…국제공항 용역 재개 결정”",
-          "url": "https://theqoo.net/hot/4381064697",
-          "score": 64.21
+          "rank": 79,
+          "title": "\"김정은, 중국서 응급치료 받던 중 사망\"... SNS발 소문 급속 확산/YTN",
+          "url": "https://theqoo.net/hot/4381187919",
+          "score": 54.58
         }
       ],
       "rank": 1,
@@ -987,80 +1007,182 @@
         "프랑스"
       ],
       "source_count": 2,
-      "post_count": 5,
-      "score": 90.61,
-      "peak_score": 90.61,
+      "post_count": 4,
+      "score": 77.89,
+      "peak_score": 77.89,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 8,
-          "title": "솔직히 프랑스 시위 어쩌구 근들갑인 이유...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471704&_dcbest=1&page=1",
-          "score": 78.61
+          "source": "더쿠",
+          "rank": 35,
+          "title": "프랑스 시위가 극도로 격화된 이유....jpg",
+          "url": "https://theqoo.net/hot/4381204717",
+          "score": 66.89
         },
         {
-          "source": "인벤",
-          "rank": 66,
-          "title": "간단하게 보는 프랑스 현상황 manhwa",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742533",
-          "score": 59.32
+          "source": "디시인사이드",
+          "rank": 64,
+          "title": "싱글벙글 3년전 작성된 디시위키 프랑스 관련 틀",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471746&_dcbest=1&page=1",
+          "score": 59.15
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "ife70f848",
-      "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "재정구조",
-        "지적한",
-        "아냐",
-        "모독"
+        "아파트"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 76.08,
-      "peak_score": 76.08,
+      "post_count": 3,
+      "score": 105.36,
+      "peak_score": 105.36,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 28,
-          "title": "추미애 \"소방은 재정 빨대\" 발언에.. 소방노조 \"모독 아냐, 재정구조 지적한 것\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157869",
-          "score": 68.08
+          "source": "루리웹",
+          "rank": 2,
+          "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+          "score": 95.36
         },
         {
           "source": "인벤",
-          "rank": 78,
-          "title": "소방 노조 \"모독 아냐, 재정구조 지적한 것\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742518",
-          "score": 56.6
+          "rank": 41,
+          "title": "배관에 시멘트가 들어가 있는 신축 아파트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742641",
+          "score": 65.68
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "ibbdb8f43",
-      "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9fddae44",
+      "title": "‘특이한’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "지어야"
+        "특이한"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 66.07,
-      "peak_score": 66.07,
+      "score": 104.36,
+      "peak_score": 104.36,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "반포의 한 아파트 특이한 쇼핑 문화.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088219?m=humor",
+          "score": 95.36
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "강남 반포 한 아파트의 특이한 쇼핑문화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742646",
+          "score": 70.35
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "id82e2381",
+      "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
+      "keywords": [
+        "11만원인데",
+        "10만원",
+        "친구",
+        "축의금"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.29,
+      "peak_score": 92.29,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158051",
+          "score": 84.29
+        },
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "\"식대가 11만원인데 축의금 10만원?\"…적게 냈다고 카톡 한 친구",
+          "url": "https://theqoo.net/hot/4381278640",
+          "score": 67.84
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "ib19f68fa",
+      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "추미애"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.89,
+      "peak_score": 85.89,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 10,
+          "title": "기사) 추미애, 경기국제공항 추진 ㄷㄷ.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158119",
+          "score": 76.89
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 86,
+          "title": "추미애, 과거 '의용소방대' 예산도 지적…\"100억 쓰는 친목단체",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471725&_dcbest=1&page=1",
+          "score": 53.39
+        }
+      ],
+      "rank": 6,
+      "change": -5
+    },
+    {
+      "id": "i4975dfaa",
+      "title": "‘ytn’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "ytn"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.07,
+      "peak_score": 75.07,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1069,32 +1191,68 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 75,
-          "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-          "score": 57.07
+          "rank": 38,
+          "title": "ytn) 서울 역삼동 상가서 큰불...1명 심정지, 37명 구조",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471772&_dcbest=1&page=1",
+          "score": 66.07
         },
         {
           "source": "더쿠",
-          "rank": 82,
-          "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-          "url": "https://theqoo.net/hot/4381035613",
-          "score": 55.11
+          "rank": 79,
+          "title": "\"김정은, 중국서 응급치료 받던 중 사망\"... SNS발 소문 급속 확산/YTN",
+          "url": "https://theqoo.net/hot/4381187919",
+          "score": 54.58
         }
       ],
-      "rank": 4,
-      "change": -1
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "ib3876eed",
+      "title": "‘대통령이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대통령이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.74,
+      "peak_score": 74.74,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 39,
+          "title": "단독] 李대통령이 제주 찾아간 날 항공기 234편 지연, 평소 3배",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471740&_dcbest=1&page=1",
+          "score": 65.74
+        },
+        {
+          "source": "클리앙",
+          "rank": 96,
+          "title": "대통령이 주식시장 저평가라고 하자마자",
+          "url": "https://www.clien.net/service/board/park/19280200?od=T31&po=0&category=0&groupCd=",
+          "score": 51.14
+        }
+      ],
+      "rank": 8,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "프랑스",
-      "score": 139.92,
-      "post_count": 6,
-      "source_count": 3,
-      "best_rank": 8,
+      "keyword": "김정",
+      "score": 193.13,
+      "post_count": 7,
+      "source_count": 5,
+      "best_rank": 11,
       "sources": [
+        "더쿠",
         "디시인사이드",
+        "루리웹",
         "뽐뿌",
         "인벤"
       ],
@@ -1103,44 +1261,45 @@
       "change": "NEW"
     },
     {
-      "keyword": "추미애",
-      "score": 121.79,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 28,
+      "keyword": "사망",
+      "score": 149.24,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 17,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 119.75,
-      "post_count": 3,
+      "keyword": "한국",
+      "score": 141.89,
+      "post_count": 6,
       "source_count": 3,
-      "best_rank": 22,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 5
+      "change": 4
     },
     {
-      "keyword": "서울",
-      "score": 102.73,
+      "keyword": "아파트",
+      "score": 116.96,
       "post_count": 4,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
@@ -1148,140 +1307,142 @@
     },
     {
       "keyword": "시위",
-      "score": 101.9,
-      "post_count": 3,
+      "score": 109.22,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "시장",
-      "score": 99.78,
+      "keyword": "특이한",
+      "score": 108.98,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 2,
       "sources": [
         "루리웹",
-        "클리앙"
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "반포"
+      ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 97.26,
+      "keyword": "친구",
+      "score": 107.3,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 6,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -6
+      "change": "NEW"
     },
     {
-      "keyword": "월세",
-      "score": 91.06,
-      "post_count": 5,
-      "source_count": 1,
-      "best_rank": 15,
+      "keyword": "11만원인데",
+      "score": 103.88,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
       "sources": [
-        "클리앙"
+        "더쿠",
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "10만원",
+        "식대",
+        "축의금"
+      ],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "공항",
-      "score": 90.07,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 41,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "확정",
-      "score": 88.57,
-      "post_count": 2,
+      "keyword": "프랑스",
+      "score": 97.99,
+      "post_count": 4,
       "source_count": 2,
       "best_rank": 35,
       "sources": [
         "더쿠",
-        "인벤"
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -8
+    },
+    {
+      "keyword": "추미애",
+      "score": 92.46,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 10,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 10,
       "change": -8
     },
     {
-      "keyword": "경기도",
-      "score": 87.91,
+      "keyword": "맞은",
+      "score": 92.07,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 33,
       "sources": [
         "더쿠",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "재정구조",
-      "score": 86.98,
+      "keyword": "37번째",
+      "score": 91.94,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 23,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
-      "aliases": [
-        "모독",
-        "소방",
-        "아냐",
-        "지적한"
-      ],
+      "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "대표",
-      "score": 82.71,
+      "keyword": "몽골",
+      "score": 89.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 60,
+      "best_rank": 29,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "삼성",
-      "score": 82.52,
+      "keyword": "가짜",
+      "score": 89.62,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 56,
+      "best_rank": 18,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -1291,68 +1452,71 @@
       "change": "NEW"
     },
     {
-      "keyword": "지어야",
-      "score": 79.11,
+      "keyword": "응급치료",
+      "score": 89.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 75,
+      "best_rank": 17,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "받던",
+        "중국서"
+      ],
       "rank": 15,
-      "change": -10
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "폴란드 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77086394?m=humor",
-      "score": 98.12,
-      "views": 19551,
-      "comments": 116
+      "title": "철인정치가 결국 망상인 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77087180?m=humor",
+      "score": 98.96,
+      "views": 21659,
+      "comments": 131
     },
     {
       "source": "디시인사이드",
-      "title": "속보속보 김정은 뇌출혈로 베이징 병원으로 이송중",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471729&_dcbest=1&page=1",
-      "score": 84.9,
-      "views": 15830,
-      "comments": 140
-    },
-    {
-      "source": "더쿠",
-      "title": "“부캉이, 2주밖에 못 살 수도” 벽에 머리 ‘쾅’ 이상행동…지느러미까지 찢어졌다",
-      "url": "https://theqoo.net/hot/4381105376",
-      "score": 81.0,
-      "views": 20821,
-      "comments": 283
-    },
-    {
-      "source": "인벤",
-      "title": "카리나 결별사유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742526",
-      "score": 80.05,
-      "views": 2766,
-      "comments": 30
+      "title": "와들와들 한국 서민이 시위를 하지않는이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471770&_dcbest=1&page=1",
+      "score": 88.22,
+      "views": 16971,
+      "comments": 303
     },
     {
       "source": "뽐뿌",
-      "title": "화재현장으로 돌진한 굴착기 기사",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23706",
-      "score": 76.28,
-      "views": 13512,
-      "comments": 14
+      "title": "축의금 10만원 냈더니, \"식대 11만원인데 장난하냐\" 연락한 친구",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10158051",
+      "score": 84.29,
+      "views": 24376,
+      "comments": 86
+    },
+    {
+      "source": "인벤",
+      "title": "아이돌 유사연애 시장 진짜 좀 저급하게 표현해서",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2742645",
+      "score": 79.29,
+      "views": 1586,
+      "comments": 42
     },
     {
       "source": "클리앙",
-      "title": "이재명 대통령님은 사실",
-      "url": "https://www.clien.net/service/board/park/19280092?od=T31&po=0&category=0&groupCd=",
-      "score": 76.09,
-      "views": 1380,
-      "comments": 24
+      "title": "이재명 대통령, 주택 공급 '전격전' 주문",
+      "url": "https://www.clien.net/service/board/park/19280223?od=T31&po=0&category=0&groupCd=",
+      "score": 74.32,
+      "views": 963,
+      "comments": 18
+    },
+    {
+      "source": "더쿠",
+      "title": "[속보] 세라젬 창업주, 딸 대신 신입사원 출신 직원을 입양해 ‘양자 승계’",
+      "url": "https://theqoo.net/hot/4381288083",
+      "score": 73.0,
+      "views": 29490,
+      "comments": 287
     }
   ]
 }
