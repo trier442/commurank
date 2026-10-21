@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-21",
   "label": "2026년 10월 21일",
-  "collected_at": "2026-10-21T20:37:39.210409+09:00",
+  "collected_at": "2026-10-21T23:46:47.174325+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘나오는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #부캉. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 913356,
-    "top100_comments": 11108
+    "keywords": 13,
+    "top100_views": 1110644,
+    "top100_comments": 10034
   },
   "highlights": [
     {
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#부캉",
-      "text": "3개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
       "keyword": "부캉"
     }
   ],
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-21T14:55:47.115199+09:00"
         }
       },
-      "score": 109.32,
+      "score": 109.06,
       "views": 33277,
       "likes": 240,
       "comments": 97,
@@ -88,7 +88,7 @@
           "last_seen": "2026-10-21T18:45:41.420432+09:00"
         }
       },
-      "score": 108.75,
+      "score": 108.49,
       "views": 48338,
       "likes": 399,
       "comments": 158,
@@ -117,12 +117,41 @@
           "last_seen": "2026-10-21T19:29:59.328990+09:00"
         }
       },
-      "score": 107.97,
+      "score": 107.71,
       "views": 24888,
       "likes": 167,
       "comments": 141,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "혐) 티눈갤러리 댓글.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77103124?m=humor",
+      "first_seen": "2026-10-21T23:46:47.174325+09:00",
+      "last_seen": "2026-10-21T23:46:47.174325+09:00",
+      "peak_score": 98.09,
+      "max_views": 24538,
+      "max_likes": 116,
+      "max_comments": 86,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-21": {
+          "max_score": 98.09,
+          "max_views": 24538,
+          "max_likes": 116,
+          "max_comments": 86,
+          "appearances": 1,
+          "last_seen": "2026-10-21T23:46:47.174325+09:00"
+        }
+      },
+      "score": 107.61,
+      "views": 24538,
+      "likes": 116,
+      "comments": 86,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "콜옵 신작겜... 주적에 대한 적대감 우려",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-21T13:43:48.271623+09:00"
         }
       },
-      "score": 107.49,
+      "score": 107.23,
       "views": 24078,
       "likes": 152,
       "comments": 106,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "앱등이, \"애플의 최초는 삼성보다 우월하다\"",
@@ -175,12 +204,12 @@
           "last_seen": "2026-10-21T04:32:55.970701+09:00"
         }
       },
-      "score": 106.79,
+      "score": 106.52,
       "views": 11254,
       "likes": 112,
       "comments": 76,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "한국 온다던 참피 새끼 근황",
@@ -204,12 +233,12 @@
           "last_seen": "2026-10-21T09:07:46.727522+09:00"
         }
       },
-      "score": 106.69,
+      "score": 106.42,
       "views": 27134,
       "likes": 97,
       "comments": 56,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "대마초 합법화 하자는 애들 특징",
@@ -233,12 +262,12 @@
           "last_seen": "2026-10-21T07:36:13.997079+09:00"
         }
       },
-      "score": 106.15,
+      "score": 105.89,
       "views": 11182,
       "likes": 106,
       "comments": 51,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
@@ -262,12 +291,12 @@
           "last_seen": "2026-10-21T20:37:39.210409+09:00"
         }
       },
-      "score": 105.98,
+      "score": 105.72,
       "views": 12201,
       "likes": 107,
       "comments": 78,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "동북아 국가들의 난민 안받는 법",
@@ -291,39 +320,10 @@
           "last_seen": "2026-10-21T00:20:16.266341+09:00"
         }
       },
-      "score": 105.95,
+      "score": 105.69,
       "views": 16349,
       "likes": 143,
       "comments": 138,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "ㄹㄹㅋㅍ) 서울 올일 있으면 루리커피2층 호텔에 묵어라",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77095383?m=humor",
-      "first_seen": "2026-10-21T04:32:55.970701+09:00",
-      "last_seen": "2026-10-21T04:32:55.970701+09:00",
-      "peak_score": 97.68,
-      "max_views": 9730,
-      "max_likes": 77,
-      "max_comments": 61,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-21": {
-          "max_score": 97.68,
-          "max_views": 9730,
-          "max_likes": 77,
-          "max_comments": 61,
-          "appearances": 1,
-          "last_seen": "2026-10-21T04:32:55.970701+09:00"
-        }
-      },
-      "score": 105.87,
-      "views": 9730,
-      "likes": 77,
-      "comments": 61,
       "active_days": 1,
       "change": -1
     }
@@ -331,93 +331,53 @@
   "rising": [
     {
       "source": "디시인사이드",
-      "title": "부캉부캉 부캉이 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472105&_dcbest=1&page=1",
+      "title": "네이버 시리즈의 남성향 차별 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472118&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 24270,
-      "likes": 117,
-      "comments": 291,
-      "score": 79.47,
+      "views": 16996,
+      "likes": 324,
+      "comments": 378,
+      "score": 68.01,
       "change": 0,
-      "current_rank": 6,
+      "current_rank": 28,
       "new_entry": false,
-      "delta_views": 9618,
-      "delta_likes": 38,
-      "delta_comments": 84,
+      "delta_views": 9031,
+      "delta_likes": 131,
+      "delta_comments": 133,
       "rank_gain": 0,
-      "rising_score": 92.11,
+      "rising_score": 89.68,
       "rising_rank": 1,
-      "window_minutes": 68
+      "window_minutes": 189
     },
     {
       "source": "더쿠",
-      "title": "심정지 2번 온 중환자가 깨어나서 처음으로 한 말",
-      "url": "https://theqoo.net/hot/4382631938",
-      "category": "유머",
-      "views": 47677,
+      "title": "요즘 신축아파트에 거의 없다는 것",
+      "url": "https://theqoo.net/hot/4382669565",
+      "category": "이슈",
+      "views": 87926,
       "likes": 0,
-      "comments": 303,
-      "score": 69.53,
-      "change": 10,
+      "comments": 435,
+      "score": 69.89,
+      "change": 7,
       "current_rank": 22,
       "new_entry": false,
-      "delta_views": 42688,
+      "delta_views": 63354,
       "delta_likes": 0,
-      "delta_comments": 237,
-      "rank_gain": 10,
-      "rising_score": 90.48,
+      "delta_comments": 236,
+      "rank_gain": 7,
+      "rising_score": 86.0,
       "rising_rank": 2,
-      "window_minutes": 68
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 데이트비용 여자 반응",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472114&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9682,
-      "likes": 41,
-      "comments": 300,
-      "score": 74.13,
-      "change": 24,
-      "current_rank": 11,
-      "new_entry": false,
-      "delta_views": 7616,
-      "delta_likes": 31,
-      "delta_comments": 251,
-      "rank_gain": 24,
-      "rising_score": 86.84,
-      "rising_rank": 3,
-      "window_minutes": 68
-    },
-    {
-      "source": "디시인사이드",
-      "title": "남친이 로블록스 유명 사기꾼이라 헤어짐",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472112&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9913,
-      "likes": 114,
-      "comments": 223,
-      "score": 73.43,
-      "change": 14,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 7243,
-      "delta_likes": 77,
-      "delta_comments": 159,
-      "rank_gain": 14,
-      "rising_score": 84.34,
-      "rising_rank": 4,
-      "window_minutes": 68
+      "window_minutes": 189
     },
     {
       "source": "루리웹",
-      "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77104143?m=humor",
+      "title": "혐) 티눈갤러리 댓글.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77103124?m=humor",
       "category": "이슈",
-      "views": 12201,
-      "likes": 107,
-      "comments": 78,
-      "score": 96.46,
+      "views": 24538,
+      "likes": 116,
+      "comments": 86,
+      "score": 98.09,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -425,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.51,
-      "rising_rank": 5,
-      "window_minutes": 68
+      "rising_score": 83.2,
+      "rising_rank": 3,
+      "window_minutes": 189
     },
     {
       "source": "루리웹",
-      "title": "ㅇㅇㄱ)'그 팬덤' 인식이 일반 오타쿠들에게도 안좋은 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77102653?m=humor",
+      "title": "삶은 계란이 이렇게 힘든거였나",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77105177?m=humor",
       "category": "이슈",
-      "views": 10090,
-      "likes": 188,
-      "comments": 81,
-      "score": 95.77,
+      "views": 11925,
+      "likes": 68,
+      "comments": 90,
+      "score": 94.92,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -445,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 6,
-      "window_minutes": 68
+      "rising_score": 81.87,
+      "rising_rank": 4,
+      "window_minutes": 189
     },
     {
       "source": "루리웹",
-      "title": "디시나 아카나 펨코가 왜 싫어하는지 모르는 사이트",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77101411?m=humor",
+      "title": "이번 수능때 AI 안경 현실적으로 못 잡는다는 이유 ㄷㄷ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77105073?m=humor",
       "category": "이슈",
-      "views": 15726,
-      "likes": 116,
-      "comments": 87,
-      "score": 94.67,
+      "views": 15419,
+      "likes": 113,
+      "comments": 128,
+      "score": 94.25,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -465,39 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 7,
-      "window_minutes": 68
-    },
-    {
-      "source": "디시인사이드",
-      "title": "“대통령을 제미나이로 바꾸자”…李 ‘AI 인용’에 쏟아지는 비판",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472108&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 7818,
-      "likes": 86,
-      "comments": 233,
-      "score": 68.48,
-      "change": 0,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 3753,
-      "delta_likes": 34,
-      "delta_comments": 74,
-      "rank_gain": 0,
-      "rising_score": 81.58,
-      "rising_rank": 8,
-      "window_minutes": 68
+      "rising_score": 81.59,
+      "rising_rank": 5,
+      "window_minutes": 189
     },
     {
       "source": "루리웹",
-      "title": "[PSN] 대한민국 한정 PSN 아바타 세트 (무료)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108206",
+      "title": "[PSN] 3종의 새할인, 11월 4일까지/가격 다양",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108207",
       "category": "이슈",
-      "views": 34431,
-      "likes": 82,
-      "comments": 24,
-      "score": 87.32,
+      "views": 39653,
+      "likes": 20,
+      "comments": 17,
+      "score": 90.6,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -505,29 +445,89 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.67,
-      "rising_rank": 9,
-      "window_minutes": 68
+      "rising_score": 80.05,
+      "rising_rank": 6,
+      "window_minutes": 189
     },
     {
-      "source": "디시인사이드",
-      "title": "수능시험 ai 안경을 현실적으로 못 막는다는 교육부",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472098&_dcbest=1&page=1",
+      "source": "더쿠",
+      "title": "생각보다 일본에서 정병 굉장히 심한 것",
+      "url": "https://theqoo.net/hot/4382666239",
       "category": "이슈",
-      "views": 11016,
-      "likes": 92,
-      "comments": 471,
-      "score": 68.6,
+      "views": 78256,
+      "likes": 0,
+      "comments": 555,
+      "score": 62.58,
       "change": 0,
-      "current_rank": 23,
+      "current_rank": 49,
       "new_entry": false,
-      "delta_views": 3382,
-      "delta_likes": 31,
-      "delta_comments": 69,
+      "delta_views": 53580,
+      "delta_likes": 0,
+      "delta_comments": 271,
       "rank_gain": 0,
-      "rising_score": 75.58,
+      "rising_score": 76.15,
+      "rising_rank": 7,
+      "window_minutes": 189
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[신한쏠] 야구상식 쏠퀴즈 10/21일자 정답",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119838",
+      "category": "스포츠",
+      "views": 4690,
+      "likes": 40,
+      "comments": 10,
+      "score": 81.21,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.11,
+      "rising_rank": 8,
+      "window_minutes": 189
+    },
+    {
+      "source": "루리웹",
+      "title": "소개팅에서 런닝이 취미라고 거짓말한 대가",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77106856?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 771,
+      "likes": 15,
+      "comments": 6,
+      "score": 81.03,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.03,
+      "rising_rank": 9,
+      "window_minutes": 189
+    },
+    {
+      "source": "더쿠",
+      "title": "찐 늙크크들만 아는 20년 전 초등학교 풍경",
+      "url": "https://theqoo.net/hot/4382741379",
+      "category": "유머",
+      "views": 59410,
+      "likes": 0,
+      "comments": 658,
+      "score": 80.53,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.82,
       "rising_rank": 10,
-      "window_minutes": 68
+      "window_minutes": 189
     }
   ],
   "issues": [
@@ -539,43 +539,98 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 127.93,
+      "score": 129.95,
       "peak_score": 113.46,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77104143?m=humor",
-          "score": 96.46
+          "source": "클리앙",
+          "rank": 36,
+          "title": "술 먹고 나오는 모습이 그 사람 본모습 일까요?",
+          "url": "https://www.clien.net/service/board/park/19280925?od=T31&po=0&category=0&groupCd=",
+          "score": 65.2
         },
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 90,
           "title": "계속 말 나오는 A2O lite 의상",
           "url": "https://theqoo.net/hot/4382581166",
-          "score": 70.21
+          "score": 53.95
         },
         {
-          "source": "인벤",
-          "rank": 42,
-          "title": "내년 4월에 애니로 나오는 네웹 \"일렉시드\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743293",
-          "score": 63.23
+          "source": "루리웹",
+          "rank": 96,
+          "title": "어느 야겜에 나오는 여캐릭터가 행복한 순간",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088172?m=humor_only&t=now",
+          "score": 52.76
         }
       ],
       "first_seen": "2026-10-07T21:02:54.370235+09:00",
-      "last_seen": "2026-10-21T20:37:39.210409+09:00",
+      "last_seen": "2026-10-21T23:46:47.174325+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 120.96,
+      "peak_score": 98.47,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 19,
+          "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
+          "url": "https://theqoo.net/hot/4382838021",
+          "score": 71.0
+        },
+        {
+          "source": "인벤",
+          "rank": 20,
+          "title": "속보)부캉이 돌아오다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743367",
+          "score": 70.85
+        },
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "부캉이 다시 들어왔네요",
+          "url": "https://www.clien.net/service/board/park/19280934?od=T31&po=0&category=0&groupCd=",
+          "score": 65.85
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 68,
+          "title": "부캉부캉 부캉이 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472105&_dcbest=1&page=1",
+          "score": 59.97
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-21T23:46:47.174325+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
+      "rank": 2,
+      "change": 2
     },
     {
       "id": "i9ff6bf96",
@@ -614,7 +669,7 @@
       "last_seen": "2026-10-21T19:29:59.328990+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
@@ -658,54 +713,8 @@
       "last_seen": "2026-10-21T19:29:59.328990+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": -1
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 3,
-      "post_count": 5,
-      "score": 114.94,
-      "peak_score": 98.47,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 6,
-          "title": "부캉부캉 부캉이 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472105&_dcbest=1&page=1",
-          "score": 79.47
-        },
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
-          "url": "https://theqoo.net/hot/4382571390",
-          "score": 64.89
-        },
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "상어 ‘부캉이’, 33일 만에 북항 수로 밖으로…유도작업 종료.gisa",
-          "url": "https://www.clien.net/service/board/park/19280867?od=T31&po=0&category=0&groupCd=",
-          "score": 61.31
-        }
-      ],
-      "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-21T20:37:39.210409+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 5,
       "rank": 4,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i567efd17",
@@ -743,7 +752,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 111.34,
+      "peak_score": 91.38,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "이재명, 8천톤급 핵잠에 3만톤급 드론 항모도 만든다ㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472158&_dcbest=1&page=1",
+          "score": 76.09
+        },
+        {
+          "source": "인벤",
+          "rank": 40,
+          "title": "세종과 선조 그리고 이재명 대통령에게 묻는말 -김경호 변호사-",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743377",
+          "score": 64.79
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-21T23:46:47.174325+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 3
     },
     {
       "id": "i6c387ceb",
@@ -788,8 +837,8 @@
       "last_seen": "2026-10-21T07:36:13.997079+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ice84a826",
@@ -829,8 +878,8 @@
       "last_seen": "2026-10-21T09:07:46.727522+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i40029efd",
@@ -868,54 +917,8 @@
       "last_seen": "2026-10-21T18:45:41.420432+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 110.43,
-      "peak_score": 91.38,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 74,
-          "title": "이재명 대통령 분당 아파트 매매는 아직 정리가 안된듯 합니다.",
-          "url": "https://www.clien.net/service/board/park/19280859?od=T31&po=0&category=0&groupCd=",
-          "score": 55.27
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 85,
-          "title": "안농운 제미나이로 이재명 반격",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160107",
-          "score": 53.65
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 91,
-          "title": "[단독] 이재명 대통령, 제주서 2박 3일 골프 치려 했나…공역통제 신청",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472061&_dcbest=1&page=1",
-          "score": 51.81
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-21T20:37:39.210409+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 9,
-      "change": -2
+      "change": -1
     },
     {
       "id": "ib884afec",
@@ -955,7 +958,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -2
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -965,41 +968,49 @@
       "keywords": [
         "부캉이"
       ],
-      "source_count": 3,
-      "post_count": 5,
-      "score": 98.47,
-      "peak_score": 98.47,
+      "source_count": 4,
+      "post_count": 4,
+      "score": 96.0,
+      "peak_score": 96.0,
       "appearances": 1,
       "sources": [
         "더쿠",
         "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 6,
-          "title": "부캉부캉 부캉이 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472105&_dcbest=1&page=1",
-          "score": 79.47
+          "source": "더쿠",
+          "rank": 19,
+          "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
+          "url": "https://theqoo.net/hot/4382838021",
+          "score": 71.0
         },
         {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
-          "url": "https://theqoo.net/hot/4382571390",
-          "score": 64.89
+          "source": "인벤",
+          "rank": 20,
+          "title": "속보)부캉이 돌아오다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743367",
+          "score": 70.85
         },
         {
           "source": "클리앙",
-          "rank": 49,
-          "title": "상어 ‘부캉이’, 33일 만에 북항 수로 밖으로…유도작업 종료.gisa",
-          "url": "https://www.clien.net/service/board/park/19280867?od=T31&po=0&category=0&groupCd=",
-          "score": 61.31
+          "rank": 34,
+          "title": "부캉이 다시 들어왔네요",
+          "url": "https://www.clien.net/service/board/park/19280934?od=T31&po=0&category=0&groupCd=",
+          "score": 65.85
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 68,
+          "title": "부캉부캉 부캉이 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472105&_dcbest=1&page=1",
+          "score": 59.97
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "id50390b0",
@@ -1009,39 +1020,39 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 113.46,
-      "peak_score": 113.46,
+      "score": 82.2,
+      "peak_score": 82.2,
       "appearances": 1,
       "sources": [
         "더쿠",
         "루리웹",
-        "인벤"
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77104143?m=humor",
-          "score": 96.46
+          "source": "클리앙",
+          "rank": 36,
+          "title": "술 먹고 나오는 모습이 그 사람 본모습 일까요?",
+          "url": "https://www.clien.net/service/board/park/19280925?od=T31&po=0&category=0&groupCd=",
+          "score": 65.2
         },
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 90,
           "title": "계속 말 나오는 A2O lite 의상",
           "url": "https://theqoo.net/hot/4382581166",
-          "score": 70.21
+          "score": 53.95
         },
         {
-          "source": "인벤",
-          "rank": 42,
-          "title": "내년 4월에 애니로 나오는 네웹 \"일렉시드\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743293",
-          "score": 63.23
+          "source": "루리웹",
+          "rank": 96,
+          "title": "어느 야겜에 나오는 여캐릭터가 행복한 순간",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77088172?m=humor_only&t=now",
+          "score": 52.76
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -1049,41 +1060,33 @@
       "keywords": [
         "이재명"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 72.27,
-      "peak_score": 72.27,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.09,
+      "peak_score": 85.09,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "클리앙"
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 74,
-          "title": "이재명 대통령 분당 아파트 매매는 아직 정리가 안된듯 합니다.",
-          "url": "https://www.clien.net/service/board/park/19280859?od=T31&po=0&category=0&groupCd=",
-          "score": 55.27
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 85,
-          "title": "안농운 제미나이로 이재명 반격",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160107",
-          "score": 53.65
-        },
-        {
           "source": "디시인사이드",
-          "rank": 91,
-          "title": "[단독] 이재명 대통령, 제주서 2박 3일 골프 치려 했나…공역통제 신청",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472061&_dcbest=1&page=1",
-          "score": 51.81
+          "rank": 10,
+          "title": "이재명, 8천톤급 핵잠에 3만톤급 드론 항모도 만든다ㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472158&_dcbest=1&page=1",
+          "score": 76.09
+        },
+        {
+          "source": "인벤",
+          "rank": 40,
+          "title": "세종과 선조 그리고 이재명 대통령에게 묻는말 -김경호 변호사-",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743377",
+          "score": 64.79
         }
       ],
       "rank": 3,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5781c296",
@@ -1092,9 +1095,9 @@
         "네이버"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 89.63,
-      "peak_score": 89.63,
+      "post_count": 2,
+      "score": 78.77,
+      "peak_score": 78.77,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1102,297 +1105,186 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "네이버 시리즈의 남성향 차별 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472118&_dcbest=1&page=1",
-          "score": 79.63
+          "source": "뽐뿌",
+          "rank": 24,
+          "title": "[네이버] 초벌 소곱창 200g 1팩 (4,900원/2팩 네멤무배)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=742027",
+          "score": 69.77
         },
         {
-          "source": "뽐뿌",
-          "rank": 9,
-          "title": "[네이버] 국산 사계절 알러지케어 이불 (19,400원/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=741970",
-          "score": 75.61
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "네이버 시리즈의 남성향 차별 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472118&_dcbest=1&page=1",
+          "score": 68.01
         }
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "i2996d19f",
-      "title": "남친이 로블록스 유명 사기꾼이라 헤어짐",
+      "id": "i17c681e7",
+      "title": "심정지 2번 온 중환자가 깨어나서 처음으로 한 말",
       "keywords": [
-        "로블록스",
-        "남친이"
+        "심정지",
+        "2번",
+        "처음으로",
+        "깨어나서",
+        "중환자가"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.43,
-      "peak_score": 81.43,
+      "score": 64.76,
+      "peak_score": 64.76,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "남친이 로블록스 유명 사기꾼이라 헤어짐",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472112&_dcbest=1&page=1",
-          "score": 73.43
+          "source": "더쿠",
+          "rank": 79,
+          "title": "심정지 2번 온 중환자가 깨어나서 처음으로 한 말",
+          "url": "https://theqoo.net/hot/4382631938",
+          "score": 56.76
         },
         {
           "source": "인벤",
-          "rank": 68,
-          "title": "남친이 로블록스 네임드라 헤어진 여자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743276",
-          "score": 56.37
+          "rank": 89,
+          "title": "심정지 2번 온 중환자가 깨어나서 처음으로 한 말",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743361",
+          "score": 54.4
         }
       ],
       "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i31aff101",
-      "title": "김여정 “이달 중 대남확성기 전 국경선 가동…정당한 조치”",
-      "keywords": [
-        "가동",
-        "이달",
-        "김여정",
-        "정당한",
-        "대남확성기",
-        "국경선"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.94,
-      "peak_score": 79.94,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 15,
-          "title": "김여정 “이달 중 대남확성기 전 국경선 가동…정당한 조치”",
-          "url": "https://www.clien.net/service/board/park/19280879?od=T31&po=0&category=0&groupCd=",
-          "score": 71.94
-        },
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "김여정 “이달 중 대남확성기 전 국경선 가동…정당한 조치”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743290",
-          "score": 65.6
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i8ae3537d",
-      "title": "‘제미나이로’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "제미나이로"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.48,
-      "peak_score": 77.48,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "“대통령을 제미나이로 바꾸자”…李 ‘AI 인용’에 쏟아지는 비판",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472108&_dcbest=1&page=1",
-          "score": 68.48
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 85,
-          "title": "안농운 제미나이로 이재명 반격",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160107",
-          "score": 53.65
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "ib3876eed",
-      "title": "‘생각보다’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "생각보다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.84,
-      "peak_score": 76.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "생각보다 일본에서 정병 굉장히 심한 것",
-          "url": "https://theqoo.net/hot/4382666239",
-          "score": 67.84
-        },
-        {
-          "source": "루리웹",
-          "rank": 62,
-          "title": "노동의 특이점이 생각보다 훨씬 빨리 오는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77104659?m=humor_only&t=now",
-          "score": 59.37
-        }
-      ],
-      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "부캉",
-      "score": 137.18,
-      "post_count": 5,
-      "source_count": 3,
-      "best_rank": 6,
+      "score": 150.87,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 19,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 1
-    },
-    {
-      "keyword": "이재명",
-      "score": 135.7,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 74,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": -1
+      "rank": 1,
+      "change": 0
     },
     {
-      "keyword": "나오",
-      "score": 134.39,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 1,
+      "keyword": "ai",
+      "score": 115.21,
+      "post_count": 5,
+      "source_count": 2,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
-      "rank": 3,
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 112.08,
+      "keyword": "나오",
+      "score": 109.52,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 36,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": 0
+    },
+    {
+      "keyword": "단독",
+      "score": 99.69,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 19,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "네이버",
-      "score": 110.93,
-      "post_count": 3,
+      "keyword": "이재명",
+      "score": 99.46,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 10,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": -3
+    },
+    {
+      "keyword": "네이버",
+      "score": 95.29,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 24,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "최신",
-      "score": 105.97,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 13,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "국산",
-      "score": 99.28,
+      "keyword": "남친",
+      "score": 91.34,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 27,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "대남확성기",
-      "score": 97.49,
+      "keyword": "vs",
+      "score": 86.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 23,
       "sources": [
         "인벤",
         "클리앙"
       ],
-      "aliases": [
-        "가동",
-        "국경선",
-        "김여정",
-        "이달",
-        "정당한"
-      ],
+      "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "직업",
-      "score": 95.28,
+      "keyword": "먹는",
+      "score": 84.34,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 47,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1401,37 +1293,21 @@
     },
     {
       "keyword": "일본",
-      "score": 93.94,
-      "post_count": 3,
+      "score": 84.29,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 49,
       "sources": [
         "더쿠",
         "루리웹"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "로블록스",
-      "score": 93.61,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [
-        "남친"
-      ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "상어",
-      "score": 89.71,
+      "keyword": "모습",
+      "score": 83.2,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 36,
@@ -1440,100 +1316,91 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": -6
-    },
-    {
-      "keyword": "수로",
-      "score": 88.04,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 47,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
+      "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "한강버스",
-      "score": 86.55,
+      "keyword": "축제",
+      "score": 81.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "제미나이로",
-      "score": 86.14,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 43,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 15,
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "깨어나서",
+      "score": 77.64,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 79,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "2번",
+        "심정지",
+        "중환자",
+        "처음"
+      ],
+      "rank": 13,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77104143?m=humor",
-      "score": 96.46,
-      "views": 12201,
-      "comments": 78
-    },
-    {
-      "source": "디시인사이드",
-      "title": "네이버 시리즈의 남성향 차별 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472118&_dcbest=1&page=1",
-      "score": 79.63,
-      "views": 7965,
-      "comments": 245
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ) 호불호 갈리는 취향",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743291",
-      "score": 78.16,
-      "views": 1411,
-      "comments": 12
-    },
-    {
-      "source": "클리앙",
-      "title": "폐기 예정 빵 3조각 먹었다고… 어린이집 교사 '횡령' 권고사직.gisa",
-      "url": "https://www.clien.net/service/board/park/19280876?od=T31&po=0&category=0&groupCd=",
-      "score": 75.87,
-      "views": 1372,
-      "comments": 11
+      "title": "혐) 티눈갤러리 댓글.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77103124?m=humor",
+      "score": 98.09,
+      "views": 24538,
+      "comments": 86
     },
     {
       "source": "뽐뿌",
-      "title": "[네이버] 국산 사계절 알러지케어 이불 (19,400원/무료)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=741970",
-      "score": 75.61,
-      "views": 7816,
-      "comments": 7
+      "title": "[신한쏠] 야구상식 쏠퀴즈 10/21일자 정답",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119838",
+      "score": 81.21,
+      "views": 4690,
+      "comments": 10
     },
     {
       "source": "더쿠",
-      "title": "계속 말 나오는 A2O lite 의상",
-      "url": "https://theqoo.net/hot/4382581166",
-      "score": 70.21,
-      "views": 55900,
-      "comments": 605
+      "title": "찐 늙크크들만 아는 20년 전 초등학교 풍경",
+      "url": "https://theqoo.net/hot/4382741379",
+      "score": 80.53,
+      "views": 59410,
+      "comments": 658
+    },
+    {
+      "source": "인벤",
+      "title": "ㅎㅂ) 의외로 은근 수요 있는 몸매.",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743375",
+      "score": 77.27,
+      "views": 746,
+      "comments": 7
+    },
+    {
+      "source": "디시인사이드",
+      "title": "중국감독이 만든 장기적출 영화 우리나라에서 상영금지됨",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472144&_dcbest=1&page=1",
+      "score": 76.48,
+      "views": 8456,
+      "comments": 240
+    },
+    {
+      "source": "클리앙",
+      "title": "리트와 메트 팝업스토어 갔다왔습니다",
+      "url": "https://www.clien.net/service/board/park/19280942?od=T31&po=0&category=0&groupCd=",
+      "score": 71.87,
+      "views": 102,
+      "comments": 0
     }
   ]
 }
