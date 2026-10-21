@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-22T01:08:04.674749+09:00",
+  "collected_at": "2026-10-22T04:02:59.626679+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -96,9 +96,9 @@
       ],
       "source_count": 4,
       "post_count": 5,
-      "score": 123.52,
-      "peak_score": 98.47,
-      "appearances": 4,
+      "score": 130.3,
+      "peak_score": 104.34,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -108,38 +108,24 @@
       ],
       "posts": [
         {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "부캉이 이제 머 어찌할수없는이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77107022?m=humor",
+          "score": 95.34
+        },
+        {
           "source": "더쿠",
-          "rank": 9,
+          "rank": 28,
           "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
           "url": "https://theqoo.net/hot/4382838021",
-          "score": 72.53
-        },
-        {
-          "source": "클리앙",
-          "rank": 86,
-          "title": "부캉이 다시 들어왔네요",
-          "url": "https://www.clien.net/service/board/park/19280934?od=T31&po=0&category=0&groupCd=",
-          "score": 55.15
-        },
-        {
-          "source": "루리웹",
-          "rank": 88,
-          "title": "부캉이 민원 예상",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77107481?m=humor_only&t=now",
-          "score": 54.6
-        },
-        {
-          "source": "인벤",
-          "rank": 93,
-          "title": "속보)부캉이 돌아오다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743367",
-          "score": 54.06
+          "score": 64.89
         }
       ],
       "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-22T01:08:04.674749+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-22T04:02:59.626679+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 3,
       "change": 0
     },
@@ -806,7 +792,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib884afec",
@@ -846,7 +832,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
