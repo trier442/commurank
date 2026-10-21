@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-22T07:18:24.604161+09:00",
+  "collected_at": "2026-10-22T08:24:39.108381+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -131,6 +131,47 @@
       "change": 0
     },
     {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 133.76,
+      "peak_score": 104.34,
+      "appearances": 11,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 48,
+          "title": "속보) 부캉이, 외부 차단벽 돌파하고 수로 재진입 성공",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108779?m=humor_only&t=now",
+          "score": 63.23
+        },
+        {
+          "source": "더쿠",
+          "rank": 69,
+          "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
+          "url": "https://theqoo.net/hot/4382838021",
+          "score": 58.42
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-22T08:24:39.108381+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 1
+    },
+    {
       "id": "id50390b0",
       "title": "‘나오는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -167,50 +208,8 @@
       "last_seen": "2026-10-22T01:08:04.674749+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "수로 밖으로 몰아낸 부캉이 근황.jpg",
-      "keywords": [
-        "부캉이",
-        "수로"
-      ],
-      "source_count": 4,
-      "post_count": 5,
-      "score": 133.33,
-      "peak_score": 104.34,
-      "appearances": 10,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "수로 밖으로 몰아낸 부캉이 근황.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77106024?m=humor",
-          "score": 93.8
-        },
-        {
-          "source": "더쿠",
-          "rank": 33,
-          "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
-          "url": "https://theqoo.net/hot/4382838021",
-          "score": 64.89
-        }
-      ],
-      "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-22T05:12:54.190152+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 5,
-      "change": 0
+      "change": -1
     },
     {
       "id": "if553a5cf",
