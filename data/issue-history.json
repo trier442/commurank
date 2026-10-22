@@ -1,6 +1,47 @@
 {
   "version": 1,
   "issues": {
+    "i889c1c6e": {
+      "id": "i889c1c6e",
+      "first_seen": "2026-10-23T08:39:53.250469+09:00",
+      "last_seen": "2026-10-23T08:39:53.250469+09:00",
+      "title": "‘etf’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "etf"
+      ],
+      "points": [
+        {
+          "at": "2026-10-23T08:39:53.250469+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.58,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743963",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=445646"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "단일종목 ETF 레버리지 개인 손실 6.3조",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743963",
+          "score": 73.58
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 38,
+          "title": "미국 etf 개박살중 ㅡㅡㅡㅡ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=445646",
+          "score": 62.75
+        }
+      ]
+    },
     "ib3876eed": {
       "id": "ib3876eed",
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
@@ -34862,48 +34903,7 @@
           "score": 59.68
         }
       ]
-    },
-    "i279df47e": {
-      "id": "i279df47e",
-      "first_seen": "2026-10-01T08:10:08.976041+09:00",
-      "last_seen": "2026-10-01T08:10:08.976041+09:00",
-      "title": "‘끝까지’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "끝까지"
-      ],
-      "points": [
-        {
-          "at": "2026-10-01T08:10:08.976041+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 74.68,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4361634281",
-            "https://www.inven.co.kr/board/webzine/2097/2734648"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 28,
-          "title": "드라마 안본 사람들은 욕하고 끝까지 본 사람들은 눈물 흘리는 사두용미의 아이콘 한국 드라마 3개..jpgif",
-          "url": "https://theqoo.net/hot/4361634281",
-          "score": 65.68
-        },
-        {
-          "source": "인벤",
-          "rank": 55,
-          "title": "내향인은 끝까지 못보는 영상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734648",
-          "score": 60.54
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-23T07:45:21.151398+09:00"
+  "updated_at": "2026-10-23T08:39:53.250469+09:00"
 }
