@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-23",
   "label": "2026년 10월 23일",
-  "collected_at": "2026-10-23T00:40:21.273261+09:00",
+  "collected_at": "2026-10-23T02:33:10.347544+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘앞두고’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #관세청. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘앞두고’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 1,
-    "keywords": 15,
-    "top100_views": 830181,
-    "top100_comments": 8053
+    "daily_issues": 3,
+    "keywords": 9,
+    "top100_views": 756120,
+    "top100_comments": 7123
   },
   "highlights": [
     {
@@ -25,46 +25,104 @@
     },
     {
       "type": "post",
-      "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
+      "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117248?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117552?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#관세청",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "관세청"
+      "title": "#단독",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
+    {
+      "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117552?m=humor",
+      "first_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "peak_score": 97.06,
+      "max_views": 11054,
+      "max_likes": 99,
+      "max_comments": 97,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 97.06,
+          "max_views": 11054,
+          "max_likes": 99,
+          "max_comments": 97,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
+        }
+      },
+      "score": 107.48,
+      "views": 11054,
+      "likes": 99,
+      "comments": 97,
+      "active_days": 1,
+      "change": 2
+    },
+    {
+      "title": "삼성의 반도체 공장 요구 사항",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117059?m=humor",
+      "first_seen": "2026-10-23T02:33:10.347544+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "peak_score": 97.02,
+      "max_views": 22090,
+      "max_likes": 116,
+      "max_comments": 132,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 97.02,
+          "max_views": 22090,
+          "max_likes": 116,
+          "max_comments": 132,
+          "appearances": 1,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
+        }
+      },
+      "score": 106.54,
+      "views": 22090,
+      "likes": 116,
+      "comments": 132,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
       "source": "루리웹",
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77117248?m=humor",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "peak_score": 95.77,
-      "max_views": 11142,
-      "max_likes": 128,
-      "max_comments": 93,
-      "appearances": 1,
+      "max_views": 12631,
+      "max_likes": 132,
+      "max_comments": 97,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 95.77,
-          "max_views": 11142,
-          "max_likes": 128,
-          "max_comments": 93,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
+          "max_views": 12631,
+          "max_likes": 132,
+          "max_comments": 97,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 105.29,
-      "views": 11142,
-      "likes": 128,
-      "comments": 93,
+      "score": 106.19,
+      "views": 12631,
+      "likes": 132,
+      "comments": 97,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "유럽 입장에서 몽골이 자연재해였던 이유",
@@ -88,41 +146,12 @@
           "last_seen": "2026-10-23T00:40:21.273261+09:00"
         }
       },
-      "score": 105.14,
+      "score": 104.99,
       "views": 11354,
       "likes": 62,
       "comments": 102,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117552?m=humor",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
-      "peak_score": 93.0,
-      "max_views": 9592,
-      "max_likes": 87,
-      "max_comments": 95,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 93.0,
-          "max_views": 9592,
-          "max_likes": 87,
-          "max_comments": 95,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
-        }
-      },
-      "score": 102.52,
-      "views": 9592,
-      "likes": 87,
-      "comments": 95,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "김민새] 모든 연령, 지역, 이념별 트리플 크라운 달성",
@@ -130,28 +159,57 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161382",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "peak_score": 84.83,
-      "max_views": 5714,
-      "max_likes": 51,
-      "max_comments": 36,
-      "appearances": 1,
+      "max_views": 8047,
+      "max_likes": 71,
+      "max_comments": 40,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 84.83,
-          "max_views": 5714,
-          "max_likes": 51,
-          "max_comments": 36,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
+          "max_views": 8047,
+          "max_likes": 71,
+          "max_comments": 40,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 94.35,
-      "views": 5714,
-      "likes": 51,
-      "comments": 36,
+      "score": 95.25,
+      "views": 8047,
+      "likes": 71,
+      "comments": 40,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
+    },
+    {
+      "title": "날씨가 이쯤 되면 진짜 제각각이 되는 홈웨어 상황.jpg",
+      "source": "더쿠",
+      "category": "이슈",
+      "url": "https://theqoo.net/hot/4383752289",
+      "first_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "peak_score": 82.84,
+      "max_views": 30407,
+      "max_likes": 0,
+      "max_comments": 399,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 82.84,
+          "max_views": 30407,
+          "max_likes": 0,
+          "max_comments": 399,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
+        }
+      },
+      "score": 93.26,
+      "views": 30407,
+      "likes": 0,
+      "comments": 399,
+      "active_days": 1,
+      "change": 10
     },
     {
       "title": "10년전 서울대생의 소름돋는 예언.jpg",
@@ -159,28 +217,28 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161435",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "peak_score": 80.27,
-      "max_views": 23538,
-      "max_likes": 4,
-      "max_comments": 63,
-      "appearances": 1,
+      "max_views": 30724,
+      "max_likes": 6,
+      "max_comments": 77,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 80.27,
-          "max_views": 23538,
-          "max_likes": 4,
-          "max_comments": 63,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
+          "max_views": 30724,
+          "max_likes": 6,
+          "max_comments": 77,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 89.79,
-      "views": 23538,
-      "likes": 4,
-      "comments": 63,
+      "score": 90.69,
+      "views": 30724,
+      "likes": 6,
+      "comments": 77,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "필반 -5% 이거 뭔가요.. .?",
@@ -188,26 +246,55 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19281299?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "peak_score": 79.67,
-      "max_views": 2092,
+      "max_views": 3288,
       "max_likes": 0,
       "max_comments": 9,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 79.67,
-          "max_views": 2092,
+          "max_views": 3288,
           "max_likes": 0,
           "max_comments": 9,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 89.19,
-      "views": 2092,
+      "score": 90.09,
+      "views": 3288,
       "likes": 0,
       "comments": 9,
+      "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "네이버페이 페이스사인? 빨리 쓰세요.. 개꿀이에요",
+      "source": "뽐뿌",
+      "category": "이슈",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548926",
+      "first_seen": "2026-10-23T02:33:10.347544+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "peak_score": 79.97,
+      "max_views": 16048,
+      "max_likes": 5,
+      "max_comments": 40,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 79.97,
+          "max_views": 16048,
+          "max_likes": 5,
+          "max_comments": 40,
+          "appearances": 1,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
+        }
+      },
+      "score": 89.49,
+      "views": 16048,
+      "likes": 5,
+      "comments": 40,
       "active_days": 1,
       "change": "NEW"
     },
@@ -217,187 +304,120 @@
       "category": "생활",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472398&_dcbest=1&page=1",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "peak_score": 76.34,
-      "max_views": 11335,
-      "max_likes": 109,
-      "max_comments": 353,
-      "appearances": 1,
+      "max_views": 14282,
+      "max_likes": 129,
+      "max_comments": 391,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 76.34,
-          "max_views": 11335,
-          "max_likes": 109,
-          "max_comments": 353,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
+          "max_views": 14282,
+          "max_likes": 129,
+          "max_comments": 391,
+          "appearances": 2,
+          "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 85.86,
-      "views": 11335,
-      "likes": 109,
-      "comments": 353,
+      "score": 86.76,
+      "views": 14282,
+      "likes": 129,
+      "comments": 391,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "트럼프 근황ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472396&_dcbest=1&page=1",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
-      "peak_score": 76.32,
-      "max_views": 13479,
-      "max_likes": 210,
-      "max_comments": 238,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 76.32,
-          "max_views": 13479,
-          "max_likes": 210,
-          "max_comments": 238,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
-        }
-      },
-      "score": 85.84,
-      "views": 13479,
-      "likes": 210,
-      "comments": 238,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "편의점 여직원 성추행하는 마스크 할아버지 ㄷ..gif",
-      "source": "뽐뿌",
-      "category": "생활",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161507",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
-      "peak_score": 75.69,
-      "max_views": 5972,
-      "max_likes": 0,
-      "max_comments": 14,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 75.69,
-          "max_views": 5972,
-          "max_likes": 0,
-          "max_comments": 14,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
-        }
-      },
-      "score": 85.21,
-      "views": 5972,
-      "likes": 0,
-      "comments": 14,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "트위터 실트오른 세븐틴 우지 개인고소 총공 해시태그",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4383683615",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
-      "peak_score": 75.21,
-      "max_views": 38216,
-      "max_likes": 0,
-      "max_comments": 435,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 75.21,
-          "max_views": 38216,
-          "max_likes": 0,
-          "max_comments": 435,
-          "appearances": 1,
-          "last_seen": "2026-10-23T00:40:21.273261+09:00"
-        }
-      },
-      "score": 84.73,
-      "views": 38216,
-      "likes": 0,
-      "comments": 435,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "실시간 실종설 해명중인 유튜버 길바닥",
-      "url": "https://theqoo.net/hot/4383608549",
+      "source": "디시인사이드",
+      "title": "문신 있는 노처녀들한테 현타온 엉가남.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472416&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 90176,
-      "likes": 0,
-      "comments": 302,
-      "score": 56.42,
-      "change": 0,
-      "current_rank": 75,
+      "views": 9805,
+      "likes": 169,
+      "comments": 235,
+      "score": 72.7,
+      "change": 21,
+      "current_rank": 13,
       "new_entry": false,
-      "delta_views": 69279,
-      "delta_likes": 0,
-      "delta_comments": 157,
-      "rank_gain": 0,
-      "rising_score": 100.0,
+      "delta_views": 8071,
+      "delta_likes": 144,
+      "delta_comments": 181,
+      "rank_gain": 21,
+      "rising_score": 96.79,
       "rising_rank": 1,
-      "window_minutes": 190
+      "window_minutes": 113
+    },
+    {
+      "source": "더쿠",
+      "title": "날씨가 이쯤 되면 진짜 제각각이 되는 홈웨어 상황.jpg",
+      "url": "https://theqoo.net/hot/4383752289",
+      "category": "이슈",
+      "views": 30407,
+      "likes": 0,
+      "comments": 399,
+      "score": 82.84,
+      "change": 12,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 20966,
+      "delta_likes": 0,
+      "delta_comments": 192,
+      "rank_gain": 12,
+      "rising_score": 94.58,
+      "rising_rank": 2,
+      "window_minutes": 113
+    },
+    {
+      "source": "인벤",
+      "title": "강남 아파트 문화 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743895",
+      "category": "이슈",
+      "views": 2289,
+      "likes": 0,
+      "comments": 14,
+      "score": 64.15,
+      "change": 0,
+      "current_rank": 34,
+      "new_entry": false,
+      "delta_views": 1709,
+      "delta_likes": 0,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 89.23,
+      "rising_rank": 3,
+      "window_minutes": 113
     },
     {
       "source": "디시인사이드",
-      "title": "[단독] 북한 IT 인력, 한국기업 취업 첫 확인‥\"수사 중\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472388&_dcbest=1&page=1",
+      "title": "싱글벙글 관찰하러 온 제작진에게 교미를 시도하는 앵무새",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472418&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 9046,
-      "likes": 66,
-      "comments": 127,
-      "score": 58.94,
+      "views": 6236,
+      "likes": 46,
+      "comments": 39,
+      "score": 57.22,
       "change": 0,
-      "current_rank": 59,
+      "current_rank": 70,
       "new_entry": false,
-      "delta_views": 8734,
-      "delta_likes": 55,
-      "delta_comments": 122,
+      "delta_views": 5030,
+      "delta_likes": 38,
+      "delta_comments": 33,
       "rank_gain": 0,
-      "rising_score": 85.0,
-      "rising_rank": 2,
-      "window_minutes": 190
+      "rising_score": 82.94,
+      "rising_rank": 4,
+      "window_minutes": 113
     },
     {
       "source": "루리웹",
-      "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117248?m=humor",
+      "title": "삼성의 반도체 공장 요구 사항",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117059?m=humor",
       "category": "이슈",
-      "views": 11142,
-      "likes": 128,
-      "comments": 93,
-      "score": 95.77,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 3,
-      "window_minutes": 190
-    },
-    {
-      "source": "루리웹",
-      "title": "유럽 입장에서 몽골이 자연재해였던 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117171?m=humor",
-      "category": "스포츠",
-      "views": 11354,
-      "likes": 62,
-      "comments": 102,
-      "score": 95.62,
+      "views": 22090,
+      "likes": 116,
+      "comments": 132,
+      "score": 97.02,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,79 +425,79 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.16,
-      "rising_rank": 4,
-      "window_minutes": 190
+      "rising_score": 82.75,
+      "rising_rank": 5,
+      "window_minutes": 113
+    },
+    {
+      "source": "더쿠",
+      "title": "많은 사람들이 퇴사하느니 자살하는게 낫다고 생각하는 이유.jpg",
+      "url": "https://theqoo.net/hot/4383712660",
+      "category": "이슈",
+      "views": 39552,
+      "likes": 0,
+      "comments": 192,
+      "score": 61.05,
+      "change": 0,
+      "current_rank": 52,
+      "new_entry": false,
+      "delta_views": 20666,
+      "delta_likes": 0,
+      "delta_comments": 82,
+      "rank_gain": 0,
+      "rising_score": 81.25,
+      "rising_rank": 6,
+      "window_minutes": 113
+    },
+    {
+      "source": "클리앙",
+      "title": "필반 -5% 이거 뭔가요.. .?",
+      "url": "https://www.clien.net/service/board/park/19281299?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3288,
+      "likes": 0,
+      "comments": 9,
+      "score": 68.61,
+      "change": 0,
+      "current_rank": 17,
+      "new_entry": false,
+      "delta_views": 1196,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.57,
+      "rising_rank": 7,
+      "window_minutes": 113
     },
     {
       "source": "디시인사이드",
-      "title": "듀오 : 폴드8 퀄리티 차이 ㅈㄴ 심해보이네 ㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472380&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 19678,
-      "likes": 137,
-      "comments": 472,
-      "score": 71.65,
+      "title": "관세청 통관신청 후기 6 (관세심사위원회 출석 및 진술)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472406&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 10152,
+      "likes": 226,
+      "comments": 205,
+      "score": 67.41,
       "change": 0,
-      "current_rank": 15,
+      "current_rank": 20,
       "new_entry": false,
-      "delta_views": 10343,
-      "delta_likes": 34,
-      "delta_comments": 247,
+      "delta_views": 2497,
+      "delta_likes": 32,
+      "delta_comments": 53,
       "rank_gain": 0,
-      "rising_score": 81.11,
-      "rising_rank": 5,
-      "window_minutes": 190
-    },
-    {
-      "source": "루리웹",
-      "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117552?m=humor",
-      "category": "이슈",
-      "views": 9592,
-      "likes": 87,
-      "comments": 95,
-      "score": 93.0,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.06,
-      "rising_rank": 6,
-      "window_minutes": 190
+      "rising_score": 76.59,
+      "rising_rank": 8,
+      "window_minutes": 113
     },
     {
       "source": "뽐뿌",
-      "title": "김민새] 모든 연령, 지역, 이념별 트리플 크라운 달성",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161382",
+      "title": "네이버페이 페이스사인? 빨리 쓰세요.. 개꿀이에요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548926",
       "category": "이슈",
-      "views": 5714,
-      "likes": 51,
-      "comments": 36,
-      "score": 84.83,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.63,
-      "rising_rank": 7,
-      "window_minutes": 190
-    },
-    {
-      "source": "뽐뿌",
-      "title": "10년전 서울대생의 소름돋는 예언.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161435",
-      "category": "이슈",
-      "views": 23538,
-      "likes": 4,
-      "comments": 63,
-      "score": 80.27,
+      "views": 16048,
+      "likes": 5,
+      "comments": 40,
+      "score": 79.97,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -485,39 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.71,
-      "rising_rank": 8,
-      "window_minutes": 190
-    },
-    {
-      "source": "디시인사이드",
-      "title": "야구선수 똥군기+하극상+내로남불 goat",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472386&_dcbest=1&page=1",
-      "category": "스포츠",
-      "views": 11865,
-      "likes": 171,
-      "comments": 145,
-      "score": 65.17,
-      "change": 0,
-      "current_rank": 30,
-      "new_entry": false,
-      "delta_views": 7504,
-      "delta_likes": 62,
-      "delta_comments": 98,
-      "rank_gain": 0,
-      "rising_score": 75.56,
+      "rising_score": 75.59,
       "rising_rank": 9,
-      "window_minutes": 190
+      "window_minutes": 113
     },
     {
-      "source": "클리앙",
-      "title": "필반 -5% 이거 뭔가요.. .?",
-      "url": "https://www.clien.net/service/board/park/19281299?od=T31&po=0&category=0&groupCd=",
+      "source": "뽐뿌",
+      "title": "와.. 10년안에 사라질 직업 TOP 10 ㄷㄷ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161434",
       "category": "이슈",
-      "views": 2092,
-      "likes": 0,
-      "comments": 9,
-      "score": 79.67,
+      "views": 23785,
+      "likes": 4,
+      "comments": 64,
+      "score": 76.57,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,9 +525,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.46,
+      "rising_score": 74.16,
       "rising_rank": 10,
-      "window_minutes": 190
+      "window_minutes": 113
     }
   ],
   "issues": [
@@ -539,9 +539,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.84,
+      "score": 94.86,
       "peak_score": 83.37,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "인벤"
@@ -549,28 +549,138 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 12,
+          "rank": 19,
           "title": "\"다문화가정에 왜 양보해야 하나요?\"…어린이집 입소 앞두고 학부모 '폭발'",
           "url": "https://theqoo.net/hot/4383690051",
-          "score": 74.37
+          "score": 67.74
         },
         {
           "source": "인벤",
-          "rank": 73,
-          "title": "내일 오세훈 선고 앞두고 명태균 SNS",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743873",
-          "score": 56.72
+          "rank": 63,
+          "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
+          "score": 58.92
         }
       ],
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T00:40:21.273261+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "ifeed66d7",
+      "title": "‘김건희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김건희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.99,
+      "peak_score": 83.52,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
+          "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
+          "score": 74.52
+        },
+        {
+          "source": "인벤",
+          "rank": 63,
+          "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
+          "score": 58.92
+        }
+      ],
+      "first_seen": "2026-10-19T09:26:39.061877+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i75cc7e14",
+      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "넷플릭스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.73,
+      "peak_score": 75.26,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 22,
+          "title": "송혜교 공유 800억 넷플릭스 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161492",
+          "score": 66.26
+        },
+        {
+          "source": "클리앙",
+          "rank": 92,
+          "title": "넷플릭스, 건담 (또는 애니), 그리고 일본 국내 시청",
+          "url": "https://www.clien.net/service/board/park/19281307?od=T31&po=0&category=0&groupCd=",
+          "score": 52.07
+        }
+      ],
+      "first_seen": "2026-10-23T02:33:10.347544+09:00",
+      "last_seen": "2026-10-23T02:33:10.347544+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
       "change": "NEW"
     }
   ],
   "realtime_issues": [
+    {
+      "id": "ifeed66d7",
+      "title": "‘김건희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김건희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.52,
+      "peak_score": 83.52,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
+          "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
+          "score": 74.52
+        },
+        {
+          "source": "인벤",
+          "rank": 63,
+          "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
+          "score": 58.92
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ib42d9061",
       "title": "‘앞두고’ 관련 글이 여러 커뮤니티에서 화제",
@@ -579,8 +689,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.37,
-      "peak_score": 83.37,
+      "score": 76.74,
+      "peak_score": 76.74,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -589,30 +699,79 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 12,
+          "rank": 19,
           "title": "\"다문화가정에 왜 양보해야 하나요?\"…어린이집 입소 앞두고 학부모 '폭발'",
           "url": "https://theqoo.net/hot/4383690051",
-          "score": 74.37
+          "score": 67.74
         },
         {
           "source": "인벤",
-          "rank": 73,
-          "title": "내일 오세훈 선고 앞두고 명태균 SNS",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743873",
-          "score": 56.72
+          "rank": 63,
+          "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
+          "score": 58.92
         }
       ],
-      "rank": 1,
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "i75cc7e14",
+      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "넷플릭스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.26,
+      "peak_score": 75.26,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 22,
+          "title": "송혜교 공유 800억 넷플릭스 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161492",
+          "score": 66.26
+        },
+        {
+          "source": "클리앙",
+          "rank": 92,
+          "title": "넷플릭스, 건담 (또는 애니), 그리고 일본 국내 시청",
+          "url": "https://www.clien.net/service/board/park/19281307?od=T31&po=0&category=0&groupCd=",
+          "score": 52.07
+        }
+      ],
+      "rank": 3,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
+      "keyword": "단독",
+      "score": 123.63,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 9,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": 14
+    },
+    {
       "keyword": "관세청",
-      "score": 110.02,
+      "score": 109.4,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 1,
       "sources": [
         "디시인사이드",
         "루리웹"
@@ -620,46 +779,32 @@
       "aliases": [
         "진술"
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "keyword": "후기",
-      "score": 103.1,
+      "score": 98.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "듀오",
-      "score": 99.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 16,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "유럽",
-      "score": 98.93,
+      "keyword": "김건희",
+      "score": 96.13,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 9,
       "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
@@ -667,206 +812,122 @@
     },
     {
       "keyword": "앞두고",
-      "score": 93.19,
+      "score": 90.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 19,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "화면",
-      "score": 92.28,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "아닌",
-      "score": 87.05,
+      "keyword": "듀오",
+      "score": 88.61,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 24,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "keyword": "넷플릭스",
+      "score": 85.13,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "미국",
-      "score": 86.89,
+      "keyword": "일본",
+      "score": 78.96,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 64,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 84.9,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 43,
+      "keyword": "gisa",
+      "score": 68.5,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 53,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
-    },
-    {
-      "keyword": "국산",
-      "score": 83.43,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 46,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "중수청",
-      "score": 81.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 66,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "받고",
-      "score": 80.94,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 67,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "북한",
-      "score": 80.83,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 59,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "포기",
-      "score": 77.69,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 71,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "단독",
-      "score": 74.46,
-      "post_count": 4,
-      "source_count": 1,
-      "best_rank": 51,
-      "sources": [
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 15,
-      "change": -1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117248?m=humor",
-      "score": 95.77,
-      "views": 11142,
-      "comments": 93
-    },
-    {
-      "source": "뽐뿌",
-      "title": "김민새] 모든 연령, 지역, 이념별 트리플 크라운 달성",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161382",
-      "score": 84.83,
-      "views": 5714,
-      "comments": 36
-    },
-    {
-      "source": "클리앙",
-      "title": "필반 -5% 이거 뭔가요.. .?",
-      "url": "https://www.clien.net/service/board/park/19281299?od=T31&po=0&category=0&groupCd=",
-      "score": 79.67,
-      "views": 2092,
-      "comments": 9
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한국편의점은 먹을게없네",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472398&_dcbest=1&page=1",
-      "score": 76.34,
-      "views": 11335,
-      "comments": 353
+      "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117552?m=humor",
+      "score": 97.06,
+      "views": 11054,
+      "comments": 97
     },
     {
       "source": "더쿠",
-      "title": "트위터 실트오른 세븐틴 우지 개인고소 총공 해시태그",
-      "url": "https://theqoo.net/hot/4383683615",
-      "score": 75.21,
-      "views": 38216,
-      "comments": 435
+      "title": "날씨가 이쯤 되면 진짜 제각각이 되는 홈웨어 상황.jpg",
+      "url": "https://theqoo.net/hot/4383752289",
+      "score": 82.84,
+      "views": 30407,
+      "comments": 399
+    },
+    {
+      "source": "뽐뿌",
+      "title": "네이버페이 페이스사인? 빨리 쓰세요.. 개꿀이에요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548926",
+      "score": 79.97,
+      "views": 16048,
+      "comments": 40
     },
     {
       "source": "인벤",
-      "title": "펀치가 아무리 빨라도 잡히면 ㄷㄷ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743899",
-      "score": 68.19,
-      "views": 295,
-      "comments": 4
+      "title": "올이 나간 검스 하이키 옐",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743917",
+      "score": 75.07,
+      "views": 684,
+      "comments": 5
+    },
+    {
+      "source": "디시인사이드",
+      "title": "보적보 레전드 사건.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472432&_dcbest=1&page=1",
+      "score": 75.06,
+      "views": 7792,
+      "comments": 106
+    },
+    {
+      "source": "클리앙",
+      "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
+      "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
+      "score": 74.52,
+      "views": 2011,
+      "comments": 17
     }
   ]
 }
