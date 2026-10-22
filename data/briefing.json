@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-23",
   "label": "2026년 10월 23일",
-  "collected_at": "2026-10-23T04:32:05.119471+09:00",
+  "collected_at": "2026-10-23T05:45:49.896506+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘김건희’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘김건희’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 5,
-    "keywords": 14,
-    "top100_views": 581627,
-    "top100_comments": 5529
+    "daily_issues": 6,
+    "keywords": 13,
+    "top100_views": 652963,
+    "top100_comments": 4930
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#단독",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-23T04:32:05.119471+09:00"
         }
       },
-      "score": 107.64,
+      "score": 107.54,
       "views": 13830,
       "likes": 140,
       "comments": 101,
       "active_days": 1,
-      "change": 2
+      "change": 0
     },
     {
       "title": "드디어 오피셜뜬 마운자로 막는 이유 밝힌 관세청장 ㄷㄷ",
@@ -88,12 +88,12 @@
           "last_seen": "2026-10-23T04:32:05.119471+09:00"
         }
       },
-      "score": 107.61,
+      "score": 107.51,
       "views": 17698,
       "likes": 139,
       "comments": 62,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "위고비 복제약 직구 금지 건으로 관세청에 진술하고 온 사람",
@@ -117,12 +117,70 @@
           "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 107.31,
+      "score": 107.21,
       "views": 11054,
       "likes": 99,
       "comments": 97,
       "active_days": 1,
-      "change": -2
+      "change": 0
+    },
+    {
+      "title": "40년간 간접흡연한 사람의 폐 상태",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117908?m=humor",
+      "first_seen": "2026-10-23T05:45:49.896506+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
+      "peak_score": 97.67,
+      "max_views": 17224,
+      "max_likes": 64,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 97.67,
+          "max_views": 17224,
+          "max_likes": 64,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-10-23T05:45:49.896506+09:00"
+        }
+      },
+      "score": 107.19,
+      "views": 17224,
+      "likes": 64,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "대한민국. 위고비, 마운자로 \"오남용우려약\" 지정 신속히 진행할것!!!",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118748?m=humor",
+      "first_seen": "2026-10-23T04:32:05.119471+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
+      "peak_score": 96.6,
+      "max_views": 12164,
+      "max_likes": 82,
+      "max_comments": 181,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 96.6,
+          "max_views": 12164,
+          "max_likes": 82,
+          "max_comments": 181,
+          "appearances": 2,
+          "last_seen": "2026-10-23T05:45:49.896506+09:00"
+        }
+      },
+      "score": 107.02,
+      "views": 12164,
+      "likes": 82,
+      "comments": 181,
+      "active_days": 1,
+      "change": 1
     },
     {
       "title": "삼성의 반도체 공장 요구 사항",
@@ -146,7 +204,7 @@
           "last_seen": "2026-10-23T02:33:10.347544+09:00"
         }
       },
-      "score": 106.38,
+      "score": 106.28,
       "views": 22090,
       "likes": 116,
       "comments": 132,
@@ -175,39 +233,68 @@
           "last_seen": "2026-10-23T00:40:21.273261+09:00"
         }
       },
-      "score": 104.82,
+      "score": 104.72,
       "views": 11354,
       "likes": 62,
       "comments": 102,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
-      "title": "대한민국. 위고비, 마운자로 \"오남용우려약\" 지정 신속히 진행할것!!!",
+      "title": "단점이 너무 심하다는 평가를 받는 만화가",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118748?m=humor",
-      "first_seen": "2026-10-23T04:32:05.119471+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
-      "peak_score": 93.83,
-      "max_views": 11194,
-      "max_likes": 80,
-      "max_comments": 168,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118630?m=humor",
+      "first_seen": "2026-10-23T05:45:49.896506+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
+      "peak_score": 94.23,
+      "max_views": 13308,
+      "max_likes": 77,
+      "max_comments": 60,
       "appearances": 1,
       "daily_stats": {
         "2026-10-23": {
-          "max_score": 93.83,
-          "max_views": 11194,
-          "max_likes": 80,
-          "max_comments": 168,
+          "max_score": 94.23,
+          "max_views": 13308,
+          "max_likes": 77,
+          "max_comments": 60,
           "appearances": 1,
-          "last_seen": "2026-10-23T04:32:05.119471+09:00"
+          "last_seen": "2026-10-23T05:45:49.896506+09:00"
         }
       },
-      "score": 103.35,
-      "views": 11194,
-      "likes": 80,
-      "comments": 168,
+      "score": 103.75,
+      "views": 13308,
+      "likes": 77,
+      "comments": 60,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "점점 나락가는 현대 기아 자동차의 현실",
+      "source": "뽐뿌",
+      "category": "이슈",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980421",
+      "first_seen": "2026-10-23T05:45:49.896506+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
+      "peak_score": 88.47,
+      "max_views": 15998,
+      "max_likes": 17,
+      "max_comments": 52,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-23": {
+          "max_score": 88.47,
+          "max_views": 15998,
+          "max_likes": 17,
+          "max_comments": 52,
+          "appearances": 1,
+          "last_seen": "2026-10-23T05:45:49.896506+09:00"
+        }
+      },
+      "score": 97.99,
+      "views": 15998,
+      "likes": 17,
+      "comments": 52,
       "active_days": 1,
       "change": "NEW"
     },
@@ -217,207 +304,160 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161382",
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
       "peak_score": 84.83,
-      "max_views": 8828,
-      "max_likes": 81,
+      "max_views": 9371,
+      "max_likes": 84,
       "max_comments": 41,
-      "appearances": 3,
+      "appearances": 4,
       "daily_stats": {
         "2026-10-23": {
           "max_score": 84.83,
-          "max_views": 8828,
-          "max_likes": 81,
+          "max_views": 9371,
+          "max_likes": 84,
           "max_comments": 41,
-          "appearances": 3,
-          "last_seen": "2026-10-23T04:32:05.119471+09:00"
+          "appearances": 4,
+          "last_seen": "2026-10-23T05:45:49.896506+09:00"
         }
       },
-      "score": 95.88,
-      "views": 8828,
-      "likes": 81,
+      "score": 96.37,
+      "views": 9371,
+      "likes": 84,
       "comments": 41,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "날씨가 이쯤 되면 진짜 제각각이 되는 홈웨어 상황.jpg",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4383752289",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
-      "peak_score": 82.84,
-      "max_views": 36446,
-      "max_likes": 0,
-      "max_comments": 432,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 82.84,
-          "max_views": 36446,
-          "max_likes": 0,
-          "max_comments": 432,
-          "appearances": 3,
-          "last_seen": "2026-10-23T04:32:05.119471+09:00"
-        }
-      },
-      "score": 93.89,
-      "views": 36446,
-      "likes": 0,
-      "comments": 432,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "10년전 서울대생의 소름돋는 예언.jpg",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161435",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
-      "peak_score": 80.27,
-      "max_views": 33135,
-      "max_likes": 7,
-      "max_comments": 80,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 80.27,
-          "max_views": 33135,
-          "max_likes": 7,
-          "max_comments": 80,
-          "appearances": 3,
-          "last_seen": "2026-10-23T04:32:05.119471+09:00"
-        }
-      },
-      "score": 91.32,
-      "views": 33135,
-      "likes": 7,
-      "comments": 80,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "필반 -5% 이거 뭔가요.. .?",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19281299?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
-      "peak_score": 79.67,
-      "max_views": 3738,
-      "max_likes": 0,
-      "max_comments": 9,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-23": {
-          "max_score": 79.67,
-          "max_views": 3738,
-          "max_likes": 0,
-          "max_comments": 9,
-          "appearances": 3,
-          "last_seen": "2026-10-23T04:32:05.119471+09:00"
-        }
-      },
-      "score": 90.72,
-      "views": 3738,
-      "likes": 0,
-      "comments": 9,
-      "active_days": 1,
-      "change": -2
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "은채 (르세라핌)",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743912",
-      "category": "연예",
-      "views": 370,
-      "likes": 0,
-      "comments": 1,
-      "score": 53.76,
-      "change": 12,
-      "current_rank": 73,
+      "source": "루리웹",
+      "title": "대한민국. 위고비, 마운자로 \"오남용우려약\" 지정 신속히 진행할것!!!",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118748?m=humor",
+      "category": "이슈",
+      "views": 12164,
+      "likes": 82,
+      "comments": 181,
+      "score": 96.6,
+      "change": 1,
+      "current_rank": 2,
       "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 12,
-      "rising_score": 90.91,
+      "delta_views": 970,
+      "delta_likes": 2,
+      "delta_comments": 13,
+      "rank_gain": 1,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 119
-    },
-    {
-      "source": "인벤",
-      "title": "어쩌다 한번 류혜영",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743897",
-      "category": "연예",
-      "views": 1110,
-      "likes": 0,
-      "comments": 3,
-      "score": 53.26,
-      "change": 12,
-      "current_rank": 74,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 12,
-      "rising_score": 90.91,
-      "rising_rank": 2,
-      "window_minutes": 119
+      "window_minutes": 74
     },
     {
       "source": "디시인사이드",
-      "title": "K 신형여권 근황 ㅋㅋㅋ.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472438&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 6652,
-      "likes": 130,
-      "comments": 71,
-      "score": 67.02,
-      "change": 0,
+      "title": "실시간 쿠팡 추노중이다.",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472462&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3638,
+      "likes": 30,
+      "comments": 66,
+      "score": 65.54,
+      "change": 12,
+      "current_rank": 35,
+      "new_entry": false,
+      "delta_views": 3363,
+      "delta_likes": 28,
+      "delta_comments": 50,
+      "rank_gain": 12,
+      "rising_score": 97.5,
+      "rising_rank": 2,
+      "window_minutes": 74
+    },
+    {
+      "source": "더쿠",
+      "title": "수습 2개월째에 임신했다고 밝혔더니 수습종료됨",
+      "url": "https://theqoo.net/hot/4383791666",
+      "category": "이슈",
+      "views": 16767,
+      "likes": 0,
+      "comments": 99,
+      "score": 69.84,
+      "change": 2,
       "current_rank": 27,
       "new_entry": false,
-      "delta_views": 4416,
-      "delta_likes": 75,
-      "delta_comments": 34,
-      "rank_gain": 0,
-      "rising_score": 90.62,
+      "delta_views": 5860,
+      "delta_likes": 0,
+      "delta_comments": 24,
+      "rank_gain": 2,
+      "rising_score": 94.58,
       "rising_rank": 3,
-      "window_minutes": 119
+      "window_minutes": 74
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 무한리필의 의미...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472442&_dcbest=1&page=1",
+      "source": "클리앙",
+      "title": "우리 나라 임금 근로자 소득 계층별 세 부담 OECD 국가들과 비교.",
+      "url": "https://www.clien.net/service/board/park/19281317?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 6728,
-      "likes": 60,
-      "comments": 93,
-      "score": 67.61,
-      "change": 0,
-      "current_rank": 25,
+      "views": 1247,
+      "likes": 0,
+      "comments": 26,
+      "score": 77.83,
+      "change": 10,
+      "current_rank": 11,
       "new_entry": false,
-      "delta_views": 4290,
-      "delta_likes": 35,
-      "delta_comments": 54,
-      "rank_gain": 0,
-      "rising_score": 90.28,
+      "delta_views": 778,
+      "delta_likes": 0,
+      "delta_comments": 20,
+      "rank_gain": 10,
+      "rising_score": 88.95,
       "rising_rank": 4,
-      "window_minutes": 119
+      "window_minutes": 74
+    },
+    {
+      "source": "인벤",
+      "title": "강남 아파트 문화 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743895",
+      "category": "이슈",
+      "views": 3687,
+      "likes": 0,
+      "comments": 18,
+      "score": 59.81,
+      "change": 0,
+      "current_rank": 58,
+      "new_entry": false,
+      "delta_views": 1398,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 87.59,
+      "rising_rank": 5,
+      "window_minutes": 74
+    },
+    {
+      "source": "인벤",
+      "title": "감탄스러운 상체 핏 에스파 카리나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743915",
+      "category": "연예",
+      "views": 2385,
+      "likes": 0,
+      "comments": 5,
+      "score": 76.39,
+      "change": 0,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 1539,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 0,
+      "rising_score": 85.84,
+      "rising_rank": 6,
+      "window_minutes": 74
     },
     {
       "source": "루리웹",
-      "title": "드디어 오피셜뜬 마운자로 막는 이유 밝힌 관세청장 ㄷㄷ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117845?m=humor",
+      "title": "40년간 간접흡연한 사람의 폐 상태",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117908?m=humor",
       "category": "이슈",
-      "views": 17698,
-      "likes": 139,
-      "comments": 62,
-      "score": 98.09,
+      "views": 17224,
+      "likes": 64,
+      "comments": 51,
+      "score": 97.67,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -425,39 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.2,
-      "rising_rank": 5,
-      "window_minutes": 119
-    },
-    {
-      "source": "더쿠",
-      "title": "한국인들 난리날 해외 가수 데뷔곡 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-      "url": "https://theqoo.net/hot/4383779147",
-      "category": "연예",
-      "views": 25558,
-      "likes": 0,
-      "comments": 179,
-      "score": 76.68,
-      "change": 6,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 7998,
-      "delta_likes": 0,
-      "delta_comments": 19,
-      "rank_gain": 6,
-      "rising_score": 82.5,
-      "rising_rank": 6,
-      "window_minutes": 119
+      "rising_score": 83.02,
+      "rising_rank": 7,
+      "window_minutes": 74
     },
     {
       "source": "루리웹",
-      "title": "대한민국. 위고비, 마운자로 \"오남용우려약\" 지정 신속히 진행할것!!!",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118748?m=humor",
+      "title": "단점이 너무 심하다는 평가를 받는 만화가",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118630?m=humor",
       "category": "이슈",
-      "views": 11194,
-      "likes": 80,
-      "comments": 168,
-      "score": 93.83,
+      "views": 13308,
+      "likes": 77,
+      "comments": 60,
+      "score": 94.23,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -465,69 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 7,
-      "window_minutes": 119
+      "rising_score": 81.58,
+      "rising_rank": 8,
+      "window_minutes": 74
     },
     {
       "source": "디시인사이드",
-      "title": "요즘 컴공 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472434&_dcbest=1&page=1",
+      "title": "싱글벙글 요즘 학교 양호실 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472461&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 6641,
-      "likes": 42,
-      "comments": 86,
-      "score": 60.3,
+      "views": 3857,
+      "likes": 10,
+      "comments": 38,
+      "score": 58.44,
       "change": 0,
-      "current_rank": 51,
+      "current_rank": 63,
       "new_entry": false,
-      "delta_views": 3826,
-      "delta_likes": 22,
-      "delta_comments": 42,
+      "delta_views": 2991,
+      "delta_likes": 9,
+      "delta_comments": 27,
       "rank_gain": 0,
-      "rising_score": 80.21,
-      "rising_rank": 8,
-      "window_minutes": 119
+      "rising_score": 81.17,
+      "rising_rank": 9,
+      "window_minutes": 74
     },
     {
       "source": "클리앙",
       "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
       "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 3158,
+      "views": 3935,
       "likes": 0,
       "comments": 22,
-      "score": 76.6,
-      "change": 2,
-      "current_rank": 7,
+      "score": 73.13,
+      "change": 0,
+      "current_rank": 17,
       "new_entry": false,
-      "delta_views": 1147,
-      "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 2,
-      "rising_score": 79.83,
-      "rising_rank": 9,
-      "window_minutes": 119
-    },
-    {
-      "source": "인벤",
-      "title": "한강 피크닉 새로운 유행",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743886",
-      "category": "이슈",
-      "views": 2984,
-      "likes": 0,
-      "comments": 7,
-      "score": 53.08,
-      "change": 11,
-      "current_rank": 76,
-      "new_entry": false,
-      "delta_views": 0,
+      "delta_views": 777,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 11,
-      "rising_score": 77.27,
+      "rank_gain": 0,
+      "rising_score": 80.77,
       "rising_rank": 10,
-      "window_minutes": 119
+      "window_minutes": 74
     }
   ],
   "issues": [
@@ -539,9 +539,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.09,
+      "score": 98.53,
       "peak_score": 85.6,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "인벤",
         "클리앙"
@@ -549,25 +549,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 7,
+          "rank": 17,
           "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
           "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
-          "score": 76.6
+          "score": 73.13
         },
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 83,
           "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
-          "score": 58.92
+          "score": 53.69
         }
       ],
       "first_seen": "2026-10-19T09:26:39.061877+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
       "id": "ib42d9061",
@@ -577,9 +577,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 96.3,
+      "score": 97.42,
       "peak_score": 83.37,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "인벤"
@@ -587,25 +587,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 83,
           "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
-          "score": 58.92
+          "score": 53.69
         },
         {
           "source": "더쿠",
-          "rank": 78,
+          "rank": 86,
           "title": "\"다문화가정에 왜 양보해야 하나요?\"…어린이집 입소 앞두고 학부모 '폭발'",
           "url": "https://theqoo.net/hot/4383690051",
           "score": 52.95
         }
       ],
       "first_seen": "2026-10-23T00:40:21.273261+09:00",
-      "last_seen": "2026-10-23T04:32:05.119471+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie861fdd4",
@@ -651,7 +651,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -689,7 +689,7 @@
       "latest_source_count": 2,
       "latest_post_count": 5,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i75cc7e14",
@@ -727,86 +727,52 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ie861fdd4",
-      "title": "‘솔직히’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "솔직히"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 79.32,
-      "peak_score": 79.32,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 43,
-          "title": "솔직히 요즘 독갤 불만",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472455&_dcbest=1&page=1",
-          "score": 62.32
-        },
-        {
-          "source": "인벤",
-          "rank": 92,
-          "title": "솔직히 여성징병제는 오버같음.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743881",
-          "score": 50.58
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "중견 다니다 공무원 넘어왔는데 솔직히 개편하긴 함",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237517",
-          "score": 50.21
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "icd035b72",
+      "title": "유기동물 보호소에 들어온 두달된 울프그레이",
       "keywords": [
-        "실시간"
+        "보호소에",
+        "울프그레이",
+        "두달된",
+        "들어온",
+        "유기동물"
       ],
       "source_count": 2,
-      "post_count": 5,
-      "score": 76.54,
-      "peak_score": 76.54,
+      "post_count": 2,
+      "score": 83.35,
+      "peak_score": 73.88,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "루리웹"
       ],
       "posts": [
         {
           "source": "루리웹",
-          "rank": 37,
-          "title": "실시간 미쳐버린 한국날씨 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77119097?m=humor_only&t=now",
-          "score": 64.54
+          "rank": 33,
+          "title": "유기동물 보호소에 들어온 두달된 울프그레이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77119237?m=humor_only&t=now",
+          "score": 65.88
         },
         {
-          "source": "디시인사이드",
-          "rank": 40,
-          "title": "박위 여기갤 실시간 모니터하네",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472448&_dcbest=1&page=1",
-          "score": 63.2
+          "source": "더쿠",
+          "rank": 60,
+          "title": "유기동물 보호소에 들어온 두달된 울프그레이",
+          "url": "https://theqoo.net/hot/4383762317",
+          "score": 59.53
         }
       ],
-      "rank": 2,
+      "first_seen": "2026-10-23T05:45:49.896506+09:00",
+      "last_seen": "2026-10-23T05:45:49.896506+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
       "change": "NEW"
-    },
+    }
+  ],
+  "realtime_issues": [
     {
       "id": "ifeed66d7",
       "title": "‘김건희’ 관련 글이 여러 커뮤니티에서 화제",
@@ -815,8 +781,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.6,
-      "peak_score": 85.6,
+      "score": 82.13,
+      "peak_score": 82.13,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -825,21 +791,59 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 7,
+          "rank": 17,
           "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
           "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
-          "score": 76.6
+          "score": 73.13
         },
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 83,
           "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
-          "score": 58.92
+          "score": 53.69
         }
       ],
-      "rank": 3,
-      "change": -2
+      "rank": 1,
+      "change": 2
+    },
+    {
+      "id": "icd035b72",
+      "title": "유기동물 보호소에 들어온 두달된 울프그레이",
+      "keywords": [
+        "보호소에",
+        "울프그레이",
+        "두달된",
+        "들어온",
+        "유기동물"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 73.88,
+      "peak_score": 73.88,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 33,
+          "title": "유기동물 보호소에 들어온 두달된 울프그레이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77119237?m=humor_only&t=now",
+          "score": 65.88
+        },
+        {
+          "source": "더쿠",
+          "rank": 60,
+          "title": "유기동물 보호소에 들어온 두달된 울프그레이",
+          "url": "https://theqoo.net/hot/4383762317",
+          "score": 59.53
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
     },
     {
       "id": "ib42d9061",
@@ -849,8 +853,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 67.92,
-      "peak_score": 67.92,
+      "score": 62.69,
+      "peak_score": 62.69,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -859,48 +863,47 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 83,
           "title": "대법원, 김건희 구속만료 나흘 앞두고 27일 영장 심사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2743903",
-          "score": 58.92
+          "score": 53.69
         },
         {
           "source": "더쿠",
-          "rank": 78,
+          "rank": 86,
           "title": "\"다문화가정에 왜 양보해야 하나요?\"…어린이집 입소 앞두고 학부모 '폭발'",
           "url": "https://theqoo.net/hot/4383690051",
           "score": 52.95
         }
       ],
-      "rank": 4,
-      "change": -2
+      "rank": 3,
+      "change": 1
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 119.77,
-      "post_count": 3,
+      "keyword": "단독",
+      "score": 120.65,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 14,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "솔직히",
-      "score": 107.98,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 43,
+      "keyword": "날씨",
+      "score": 96.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 10,
       "sources": [
-        "디시인사이드",
-        "뽐뿌",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
@@ -908,64 +911,8 @@
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 106.82,
-      "post_count": 5,
-      "source_count": 2,
-      "best_rank": 37,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "단독",
-      "score": 98.73,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": -3
-    },
-    {
-      "keyword": "김건희",
-      "score": 98.08,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "keyword": "많이",
-      "score": 93.54,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "후기",
-      "score": 91.85,
+      "keyword": "한국",
+      "score": 96.08,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 18,
@@ -974,155 +921,202 @@
         "클리앙"
       ],
       "aliases": [],
+      "rank": 3,
+      "change": -2
+    },
+    {
+      "keyword": "미국",
+      "score": 96.05,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "많이",
+      "score": 89.34,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 34,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 1
+    },
+    {
+      "keyword": "김건희",
+      "score": 89.04,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "keyword": "유기동물",
+      "score": 88.64,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 33,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [
+        "두달된",
+        "들어온",
+        "보호소",
+        "울프그레"
+      ],
       "rank": 7,
-      "change": -4
+      "change": "NEW"
+    },
+    {
+      "keyword": "주식",
+      "score": 85.15,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": 2
+    },
+    {
+      "keyword": "후기",
+      "score": 83.37,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 37,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -2
     },
     {
       "keyword": "이재명",
-      "score": 88.46,
+      "score": 81.84,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 40,
       "sources": [
         "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 10,
+      "change": -2
     },
     {
       "keyword": "출석",
-      "score": 87.4,
+      "score": 77.53,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 74,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "주식",
-      "score": 87.32,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 24,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "ai",
-      "score": 83.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 33,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "많은",
-      "score": 82.35,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 59,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
+      "change": -2
     },
     {
       "keyword": "앞두고",
-      "score": 81.7,
+      "score": 76.89,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 57,
+      "best_rank": 83,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
-      "rank": 13,
-      "change": -8
+      "rank": 12,
+      "change": 1
     },
     {
-      "keyword": "gisa",
-      "score": 76.93,
-      "post_count": 3,
+      "keyword": "실시간",
+      "score": 75.79,
+      "post_count": 4,
       "source_count": 1,
-      "best_rank": 12,
+      "best_rank": 35,
       "sources": [
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": -5
+      "rank": 13,
+      "change": -10
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "드디어 오피셜뜬 마운자로 막는 이유 밝힌 관세청장 ㄷㄷ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117845?m=humor",
-      "score": 98.09,
-      "views": 17698,
-      "comments": 62
+      "title": "40년간 간접흡연한 사람의 폐 상태",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117908?m=humor",
+      "score": 97.67,
+      "views": 17224,
+      "comments": 51
+    },
+    {
+      "source": "뽐뿌",
+      "title": "점점 나락가는 현대 기아 자동차의 현실",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980421",
+      "score": 88.47,
+      "views": 15998,
+      "comments": 52
+    },
+    {
+      "source": "디시인사이드",
+      "title": "번역) 멋있어지고 싶어! 【단편】",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472470&_dcbest=1&page=1",
+      "score": 86.64,
+      "views": 7835,
+      "comments": 104
     },
     {
       "source": "더쿠",
       "title": "날씨가 이쯤 되면 진짜 제각각이 되는 홈웨어 상황.jpg",
       "url": "https://theqoo.net/hot/4383752289",
-      "score": 77.37,
-      "views": 36446,
-      "comments": 432
-    },
-    {
-      "source": "뽐뿌",
-      "title": "서울대 명의가 말하는 정상체중 (비만의 역설)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23963",
-      "score": 76.67,
-      "views": 10203,
-      "comments": 28
+      "score": 78.37,
+      "views": 39550,
+      "comments": 442
     },
     {
       "source": "클리앙",
-      "title": "[단독]김혜경 여사 문체부 단독예산 14억원…김건희 땐 3억7860만원 지원",
-      "url": "https://www.clien.net/service/board/park/19281305?od=T31&po=0&category=0&groupCd=",
-      "score": 76.6,
-      "views": 3158,
-      "comments": 22
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 일본에서의 문신충 취급",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472452&_dcbest=1&page=1",
-      "score": 75.9,
-      "views": 5779,
-      "comments": 122
+      "title": "우리 나라 임금 근로자 소득 계층별 세 부담 OECD 국가들과 비교.",
+      "url": "https://www.clien.net/service/board/park/19281317?od=T31&po=0&category=0&groupCd=",
+      "score": 77.83,
+      "views": 1247,
+      "comments": 26
     },
     {
       "source": "인벤",
-      "title": "올이 나간 검스 하이키 옐",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743917",
-      "score": 75.07,
-      "views": 684,
-      "comments": 5
+      "title": "광주 공항",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743920",
+      "score": 77.71,
+      "views": 1812,
+      "comments": 11
     }
   ]
 }
