@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-22",
   "label": "2026년 10월 22일",
-  "collected_at": "2026-10-22T09:46:26.095125+09:00",
+  "collected_at": "2026-10-22T10:44:44.333078+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘부캉이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #부캉. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘부캉이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 16,
-    "top100_views": 783232,
-    "top100_comments": 8143
+    "keywords": 14,
+    "top100_views": 817334,
+    "top100_comments": 9852
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "북한 김여정 군사 분계선 시찰",
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77103624?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#부캉",
-      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "부캉"
+      "title": "#한국",
+      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor",
+      "first_seen": "2026-10-22T10:44:44.333078+09:00",
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
+      "peak_score": 98.12,
+      "max_views": 15631,
+      "max_likes": 107,
+      "max_comments": 124,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-22": {
+          "max_score": 98.12,
+          "max_views": 15631,
+          "max_likes": 107,
+          "max_comments": 124,
+          "appearances": 1,
+          "last_seen": "2026-10-22T10:44:44.333078+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 15631,
+      "likes": 107,
+      "comments": 124,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "북한 김여정 군사 분계선 시찰",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-22T01:08:04.674749+09:00"
         }
       },
-      "score": 107.34,
+      "score": 107.26,
       "views": 27199,
       "likes": 151,
       "comments": 96,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "???? : 가격 싸게 파느니 갖다 버리는게 낫다",
@@ -88,12 +117,12 @@
           "last_seen": "2026-10-22T07:18:24.604161+09:00"
         }
       },
-      "score": 107.24,
+      "score": 107.16,
       "views": 12632,
       "likes": 108,
       "comments": 32,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "월 1억 버는 사람이 내는 세금",
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-22T04:02:59.626679+09:00"
         }
       },
-      "score": 107.17,
+      "score": 107.09,
       "views": 13605,
       "likes": 95,
       "comments": 117,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "통훈제오리(완포) 먹어봤어?",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-22T08:24:39.108381+09:00"
         }
       },
-      "score": 107.15,
+      "score": 107.07,
       "views": 7271,
       "likes": 33,
       "comments": 58,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "일론머스크 '미민당이 보복하면 가만있지 않겠다'",
@@ -175,12 +204,12 @@
           "last_seen": "2026-10-22T08:24:39.108381+09:00"
         }
       },
-      "score": 106.7,
+      "score": 106.62,
       "views": 15264,
       "likes": 113,
       "comments": 40,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "한국 커뮤에서 괜찮은 독재라고 하던 르완다 근황",
@@ -204,12 +233,12 @@
           "last_seen": "2026-10-22T05:12:54.190152+09:00"
         }
       },
-      "score": 106.58,
+      "score": 106.49,
       "views": 12614,
       "likes": 95,
       "comments": 76,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "공자는 한국인이다 발언이 가장 많이 나오는 국가",
@@ -241,41 +270,12 @@
           "last_seen": "2026-10-22T01:08:04.674749+09:00"
         }
       },
-      "score": 105.82,
+      "score": 105.74,
       "views": 26753,
       "likes": 156,
       "comments": 99,
       "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "부캉이 이제 머 어찌할수없는이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77107022?m=humor",
-      "first_seen": "2026-10-22T04:02:59.626679+09:00",
-      "last_seen": "2026-10-22T04:02:59.626679+09:00",
-      "peak_score": 95.34,
-      "max_views": 16315,
-      "max_likes": 77,
-      "max_comments": 63,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-22": {
-          "max_score": 95.34,
-          "max_views": 16315,
-          "max_likes": 77,
-          "max_comments": 63,
-          "appearances": 1,
-          "last_seen": "2026-10-22T04:02:59.626679+09:00"
-        }
-      },
-      "score": 104.39,
-      "views": 16315,
-      "likes": 77,
-      "comments": 63,
-      "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "안경안써본 사람들이 AI안경방지책이라면서 이상한거 들고오는데",
@@ -283,109 +283,129 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77108587?m=humor",
       "first_seen": "2026-10-22T09:46:26.095125+09:00",
-      "last_seen": "2026-10-22T09:46:26.095125+09:00",
-      "peak_score": 94.67,
-      "max_views": 17950,
-      "max_likes": 122,
-      "max_comments": 95,
-      "appearances": 1,
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
+      "peak_score": 95.09,
+      "max_views": 20546,
+      "max_likes": 136,
+      "max_comments": 105,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-22": {
-          "max_score": 94.67,
-          "max_views": 17950,
-          "max_likes": 122,
-          "max_comments": 95,
-          "appearances": 1,
-          "last_seen": "2026-10-22T09:46:26.095125+09:00"
+          "max_score": 95.09,
+          "max_views": 20546,
+          "max_likes": 136,
+          "max_comments": 105,
+          "appearances": 2,
+          "last_seen": "2026-10-22T10:44:44.333078+09:00"
         }
       },
-      "score": 104.19,
-      "views": 17950,
-      "likes": 122,
-      "comments": 95,
+      "score": 105.51,
+      "views": 20546,
+      "likes": 136,
+      "comments": 105,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "title": "수로 밖으로 몰아낸 부캉이 근황.jpg",
+      "title": "의외로 K-이슬람은 굉장히 세속적이다",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77106024?m=humor",
-      "first_seen": "2026-10-22T05:12:54.190152+09:00",
-      "last_seen": "2026-10-22T05:12:54.190152+09:00",
-      "peak_score": 93.8,
-      "max_views": 12550,
-      "max_likes": 67,
-      "max_comments": 52,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77109143?m=humor",
+      "first_seen": "2026-10-22T10:44:44.333078+09:00",
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
+      "peak_score": 95.36,
+      "max_views": 14573,
+      "max_likes": 112,
+      "max_comments": 69,
       "appearances": 1,
       "daily_stats": {
         "2026-10-22": {
-          "max_score": 93.8,
-          "max_views": 12550,
-          "max_likes": 67,
-          "max_comments": 52,
+          "max_score": 95.36,
+          "max_views": 14573,
+          "max_likes": 112,
+          "max_comments": 69,
           "appearances": 1,
-          "last_seen": "2026-10-22T05:12:54.190152+09:00"
+          "last_seen": "2026-10-22T10:44:44.333078+09:00"
         }
       },
-      "score": 102.95,
-      "views": 12550,
-      "likes": 67,
-      "comments": 52,
+      "score": 104.88,
+      "views": 14573,
+      "likes": 112,
+      "comments": 69,
       "active_days": 1,
-      "change": -1
+      "change": "NEW"
     }
   ],
   "rising": [
-    {
-      "source": "디시인사이드",
-      "title": "90년대생 비혼 여성의 삶보는데 또래남자들 집이더 가부장적",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472257&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 10122,
-      "likes": 18,
-      "comments": 259,
-      "score": 73.02,
-      "change": 46,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 9339,
-      "delta_likes": 16,
-      "delta_comments": 238,
-      "rank_gain": 46,
-      "rising_score": 89.78,
-      "rising_rank": 1,
-      "window_minutes": 82
-    },
-    {
-      "source": "디시인사이드",
-      "title": "옆 가게에 쯔양 뺏긴 통닭집 사장님 분노",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472255&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 9198,
-      "likes": 23,
-      "comments": 82,
-      "score": 66.46,
-      "change": 29,
-      "current_rank": 26,
-      "new_entry": false,
-      "delta_views": 7406,
-      "delta_likes": 20,
-      "delta_comments": 55,
-      "rank_gain": 29,
-      "rising_score": 82.33,
-      "rising_rank": 2,
-      "window_minutes": 82
-    },
     {
       "source": "루리웹",
       "title": "안경안써본 사람들이 AI안경방지책이라면서 이상한거 들고오는데",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77108587?m=humor",
       "category": "이슈",
-      "views": 17950,
-      "likes": 122,
-      "comments": 95,
-      "score": 94.67,
+      "views": 20546,
+      "likes": 136,
+      "comments": 105,
+      "score": 95.09,
+      "change": 0,
+      "current_rank": 3,
+      "new_entry": false,
+      "delta_views": 2596,
+      "delta_likes": 14,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 58
+    },
+    {
+      "source": "디시인사이드",
+      "title": "이세돌이 진짜 대단한.. 이유 ..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472263&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 9975,
+      "likes": 72,
+      "comments": 233,
+      "score": 76.1,
+      "change": 0,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 4078,
+      "delta_likes": 30,
+      "delta_comments": 79,
+      "rank_gain": 0,
+      "rising_score": 95.28,
+      "rising_rank": 2,
+      "window_minutes": 58
+    },
+    {
+      "source": "더쿠",
+      "title": "찹쌀떡으로 흥한 브랜드가 한정선이라 다행이라 생각하는 이유",
+      "url": "https://theqoo.net/hot/4383007692",
+      "category": "이슈",
+      "views": 31104,
+      "likes": 0,
+      "comments": 289,
+      "score": 64.37,
+      "change": 0,
+      "current_rank": 45,
+      "new_entry": false,
+      "delta_views": 24050,
+      "delta_likes": 0,
+      "delta_comments": 205,
+      "rank_gain": 0,
+      "rising_score": 86.54,
+      "rising_rank": 3,
+      "window_minutes": 58
+    },
+    {
+      "source": "루리웹",
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor",
+      "category": "생활",
+      "views": 15631,
+      "likes": 107,
+      "comments": 124,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -393,19 +413,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 3,
-      "window_minutes": 82
+      "rising_score": 83.21,
+      "rising_rank": 4,
+      "window_minutes": 58
     },
     {
       "source": "루리웹",
-      "title": "최근 비정규직 4년 법안이 발의됨 ㄷㄷㄷ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77109139?m=humor",
+      "title": "의외로 K-이슬람은 굉장히 세속적이다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77109143?m=humor",
       "category": "이슈",
-      "views": 6759,
-      "likes": 81,
-      "comments": 61,
-      "score": 91.88,
+      "views": 14573,
+      "likes": 112,
+      "comments": 69,
+      "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -413,59 +433,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.59,
-      "rising_rank": 4,
-      "window_minutes": 82
-    },
-    {
-      "source": "루리웹",
-      "title": "무슬림이 개짜증나는게",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77109073?m=humor",
-      "category": "이슈",
-      "views": 6582,
-      "likes": 146,
-      "comments": 59,
-      "score": 90.77,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.12,
+      "rising_score": 82.05,
       "rising_rank": 5,
-      "window_minutes": 82
-    },
-    {
-      "source": "디시인사이드",
-      "title": "충격적인 위고비 나온 이후 몇년간의 사회변화...",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472247&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12946,
-      "likes": 106,
-      "comments": 241,
-      "score": 77.08,
-      "change": 1,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 5476,
-      "delta_likes": 42,
-      "delta_comments": 71,
-      "rank_gain": 1,
-      "rising_score": 78.89,
-      "rising_rank": 6,
-      "window_minutes": 82
+      "window_minutes": 58
     },
     {
       "source": "뽐뿌",
-      "title": "현대차 비장의무기 '아이오닉V' 9월 판매량 떴음",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980300",
+      "title": "치질 수술할때 해야 한다는 자세",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160382",
       "category": "이슈",
-      "views": 12885,
-      "likes": 16,
-      "comments": 49,
-      "score": 85.58,
+      "views": 25421,
+      "likes": 2,
+      "comments": 94,
+      "score": 73.0,
+      "change": 25,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 8641,
+      "delta_likes": 0,
+      "delta_comments": 23,
+      "rank_gain": 25,
+      "rising_score": 78.33,
+      "rising_rank": 6,
+      "window_minutes": 58
+    },
+    {
+      "source": "루리웹",
+      "title": "오버투어리즘 서울 jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77109762?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 10243,
+      "likes": 37,
+      "comments": 50,
+      "score": 83.72,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -473,19 +473,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.94,
+      "rising_score": 77.16,
       "rising_rank": 7,
-      "window_minutes": 82
+      "window_minutes": 58
     },
     {
       "source": "디시인사이드",
-      "title": "이세돌이 진짜 대단한.. 이유 ..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472263&_dcbest=1&page=1",
+      "title": "싱글벙글 채식주의자들이 신봉하는 10가지 논리",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472277&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 5897,
-      "likes": 42,
-      "comments": 154,
-      "score": 75.0,
+      "views": 9289,
+      "likes": 67,
+      "comments": 190,
+      "score": 83.65,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.13,
+      "rising_rank": 8,
+      "window_minutes": 58
+    },
+    {
+      "source": "클리앙",
+      "title": "김정은이 정말로 사망했을 수도 있겠습니다.",
+      "url": "https://www.clien.net/service/board/park/19281035?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1886,
+      "likes": 0,
+      "comments": 21,
+      "score": 82.48,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.64,
+      "rising_rank": 9,
+      "window_minutes": 58
+    },
+    {
+      "source": "클리앙",
+      "title": "발전 속도가 빠르네요.",
+      "url": "https://www.clien.net/service/board/park/19281031?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2493,
+      "likes": 0,
+      "comments": 17,
+      "score": 80.11,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -493,49 +533,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.5,
-      "rising_rank": 8,
-      "window_minutes": 82
-    },
-    {
-      "source": "더쿠",
-      "title": "아시아 국가들의 평균 기상 시간",
-      "url": "https://theqoo.net/hot/4382991295",
-      "category": "이슈",
-      "views": 16816,
-      "likes": 0,
-      "comments": 299,
-      "score": 74.84,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.43,
-      "rising_rank": 9,
-      "window_minutes": 82
-    },
-    {
-      "source": "뽐뿌",
-      "title": "수능 AI 안경 현실적으로 막기 힘들다는 교육부 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160432",
-      "category": "이슈",
-      "views": 9960,
-      "likes": 0,
-      "comments": 99,
-      "score": 74.7,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.37,
+      "rising_score": 75.65,
       "rising_rank": 10,
-      "window_minutes": 82
+      "window_minutes": 58
     }
   ],
   "issues": [
@@ -547,37 +547,91 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 128.39,
+      "score": 129.3,
       "peak_score": 104.34,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "루리웹",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 48,
-          "title": "속보) 부캉이, 외부 차단벽 돌파하고 수로 재진입 성공",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108779?m=humor_only&t=now",
-          "score": 63.23
+          "source": "클리앙",
+          "rank": 49,
+          "title": "부캉이 거기서 죽으면 욕먹을까봐 부산 당국이 긴장하는것같군요",
+          "url": "https://www.clien.net/service/board/park/19281026?od=T31&po=0&category=0&groupCd=",
+          "score": 63.91
         },
         {
           "source": "더쿠",
-          "rank": 69,
-          "title": "[단독] '부캉이' 아직 안 떠났다…밤늦도록 수로 앞 배회",
-          "url": "https://theqoo.net/hot/4382838021",
-          "score": 58.42
+          "rank": 55,
+          "title": "[속보] 바다로 나갔던 상어 '부캉이' 다시 왔다…차단막 뚫고 수로 재진입",
+          "url": "https://theqoo.net/hot/4382982667",
+          "score": 62.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 56,
+          "title": "전문가 경고\" 부캉이 이대로 두면 폐사\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160415",
+          "score": 62.38
+        },
+        {
+          "source": "루리웹",
+          "rank": 97,
+          "title": "십상남자 부캉이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77109895?m=humor_only&t=now",
+          "score": 51.71
         }
       ],
       "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-22T08:24:39.108381+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "ie8fb5037",
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+      "keywords": [
+        "무슬림",
+        "한국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 117.61,
+      "peak_score": 106.12,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor",
+          "score": 98.12
+        },
+        {
+          "source": "더쿠",
+          "rank": 33,
+          "title": "한국 편의점에 먹을거 없다고 따지는 무슬림",
+          "url": "https://theqoo.net/hot/4382987131",
+          "score": 66.89
+        }
+      ],
+      "first_seen": "2026-10-22T09:46:26.095125+09:00",
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 11
     },
     {
       "id": "id50390b0",
@@ -614,8 +668,8 @@
       "last_seen": "2026-10-22T01:08:04.674749+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i9658358b",
@@ -653,8 +707,8 @@
       "last_seen": "2026-10-22T05:12:54.190152+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i0d534d5a",
@@ -695,8 +749,8 @@
       "last_seen": "2026-10-22T07:18:24.604161+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i406ef551",
@@ -735,8 +789,8 @@
       "last_seen": "2026-10-22T05:12:54.190152+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "ief70793c",
@@ -773,8 +827,8 @@
       "last_seen": "2026-10-22T08:24:39.108381+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "iee76efaa",
@@ -811,8 +865,8 @@
       "last_seen": "2026-10-22T08:24:39.108381+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "if99ce903",
@@ -822,9 +876,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.31,
+      "score": 95.33,
       "peak_score": 83.84,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -832,25 +886,25 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 8,
+          "rank": 28,
           "title": "아시아 국가들의 평균 기상 시간",
           "url": "https://theqoo.net/hot/4382991295",
-          "score": 74.84
+          "score": 68.21
         },
         {
           "source": "디시인사이드",
-          "rank": 56,
+          "rank": 87,
           "title": "싱글벙글 세계 주요 국가들의 최극점 좌표",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472268&_dcbest=1&page=1",
-          "score": 60.11
+          "score": 55.9
         }
       ],
       "first_seen": "2026-10-22T09:46:26.095125+09:00",
-      "last_seen": "2026-10-22T09:46:26.095125+09:00",
+      "last_seen": "2026-10-22T10:44:44.333078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i942f929f",
@@ -887,59 +941,72 @@
       "last_seen": "2026-10-22T07:18:24.604161+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "ia3911d65",
-      "title": "‘그래미’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "그래미"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.95,
-      "peak_score": 78.9,
-      "appearances": 4,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 88,
-          "title": "BTS 스키즈, 亞 차별 논란 ‘그래미’ 보이콧 했는데…아이브 박효신 출품",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743409",
-          "score": 53.86
-        },
-        {
-          "source": "클리앙",
-          "rank": 91,
-          "title": "그래미 시상식에 참여하려는 아시아 아티스트들",
-          "url": "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
-          "score": 53.57
-        }
-      ],
-      "first_seen": "2026-10-22T04:02:59.626679+09:00",
-      "last_seen": "2026-10-22T08:24:39.108381+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
       "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "ib3876eed",
-      "title": "‘사람들이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "사람들이"
+        "부캉이"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 88.91,
+      "peak_score": 88.91,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 49,
+          "title": "부캉이 거기서 죽으면 욕먹을까봐 부산 당국이 긴장하는것같군요",
+          "url": "https://www.clien.net/service/board/park/19281026?od=T31&po=0&category=0&groupCd=",
+          "score": 63.91
+        },
+        {
+          "source": "더쿠",
+          "rank": 55,
+          "title": "[속보] 바다로 나갔던 상어 '부캉이' 다시 왔다…차단막 뚫고 수로 재진입",
+          "url": "https://theqoo.net/hot/4382982667",
+          "score": 62.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 56,
+          "title": "전문가 경고\" 부캉이 이대로 두면 폐사\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160415",
+          "score": 62.38
+        },
+        {
+          "source": "루리웹",
+          "rank": 97,
+          "title": "십상남자 부캉이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77109895?m=humor_only&t=now",
+          "score": 51.71
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "ie8fb5037",
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+      "keywords": [
+        "무슬림",
+        "한국"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 103.67,
-      "peak_score": 103.67,
+      "score": 106.12,
+      "peak_score": 106.12,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -949,20 +1016,20 @@
         {
           "source": "루리웹",
           "rank": 1,
-          "title": "안경안써본 사람들이 AI안경방지책이라면서 이상한거 들고오는데",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108587?m=humor",
-          "score": 94.67
+          "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor",
+          "score": 98.12
         },
         {
           "source": "더쿠",
-          "rank": 67,
-          "title": "전세계 사람들이 기겁하는 중",
-          "url": "https://theqoo.net/hot/4382925783",
-          "score": 58.74
+          "rank": 33,
+          "title": "한국 편의점에 먹을거 없다고 따지는 무슬림",
+          "url": "https://theqoo.net/hot/4382987131",
+          "score": 66.89
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": 2
     },
     {
       "id": "if99ce903",
@@ -972,8 +1039,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.84,
-      "peak_score": 83.84,
+      "score": 77.21,
+      "peak_score": 77.21,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -982,230 +1049,125 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 8,
+          "rank": 28,
           "title": "아시아 국가들의 평균 기상 시간",
           "url": "https://theqoo.net/hot/4382991295",
-          "score": 74.84
+          "score": 68.21
         },
         {
           "source": "디시인사이드",
-          "rank": 56,
+          "rank": 87,
           "title": "싱글벙글 세계 주요 국가들의 최극점 좌표",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472268&_dcbest=1&page=1",
-          "score": 60.11
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i2777897f",
-      "title": "‘유니트리’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유니트리"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.52,
-      "peak_score": 81.52,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 13,
-          "title": "유니트리 쿵푸로봇 근황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472237&_dcbest=1&page=1",
-          "score": 72.52
-        },
-        {
-          "source": "클리앙",
-          "rank": 33,
-          "title": "유니트리 로봇입니다.",
-          "url": "https://www.clien.net/service/board/park/19281008?od=T31&po=0&category=0&groupCd=",
-          "score": 64.23
+          "score": 55.9
         }
       ],
       "rank": 3,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "id": "ie8fb5037",
-      "title": "‘무슬림’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib3876eed",
+      "title": "‘여자가’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "무슬림"
+        "여자가"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.53,
-      "peak_score": 80.53,
+      "score": 74.89,
+      "peak_score": 74.89,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "한국 편의점에 먹을거 없다고 따지는 무슬림",
-          "url": "https://theqoo.net/hot/4382987131",
-          "score": 71.53
-        },
-        {
-          "source": "루리웹",
-          "rank": 77,
-          "title": "파키스탄인을 현실에서 만난 무슬림 차별주의자.txt",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77109414?m=humor_only&t=now",
-          "score": 56.3
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i629906f4",
-      "title": "[속보] 바다로 나갔던 상어 '부캉이' 다시 왔다…차단막 뚫고 수로 재진입",
-      "keywords": [
-        "수로",
-        "차단막",
-        "상어",
-        "부캉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.37,
-      "peak_score": 78.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 17,
-          "title": "[속보] 바다로 나갔던 상어 '부캉이' 다시 왔다…차단막 뚫고 수로 재진입",
-          "url": "https://theqoo.net/hot/4382982667",
-          "score": 70.37
-        },
-        {
-          "source": "클리앙",
-          "rank": 85,
-          "title": "(속보) 상어 ‘부캉이’ 차단막 넘어 수로 안으로 진입.",
-          "url": "https://www.clien.net/service/board/park/19280997?od=T31&po=0&category=0&groupCd=",
-          "score": 54.96
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ibef4b4bc",
-      "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "무서운"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.45,
-      "peak_score": 73.45,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
+        "디시인사이드",
         "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 31,
-          "title": "당하면 무서운 스텔스 유도미사일",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743461",
-          "score": 64.45
+          "rank": 41,
+          "title": "펌글] 20대 여자가 자살한 원룸에서 살아본 썰",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743498",
+          "score": 65.89
         },
         {
-          "source": "루리웹",
-          "rank": 90,
-          "title": "초밥왕에서 전설의 요리사 삼태랑의 무서운 점",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77109416?m=humor_only&t=now",
-          "score": 53.95
+          "source": "디시인사이드",
+          "rank": 53,
+          "title": "33살 여자가 모은돈 이정도면 많이 모은거냐 ㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472216&_dcbest=1&page=1",
+          "score": 63.33
         }
       ],
-      "rank": 6,
-      "change": "NEW"
+      "rank": 4,
+      "change": -3
     }
   ],
   "keywords": [
     {
-      "keyword": "부캉",
-      "score": 145.09,
-      "post_count": 4,
+      "keyword": "한국",
+      "score": 164.67,
+      "post_count": 5,
       "source_count": 4,
-      "best_rank": 17,
+      "best_rank": 1,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "루리웹",
-        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 11
+      "change": 3
     },
     {
-      "keyword": "유니트리",
-      "score": 125.77,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 13,
+      "keyword": "부캉",
+      "score": 141.67,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 49,
       "sources": [
-        "디시인사이드",
-        "인벤",
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "ai",
-      "score": 124.22,
+      "keyword": "무슬림",
+      "score": 133.98,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 9,
+      "best_rank": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌",
+        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 2
     },
     {
-      "keyword": "한국",
-      "score": 118.69,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 15,
+      "keyword": "여성",
+      "score": 109.16,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
-        "더쿠",
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
       "rank": 4,
-      "change": -3
+      "change": "NEW"
     },
     {
-      "keyword": "무슬림",
-      "score": 107.99,
-      "post_count": 3,
+      "keyword": "편의점",
+      "score": 107.91,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 1,
       "sources": [
         "더쿠",
         "루리웹"
@@ -1215,53 +1177,53 @@
       "change": "NEW"
     },
     {
-      "keyword": "법안",
-      "score": 97.74,
+      "keyword": "서울",
+      "score": 97.84,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 4,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "국가들",
-      "score": 97.65,
+      "keyword": "미국",
+      "score": 90.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "결국",
-      "score": 97.61,
-      "post_count": 4,
+      "keyword": "종이빨대",
+      "score": 88.44,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 23,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "발언",
-      "score": 92.58,
+      "keyword": "손흥민",
+      "score": 86.62,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 18,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -1271,58 +1233,55 @@
       "change": "NEW"
     },
     {
-      "keyword": "다시",
-      "score": 91.98,
+      "keyword": "국가들",
+      "score": 85.82,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 28,
       "sources": [
         "더쿠",
-        "인벤"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "차단막",
-      "score": 88.6,
+      "keyword": "경고",
+      "score": 84.83,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 56,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "클리앙"
       ],
-      "aliases": [
-        "상어",
-        "수로"
-      ],
+      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "모습",
-      "score": 84.66,
+      "keyword": "정부",
+      "score": 83.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 54,
+      "best_rank": 62,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "무서운",
-      "score": 84.3,
+      "keyword": "이름",
+      "score": 82.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 40,
       "sources": [
-        "루리웹",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
@@ -1330,82 +1289,68 @@
       "change": "NEW"
     },
     {
-      "keyword": "재개",
-      "score": 82.05,
+      "keyword": "모든",
+      "score": 79.25,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "짧은",
-      "score": 80.84,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 66,
       "sources": [
         "루리웹",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 15,
+      "rank": 14,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "안경안써본 사람들이 AI안경방지책이라면서 이상한거 들고오는데",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77108587?m=humor",
-      "score": 94.67,
-      "views": 17950,
-      "comments": 95
-    },
-    {
-      "source": "뽐뿌",
-      "title": "현대차 비장의무기 '아이오닉V' 9월 판매량 떴음",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980300",
-      "score": 85.58,
-      "views": 12885,
-      "comments": 49
+      "title": "한국 편의점 음식들에 할랄이 없다는 무슬림 여성",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77108886?m=humor",
+      "score": 98.12,
+      "views": 15631,
+      "comments": 124
     },
     {
       "source": "디시인사이드",
-      "title": "선진국들 쓰레기 식민지가 되어버린 동남아",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472245&_dcbest=1&page=1",
-      "score": 78.83,
-      "views": 19070,
-      "comments": 293
-    },
-    {
-      "source": "더쿠",
-      "title": "아시아 국가들의 평균 기상 시간",
-      "url": "https://theqoo.net/hot/4382991295",
-      "score": 74.84,
-      "views": 16816,
-      "comments": 299
-    },
-    {
-      "source": "인벤",
-      "title": "정청래, 소방관 인건비 국가 부담법 발의…“부족분 전액 국비 지원”",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743468",
-      "score": 73.45,
-      "views": 384,
-      "comments": 17
+      "title": "싱글벙글 채식주의자들이 신봉하는 10가지 논리",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472277&_dcbest=1&page=1",
+      "score": 83.65,
+      "views": 9289,
+      "comments": 190
     },
     {
       "source": "클리앙",
-      "title": "유니트리 로봇입니다.",
-      "url": "https://www.clien.net/service/board/park/19281008?od=T31&po=0&category=0&groupCd=",
-      "score": 64.23,
-      "views": 1003,
-      "comments": 18
+      "title": "김정은이 정말로 사망했을 수도 있겠습니다.",
+      "url": "https://www.clien.net/service/board/park/19281035?od=T31&po=0&category=0&groupCd=",
+      "score": 82.48,
+      "views": 1886,
+      "comments": 21
+    },
+    {
+      "source": "더쿠",
+      "title": "이게 갑질이야?? 후배가 나 갑질했다고 팀장한테 얘기했대",
+      "url": "https://theqoo.net/hot/4383028266",
+      "score": 74.84,
+      "views": 20075,
+      "comments": 357
+    },
+    {
+      "source": "인벤",
+      "title": "김민석, 이 대통령 '유시민 처벌불원'에 \"법보단 토론 영역\"",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743513",
+      "score": 74.82,
+      "views": 391,
+      "comments": 13
+    },
+    {
+      "source": "뽐뿌",
+      "title": "치질 수술할때 해야 한다는 자세",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160382",
+      "score": 73.0,
+      "views": 25421,
+      "comments": 94
     }
   ]
 }
