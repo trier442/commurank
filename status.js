@@ -12,28 +12,12 @@
 
   function stateRow(row) {
     const count = Number(row?.count) || 0;
-    let kind = "warn";
-    let label = "점검";
-    let detail = row?.error ? String(row.error).replace(/^\w+Error:\s*/,"") : "현재 수집 결과가 없습니다.";
-
-    if (row?.ok && count > 0) {
-      kind = "ok";
-      label = "정상";
-      detail = `이번 수집 ${fmt(count)}건 · ${fmt(row.elapsed_ms)}ms`;
-    } else if (row?.cached && count > 0) {
-      kind = "cache";
-      label = "캐시";
-      const age = Number(row.cache_age_minutes) || 0;
-      detail = `최근 정상 데이터 ${fmt(count)}건 · 캐시 ${fmt(age)}분 전`;
-    }
-
     return `
       <div class="public-status-row">
         <div>
-          <strong>${safe(row?.source || "알 수 없음")}</strong>
-          <span>${safe(detail)}</span>
+          <strong>${safe(row?.source || "커뮤니티")}</strong>
+          <span>인기글 ${fmt(count)}건 반영</span>
         </div>
-        <em class="public-status-pill ${kind}">${label}</em>
       </div>`;
   }
 
@@ -44,30 +28,26 @@
       const data = await response.json();
       const sources = Array.isArray(data.sources) ? data.sources : [];
       const available = sources.filter(s => Number(s.count) > 0).length;
-      const direct = sources.filter(s => s.ok && Number(s.count) > 0).length;
-      const cached = sources.filter(s => s.cached && Number(s.count) > 0).length;
       const age = ageMinutes(data.collected_at);
 
-      document.querySelector("#statusFreshness").textContent = age === null ? "-" : (age < 1 ? "방금 전" : age + "분 전");
+      document.querySelector("#statusFreshness").textContent = data.collected_at ? "최근 반영" : "-";
       document.querySelector("#statusFreshnessSub").textContent = data.collected_at
         ? new Date(data.collected_at).toLocaleString("ko-KR",{year:"numeric",month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"})
-        : "수집 시각 없음";
+        : "집계 기준 시각 없음";
 
       document.querySelector("#statusAvailable").textContent = available + "/" + sources.length;
-      document.querySelector("#statusAvailableSub").textContent =
-        direct + "개 직접" + (cached ? " · " + cached + "개 캐시" : "");
+      document.querySelector("#statusAvailableSub").textContent = "커뮤니티별 공개 인기글";
       document.querySelector("#statusPosts").textContent = fmt(data.rankings?.realtime?.length || 0);
       document.querySelector("#statusRising").textContent = fmt(data.rankings?.rising?.length || 0);
       document.querySelector("#publicSourceStatus").innerHTML = sources.length
         ? sources.map(stateRow).join("")
-        : '<div class="empty">연결된 수집 소스가 없습니다.</div>';
+        : '<div class="empty">현재 반영된 커뮤니티가 없습니다.</div>';
 
-      document.body.classList.toggle("status-stale", age !== null && age > 30);
     } catch {
-      document.querySelector("#statusFreshness").textContent = "확인 실패";
-      document.querySelector("#statusFreshnessSub").textContent = "잠시 후 다시 확인해 주세요.";
+      document.querySelector("#statusFreshness").textContent = "-";
+      document.querySelector("#statusFreshnessSub").textContent = "집계 정보";
       document.querySelector("#publicSourceStatus").innerHTML =
-        '<div class="empty">상태 데이터를 불러오지 못했습니다.</div>';
+        '<div class="empty">현재 표시할 집계 정보가 없습니다.</div>';
     }
   }
 
