@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-23T16:21:32.591332+09:00",
+  "collected_at": "2026-10-23T19:19:32.607896+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -57,17 +57,15 @@
     },
     {
       "id": "ia4c9a0a3",
-      "title": "[속보] 오세훈 2심 무죄",
+      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "오세훈",
-        "무죄",
-        "2심"
+        "오세훈"
       ],
       "source_count": 5,
       "post_count": 6,
-      "score": 138.1,
+      "score": 139.01,
       "peak_score": 108.05,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -77,40 +75,26 @@
       ],
       "posts": [
         {
+          "source": "클리앙",
+          "rank": 10,
+          "title": "오세훈 관련 억지 그만 쓰고 받아드리세요",
+          "url": "https://www.clien.net/service/board/park/19281783?od=T31&po=0&category=0&groupCd=",
+          "score": 76.41
+        },
+        {
           "source": "디시인사이드",
-          "rank": 4,
+          "rank": 22,
           "title": "[속보] 오세훈 2심 무죄",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
-          "score": 86.05
-        },
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "민주당에선 오세훈 무죄 나왔으면 했다던데 가슴 쓸어내렸을듯",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744184",
-          "score": 79.72
-        },
-        {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-          "url": "https://theqoo.net/hot/4384122183",
-          "score": 69.21
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 91,
-          "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
-          "score": 54.0
+          "score": 68.23
         }
       ],
       "first_seen": "2026-10-03T03:43:55.638495+09:00",
-      "last_seen": "2026-10-23T16:21:32.591332+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-23T19:19:32.607896+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
       "rank": 2,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i7f717bd5",
@@ -152,7 +136,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "id50390b0",
@@ -192,7 +176,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -864,7 +848,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 20,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
