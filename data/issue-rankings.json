@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-23T15:01:24.580793+09:00",
+  "collected_at": "2026-10-23T16:21:32.591332+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -12,20 +12,68 @@
     "realtime": [
       {
         "id": "ia4c9a0a3",
-        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+        "title": "[속보] 오세훈 2심 무죄",
         "keywords": [
           "오세훈",
           "무죄",
-          "2심",
-          "오세훈이"
+          "2심"
         ],
-        "source_count": 5,
-        "post_count": 6,
-        "score": 102.84,
-        "peak_score": 102.84,
+        "source_count": 4,
+        "post_count": 4,
+        "score": 108.05,
+        "peak_score": 108.05,
         "appearances": 1,
         "sources": [
           "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "[속보] 오세훈 2심 무죄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+            "score": 86.05
+          },
+          {
+            "source": "인벤",
+            "rank": 9,
+            "title": "민주당에선 오세훈 무죄 나왔으면 했다던데 가슴 쓸어내렸을듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744184",
+            "score": 79.72
+          },
+          {
+            "source": "더쿠",
+            "rank": 27,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 69.21
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+            "score": 54.0
+          }
+        ],
+        "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 4,
+        "post_count": 4,
+        "score": 100.31,
+        "peak_score": 100.31,
+        "appearances": 1,
+        "sources": [
           "디시인사이드",
           "뽐뿌",
           "인벤",
@@ -33,170 +81,196 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 12,
-            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-            "url": "https://theqoo.net/hot/4384122183",
-            "score": 78.84
+            "source": "인벤",
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
           },
           {
             "source": "디시인사이드",
-            "rank": 19,
-            "title": "[속보] 오세훈 2심 무죄",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
-            "score": 72.65
-          },
-          {
-            "source": "인벤",
-            "rank": 34,
-            "title": "오세훈 무죄",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
-            "score": 68.2
+            "rank": 50,
+            "title": "시사타파, 딴지 분노...\"이재명. 정권 끝장내겠다\" 선전포고",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472547&_dcbest=1&page=1",
+            "score": 62.88
           },
           {
             "source": "뽐뿌",
-            "rank": 48,
-            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
-            "score": 64.25
+            "rank": 78,
+            "title": "페북) 조국 분노, 이재명 정부 직격탄.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162351",
+            "score": 57.34
           },
           {
             "source": "클리앙",
-            "rank": 50,
-            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
-            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
-            "score": 64.04
-          },
-          {
-            "source": "인벤",
             "rank": 87,
-            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
-            "score": 54.95
-          }
-        ],
-        "rank": 1,
-        "change": 4
-      },
-      {
-        "id": "i7f717bd5",
-        "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "부캉이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.21,
-        "peak_score": 74.21,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 44,
-            "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
-            "url": "https://theqoo.net/hot/4384054575",
-            "score": 65.21
-          },
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "결국 영국에 진출한 부캉이",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
-            "score": 56.45
+            "title": "이재명 대통령 재판 중단 이유",
+            "url": "https://www.clien.net/service/board/park/19281704?od=T31&po=0&category=0&groupCd=",
+            "score": 55.17
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "i01009091",
-        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "김민석",
-          "신천지"
+          "민주당"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.11,
-        "peak_score": 74.11,
+        "source_count": 3,
+        "post_count": 4,
+        "score": 91.94,
+        "peak_score": 91.94,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 45,
-            "title": "[오늘 이 뉴스] '신천지 다 깐다' 박선원 벌컥.. 김민석 한병도 '동공지진' (2026.10.23/MBC뉴스)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744142",
-            "score": 65.11
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 61,
-            "title": "신천지 조사 결과 공개 한다니까 김민석 표정 ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161931",
-            "score": 60.21
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "ie861fdd4",
-        "title": "‘솔직히’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "솔직히"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.04,
-        "peak_score": 73.04,
-        "appearances": 1,
-        "sources": [
+          "디시인사이드",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 50,
-            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
-            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
-            "score": 64.04
+            "rank": 19,
+            "title": "민주당 잠정 대선후보들보면 진짜 처참하네요",
+            "url": "https://www.clien.net/service/board/park/19281700?od=T31&po=0&category=0&groupCd=",
+            "score": 73.94
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "\"쿠팡,美민주당 후원 대폭 늘렸다\"...중간선거 공화당 패배 반영",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472573&_dcbest=1&page=1",
+            "score": 65.77
           },
           {
             "source": "인벤",
-            "rank": 62,
-            "title": "난 솔직히 오세훈 무죄 날거 같더라",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744151",
-            "score": 60.2
+            "rank": 76,
+            "title": "민주당 “상식 벗어난 오세훈 판결 강력 유감, 사법개혁 도화선 될 것”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744171",
+            "score": 57.62
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i6f9ee365",
+        "title": "‘업로드’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "업로드"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 85.31,
+        "peak_score": 85.31,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 66,
+            "title": "사진 업로드 끼얏호 webp ( 22장 )",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472577&_dcbest=1&page=1",
+            "score": 59.43
           }
         ],
         "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i40eee522",
+        "title": "‘사법부’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "사법부"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.75,
+        "peak_score": 88.75,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 8,
+            "title": "이상성) 대한민국 최악의 적폐는 사법부.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162368",
+            "score": 79.75
+          },
+          {
+            "source": "클리앙",
+            "rank": 69,
+            "title": "사법부 개혁이 필요한 시점이라 생각합니다",
+            "url": "https://www.clien.net/service/board/park/19281696?od=T31&po=0&category=0&groupCd=",
+            "score": 58.95
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 64.89,
+        "peak_score": 64.89,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 83,
+            "title": "실시간 케톡에서 말나오는 멜뮤 시상자",
+            "url": "https://theqoo.net/hot/4384102398",
+            "score": 55.89
+          },
+          {
+            "source": "루리웹",
+            "rank": 99,
+            "title": "실시간 싸인볼 당첨된거 왔음 ㄷㄷ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77124874?m=humor_only&t=now",
+            "score": 52.2
+          }
+        ],
+        "rank": 6,
         "change": "NEW"
       }
     ],
     "daily": [
       {
         "id": "ia4c9a0a3",
-        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+        "title": "[속보] 오세훈 2심 무죄",
         "keywords": [
           "오세훈",
           "무죄",
-          "2심",
-          "오세훈이"
+          "2심"
         ],
         "source_count": 5,
         "post_count": 6,
-        "score": 130.33,
-        "peak_score": 102.84,
-        "appearances": 2,
+        "score": 136.98,
+        "peak_score": 108.05,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -206,54 +280,141 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 12,
-            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-            "url": "https://theqoo.net/hot/4384122183",
-            "score": 78.84
-          },
-          {
             "source": "디시인사이드",
-            "rank": 19,
+            "rank": 4,
             "title": "[속보] 오세훈 2심 무죄",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
-            "score": 72.65
+            "score": 86.05
           },
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "오세훈 무죄",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
-            "score": 68.2
+            "rank": 9,
+            "title": "민주당에선 오세훈 무죄 나왔으면 했다던데 가슴 쓸어내렸을듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744184",
+            "score": 79.72
+          },
+          {
+            "source": "더쿠",
+            "rank": 27,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 69.21
           },
           {
             "source": "뽐뿌",
-            "rank": 48,
+            "rank": 91,
             "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
-            "score": 64.25
-          },
-          {
-            "source": "클리앙",
-            "rank": 50,
-            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
-            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
-            "score": 64.04
-          },
-          {
-            "source": "인벤",
-            "rank": 87,
-            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
-            "score": 54.95
+            "score": 54.0
           }
         ],
         "first_seen": "2026-10-03T03:43:55.638495+09:00",
-        "last_seen": "2026-10-23T15:01:24.580793+09:00",
-        "latest_source_count": 5,
-        "latest_post_count": 6,
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 1,
-        "change": 11
+        "change": 0
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 4,
+        "post_count": 4,
+        "score": 119.78,
+        "peak_score": 100.31,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 50,
+            "title": "시사타파, 딴지 분노...\"이재명. 정권 끝장내겠다\" 선전포고",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472547&_dcbest=1&page=1",
+            "score": 62.88
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "페북) 조국 분노, 이재명 정부 직격탄.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162351",
+            "score": 57.34
+          },
+          {
+            "source": "클리앙",
+            "rank": 87,
+            "title": "이재명 대통령 재판 중단 이유",
+            "url": "https://www.clien.net/service/board/park/19281704?od=T31&po=0&category=0&groupCd=",
+            "score": 55.17
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 109.43,
+        "peak_score": 91.94,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 19,
+            "title": "민주당 잠정 대선후보들보면 진짜 처참하네요",
+            "url": "https://www.clien.net/service/board/park/19281700?od=T31&po=0&category=0&groupCd=",
+            "score": 73.94
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "\"쿠팡,美민주당 후원 대폭 늘렸다\"...중간선거 공화당 패배 반영",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472573&_dcbest=1&page=1",
+            "score": 65.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "민주당 “상식 벗어난 오세훈 판결 강력 유감, 사법개혁 도화선 될 것”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744171",
+            "score": 57.62
+          }
+        ],
+        "first_seen": "2026-09-29T19:53:33.458089+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 3,
+        "change": 1
       },
       {
         "id": "i5fa6eb08",
@@ -292,8 +453,8 @@
         "last_seen": "2026-10-23T11:00:24.057303+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": -1
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "ifeed66d7",
@@ -330,19 +491,19 @@
         "last_seen": "2026-10-23T05:45:49.896506+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": -1
+        "rank": 5,
+        "change": -2
       },
       {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i40eee522",
+        "title": "‘사법부’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "민주당"
+          "사법부"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 98.18,
-        "peak_score": 88.71,
+        "score": 98.22,
+        "peak_score": 88.75,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -351,25 +512,25 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 6,
-            "title": "충격적인) 민주당 근황 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161615",
-            "score": 79.71
+            "rank": 8,
+            "title": "이상성) 대한민국 최악의 적폐는 사법부.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162368",
+            "score": 79.75
           },
           {
             "source": "클리앙",
-            "rank": 26,
-            "title": "민주당 정부의 가장 큰 문제점",
-            "url": "https://www.clien.net/service/board/park/19281429?od=T31&po=0&category=0&groupCd=",
-            "score": 68.36
+            "rank": 69,
+            "title": "사법부 개혁이 필요한 시점이라 생각합니다",
+            "url": "https://www.clien.net/service/board/park/19281696?od=T31&po=0&category=0&groupCd=",
+            "score": 58.95
           }
         ],
-        "first_seen": "2026-09-29T19:53:33.458089+09:00",
-        "last_seen": "2026-10-23T11:00:24.057303+09:00",
+        "first_seen": "2026-10-23T16:21:32.591332+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "ib42d9061",
@@ -406,8 +567,8 @@
         "last_seen": "2026-10-23T05:45:49.896506+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i7f36655b",
@@ -444,8 +605,8 @@
         "last_seen": "2026-10-23T11:00:24.057303+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ie861fdd4",
@@ -484,8 +645,46 @@
         "last_seen": "2026-10-23T15:01:24.580793+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 9,
+        "change": -2
+      },
+      {
+        "id": "i6f9ee365",
+        "title": "‘업로드’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "업로드"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 95.78,
+        "peak_score": 85.31,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 66,
+            "title": "사진 업로드 끼얏호 webp ( 22장 )",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472577&_dcbest=1&page=1",
+            "score": 59.43
+          }
+        ],
+        "first_seen": "2026-10-23T16:21:32.591332+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 10,
+        "change": "NEW"
       },
       {
         "id": "ib40eb21c",
@@ -522,8 +721,8 @@
         "last_seen": "2026-10-23T07:45:21.151398+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 11,
+        "change": -3
       },
       {
         "id": "i889c1c6e",
@@ -560,8 +759,47 @@
         "last_seen": "2026-10-23T08:39:53.250469+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
+        "rank": 12,
+        "change": -3
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 5,
+        "score": 91.03,
+        "peak_score": 76.54,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 83,
+            "title": "실시간 케톡에서 말나오는 멜뮤 시상자",
+            "url": "https://theqoo.net/hot/4384102398",
+            "score": 55.89
+          },
+          {
+            "source": "루리웹",
+            "rank": 99,
+            "title": "실시간 싸인볼 당첨된거 왔음 ㄷㄷ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77124874?m=humor_only&t=now",
+            "score": 52.2
+          }
+        ],
+        "first_seen": "2026-10-07T14:44:26.372950+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i9ea7996d",
@@ -598,46 +836,8 @@
         "last_seen": "2026-10-23T11:00:24.057303+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
-      },
-      {
-        "id": "iae6b0123",
-        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "실시간"
-        ],
-        "source_count": 2,
-        "post_count": 5,
-        "score": 89.01,
-        "peak_score": 76.54,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 37,
-            "title": "실시간 미쳐버린 한국날씨 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77119097?m=humor_only&t=now",
-            "score": 64.54
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 40,
-            "title": "박위 여기갤 실시간 모니터하네",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472448&_dcbest=1&page=1",
-            "score": 63.2
-          }
-        ],
-        "first_seen": "2026-10-07T14:44:26.372950+09:00",
-        "last_seen": "2026-10-23T04:32:05.119471+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 5,
-        "rank": 11,
-        "change": -1
+        "rank": 14,
+        "change": -4
       },
       {
         "id": "ib75ab84a",
@@ -674,8 +874,8 @@
         "last_seen": "2026-10-23T07:45:21.151398+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i75cc7e14",
@@ -712,8 +912,8 @@
         "last_seen": "2026-10-23T02:33:10.347544+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i7f717bd5",
@@ -750,8 +950,8 @@
         "last_seen": "2026-10-23T15:01:24.580793+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "i01009091",
@@ -789,8 +989,8 @@
         "last_seen": "2026-10-23T15:01:24.580793+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "icd035b72",
@@ -831,8 +1031,8 @@
         "last_seen": "2026-10-23T05:45:49.896506+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -2
+        "rank": 19,
+        "change": -3
       },
       {
         "id": "i4f451ecc",
@@ -869,84 +1069,8 @@
         "last_seen": "2026-10-23T07:45:21.151398+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
-      },
-      {
-        "id": "i64aac33b",
-        "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "코스피"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.55,
-        "peak_score": 68.08,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 58,
-            "title": "코스피, AI 투자 불안에 3%대 급락, 삼전닉스 또 추락",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743979",
-            "score": 59.08
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 94,
-            "title": "코스피, 하루 만에 또 3%대 급락…'롤코' 장세에 5600선도 내줘",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789",
-            "score": 51.72
-          }
-        ],
-        "first_seen": "2026-10-15T14:11:05.910258+09:00",
-        "last_seen": "2026-10-23T10:07:08.423906+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "if5f6a571",
-        "title": "‘반달곰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "반달곰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.39,
-        "peak_score": 61.92,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 91,
-            "title": "반달곰 100마리 시대",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743999",
-            "score": 52.92
-          },
-          {
-            "source": "루리웹",
-            "rank": 94,
-            "title": "반달곰 풀어놓는게 옳았는지 틀렸는지 쉽게 알 수 있는 방법.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77120866?m=humor_only&t=now",
-            "score": 52.69
-          }
-        ],
-        "first_seen": "2026-10-23T11:00:24.057303+09:00",
-        "last_seen": "2026-10-23T11:00:24.057303+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -2
+        "rank": 20,
+        "change": -3
       }
     ],
     "weekly": [
@@ -1000,6 +1124,63 @@
         "change": 0
       },
       {
+        "id": "ia4c9a0a3",
+        "title": "[속보] 오세훈 2심 무죄",
+        "keywords": [
+          "오세훈",
+          "무죄",
+          "2심"
+        ],
+        "source_count": 5,
+        "post_count": 6,
+        "score": 138.1,
+        "peak_score": 108.05,
+        "appearances": 4,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "[속보] 오세훈 2심 무죄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+            "score": 86.05
+          },
+          {
+            "source": "인벤",
+            "rank": 9,
+            "title": "민주당에선 오세훈 무죄 나왔으면 했다던데 가슴 쓸어내렸을듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744184",
+            "score": 79.72
+          },
+          {
+            "source": "더쿠",
+            "rank": 27,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 69.21
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+            "score": 54.0
+          }
+        ],
+        "first_seen": "2026-10-03T03:43:55.638495+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
+        "rank": 2,
+        "change": 2
+      },
+      {
         "id": "i7f717bd5",
         "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1038,8 +1219,8 @@
         "last_seen": "2026-10-23T15:01:24.580793+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 1
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "id50390b0",
@@ -1078,92 +1259,20 @@
         "last_seen": "2026-10-22T01:08:04.674749+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": -1
-      },
-      {
-        "id": "ia4c9a0a3",
-        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-        "keywords": [
-          "오세훈",
-          "무죄",
-          "2심",
-          "오세훈이"
-        ],
-        "source_count": 5,
-        "post_count": 6,
-        "score": 131.77,
-        "peak_score": 102.84,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 12,
-            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-            "url": "https://theqoo.net/hot/4384122183",
-            "score": 78.84
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 19,
-            "title": "[속보] 오세훈 2심 무죄",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
-            "score": 72.65
-          },
-          {
-            "source": "인벤",
-            "rank": 34,
-            "title": "오세훈 무죄",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
-            "score": 68.2
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 48,
-            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
-            "score": 64.25
-          },
-          {
-            "source": "클리앙",
-            "rank": 50,
-            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
-            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
-            "score": 64.04
-          },
-          {
-            "source": "인벤",
-            "rank": 87,
-            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
-            "score": 54.95
-          }
-        ],
-        "first_seen": "2026-10-03T03:43:55.638495+09:00",
-        "last_seen": "2026-10-23T15:01:24.580793+09:00",
-        "latest_source_count": 5,
-        "latest_post_count": 6,
         "rank": 4,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i039fd79c",
-        "title": "‘이재명이’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명이"
+          "이재명"
         ],
-        "source_count": 3,
+        "source_count": 4,
         "post_count": 4,
-        "score": 121.65,
-        "peak_score": 95.79,
-        "appearances": 15,
+        "score": 130.48,
+        "peak_score": 100.31,
+        "appearances": 16,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -1173,25 +1282,39 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 42,
-            "title": "이재명이 문재인을 지우려는걸까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743851",
-            "score": 62.48
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
           },
           {
             "source": "디시인사이드",
-            "rank": 61,
-            "title": "오늘 이재명이 스스로 탄핵드립했네",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472331&_dcbest=1&page=1",
-            "score": 58.38
+            "rank": 50,
+            "title": "시사타파, 딴지 분노...\"이재명. 정권 끝장내겠다\" 선전포고",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472547&_dcbest=1&page=1",
+            "score": 62.88
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "페북) 조국 분노, 이재명 정부 직격탄.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162351",
+            "score": 57.34
+          },
+          {
+            "source": "클리앙",
+            "rank": 87,
+            "title": "이재명 대통령 재판 중단 이유",
+            "url": "https://www.clien.net/service/board/park/19281704?od=T31&po=0&category=0&groupCd=",
+            "score": 55.17
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-22T21:30:45.290196+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iaf3fcbdb",
@@ -1231,7 +1354,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i22143bd8",
@@ -1275,7 +1398,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie5a2c1ba",
@@ -1314,7 +1437,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie8fb5037",
@@ -1353,7 +1476,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i567efd17",
@@ -1392,7 +1515,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0b9deffd",
@@ -1430,7 +1553,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i533b29bd",
@@ -1469,7 +1592,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ied6d77dc",
@@ -1507,7 +1630,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i9fddae44",
@@ -1545,7 +1668,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie33ae889",
@@ -1604,7 +1727,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia2a0f7e2",
@@ -1645,7 +1768,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1683,7 +1806,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i23cd8c47",
@@ -1721,7 +1844,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "id4af6b9b",
@@ -1762,53 +1885,54 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
-        "id": "i6c387ceb",
-        "title": "‘압수수색’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "압수수색"
+          "민주당"
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 111.15,
-        "peak_score": 93.66,
-        "appearances": 2,
+        "score": 111.99,
+        "peak_score": 91.94,
+        "appearances": 4,
         "sources": [
+          "디시인사이드",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 10,
-            "title": "시사타파tv 압수수색",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742960",
-            "score": 75.66
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 13,
-            "title": "이제 대통령 욕하면 국민들도 압수수색 당하는군요.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159123",
-            "score": 73.89
-          },
-          {
             "source": "클리앙",
-            "rank": 64,
-            "title": "딴지에서 시시타파 압수수색 당한다고 분노하는거 보면",
-            "url": "https://www.clien.net/service/board/park/19280490?od=T31&po=0&category=0&groupCd=",
-            "score": 59.4
+            "rank": 19,
+            "title": "민주당 잠정 대선후보들보면 진짜 처참하네요",
+            "url": "https://www.clien.net/service/board/park/19281700?od=T31&po=0&category=0&groupCd=",
+            "score": 73.94
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "\"쿠팡,美민주당 후원 대폭 늘렸다\"...중간선거 공화당 패배 반영",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472573&_dcbest=1&page=1",
+            "score": 65.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "민주당 “상식 벗어난 오세훈 판결 강력 유감, 사법개혁 도화선 될 것”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744171",
+            "score": 57.62
           }
         ],
-        "first_seen": "2026-10-21T02:57:44.287013+09:00",
-        "last_seen": "2026-10-21T07:36:13.997079+09:00",
+        "first_seen": "2026-09-29T19:53:33.458089+09:00",
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 20,
-        "change": -1
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -1863,15 +1987,15 @@
       },
       {
         "id": "i039fd79c",
-        "title": "‘이재명이’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명이"
+          "이재명"
         ],
         "source_count": 4,
         "post_count": 6,
         "score": 142.5,
         "peak_score": 106.5,
-        "appearances": 65,
+        "appearances": 66,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1882,23 +2006,37 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 42,
-            "title": "이재명이 문재인을 지우려는걸까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743851",
-            "score": 62.48
+            "rank": 18,
+            "title": "이재명 대통령 인스타 사진 업로드 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744189",
+            "score": 75.31
           },
           {
             "source": "디시인사이드",
-            "rank": 61,
-            "title": "오늘 이재명이 스스로 탄핵드립했네",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472331&_dcbest=1&page=1",
-            "score": 58.38
+            "rank": 50,
+            "title": "시사타파, 딴지 분노...\"이재명. 정권 끝장내겠다\" 선전포고",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472547&_dcbest=1&page=1",
+            "score": 62.88
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "페북) 조국 분노, 이재명 정부 직격탄.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162351",
+            "score": 57.34
+          },
+          {
+            "source": "클리앙",
+            "rank": 87,
+            "title": "이재명 대통령 재판 중단 이유",
+            "url": "https://www.clien.net/service/board/park/19281704?od=T31&po=0&category=0&groupCd=",
+            "score": 55.17
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-22T21:30:45.290196+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 2,
         "change": 0
       },
@@ -1945,18 +2083,17 @@
       },
       {
         "id": "ia4c9a0a3",
-        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+        "title": "[속보] 오세훈 2심 무죄",
         "keywords": [
           "오세훈",
           "무죄",
-          "2심",
-          "오세훈이"
+          "2심"
         ],
         "source_count": 5,
         "post_count": 6,
-        "score": 134.57,
-        "peak_score": 102.84,
-        "appearances": 6,
+        "score": 140.45,
+        "peak_score": 108.05,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1966,54 +2103,40 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 12,
-            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
-            "url": "https://theqoo.net/hot/4384122183",
-            "score": 78.84
-          },
-          {
             "source": "디시인사이드",
-            "rank": 19,
+            "rank": 4,
             "title": "[속보] 오세훈 2심 무죄",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
-            "score": 72.65
+            "score": 86.05
           },
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "오세훈 무죄",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
-            "score": 68.2
+            "rank": 9,
+            "title": "민주당에선 오세훈 무죄 나왔으면 했다던데 가슴 쓸어내렸을듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744184",
+            "score": 79.72
+          },
+          {
+            "source": "더쿠",
+            "rank": 27,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 69.21
           },
           {
             "source": "뽐뿌",
-            "rank": 48,
+            "rank": 91,
             "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
-            "score": 64.25
-          },
-          {
-            "source": "클리앙",
-            "rank": 50,
-            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
-            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
-            "score": 64.04
-          },
-          {
-            "source": "인벤",
-            "rank": 87,
-            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
-            "score": 54.95
+            "score": 54.0
           }
         ],
         "first_seen": "2026-10-03T03:43:55.638495+09:00",
-        "last_seen": "2026-10-23T15:01:24.580793+09:00",
-        "latest_source_count": 5,
-        "latest_post_count": 6,
+        "last_seen": "2026-10-23T16:21:32.591332+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i7f717bd5",
@@ -2055,7 +2178,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "id50390b0",
@@ -2095,7 +2218,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -2136,7 +2259,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i849dd46f",
@@ -2194,7 +2317,7 @@
         "latest_source_count": 4,
         "latest_post_count": 5,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i47b692dc",
@@ -2234,7 +2357,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -2275,7 +2398,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -2317,7 +2440,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -2358,7 +2481,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i8b4085e0",
@@ -2400,7 +2523,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie5e6dce8",
@@ -2456,7 +2579,7 @@
         "latest_source_count": 4,
         "latest_post_count": 6,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia8451ee4",
@@ -2497,7 +2620,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ib19f68fa",
@@ -2538,7 +2661,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i199bc4da",
@@ -2578,7 +2701,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibd61c9f9",
@@ -2636,7 +2759,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i1b32b99d",
@@ -2691,7 +2814,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i698d5433",
@@ -2749,7 +2872,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
