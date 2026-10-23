@@ -1,6 +1,75 @@
 {
   "version": 1,
   "issues": {
+    "i64aac33b": {
+      "id": "i64aac33b",
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-10-23T10:07:08.423906+09:00",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "points": [
+        {
+          "at": "2026-10-15T14:11:05.910258+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 93.63,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2740591"
+          ]
+        },
+        {
+          "at": "2026-10-22T14:37:56.998852+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 61.69,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77112008?m=humor_only&t=now",
+            "https://www.clien.net/service/board/park/19281120?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-23T10:07:08.423906+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.08,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743979",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 58,
+          "title": "코스피, AI 투자 불안에 3%대 급락, 삼전닉스 또 추락",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743979",
+          "score": 59.08
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 94,
+          "title": "코스피, 하루 만에 또 3%대 급락…'롤코' 장세에 5600선도 내줘",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789",
+          "score": 51.72
+        }
+      ]
+    },
     "i889c1c6e": {
       "id": "i889c1c6e",
       "first_seen": "2026-10-23T08:39:53.250469+09:00",
@@ -4216,61 +4285,6 @@
           "title": "우크라 대신 中·러 손잡는 트럼프, '21세기판 얄타회담' 포석\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2743676",
           "score": 51.73
-        }
-      ]
-    },
-    "i64aac33b": {
-      "id": "i64aac33b",
-      "first_seen": "2026-10-15T14:11:05.910258+09:00",
-      "last_seen": "2026-10-22T14:37:56.998852+09:00",
-      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "코스피"
-      ],
-      "points": [
-        {
-          "at": "2026-10-15T14:11:05.910258+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 93.63,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2740591"
-          ]
-        },
-        {
-          "at": "2026-10-22T14:37:56.998852+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 61.69,
-          "sources": [
-            "루리웹",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77112008?m=humor_only&t=now",
-            "https://www.clien.net/service/board/park/19281120?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 85,
-          "title": "코스피 9000간다",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77112008?m=humor_only&t=now",
-          "score": 52.69
-        },
-        {
-          "source": "클리앙",
-          "rank": 98,
-          "title": "코스피 오늘도 지옥 가고 있네요...",
-          "url": "https://www.clien.net/service/board/park/19281120?od=T31&po=0&category=0&groupCd=",
-          "score": 50.5
         }
       ]
     },
@@ -34905,5 +34919,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T08:39:53.250469+09:00"
+  "updated_at": "2026-10-23T10:07:08.423906+09:00"
 }
