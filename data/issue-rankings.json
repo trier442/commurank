@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-24T04:50:29.776456+09:00",
+  "collected_at": "2026-10-24T05:37:08.162741+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,71 +11,37 @@
   "rankings": {
     "realtime": [
       {
-        "id": "id0f722ca",
-        "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "보이는"
+          "네이버페이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 105.88,
-        "peak_score": 105.88,
+        "score": 95.07,
+        "peak_score": 95.07,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "요즘 서구권에 보이는 네오나치 보추들",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77132639?m=humor",
-            "score": 96.88
-          },
-          {
-            "source": "인벤",
-            "rank": 85,
-            "title": "끈만 보이는 뒤태 빌리 츠키",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744390",
-            "score": 55.18
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i74895616",
-        "title": "‘키오스크’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "키오스크"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.08,
-        "peak_score": 88.08,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
-            "score": 79.08
+            "source": "루리웹",
+            "rank": 4,
+            "title": "[네이버페이] 일일적립, 클릭 44원, 라이브예고 1원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108290",
+            "score": 86.07
           },
           {
-            "source": "디시인사이드",
-            "rank": 42,
-            "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
-            "score": 61.33
+            "source": "뽐뿌",
+            "rank": 75,
+            "title": "[란123] 네이버페이 70원 + 랜덤 포인트 받으세요 (+기타 369원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163244",
+            "score": 55.06
           }
         ],
-        "rank": 2,
+        "rank": 1,
         "change": "NEW"
       },
       {
@@ -96,7 +62,7 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 9,
+            "rank": 7,
             "title": "ap 알케미 공식 입장문.jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
             "score": 75.3
@@ -106,11 +72,80 @@
             "rank": 39,
             "title": "양홍원 소속 레이블 입장문",
             "url": "https://theqoo.net/hot/4384592259",
-            "score": 62.42
+            "score": 61.92
+          }
+        ],
+        "rank": 2,
+        "change": 1
+      },
+      {
+        "id": "i74895616",
+        "title": "‘키오스크’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "키오스크"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.29,
+        "peak_score": 79.29,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
+            "score": 70.29
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 43,
+            "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
+            "score": 61.33
           }
         ],
         "rank": 3,
         "change": -1
+      },
+      {
+        "id": "i70e3f55a",
+        "title": "요즘 역대급이라는 요식업계 근황.",
+        "keywords": [
+          "역대급이라는",
+          "요식업계"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.1,
+        "peak_score": 78.1,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 17,
+            "title": "요즘 역대급이라는 요식업계 근황.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744406",
+            "score": 70.1
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 26,
+            "title": "요즘 역대급이라는 요식업계 근황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163218",
+            "score": 67.59
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i80cae878",
@@ -120,8 +155,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 66.48,
-        "peak_score": 66.48,
+        "score": 66.43,
+        "peak_score": 66.43,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -130,21 +165,21 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 69,
+            "rank": 65,
             "title": "아이브 장원영",
             "url": "https://www.inven.co.kr/board/webzine/2097/2744399",
-            "score": 57.48
+            "score": 57.43
           },
           {
             "source": "더쿠",
-            "rank": 91,
+            "rank": 85,
             "title": "장원영 : 제가 왜요?",
             "url": "https://theqoo.net/hot/4384483447",
             "score": 53.95
           }
         ],
-        "rank": 4,
-        "change": "NEW"
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i663c1a7c",
@@ -154,8 +189,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 66.24,
-        "peak_score": 66.24,
+        "score": 63.06,
+        "peak_score": 63.06,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -164,21 +199,21 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 70,
+            "rank": 83,
             "title": "티니핑 이 ㅅㄲ들.. 이 악랄한 놈들..",
             "url": "https://www.inven.co.kr/board/webzine/2097/2744377",
-            "score": 57.24
+            "score": 54.06
           },
           {
             "source": "더쿠",
-            "rank": 97,
+            "rank": 91,
             "title": "돈 버는 법을 잘 아는 파산ㅍ.. 아니 티니핑 근황",
             "url": "https://theqoo.net/hot/4384545057",
             "score": 53.26
           }
         ],
-        "rank": 5,
-        "change": -4
+        "rank": 6,
+        "change": -1
       }
     ],
     "daily": [
@@ -218,6 +253,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 104.54,
+        "peak_score": 95.07,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 4,
+            "title": "[네이버페이] 일일적립, 클릭 44원, 라이브예고 1원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108290",
+            "score": 86.07
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 75,
+            "title": "[란123] 네이버페이 70원 + 랜덤 포인트 받으세요 (+기타 369원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163244",
+            "score": 55.06
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -228,9 +301,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 100.26,
+        "score": 101.38,
         "peak_score": 87.33,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "인벤"
@@ -238,24 +311,24 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 70,
+            "rank": 83,
             "title": "티니핑 이 ㅅㄲ들.. 이 악랄한 놈들..",
             "url": "https://www.inven.co.kr/board/webzine/2097/2744377",
-            "score": 57.24
+            "score": 54.06
           },
           {
             "source": "더쿠",
-            "rank": 97,
+            "rank": 91,
             "title": "돈 버는 법을 잘 아는 파산ㅍ.. 아니 티니핑 근황",
             "url": "https://theqoo.net/hot/4384545057",
             "score": 53.26
           }
         ],
         "first_seen": "2026-10-24T00:55:00.190709+09:00",
-        "last_seen": "2026-10-24T04:50:29.776456+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -266,9 +339,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 99.57,
+        "score": 101.01,
         "peak_score": 88.08,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -277,25 +350,25 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 16,
             "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
-            "score": 79.08
+            "score": 70.29
           },
           {
             "source": "디시인사이드",
-            "rank": 42,
+            "rank": 43,
             "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
             "score": 61.33
           }
         ],
         "first_seen": "2026-10-23T20:32:54.802510+09:00",
-        "last_seen": "2026-10-24T04:50:29.776456+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 3
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "iaf5a26c0",
@@ -305,9 +378,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 95.92,
+        "score": 97.36,
         "peak_score": 84.43,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -315,7 +388,7 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 9,
+            "rank": 7,
             "title": "ap 알케미 공식 입장문.jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
             "score": 75.3
@@ -325,14 +398,14 @@
             "rank": 39,
             "title": "양홍원 소속 레이블 입장문",
             "url": "https://theqoo.net/hot/4384592259",
-            "score": 62.42
+            "score": 61.92
           }
         ],
         "first_seen": "2026-10-04T19:06:01.996633+09:00",
-        "last_seen": "2026-10-24T04:50:29.776456+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -370,8 +443,8 @@
         "last_seen": "2026-10-24T00:55:00.190709+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -3
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i623c680f",
@@ -408,8 +481,47 @@
         "last_seen": "2026-10-24T02:31:04.829917+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -2
+        "rank": 7,
+        "change": -1
+      },
+      {
+        "id": "i70e3f55a",
+        "title": "요즘 역대급이라는 요식업계 근황.",
+        "keywords": [
+          "역대급이라는",
+          "요식업계"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.57,
+        "peak_score": 78.1,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 17,
+            "title": "요즘 역대급이라는 요식업계 근황.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744406",
+            "score": 70.1
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 26,
+            "title": "요즘 역대급이라는 요식업계 근황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163218",
+            "score": 67.59
+          }
+        ],
+        "first_seen": "2026-10-24T05:37:08.162741+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i36ddd5fd",
@@ -446,7 +558,7 @@
         "last_seen": "2026-10-24T00:55:00.190709+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 9,
         "change": -2
       },
       {
@@ -485,8 +597,8 @@
         "last_seen": "2026-10-24T00:55:00.190709+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "i80cae878",
@@ -496,9 +608,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.95,
+        "score": 77.97,
         "peak_score": 66.48,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "인벤"
@@ -506,25 +618,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 69,
+            "rank": 65,
             "title": "아이브 장원영",
             "url": "https://www.inven.co.kr/board/webzine/2097/2744399",
-            "score": 57.48
+            "score": 57.43
           },
           {
             "source": "더쿠",
-            "rank": 91,
+            "rank": 85,
             "title": "장원영 : 제가 왜요?",
             "url": "https://theqoo.net/hot/4384483447",
             "score": 53.95
           }
         ],
         "first_seen": "2026-10-24T04:50:29.776456+09:00",
-        "last_seen": "2026-10-24T04:50:29.776456+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 11,
+        "change": -2
       }
     ],
     "weekly": [
@@ -959,6 +1071,47 @@
         "change": 0
       },
       {
+        "id": "i74895616",
+        "title": "‘키오스크’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "키오스크"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.68,
+        "peak_score": 102.63,
+        "appearances": 4,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
+            "score": 70.29
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 43,
+            "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
+            "score": 61.33
+          }
+        ],
+        "first_seen": "2026-10-23T20:32:54.802510+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": 2
+      },
+      {
         "id": "i567efd17",
         "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -994,8 +1147,8 @@
         "last_seen": "2026-10-21T07:36:13.997079+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i0b9deffd",
@@ -1032,49 +1185,8 @@
         "last_seen": "2026-10-22T15:38:17.094491+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
-      },
-      {
-        "id": "i74895616",
-        "title": "‘키오스크’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "키오스크"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 115.56,
-        "peak_score": 102.63,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
-            "score": 79.08
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 42,
-            "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
-            "score": 61.33
-          }
-        ],
-        "first_seen": "2026-10-23T20:32:54.802510+09:00",
-        "last_seen": "2026-10-24T04:50:29.776456+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 13,
-        "change": 2
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -1112,7 +1224,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i533b29bd",
@@ -1151,7 +1263,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -2
+        "change": 0
       },
       {
         "id": "ied6d77dc",
@@ -1189,7 +1301,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -2
+        "change": 0
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.99,
+        "peak_score": 99.03,
+        "appearances": 5,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 4,
+            "title": "[네이버페이] 일일적립, 클릭 44원, 라이브예고 1원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108290",
+            "score": 86.07
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 75,
+            "title": "[란123] 네이버페이 70원 + 랜덤 포인트 받으세요 (+기타 369원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163244",
+            "score": 55.06
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-10-24T05:37:08.162741+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": 3
       },
       {
         "id": "i9fddae44",
@@ -1226,7 +1376,7 @@
         "last_seen": "2026-10-20T14:22:41.982357+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -1285,7 +1435,7 @@
         "last_seen": "2026-10-20T14:22:41.982357+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -1324,44 +1474,6 @@
         ],
         "first_seen": "2026-10-19T03:23:24.243907+09:00",
         "last_seen": "2026-10-19T03:23:24.243907+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버페이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 113.08,
-        "peak_score": 99.03,
-        "appearances": 4,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 23,
-            "title": "[네이버페이] 라방 랜덤 5원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108168",
-            "score": 68.57
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 79,
-            "title": "배스킨라빈스 X 네이버페이 결제 40%, 70%할인",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874",
-            "score": 55.18
-          }
-        ],
-        "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-20T16:28:59.415816+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
@@ -2084,46 +2196,6 @@
         "change": 0
       },
       {
-        "id": "i199bc4da",
-        "title": "‘이동진’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이동진"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 124.86,
-        "peak_score": 106.44,
-        "appearances": 11,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "영화 평론가 이동진 불매",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76868512?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "이동진, '암살자(들)' 논란 직접 해명…",
-            "url": "https://www.clien.net/service/board/park/19272351?od=T31&po=0&category=0&groupCd=",
-            "score": 53.91
-          }
-        ],
-        "first_seen": "2026-10-01T01:26:11.574872+09:00",
-        "last_seen": "2026-10-01T19:14:44.159749+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
-      },
-      {
         "id": "ibd61c9f9",
         "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
         "keywords": [
@@ -2178,8 +2250,8 @@
         "last_seen": "2026-10-04T10:56:40.820491+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 18,
-        "change": 0
+        "rank": 17,
+        "change": 1
       },
       {
         "id": "i1b32b99d",
@@ -2233,8 +2305,8 @@
         "last_seen": "2026-10-18T15:30:44.980988+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 19,
-        "change": 0
+        "rank": 18,
+        "change": 1
       },
       {
         "id": "i698d5433",
@@ -2291,8 +2363,48 @@
         "last_seen": "2026-10-07T14:44:26.372950+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
+        "rank": 19,
+        "change": 1
+      },
+      {
+        "id": "i5791457f",
+        "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "3인방"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 123.92,
+        "peak_score": 107.96,
+        "appearances": 5,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "어제 은퇴 시사한 축구 3인방, 은퇴 고민한 이유 나옴 (방금 MBC 보도)",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76944719?m=humor",
+            "score": 98.96
+          },
+          {
+            "source": "더쿠",
+            "rank": 44,
+            "title": "현재 케톡에서 명명되고 있는 축구 3인방 사건",
+            "url": "https://theqoo.net/hot/4368469781",
+            "score": 61.74
+          }
+        ],
+        "first_seen": "2026-10-07T00:11:23.560735+09:00",
+        "last_seen": "2026-10-08T04:25:39.605389+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": "NEW"
       }
     ]
   }
