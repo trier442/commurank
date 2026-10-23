@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-23T11:00:24.057303+09:00",
+  "collected_at": "2026-10-23T15:01:24.580793+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -56,6 +56,48 @@
       "change": 0
     },
     {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 132.85,
+      "peak_score": 104.34,
+      "appearances": 9,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+          "url": "https://theqoo.net/hot/4384054575",
+          "score": 65.21
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "결국 영국에 진출한 부캉이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+          "score": 56.45
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-23T15:01:24.580793+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 1
+    },
+    {
       "id": "id50390b0",
       "title": "‘나오는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -92,64 +134,80 @@
       "last_seen": "2026-10-22T01:08:04.674749+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia4c9a0a3",
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
       "keywords": [
-        "부캉이"
+        "오세훈",
+        "무죄",
+        "2심",
+        "오세훈이"
       ],
-      "source_count": 4,
-      "post_count": 5,
-      "score": 132.33,
-      "peak_score": 104.34,
-      "appearances": 8,
+      "source_count": 5,
+      "post_count": 6,
+      "score": 131.77,
+      "peak_score": 102.84,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "루리웹",
         "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "부캉이 거기서 죽으면 욕먹을까봐 부산 당국이 긴장하는것같군요",
-          "url": "https://www.clien.net/service/board/park/19281026?od=T31&po=0&category=0&groupCd=",
-          "score": 63.91
+          "source": "더쿠",
+          "rank": 12,
+          "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+          "url": "https://theqoo.net/hot/4384122183",
+          "score": 78.84
         },
         {
-          "source": "더쿠",
-          "rank": 55,
-          "title": "[속보] 바다로 나갔던 상어 '부캉이' 다시 왔다…차단막 뚫고 수로 재진입",
-          "url": "https://theqoo.net/hot/4382982667",
-          "score": 62.74
+          "source": "디시인사이드",
+          "rank": 19,
+          "title": "[속보] 오세훈 2심 무죄",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+          "score": 72.65
+        },
+        {
+          "source": "인벤",
+          "rank": 34,
+          "title": "오세훈 무죄",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+          "score": 68.2
         },
         {
           "source": "뽐뿌",
-          "rank": 56,
-          "title": "전문가 경고\" 부캉이 이대로 두면 폐사\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160415",
-          "score": 62.38
+          "rank": 48,
+          "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+          "score": 64.25
         },
         {
-          "source": "루리웹",
-          "rank": 97,
-          "title": "십상남자 부캉이",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77109895?m=humor_only&t=now",
-          "score": 51.71
+          "source": "클리앙",
+          "rank": 50,
+          "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+          "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+          "score": 64.04
+        },
+        {
+          "source": "인벤",
+          "rank": 87,
+          "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+          "score": 54.95
         }
       ],
-      "first_seen": "2026-09-30T21:25:18.067717+09:00",
-      "last_seen": "2026-10-22T10:44:44.333078+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
-      "rank": 3,
-      "change": 0
+      "first_seen": "2026-10-03T03:43:55.638495+09:00",
+      "last_seen": "2026-10-23T15:01:24.580793+09:00",
+      "latest_source_count": 5,
+      "latest_post_count": 6,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -188,8 +246,8 @@
       "last_seen": "2026-10-22T21:30:45.290196+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "iaf3fcbdb",
@@ -228,8 +286,8 @@
       "last_seen": "2026-10-22T19:39:17.337799+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i22143bd8",
@@ -272,8 +330,8 @@
       "last_seen": "2026-10-21T19:29:59.328990+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ie5a2c1ba",
@@ -311,8 +369,8 @@
       "last_seen": "2026-10-21T04:32:55.970701+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ie8fb5037",
@@ -350,8 +408,8 @@
       "last_seen": "2026-10-22T10:44:44.333078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i567efd17",
@@ -389,8 +447,8 @@
       "last_seen": "2026-10-21T07:36:13.997079+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i0b9deffd",
@@ -427,8 +485,8 @@
       "last_seen": "2026-10-22T15:38:17.094491+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i533b29bd",
@@ -466,8 +524,8 @@
       "last_seen": "2026-10-22T05:12:54.190152+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ied6d77dc",
@@ -504,8 +562,8 @@
       "last_seen": "2026-10-20T02:25:06.177143+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i9fddae44",
@@ -542,8 +600,8 @@
       "last_seen": "2026-10-20T14:22:41.982357+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "ie33ae889",
@@ -601,8 +659,8 @@
       "last_seen": "2026-10-20T14:22:41.982357+09:00",
       "latest_source_count": 4,
       "latest_post_count": 4,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "ia2a0f7e2",
@@ -642,8 +700,8 @@
       "last_seen": "2026-10-19T03:23:24.243907+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -680,8 +738,8 @@
       "last_seen": "2026-10-20T16:28:59.415816+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i23cd8c47",
@@ -718,8 +776,8 @@
       "last_seen": "2026-10-19T03:23:24.243907+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "id4af6b9b",
@@ -759,8 +817,8 @@
       "last_seen": "2026-10-20T04:53:33.080873+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i6c387ceb",
@@ -805,49 +863,8 @@
       "last_seen": "2026-10-21T07:36:13.997079+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "ice84a826",
-      "title": "한일 무역 분쟁 7년 후 근황",
-      "keywords": [
-        "한일",
-        "분쟁",
-        "7년",
-        "무역"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 110.87,
-      "peak_score": 101.4,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "한일 무역 분쟁 7년 후 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77097531?m=humor",
-          "score": 93.4
-        },
-        {
-          "source": "인벤",
-          "rank": 28,
-          "title": "한일 무역 분쟁 7년 후 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742963",
-          "score": 69.06
-        }
-      ],
-      "first_seen": "2026-10-21T09:07:46.727522+09:00",
-      "last_seen": "2026-10-21T09:07:46.727522+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
