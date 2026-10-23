@@ -5,18 +5,18 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#5b45ff" />
   <meta name="robots" content="index,follow" />
-  <meta name="description" content="커뮤랭크 데이터 수집 상태와 최근 갱신 시각을 확인합니다." />
+  <meta name="description" content="커뮤랭크에 반영된 인기글과 커뮤니티별 집계 현황을 확인합니다." />
   <meta property="og:site_name" content="커뮤랭크" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="수집 상태 | 커뮤랭크" />
-  <meta property="og:description" content="커뮤랭크 데이터 수집 상태와 최근 갱신 시각을 확인합니다." />
+  <meta property="og:title" content="집계 현황 | 커뮤랭크" />
+  <meta property="og:description" content="커뮤랭크에 반영된 인기글과 커뮤니티별 집계 현황을 확인합니다." />
   <meta property="og:url" content="https://commurank.kr/status/" />
   <meta property="og:locale" content="ko_KR" />
   <link rel="canonical" href="https://commurank.kr/status/" />
   <link rel="alternate" type="application/rss+xml" title="커뮤랭크 실시간 인기글 RSS" href="/feed.xml" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
-  <title>수집 상태 | 커뮤랭크</title>
+  <title>집계 현황 | 커뮤랭크</title>
   <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
@@ -36,14 +36,14 @@
 
   <main>
     <section class="shell info-hero">
-      <p class="eyebrow">COMMURANK STATUS</p>
-      <h1>데이터 수집 상태</h1>
-      <p>각 커뮤니티의 최근 수집 결과와 데이터 신선도를 공개합니다. 외부 사이트의 접근 제한이나 구조 변경이 있을 때는 상태가 점검 또는 캐시로 표시될 수 있습니다.</p>
+      <p class="eyebrow">COMMURANK OVERVIEW</p>
+      <h1>집계 현황</h1>
+      <p>현재 반영된 커뮤니티별 인기글과 랭킹 집계 규모를 확인할 수 있습니다.</p>
     </section>
 
     <section class="shell status-summary-grid">
       <article class="status-stat"><span>최근 갱신</span><strong id="statusFreshness">확인 중</strong><small id="statusFreshnessSub">-</small></article>
-      <article class="status-stat"><span>사용 가능 소스</span><strong id="statusAvailable">0/0</strong><small id="statusAvailableSub">확인 중</small></article>
+      <article class="status-stat"><span>반영 커뮤니티</span><strong id="statusAvailable">0/0</strong><small id="statusAvailableSub">집계 기준</small></article>
       <article class="status-stat"><span>실시간 인기글</span><strong id="statusPosts">0</strong><small>TOP100 기준</small></article>
       <article class="status-stat"><span>급상승 후보</span><strong id="statusRising">0</strong><small>최근 수집 비교</small></article>
     </section>
@@ -52,16 +52,15 @@
       <div class="info-main">
         <section class="info-card">
           <div class="section-head">
-            <div><span class="section-kicker">COLLECTORS</span><h2>커뮤니티별 수집 상태</h2></div>
+            <div><span class="section-kicker">COMMUNITIES</span><h2>커뮤니티별 집계</h2></div>
           </div>
           <div id="publicSourceStatus" class="public-status-list">
-            <div class="empty">수집 상태를 불러오는 중입니다.</div>
+            <div class="empty">집계 정보를 불러오는 중입니다.</div>
           </div>
         </section>
         <section class="info-card">
-          <h2>상태 표시 기준</h2>
-          <p><strong>정상</strong>은 이번 수집에서 게시글을 직접 가져온 상태입니다. <strong>캐시</strong>는 일시적인 수집 실패로 최근 정상 데이터가 대신 사용되는 상태입니다. <strong>점검</strong>은 직접 수집과 캐시 모두 사용할 수 없어 해당 소스가 현재 통합 랭킹에 반영되지 않는 상태입니다.</p>
-          <div class="info-note">커뮤랭크의 전체 서비스가 정상이어도 개별 커뮤니티 한 곳만 접근 제한으로 점검 상태가 될 수 있습니다.</div>
+          <h2>집계 안내</h2>
+          <p>표시된 건수는 커뮤니티별 공개 인기글 중 커뮤랭크 랭킹에 반영된 항목을 기준으로 합니다. 원문은 각 커뮤니티에서 확인할 수 있습니다.</p>
         </section>
       </div>
       <aside class="info-side">
