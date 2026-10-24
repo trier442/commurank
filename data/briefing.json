@@ -2,41 +2,70 @@
   "version": 1,
   "date": "2026-10-25",
   "label": "2026년 10월 25일",
-  "collected_at": "2026-10-25T03:43:31.455370+09:00",
+  "collected_at": "2026-10-25T04:47:13.767370+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘아이폰’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘아이폰’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #닥터. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
+    "daily_issues": 11,
     "keywords": 11,
-    "top100_views": 961986,
-    "top100_comments": 7210
+    "top100_views": 990882,
+    "top100_comments": 7325
   },
   "highlights": [
     {
       "type": "issue",
       "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "text": "2개 커뮤니티에서 4개 관련 인기글이 포착됐습니다.",
       "issue_id": "i0cdcc665"
     },
     {
       "type": "post",
-      "title": "옛날 태극기 모양에 발작버튼 눌림",
+      "title": "점점 늘어나는 슬로우스타트 게임족",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77143465?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#한국",
+      "title": "#닥터",
       "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "keyword": "닥터"
     }
   ],
   "top_posts": [
+    {
+      "title": "점점 늘어나는 슬로우스타트 게임족",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor",
+      "first_seen": "2026-10-25T03:43:31.455370+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "peak_score": 97.27,
+      "max_views": 17450,
+      "max_likes": 96,
+      "max_comments": 75,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-25": {
+          "max_score": 97.27,
+          "max_views": 17450,
+          "max_likes": 96,
+          "max_comments": 75,
+          "appearances": 2,
+          "last_seen": "2026-10-25T04:47:13.767370+09:00"
+        }
+      },
+      "score": 107.69,
+      "views": 17450,
+      "likes": 96,
+      "comments": 75,
+      "active_days": 1,
+      "change": 7
+    },
     {
       "title": "옛날 태극기 모양에 발작버튼 눌림",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-25T03:43:31.455370+09:00"
         }
       },
-      "score": 107.64,
+      "score": 107.56,
       "views": 14307,
       "likes": 112,
       "comments": 100,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "게임 개발쪽에서는 지금 아이폰 듀오를 고깝게 볼 듯",
@@ -88,7 +117,7 @@
           "last_seen": "2026-10-25T02:31:05.694243+09:00"
         }
       },
-      "score": 107.13,
+      "score": 107.05,
       "views": 22930,
       "likes": 190,
       "comments": 73,
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-25T00:50:22.120680+09:00"
         }
       },
-      "score": 106.97,
+      "score": 106.89,
       "views": 24192,
       "likes": 116,
       "comments": 87,
@@ -146,10 +175,39 @@
           "last_seen": "2026-10-25T03:43:31.455370+09:00"
         }
       },
-      "score": 106.13,
+      "score": 106.05,
       "views": 15830,
       "likes": 111,
       "comments": 109,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "아이폰 듀오 파손 수리 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
+      "first_seen": "2026-10-25T04:47:13.767370+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "peak_score": 96.18,
+      "max_views": 12480,
+      "max_likes": 118,
+      "max_comments": 85,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-25": {
+          "max_score": 96.18,
+          "max_views": 12480,
+          "max_likes": 118,
+          "max_comments": 85,
+          "appearances": 1,
+          "last_seen": "2026-10-25T04:47:13.767370+09:00"
+        }
+      },
+      "score": 105.7,
+      "views": 12480,
+      "likes": 118,
+      "comments": 85,
       "active_days": 1,
       "change": "NEW"
     },
@@ -183,12 +241,41 @@
           "last_seen": "2026-10-25T00:50:22.120680+09:00"
         }
       },
-      "score": 104.78,
+      "score": 104.7,
       "views": 33304,
       "likes": 249,
       "comments": 111,
       "active_days": 1,
       "change": -2
+    },
+    {
+      "title": "직업 일러레로서 좀 힘든 케이스",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144076?m=humor",
+      "first_seen": "2026-10-25T02:31:05.694243+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "peak_score": 94.11,
+      "max_views": 22786,
+      "max_likes": 110,
+      "max_comments": 72,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-25": {
+          "max_score": 94.11,
+          "max_views": 22786,
+          "max_likes": 110,
+          "max_comments": 72,
+          "appearances": 2,
+          "last_seen": "2026-10-25T04:47:13.767370+09:00"
+        }
+      },
+      "score": 104.53,
+      "views": 22786,
+      "likes": 110,
+      "comments": 72,
+      "active_days": 1,
+      "change": -1
     },
     {
       "title": "우동전문점이 이겨야될 첫번째 상대",
@@ -212,70 +299,12 @@
           "last_seen": "2026-10-25T02:31:05.694243+09:00"
         }
       },
-      "score": 103.67,
+      "score": 103.59,
       "views": 24936,
       "likes": 140,
       "comments": 85,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "직업 일러레로서 좀 힘든 케이스",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144076?m=humor",
-      "first_seen": "2026-10-25T02:31:05.694243+09:00",
-      "last_seen": "2026-10-25T02:31:05.694243+09:00",
-      "peak_score": 94.11,
-      "max_views": 20395,
-      "max_likes": 103,
-      "max_comments": 68,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-25": {
-          "max_score": 94.11,
-          "max_views": 20395,
-          "max_likes": 103,
-          "max_comments": 68,
-          "appearances": 1,
-          "last_seen": "2026-10-25T02:31:05.694243+09:00"
-        }
-      },
-      "score": 103.53,
-      "views": 20395,
-      "likes": 103,
-      "comments": 68,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "점점 늘어나는 슬로우스타트 게임족",
-      "source": "루리웹",
-      "category": "게임",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor",
-      "first_seen": "2026-10-25T03:43:31.455370+09:00",
-      "last_seen": "2026-10-25T03:43:31.455370+09:00",
-      "peak_score": 93.84,
-      "max_views": 16577,
-      "max_likes": 94,
-      "max_comments": 74,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-25": {
-          "max_score": 93.84,
-          "max_views": 16577,
-          "max_likes": 94,
-          "max_comments": 74,
-          "appearances": 1,
-          "last_seen": "2026-10-25T03:43:31.455370+09:00"
-        }
-      },
-      "score": 103.36,
-      "views": 16577,
-      "likes": 94,
-      "comments": 74,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "한문철 레전드 떴다 ㅋㅋㅋㅋㅋ",
@@ -299,161 +328,184 @@
           "last_seen": "2026-10-25T00:50:22.120680+09:00"
         }
       },
-      "score": 103.35,
+      "score": 103.27,
       "views": 12572,
       "likes": 89,
       "comments": 67,
       "active_days": 1,
-      "change": -3
-    },
-    {
-      "title": "[네이버페이] 일일적립, 클릭 44원, 라이브예고 1원",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108290",
-      "first_seen": "2026-10-24T00:55:00.190709+09:00",
-      "last_seen": "2026-10-25T02:31:05.694243+09:00",
-      "peak_score": 88.57,
-      "max_views": 51147,
-      "max_likes": 202,
-      "max_comments": 19,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-24": {
-          "max_score": 87.32,
-          "max_views": 29826,
-          "max_likes": 156,
-          "max_comments": 15,
-          "appearances": 3,
-          "last_seen": "2026-10-24T10:55:55.772693+09:00"
-        },
-        "2026-10-25": {
-          "max_score": 88.57,
-          "max_views": 51147,
-          "max_likes": 202,
-          "max_comments": 19,
-          "appearances": 1,
-          "last_seen": "2026-10-25T02:31:05.694243+09:00"
-        }
-      },
-      "score": 97.99,
-      "views": 51147,
-      "likes": 202,
-      "comments": 19,
-      "active_days": 1,
-      "change": -3
+      "change": -1
     }
   ],
   "rising": [
+    {
+      "source": "루리웹",
+      "title": "점점 늘어나는 슬로우스타트 게임족",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor",
+      "category": "게임",
+      "views": 17450,
+      "likes": 96,
+      "comments": 75,
+      "score": 97.27,
+      "change": 2,
+      "current_rank": 1,
+      "new_entry": false,
+      "delta_views": 873,
+      "delta_likes": 2,
+      "delta_comments": 1,
+      "rank_gain": 2,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 64
+    },
     {
       "source": "디시인사이드",
       "title": "와들와들 멘헤라녀 일상",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472943&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 19373,
-      "likes": 81,
-      "comments": 142,
-      "score": 79.29,
-      "change": 7,
-      "current_rank": 6,
+      "views": 22514,
+      "likes": 93,
+      "comments": 180,
+      "score": 82.24,
+      "change": 1,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 6188,
-      "delta_likes": 33,
-      "delta_comments": 55,
-      "rank_gain": 7,
-      "rising_score": 95.06,
-      "rising_rank": 1,
-      "window_minutes": 72
+      "delta_views": 3141,
+      "delta_likes": 12,
+      "delta_comments": 38,
+      "rank_gain": 1,
+      "rising_score": 94.4,
+      "rising_rank": 2,
+      "window_minutes": 64
+    },
+    {
+      "source": "디시인사이드",
+      "title": "실시간 코스피랩",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472944&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 6091,
+      "likes": 31,
+      "comments": 79,
+      "score": 65.26,
+      "change": 0,
+      "current_rank": 32,
+      "new_entry": false,
+      "delta_views": 2474,
+      "delta_likes": 13,
+      "delta_comments": 36,
+      "rank_gain": 0,
+      "rising_score": 91.92,
+      "rising_rank": 3,
+      "window_minutes": 64
+    },
+    {
+      "source": "클리앙",
+      "title": "코인 7억 받고 북한에 정보 넘겼다…네티즌 '무빙은 현실이었네'",
+      "url": "https://www.clien.net/service/board/park/19282273?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2000,
+      "likes": 0,
+      "comments": 1,
+      "score": 55.26,
+      "change": 8,
+      "current_rank": 72,
+      "new_entry": false,
+      "delta_views": 514,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 8,
+      "rising_score": 90.62,
+      "rising_rank": 4,
+      "window_minutes": 64
+    },
+    {
+      "source": "인벤",
+      "title": "(ㅇㅎ?) 몸매 자랑하는 부사관 출신 누나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744683",
+      "category": "이슈",
+      "views": 1586,
+      "likes": 0,
+      "comments": 4,
+      "score": 63.59,
+      "change": 24,
+      "current_rank": 36,
+      "new_entry": false,
+      "delta_views": 1007,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 24,
+      "rising_score": 87.53,
+      "rising_rank": 5,
+      "window_minutes": 64
+    },
+    {
+      "source": "인벤",
+      "title": "장원영 : 제가 왜요????",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744692",
+      "category": "연예",
+      "views": 1246,
+      "likes": 3,
+      "comments": 4,
+      "score": 74.14,
+      "change": 21,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 940,
+      "delta_likes": 3,
+      "delta_comments": 4,
+      "rank_gain": 21,
+      "rising_score": 87.16,
+      "rising_rank": 6,
+      "window_minutes": 64
+    },
+    {
+      "source": "클리앙",
+      "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
+      "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1077,
+      "likes": 1,
+      "comments": 2,
+      "score": 60.49,
+      "change": 0,
+      "current_rank": 46,
+      "new_entry": false,
+      "delta_views": 468,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 84.38,
+      "rising_rank": 7,
+      "window_minutes": 64
     },
     {
       "source": "더쿠",
       "title": "아니 부산덬들아 부산 꿀떡 진짜 이렇게 생김????????",
       "url": "https://theqoo.net/hot/4385536201",
       "category": "유머",
-      "views": 18950,
+      "views": 22646,
       "likes": 0,
-      "comments": 154,
-      "score": 65.0,
-      "change": 11,
-      "current_rank": 28,
+      "comments": 167,
+      "score": 69.0,
+      "change": 8,
+      "current_rank": 20,
       "new_entry": false,
-      "delta_views": 9486,
+      "delta_views": 3696,
       "delta_likes": 0,
-      "delta_comments": 44,
-      "rank_gain": 11,
-      "rising_score": 90.14,
-      "rising_rank": 2,
-      "window_minutes": 72
-    },
-    {
-      "source": "인벤",
-      "title": "젤렌스키의 영웅놀이에 대한 우크라이나 재벌의 회고록",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744679",
-      "category": "이슈",
-      "views": 2725,
-      "likes": 3,
-      "comments": 13,
-      "score": 72.86,
-      "change": 0,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 861,
-      "delta_likes": 0,
-      "delta_comments": 2,
-      "rank_gain": 0,
-      "rising_score": 87.44,
-      "rising_rank": 3,
-      "window_minutes": 72
+      "delta_comments": 13,
+      "rank_gain": 8,
+      "rising_score": 83.51,
+      "rising_rank": 8,
+      "window_minutes": 64
     },
     {
       "source": "루리웹",
-      "title": "옛날 태극기 모양에 발작버튼 눌림",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77143465?m=humor",
+      "title": "아이폰 듀오 파손 수리 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
       "category": "이슈",
-      "views": 14307,
-      "likes": 112,
-      "comments": 100,
-      "score": 98.12,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.21,
-      "rising_rank": 4,
-      "window_minutes": 72
-    },
-    {
-      "source": "더쿠",
-      "title": "여자들 생리할때 운동하는거 넘 쉽게 생각하는거 같은 달글..",
-      "url": "https://theqoo.net/hot/4385495283",
-      "category": "이슈",
-      "views": 26886,
-      "likes": 0,
-      "comments": 181,
-      "score": 66.84,
-      "change": 22,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 6542,
-      "delta_likes": 0,
-      "delta_comments": 38,
-      "rank_gain": 22,
-      "rising_score": 82.64,
-      "rising_rank": 5,
-      "window_minutes": 72
-    },
-    {
-      "source": "루리웹",
-      "title": "한국에서 ‘잔’은 사어가 된 것 같다.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144460?m=humor",
-      "category": "이슈",
-      "views": 15830,
-      "likes": 111,
-      "comments": 109,
-      "score": 96.61,
+      "views": 12480,
+      "likes": 118,
+      "comments": 85,
+      "score": 96.18,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -461,39 +513,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 6,
-      "window_minutes": 72
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 중고장터에서 전공책 산 학생.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472940&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 11559,
-      "likes": 37,
-      "comments": 214,
-      "score": 72.01,
-      "change": 4,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 3728,
-      "delta_likes": 11,
-      "delta_comments": 39,
-      "rank_gain": 4,
-      "rising_score": 82.31,
-      "rising_rank": 7,
-      "window_minutes": 72
+      "rising_score": 82.4,
+      "rising_rank": 9,
+      "window_minutes": 64
     },
     {
       "source": "루리웹",
-      "title": "점점 늘어나는 슬로우스타트 게임족",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor",
-      "category": "게임",
-      "views": 16577,
-      "likes": 94,
-      "comments": 74,
-      "score": 93.84,
+      "title": "직업 일러레로서 좀 힘든 케이스",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144076?m=humor",
+      "category": "이슈",
+      "views": 22786,
+      "likes": 110,
+      "comments": 72,
+      "score": 93.8,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -501,49 +533,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 8,
-      "window_minutes": 72
-    },
-    {
-      "source": "클리앙",
-      "title": "갤럭시 폴드도 아이폰 듀오도 좋죠",
-      "url": "https://www.clien.net/service/board/park/19282277?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 810,
-      "likes": 1,
-      "comments": 0,
-      "score": 61.25,
-      "change": 0,
-      "current_rank": 39,
-      "new_entry": false,
-      "delta_views": 496,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.77,
-      "rising_rank": 9,
-      "window_minutes": 72
-    },
-    {
-      "source": "뽐뿌",
-      "title": "그알 폭행장면 미쳤네요ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164208",
-      "category": "이슈",
-      "views": 17211,
-      "likes": 4,
-      "comments": 42,
-      "score": 60.04,
-      "change": 0,
-      "current_rank": 44,
-      "new_entry": false,
-      "delta_views": 3405,
-      "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 77.47,
+      "rising_score": 81.4,
       "rising_rank": 10,
-      "window_minutes": 72
+      "window_minutes": 64
     }
   ],
   "issues": [
@@ -554,10 +546,10 @@
         "아이폰"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 116.18,
-      "peak_score": 106.71,
-      "appearances": 1,
+      "post_count": 4,
+      "score": 120.67,
+      "peak_score": 107.18,
+      "appearances": 2,
       "sources": [
         "루리웹",
         "클리앙"
@@ -565,23 +557,23 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 1,
-          "title": "게임 개발쪽에서는 지금 아이폰 듀오를 고깝게 볼 듯",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77142200?m=humor",
-          "score": 97.71
+          "rank": 2,
+          "title": "아이폰 듀오 파손 수리 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
+          "score": 96.18
         },
         {
           "source": "클리앙",
-          "rank": 28,
-          "title": "갤럭시 폴드도 아이폰 듀오도 좋죠",
-          "url": "https://www.clien.net/service/board/park/19282277?od=T31&po=0&category=0&groupCd=",
-          "score": 65.67
+          "rank": 46,
+          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
+          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
+          "score": 60.49
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-25T02:31:05.694243+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 4,
       "rank": 1,
       "change": 0
     },
@@ -700,6 +692,82 @@
       "change": 0
     },
     {
+      "id": "i457563c0",
+      "title": "‘작가가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "작가가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.76,
+      "peak_score": 82.29,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 11,
+          "title": "솔직히 작가가 너무했던 럽코만화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145816?m=humor_only&t=now",
+          "score": 73.29
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 93,
+          "title": "유시민 작가가 다음주에 박시영tv에 출연예정이라고",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164180",
+          "score": 52.43
+        }
+      ],
+      "first_seen": "2026-10-25T04:47:13.767370+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.24,
+      "peak_score": 74.19,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
+          "score": 63.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
+          "url": "https://theqoo.net/hot/4385451478",
+          "score": 60.74
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 0
+    },
+    {
       "id": "i749e6b26",
       "title": "‘서울시’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -734,50 +802,12 @@
       "last_seen": "2026-10-25T03:43:31.455370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.12,
-      "peak_score": 74.19,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 27,
-          "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
-          "score": 65.19
-        },
-        {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
-          "url": "https://theqoo.net/hot/4385451478",
-          "score": 61.89
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-25T03:43:31.455370+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i7cc16cb8",
-      "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
+      "title": "스포)오늘 닥터 X 하이라이트",
       "keywords": [
         "하이라이트",
         "스포",
@@ -785,90 +815,50 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.8,
+      "score": 84.92,
       "peak_score": 70.87,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 61,
-          "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744666",
-          "score": 57.24
-        },
-        {
           "source": "클리앙",
-          "rank": 68,
+          "rank": 76,
           "title": "스포)오늘 닥터 X 하이라이트",
           "url": "https://www.clien.net/service/board/park/19282262?od=T31&po=0&category=0&groupCd=",
-          "score": 56.62
+          "score": 54.92
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744666",
+          "score": 53.69
         }
       ],
       "first_seen": "2026-10-25T00:50:22.120680+09:00",
-      "last_seen": "2026-10-25T03:43:31.455370+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i2f482bc8",
-      "title": "마인츠 이재성 리그 1호골",
-      "keywords": [
-        "이재성",
-        "마인츠",
-        "리그",
-        "1호골"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.47,
-      "peak_score": 69.98,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 50,
-          "title": "마인츠 이재성 리그 1호골",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744681",
-          "score": 58.91
-        },
-        {
-          "source": "클리앙",
-          "rank": 89,
-          "title": "마인츠 이재성 리그 1호골",
-          "url": "https://www.clien.net/service/board/park/19282274?od=T31&po=0&category=0&groupCd=",
-          "score": 53.77
-        }
-      ],
-      "first_seen": "2026-10-25T02:31:05.694243+09:00",
-      "last_seen": "2026-10-25T03:43:31.455370+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
       "change": -1
-    }
-  ],
-  "realtime_issues": [
+    },
     {
-      "id": "i749e6b26",
-      "title": "‘서울시’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2f482bc8",
+      "title": "마인츠 이재성 리그 1호골",
       "keywords": [
-        "서울시"
+        "마인츠",
+        "1호골",
+        "리그",
+        "이재성"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.44,
-      "peak_score": 78.44,
-      "appearances": 1,
+      "score": 82.91,
+      "peak_score": 69.98,
+      "appearances": 3,
       "sources": [
         "인벤",
         "클리앙"
@@ -876,20 +866,132 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 20,
-          "title": "ㅎㅎ서울시 공급 백서라는게 나왔네요",
-          "url": "https://www.clien.net/service/board/park/19282280?od=T31&po=0&category=0&groupCd=",
-          "score": 69.44
+          "rank": 73,
+          "title": "마인츠 이재성 리그 1호골",
+          "url": "https://www.clien.net/service/board/park/19282274?od=T31&po=0&category=0&groupCd=",
+          "score": 55.1
         },
         {
           "source": "인벤",
-          "rank": 91,
-          "title": "이태원 참사 4주기 추모식…서울시, 열흘간 ‘핼러윈 특별대책’",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744678",
-          "score": 53.66
+          "rank": 87,
+          "title": "마인츠 이재성 리그 1호골",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744681",
+          "score": 53.19
+        }
+      ],
+      "first_seen": "2026-10-25T02:31:05.694243+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": -1
+    },
+    {
+      "id": "i938aee9b",
+      "title": "‘듀오는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "듀오는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.96,
+      "peak_score": 69.49,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 46,
+          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
+          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
+          "score": 60.49
+        },
+        {
+          "source": "루리웹",
+          "rank": 65,
+          "title": "아이폰 듀오는 애플의 갈라파고스화를 보여주는듯",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145304?m=humor_only&t=now",
+          "score": 57.32
+        }
+      ],
+      "first_seen": "2026-10-25T04:47:13.767370+09:00",
+      "last_seen": "2026-10-25T04:47:13.767370+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i0cdcc665",
+      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이폰"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 107.18,
+      "peak_score": 107.18,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "아이폰 듀오 파손 수리 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
+          "score": 96.18
+        },
+        {
+          "source": "클리앙",
+          "rank": 46,
+          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
+          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
+          "score": 60.49
         }
       ],
       "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i457563c0",
+      "title": "‘작가가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "작가가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.29,
+      "peak_score": 82.29,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 11,
+          "title": "솔직히 작가가 너무했던 럽코만화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145816?m=humor_only&t=now",
+          "score": 73.29
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 93,
+          "title": "유시민 작가가 다음주에 박시영tv에 출연예정이라고",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164180",
+          "score": 52.43
+        }
+      ],
+      "rank": 2,
       "change": "NEW"
     },
     {
@@ -900,8 +1002,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.19,
-      "peak_score": 74.19,
+      "score": 72.64,
+      "peak_score": 72.64,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -910,35 +1012,66 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 27,
+          "rank": 35,
           "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
-          "score": 65.19
+          "score": 63.64
         },
         {
           "source": "더쿠",
-          "rank": 35,
+          "rank": 44,
           "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
           "url": "https://theqoo.net/hot/4385451478",
-          "score": 61.89
+          "score": 60.74
         }
       ],
-      "rank": 2,
-      "change": 1
+      "rank": 3,
+      "change": -1
     },
     {
-      "id": "i2f482bc8",
-      "title": "마인츠 이재성 리그 1호골",
+      "id": "i938aee9b",
+      "title": "‘듀오는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재성",
-        "마인츠",
-        "리그",
-        "1호골"
+        "듀오는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 66.91,
-      "peak_score": 66.91,
+      "score": 69.49,
+      "peak_score": 69.49,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 46,
+          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
+          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
+          "score": 60.49
+        },
+        {
+          "source": "루리웹",
+          "rank": 65,
+          "title": "아이폰 듀오는 애플의 갈라파고스화를 보여주는듯",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145304?m=humor_only&t=now",
+          "score": 57.32
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i71d2ce21",
+      "title": "‘엔믹스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "엔믹스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 68.98,
+      "peak_score": 68.98,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -948,33 +1081,34 @@
         {
           "source": "인벤",
           "rank": 50,
-          "title": "마인츠 이재성 리그 1호골",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744681",
-          "score": 58.91
+          "title": "엔믹스 해원",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744697",
+          "score": 59.98
         },
         {
           "source": "클리앙",
-          "rank": 89,
-          "title": "마인츠 이재성 리그 1호골",
-          "url": "https://www.clien.net/service/board/park/19282274?od=T31&po=0&category=0&groupCd=",
-          "score": 53.77
+          "rank": 88,
+          "title": "엔믹스 한복 공연 멋지네요.",
+          "url": "https://www.clien.net/service/board/park/19282272?od=T31&po=0&category=0&groupCd=",
+          "score": 53.16
         }
       ],
-      "rank": 3,
-      "change": 2
+      "rank": 5,
+      "change": "NEW"
     },
     {
-      "id": "i7cc16cb8",
-      "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
+      "id": "i2f482bc8",
+      "title": "마인츠 이재성 리그 1호골",
       "keywords": [
-        "하이라이트",
-        "스포",
-        "닥터"
+        "마인츠",
+        "1호골",
+        "리그",
+        "이재성"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 65.24,
-      "peak_score": 65.24,
+      "score": 63.1,
+      "peak_score": 63.1,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -982,92 +1116,129 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 61,
-          "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744666",
-          "score": 57.24
+          "source": "클리앙",
+          "rank": 73,
+          "title": "마인츠 이재성 리그 1호골",
+          "url": "https://www.clien.net/service/board/park/19282274?od=T31&po=0&category=0&groupCd=",
+          "score": 55.1
         },
         {
-          "source": "클리앙",
-          "rank": 68,
-          "title": "스포)오늘 닥터 X 하이라이트",
-          "url": "https://www.clien.net/service/board/park/19282262?od=T31&po=0&category=0&groupCd=",
-          "score": 56.62
+          "source": "인벤",
+          "rank": 87,
+          "title": "마인츠 이재성 리그 1호골",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744681",
+          "score": 53.19
         }
       ],
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "id": "i7cc16cb8",
+      "title": "스포)오늘 닥터 X 하이라이트",
+      "keywords": [
+        "하이라이트",
+        "스포",
+        "닥터"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 62.92,
+      "peak_score": 62.92,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 76,
+          "title": "스포)오늘 닥터 X 하이라이트",
+          "url": "https://www.clien.net/service/board/park/19282262?od=T31&po=0&category=0&groupCd=",
+          "score": 54.92
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "스포)오늘 닥터 X 하이라이트(실제 역사 피해자를 다룸)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744666",
+          "score": 53.69
+        }
+      ],
+      "rank": 7,
+      "change": -3
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 135.07,
+      "keyword": "닥터",
+      "score": 120.26,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 2,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "keyword": "닥터",
-      "score": 115.47,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 27,
+      "best_rank": 35,
       "sources": [
         "디시인사이드",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
+      "rank": 1,
+      "change": 1
+    },
+    {
+      "keyword": "아이폰",
+      "score": 111.5,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [
+        "듀오"
+      ],
       "rank": 2,
-      "change": -1
+      "change": "NEW"
     },
     {
       "keyword": "외국인들",
-      "score": 102.48,
+      "score": 103.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "점점",
-      "score": 97.39,
+      "keyword": "한국",
+      "score": 92.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 17,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "듀오",
-      "score": 95.47,
-      "post_count": 3,
+      "keyword": "작가",
+      "score": 90.51,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 11,
       "sources": [
         "루리웹",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 5,
@@ -1075,39 +1246,39 @@
     },
     {
       "keyword": "난리난",
-      "score": 92.59,
+      "score": 90.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 35,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "keyword": "실시간",
-      "score": 88.47,
+      "score": 87.14,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 5,
+      "best_rank": 7,
       "sources": [
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "서울시",
-      "score": 86.15,
+      "keyword": "애플",
+      "score": 83.28,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 61,
       "sources": [
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1115,14 +1286,14 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본인",
-      "score": 84.07,
+      "keyword": "엔믹스",
+      "score": 81.52,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 43,
+      "best_rank": 50,
       "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
@@ -1130,10 +1301,10 @@
     },
     {
       "keyword": "하이라이트",
-      "score": 82.7,
+      "score": 78.49,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 61,
+      "best_rank": 76,
       "sources": [
         "인벤",
         "클리앙"
@@ -1142,14 +1313,14 @@
         "스포"
       ],
       "rank": 10,
-      "change": -5
+      "change": 0
     },
     {
       "keyword": "마인츠",
-      "score": 81.34,
+      "score": 78.2,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 73,
       "sources": [
         "인벤",
         "클리앙"
@@ -1160,56 +1331,56 @@
         "이재성"
       ],
       "rank": 11,
-      "change": -5
+      "change": 0
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "옛날 태극기 모양에 발작버튼 눌림",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77143465?m=humor",
-      "score": 98.12,
-      "views": 14307,
-      "comments": 100
+      "title": "점점 늘어나는 슬로우스타트 게임족",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144103?m=humor",
+      "score": 97.27,
+      "views": 17450,
+      "comments": 75
+    },
+    {
+      "source": "디시인사이드",
+      "title": "와들와들 멘헤라녀 일상",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472943&_dcbest=1&page=1",
+      "score": 82.24,
+      "views": 22514,
+      "comments": 180
     },
     {
       "source": "뽐뿌",
       "title": "요즘 연애프로 여자나이 근황",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164138",
-      "score": 82.56,
-      "views": 21523,
-      "comments": 50
-    },
-    {
-      "source": "디시인사이드",
-      "title": "실시간 랑아가 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472939&_dcbest=1&page=1",
-      "score": 79.46,
-      "views": 12953,
-      "comments": 333
+      "score": 80.86,
+      "views": 24573,
+      "comments": 56
     },
     {
       "source": "더쿠",
       "title": "불닭볶음면 즐기는 외국인들의 플레이팅 샷",
       "url": "https://theqoo.net/hot/4385463753",
-      "score": 77.37,
-      "views": 50327,
+      "score": 74.21,
+      "views": 52908,
       "comments": 289
     },
     {
       "source": "인벤",
-      "title": "젤렌스키의 영웅놀이에 대한 우크라이나 재벌의 회고록",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744679",
-      "score": 72.86,
-      "views": 2725,
-      "comments": 13
+      "title": "장원영 : 제가 왜요????",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744692",
+      "score": 74.14,
+      "views": 1246,
+      "comments": 4
     },
     {
       "source": "클리앙",
       "title": "아이폰듀오..1세대니까 그럴수있어..이러면 안됩니다.",
       "url": "https://www.clien.net/service/board/park/19282271?od=T31&po=0&category=0&groupCd=",
-      "score": 70.03,
-      "views": 2472,
+      "score": 72.57,
+      "views": 2855,
       "comments": 13
     }
   ]
