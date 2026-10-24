@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-24T19:39:39.428417+09:00",
+  "collected_at": "2026-10-24T21:02:42.472906+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -364,6 +364,46 @@
       "change": 0
     },
     {
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아파트"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 119.29,
+      "peak_score": 105.36,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 37,
+          "title": "\"초고층 아파트 30년 뒤엔 슬럼화…미래 세대 재앙 될 것\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744610",
+          "score": 64.7
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 89,
+          "title": "아파트 추락해 하반신 마비가 된 고등학생",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24073",
+          "score": 52.89
+        }
+      ],
+      "first_seen": "2026-10-09T19:48:30.742386+09:00",
+      "last_seen": "2026-10-24T21:02:42.472906+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 2
+    },
+    {
       "id": "iaf3fcbdb",
       "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -400,8 +440,8 @@
       "last_seen": "2026-10-22T19:39:17.337799+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i22143bd8",
@@ -444,47 +484,8 @@
       "last_seen": "2026-10-21T19:29:59.328990+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "ie5a2c1ba",
-      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아파트"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 117.85,
-      "peak_score": 105.36,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 42,
-          "title": "신축 아파트 하자 수준",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77097129?m=humor_only&t=now",
-          "score": 61.39
-        },
-        {
-          "source": "더쿠",
-          "rank": 53,
-          "title": "회계부 실수로 두 달째 전 직원 건강보험료 미납 상태였음 직원 1명이 내일 당장 아파트 중도금 내야 하는데 은행 대출 막혔다고 엉엉 우심..",
-          "url": "https://theqoo.net/hot/4381900668",
-          "score": 59.21
-        }
-      ],
-      "first_seen": "2026-10-09T19:48:30.742386+09:00",
-      "last_seen": "2026-10-21T04:32:55.970701+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ie8fb5037",
@@ -726,7 +727,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i533b29bd",
@@ -765,7 +766,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ied6d77dc",
@@ -803,7 +804,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -841,7 +842,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
