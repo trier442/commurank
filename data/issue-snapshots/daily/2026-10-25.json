@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-25",
   "label": "2026년 10월 25일",
-  "collected_at": "2026-10-25T07:09:01.409979+09:00",
+  "collected_at": "2026-10-25T08:19:11.542171+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,33 +14,33 @@
       ],
       "source_count": 2,
       "post_count": 5,
-      "score": 123.11,
+      "score": 124.23,
       "peak_score": 107.18,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "루리웹",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아이폰 듀오 파손 수리 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
-          "score": 94.67
-        },
-        {
           "source": "클리앙",
-          "rank": 48,
+          "rank": 53,
           "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
           "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
-          "score": 62.24
+          "score": 61.64
+        },
+        {
+          "source": "루리웹",
+          "rank": 71,
+          "title": "아이폰 듀오 힌지만큼 심각하다고 느껴지는 부분",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77146349?m=humor_only&t=now",
+          "score": 57.13
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-25T07:09:01.409979+09:00",
+      "last_seen": "2026-10-25T08:19:11.542171+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 5,
+      "latest_post_count": 3,
       "rank": 1,
       "change": 0
     },
@@ -156,7 +156,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 4,
-      "change": 2
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -194,7 +194,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i457563c0",
@@ -232,7 +232,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.59,
+      "peak_score": 74.19,
+      "appearances": 7,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
+          "score": 62.97
+        },
+        {
+          "source": "더쿠",
+          "rank": 84,
+          "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
+          "url": "https://theqoo.net/hot/4385451478",
+          "score": 53.95
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-25T08:19:11.542171+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
     },
     {
       "id": "i5125324c",
@@ -267,44 +305,6 @@
         }
       ],
       "first_seen": "2026-10-25T07:09:01.409979+09:00",
-      "last_seen": "2026-10-25T07:09:01.409979+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.92,
-      "peak_score": 74.19,
-      "appearances": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 54,
-          "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
-          "score": 61.47
-        },
-        {
-          "source": "더쿠",
-          "rank": 60,
-          "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
-          "url": "https://theqoo.net/hot/4385451478",
-          "score": 60.26
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
       "last_seen": "2026-10-25T07:09:01.409979+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
@@ -347,7 +347,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7cc16cb8",
@@ -387,7 +387,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2f482bc8",
@@ -428,7 +428,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i71d2ce21",
@@ -466,7 +466,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i938aee9b",
@@ -504,7 +504,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1b672c00",
@@ -542,7 +542,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
