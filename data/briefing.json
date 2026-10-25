@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-25",
   "label": "2026년 10월 25일",
-  "collected_at": "2026-10-25T19:34:06.990919+09:00",
+  "collected_at": "2026-10-25T20:45:13.377599+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘유튜브 파괴하기에서 아이폰 듀오 올렸군요’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘유튜브 파괴하기에서 아이폰 듀오 올렸군요’입니다. 실시간 키워드 상위: #무료. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 17,
-    "top100_views": 796263,
-    "top100_comments": 9307
+    "keywords": 12,
+    "top100_views": 1008804,
+    "top100_comments": 11169
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#무료",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "무료"
     }
   ],
   "top_posts": [
@@ -43,26 +43,55 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77152065?m=humor",
       "first_seen": "2026-10-25T19:34:06.990919+09:00",
-      "last_seen": "2026-10-25T19:34:06.990919+09:00",
+      "last_seen": "2026-10-25T20:45:13.377599+09:00",
       "peak_score": 98.12,
-      "max_views": 12575,
-      "max_likes": 119,
-      "max_comments": 112,
+      "max_views": 14866,
+      "max_likes": 126,
+      "max_comments": 115,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-25": {
+          "max_score": 98.12,
+          "max_views": 14866,
+          "max_likes": 126,
+          "max_comments": 115,
+          "appearances": 2,
+          "last_seen": "2026-10-25T20:45:13.377599+09:00"
+        }
+      },
+      "score": 108.54,
+      "views": 14866,
+      "likes": 126,
+      "comments": 115,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "히로시마 음식점에서 광역 도발을 건 한국인ㅋㅋㅋㅋㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77151690?m=humor",
+      "first_seen": "2026-10-25T20:45:13.377599+09:00",
+      "last_seen": "2026-10-25T20:45:13.377599+09:00",
+      "peak_score": 98.12,
+      "max_views": 19058,
+      "max_likes": 175,
+      "max_comments": 84,
       "appearances": 1,
       "daily_stats": {
         "2026-10-25": {
           "max_score": 98.12,
-          "max_views": 12575,
-          "max_likes": 119,
-          "max_comments": 112,
+          "max_views": 19058,
+          "max_likes": 175,
+          "max_comments": 84,
           "appearances": 1,
-          "last_seen": "2026-10-25T19:34:06.990919+09:00"
+          "last_seen": "2026-10-25T20:45:13.377599+09:00"
         }
       },
       "score": 107.64,
-      "views": 12575,
-      "likes": 119,
-      "comments": 112,
+      "views": 19058,
+      "likes": 175,
+      "comments": 84,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,7 +117,7 @@
           "last_seen": "2026-10-25T18:46:50.599412+09:00"
         }
       },
-      "score": 107.55,
+      "score": 107.45,
       "views": 26959,
       "likes": 211,
       "comments": 88,
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-25T19:34:06.990919+09:00"
         }
       },
-      "score": 107.42,
+      "score": 107.32,
       "views": 35171,
       "likes": 211,
       "comments": 108,
       "active_days": 1,
-      "change": 15
+      "change": -1
     },
     {
       "title": "일본이라는 나라가 황당하게 느껴졌던 순간.jpg",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-25T14:01:34.630572+09:00"
         }
       },
-      "score": 106.5,
+      "score": 106.4,
       "views": 31582,
       "likes": 226,
       "comments": 117,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "점점 늘어나는 슬로우스타트 게임족",
@@ -175,12 +204,12 @@
           "last_seen": "2026-10-25T04:47:13.767370+09:00"
         }
       },
-      "score": 106.46,
+      "score": 106.36,
       "views": 17450,
       "likes": 96,
       "comments": 75,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "한문철 블랙박스 레전드 또 갱신",
@@ -204,12 +233,12 @@
           "last_seen": "2026-10-25T15:17:06.994415+09:00"
         }
       },
-      "score": 106.46,
+      "score": 106.36,
       "views": 24861,
       "likes": 69,
       "comments": 89,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "옛날 태극기 모양에 발작버튼 눌림",
@@ -233,12 +262,12 @@
           "last_seen": "2026-10-25T03:43:31.455370+09:00"
         }
       },
-      "score": 106.32,
+      "score": 106.23,
       "views": 14307,
       "likes": 112,
       "comments": 100,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "어르신들 긁는 발언",
@@ -262,12 +291,12 @@
           "last_seen": "2026-10-25T07:09:01.409979+09:00"
         }
       },
-      "score": 106.26,
+      "score": 106.16,
       "views": 13870,
       "likes": 88,
       "comments": 72,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "\"통쾌했어요\"좌 근황",
@@ -291,152 +320,83 @@
           "last_seen": "2026-10-25T06:13:34.770048+09:00"
         }
       },
-      "score": 106.12,
+      "score": 106.02,
       "views": 17123,
       "likes": 159,
       "comments": 63,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "게임 개발쪽에서는 지금 아이폰 듀오를 고깝게 볼 듯",
-      "source": "루리웹",
-      "category": "게임",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77142200?m=humor",
-      "first_seen": "2026-10-25T02:31:05.694243+09:00",
-      "last_seen": "2026-10-25T02:31:05.694243+09:00",
-      "peak_score": 97.71,
-      "max_views": 22930,
-      "max_likes": 190,
-      "max_comments": 73,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-25": {
-          "max_score": 97.71,
-          "max_views": 22930,
-          "max_likes": 190,
-          "max_comments": 73,
-          "appearances": 1,
-          "last_seen": "2026-10-25T02:31:05.694243+09:00"
-        }
-      },
-      "score": 105.81,
-      "views": 22930,
-      "likes": 190,
-      "comments": 73,
-      "active_days": 1,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "역풍 부는 도경완 생활고 연출 ㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77149862?m=humor",
-      "category": "유머",
-      "views": 35171,
-      "likes": 211,
-      "comments": 108,
-      "score": 97.0,
+      "source": "뽐뿌",
+      "title": "배우 천우희가 성형 안하는 이유",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164926",
+      "category": "연예",
+      "views": 31495,
+      "likes": 19,
+      "comments": 60,
+      "score": 58.44,
       "change": 0,
-      "current_rank": 2,
+      "current_rank": 59,
       "new_entry": false,
-      "delta_views": 7535,
-      "delta_likes": 35,
-      "delta_comments": 11,
+      "delta_views": 17448,
+      "delta_likes": 13,
+      "delta_comments": 17,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 47
+      "window_minutes": 71
+    },
+    {
+      "source": "디시인사이드",
+      "title": "이거 믿는 사람이랑은 말이 안통함 ㄹㅇ.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473075&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17725,
+      "likes": 239,
+      "comments": 865,
+      "score": 89.42,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 8413,
+      "delta_likes": 95,
+      "delta_comments": 419,
+      "rank_gain": 0,
+      "rising_score": 97.19,
+      "rising_rank": 2,
+      "window_minutes": 71
     },
     {
       "source": "더쿠",
-      "title": "30초 만에 알아보는 내 전생 동물",
-      "url": "https://theqoo.net/hot/4386037419",
+      "title": "배달 삼겹살의 비밀.jpg",
+      "url": "https://theqoo.net/hot/4386066028",
       "category": "이슈",
-      "views": 18456,
+      "views": 40810,
       "likes": 0,
-      "comments": 396,
-      "score": 70.68,
-      "change": 34,
-      "current_rank": 17,
+      "comments": 287,
+      "score": 61.89,
+      "change": 9,
+      "current_rank": 41,
       "new_entry": false,
-      "delta_views": 16259,
+      "delta_views": 29126,
       "delta_likes": 0,
-      "delta_comments": 329,
-      "rank_gain": 34,
-      "rising_score": 92.36,
-      "rising_rank": 2,
-      "window_minutes": 47
-    },
-    {
-      "source": "디시인사이드",
-      "title": "머독 근황...JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473067&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9252,
-      "likes": 44,
-      "comments": 93,
-      "score": 66.7,
-      "change": 11,
-      "current_rank": 27,
-      "new_entry": false,
-      "delta_views": 7610,
-      "delta_likes": 24,
-      "delta_comments": 79,
-      "rank_gain": 11,
-      "rising_score": 89.72,
+      "delta_comments": 186,
+      "rank_gain": 9,
+      "rising_score": 86.0,
       "rising_rank": 3,
-      "window_minutes": 47
-    },
-    {
-      "source": "뽐뿌",
-      "title": "한국 러닝 문화 팩폭하는 러너 ㄷㄷ.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=running&no=8798",
-      "category": "이슈",
-      "views": 13077,
-      "likes": 15,
-      "comments": 52,
-      "score": 85.83,
-      "change": 92,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 7316,
-      "delta_likes": 10,
-      "delta_comments": 28,
-      "rank_gain": 92,
-      "rising_score": 88.75,
-      "rising_rank": 4,
-      "window_minutes": 47
-    },
-    {
-      "source": "디시인사이드",
-      "title": "인생이 허무한 진짜 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473061&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16813,
-      "likes": 170,
-      "comments": 172,
-      "score": 78.6,
-      "change": 0,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 4945,
-      "delta_likes": 48,
-      "delta_comments": 40,
-      "rank_gain": 0,
-      "rising_score": 86.42,
-      "rising_rank": 5,
-      "window_minutes": 47
+      "window_minutes": 71
     },
     {
       "source": "루리웹",
-      "title": "한국에서 취업하기 힘들다는 이슬람 여성",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77152065?m=humor",
-      "category": "이슈",
-      "views": 12575,
-      "likes": 119,
-      "comments": 112,
+      "title": "히로시마 음식점에서 광역 도발을 건 한국인ㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77151690?m=humor",
+      "category": "생활",
+      "views": 19058,
+      "likes": 175,
+      "comments": 84,
       "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
@@ -446,88 +406,128 @@
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 83.21,
-      "rising_rank": 6,
-      "window_minutes": 47
+      "rising_rank": 4,
+      "window_minutes": 71
     },
     {
-      "source": "클리앙",
-      "title": "이번에 나온 일론 머스크 다큐는 흥행 폭망이네요.",
-      "url": "https://www.clien.net/service/board/park/19282504?od=T31&po=0&category=0&groupCd=",
+      "source": "인벤",
+      "title": "19) 뒷구녕 애널자위 하다 산부인과 갔단 여잔데..",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744890",
       "category": "이슈",
-      "views": 1883,
-      "likes": 0,
-      "comments": 0,
-      "score": 67.38,
-      "change": 5,
-      "current_rank": 25,
+      "views": 3289,
+      "likes": 2,
+      "comments": 17,
+      "score": 58.64,
+      "change": 0,
+      "current_rank": 58,
       "new_entry": false,
-      "delta_views": 1295,
+      "delta_views": 3221,
+      "delta_likes": 2,
+      "delta_comments": 17,
+      "rank_gain": 0,
+      "rising_score": 81.94,
+      "rising_rank": 5,
+      "window_minutes": 71
+    },
+    {
+      "source": "디시인사이드",
+      "title": "요즘 취업난 많이 심각하다네",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473069&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 18277,
+      "likes": 73,
+      "comments": 392,
+      "score": 80.69,
+      "change": 1,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 7635,
+      "delta_likes": 26,
+      "delta_comments": 127,
+      "rank_gain": 1,
+      "rising_score": 79.14,
+      "rising_rank": 6,
+      "window_minutes": 71
+    },
+    {
+      "source": "디시인사이드",
+      "title": "나 노가다 남자랑 사귀는 게 꿈이야",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473082&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 18732,
+      "likes": 130,
+      "comments": 241,
+      "score": 84.57,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 5,
-      "rising_score": 81.82,
+      "rank_gain": 0,
+      "rising_score": 77.52,
       "rising_rank": 7,
-      "window_minutes": 47
+      "window_minutes": 71
+    },
+    {
+      "source": "디시인사이드",
+      "title": "인생이 허무한 진짜 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473061&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 22033,
+      "likes": 201,
+      "comments": 227,
+      "score": 81.05,
+      "change": 1,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 5220,
+      "delta_likes": 31,
+      "delta_comments": 55,
+      "rank_gain": 1,
+      "rising_score": 76.86,
+      "rising_rank": 8,
+      "window_minutes": 71
+    },
+    {
+      "source": "더쿠",
+      "title": "극성맞은 민초파에 가려진 식소수자",
+      "url": "https://theqoo.net/hot/4386063746",
+      "category": "이슈",
+      "views": 37238,
+      "likes": 0,
+      "comments": 483,
+      "score": 62.74,
+      "change": 0,
+      "current_rank": 38,
+      "new_entry": false,
+      "delta_views": 16743,
+      "delta_likes": 0,
+      "delta_comments": 190,
+      "rank_gain": 0,
+      "rising_score": 76.15,
+      "rising_rank": 9,
+      "window_minutes": 71
     },
     {
       "source": "루리웹",
-      "title": "대구 모스크 사건이 이슈 봐보면",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77151069?m=humor",
+      "title": "한국에서 취업하기 힘들다는 이슬람 여성",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77152065?m=humor",
       "category": "이슈",
-      "views": 12233,
-      "likes": 100,
-      "comments": 107,
-      "score": 92.14,
-      "change": "NEW",
+      "views": 14866,
+      "likes": 126,
+      "comments": 115,
+      "score": 93.84,
+      "change": 0,
       "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.7,
-      "rising_rank": 8,
-      "window_minutes": 47
-    },
-    {
-      "source": "디시인사이드",
-      "title": "이거 믿는 사람이랑은 말이 안통함 ㄹㅇ.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473075&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9312,
-      "likes": 144,
-      "comments": 446,
-      "score": 87.07,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.57,
-      "rising_rank": 9,
-      "window_minutes": 47
-    },
-    {
-      "source": "디시인사이드",
-      "title": "일본원작 드라마에 5.18 넣어서 욕먹는 닥터X 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473057&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 5682,
-      "likes": 139,
-      "comments": 314,
-      "score": 69.57,
-      "change": 1,
-      "current_rank": 22,
       "new_entry": false,
-      "delta_views": 2850,
-      "delta_likes": 63,
-      "delta_comments": 152,
-      "rank_gain": 1,
-      "rising_score": 77.5,
+      "delta_views": 2291,
+      "delta_likes": 7,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 75.0,
       "rising_rank": 10,
-      "window_minutes": 47
+      "window_minutes": 71
     }
   ],
   "issues": [
@@ -658,43 +658,41 @@
     },
     {
       "id": "i3eced5eb",
-      "title": "5·18 조명 '닥터X', 시청률 최고치 경신 속 방영 중단 청원 등장",
+      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "닥터x",
-        "방영",
-        "중단",
-        "청원",
-        "시청률"
+        "닥터x"
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 98.77,
+      "score": 99.89,
       "peak_score": 83.84,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
+        "디시인사이드",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 36,
-          "title": "5·18 조명 '닥터X', 시청률 최고치 경신 속 방영 중단 청원 등장",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744852",
-          "score": 63.39
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "일본원작 드라마에 5.18 넣어서 욕먹는 닥터X 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473057&_dcbest=1&page=1",
+          "score": 72.02
         },
         {
-          "source": "클리앙",
-          "rank": 76,
-          "title": "5·18 다룬 ‘닥터X’…“두려움 없다”는 CP vs 방영 중단 청원",
-          "url": "https://www.clien.net/service/board/park/19282483?od=T31&po=0&category=0&groupCd=",
-          "score": 56.41
+          "source": "뽐뿌",
+          "rank": 28,
+          "title": "'닥터X', 방영 중단 국민청원",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165010",
+          "score": 65.08
         }
       ],
       "first_seen": "2026-10-24T23:14:34.091505+09:00",
-      "last_seen": "2026-10-25T18:46:50.599412+09:00",
+      "last_seen": "2026-10-25T20:45:13.377599+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 4,
+      "latest_post_count": 2,
       "rank": 4,
       "change": 0
     },
@@ -813,7 +811,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2f0f43fb",
@@ -851,7 +849,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -889,7 +887,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9ff6bf96",
@@ -927,204 +925,95 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
-      "id": "i0cdcc665",
-      "title": "유튜브 파괴하기에서 아이폰 듀오 올렸군요",
+      "id": "i3eced5eb",
+      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "듀오",
-        "아이폰"
+        "닥터x"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 78.21,
-      "peak_score": 78.21,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.02,
+      "peak_score": 81.02,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "인벤",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "일본원작 드라마에 5.18 넣어서 욕먹는 닥터X 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473057&_dcbest=1&page=1",
+          "score": 72.02
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 28,
+          "title": "'닥터X', 방영 중단 국민청원",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165010",
+          "score": 65.08
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.06,
+      "peak_score": 77.06,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 38,
-          "title": "유튜브 파괴하기에서 아이폰 듀오 올렸군요",
-          "url": "https://www.clien.net/service/board/park/19282493?od=T31&po=0&category=0&groupCd=",
-          "score": 63.21
+          "rank": 20,
+          "title": "안세영 대단하네요",
+          "url": "https://www.clien.net/service/board/park/19282537?od=T31&po=0&category=0&groupCd=",
+          "score": 68.06
         },
         {
-          "source": "인벤",
-          "rank": 51,
-          "title": "아이폰 듀오 공식 케이스 논란",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744884",
-          "score": 60.5
-        },
-        {
-          "source": "루리웹",
-          "rank": 87,
-          "title": "아이폰 듀오 힌지 이슈를 보면서 든 생각 한가지",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77152740?m=humor_only&t=now",
-          "score": 53.86
-        }
-      ],
-      "rank": 1,
-      "change": 2
-    },
-    {
-      "id": "i44e38bfd",
-      "title": "배우 천우희가 성형 안하는 이유",
-      "keywords": [
-        "안하는",
-        "성형",
-        "천우희가"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.01,
-      "peak_score": 84.01,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "배우 천우희가 성형 안하는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164926",
-          "score": 76.01
-        },
-        {
-          "source": "인벤",
-          "rank": 30,
-          "title": "배우 천우희가 성형 안하는 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744878",
-          "score": 65.99
+          "source": "더쿠",
+          "rank": 56,
+          "title": "[속보] 안세영 프랑스오픈 3연패 50연승 올해 10번째 우승",
+          "url": "https://theqoo.net/hot/4386156424",
+          "score": 58.84
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "ib3876eed",
-      "title": "‘생각보다’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i75b8309d",
+      "title": "민주 “조희대 무리한 탄핵보다 성과 내는 대응 합리적”",
       "keywords": [
-        "생각보다"
+        "대응",
+        "내는",
+        "성과",
+        "민주",
+        "무리한",
+        "탄핵보다",
+        "합리적",
+        "조희대"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.83,
-      "peak_score": 79.83,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 16,
-          "title": "게임업계 속 흑인들은 생각보다 꽤 많다고함",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473037&_dcbest=1&page=1",
-          "score": 70.83
-        },
-        {
-          "source": "인벤",
-          "rank": 67,
-          "title": "생각보다 엄청 위험한 운전 방법",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744873",
-          "score": 57.52
-        }
-      ],
-      "rank": 3,
-      "change": -1
-    },
-    {
-      "id": "i82d4eed1",
-      "title": "‘보면서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "보면서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.74,
-      "peak_score": 74.74,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 32,
-          "title": "30대 공시생 보면서 힘 낸다",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473045&_dcbest=1&page=1",
-          "score": 65.74
-        },
-        {
-          "source": "루리웹",
-          "rank": 87,
-          "title": "아이폰 듀오 힌지 이슈를 보면서 든 생각 한가지",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77152740?m=humor_only&t=now",
-          "score": 53.86
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.51,
-      "peak_score": 74.51,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 33,
-          "title": "부캉이 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77152819?m=humor_only&t=now",
-          "score": 65.51
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 68,
-          "title": "[단독]'부캉이' 쫓다 선 넘은 유튜버…배 띄워 보안구역 찍다 해경에",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473041&_dcbest=1&page=1",
-          "score": 57.28
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ibd40373d",
-      "title": "전남 드래곤즈 A 선수의 폭행사건 전말",
-      "keywords": [
-        "폭행사건",
-        "전남",
-        "전말",
-        "드래곤즈"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.17,
-      "peak_score": 69.17,
+      "score": 75.95,
+      "peak_score": 75.95,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1132,296 +1021,248 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "전남 드래곤즈 A 선수의 폭행사건 전말",
-          "url": "https://www.clien.net/service/board/park/19282526?od=T31&po=0&category=0&groupCd=",
-          "score": 61.17
+          "source": "인벤",
+          "rank": 22,
+          "title": "민주 “조희대 무리한 탄핵보다 성과 내는 대응 합리적”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744904",
+          "score": 67.95
         },
         {
-          "source": "인벤",
-          "rank": 55,
-          "title": "전남 드래곤즈 A 선수 폭행사건 전말",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744889",
-          "score": 59.98
+          "source": "클리앙",
+          "rank": 42,
+          "title": "민주 “조희대 무리한 탄핵보다 성과 내는 대응 합리적”",
+          "url": "https://www.clien.net/service/board/park/19282539?od=T31&po=0&category=0&groupCd=",
+          "score": 61.79
         }
       ],
-      "rank": 6,
+      "rank": 3,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 147.92,
-      "post_count": 6,
-      "source_count": 3,
-      "best_rank": 1,
+      "keyword": "무료",
+      "score": 102.88,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 8,
       "sources": [
-        "더쿠",
         "루리웹",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 123.09,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 29,
+      "keyword": "듀오",
+      "score": 99.16,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "뽐뿌",
-        "인벤"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 3
-    },
-    {
-      "keyword": "아이폰",
-      "score": 113.73,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 38,
-      "sources": [
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "듀오"
-      ],
-      "rank": 3,
-      "change": 1
-    },
-    {
-      "keyword": "많이",
-      "score": 104.03,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "믿는",
-      "score": 103.67,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "천우희",
-      "score": 100.82,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [
-        "성형",
-        "안하"
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "민주당",
-      "score": 95.47,
+      "keyword": "닥터x",
+      "score": 98.49,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 14,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "한국",
+      "score": 96.39,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": -3
+    },
+    {
+      "keyword": "조희대",
+      "score": 92.72,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "인벤",
         "클리앙"
+      ],
+      "aliases": [
+        "내는",
+        "대응",
+        "무리한",
+        "민주",
+        "성과"
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "안세영",
+      "score": 90.89,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "손흥민",
+      "score": 89.38,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 11,
+      "sources": [
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "나온",
-      "score": 88.85,
+      "keyword": "여자들",
+      "score": 85.63,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 39,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "북한",
-      "score": 87.84,
-      "post_count": 3,
+      "keyword": "출근",
+      "score": 82.81,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 46,
+      "best_rank": 43,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "존나",
-      "score": 87.53,
+      "keyword": "사고",
+      "score": 80.0,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 53,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "부캉",
-      "score": 87.31,
+      "keyword": "나는",
+      "score": 77.39,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 80,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "드래곤즈",
-      "score": 86.72,
+      "keyword": "일본",
+      "score": 74.41,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 88,
       "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "전남",
-        "전말",
-        "폭행사건"
-      ],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "자꾸",
-      "score": 85.82,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 48,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "보면서",
-      "score": 84.7,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 32,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "비극",
-      "score": 84.41,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "루리웹",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
-      "rank": 15,
-      "change": "NEW"
+      "rank": 12,
+      "change": -10
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국에서 취업하기 힘들다는 이슬람 여성",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77152065?m=humor",
+      "title": "히로시마 음식점에서 광역 도발을 건 한국인ㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77151690?m=humor",
       "score": 98.12,
-      "views": 12575,
-      "comments": 112
+      "views": 19058,
+      "comments": 84
     },
     {
       "source": "디시인사이드",
       "title": "이거 믿는 사람이랑은 말이 안통함 ㄹㅇ.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473075&_dcbest=1&page=1",
-      "score": 87.07,
-      "views": 9312,
-      "comments": 446
-    },
-    {
-      "source": "뽐뿌",
-      "title": "한국 러닝 문화 팩폭하는 러너 ㄷㄷ.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=running&no=8798",
-      "score": 85.83,
-      "views": 13077,
-      "comments": 52
+      "score": 89.42,
+      "views": 17725,
+      "comments": 865
     },
     {
       "source": "클리앙",
-      "title": "음주운전시 꿀팁",
-      "url": "https://www.clien.net/service/board/park/19282520?od=T31&po=0&category=0&groupCd=",
-      "score": 75.79,
-      "views": 1144,
-      "comments": 9
-    },
-    {
-      "source": "더쿠",
-      "title": "위치 빼곤 장점밖에 없다는 콘서트 공연장..jpg",
-      "url": "https://theqoo.net/hot/4386003343",
-      "score": 72.05,
-      "views": 40367,
-      "comments": 474
+      "title": "듀오 화면 쩍? 사실인가요?",
+      "url": "https://www.clien.net/service/board/park/19282534?od=T31&po=0&category=0&groupCd=",
+      "score": 73.86,
+      "views": 2150,
+      "comments": 22
     },
     {
       "source": "인벤",
-      "title": "“가격 무너지고 빚만 남았다”…샤인머스캣 ‘청년농의 비극’",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744876",
-      "score": 66.35,
-      "views": 1328,
-      "comments": 19
+      "title": "유튜브 엑셀방송 계좌 뻥카 후원 장면..",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744899",
+      "score": 73.29,
+      "views": 2697,
+      "comments": 26
+    },
+    {
+      "source": "더쿠",
+      "title": "저만 몰랐던 사실을 퇴사 당일에 알게 됐어요",
+      "url": "https://theqoo.net/hot/4386117686",
+      "score": 72.37,
+      "views": 38354,
+      "comments": 345
+    },
+    {
+      "source": "뽐뿌",
+      "title": "현기 풀옵 가격이 비싸다고들 하는데",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980653",
+      "score": 71.04,
+      "views": 4948,
+      "comments": 45
     }
   ]
 }
