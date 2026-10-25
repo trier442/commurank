@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-26",
   "label": "2026년 10월 26일",
-  "collected_at": "2026-10-26T06:09:47.836771+09:00",
+  "collected_at": "2026-10-26T07:31:47.878730+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -82,7 +82,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i541bb1e1",
@@ -126,7 +126,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -137,9 +137,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.3,
-      "peak_score": 76.34,
-      "appearances": 5,
+      "score": 94.65,
+      "peak_score": 78.92,
+      "appearances": 6,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -149,25 +149,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 45,
+          "rank": 19,
           "title": "유툽. 신기하네요 ㅋ 아이폰 듀오",
           "url": "https://www.clien.net/service/board/park/19282642?od=T31&po=0&category=0&groupCd=",
-          "score": 63.2
+          "score": 70.92
         },
         {
-          "source": "디시인사이드",
-          "rank": 94,
-          "title": "아이폰 듀오 근황 ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473157&_dcbest=1&page=1",
-          "score": 51.85
+          "source": "루리웹",
+          "rank": 85,
+          "title": "현재 아이폰 듀오 요약",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158667?m=humor_only&t=now",
+          "score": 54.15
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-26T06:09:47.836771+09:00",
+      "last_seen": "2026-10-26T07:31:47.878730+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3eced5eb",
@@ -205,7 +205,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -243,7 +243,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.66,
+      "peak_score": 77.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "부캉이 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
+          "score": 68.19
+        },
+        {
+          "source": "루리웹",
+          "rank": 64,
+          "title": "부캉이 임티 무료배포",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
+          "score": 59.0
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-26T07:31:47.878730+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i9ff6bf96",
@@ -280,7 +318,7 @@
       "last_seen": "2026-10-26T00:04:03.944375+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
+      "rank": 8,
       "change": -1
     },
     {
@@ -318,7 +356,7 @@
       "last_seen": "2026-10-26T00:04:03.944375+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 9,
       "change": -1
     }
   ]
