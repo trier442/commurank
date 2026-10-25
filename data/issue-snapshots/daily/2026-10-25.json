@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-25",
   "label": "2026년 10월 25일",
-  "collected_at": "2026-10-25T08:19:11.542171+09:00",
+  "collected_at": "2026-10-25T09:20:19.209372+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -270,7 +270,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i5125324c",
@@ -309,7 +309,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i749e6b26",
@@ -469,6 +469,44 @@
       "change": 0
     },
     {
+      "id": "ic6bd73cf",
+      "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "미국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.0,
+      "peak_score": 69.53,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 60,
+          "title": "미국에서 흥행과 평가 모두 잡았다는 다큐멘터리 작품",
+          "url": "https://www.clien.net/service/board/park/19282310?od=T31&po=0&category=0&groupCd=",
+          "score": 60.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 84,
+          "title": "최근 미국에서 논란인 사건.news",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77146832?m=humor_only&t=now",
+          "score": 54.58
+        }
+      ],
+      "first_seen": "2026-10-25T09:20:19.209372+09:00",
+      "last_seen": "2026-10-25T09:20:19.209372+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
       "id": "i938aee9b",
       "title": "‘듀오는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -503,8 +541,8 @@
       "last_seen": "2026-10-25T04:47:13.767370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i1b672c00",
@@ -541,8 +579,8 @@
       "last_seen": "2026-10-25T07:09:01.409979+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     }
   ]
 }

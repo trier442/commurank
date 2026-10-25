@@ -1,6 +1,47 @@
 {
   "version": 1,
   "issues": {
+    "ic6bd73cf": {
+      "id": "ic6bd73cf",
+      "first_seen": "2026-10-25T09:20:19.209372+09:00",
+      "last_seen": "2026-10-25T09:20:19.209372+09:00",
+      "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "미국에서"
+      ],
+      "points": [
+        {
+          "at": "2026-10-25T09:20:19.209372+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 69.53,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19282310?od=T31&po=0&category=0&groupCd=",
+            "https://bbs.ruliweb.com/best/board/300143/read/77146832?m=humor_only&t=now"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 60,
+          "title": "미국에서 흥행과 평가 모두 잡았다는 다큐멘터리 작품",
+          "url": "https://www.clien.net/service/board/park/19282310?od=T31&po=0&category=0&groupCd=",
+          "score": 60.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 84,
+          "title": "최근 미국에서 논란인 사건.news",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77146832?m=humor_only&t=now",
+          "score": 54.58
+        }
+      ]
+    },
     "ife021da2": {
       "id": "ife021da2",
       "first_seen": "2026-09-29T11:40:38.000414+09:00",
@@ -35525,52 +35566,7 @@
           "score": 51.21
         }
       ]
-    },
-    "iff3f9976": {
-      "id": "iff3f9976",
-      "first_seen": "2026-10-04T01:37:22.237917+09:00",
-      "last_seen": "2026-10-04T01:37:22.237917+09:00",
-      "title": "싱글벙글 기둥서방 덴지와 성벽이 뒤틀린 레제",
-      "keywords": [
-        "덴지와",
-        "기둥서방",
-        "뒤틀린",
-        "레제",
-        "성벽이"
-      ],
-      "points": [
-        {
-          "at": "2026-10-04T01:37:22.237917+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 83.87,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=467747&_dcbest=1&page=1",
-            "https://bbs.ruliweb.com/best/board/300143/read/76899666?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "싱글벙글 기둥서방 덴지와 성벽이 뒤틀린 레제",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467747&_dcbest=1&page=1",
-          "score": 75.87
-        },
-        {
-          "source": "루리웹",
-          "rank": 89,
-          "title": "기둥서방 덴지와 성벽이 뒤틀린 레제",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76899666?m=humor_only&t=now",
-          "score": 53.09
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-25T08:19:11.542171+09:00"
+  "updated_at": "2026-10-25T09:20:19.209372+09:00"
 }
