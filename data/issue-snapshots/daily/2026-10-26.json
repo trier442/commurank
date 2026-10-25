@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-26",
   "label": "2026년 10월 26일",
-  "collected_at": "2026-10-26T04:57:24.931533+09:00",
+  "collected_at": "2026-10-26T06:09:47.836771+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -47,6 +47,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.79,
+      "peak_score": 101.32,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "[네이버페이] 일일적립, 클릭 569원, 퀴즈미션, 라이브예고 29원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108334",
+          "score": 92.32
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 78,
+          "title": "[란123] 네이버페이 654원 + 랜덤 포인트 받으세요 (+기타 322원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165339",
+          "score": 53.94
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-26T06:09:47.836771+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i541bb1e1",
       "title": "軍, 30대 여성에 최전방 민통선 뚫려…GOP 광망까지 절단",
       "keywords": [
@@ -87,8 +125,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i0cdcc665",
@@ -99,9 +137,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.39,
+      "score": 91.3,
       "peak_score": 76.34,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -111,25 +149,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 46,
+          "rank": 45,
           "title": "유툽. 신기하네요 ㅋ 아이폰 듀오",
           "url": "https://www.clien.net/service/board/park/19282642?od=T31&po=0&category=0&groupCd=",
-          "score": 61.26
+          "score": 63.2
         },
         {
           "source": "디시인사이드",
-          "rank": 73,
+          "rank": 94,
           "title": "아이폰 듀오 근황 ㄷㄷ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473157&_dcbest=1&page=1",
-          "score": 55.78
+          "score": 51.85
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-26T04:57:24.931533+09:00",
+      "last_seen": "2026-10-26T06:09:47.836771+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i3eced5eb",
@@ -166,8 +204,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -204,8 +242,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -242,8 +280,8 @@
       "last_seen": "2026-10-26T00:04:03.944375+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i82d4eed1",
@@ -280,8 +318,8 @@
       "last_seen": "2026-10-26T00:04:03.944375+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     }
   ]
 }
