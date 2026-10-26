@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-26",
   "label": "2026년 10월 26일",
-  "collected_at": "2026-10-26T19:24:27.051247+09:00",
+  "collected_at": "2026-10-26T20:33:27.214706+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘아이폰’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #김혜경. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘아이폰’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #아이폰. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,15 +12,15 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 905377,
-    "top100_comments": 11663
+    "keywords": 19,
+    "top100_views": 944476,
+    "top100_comments": 10784
   },
   "highlights": [
     {
       "type": "issue",
       "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "3개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
+      "text": "3개 커뮤니티에서 8개 관련 인기글이 포착됐습니다.",
       "issue_id": "i0cdcc665"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#김혜경",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "김혜경"
+      "title": "#아이폰",
+      "text": "3개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "keyword": "아이폰"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-26T19:24:27.051247+09:00"
         }
       },
-      "score": 108.9,
+      "score": 108.81,
       "views": 31791,
       "likes": 273,
       "comments": 155,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "???:열차 안에서 책 읽는 건 솔직히 과시용 독서 아니냐",
@@ -88,12 +88,12 @@
           "last_seen": "2026-10-26T06:09:47.836771+09:00"
         }
       },
-      "score": 108.07,
+      "score": 107.97,
       "views": 10503,
       "likes": 106,
       "comments": 64,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "한국이 미국,일본을 제치고 압도적 '1황'이라는 분야",
@@ -117,12 +117,41 @@
           "last_seen": "2026-10-26T04:57:24.931533+09:00"
         }
       },
-      "score": 107.75,
+      "score": 107.66,
       "views": 11818,
       "likes": 79,
       "comments": 63,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "3040들이 아이폰을 쓰게 된 가장 큰 이유",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77162407?m=humor",
+      "first_seen": "2026-10-26T20:33:27.214706+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
+      "peak_score": 98.12,
+      "max_views": 34090,
+      "max_likes": 128,
+      "max_comments": 121,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-26": {
+          "max_score": 98.12,
+          "max_views": 34090,
+          "max_likes": 128,
+          "max_comments": 121,
+          "appearances": 1,
+          "last_seen": "2026-10-26T20:33:27.214706+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 34090,
+      "likes": 128,
+      "comments": 121,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”",
@@ -146,7 +175,7 @@
           "last_seen": "2026-10-26T14:38:53.446915+09:00"
         }
       },
-      "score": 106.84,
+      "score": 106.74,
       "views": 21754,
       "likes": 148,
       "comments": 169,
@@ -175,7 +204,7 @@
           "last_seen": "2026-10-26T09:42:59.970679+09:00"
         }
       },
-      "score": 106.84,
+      "score": 106.74,
       "views": 15013,
       "likes": 186,
       "comments": 79,
@@ -204,7 +233,7 @@
           "last_seen": "2026-10-26T15:51:41.616953+09:00"
         }
       },
-      "score": 106.52,
+      "score": 106.42,
       "views": 28294,
       "likes": 180,
       "comments": 99,
@@ -233,7 +262,7 @@
           "last_seen": "2026-10-26T15:51:41.616953+09:00"
         }
       },
-      "score": 106.31,
+      "score": 106.22,
       "views": 39155,
       "likes": 231,
       "comments": 124,
@@ -262,7 +291,7 @@
           "last_seen": "2026-10-26T03:22:06.737865+09:00"
         }
       },
-      "score": 106.31,
+      "score": 106.21,
       "views": 13428,
       "likes": 68,
       "comments": 63,
@@ -270,94 +299,85 @@
       "change": -1
     },
     {
-      "title": "지금 접경지역 쪽 북한군 최신 근황",
+      "title": "페미니스트 영화감독의 잃어버린 10년.jpg",
       "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77154477?m=humor",
-      "first_seen": "2026-10-26T02:37:48.037875+09:00",
-      "last_seen": "2026-10-26T02:37:48.037875+09:00",
-      "peak_score": 97.44,
-      "max_views": 27539,
-      "max_likes": 123,
-      "max_comments": 80,
+      "category": "스포츠",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77163203?m=humor",
+      "first_seen": "2026-10-26T20:33:27.214706+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
+      "peak_score": 96.19,
+      "max_views": 22381,
+      "max_likes": 200,
+      "max_comments": 121,
       "appearances": 1,
       "daily_stats": {
         "2026-10-26": {
-          "max_score": 97.44,
-          "max_views": 27539,
-          "max_likes": 123,
-          "max_comments": 80,
+          "max_score": 96.19,
+          "max_views": 22381,
+          "max_likes": 200,
+          "max_comments": 121,
           "appearances": 1,
-          "last_seen": "2026-10-26T02:37:48.037875+09:00"
+          "last_seen": "2026-10-26T20:33:27.214706+09:00"
         }
       },
-      "score": 105.57,
-      "views": 27539,
-      "likes": 123,
-      "comments": 80,
+      "score": 105.71,
+      "views": 22381,
+      "likes": 200,
+      "comments": 121,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "한국에서 취업하기 힘들다는 이슬람 여성.jpg",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165178",
-      "first_seen": "2026-10-26T00:04:03.944375+09:00",
-      "last_seen": "2026-10-26T10:21:23.237248+09:00",
-      "peak_score": 95.08,
-      "max_views": 28808,
-      "max_likes": 16,
-      "max_comments": 105,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-26": {
-          "max_score": 95.08,
-          "max_views": 28808,
-          "max_likes": 16,
-          "max_comments": 105,
-          "appearances": 3,
-          "last_seen": "2026-10-26T10:21:23.237248+09:00"
-        }
-      },
-      "score": 105.38,
-      "views": 28808,
-      "likes": 16,
-      "comments": 105,
-      "active_days": 1,
-      "change": -1
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473290&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 33773,
-      "likes": 149,
-      "comments": 611,
-      "score": 64.29,
+      "source": "클리앙",
+      "title": "이수만이 고기집에서 골든벨 울렸군요",
+      "url": "https://www.clien.net/service/board/park/19283011?od=T31&po=0&category=0&groupCd=",
+      "category": "스포츠",
+      "views": 2466,
+      "likes": 0,
+      "comments": 0,
+      "score": 57.49,
       "change": 0,
-      "current_rank": 33,
+      "current_rank": 70,
       "new_entry": false,
-      "delta_views": 21699,
-      "delta_likes": 84,
-      "delta_comments": 439,
+      "delta_views": 2152,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 84.44,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 213
+      "window_minutes": 69
+    },
+    {
+      "source": "디시인사이드",
+      "title": "70대 사장 절규에도 식당 정보 노출한 전현무계획.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473329&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 30868,
+      "likes": 396,
+      "comments": 563,
+      "score": 79.21,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 6970,
+      "delta_likes": 92,
+      "delta_comments": 97,
+      "rank_gain": 0,
+      "rising_score": 96.39,
+      "rising_rank": 2,
+      "window_minutes": 69
     },
     {
       "source": "루리웹",
-      "title": "한문철에 스스로 제보하는 가해자가 많은 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77162607?m=humor",
+      "title": "3040들이 아이폰을 쓰게 된 가장 큰 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77162407?m=humor",
       "category": "이슈",
-      "views": 31791,
-      "likes": 273,
-      "comments": 155,
-      "score": 99.38,
+      "views": 34090,
+      "likes": 128,
+      "comments": 121,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.74,
-      "rising_rank": 2,
-      "window_minutes": 213
+      "rising_score": 83.21,
+      "rising_rank": 3,
+      "window_minutes": 69
     },
     {
       "source": "루리웹",
-      "title": "현재 심각한 정도를 넘었다는 중국내 취업 상황.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77161745?m=humor",
-      "category": "이슈",
-      "views": 25400,
-      "likes": 136,
-      "comments": 99,
-      "score": 95.77,
+      "title": "페미니스트 영화감독의 잃어버린 10년.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77163203?m=humor",
+      "category": "스포츠",
+      "views": 22381,
+      "likes": 200,
+      "comments": 121,
+      "score": 96.19,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,59 +405,99 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 3,
-      "window_minutes": 213
+      "rising_score": 82.4,
+      "rising_rank": 4,
+      "window_minutes": 69
     },
     {
       "source": "루리웹",
       "title": "\"위험하게 해외 선교 왜 가?\" 거세지는 비판, 고심 깊어지는 교회들",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77162811?m=humor",
       "category": "이슈",
-      "views": 22406,
-      "likes": 121,
-      "comments": 113,
-      "score": 93.42,
-      "change": "NEW",
+      "views": 27069,
+      "likes": 132,
+      "comments": 121,
+      "score": 94.25,
+      "change": 0,
       "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "new_entry": false,
+      "delta_views": 4663,
+      "delta_likes": 11,
+      "delta_comments": 8,
       "rank_gain": 0,
-      "rising_score": 81.24,
-      "rising_rank": 4,
-      "window_minutes": 213
+      "rising_score": 80.56,
+      "rising_rank": 5,
+      "window_minutes": 69
+    },
+    {
+      "source": "더쿠",
+      "title": "나 임신했다고 인스스 올렸는데 친구가 이런식으로 얘기하는거",
+      "url": "https://theqoo.net/hot/4387090632",
+      "category": "이슈",
+      "views": 55859,
+      "likes": 0,
+      "comments": 524,
+      "score": 72.05,
+      "change": 0,
+      "current_rank": 17,
+      "new_entry": false,
+      "delta_views": 24586,
+      "delta_likes": 0,
+      "delta_comments": 195,
+      "rank_gain": 0,
+      "rising_score": 79.81,
+      "rising_rank": 6,
+      "window_minutes": 69
     },
     {
       "source": "뽐뿌",
-      "title": "김혜경 골프사건은 쉴드 불가네요",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165951",
-      "category": "스포츠",
-      "views": 22436,
-      "likes": 22,
-      "comments": 94,
-      "score": 88.66,
-      "change": "NEW",
+      "title": "임대 2년 산 후기",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237654",
+      "category": "이슈",
+      "views": 17550,
+      "likes": 19,
+      "comments": 108,
+      "score": 84.76,
+      "change": 13,
       "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.24,
-      "rising_rank": 5,
-      "window_minutes": 213
+      "new_entry": false,
+      "delta_views": 15042,
+      "delta_likes": 17,
+      "delta_comments": 76,
+      "rank_gain": 13,
+      "rising_score": 77.5,
+      "rising_rank": 7,
+      "window_minutes": 69
     },
     {
-      "source": "인벤",
-      "title": "서영교 법사위원장에게 낚여버린 국힘 주진우 의원 - 진짜 낚인 것 맞습니다. ㅋㅋㅋㅋ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745307",
+      "source": "디시인사이드",
+      "title": "구더기가 끓도록 아이를 방치해 죽이고 사망보험금 검색한 한녀.News",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473350&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 5954,
+      "likes": 71,
+      "comments": 159,
+      "score": 63.09,
+      "change": 0,
+      "current_rank": 39,
+      "new_entry": false,
+      "delta_views": 3864,
+      "delta_likes": 41,
+      "delta_comments": 62,
+      "rank_gain": 0,
+      "rising_score": 76.39,
+      "rising_rank": 8,
+      "window_minutes": 69
+    },
+    {
+      "source": "더쿠",
+      "title": "내가 진짜 궁금해서 그러는데 술 안좋아하는 사람들은",
+      "url": "https://theqoo.net/hot/4387195255",
       "category": "유머",
-      "views": 997,
-      "likes": 9,
-      "comments": 16,
-      "score": 84.98,
+      "views": 18367,
+      "likes": 0,
+      "comments": 594,
+      "score": 80.84,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -445,19 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.69,
-      "rising_rank": 6,
-      "window_minutes": 213
+      "rising_score": 75.95,
+      "rising_rank": 9,
+      "window_minutes": 69
     },
     {
-      "source": "디시인사이드",
-      "title": "70대 사장 절규에도 식당 정보 노출한 전현무계획.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473329&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23898,
-      "likes": 304,
-      "comments": 466,
-      "score": 83.99,
+      "source": "인벤",
+      "title": "어쩌다 한번 유소영",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2745344",
+      "category": "연예",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "score": 80.0,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -465,69 +525,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.28,
-      "rising_rank": 7,
-      "window_minutes": 213
-    },
-    {
-      "source": "인벤",
-      "title": "철가루 토핑하는 장사천재 백사장",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745306",
-      "category": "유머",
-      "views": 1589,
-      "likes": 0,
-      "comments": 10,
-      "score": 81.75,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.34,
-      "rising_rank": 8,
-      "window_minutes": 213
-    },
-    {
-      "source": "디시인사이드",
-      "title": "닥터X 6화 논란의 장면 ㄷㄷㄷㄷ..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473283&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17325,
-      "likes": 160,
-      "comments": 437,
-      "score": 58.38,
-      "change": 0,
-      "current_rank": 59,
-      "new_entry": false,
-      "delta_views": 11224,
-      "delta_likes": 87,
-      "delta_comments": 249,
-      "rank_gain": 0,
-      "rising_score": 75.56,
-      "rising_rank": 9,
-      "window_minutes": 213
-    },
-    {
-      "source": "루리웹",
-      "title": "[네이버쇼핑] 메가커피 2차 아메리카노 22%+멤버십 추가 할인 (10/26)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108356",
-      "category": "이슈",
-      "views": 18590,
-      "likes": 21,
-      "comments": 23,
-      "score": 79.61,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.44,
+      "rising_score": 75.6,
       "rising_rank": 10,
-      "window_minutes": 213
+      "window_minutes": 69
     }
   ],
   "issues": [
@@ -538,10 +538,10 @@
         "아이폰"
       ],
       "source_count": 3,
-      "post_count": 5,
-      "score": 129.67,
+      "post_count": 8,
+      "score": 133.07,
       "peak_score": 104.25,
-      "appearances": 11,
+      "appearances": 12,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -553,30 +553,30 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
-          "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473340&_dcbest=1&page=1",
-          "score": 69.1
+          "rank": 18,
+          "title": "싱글벙글 같은 유튜버의 갤럭시와 아이폰 UDC 리뷰.jog",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473362&_dcbest=1&page=1",
+          "score": 71.79
         },
         {
-          "source": "더쿠",
-          "rank": 43,
-          "title": "실시간 잇섭 아이폰 듀오 라이브 중..",
-          "url": "https://theqoo.net/hot/4387008814",
-          "score": 61.58
+          "source": "인벤",
+          "rank": 45,
+          "title": "아이폰 듀오 저격한 갤럭시 광고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745341",
+          "score": 62.1
         },
         {
           "source": "루리웹",
-          "rank": 77,
-          "title": "아이폰 듀오로 하면 안되는 짓",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77164858?m=humor_only&t=now",
-          "score": 55.2
+          "rank": 57,
+          "title": "아이폰 듀오, 타임지 선정 2026년 최고의 발명품",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77166202?m=humor_only&t=now",
+          "score": 59.6
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-26T19:24:27.051247+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
       "latest_source_count": 3,
-      "latest_post_count": 4,
+      "latest_post_count": 8,
       "rank": 1,
       "change": 0
     },
@@ -664,46 +664,87 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i47a1e6dd",
-      "title": "‘갤럭시’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
       "keywords": [
-        "갤럭시"
+        "갤럭시",
+        "아이폰"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 114.99,
+      "score": 116.43,
       "peak_score": 103.5,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
         "루리웹",
         "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
+          "rank": 21,
           "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473340&_dcbest=1&page=1",
-          "score": 69.1
+          "score": 68.81
         },
         {
-          "source": "뽐뿌",
-          "rank": 80,
-          "title": "AD [네이버][�릿模셈�+멤버십데이]갤럭시 자급제 전모델 단하루 역대급 혜택 라이브[26일 19시-20시30분]",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304258",
-          "score": 54.76
+          "source": "인벤",
+          "rank": 45,
+          "title": "아이폰 듀오 저격한 갤럭시 광고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745341",
+          "score": 62.1
         }
       ],
       "first_seen": "2026-10-26T15:51:41.616953+09:00",
-      "last_seen": "2026-10-26T19:24:27.051247+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
+      "change": 0
+    },
+    {
+      "id": "i2f0f43fb",
+      "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이폰듀오"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.16,
+      "peak_score": 103.67,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "다른데와 다르게 고장안나서 난리나버린 잇섭 아이폰듀오 라이브 ,",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473348&_dcbest=1&page=1",
+          "score": 62.11
+        },
+        {
+          "source": "클리앙",
+          "rank": 49,
+          "title": "아이폰듀오 난리네요;; 오늘 명동갔는데 깨져서 온 고객만 실시간..",
+          "url": "https://www.clien.net/service/board/park/19283020?od=T31&po=0&category=0&groupCd=",
+          "score": 60.99
+        }
+      ],
+      "first_seen": "2026-10-25T06:13:34.770048+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": 2
     },
     {
@@ -753,8 +794,8 @@
       "last_seen": "2026-10-26T10:21:23.237248+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 5,
-      "change": -2
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i2c6cb5dc",
@@ -793,46 +834,8 @@
       "last_seen": "2026-10-26T15:51:41.616953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
-    },
-    {
-      "id": "i2f0f43fb",
-      "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰듀오"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 113.14,
-      "peak_score": 103.67,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "아이폰듀오 사전대여 리뷰 쓴 IT 유튜버들 상황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159587?m=humor",
-          "score": 94.67
-        },
-        {
-          "source": "클리앙",
-          "rank": 59,
-          "title": "쿠팡에 아이폰듀오 폴리오 케이스 주문했네요",
-          "url": "https://www.clien.net/service/board/park/19282864?od=T31&po=0&category=0&groupCd=",
-          "score": 59.69
-        }
-      ],
-      "first_seen": "2026-10-25T06:13:34.770048+09:00",
-      "last_seen": "2026-10-26T14:38:53.446915+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -870,7 +873,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i541bb1e1",
@@ -914,46 +917,53 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
-      "id": "i6518b9ba",
-      "title": "‘김지원’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i348b5bff",
+      "title": "‘주진우’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "김지원"
+        "주진우"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.3,
-      "peak_score": 86.37,
-      "appearances": 3,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 100.06,
+      "peak_score": 85.59,
+      "appearances": 1,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 16,
-          "title": "유해진에 이어... 김지원 ㄷㄷ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745293",
-          "score": 72.03
+          "source": "클리앙",
+          "rank": 22,
+          "title": "리디아 고 반박하자…주진우 ‘황제 레슨’ 주장 영상 편집",
+          "url": "https://www.clien.net/service/board/park/19283030?od=T31&po=0&category=0&groupCd=",
+          "score": 68.59
         },
         {
-          "source": "더쿠",
-          "rank": 39,
-          "title": "\"유해진 나락 가는 거 못 봤나\"…김지원, 시청률 19.5% 찍고도 5·18 등장하자 날벼락 [종합]",
-          "url": "https://theqoo.net/hot/4387042284",
-          "score": 62.89
+          "source": "디시인사이드",
+          "rank": 38,
+          "title": "청와대 \"주진우 일방 주장 보도 언론에 책임 물을 것\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473358&_dcbest=1&page=1",
+          "score": 63.19
+        },
+        {
+          "source": "인벤",
+          "rank": 90,
+          "title": "서영교 법사위원장에게 낚여버린 국힘 주진우 의원 - 진짜 낚인 것 맞습니다. ㅋㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745307",
+          "score": 52.34
         }
       ],
-      "first_seen": "2026-10-26T08:18:44.324586+09:00",
-      "last_seen": "2026-10-26T19:24:27.051247+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "first_seen": "2026-10-26T20:33:27.214706+09:00",
+      "last_seen": "2026-10-26T20:33:27.214706+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
@@ -964,226 +974,119 @@
         "아이폰"
       ],
       "source_count": 3,
-      "post_count": 4,
-      "score": 87.1,
-      "peak_score": 87.1,
+      "post_count": 8,
+      "score": 90.79,
+      "peak_score": 90.79,
       "appearances": 1,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
-          "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473340&_dcbest=1&page=1",
-          "score": 69.1
+          "rank": 18,
+          "title": "싱글벙글 같은 유튜버의 갤럭시와 아이폰 UDC 리뷰.jog",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473362&_dcbest=1&page=1",
+          "score": 71.79
         },
         {
-          "source": "더쿠",
-          "rank": 43,
-          "title": "실시간 잇섭 아이폰 듀오 라이브 중..",
-          "url": "https://theqoo.net/hot/4387008814",
-          "score": 61.58
+          "source": "인벤",
+          "rank": 45,
+          "title": "아이폰 듀오 저격한 갤럭시 광고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745341",
+          "score": 62.1
         },
         {
           "source": "루리웹",
-          "rank": 77,
-          "title": "아이폰 듀오로 하면 안되는 짓",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77164858?m=humor_only&t=now",
-          "score": 55.2
+          "rank": 57,
+          "title": "아이폰 듀오, 타임지 선정 2026년 최고의 발명품",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77166202?m=humor_only&t=now",
+          "score": 59.6
         }
       ],
       "rank": 1,
-      "change": 3
+      "change": 0
     },
     {
-      "id": "i309283fe",
-      "title": "‘김혜경’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i348b5bff",
+      "title": "‘주진우’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "김혜경"
+        "주진우"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 105.66,
-      "peak_score": 105.66,
+      "score": 85.59,
+      "peak_score": 85.59,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "김혜경 골프사건은 쉴드 불가네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165951",
-          "score": 88.66
-        },
-        {
           "source": "클리앙",
-          "rank": 9,
-          "title": "김혜경 여사 골프논란 오늘자 국감 부끄럽습니다.",
-          "url": "https://www.clien.net/service/board/park/19282996?od=T31&po=0&category=0&groupCd=",
-          "score": 78.71
+          "rank": 22,
+          "title": "리디아 고 반박하자…주진우 ‘황제 레슨’ 주장 영상 편집",
+          "url": "https://www.clien.net/service/board/park/19283030?od=T31&po=0&category=0&groupCd=",
+          "score": 68.59
         },
         {
           "source": "디시인사이드",
-          "rank": 21,
-          "title": "폭로) 김혜경, 프로골퍼 대동하고 황제골프 쳤다",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473311&_dcbest=1&page=1",
-          "score": 69.52
+          "rank": 38,
+          "title": "청와대 \"주진우 일방 주장 보도 언론에 책임 물을 것\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473358&_dcbest=1&page=1",
+          "score": 63.19
+        },
+        {
+          "source": "인벤",
+          "rank": 90,
+          "title": "서영교 법사위원장에게 낚여버린 국힘 주진우 의원 - 진짜 낚인 것 맞습니다. ㅋㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745307",
+          "score": 52.34
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i8bcd73b9",
-      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia71db4dd",
+      "title": "니키 미나즈 트럼프 지지선언..ㄷㄷ",
       "keywords": [
-        "라이브"
+        "트럼프",
+        "미나즈",
+        "지지선언",
+        "니키"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 79.53,
-      "peak_score": 79.53,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.26,
+      "peak_score": 82.26,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "다른데와 다르게 고장안나서 난리나버린 잇섭 아이폰듀오 라이브 ,",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473348&_dcbest=1&page=1",
-          "score": 62.53
+          "source": "클리앙",
+          "rank": 11,
+          "title": "니키 미나즈 트럼프 지지선언..ㄷㄷ",
+          "url": "https://www.clien.net/service/board/park/19283031?od=T31&po=0&category=0&groupCd=",
+          "score": 74.26
         },
         {
-          "source": "더쿠",
-          "rank": 43,
-          "title": "실시간 잇섭 아이폰 듀오 라이브 중..",
-          "url": "https://theqoo.net/hot/4387008814",
-          "score": 61.58
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 80,
-          "title": "AD [네이버][�릿模셈�+멤버십데이]갤럭시 자급제 전모델 단하루 역대급 혜택 라이브[26일 19시-20시30분]",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304258",
-          "score": 54.76
+          "source": "인벤",
+          "rank": 36,
+          "title": "가수 니키 미나즈..트럼프 지지선언",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745339",
+          "score": 63.46
         }
       ],
       "rank": 3,
       "change": "NEW"
-    },
-    {
-      "id": "ib19f68fa",
-      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "추미애"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.31,
-      "peak_score": 81.31,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "추미애 지사 페북.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166093",
-          "score": 72.31
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 100,
-          "title": "[단독] 추미애, 경기도 소방차량 교체예산 26억 삭감",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473298&_dcbest=1&page=1",
-          "score": 50.35
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i6518b9ba",
-      "title": "‘김지원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김지원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.03,
-      "peak_score": 81.03,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 16,
-          "title": "유해진에 이어... 김지원 ㄷㄷ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745293",
-          "score": 72.03
-        },
-        {
-          "source": "더쿠",
-          "rank": 39,
-          "title": "\"유해진 나락 가는 거 못 봤나\"…김지원, 시청률 19.5% 찍고도 5·18 등장하자 날벼락 [종합]",
-          "url": "https://theqoo.net/hot/4387042284",
-          "score": 62.89
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i47a1e6dd",
-      "title": "‘갤럭시’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "갤럭시"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.1,
-      "peak_score": 78.1,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 22,
-          "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473340&_dcbest=1&page=1",
-          "score": 69.1
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 80,
-          "title": "AD [네이버][�릿模셈�+멤버십데이]갤럭시 자급제 전모델 단하루 역대급 혜택 라이브[26일 19시-20시30분]",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304258",
-          "score": 54.76
-        }
-      ],
-      "rank": 6,
-      "change": -4
     },
     {
       "id": "if8b91d71",
@@ -1193,8 +1096,117 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.01,
-      "peak_score": 77.01,
+      "score": 81.84,
+      "peak_score": 81.84,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 12,
+          "title": "이 대통령 '‥부동산 공화국 벗어나야'",
+          "url": "https://www.clien.net/service/board/park/19283024?od=T31&po=0&category=0&groupCd=",
+          "score": 72.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 46,
+          "title": "현재 주식,부동산 영끌이들이 증오하는 인물",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473296&_dcbest=1&page=1",
+          "score": 61.6
+        }
+      ],
+      "rank": 4,
+      "change": 3
+    },
+    {
+      "id": "i09d62de3",
+      "title": "[단독] 일본계 자본, JYP 인수시도...공개매수 예고",
+      "keywords": [
+        "인수시도",
+        "자본",
+        "공개매수",
+        "예고",
+        "일본계",
+        "jyp"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.37,
+      "peak_score": 79.37,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 19,
+          "title": "[단독] 일본계 자본, JYP 인수시도...공개매수 예고",
+          "url": "https://theqoo.net/hot/4387121601",
+          "score": 71.37
+        },
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "일본계 자본, JYP 인수시도...공개매수 예고",
+          "url": "https://www.clien.net/service/board/park/19283023?od=T31&po=0&category=0&groupCd=",
+          "score": 63.04
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i47a1e6dd",
+      "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
+      "keywords": [
+        "갤럭시",
+        "아이폰"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.81,
+      "peak_score": 76.81,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "싱글벙글 갤럭시 티배깅하던 아이폰 유저",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473340&_dcbest=1&page=1",
+          "score": 68.81
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "아이폰 듀오 저격한 갤럭시 광고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745341",
+          "score": 62.1
+        }
+      ],
+      "rank": 6,
+      "change": 0
+    },
+    {
+      "id": "i9992652a",
+      "title": "‘황제골프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "황제골프",
+        "김혜경"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.93,
+      "peak_score": 72.93,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1203,51 +1215,51 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 27,
-          "title": "현재 주식,부동산 영끌이들이 증오하는 인물",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473296&_dcbest=1&page=1",
-          "score": 68.01
+          "rank": 33,
+          "title": "폭로) 김혜경, 프로골퍼 대동하고 황제골프 쳤다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473311&_dcbest=1&page=1",
+          "score": 63.93
         },
         {
           "source": "클리앙",
-          "rank": 88,
-          "title": "금리 부담에, 부동산 거래 급감",
-          "url": "https://www.clien.net/service/board/park/19282985?od=T31&po=0&category=0&groupCd=",
-          "score": 53.83
+          "rank": 59,
+          "title": "[단독]'황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기",
+          "url": "https://www.clien.net/service/board/park/19283015?od=T31&po=0&category=0&groupCd=",
+          "score": 59.41
         }
       ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i0a785976",
-      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2f0f43fb",
+      "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "최민희"
+        "아이폰듀오"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.18,
-      "peak_score": 73.18,
+      "score": 71.11,
+      "peak_score": 71.11,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 34,
-          "title": "최민희 수석최고 페북.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166030",
-          "score": 64.18
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "다른데와 다르게 고장안나서 난리나버린 잇섭 아이폰듀오 라이브 ,",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473348&_dcbest=1&page=1",
+          "score": 62.11
         },
         {
-          "source": "디시인사이드",
-          "rank": 58,
-          "title": "최민희 인공지능 판사 도입 하자 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473334&_dcbest=1&page=1",
-          "score": 58.46
+          "source": "클리앙",
+          "rank": 49,
+          "title": "아이폰듀오 난리네요;; 오늘 명동갔는데 깨져서 온 고객만 실시간..",
+          "url": "https://www.clien.net/service/board/park/19283020?od=T31&po=0&category=0&groupCd=",
+          "score": 60.99
         }
       ],
       "rank": 8,
@@ -1256,200 +1268,209 @@
   ],
   "keywords": [
     {
-      "keyword": "김혜경",
-      "score": 136.23,
-      "post_count": 3,
+      "keyword": "아이폰",
+      "score": 167.81,
+      "post_count": 9,
       "source_count": 3,
-      "best_rank": 4,
+      "best_rank": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 2
     },
     {
-      "keyword": "단독",
-      "score": 130.33,
-      "post_count": 5,
+      "keyword": "듀오",
+      "score": 134.58,
+      "post_count": 6,
       "source_count": 3,
-      "best_rank": 28,
+      "best_rank": 37,
       "sources": [
-        "더쿠",
         "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 5
     },
     {
-      "keyword": "아이폰",
-      "score": 125.25,
-      "post_count": 4,
+      "keyword": "단독",
+      "score": 129.17,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 22,
+      "best_rank": 19,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 3
+      "change": -1
     },
     {
-      "keyword": "일본",
-      "score": 115.23,
+      "keyword": "주진우",
+      "score": 116.42,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 25,
+      "best_rank": 22,
       "sources": [
-        "더쿠",
-        "루리웹",
+        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 6
+      "change": "NEW"
     },
     {
-      "keyword": "라이브",
-      "score": 114.81,
+      "keyword": "김혜경",
+      "score": 112.67,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 41,
+      "best_rank": 33,
       "sources": [
-        "더쿠",
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "유해진",
-      "score": 95.93,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 16,
+      "keyword": "일본",
+      "score": 112.22,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 51,
       "sources": [
         "더쿠",
+        "루리웹",
         "인벤"
       ],
-      "aliases": [
-        "김지원"
-      ],
+      "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "듀오",
-      "score": 90.74,
-      "post_count": 2,
+      "keyword": "갤럭시",
+      "score": 102.14,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 18,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -6
+      "change": 6
     },
     {
-      "keyword": "삼성",
-      "score": 90.09,
+      "keyword": "정보",
+      "score": 101.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 7,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "미국",
-      "score": 89.54,
+      "keyword": "지지선언",
+      "score": 99.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "니키",
+        "미나즈",
+        "트럼프"
+      ],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "잇섭",
-      "score": 89.54,
+      "keyword": "부동산",
+      "score": 96.9,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": 4
     },
     {
-      "keyword": "최민희",
-      "score": 88.37,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 34,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "추미애",
-      "score": 87.36,
+      "keyword": "미국",
+      "score": 94.85,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 15,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
+      "rank": 11,
+      "change": -2
+    },
+    {
+      "keyword": "공개매수",
+      "score": 94.33,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [
+        "jyp",
+        "예고",
+        "인수시",
+        "일본계",
+        "자본"
+      ],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "갤럭시",
-      "score": 87.34,
+      "keyword": "주장",
+      "score": 93.49,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 22,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 13,
-      "change": -9
+      "change": "NEW"
     },
     {
-      "keyword": "부동산",
-      "score": 85.5,
+      "keyword": "황제골프",
+      "score": 88.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 33,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -1459,13 +1480,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "kia",
-      "score": 84.98,
+      "keyword": "아이폰듀오",
+      "score": 88.31,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 48,
+      "best_rank": 44,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1476,51 +1497,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한문철에 스스로 제보하는 가해자가 많은 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77162607?m=humor",
-      "score": 99.38,
-      "views": 31791,
-      "comments": 155
+      "title": "3040들이 아이폰을 쓰게 된 가장 큰 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77162407?m=humor",
+      "score": 98.12,
+      "views": 34090,
+      "comments": 121
     },
     {
       "source": "뽐뿌",
-      "title": "김혜경 골프사건은 쉴드 불가네요",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165951",
-      "score": 88.66,
-      "views": 22436,
-      "comments": 94
+      "title": "임대 2년 산 후기",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237654",
+      "score": 84.76,
+      "views": 17550,
+      "comments": 108
+    },
+    {
+      "source": "더쿠",
+      "title": "내가 진짜 궁금해서 그러는데 술 안좋아하는 사람들은",
+      "url": "https://theqoo.net/hot/4387195255",
+      "score": 80.84,
+      "views": 18367,
+      "comments": 594
     },
     {
       "source": "인벤",
-      "title": "서영교 법사위원장에게 낚여버린 국힘 주진우 의원 - 진짜 낚인 것 맞습니다. ㅋㅋㅋㅋ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745307",
-      "score": 84.98,
-      "views": 997,
-      "comments": 16
+      "title": "어쩌다 한번 유소영",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2745344",
+      "score": 80.0,
+      "views": 0,
+      "comments": 0
     },
     {
       "source": "디시인사이드",
       "title": "70대 사장 절규에도 식당 정보 노출한 전현무계획.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473329&_dcbest=1&page=1",
-      "score": 83.99,
-      "views": 23898,
-      "comments": 466
+      "score": 79.21,
+      "views": 30868,
+      "comments": 563
     },
     {
       "source": "클리앙",
-      "title": "김혜경 여사 골프논란 오늘자 국감 부끄럽습니다.",
-      "url": "https://www.clien.net/service/board/park/19282996?od=T31&po=0&category=0&groupCd=",
-      "score": 78.71,
-      "views": 2266,
-      "comments": 29
-    },
-    {
-      "source": "더쿠",
-      "title": "나 임신했다고 인스스 올렸는데 친구가 이런식으로 얘기하는거",
-      "url": "https://theqoo.net/hot/4387090632",
-      "score": 72.84,
-      "views": 31273,
-      "comments": 329
+      "title": "니키 미나즈 트럼프 지지선언..ㄷㄷ",
+      "url": "https://www.clien.net/service/board/park/19283031?od=T31&po=0&category=0&groupCd=",
+      "score": 74.26,
+      "views": 1186,
+      "comments": 11
     }
   ]
 }
