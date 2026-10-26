@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-26",
   "label": "2026년 10월 26일",
-  "collected_at": "2026-10-26T14:38:53.446915+09:00",
+  "collected_at": "2026-10-26T15:51:41.616953+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘아이폰 듀오 힌지 생산 업체 입장문’입니다. 실시간 키워드 상위: #아이폰듀오. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG’입니다. 실시간 키워드 상위: #듀오. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,14 +12,14 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 15,
-    "top100_views": 1083944,
-    "top100_comments": 13132
+    "keywords": 19,
+    "top100_views": 1222351,
+    "top100_comments": 14340
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "아이폰 듀오 힌지 생산 업체 입장문",
+      "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
       "text": "3개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
       "issue_id": "i0cdcc665"
     },
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#아이폰듀오",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "아이폰듀오"
+      "title": "#듀오",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "듀오"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-26T06:09:47.836771+09:00"
         }
       },
-      "score": 108.46,
+      "score": 108.36,
       "views": 10503,
       "likes": 106,
       "comments": 64,
@@ -88,7 +88,7 @@
           "last_seen": "2026-10-26T04:57:24.931533+09:00"
         }
       },
-      "score": 108.15,
+      "score": 108.05,
       "views": 11818,
       "likes": 79,
       "comments": 63,
@@ -117,12 +117,12 @@
           "last_seen": "2026-10-26T14:38:53.446915+09:00"
         }
       },
-      "score": 107.23,
+      "score": 107.13,
       "views": 21754,
       "likes": 148,
       "comments": 169,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "알빠노가 사투리가 아닌 일베합성어인 이유",
@@ -146,12 +146,70 @@
           "last_seen": "2026-10-26T09:42:59.970679+09:00"
         }
       },
-      "score": 107.23,
+      "score": 107.13,
       "views": 15013,
       "likes": 186,
       "comments": 79,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "독립충vs부모님이랑 살기 비교 ㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159737?m=humor",
+      "first_seen": "2026-10-26T15:51:41.616953+09:00",
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
+      "peak_score": 97.29,
+      "max_views": 28294,
+      "max_likes": 180,
+      "max_comments": 99,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-26": {
+          "max_score": 97.29,
+          "max_views": 28294,
+          "max_likes": 180,
+          "max_comments": 99,
+          "appearances": 1,
+          "last_seen": "2026-10-26T15:51:41.616953+09:00"
+        }
+      },
+      "score": 106.81,
+      "views": 28294,
+      "likes": 180,
+      "comments": 99,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
+      "first_seen": "2026-10-26T14:38:53.446915+09:00",
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
+      "peak_score": 96.19,
+      "max_views": 39155,
+      "max_likes": 231,
+      "max_comments": 124,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-26": {
+          "max_score": 96.19,
+          "max_views": 39155,
+          "max_likes": 231,
+          "max_comments": 124,
+          "appearances": 2,
+          "last_seen": "2026-10-26T15:51:41.616953+09:00"
+        }
+      },
+      "score": 106.61,
+      "views": 39155,
+      "likes": 231,
+      "comments": 124,
+      "active_days": 1,
+      "change": 2
     },
     {
       "title": "현재 AI 야겜인데 반응 미쳤다는 평가 미친 야겜 ㄷㄷㄷ",
@@ -175,12 +233,12 @@
           "last_seen": "2026-10-26T03:22:06.737865+09:00"
         }
       },
-      "score": 106.7,
+      "score": 106.6,
       "views": 13428,
       "likes": 68,
       "comments": 63,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "지금 접경지역 쪽 북한군 최신 근황",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-26T02:37:48.037875+09:00"
         }
       },
-      "score": 105.96,
+      "score": 105.86,
       "views": 27539,
       "likes": 123,
       "comments": 80,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "한국에서 취업하기 힘들다는 이슬람 여성.jpg",
@@ -233,41 +291,12 @@
           "last_seen": "2026-10-26T10:21:23.237248+09:00"
         }
       },
-      "score": 105.77,
+      "score": 105.67,
       "views": 28808,
       "likes": 16,
       "comments": 105,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
-      "source": "루리웹",
-      "category": "유머",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
-      "first_seen": "2026-10-26T14:38:53.446915+09:00",
-      "last_seen": "2026-10-26T14:38:53.446915+09:00",
-      "peak_score": 96.19,
-      "max_views": 33338,
-      "max_likes": 216,
-      "max_comments": 118,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-26": {
-          "max_score": 96.19,
-          "max_views": 33338,
-          "max_likes": 216,
-          "max_comments": 118,
-          "appearances": 1,
-          "last_seen": "2026-10-26T14:38:53.446915+09:00"
-        }
-      },
-      "score": 105.71,
-      "views": 33338,
-      "likes": 216,
-      "comments": 118,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "아이폰 듀오 선행리뷰 채널들 민심 개흉흉하네",
@@ -291,53 +320,84 @@
           "last_seen": "2026-10-26T10:21:23.237248+09:00"
         }
       },
-      "score": 105.42,
+      "score": 105.32,
       "views": 10333,
       "likes": 118,
       "comments": 65,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "평화 시위가 이해가 안가는 프랑스인",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77152021?m=humor",
-      "first_seen": "2026-10-26T00:04:03.944375+09:00",
-      "last_seen": "2026-10-26T00:04:03.944375+09:00",
-      "peak_score": 97.02,
-      "max_views": 21038,
-      "max_likes": 185,
-      "max_comments": 113,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-26": {
-          "max_score": 97.02,
-          "max_views": 21038,
-          "max_likes": 185,
-          "max_comments": 113,
-          "appearances": 1,
-          "last_seen": "2026-10-26T00:04:03.944375+09:00"
-        }
-      },
-      "score": 105.33,
-      "views": 21038,
-      "likes": 185,
-      "comments": 113,
-      "active_days": 1,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
       "source": "루리웹",
-      "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77161244?m=humor",
-      "category": "생활",
-      "views": 21754,
-      "likes": 148,
-      "comments": 169,
-      "score": 97.71,
+      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
+      "category": "유머",
+      "views": 39155,
+      "likes": 231,
+      "comments": 124,
+      "score": 95.5,
+      "change": 0,
+      "current_rank": 3,
+      "new_entry": false,
+      "delta_views": 5817,
+      "delta_likes": 15,
+      "delta_comments": 6,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 73
+    },
+    {
+      "source": "디시인사이드",
+      "title": "현재 논란이라는 경상남도 굴 상태.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473266&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13331,
+      "likes": 125,
+      "comments": 399,
+      "score": 70.47,
+      "change": 0,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 5637,
+      "delta_likes": 50,
+      "delta_comments": 99,
+      "rank_gain": 0,
+      "rising_score": 87.43,
+      "rising_rank": 2,
+      "window_minutes": 73
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글…남자는 머리빨인 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473270&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 15616,
+      "likes": 94,
+      "comments": 212,
+      "score": 66.98,
+      "change": 0,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 8425,
+      "delta_likes": 36,
+      "delta_comments": 82,
+      "rank_gain": 0,
+      "rising_score": 87.13,
+      "rising_rank": 3,
+      "window_minutes": 73
+    },
+    {
+      "source": "루리웹",
+      "title": "독립충vs부모님이랑 살기 비교 ㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159737?m=humor",
+      "category": "유머",
+      "views": 28294,
+      "likes": 180,
+      "comments": 99,
+      "score": 97.29,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -345,19 +405,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.04,
-      "rising_rank": 1,
-      "window_minutes": 258
+      "rising_score": 82.86,
+      "rising_rank": 4,
+      "window_minutes": 73
+    },
+    {
+      "source": "디시인사이드",
+      "title": "\"가난하면 애낳지 말라는건 위험한거 아님?\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473256&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 30736,
+      "likes": 176,
+      "comments": 1020,
+      "score": 74.86,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 4516,
+      "delta_likes": 32,
+      "delta_comments": 163,
+      "rank_gain": 0,
+      "rising_score": 82.46,
+      "rising_rank": 5,
+      "window_minutes": 73
     },
     {
       "source": "루리웹",
-      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
-      "category": "유머",
-      "views": 33338,
-      "likes": 216,
-      "comments": 118,
-      "score": 96.19,
+      "title": "댓글창 난리났다는 효도여행 영상",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159511?m=humor",
+      "category": "생활",
+      "views": 29696,
+      "likes": 112,
+      "comments": 115,
+      "score": 95.77,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -365,39 +445,79 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 2,
-      "window_minutes": 258
+      "rising_score": 82.22,
+      "rising_rank": 6,
+      "window_minutes": 73
     },
     {
-      "source": "루리웹",
-      "title": "아이폰듀오 사전대여 리뷰 쓴 IT 유튜버들 상황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159587?m=humor",
+      "source": "더쿠",
+      "title": "아이폰 듀오 힌지 생산 업체 입장문",
+      "url": "https://theqoo.net/hot/4386792389",
       "category": "이슈",
-      "views": 43196,
-      "likes": 236,
-      "comments": 113,
-      "score": 94.67,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 52806,
+      "likes": 0,
+      "comments": 446,
+      "score": 71.21,
+      "change": 0,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 18429,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 87,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 3,
-      "window_minutes": 258
+      "rising_score": 81.41,
+      "rising_rank": 7,
+      "window_minutes": 73
     },
     {
       "source": "디시인사이드",
-      "title": "\"가난하면 애낳지 말라는건 위험한거 아님?\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473256&_dcbest=1&page=1",
+      "title": "불쾌한 장난만 치는 남편 투명인간 취급이 답일까.blind",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473274&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 26220,
-      "likes": 144,
-      "comments": 857,
-      "score": 81.16,
+      "views": 9521,
+      "likes": 18,
+      "comments": 232,
+      "score": 62.68,
+      "change": 1,
+      "current_rank": 48,
+      "new_entry": false,
+      "delta_views": 7912,
+      "delta_likes": 12,
+      "delta_comments": 170,
+      "rank_gain": 1,
+      "rising_score": 80.13,
+      "rising_rank": 8,
+      "window_minutes": 73
+    },
+    {
+      "source": "뽐뿌",
+      "title": "일당 50만원이면 하나요?",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165205",
+      "category": "이슈",
+      "views": 25840,
+      "likes": 0,
+      "comments": 61,
+      "score": 67.68,
+      "change": 35,
+      "current_rank": 23,
+      "new_entry": false,
+      "delta_views": 15276,
+      "delta_likes": 0,
+      "delta_comments": 21,
+      "rank_gain": 35,
+      "rising_score": 78.33,
+      "rising_rank": 9,
+      "window_minutes": 73
+    },
+    {
+      "source": "뽐뿌",
+      "title": "요즘 여자들이 메컵 지우면 현타온다는 이유",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165685",
+      "category": "이슈",
+      "views": 23252,
+      "likes": 0,
+      "comments": 51,
+      "score": 80.15,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -405,144 +525,25 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.09,
-      "rising_rank": 4,
-      "window_minutes": 258
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 브라질 대선 개표 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473264&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 13318,
-      "likes": 113,
-      "comments": 321,
-      "score": 76.74,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.23,
-      "rising_rank": 5,
-      "window_minutes": 258
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 유튜브 엑셀방송 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473238&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 35909,
-      "likes": 285,
-      "comments": 426,
-      "score": 76.33,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.06,
-      "rising_rank": 6,
-      "window_minutes": 258
-    },
-    {
-      "source": "클리앙",
-      "title": "탕탕절 좋네요",
-      "url": "https://www.clien.net/service/board/park/19282867?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 771,
-      "likes": 5,
-      "comments": 10,
-      "score": 76.24,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.02,
-      "rising_rank": 7,
-      "window_minutes": 258
-    },
-    {
-      "source": "인벤",
-      "title": "감남대로 이별녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745177",
-      "category": "이슈",
-      "views": 2361,
-      "likes": 1,
-      "comments": 32,
-      "score": 75.61,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.76,
-      "rising_rank": 8,
-      "window_minutes": 258
-    },
-    {
-      "source": "클리앙",
-      "title": "골프로 물어뜯는것보고있으니",
-      "url": "https://www.clien.net/service/board/park/19282862?od=T31&po=0&category=0&groupCd=",
-      "category": "스포츠",
-      "views": 1068,
-      "likes": 0,
-      "comments": 20,
-      "score": 75.4,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.67,
-      "rising_rank": 9,
-      "window_minutes": 258
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ 뒷북 인증",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745178",
-      "category": "이슈",
-      "views": 1849,
-      "likes": 3,
-      "comments": 7,
-      "score": 74.55,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.31,
+      "rising_score": 75.66,
       "rising_rank": 10,
-      "window_minutes": 258
+      "window_minutes": 73
     }
   ],
   "issues": [
     {
       "id": "i0cdcc665",
-      "title": "아이폰 듀오 힌지 생산 업체 입장문",
+      "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
       "keywords": [
+        "듀오",
         "아이폰",
-        "듀오"
+        "힌지"
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 128.76,
+      "score": 129.24,
       "peak_score": 104.25,
-      "appearances": 9,
+      "appearances": 10,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -553,31 +554,24 @@
       ],
       "posts": [
         {
-          "source": "더쿠",
+          "source": "디시인사이드",
           "rank": 11,
+          "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473290&_dcbest=1&page=1",
+          "score": 72.22
+        },
+        {
+          "source": "더쿠",
+          "rank": 15,
           "title": "아이폰 듀오 힌지 생산 업체 입장문",
           "url": "https://theqoo.net/hot/4386792389",
-          "score": 73.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 74,
-          "title": "아이폰 듀오 파손이슈는 좀 억지아닌가요??",
-          "url": "https://www.clien.net/service/board/park/19282849?od=T31&po=0&category=0&groupCd=",
-          "score": 57.31
-        },
-        {
-          "source": "루리웹",
-          "rank": 93,
-          "title": "솔직히 아이폰 듀오 굉장히 대단한 휴대폰 아님?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77162360?m=humor_only&t=now",
-          "score": 52.76
+          "score": 71.21
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-26T14:38:53.446915+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
     },
@@ -672,6 +666,46 @@
       "change": 0
     },
     {
+      "id": "i2c6cb5dc",
+      "title": "댓글창 난리났다는 효도여행 영상",
+      "keywords": [
+        "댓글창",
+        "난리났다는",
+        "효도여행"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.24,
+      "peak_score": 103.77,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "댓글창 난리났다는 효도여행 영상",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159511?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 10,
+          "title": "현재 댓글창 난리났다는 효도여행 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745197",
+          "score": 72.71
+        }
+      ],
+      "first_seen": "2026-10-26T15:51:41.616953+09:00",
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "i2f0f43fb",
       "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -706,7 +740,46 @@
       "last_seen": "2026-10-26T14:38:53.446915+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "id": "i47a1e6dd",
+      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+      "keywords": [
+        "갤럭시",
+        "유저들"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.97,
+      "peak_score": 103.5,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
+          "score": 95.5
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "듀오 '이게' 안돼서 속상한 갤럭시 유저들",
+          "url": "https://www.clien.net/service/board/park/19282886?od=T31&po=0&category=0&groupCd=",
+          "score": 62.04
+        }
+      ],
+      "first_seen": "2026-10-26T15:51:41.616953+09:00",
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
       "change": "NEW"
     },
     {
@@ -744,8 +817,8 @@
       "last_seen": "2026-10-26T09:42:59.970679+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i541bb1e1",
@@ -788,8 +861,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i6518b9ba",
@@ -826,178 +899,96 @@
       "last_seen": "2026-10-26T09:42:59.970679+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
-      "id": "ibef4b4bc",
-      "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iab21e976",
+      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "무서운"
+        "양홍원"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.48,
-      "peak_score": 82.01,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 13,
-          "title": "성병이 무서운 진짜 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24176",
-          "score": 73.01
-        },
-        {
-          "source": "인벤",
-          "rank": 15,
-          "title": "ㅇㅎㅂ 무서운 과외 선생님",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744998",
-          "score": 72.44
-        }
-      ],
-      "first_seen": "2026-10-22T09:46:26.095125+09:00",
-      "last_seen": "2026-10-26T08:18:44.324586+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "iefb8708f",
-      "title": "‘이미지’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이미지"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.87,
-      "peak_score": 80.4,
+      "score": 96.85,
+      "peak_score": 87.38,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 17,
-          "title": "한국인이 일본여행가면 받는 이미지.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116162",
-          "score": 71.4
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "양홍원 사건 이후 남초와 여초의 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473278&_dcbest=1&page=1",
+          "score": 78.38
         },
         {
           "source": "더쿠",
-          "rank": 99,
-          "title": "30대 중반이 느끼는 옷 쇼핑몰 브랜드 이미지",
-          "url": "https://theqoo.net/hot/4386767707",
-          "score": 51.53
+          "rank": 92,
+          "title": "양홍원 모르는 여시들 은근 많아서 충격",
+          "url": "https://theqoo.net/hot/4386677607",
+          "score": 54.79
         }
       ],
-      "first_seen": "2026-10-26T14:38:53.446915+09:00",
-      "last_seen": "2026-10-26T14:38:53.446915+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i3eced5eb",
-      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "닥터x"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.14,
-      "peak_score": 76.21,
-      "appearances": 3,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 36,
-          "title": "닥터X 원작 훼손인가",
-          "url": "https://www.clien.net/service/board/park/19282634?od=T31&po=0&category=0&groupCd=",
-          "score": 62.48
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 93,
-          "title": "극우들한테 난리난 닥터X 6화 에피소드",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92039",
-          "score": 51.74
-        }
-      ],
-      "first_seen": "2026-10-24T23:14:34.091505+09:00",
-      "last_seen": "2026-10-26T04:57:24.931533+09:00",
+      "first_seen": "2026-10-24T10:16:29.074443+09:00",
+      "last_seen": "2026-10-26T15:51:41.616953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -2
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i0cdcc665",
-      "title": "아이폰 듀오 힌지 생산 업체 입장문",
+      "id": "i2c6cb5dc",
+      "title": "댓글창 난리났다는 효도여행 영상",
       "keywords": [
-        "아이폰",
-        "듀오"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 88.84,
-      "peak_score": 88.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "아이폰 듀오 힌지 생산 업체 입장문",
-          "url": "https://theqoo.net/hot/4386792389",
-          "score": 73.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 74,
-          "title": "아이폰 듀오 파손이슈는 좀 억지아닌가요??",
-          "url": "https://www.clien.net/service/board/park/19282849?od=T31&po=0&category=0&groupCd=",
-          "score": 57.31
-        },
-        {
-          "source": "루리웹",
-          "rank": 93,
-          "title": "솔직히 아이폰 듀오 굉장히 대단한 휴대폰 아님?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77162360?m=humor_only&t=now",
-          "score": 52.76
-        }
-      ],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "i2f0f43fb",
-      "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰듀오"
+        "댓글창",
+        "난리났다는",
+        "효도여행"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 103.67,
-      "peak_score": 103.67,
+      "score": 103.77,
+      "peak_score": 103.77,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "댓글창 난리났다는 효도여행 영상",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159511?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 10,
+          "title": "현재 댓글창 난리났다는 효도여행 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745197",
+          "score": 72.71
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i47a1e6dd",
+      "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+      "keywords": [
+        "갤럭시",
+        "유저들"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.5,
+      "peak_score": 103.5,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -1007,167 +998,135 @@
         {
           "source": "루리웹",
           "rank": 3,
-          "title": "아이폰듀오 사전대여 리뷰 쓴 IT 유튜버들 상황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159587?m=humor",
-          "score": 94.67
+          "title": "'이게'안되서 갤럭시 유저들 속삭하네욬ㅋㅋㅋㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77159747?m=humor",
+          "score": 95.5
         },
         {
           "source": "클리앙",
-          "rank": 59,
-          "title": "쿠팡에 아이폰듀오 폴리오 케이스 주문했네요",
-          "url": "https://www.clien.net/service/board/park/19282864?od=T31&po=0&category=0&groupCd=",
-          "score": 59.69
+          "rank": 51,
+          "title": "듀오 '이게' 안돼서 속상한 갤럭시 유저들",
+          "url": "https://www.clien.net/service/board/park/19282886?od=T31&po=0&category=0&groupCd=",
+          "score": 62.04
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "iefb8708f",
-      "title": "‘이미지’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iab21e976",
+      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이미지"
+        "양홍원"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.4,
-      "peak_score": 80.4,
+      "score": 87.38,
+      "peak_score": 87.38,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 17,
-          "title": "한국인이 일본여행가면 받는 이미지.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116162",
-          "score": 71.4
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "양홍원 사건 이후 남초와 여초의 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473278&_dcbest=1&page=1",
+          "score": 78.38
         },
         {
           "source": "더쿠",
-          "rank": 99,
-          "title": "30대 중반이 느끼는 옷 쇼핑몰 브랜드 이미지",
-          "url": "https://theqoo.net/hot/4386767707",
-          "score": 51.53
+          "rank": 92,
+          "title": "양홍원 모르는 여시들 은근 많아서 충격",
+          "url": "https://theqoo.net/hot/4386677607",
+          "score": 54.79
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i738512e2",
-      "title": "‘결혼식’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0cdcc665",
+      "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
       "keywords": [
-        "결혼식"
+        "듀오",
+        "아이폰",
+        "힌지"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.21,
-      "peak_score": 78.21,
+      "score": 80.22,
+      "peak_score": 80.22,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 26,
-          "title": "서울 결혼식 축의금 10만원했는데 서운하다네요",
-          "url": "https://theqoo.net/hot/4386738794",
-          "score": 69.21
+          "source": "디시인사이드",
+          "rank": 11,
+          "title": "싱글벙글 아이폰 듀오 힌지 설계 미스 확인...JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473290&_dcbest=1&page=1",
+          "score": 72.22
         },
         {
-          "source": "뽐뿌",
-          "rank": 39,
-          "title": "가수별 결혼식 축가 비용.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165712",
-          "score": 64.31
+          "source": "더쿠",
+          "rank": 15,
+          "title": "아이폰 듀오 힌지 생산 업체 입장문",
+          "url": "https://theqoo.net/hot/4386792389",
+          "score": 71.21
         }
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "id": "i6748a103",
-      "title": "와 젊었을때 미녀였을듯한 50대 이모 ㄷㄷ.gif",
+      "id": "i3eced5eb",
+      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "50대",
-        "젊었을때"
+        "닥터x"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.68,
-      "peak_score": 75.68,
+      "score": 77.09,
+      "peak_score": 77.09,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 28,
-          "title": "와 젊었을때 미녀였을듯한 50대 이모 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165792",
-          "score": 67.68
+          "source": "디시인사이드",
+          "rank": 22,
+          "title": "닥터X 6화 논란의 장면 ㄷㄷㄷㄷ..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473283&_dcbest=1&page=1",
+          "score": 68.09
         },
         {
-          "source": "인벤",
-          "rank": 51,
-          "title": "젊었을때 한미모 하셨을 50대 누님",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745189",
-          "score": 61.42
+          "source": "클리앙",
+          "rank": 33,
+          "title": "닥터x 518논란...? 이걸 갑론을박 논란거리인가요?",
+          "url": "https://www.clien.net/service/board/park/19282910?od=T31&po=0&category=0&groupCd=",
+          "score": 65.27
         }
       ],
       "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ib3876eed",
-      "title": "‘오늘은’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오늘은"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.42,
-      "peak_score": 70.42,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 50,
-          "title": "오늘은 탕탕절입니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745187",
-          "score": 61.42
-        },
-        {
-          "source": "더쿠",
-          "rank": 72,
-          "title": "오늘은 여대생을 궁정동 안가로 불러 술자리를 가지던 독재자가 총살당한 날",
-          "url": "https://theqoo.net/hot/4386713837",
-          "score": 57.74
-        }
-      ],
-      "rank": 6,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "아이폰듀오",
-      "score": 123.64,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 3,
+      "keyword": "듀오",
+      "score": 153.6,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 11,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "루리웹",
         "클리앙"
@@ -1177,58 +1136,61 @@
       "change": "NEW"
     },
     {
-      "keyword": "아이폰",
-      "score": 123.38,
+      "keyword": "사건",
+      "score": 128.24,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 11,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [
-        "듀오"
-      ],
-      "rank": 2,
-      "change": 1
-    },
-    {
-      "keyword": "거부",
-      "score": 106.36,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 1,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "난리났다",
+      "score": 110.69,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "댓글창",
+        "효도여행"
+      ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "힌지",
-      "score": 95.98,
+      "keyword": "갤럭시",
+      "score": 103.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
+        "루리웹",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "유저들"
+      ],
       "rank": 4,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 95.11,
-      "post_count": 2,
+      "keyword": "여자들",
+      "score": 103.58,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1236,195 +1198,196 @@
       "change": "NEW"
     },
     {
-      "keyword": "아님",
-      "score": 94.95,
+      "keyword": "아이폰",
+      "score": 102.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "결혼식",
-      "score": 93.13,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 11,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
+      ],
+      "aliases": [
+        "힌지"
+      ],
+      "rank": 6,
+      "change": -4
+    },
+    {
+      "keyword": "양홍원",
+      "score": 94.49,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 92.68,
-      "post_count": 3,
+      "keyword": "닥터x",
+      "score": 94.31,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 22,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "위해",
-      "score": 91.59,
+      "keyword": "브라질",
+      "score": 94.25,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "젊었을때",
-      "score": 90.83,
-      "post_count": 2,
+      "keyword": "일본",
+      "score": 92.4,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 50,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "인벤"
       ],
-      "aliases": [
-        "50대"
-      ],
+      "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": -5
     },
     {
-      "keyword": "이미지",
-      "score": 86.58,
-      "post_count": 2,
+      "keyword": "게임",
+      "score": 91.95,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 37,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": 4
     },
     {
-      "keyword": "외국인",
-      "score": 86.16,
+      "keyword": "절대",
+      "score": 91.74,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 14,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "30대",
-      "score": 84.44,
+      "keyword": "추진",
+      "score": 90.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 34,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "남편",
-      "score": 80.65,
+      "keyword": "애플",
+      "score": 87.85,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 36,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "게임",
-      "score": 73.38,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 23,
+      "keyword": "중국",
+      "score": 86.98,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 37,
       "sources": [
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -7
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77161244?m=humor",
-      "score": 97.71,
-      "views": 21754,
-      "comments": 169
+      "title": "독립충vs부모님이랑 살기 비교 ㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77159737?m=humor",
+      "score": 97.29,
+      "views": 28294,
+      "comments": 99
+    },
+    {
+      "source": "뽐뿌",
+      "title": "요즘 여자들이 메컵 지우면 현타온다는 이유",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165685",
+      "score": 80.15,
+      "views": 23252,
+      "comments": 51
     },
     {
       "source": "디시인사이드",
-      "title": "\"가난하면 애낳지 말라는건 위험한거 아님?\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473256&_dcbest=1&page=1",
-      "score": 81.16,
-      "views": 26220,
-      "comments": 857
-    },
-    {
-      "source": "클리앙",
-      "title": "탕탕절 좋네요",
-      "url": "https://www.clien.net/service/board/park/19282867?od=T31&po=0&category=0&groupCd=",
-      "score": 76.24,
-      "views": 771,
-      "comments": 10
+      "title": "양홍원 사건 이후 남초와 여초의 반응",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473278&_dcbest=1&page=1",
+      "score": 78.38,
+      "views": 24041,
+      "comments": 164
     },
     {
       "source": "인벤",
-      "title": "감남대로 이별녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745177",
-      "score": 75.61,
-      "views": 2361,
-      "comments": 32
+      "title": "현직 의사가 생굴을 안 먹는 이유.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2745200",
+      "score": 73.13,
+      "views": 2585,
+      "comments": 21
     },
     {
       "source": "더쿠",
       "title": "아이폰 듀오 힌지 생산 업체 입장문",
       "url": "https://theqoo.net/hot/4386792389",
-      "score": 73.84,
-      "views": 34377,
-      "comments": 359
+      "score": 71.21,
+      "views": 52806,
+      "comments": 446
     },
     {
-      "source": "뽐뿌",
-      "title": "시진핑의 결단.mp4 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10165627",
-      "score": 72.26,
-      "views": 3820,
-      "comments": 14
+      "source": "클리앙",
+      "title": "문틀철봉 하나 샀습니다.",
+      "url": "https://www.clien.net/service/board/park/19282911?od=T31&po=0&category=0&groupCd=",
+      "score": 65.75,
+      "views": 278,
+      "comments": 8
     }
   ]
 }
