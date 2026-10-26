@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-27T06:52:56.886112+09:00",
+  "collected_at": "2026-10-27T08:43:55.738153+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -301,6 +301,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
+      "change": 0
+    },
+    {
+      "id": "ia4c7959d",
+      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "좋아하는"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 113.89,
+      "peak_score": 94.84,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 26,
+          "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
+          "url": "https://theqoo.net/hot/4387553479",
+          "score": 67.74
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 95,
+          "title": "블리치를 너무 좋아하는 학원 여자애 (1).manhwa",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473416&_dcbest=1&page=1",
+          "score": 53.58
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-10-27T08:43:55.738153+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": 1
     },
     {
@@ -340,47 +379,8 @@
       "last_seen": "2026-10-26T15:51:41.616953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "ia4c7959d",
-      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "좋아하는"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 112.77,
-      "peak_score": 94.84,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 18,
-          "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
-          "url": "https://theqoo.net/hot/4387553479",
-          "score": 72.21
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 59,
-          "title": "블리치를 너무 좋아하는 학원 여자애 (1).manhwa",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473416&_dcbest=1&page=1",
-          "score": 60.64
-        }
-      ],
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-10-27T06:52:56.886112+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i541bb1e1",
@@ -548,7 +548,7 @@
       "latest_source_count": 2,
       "latest_post_count": 7,
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iab21e976",
@@ -586,7 +586,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3a4b3f22",
@@ -626,7 +626,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 15,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i14d31b7b",
@@ -664,7 +664,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i8bcd73b9",
@@ -710,7 +710,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "if8b91d71",
@@ -748,7 +748,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ia71db4dd",
@@ -789,7 +789,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibef4b4bc",
@@ -827,7 +827,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": 0
     }
   ]
 }
