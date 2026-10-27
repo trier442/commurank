@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-28T07:27:29.077736+09:00",
+  "collected_at": "2026-10-28T08:15:04.908383+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 6,
       "post_count": 9,
-      "score": 182.01,
+      "score": 182.21,
       "peak_score": 138.12,
-      "appearances": 23,
+      "appearances": 24,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -28,21 +28,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 28,
+          "rank": 48,
           "title": "한국 가난한사람도 아이폰 쓰는거보고 화난 인도네시아사람들",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473636&_dcbest=1&page=1",
-          "score": 67.08
+          "score": 61.92
         },
         {
           "source": "루리웹",
-          "rank": 57,
-          "title": "내년 2월까지 예약 밀렸다는 아이폰 듀오근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77183999?m=humor_only&t=now",
-          "score": 60.41
+          "rank": 94,
+          "title": "아이폰 듀오가 우월하다고 한 앱등이 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77184178?m=humor_only&t=now",
+          "score": 53.04
         }
       ],
       "first_seen": "2026-10-17T02:56:53.776363+09:00",
-      "last_seen": "2026-10-28T07:27:29.077736+09:00",
+      "last_seen": "2026-10-28T08:15:04.908383+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -686,6 +686,45 @@
       "change": 0
     },
     {
+      "id": "i7b918478",
+      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본에서"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 101.1,
+      "peak_score": 82.05,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "일본에서 놀란듯한 0명 채용공고",
+          "url": "https://theqoo.net/hot/4388467298",
+          "score": 61.58
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 84,
+          "title": "싱글벙글 일본에서 폐업하는 라면집들이 급격하게 늘어가고 있는중",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473626&_dcbest=1&page=1",
+          "score": 54.86
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-10-28T08:15:04.908383+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": 2
+    },
+    {
       "id": "iae209e51",
       "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -722,8 +761,8 @@
       "last_seen": "2026-10-27T19:09:37.182552+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i085eaf1e",
@@ -764,47 +803,8 @@
       "last_seen": "2026-10-28T04:40:37.803199+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "i7b918478",
-      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본에서"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 99.98,
-      "peak_score": 82.05,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "일본에서 놀란듯한 0명 채용공고",
-          "url": "https://theqoo.net/hot/4388467298",
-          "score": 69.05
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 55,
-          "title": "싱글벙글 일본에서 폐업하는 라면집들이 급격하게 늘어가고 있는중",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473626&_dcbest=1&page=1",
-          "score": 60.56
-        }
-      ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-28T07:27:29.077736+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i6518b9ba",
@@ -843,7 +843,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
