@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-28T19:44:34.072960+09:00",
+  "collected_at": "2026-10-28T23:43:42.279345+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,162 +11,50 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명"
+          "네이버"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 94.84,
-        "peak_score": 94.84,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.32,
+        "peak_score": 76.32,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
+          "루리웹",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 11,
-            "title": "이재명 대단하네요",
-            "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
-            "score": 77.84
+            "source": "루리웹",
+            "rank": 25,
+            "title": "[네이버]컬쳐랜드 문화상품권 5만(46,500원/무료)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108446",
+            "score": 67.32
           },
           {
             "source": "뽐뿌",
-            "rank": 14,
-            "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
-            "score": 71.8
-          },
-          {
-            "source": "인벤",
-            "rank": 82,
-            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
-            "score": 54.36
+            "rank": 65,
+            "title": "[네이버] CP컴퍼니 키즈 26FW 디디쉘 후드 패딩 CUS022 L3AB1 (799,000원/무료)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=743781",
+            "score": 58.33
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "ie0b569fe",
-        "title": "아주대 소아응급의사 센터장까지 사직",
+        "id": "i01639b07",
+        "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
         "keywords": [
-          "사직",
-          "아주대"
+          "포함",
+          "후보"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 103.77,
-        "peak_score": 103.77,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "아주대 소아응급의사 센터장까지 사직",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 79,
-            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
-            "score": 54.74
-          }
-        ],
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i21c94984",
-        "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
-        "keywords": [
-          "폐지",
-          "필요한지",
-          "다문화"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.21,
-        "peak_score": 76.21,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 24,
-            "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
-            "url": "https://theqoo.net/hot/4389022135",
-            "score": 68.21
-          },
-          {
-            "source": "인벤",
-            "rank": 64,
-            "title": "'펨코' 인용한 李대통령 \"다문화 우대, 폐지 필요한지 검토할 것\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746225",
-            "score": 58.15
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.98,
-        "peak_score": 73.98,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 36,
-            "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
-            "score": 64.98
-          },
-          {
-            "source": "인벤",
-            "rank": 61,
-            "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
-            "score": 59.72
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ib3876eed",
-        "title": "‘오늘도’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "오늘도"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.73,
-        "peak_score": 71.73,
+        "score": 74.9,
+        "peak_score": 74.9,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -174,94 +62,21 @@
         ],
         "posts": [
           {
+            "source": "인벤",
+            "rank": 27,
+            "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746314",
+            "score": 66.9
+          },
+          {
             "source": "클리앙",
-            "rank": 41,
-            "title": "오늘도 평화로운 다X소...",
-            "url": "https://www.clien.net/service/board/park/19283992?od=T31&po=0&category=0&groupCd=",
-            "score": 62.73
-          },
-          {
-            "source": "인벤",
-            "rank": 82,
-            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
-            "score": 54.36
+            "rank": 87,
+            "title": "2026 청룡영화상 후보..호프 최다 노미네이트,암살자(들)도 다수 포함",
+            "url": "https://www.clien.net/service/board/park/19284110?od=T31&po=0&category=0&groupCd=",
+            "score": 53.63
           }
         ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i72f23de5",
-        "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
-        "keywords": [
-          "항상",
-          "친구"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.32,
-        "peak_score": 70.32,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 45,
-            "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473840&_dcbest=1&page=1",
-            "score": 62.32
-          },
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "항상 뭐 빌려달라하면 거짓말하는 친구",
-            "url": "https://theqoo.net/hot/4388972795",
-            "score": 61.58
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i6810e018",
-        "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-        "keywords": [
-          "역대",
-          "장동민이",
-          "뽑은",
-          "상대",
-          "서바이벌"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 64.67,
-        "peak_score": 64.67,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 72,
-            "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746237",
-            "score": 56.67
-          },
-          {
-            "source": "루리웹",
-            "rank": 75,
-            "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77190440?m=humor_only&t=now",
-            "score": 56.01
-          }
-        ],
-        "rank": 7,
+        "rank": 2,
         "change": "NEW"
       }
     ],
@@ -304,7 +119,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": 13
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -350,7 +165,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 2,
-        "change": 6
+        "change": 0
       },
       {
         "id": "ib522be5d",
@@ -388,7 +203,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i4c8bdd1e",
@@ -426,7 +241,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -2
+        "change": 0
       },
       {
         "id": "idd231cf7",
@@ -464,7 +279,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -2
+        "change": 0
       },
       {
         "id": "id2d5aa4e",
@@ -502,7 +317,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -541,7 +356,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i085eaf1e",
@@ -583,7 +398,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i10990536",
@@ -621,7 +436,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -2
+        "change": 0
       },
       {
         "id": "iba838050",
@@ -659,7 +474,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i09bfa95c",
@@ -697,7 +512,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i1a0292b7",
@@ -735,7 +550,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -775,7 +590,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i83fae194",
@@ -814,7 +629,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -935,6 +750,44 @@
         "change": 0
       },
       {
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.79,
+        "peak_score": 76.32,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 25,
+            "title": "[네이버]컬쳐랜드 문화상품권 5만(46,500원/무료)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108446",
+            "score": 67.32
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 65,
+            "title": "[네이버] CP컴퍼니 키즈 26FW 디디쉘 후드 패딩 CUS022 L3AB1 (799,000원/무료)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=743781",
+            "score": 58.33
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-10-28T23:43:42.279345+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
         "id": "i21c94984",
         "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
         "keywords": [
@@ -971,8 +824,8 @@
         "last_seen": "2026-10-28T19:44:34.072960+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i2c099e33",
@@ -1007,44 +860,6 @@
         ],
         "first_seen": "2026-10-17T11:43:51.025948+09:00",
         "last_seen": "2026-10-28T08:15:04.908383+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i01f4834a",
-        "title": "‘파트3’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "파트3"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.56,
-        "peak_score": 73.07,
-        "appearances": 2,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "'듄: 파트3' 3차 예고편",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745917",
-            "score": 64.07
-          },
-          {
-            "source": "클리앙",
-            "rank": 80,
-            "title": "듄 파트3 최종예고편",
-            "url": "https://www.clien.net/service/board/park/19283606?od=T31&po=0&category=0&groupCd=",
-            "score": 55.66
-          }
-        ],
-        "first_seen": "2026-10-28T03:15:29.469816+09:00",
-        "last_seen": "2026-10-28T04:40:37.803199+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
@@ -1336,7 +1151,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i2f0f43fb",
@@ -1375,7 +1190,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "icf8be3fe",
@@ -1425,7 +1240,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia4c7959d",
@@ -1464,7 +1279,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -1510,7 +1325,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 11,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ide106c5c",
@@ -1552,7 +1367,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i18276ea2",
@@ -1595,7 +1410,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i2c6cb5dc",
@@ -1635,7 +1450,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i14d31b7b",
@@ -1681,7 +1496,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 15,
-        "change": -2
+        "change": 0
       },
       {
         "id": "ib522be5d",
@@ -1719,7 +1534,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i4be2fb52",
@@ -1770,7 +1585,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 17,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i4c8bdd1e",
@@ -1808,7 +1623,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -2
+        "change": 0
       },
       {
         "id": "idd231cf7",
@@ -1846,7 +1661,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i348b5bff",
@@ -1885,7 +1700,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": 0
       }
     ],
     "monthly": [

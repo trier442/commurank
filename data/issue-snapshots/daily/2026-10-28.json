@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-28",
   "label": "2026년 10월 28일",
-  "collected_at": "2026-10-28T19:44:34.072960+09:00",
+  "collected_at": "2026-10-28T23:43:42.279345+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -44,7 +44,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 13
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -90,7 +90,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 2,
-      "change": 6
+      "change": 0
     },
     {
       "id": "ib522be5d",
@@ -128,7 +128,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -166,7 +166,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -2
+      "change": 0
     },
     {
       "id": "idd231cf7",
@@ -204,7 +204,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "id2d5aa4e",
@@ -242,7 +242,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -281,7 +281,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i085eaf1e",
@@ -323,7 +323,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i10990536",
@@ -361,7 +361,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iba838050",
@@ -399,7 +399,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i09bfa95c",
@@ -437,7 +437,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1a0292b7",
@@ -475,7 +475,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -515,7 +515,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i83fae194",
@@ -554,7 +554,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -675,6 +675,44 @@
       "change": 0
     },
     {
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.79,
+      "peak_score": 76.32,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 25,
+          "title": "[네이버]컬쳐랜드 문화상품권 5만(46,500원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108446",
+          "score": 67.32
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 65,
+          "title": "[네이버] CP컴퍼니 키즈 26FW 디디쉘 후드 패딩 CUS022 L3AB1 (799,000원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=743781",
+          "score": 58.33
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-28T23:43:42.279345+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "i21c94984",
       "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
       "keywords": [
@@ -711,8 +749,8 @@
       "last_seen": "2026-10-28T19:44:34.072960+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": "NEW"
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i2c099e33",
@@ -747,44 +785,6 @@
       ],
       "first_seen": "2026-10-17T11:43:51.025948+09:00",
       "last_seen": "2026-10-28T08:15:04.908383+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i01f4834a",
-      "title": "‘파트3’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "파트3"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.56,
-      "peak_score": 73.07,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 40,
-          "title": "'듄: 파트3' 3차 예고편",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745917",
-          "score": 64.07
-        },
-        {
-          "source": "클리앙",
-          "rank": 80,
-          "title": "듄 파트3 최종예고편",
-          "url": "https://www.clien.net/service/board/park/19283606?od=T31&po=0&category=0&groupCd=",
-          "score": 55.66
-        }
-      ],
-      "first_seen": "2026-10-28T03:15:29.469816+09:00",
-      "last_seen": "2026-10-28T04:40:37.803199+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,

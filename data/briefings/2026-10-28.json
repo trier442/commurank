@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-28",
   "label": "2026년 10월 28일",
-  "collected_at": "2026-10-28T19:44:34.072960+09:00",
+  "collected_at": "2026-10-28T23:43:42.279345+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘아주대 소아응급의사 센터장까지 사직’입니다. 실시간 키워드 상위: #이재명. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘아주대 소아응급의사 센터장까지 사직’입니다. 실시간 키워드 상위: #원인. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 14,
-    "top100_views": 962291,
-    "top100_comments": 12811
+    "keywords": 9,
+    "top100_views": 846474,
+    "top100_comments": 9596
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "현재 전국날씨 비상!!!!",
+      "title": "황달 인스타 보는데 존나 화나고 짠하다 생각되는 점",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77183689?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77191504?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#이재명",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "이재명"
+      "title": "#원인",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "원인"
     }
   ],
   "top_posts": [
+    {
+      "title": "황달 인스타 보는데 존나 화나고 짠하다 생각되는 점",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77191504?m=humor",
+      "first_seen": "2026-10-28T23:43:42.279345+09:00",
+      "last_seen": "2026-10-28T23:43:42.279345+09:00",
+      "peak_score": 97.71,
+      "max_views": 12573,
+      "max_likes": 175,
+      "max_comments": 100,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-28": {
+          "max_score": 97.71,
+          "max_views": 12573,
+          "max_likes": 175,
+          "max_comments": 100,
+          "appearances": 1,
+          "last_seen": "2026-10-28T23:43:42.279345+09:00"
+        }
+      },
+      "score": 107.23,
+      "views": 12573,
+      "likes": 175,
+      "comments": 100,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "현재 전국날씨 비상!!!!",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-28T08:15:04.908383+09:00"
         }
       },
-      "score": 107.53,
+      "score": 107.2,
       "views": 17751,
       "likes": 87,
       "comments": 43,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "자살예방법이란 것이 시행되네요.",
@@ -88,12 +117,12 @@
           "last_seen": "2026-10-28T17:55:10.031327+09:00"
         }
       },
-      "score": 107.49,
+      "score": 107.16,
       "views": 11148,
       "likes": 207,
       "comments": 116,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "육군, 하사 연봉 4,100만원.. 그러나 15,700명 미달",
@@ -117,12 +146,12 @@
           "last_seen": "2026-10-28T11:21:35.479635+09:00"
         }
       },
-      "score": 107.43,
+      "score": 107.1,
       "views": 27849,
       "likes": 113,
       "comments": 87,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "이제 비만은 가난의 상징이 될 것 같다 ㄷㄷㄷㄷㄷ",
@@ -146,12 +175,12 @@
           "last_seen": "2026-10-28T11:21:35.479635+09:00"
         }
       },
-      "score": 106.54,
+      "score": 106.2,
       "views": 18953,
       "likes": 105,
       "comments": 103,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "벌써 1화의 복선을 회수한 '추방상인' 만화",
@@ -175,12 +204,12 @@
           "last_seen": "2026-10-28T19:44:34.072960+09:00"
         }
       },
-      "score": 106.4,
+      "score": 106.07,
       "views": 17347,
       "likes": 151,
       "comments": 111,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "스트리머 수탉 살해미수범 2심 감형 이유.jpg",
@@ -204,7 +233,7 @@
           "last_seen": "2026-10-28T16:45:56.099894+09:00"
         }
       },
-      "score": 106.29,
+      "score": 105.95,
       "views": 30739,
       "likes": 164,
       "comments": 146,
@@ -233,12 +262,41 @@
           "last_seen": "2026-10-28T03:15:29.469816+09:00"
         }
       },
-      "score": 106.27,
+      "score": 105.94,
       "views": 24537,
       "likes": 198,
       "comments": 101,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "심판 손 못잡아서 실격 처리 된 무슬림",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189541?m=humor",
+      "first_seen": "2026-10-28T23:43:42.279345+09:00",
+      "last_seen": "2026-10-28T23:43:42.279345+09:00",
+      "peak_score": 96.19,
+      "max_views": 22348,
+      "max_likes": 156,
+      "max_comments": 190,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-28": {
+          "max_score": 96.19,
+          "max_views": 22348,
+          "max_likes": 156,
+          "max_comments": 190,
+          "appearances": 1,
+          "last_seen": "2026-10-28T23:43:42.279345+09:00"
+        }
+      },
+      "score": 105.71,
+      "views": 22348,
+      "likes": 156,
+      "comments": 190,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "당시에는 욕 오지게 먹었지만 돌이켜 보면 선녀였던 라노벨 엔딩",
@@ -262,102 +320,24 @@
           "last_seen": "2026-10-28T04:40:37.803199+09:00"
         }
       },
-      "score": 105.35,
+      "score": 105.02,
       "views": 11573,
       "likes": 97,
       "comments": 75,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "아주대 소아응급의사 센터장까지 사직",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
-      "first_seen": "2026-10-28T19:44:34.072960+09:00",
-      "last_seen": "2026-10-28T19:44:34.072960+09:00",
-      "peak_score": 95.77,
-      "max_views": 23251,
-      "max_likes": 250,
-      "max_comments": 109,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-28": {
-          "max_score": 95.77,
-          "max_views": 23251,
-          "max_likes": 250,
-          "max_comments": 109,
-          "appearances": 1,
-          "last_seen": "2026-10-28T19:44:34.072960+09:00"
-        }
-      },
-      "score": 105.29,
-      "views": 23251,
-      "likes": 250,
-      "comments": 109,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "생각지도 못한 여성 징병제의 단점.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77187326?m=humor",
-      "first_seen": "2026-10-28T19:44:34.072960+09:00",
-      "last_seen": "2026-10-28T19:44:34.072960+09:00",
-      "peak_score": 95.5,
-      "max_views": 41345,
-      "max_likes": 385,
-      "max_comments": 132,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-28": {
-          "max_score": 95.5,
-          "max_views": 41345,
-          "max_likes": 385,
-          "max_comments": 132,
-          "appearances": 1,
-          "last_seen": "2026-10-28T19:44:34.072960+09:00"
-        }
-      },
-      "score": 105.02,
-      "views": 41345,
-      "likes": 385,
-      "comments": 132,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "요즘 세계에서 난리라는(p) 부산 근황",
-      "url": "https://theqoo.net/hot/4389027663",
-      "category": "이슈",
-      "views": 50082,
-      "likes": 0,
-      "comments": 455,
-      "score": 71.37,
-      "change": 59,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 44432,
-      "delta_likes": 0,
-      "delta_comments": 393,
-      "rank_gain": 59,
-      "rising_score": 93.81,
-      "rising_rank": 1,
-      "window_minutes": 109
-    },
-    {
       "source": "루리웹",
-      "title": "벌써 1화의 복선을 회수한 '추방상인' 만화",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77188842?m=humor",
+      "title": "황달 인스타 보는데 존나 화나고 짠하다 생각되는 점",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77191504?m=humor",
       "category": "이슈",
-      "views": 17347,
-      "likes": 151,
-      "comments": 111,
-      "score": 96.88,
+      "views": 12573,
+      "likes": 175,
+      "comments": 100,
+      "score": 97.71,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,19 +345,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.69,
+      "rising_score": 83.04,
+      "rising_rank": 1,
+      "window_minutes": 239
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 오늘 학교를 그만두고 왔습니다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473852&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 22080,
+      "likes": 136,
+      "comments": 138,
+      "score": 61.21,
+      "change": 0,
+      "current_rank": 46,
+      "new_entry": false,
+      "delta_views": 15332,
+      "delta_likes": 85,
+      "delta_comments": 90,
+      "rank_gain": 0,
+      "rising_score": 82.54,
       "rising_rank": 2,
-      "window_minutes": 109
+      "window_minutes": 239
     },
     {
       "source": "루리웹",
-      "title": "아주대 소아응급의사 센터장까지 사직",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
+      "title": "심판 손 못잡아서 실격 처리 된 무슬림",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189541?m=humor",
       "category": "이슈",
-      "views": 23251,
-      "likes": 250,
-      "comments": 109,
-      "score": 95.77,
+      "views": 22348,
+      "likes": 156,
+      "comments": 190,
+      "score": 96.19,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.22,
+      "rising_score": 82.4,
       "rising_rank": 3,
-      "window_minutes": 109
+      "window_minutes": 239
     },
     {
       "source": "루리웹",
-      "title": "생각지도 못한 여성 징병제의 단점.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77187326?m=humor",
+      "title": "전문가, \"요즘 2030은 돈을 안쓴다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189831?m=humor",
       "category": "이슈",
-      "views": 41345,
-      "likes": 385,
-      "comments": 132,
-      "score": 95.5,
+      "views": 31219,
+      "likes": 192,
+      "comments": 77,
+      "score": 94.67,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.11,
+      "rising_score": 81.76,
       "rising_rank": 4,
-      "window_minutes": 109
+      "window_minutes": 239
     },
     {
       "source": "뽐뿌",
-      "title": "안전신문고 신고하다가 차주랑 시비가 붙었는데",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168539",
+      "title": "안타깝지만 이재명은 실패같네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168887",
       "category": "이슈",
-      "views": 5595,
-      "likes": 37,
-      "comments": 42,
-      "score": 87.76,
+      "views": 5282,
+      "likes": 46,
+      "comments": 36,
+      "score": 82.33,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -425,39 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.86,
+      "rising_score": 76.58,
       "rising_rank": 5,
-      "window_minutes": 109
+      "window_minutes": 239
     },
     {
       "source": "디시인사이드",
-      "title": "중국 fc온라인 음바페 삭제.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473818&_dcbest=1&page=1",
+      "title": "안싱글벙글 이란보다 망했다는 터키의 경제상황과 원인",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473882&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14219,
-      "likes": 125,
-      "comments": 272,
-      "score": 69.14,
-      "change": 0,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 5767,
-      "delta_likes": 60,
-      "delta_comments": 88,
-      "rank_gain": 0,
-      "rising_score": 77.78,
-      "rising_rank": 6,
-      "window_minutes": 109
-    },
-    {
-      "source": "클리앙",
-      "title": "이재명은 일이나 쳐하셨으면 좋겠네요",
-      "url": "https://www.clien.net/service/board/park/19284003?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1243,
-      "likes": 7,
-      "comments": 21,
-      "score": 81.01,
+      "views": 16360,
+      "likes": 115,
+      "comments": 338,
+      "score": 81.16,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -465,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.02,
-      "rising_rank": 7,
-      "window_minutes": 109
+      "rising_score": 76.09,
+      "rising_rank": 6,
+      "window_minutes": 239
     },
     {
-      "source": "디시인사이드",
-      "title": "레플리카 : 손흥민은 리더십이없고 완장질만하고있다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473836&_dcbest=1&page=1",
+      "source": "더쿠",
+      "title": "다이소 공병 씻지도 않고 쓰는사람 없지??",
+      "url": "https://theqoo.net/hot/4389288715",
       "category": "이슈",
-      "views": 15109,
-      "likes": 697,
-      "comments": 168,
-      "score": 80.5,
+      "views": 42792,
+      "likes": 0,
+      "comments": 420,
+      "score": 77.68,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -485,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.81,
-      "rising_rank": 8,
-      "window_minutes": 109
+      "rising_score": 74.63,
+      "rising_rank": 7,
+      "window_minutes": 239
     },
     {
-      "source": "디시인사이드",
-      "title": "한국이 유럽 축구계에게 호구 취급받는 이유...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473841&_dcbest=1&page=1",
-      "category": "스포츠",
-      "views": 11665,
-      "likes": 429,
-      "comments": 160,
-      "score": 80.44,
+      "source": "클리앙",
+      "title": "이번엔 아이패드 메모리... 애플 스캔들 하나 또 터졌네요 ㄷㄷ",
+      "url": "https://www.clien.net/service/board/park/19284119?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 400,
+      "likes": 2,
+      "comments": 11,
+      "score": 74.49,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -505,19 +485,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.78,
-      "rising_rank": 9,
-      "window_minutes": 109
+      "rising_score": 73.29,
+      "rising_rank": 8,
+      "window_minutes": 239
     },
     {
-      "source": "클리앙",
-      "title": "우리동네 미친 선술집",
-      "url": "https://www.clien.net/service/board/park/19284008?od=T31&po=0&category=0&groupCd=",
-      "category": "생활",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "score": 80.0,
+      "source": "디시인사이드",
+      "title": "뻐꾸기론 당첨된 행운의 퐁퐁남 ㅋㅋㅋㅋㅋ.News",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473864&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 17496,
+      "likes": 296,
+      "comments": 363,
+      "score": 74.42,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -525,9 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.6,
+      "rising_score": 73.26,
+      "rising_rank": 9,
+      "window_minutes": 239
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[펌] 오늘 유시민 작가의 발언 요약",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168918",
+      "category": "이슈",
+      "views": 6802,
+      "likes": 80,
+      "comments": 21,
+      "score": 73.75,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.97,
       "rising_rank": 10,
-      "window_minutes": 109
+      "window_minutes": 239
     }
   ],
   "issues": [
@@ -569,7 +569,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 13
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -615,7 +615,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 2,
-      "change": 6
+      "change": 0
     },
     {
       "id": "ib522be5d",
@@ -653,7 +653,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -691,7 +691,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -2
+      "change": 0
     },
     {
       "id": "idd231cf7",
@@ -729,7 +729,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "id2d5aa4e",
@@ -767,7 +767,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -806,7 +806,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i085eaf1e",
@@ -848,7 +848,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i10990536",
@@ -886,7 +886,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iba838050",
@@ -924,167 +924,55 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "네이버"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 94.84,
-      "peak_score": 94.84,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.32,
+      "peak_score": 76.32,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 11,
-          "title": "이재명 대단하네요",
-          "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
-          "score": 77.84
+          "source": "루리웹",
+          "rank": 25,
+          "title": "[네이버]컬쳐랜드 문화상품권 5만(46,500원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108446",
+          "score": 67.32
         },
         {
           "source": "뽐뿌",
-          "rank": 14,
-          "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
-          "score": 71.8
-        },
-        {
-          "source": "인벤",
-          "rank": 82,
-          "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
-          "score": 54.36
+          "rank": 65,
+          "title": "[네이버] CP컴퍼니 키즈 26FW 디디쉘 후드 패딩 CUS022 L3AB1 (799,000원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=743781",
+          "score": 58.33
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "ie0b569fe",
-      "title": "아주대 소아응급의사 센터장까지 사직",
+      "id": "i01639b07",
+      "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
       "keywords": [
-        "사직",
-        "아주대"
+        "포함",
+        "후보"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 103.77,
-      "peak_score": 103.77,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아주대 소아응급의사 센터장까지 사직",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
-          "score": 95.77
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 79,
-          "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
-          "score": 54.74
-        }
-      ],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i21c94984",
-      "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
-      "keywords": [
-        "폐지",
-        "필요한지",
-        "다문화"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.21,
-      "peak_score": 76.21,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
-          "url": "https://theqoo.net/hot/4389022135",
-          "score": 68.21
-        },
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "'펨코' 인용한 李대통령 \"다문화 우대, 폐지 필요한지 검토할 것\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746225",
-          "score": 58.15
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i0cdcc665",
-      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.98,
-      "peak_score": 73.98,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 36,
-          "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
-          "score": 64.98
-        },
-        {
-          "source": "인벤",
-          "rank": 61,
-          "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
-          "score": 59.72
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ib3876eed",
-      "title": "‘오늘도’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오늘도"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.73,
-      "peak_score": 71.73,
+      "score": 74.9,
+      "peak_score": 74.9,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1092,107 +980,33 @@
       ],
       "posts": [
         {
+          "source": "인벤",
+          "rank": 27,
+          "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746314",
+          "score": 66.9
+        },
+        {
           "source": "클리앙",
-          "rank": 41,
-          "title": "오늘도 평화로운 다X소...",
-          "url": "https://www.clien.net/service/board/park/19283992?od=T31&po=0&category=0&groupCd=",
-          "score": 62.73
-        },
-        {
-          "source": "인벤",
-          "rank": 82,
-          "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
-          "score": 54.36
+          "rank": 87,
+          "title": "2026 청룡영화상 후보..호프 최다 노미네이트,암살자(들)도 다수 포함",
+          "url": "https://www.clien.net/service/board/park/19284110?od=T31&po=0&category=0&groupCd=",
+          "score": 53.63
         }
       ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i72f23de5",
-      "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
-      "keywords": [
-        "항상",
-        "친구"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.32,
-      "peak_score": 70.32,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 45,
-          "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473840&_dcbest=1&page=1",
-          "score": 62.32
-        },
-        {
-          "source": "더쿠",
-          "rank": 49,
-          "title": "항상 뭐 빌려달라하면 거짓말하는 친구",
-          "url": "https://theqoo.net/hot/4388972795",
-          "score": 61.58
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i6810e018",
-      "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-      "keywords": [
-        "역대",
-        "장동민이",
-        "뽑은",
-        "상대",
-        "서바이벌"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.67,
-      "peak_score": 64.67,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 72,
-          "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746237",
-          "score": 56.67
-        },
-        {
-          "source": "루리웹",
-          "rank": 75,
-          "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77190440?m=humor_only&t=now",
-          "score": 56.01
-        }
-      ],
-      "rank": 7,
+      "rank": 2,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "이재명",
-      "score": 136.72,
-      "post_count": 4,
-      "source_count": 3,
+      "keyword": "원인",
+      "score": 101.99,
+      "post_count": 2,
+      "source_count": 2,
       "best_rank": 5,
       "sources": [
-        "뽐뿌",
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1200,114 +1014,111 @@
       "change": "NEW"
     },
     {
-      "keyword": "마음",
-      "score": 102.19,
+      "keyword": "이재명",
+      "score": 97.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "부산",
-      "score": 101.35,
-      "post_count": 2,
+      "keyword": "듀오",
+      "score": 96.26,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 17,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "아주대",
-      "score": 99.89,
-      "post_count": 2,
+      "keyword": "무료",
+      "score": 92.5,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 25,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
-      "aliases": [
-        "사직"
-      ],
+      "aliases": [],
       "rank": 4,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "삼전",
-      "score": 93.0,
+      "keyword": "순간",
+      "score": 89.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 14,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 92.52,
-      "post_count": 3,
+      "keyword": "네이버",
+      "score": 89.03,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 25,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -5
+      "change": "NEW"
     },
     {
-      "keyword": "우대",
-      "score": 92.21,
+      "keyword": "후보",
+      "score": 85.43,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 27,
       "sources": [
         "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "포함"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "필요한지",
-      "score": 89.37,
+      "keyword": "강남",
+      "score": 81.56,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 54,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "인벤"
       ],
-      "aliases": [
-        "다문화",
-        "폐지"
-      ],
+      "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "댓글",
-      "score": 88.69,
+      "keyword": "있다",
+      "score": 77.66,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 70,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -1315,135 +1126,56 @@
       "aliases": [],
       "rank": 9,
       "change": "NEW"
-    },
-    {
-      "keyword": "항상",
-      "score": 88.31,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [
-        "친구"
-      ],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "아이폰",
-      "score": 88.06,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 36,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [
-        "듀오"
-      ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "펨코",
-      "score": 84.65,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 55,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "회사",
-      "score": 84.5,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 57,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "서바이벌",
-      "score": 80.38,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 72,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [
-        "뽑은",
-        "상대",
-        "역대",
-        "장동민"
-      ],
-      "rank": 14,
-      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "벌써 1화의 복선을 회수한 '추방상인' 만화",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77188842?m=humor",
-      "score": 96.88,
-      "views": 17347,
-      "comments": 111
+      "title": "황달 인스타 보는데 존나 화나고 짠하다 생각되는 점",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77191504?m=humor",
+      "score": 97.71,
+      "views": 12573,
+      "comments": 100
     },
     {
       "source": "뽐뿌",
-      "title": "안전신문고 신고하다가 차주랑 시비가 붙었는데",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168539",
-      "score": 87.76,
-      "views": 5595,
-      "comments": 42
-    },
-    {
-      "source": "클리앙",
-      "title": "이재명은 일이나 쳐하셨으면 좋겠네요",
-      "url": "https://www.clien.net/service/board/park/19284003?od=T31&po=0&category=0&groupCd=",
-      "score": 81.01,
-      "views": 1243,
-      "comments": 21
+      "title": "안타깝지만 이재명은 실패같네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168887",
+      "score": 82.33,
+      "views": 5282,
+      "comments": 36
     },
     {
       "source": "디시인사이드",
-      "title": "레플리카 : 손흥민은 리더십이없고 완장질만하고있다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473836&_dcbest=1&page=1",
-      "score": 80.5,
-      "views": 15109,
-      "comments": 168
+      "title": "안싱글벙글 이란보다 망했다는 터키의 경제상황과 원인",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473882&_dcbest=1&page=1",
+      "score": 81.16,
+      "views": 16360,
+      "comments": 338
     },
     {
       "source": "더쿠",
-      "title": "심판 손 못잡아서 실격 처리 된 무슬림",
-      "url": "https://theqoo.net/hot/4389076180",
-      "score": 78.84,
-      "views": 43361,
-      "comments": 500
+      "title": "다이소 공병 씻지도 않고 쓰는사람 없지??",
+      "url": "https://theqoo.net/hot/4389288715",
+      "score": 77.68,
+      "views": 42792,
+      "comments": 420
+    },
+    {
+      "source": "클리앙",
+      "title": "이번엔 아이패드 메모리... 애플 스캔들 하나 또 터졌네요 ㄷㄷ",
+      "url": "https://www.clien.net/service/board/park/19284119?od=T31&po=0&category=0&groupCd=",
+      "score": 74.49,
+      "views": 400,
+      "comments": 11
     },
     {
       "source": "인벤",
-      "title": "사람 목에 메달리는 장난을 하면 안되는 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746234",
-      "score": 69.56,
-      "views": 1991,
-      "comments": 13
+      "title": "ㅇㅎ) 호불호 갈리는 살스",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746321",
+      "score": 68.89,
+      "views": 1412,
+      "comments": 8
     }
   ]
 }
