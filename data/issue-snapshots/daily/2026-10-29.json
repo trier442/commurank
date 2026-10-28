@@ -3,61 +3,46 @@
   "period": "daily",
   "key": "2026-10-29",
   "label": "2026년 10월 29일",
-  "collected_at": "2026-10-29T00:54:29.410927+09:00",
+  "collected_at": "2026-10-29T05:00:12.898493+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "ia0fd1514",
       "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "유시민",
-        "유시민이"
+        "유시민"
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 100.11,
-      "peak_score": 88.64,
-      "appearances": 1,
+      "score": 104.08,
+      "peak_score": 90.59,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "유시민) 대통령 지지율 하락 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+          "score": 79.59
+        },
+        {
           "source": "클리앙",
-          "rank": 19,
+          "rank": 49,
           "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
           "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
-          "score": 69.56
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "유시민) 조국혁신당은 쇄빙선에서 구명정으로 바뀌고 있다 ㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168779",
-          "score": 56.45
-        },
-        {
-          "source": "클리앙",
-          "rank": 7,
-          "title": "유시민이 신라젠 관련한 의혹들을 제기하는 사람들한테",
-          "url": "https://www.clien.net/service/board/park/19284132?od=T31&po=0&category=0&groupCd=",
-          "score": 78.64
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "유시민이 말하는 이재명, 진영의 해체",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168871",
-          "score": 73.02
+          "score": 62.37
         }
       ],
       "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i533b29bd",
@@ -95,7 +80,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -133,7 +118,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": 10
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -172,7 +157,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i3ccc2d51",
@@ -210,7 +195,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }

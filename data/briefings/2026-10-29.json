@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-29",
   "label": "2026년 10월 29일",
-  "collected_at": "2026-10-29T00:54:29.410927+09:00",
+  "collected_at": "2026-10-29T05:00:12.898493+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘유시민’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #유시민. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 5,
-    "keywords": 11,
-    "top100_views": 887347,
-    "top100_comments": 9727
+    "keywords": 8,
+    "top100_views": 920784,
+    "top100_comments": 9943
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "베스트에 올라온 '자살예방법 어이가 없네 ㅋㅋㅋㅋ' 관련 법령 체크",
+      "title": "누나가 20만원에 아다 떼준 썰 풀버전",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189680?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193916?m=humor"
     },
     {
       "type": "keyword",
       "title": "#유시민",
-      "text": "2개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "text": "2개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
       "keyword": "유시민"
     }
   ],
   "top_posts": [
+    {
+      "title": "누나가 20만원에 아다 떼준 썰 풀버전",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193916?m=humor",
+      "first_seen": "2026-10-29T05:00:12.898493+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
+      "peak_score": 98.75,
+      "max_views": 19264,
+      "max_likes": 104,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-29": {
+          "max_score": 98.75,
+          "max_views": 19264,
+          "max_likes": 104,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
+        }
+      },
+      "score": 108.27,
+      "views": 19264,
+      "likes": 104,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "베스트에 올라온 '자살예방법 어이가 없네 ㅋㅋㅋㅋ' 관련 법령 체크",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-10-29T00:54:29.410927+09:00"
         }
       },
-      "score": 107.64,
+      "score": 107.3,
       "views": 12650,
       "likes": 134,
       "comments": 109,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "전문가, \"요즘 2030은 돈을 안쓴다\"",
@@ -96,12 +125,70 @@
           "last_seen": "2026-10-29T00:54:29.410927+09:00"
         }
       },
-      "score": 106.13,
+      "score": 105.79,
       "views": 36683,
       "likes": 210,
       "comments": 81,
       "active_days": 1,
-      "change": 12
+      "change": -1
+    },
+    {
+      "title": "스냅드래곤 ㅈ망한 퀄컴근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193826?m=humor",
+      "first_seen": "2026-10-29T05:00:12.898493+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
+      "peak_score": 96.19,
+      "max_views": 14829,
+      "max_likes": 106,
+      "max_comments": 46,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-29": {
+          "max_score": 96.19,
+          "max_views": 14829,
+          "max_likes": 106,
+          "max_comments": 46,
+          "appearances": 1,
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
+        }
+      },
+      "score": 105.71,
+      "views": 14829,
+      "likes": 106,
+      "comments": 46,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "“내가 죽었어야 했나” 유튜버 수탉, 납치범 감형에 분노.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77194273?m=humor",
+      "first_seen": "2026-10-29T05:00:12.898493+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
+      "peak_score": 93.21,
+      "max_views": 9402,
+      "max_likes": 100,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-29": {
+          "max_score": 93.21,
+          "max_views": 9402,
+          "max_likes": 100,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
+        }
+      },
+      "score": 102.73,
+      "views": 9402,
+      "likes": 100,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "가장 최근에 플레이한 게임에서 1년간 살아야합니다",
@@ -125,12 +212,49 @@
           "last_seen": "2026-10-29T00:54:29.410927+09:00"
         }
       },
-      "score": 101.27,
+      "score": 100.93,
       "views": 9454,
       "likes": 53,
       "comments": 114,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
+    },
+    {
+      "title": "주말에 애한테 분유 먹이다 무심코 얼굴을 보는 순간 얘 내 애 아니라는 생각이 드는거야",
+      "source": "더쿠",
+      "category": "이슈",
+      "url": "https://theqoo.net/hot/4389317763",
+      "first_seen": "2026-10-28T23:43:42.279345+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
+      "peak_score": 85.68,
+      "max_views": 69734,
+      "max_likes": 0,
+      "max_comments": 683,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-10-28": {
+          "max_score": 71.0,
+          "max_views": 28012,
+          "max_likes": 0,
+          "max_comments": 263,
+          "appearances": 1,
+          "last_seen": "2026-10-28T23:43:42.279345+09:00"
+        },
+        "2026-10-29": {
+          "max_score": 85.68,
+          "max_views": 69734,
+          "max_likes": 0,
+          "max_comments": 683,
+          "appearances": 2,
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
+        }
+      },
+      "score": 96.1,
+      "views": 69734,
+      "likes": 0,
+      "comments": 683,
+      "active_days": 1,
+      "change": -2
     },
     {
       "title": "커피는 사 마시는 게 싼 거 같아요",
@@ -154,49 +278,12 @@
           "last_seen": "2026-10-29T00:54:29.410927+09:00"
         }
       },
-      "score": 95.34,
+      "score": 95.0,
       "views": 10447,
       "likes": 4,
       "comments": 52,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "주말에 애한테 분유 먹이다 무심코 얼굴을 보는 순간 얘 내 애 아니라는 생각이 드는거야",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4389317763",
-      "first_seen": "2026-10-28T23:43:42.279345+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 85.68,
-      "max_views": 51395,
-      "max_likes": 0,
-      "max_comments": 589,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-28": {
-          "max_score": 71.0,
-          "max_views": 28012,
-          "max_likes": 0,
-          "max_comments": 263,
-          "appearances": 1,
-          "last_seen": "2026-10-28T23:43:42.279345+09:00"
-        },
-        "2026-10-29": {
-          "max_score": 85.68,
-          "max_views": 51395,
-          "max_likes": 0,
-          "max_comments": 589,
-          "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
-        }
-      },
-      "score": 95.2,
-      "views": 51395,
-      "likes": 0,
-      "comments": 589,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -4
     },
     {
       "title": "유시민은 이재명대통령이 속였다는걸",
@@ -204,300 +291,149 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19284133?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
       "peak_score": 84.17,
-      "max_views": 1327,
-      "max_likes": 4,
-      "max_comments": 27,
-      "appearances": 1,
+      "max_views": 4417,
+      "max_likes": 5,
+      "max_comments": 71,
+      "appearances": 2,
       "daily_stats": {
         "2026-10-29": {
           "max_score": 84.17,
-          "max_views": 1327,
-          "max_likes": 4,
-          "max_comments": 27,
-          "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
-        }
-      },
-      "score": 93.69,
-      "views": 1327,
-      "likes": 4,
-      "comments": 27,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "유시민이 신라젠 관련한 의혹들을 제기하는 사람들한테",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19284132?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 78.64,
-      "max_views": 1082,
-      "max_likes": 5,
-      "max_comments": 18,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 78.64,
-          "max_views": 1082,
+          "max_views": 4417,
           "max_likes": 5,
-          "max_comments": 18,
-          "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
+          "max_comments": 71,
+          "appearances": 2,
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
         }
       },
-      "score": 88.16,
-      "views": 1082,
+      "score": 94.59,
+      "views": 4417,
       "likes": 5,
-      "comments": 18,
+      "comments": 71,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "title": "삼성서울병원에서 공개한 예민함 테스트.jpg",
-      "source": "더쿠",
-      "category": "유머",
-      "url": "https://theqoo.net/hot/4389300356",
-      "first_seen": "2026-10-28T23:43:42.279345+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 78.53,
-      "max_views": 48729,
-      "max_likes": 0,
-      "max_comments": 527,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-28": {
-          "max_score": 73.34,
-          "max_views": 32524,
-          "max_likes": 0,
-          "max_comments": 366,
-          "appearances": 1,
-          "last_seen": "2026-10-28T23:43:42.279345+09:00"
-        },
-        "2026-10-29": {
-          "max_score": 78.53,
-          "max_views": 48729,
-          "max_likes": 0,
-          "max_comments": 527,
-          "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
-        }
-      },
-      "score": 88.05,
-      "views": 48729,
-      "likes": 0,
-      "comments": 527,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "다이소 공병 씻지도 않고 쓰는사람 없지??",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4389288715",
-      "first_seen": "2026-10-28T23:43:42.279345+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 77.68,
-      "max_views": 56647,
-      "max_likes": 0,
-      "max_comments": 498,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-28": {
-          "max_score": 77.68,
-          "max_views": 42792,
-          "max_likes": 0,
-          "max_comments": 420,
-          "appearances": 1,
-          "last_seen": "2026-10-28T23:43:42.279345+09:00"
-        },
-        "2026-10-29": {
-          "max_score": 75.21,
-          "max_views": 56647,
-          "max_likes": 0,
-          "max_comments": 498,
-          "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
-        }
-      },
-      "score": 84.73,
-      "views": 56647,
-      "likes": 0,
-      "comments": 498,
-      "active_days": 1,
-      "change": 61
-    },
-    {
-      "title": "안싱글벙글 이란보다 망했다는 터키의 경제상황과 원인",
+      "title": "썸녀와 키스중 가슴 만졌는데 고소..기간별 유죄 기준",
       "source": "디시인사이드",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473882&_dcbest=1&page=1",
-      "first_seen": "2026-10-28T23:43:42.279345+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 81.16,
-      "max_views": 18380,
-      "max_likes": 124,
-      "max_comments": 358,
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473920&_dcbest=1&page=1",
+      "first_seen": "2026-10-29T05:00:12.898493+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
+      "peak_score": 81.56,
+      "max_views": 11651,
+      "max_likes": 45,
+      "max_comments": 485,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-28": {
-          "max_score": 81.16,
-          "max_views": 16360,
-          "max_likes": 115,
-          "max_comments": 338,
-          "appearances": 1,
-          "last_seen": "2026-10-28T23:43:42.279345+09:00"
-        },
         "2026-10-29": {
-          "max_score": 75.02,
-          "max_views": 18380,
-          "max_likes": 124,
-          "max_comments": 358,
+          "max_score": 81.56,
+          "max_views": 11651,
+          "max_likes": 45,
+          "max_comments": 485,
           "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
+          "last_seen": "2026-10-29T05:00:12.898493+09:00"
         }
       },
-      "score": 84.54,
-      "views": 18380,
-      "likes": 124,
-      "comments": 358,
+      "score": 91.08,
+      "views": 11651,
+      "likes": 45,
+      "comments": 485,
       "active_days": 1,
-      "change": 43
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "주말에 애한테 분유 먹이다 무심코 얼굴을 보는 순간 얘 내 애 아니라는 생각이 드는거야",
-      "url": "https://theqoo.net/hot/4389317763",
-      "category": "이슈",
-      "views": 51395,
-      "likes": 0,
-      "comments": 589,
-      "score": 85.68,
-      "change": 9,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 23383,
-      "delta_likes": 0,
-      "delta_comments": 326,
-      "rank_gain": 9,
-      "rising_score": 90.48,
-      "rising_rank": 1,
-      "window_minutes": 71
-    },
-    {
       "source": "디시인사이드",
-      "title": "싱글벙글 허준이 먹지 말라고 경고한 음식 5가지",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473898&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 9052,
-      "likes": 28,
-      "comments": 220,
-      "score": 70.03,
-      "change": 18,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 5357,
-      "delta_likes": 20,
-      "delta_comments": 88,
-      "rank_gain": 18,
-      "rising_score": 88.12,
-      "rising_rank": 2,
-      "window_minutes": 71
-    },
-    {
-      "source": "클리앙",
-      "title": "이번엔 아이패드 메모리... 애플 스캔들 하나 또 터졌네요 ㄷㄷ",
-      "url": "https://www.clien.net/service/board/park/19284119?od=T31&po=0&category=0&groupCd=",
+      "title": "일본인 아내와 호텔 수영장 첫경험",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473914&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 2308,
-      "likes": 5,
-      "comments": 25,
-      "score": 70.95,
-      "change": 0,
-      "current_rank": 15,
+      "views": 10158,
+      "likes": 62,
+      "comments": 61,
+      "score": 66.24,
+      "change": 18,
+      "current_rank": 36,
       "new_entry": false,
-      "delta_views": 1908,
-      "delta_likes": 3,
-      "delta_comments": 14,
-      "rank_gain": 0,
-      "rising_score": 87.96,
-      "rising_rank": 3,
-      "window_minutes": 71
+      "delta_views": 9547,
+      "delta_likes": 57,
+      "delta_comments": 56,
+      "rank_gain": 18,
+      "rising_score": 92.5,
+      "rising_rank": 1,
+      "window_minutes": 246
     },
     {
       "source": "인벤",
       "title": "ㅇㅎ)분홍 티팬티",
       "url": "https://www.inven.co.kr/board/webzine/2097/2746329",
       "category": "유머",
-      "views": 2810,
-      "likes": 2,
-      "comments": 13,
-      "score": 68.76,
-      "change": 34,
-      "current_rank": 21,
-      "new_entry": false,
-      "delta_views": 2713,
-      "delta_likes": 2,
-      "delta_comments": 13,
-      "rank_gain": 34,
-      "rising_score": 87.89,
-      "rising_rank": 4,
-      "window_minutes": 71
-    },
-    {
-      "source": "디시인사이드",
-      "title": "박지성이 손흥민 만난 걸로 논란",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473896&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 5552,
-      "likes": 71,
-      "comments": 163,
-      "score": 67.28,
-      "change": 9,
-      "current_rank": 28,
-      "new_entry": false,
-      "delta_views": 3404,
-      "delta_likes": 42,
-      "delta_comments": 91,
-      "rank_gain": 9,
-      "rising_score": 86.04,
-      "rising_rank": 5,
-      "window_minutes": 71
-    },
-    {
-      "source": "디시인사이드",
-      "title": "10km 마라톤 뛰려다가 하프뛰고 실격당한 강남",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473900&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 4544,
-      "likes": 24,
-      "comments": 28,
-      "score": 58.21,
+      "views": 6144,
+      "likes": 4,
+      "comments": 20,
+      "score": 60.51,
       "change": 0,
-      "current_rank": 66,
+      "current_rank": 58,
       "new_entry": false,
-      "delta_views": 4144,
-      "delta_likes": 22,
-      "delta_comments": 22,
+      "delta_views": 3334,
+      "delta_likes": 2,
+      "delta_comments": 7,
       "rank_gain": 0,
-      "rising_score": 83.99,
-      "rising_rank": 6,
-      "window_minutes": 71
+      "rising_score": 90.21,
+      "rising_rank": 2,
+      "window_minutes": 246
+    },
+    {
+      "source": "디시인사이드",
+      "title": "알아두면 유용한 경찰이 반말할 때 대처법",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473908&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 10726,
+      "likes": 230,
+      "comments": 287,
+      "score": 77.62,
+      "change": 5,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 6653,
+      "delta_likes": 131,
+      "delta_comments": 172,
+      "rank_gain": 5,
+      "rising_score": 87.5,
+      "rising_rank": 3,
+      "window_minutes": 246
+    },
+    {
+      "source": "더쿠",
+      "title": "주말에 애한테 분유 먹이다 무심코 얼굴을 보는 순간 얘 내 애 아니라는 생각이 드는거야",
+      "url": "https://theqoo.net/hot/4389317763",
+      "category": "이슈",
+      "views": 69734,
+      "likes": 0,
+      "comments": 683,
+      "score": 78.05,
+      "change": 0,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 18339,
+      "delta_likes": 0,
+      "delta_comments": 94,
+      "rank_gain": 0,
+      "rising_score": 86.54,
+      "rising_rank": 4,
+      "window_minutes": 246
     },
     {
       "source": "루리웹",
-      "title": "베스트에 올라온 '자살예방법 어이가 없네 ㅋㅋㅋㅋ' 관련 법령 체크",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189680?m=humor",
-      "category": "유머",
-      "views": 12650,
-      "likes": 134,
-      "comments": 109,
-      "score": 98.12,
+      "title": "누나가 20만원에 아다 떼준 썰 풀버전",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193916?m=humor",
+      "category": "이슈",
+      "views": 19264,
+      "likes": 104,
+      "comments": 51,
+      "score": 98.75,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -505,69 +441,109 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.21,
-      "rising_rank": 7,
-      "window_minutes": 71
+      "rising_score": 83.47,
+      "rising_rank": 5,
+      "window_minutes": 246
     },
     {
       "source": "루리웹",
-      "title": "전문가, \"요즘 2030은 돈을 안쓴다\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189831?m=humor",
+      "title": "스냅드래곤 ㅈ망한 퀄컴근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193826?m=humor",
       "category": "이슈",
-      "views": 36683,
-      "likes": 210,
-      "comments": 81,
-      "score": 96.61,
-      "change": 1,
+      "views": 14829,
+      "likes": 106,
+      "comments": 46,
+      "score": 96.19,
+      "change": "NEW",
       "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.4,
+      "rising_rank": 6,
+      "window_minutes": 246
+    },
+    {
+      "source": "루리웹",
+      "title": "“내가 죽었어야 했나” 유튜버 수탉, 납치범 감형에 분노.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77194273?m=humor",
+      "category": "이슈",
+      "views": 9402,
+      "likes": 100,
+      "comments": 51,
+      "score": 93.21,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.15,
+      "rising_rank": 7,
+      "window_minutes": 246
+    },
+    {
+      "source": "디시인사이드",
+      "title": "취두부 먹고 오열하는 추성훈…jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473906&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7179,
+      "likes": 46,
+      "comments": 94,
+      "score": 59.5,
+      "change": 0,
+      "current_rank": 63,
       "new_entry": false,
-      "delta_views": 5464,
-      "delta_likes": 18,
-      "delta_comments": 4,
-      "rank_gain": 1,
-      "rising_score": 82.5,
+      "delta_views": 3932,
+      "delta_likes": 23,
+      "delta_comments": 50,
+      "rank_gain": 0,
+      "rising_score": 78.09,
       "rising_rank": 8,
-      "window_minutes": 71
+      "window_minutes": 246
     },
     {
       "source": "디시인사이드",
-      "title": "일본에서 보관 중인 조선의 무기",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473892&_dcbest=1&page=1",
+      "title": "썸녀와 키스중 가슴 만졌는데 고소..기간별 유죄 기준",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473920&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 8897,
-      "likes": 48,
-      "comments": 194,
-      "score": 66.96,
-      "change": 0,
-      "current_rank": 29,
-      "new_entry": false,
-      "delta_views": 3234,
-      "delta_likes": 22,
-      "delta_comments": 45,
+      "views": 11651,
+      "likes": 45,
+      "comments": 485,
+      "score": 81.56,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.41,
+      "rising_score": 76.26,
       "rising_rank": 9,
-      "window_minutes": 71
+      "window_minutes": 246
     },
     {
-      "source": "디시인사이드",
-      "title": "아이폰 듀오 실사용 지적 제대로 했다고 칭찬받는 미녀유튜버",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473890&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8313,
-      "likes": 111,
-      "comments": 187,
-      "score": 68.56,
-      "change": 0,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 3022,
-      "delta_likes": 35,
-      "delta_comments": 30,
+      "source": "인벤",
+      "title": "방심하는 트리플에스 김채연",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746357",
+      "category": "연예",
+      "views": 2240,
+      "likes": 0,
+      "comments": 3,
+      "score": 79.91,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.38,
+      "rising_score": 75.56,
       "rising_rank": 10,
-      "window_minutes": 71
+      "window_minutes": 246
     }
   ],
   "issues": [
@@ -575,54 +551,39 @@
       "id": "ia0fd1514",
       "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "유시민",
-        "유시민이"
+        "유시민"
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 100.11,
-      "peak_score": 88.64,
-      "appearances": 1,
+      "score": 104.08,
+      "peak_score": 90.59,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "유시민) 대통령 지지율 하락 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+          "score": 79.59
+        },
+        {
           "source": "클리앙",
-          "rank": 19,
+          "rank": 49,
           "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
           "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
-          "score": 69.56
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "유시민) 조국혁신당은 쇄빙선에서 구명정으로 바뀌고 있다 ㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168779",
-          "score": 56.45
-        },
-        {
-          "source": "클리앙",
-          "rank": 7,
-          "title": "유시민이 신라젠 관련한 의혹들을 제기하는 사람들한테",
-          "url": "https://www.clien.net/service/board/park/19284132?od=T31&po=0&category=0&groupCd=",
-          "score": 78.64
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "유시민이 말하는 이재명, 진영의 해체",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168871",
-          "score": 73.02
+          "score": 62.37
         }
       ],
       "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
+      "last_seen": "2026-10-29T05:00:12.898493+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i533b29bd",
@@ -660,7 +621,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -698,7 +659,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": 10
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -737,7 +698,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i3ccc2d51",
@@ -775,7 +736,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -783,96 +744,12 @@
       "id": "ia0fd1514",
       "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "유시민",
-        "유시민이"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 88.64,
-      "peak_score": 88.64,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 19,
-          "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
-          "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
-          "score": 69.56
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "유시민) 조국혁신당은 쇄빙선에서 구명정으로 바뀌고 있다 ㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168779",
-          "score": 56.45
-        },
-        {
-          "source": "클리앙",
-          "rank": 7,
-          "title": "유시민이 신라젠 관련한 의혹들을 제기하는 사람들한테",
-          "url": "https://www.clien.net/service/board/park/19284132?od=T31&po=0&category=0&groupCd=",
-          "score": 78.64
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "유시민이 말하는 이재명, 진영의 해체",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168871",
-          "score": 73.02
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i533b29bd",
-      "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "말하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.02,
-      "peak_score": 82.02,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "유시민이 말하는 이재명, 진영의 해체",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168871",
-          "score": 73.02
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "잡플인이 말하는... 5인 미만 회사 90분 면접 후기",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473884&_dcbest=1&page=1",
-          "score": 56.95
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "iae6b0123",
-      "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
-      "keywords": [
-        "실시간",
         "유시민"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 77.56,
-      "peak_score": 77.56,
+      "post_count": 4,
+      "score": 90.59,
+      "peak_score": 90.59,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -880,97 +757,29 @@
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "유시민) 대통령 지지율 하락 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+          "score": 79.59
+        },
+        {
           "source": "클리앙",
-          "rank": 19,
+          "rank": 49,
           "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
           "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
-          "score": 69.56
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 99,
-          "title": "속보) 영향력 망한 유시민 실시간 근황 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168904",
-          "score": 52.2
+          "score": 62.37
         }
       ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i0cdcc665",
-      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.56,
-      "peak_score": 77.56,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 22,
-          "title": "아이폰 듀오 실사용 지적 제대로 했다고 칭찬받는 미녀유튜버",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473890&_dcbest=1&page=1",
-          "score": 68.56
-        },
-        {
-          "source": "루리웹",
-          "rank": 32,
-          "title": "애플 유저사이에서 난리난 아이폰 듀오 활용법.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77194001?m=humor_only&t=now",
-          "score": 65.74
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.45,
-      "peak_score": 70.45,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 44,
-          "title": "멋진 로고를 제작고민중인 일본인",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77193953?m=humor_only&t=now",
-          "score": 61.45
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 54,
-          "title": "일본인 아내와 호텔 수영장 첫경험",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473914&_dcbest=1&page=1",
-          "score": 60.41
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 1,
+      "change": 0
     }
   ],
   "keywords": [
     {
       "keyword": "유시민",
-      "score": 145.96,
-      "post_count": 9,
+      "score": 135.43,
+      "post_count": 7,
       "source_count": 2,
       "best_rank": 6,
       "sources": [
@@ -979,86 +788,84 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "애플",
-      "score": 104.12,
-      "post_count": 4,
+      "keyword": "무료",
+      "score": 101.83,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 14,
       "sources": [
         "루리웹",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 4
     },
     {
-      "keyword": "아이폰",
-      "score": 94.56,
-      "post_count": 2,
+      "keyword": "미국",
+      "score": 99.91,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 10,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
-      "aliases": [
-        "듀오"
-      ],
+      "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "말하",
-      "score": 93.4,
+      "keyword": "서울",
+      "score": 98.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 90.61,
+      "keyword": "작가",
+      "score": 96.8,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 35,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 89.43,
+      "keyword": "힘들다",
+      "score": 89.28,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 35,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "일본인",
-      "score": 87.54,
+      "keyword": "이란",
+      "score": 88.73,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 27,
       "sources": [
         "디시인사이드",
         "루리웹"
@@ -1068,110 +875,68 @@
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 85.48,
+      "keyword": "일본",
+      "score": 87.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 48,
       "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "keyword": "아직",
-      "score": 85.46,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
-      "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "먹고",
-      "score": 84.27,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "보면",
-      "score": 82.79,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 53,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
+      "rank": 8,
+      "change": -3
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "베스트에 올라온 '자살예방법 어이가 없네 ㅋㅋㅋㅋ' 관련 법령 체크",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189680?m=humor",
-      "score": 98.12,
-      "views": 12650,
-      "comments": 109
+      "title": "누나가 20만원에 아다 떼준 썰 풀버전",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193916?m=humor",
+      "score": 98.75,
+      "views": 19264,
+      "comments": 51
+    },
+    {
+      "source": "디시인사이드",
+      "title": "썸녀와 키스중 가슴 만졌는데 고소..기간별 유죄 기준",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473920&_dcbest=1&page=1",
+      "score": 81.56,
+      "views": 11651,
+      "comments": 485
+    },
+    {
+      "source": "인벤",
+      "title": "방심하는 트리플에스 김채연",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746357",
+      "score": 79.91,
+      "views": 2240,
+      "comments": 3
     },
     {
       "source": "뽐뿌",
-      "title": "커피는 사 마시는 게 싼 거 같아요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coffee&no=22123",
-      "score": 85.82,
-      "views": 10447,
-      "comments": 52
+      "title": "유시민) 대통령 지지율 하락 이유.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+      "score": 79.59,
+      "views": 9364,
+      "comments": 24
     },
     {
       "source": "더쿠",
       "title": "주말에 애한테 분유 먹이다 무심코 얼굴을 보는 순간 얘 내 애 아니라는 생각이 드는거야",
       "url": "https://theqoo.net/hot/4389317763",
-      "score": 85.68,
-      "views": 51395,
-      "comments": 589
+      "score": 78.05,
+      "views": 69734,
+      "comments": 683
     },
     {
       "source": "클리앙",
       "title": "유시민은 이재명대통령이 속였다는걸",
       "url": "https://www.clien.net/service/board/park/19284133?od=T31&po=0&category=0&groupCd=",
-      "score": 84.17,
-      "views": 1327,
-      "comments": 27
-    },
-    {
-      "source": "디시인사이드",
-      "title": "안싱글벙글 이란보다 망했다는 터키의 경제상황과 원인",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473882&_dcbest=1&page=1",
-      "score": 75.02,
-      "views": 18380,
-      "comments": 358
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ)분홍 티팬티",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746329",
-      "score": 68.76,
-      "views": 2810,
-      "comments": 13
+      "score": 76.62,
+      "views": 4417,
+      "comments": 71
     }
   ]
 }
