@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-28T17:55:10.031327+09:00",
+  "collected_at": "2026-10-28T19:44:34.072960+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,34 +11,42 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i09bfa95c",
-        "title": "‘다문화’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "다문화"
+          "이재명"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.68,
-        "peak_score": 81.68,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 94.84,
+        "peak_score": 94.84,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "뽐뿌",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 17,
-            "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
-            "url": "https://theqoo.net/hot/4389022135",
-            "score": 72.68
+            "source": "클리앙",
+            "rank": 11,
+            "title": "이재명 대단하네요",
+            "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
+            "score": 77.84
           },
           {
-            "source": "클리앙",
-            "rank": 79,
-            "title": "다문화 가족 = 국가유공자?",
-            "url": "https://www.clien.net/service/board/park/19283946?od=T31&po=0&category=0&groupCd=",
-            "score": 56.64
+            "source": "뽐뿌",
+            "rank": 14,
+            "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
+            "score": 71.8
+          },
+          {
+            "source": "인벤",
+            "rank": 82,
+            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
+            "score": 54.36
           }
         ],
         "rank": 1,
@@ -46,14 +54,85 @@
       },
       {
         "id": "ie0b569fe",
-        "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "아주대 소아응급의사 센터장까지 사직",
         "keywords": [
+          "사직",
           "아주대"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.81,
-        "peak_score": 78.81,
+        "score": 103.77,
+        "peak_score": 103.77,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "아주대 소아응급의사 센터장까지 사직",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 79,
+            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
+            "score": 54.74
+          }
+        ],
+        "rank": 2,
+        "change": 0
+      },
+      {
+        "id": "i21c94984",
+        "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
+        "keywords": [
+          "폐지",
+          "필요한지",
+          "다문화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.21,
+        "peak_score": 76.21,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 24,
+            "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
+            "url": "https://theqoo.net/hot/4389022135",
+            "score": 68.21
+          },
+          {
+            "source": "인벤",
+            "rank": 64,
+            "title": "'펨코' 인용한 李대통령 \"다문화 우대, 폐지 필요한지 검토할 것\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746225",
+            "score": 58.15
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i0cdcc665",
+        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아이폰"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.98,
+        "peak_score": 73.98,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -62,92 +141,217 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 30,
-            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
-            "score": 69.81
+            "rank": 36,
+            "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
+            "score": 64.98
           },
           {
             "source": "인벤",
-            "rank": 36,
-            "title": "아주대 소아 응급 교수 사직 7명에 경찰과 고소인이 욕 먹는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746202",
-            "score": 67.04
+            "rank": 61,
+            "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
+            "score": 59.72
           }
         ],
-        "rank": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "i47a1e6dd",
-        "title": "‘갤럭시’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib3876eed",
+        "title": "‘오늘도’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "갤럭시"
+          "오늘도"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 77.68,
-        "peak_score": 77.68,
+        "score": 71.73,
+        "peak_score": 71.73,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 33,
-            "title": "갤럭시 폴드8 떨어트렸다가 힌지 박살남.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77189277?m=humor_only&t=now",
-            "score": 68.68
-          },
-          {
-            "source": "더쿠",
-            "rank": 96,
-            "title": "아이폰 듀오 때문에 유탄 맞은 갤럭시 폴드 유저들 jpg",
-            "url": "https://theqoo.net/hot/4388951377",
-            "score": 53.74
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.74,
-        "peak_score": 73.74,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 44,
-            "title": "'민주당, 대법원장 휴대폰 교체내역 조회…스토킹 폭력'",
-            "url": "https://www.clien.net/service/board/park/19283961?od=T31&po=0&category=0&groupCd=",
-            "score": 64.74
+            "rank": 41,
+            "title": "오늘도 평화로운 다X소...",
+            "url": "https://www.clien.net/service/board/park/19283992?od=T31&po=0&category=0&groupCd=",
+            "score": 62.73
           },
           {
-            "source": "뽐뿌",
-            "rank": 47,
-            "title": "민주당 개망했네요 민주당 31.5% 국민의힘 40.5%",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168141",
-            "score": 63.91
+            "source": "인벤",
+            "rank": 82,
+            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
+            "score": 54.36
           }
         ],
-        "rank": 4,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i72f23de5",
+        "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
+        "keywords": [
+          "항상",
+          "친구"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.32,
+        "peak_score": 70.32,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 45,
+            "title": "항상 뭐 빌려달라하먄 가짓말 하는 친구",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473840&_dcbest=1&page=1",
+            "score": 62.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 49,
+            "title": "항상 뭐 빌려달라하면 거짓말하는 친구",
+            "url": "https://theqoo.net/hot/4388972795",
+            "score": 61.58
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i6810e018",
+        "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
+        "keywords": [
+          "역대",
+          "장동민이",
+          "뽑은",
+          "상대",
+          "서바이벌"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 64.67,
+        "peak_score": 64.67,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 72,
+            "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746237",
+            "score": 56.67
+          },
+          {
+            "source": "루리웹",
+            "rank": 75,
+            "title": "장동민이 뽑은 '역대 서바이벌 최고의 상대'",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77190440?m=humor_only&t=now",
+            "score": 56.01
+          }
+        ],
+        "rank": 7,
         "change": "NEW"
       }
     ],
     "daily": [
+      {
+        "id": "ie0b569fe",
+        "title": "아주대 소아응급의사 센터장까지 사직",
+        "keywords": [
+          "사직",
+          "아주대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.26,
+        "peak_score": 103.77,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "아주대 소아응급의사 센터장까지 사직",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 79,
+            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
+            "score": 54.74
+          }
+        ],
+        "first_seen": "2026-10-17T15:03:41.666610+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 13
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 113.77,
+        "peak_score": 94.84,
+        "appearances": 3,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 11,
+            "title": "이재명 대단하네요",
+            "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
+            "score": 77.84
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 14,
+            "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
+            "score": 71.8
+          },
+          {
+            "source": "인벤",
+            "rank": 82,
+            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
+            "score": 54.36
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": 6
+      },
       {
         "id": "ib522be5d",
         "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
@@ -183,8 +387,8 @@
         "last_seen": "2026-10-28T16:45:56.099894+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 3,
+        "change": -2
       },
       {
         "id": "i4c8bdd1e",
@@ -221,8 +425,8 @@
         "last_seen": "2026-10-28T11:21:35.479635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "idd231cf7",
@@ -259,8 +463,8 @@
         "last_seen": "2026-10-28T11:21:35.479635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "id2d5aa4e",
@@ -297,8 +501,8 @@
         "last_seen": "2026-10-28T10:42:26.011598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 6,
+        "change": -2
       },
       {
         "id": "i7b918478",
@@ -336,8 +540,8 @@
         "last_seen": "2026-10-28T08:15:04.908383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i085eaf1e",
@@ -378,8 +582,8 @@
         "last_seen": "2026-10-28T04:40:37.803199+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "i10990536",
@@ -416,46 +620,8 @@
         "last_seen": "2026-10-28T11:21:35.479635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 91.71,
-        "peak_score": 78.22,
-        "appearances": 2,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 41,
-            "title": "이재명 대통령 sns 업데이트 속도가 엄청나군여...",
-            "url": "https://www.clien.net/service/board/park/19283738?od=T31&po=0&category=0&groupCd=",
-            "score": 61.33
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "이재명 SNS에 바로 기사 제목 수정한 한겨례",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745965",
-            "score": 59.67
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-28T10:42:26.011598+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 4,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "iba838050",
@@ -492,8 +658,8 @@
         "last_seen": "2026-10-28T08:15:04.908383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i09bfa95c",
@@ -530,8 +696,8 @@
         "last_seen": "2026-10-28T17:55:10.031327+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i1a0292b7",
@@ -568,7 +734,7 @@
         "last_seen": "2026-10-28T08:15:04.908383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -579,35 +745,36 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 89.61,
+        "score": 90.73,
         "peak_score": 76.68,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "디시인사이드",
           "루리웹",
-          "뽐뿌"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 48,
-            "title": "한국 가난한사람도 아이폰 쓰는거보고 화난 인도네시아사람들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473636&_dcbest=1&page=1",
-            "score": 61.92
+            "rank": 36,
+            "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
+            "score": 64.98
           },
           {
-            "source": "루리웹",
-            "rank": 94,
-            "title": "아이폰 듀오가 우월하다고 한 앱등이 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77184178?m=humor_only&t=now",
-            "score": 53.04
+            "source": "인벤",
+            "rank": 61,
+            "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
+            "score": 59.72
           }
         ],
         "first_seen": "2026-10-17T02:56:53.776363+09:00",
-        "last_seen": "2026-10-28T08:15:04.908383+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -646,46 +813,8 @@
         "last_seen": "2026-10-28T04:40:37.803199+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -1
-      },
-      {
-        "id": "ie0b569fe",
-        "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아주대"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.28,
-        "peak_score": 78.81,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 30,
-            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
-            "score": 69.81
-          },
-          {
-            "source": "인벤",
-            "rank": 36,
-            "title": "아주대 소아 응급 교수 사직 7명에 경찰과 고소인이 욕 먹는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746202",
-            "score": 67.04
-          }
-        ],
-        "first_seen": "2026-10-17T15:03:41.666610+09:00",
-        "last_seen": "2026-10-28T17:55:10.031327+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 14,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -723,7 +852,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i47a1e6dd",
@@ -761,7 +890,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i4adfac69",
@@ -803,7 +932,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -3
+        "change": 0
+      },
+      {
+        "id": "i21c94984",
+        "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
+        "keywords": [
+          "폐지",
+          "필요한지",
+          "다문화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.68,
+        "peak_score": 76.21,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 24,
+            "title": "李 “다문화 우대제도 필요성 큰가…폐지 필요한지 검토하겠다”",
+            "url": "https://theqoo.net/hot/4389022135",
+            "score": 68.21
+          },
+          {
+            "source": "인벤",
+            "rank": 64,
+            "title": "'펨코' 인용한 李대통령 \"다문화 우대, 폐지 필요한지 검토할 것\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746225",
+            "score": 58.15
+          }
+        ],
+        "first_seen": "2026-10-28T19:44:34.072960+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
       },
       {
         "id": "i2c099e33",
@@ -840,8 +1009,8 @@
         "last_seen": "2026-10-28T08:15:04.908383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -3
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i01f4834a",
@@ -878,46 +1047,8 @@
         "last_seen": "2026-10-28T04:40:37.803199+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -3
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 83.53,
-        "peak_score": 73.06,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 42,
-            "title": "캐나다에 관세 물리던 트럼프 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77184002?m=humor_only&t=now",
-            "score": 63.06
-          },
-          {
-            "source": "클리앙",
-            "rank": 53,
-            "title": "..트럼프…'베네수를 미국 51번째 주로'",
-            "url": "https://www.clien.net/service/board/park/19283630?od=T31&po=0&category=0&groupCd=",
-            "score": 61.26
-          }
-        ],
-        "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-10-28T07:27:29.077736+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 20,
-        "change": -3
+        "change": -1
       }
     ],
     "weekly": [
@@ -929,9 +1060,9 @@
         ],
         "source_count": 6,
         "post_count": 9,
-        "score": 182.21,
+        "score": 182.41,
         "peak_score": 138.12,
-        "appearances": 24,
+        "appearances": 25,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -943,21 +1074,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 48,
-            "title": "한국 가난한사람도 아이폰 쓰는거보고 화난 인도네시아사람들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473636&_dcbest=1&page=1",
-            "score": 61.92
+            "rank": 36,
+            "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
+            "score": 64.98
           },
           {
-            "source": "루리웹",
-            "rank": 94,
-            "title": "아이폰 듀오가 우월하다고 한 앱등이 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77184178?m=humor_only&t=now",
-            "score": 53.04
+            "source": "인벤",
+            "rank": 61,
+            "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
+            "score": 59.72
           }
         ],
         "first_seen": "2026-10-17T02:56:53.776363+09:00",
-        "last_seen": "2026-10-28T08:15:04.908383+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
@@ -1168,6 +1299,46 @@
         "change": 0
       },
       {
+        "id": "ie0b569fe",
+        "title": "아주대 소아응급의사 센터장까지 사직",
+        "keywords": [
+          "사직",
+          "아주대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.26,
+        "peak_score": 103.77,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "아주대 소아응급의사 센터장까지 사직",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188121?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 79,
+            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
+            "score": 54.74
+          }
+        ],
+        "first_seen": "2026-10-17T15:03:41.666610+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
         "id": "i2f0f43fb",
         "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1203,8 +1374,8 @@
         "last_seen": "2026-10-26T20:33:27.214706+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "icf8be3fe",
@@ -1253,8 +1424,8 @@
         "last_seen": "2026-10-26T10:21:23.237248+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1292,8 +1463,54 @@
         "last_seen": "2026-10-27T08:43:55.738153+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 113.77,
+        "peak_score": 94.84,
+        "appearances": 3,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 11,
+            "title": "이재명 대단하네요",
+            "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
+            "score": 77.84
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 14,
+            "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
+            "score": 71.8
+          },
+          {
+            "source": "인벤",
+            "rank": 82,
+            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
+            "score": 54.36
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "ide106c5c",
@@ -1334,8 +1551,8 @@
         "last_seen": "2026-10-27T17:18:27.944845+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i18276ea2",
@@ -1377,8 +1594,8 @@
         "last_seen": "2026-10-27T23:40:23.126135+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i2c6cb5dc",
@@ -1417,8 +1634,8 @@
         "last_seen": "2026-10-26T15:51:41.616953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i14d31b7b",
@@ -1463,8 +1680,8 @@
         "last_seen": "2026-10-27T21:30:46.359849+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "ib522be5d",
@@ -1501,8 +1718,8 @@
         "last_seen": "2026-10-28T16:45:56.099894+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i4be2fb52",
@@ -1552,8 +1769,8 @@
         "last_seen": "2026-10-27T17:18:27.944845+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 15,
-        "change": 0
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i4c8bdd1e",
@@ -1590,8 +1807,8 @@
         "last_seen": "2026-10-28T11:21:35.479635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "idd231cf7",
@@ -1628,8 +1845,8 @@
         "last_seen": "2026-10-28T11:21:35.479635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "i348b5bff",
@@ -1667,90 +1884,8 @@
         "last_seen": "2026-10-27T15:14:20.454275+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "id2d5aa4e",
-        "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "fsd"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 101.87,
-        "peak_score": 92.4,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "FSD 보행자사망 (미국)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
-            "score": 83.4
-          },
-          {
-            "source": "인벤",
-            "rank": 100,
-            "title": "테슬라 FSD 탈옥열사 80명 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
-            "score": 50.51
-          }
-        ],
-        "first_seen": "2026-10-28T10:42:26.011598+09:00",
-        "last_seen": "2026-10-28T10:42:26.011598+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i541bb1e1",
-        "title": "軍, 30대 여성에 최전방 민통선 뚫려…GOP 광망까지 절단",
-        "keywords": [
-          "gop",
-          "여성에",
-          "광망까지",
-          "절단",
-          "민통선",
-          "최전방"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 101.58,
-        "peak_score": 82.53,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 89,
-            "title": "軍, 30대 여성에 최전방 민통선 뚫려…GOP 광망까지 절단",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2744947",
-            "score": 53.09
-          },
-          {
-            "source": "클리앙",
-            "rank": 95,
-            "title": "軍, 30대 여성에 최전방 민통선 뚫려…GOP 광망까지 절단",
-            "url": "https://www.clien.net/service/board/park/19282613?od=T31&po=0&category=0&groupCd=",
-            "score": 51.07
-          }
-        ],
-        "first_seen": "2026-10-26T00:04:03.944375+09:00",
-        "last_seen": "2026-10-26T04:57:24.931533+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -2
       }
     ],
     "monthly": [
@@ -1764,7 +1899,7 @@
         "post_count": 9,
         "score": 184.12,
         "peak_score": 138.12,
-        "appearances": 43,
+        "appearances": 44,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1776,21 +1911,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 48,
-            "title": "한국 가난한사람도 아이폰 쓰는거보고 화난 인도네시아사람들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473636&_dcbest=1&page=1",
-            "score": 61.92
+            "rank": 36,
+            "title": "아이폰 듀오 폴딩 테스트결과, 내구성 처참해",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473848&_dcbest=1&page=1",
+            "score": 64.98
           },
           {
-            "source": "루리웹",
-            "rank": 94,
-            "title": "아이폰 듀오가 우월하다고 한 앱등이 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77184178?m=humor_only&t=now",
-            "score": 53.04
+            "source": "인벤",
+            "rank": 61,
+            "title": "아이폰 듀오 때문에 괜히 같이 쳐맞은 갤럭시 유저",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746244",
+            "score": 59.72
           }
         ],
         "first_seen": "2026-10-17T02:56:53.776363+09:00",
-        "last_seen": "2026-10-28T08:15:04.908383+09:00",
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
@@ -1889,7 +2024,7 @@
         "post_count": 6,
         "score": 142.5,
         "peak_score": 106.5,
-        "appearances": 68,
+        "appearances": 69,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1900,23 +2035,30 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 41,
-            "title": "이재명 대통령 sns 업데이트 속도가 엄청나군여...",
-            "url": "https://www.clien.net/service/board/park/19283738?od=T31&po=0&category=0&groupCd=",
-            "score": 61.33
+            "rank": 11,
+            "title": "이재명 대단하네요",
+            "url": "https://www.clien.net/service/board/park/19284005?od=T31&po=0&category=0&groupCd=",
+            "score": 77.84
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 14,
+            "title": "이재명 무극파몰이 헛소리에 미러링으로 뼈 부수는 댓글ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168006",
+            "score": 71.8
           },
           {
             "source": "인벤",
-            "rank": 48,
-            "title": "이재명 SNS에 바로 기사 제목 수정한 한겨례",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745965",
-            "score": 59.67
+            "rank": 82,
+            "title": "❝ 오늘도 무사히 ❞ - 이재명 대통령 블로그 펌",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746235",
+            "score": 54.36
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-28T10:42:26.011598+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 4,
+        "last_seen": "2026-10-28T19:44:34.072960+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
         "rank": 4,
         "change": 0
       },
