@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-28T08:15:04.908383+09:00",
+  "collected_at": "2026-10-28T10:42:26.011598+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -215,6 +215,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.37,
+      "peak_score": 101.32,
+      "appearances": 4,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 22,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108420",
+          "score": 68.99
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "10/28일자 네이버페이 79원 + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043",
+          "score": 61.89
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-28T10:42:26.011598+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 2
+    },
+    {
       "id": "i2f0f43fb",
       "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -250,8 +288,8 @@
       "last_seen": "2026-10-26T20:33:27.214706+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "icf8be3fe",
@@ -300,46 +338,8 @@
       "last_seen": "2026-10-26T10:21:23.237248+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.25,
-      "peak_score": 101.32,
-      "appearances": 3,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 28원, 라이브예고 19원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108380",
-          "score": 88.57
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 95,
-          "title": "[네이버페이] 르무통 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
-          "score": 51.23
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-27T06:52:56.886112+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ia4c7959d",
@@ -642,6 +642,44 @@
       "change": 0
     },
     {
+      "id": "id2d5aa4e",
+      "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "fsd"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.87,
+      "peak_score": 92.4,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "FSD 보행자사망 (미국)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
+          "score": 83.4
+        },
+        {
+          "source": "인벤",
+          "rank": 100,
+          "title": "테슬라 FSD 탈옥열사 80명 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
+          "score": 50.51
+        }
+      ],
+      "first_seen": "2026-10-28T10:42:26.011598+09:00",
+      "last_seen": "2026-10-28T10:42:26.011598+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
       "id": "i541bb1e1",
       "title": "軍, 30대 여성에 최전방 민통선 뚫려…GOP 광망까지 절단",
       "keywords": [
@@ -682,8 +720,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -721,8 +759,8 @@
       "last_seen": "2026-10-28T08:15:04.908383+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 2
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "iae209e51",
@@ -761,7 +799,7 @@
       "last_seen": "2026-10-27T19:09:37.182552+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -803,47 +841,8 @@
       "last_seen": "2026-10-28T04:40:37.803199+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i6518b9ba",
-      "title": "‘김지원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김지원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.3,
-      "peak_score": 86.37,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 16,
-          "title": "유해진에 이어... 김지원 ㄷㄷ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745293",
-          "score": 72.03
-        },
-        {
-          "source": "더쿠",
-          "rank": 39,
-          "title": "\"유해진 나락 가는 거 못 봤나\"…김지원, 시청률 19.5% 찍고도 5·18 등장하자 날벼락 [종합]",
-          "url": "https://theqoo.net/hot/4387042284",
-          "score": 62.89
-        }
-      ],
-      "first_seen": "2026-10-26T08:18:44.324586+09:00",
-      "last_seen": "2026-10-26T19:24:27.051247+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
