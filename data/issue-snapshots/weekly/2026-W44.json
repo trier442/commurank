@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-28T11:21:35.479635+09:00",
+  "collected_at": "2026-10-28T16:45:56.099894+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -552,6 +552,44 @@
       "change": 0
     },
     {
+      "id": "ib522be5d",
+      "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "고소당한"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 109.75,
+      "peak_score": 100.28,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
+          "score": 91.28
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "고소당한 디시인",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
+          "score": 55.86
+        }
+      ],
+      "first_seen": "2026-10-28T16:45:56.099894+09:00",
+      "last_seen": "2026-10-28T16:45:56.099894+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
       "id": "i4be2fb52",
       "title": "100만 유튜버 '수탉' 납치·살해시도 일당, 2심서 감형",
       "keywords": [
@@ -599,8 +637,8 @@
       "last_seen": "2026-10-27T17:18:27.944845+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i4c8bdd1e",
@@ -637,8 +675,8 @@
       "last_seen": "2026-10-28T11:21:35.479635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "idd231cf7",
@@ -675,8 +713,8 @@
       "last_seen": "2026-10-28T11:21:35.479635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i348b5bff",
@@ -714,8 +752,8 @@
       "last_seen": "2026-10-27T15:14:20.454275+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -2
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "id2d5aa4e",
@@ -752,8 +790,8 @@
       "last_seen": "2026-10-28T10:42:26.011598+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i541bb1e1",
@@ -796,47 +834,8 @@
       "last_seen": "2026-10-26T04:57:24.931533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "i7b918478",
-      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본에서"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 101.1,
-      "peak_score": 82.05,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 49,
-          "title": "일본에서 놀란듯한 0명 채용공고",
-          "url": "https://theqoo.net/hot/4388467298",
-          "score": 61.58
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 84,
-          "title": "싱글벙글 일본에서 폐업하는 라면집들이 급격하게 늘어가고 있는중",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473626&_dcbest=1&page=1",
-          "score": 54.86
-        }
-      ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-10-28T08:15:04.908383+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }
