@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-30T03:26:30.068546+09:00",
+  "collected_at": "2026-10-30T04:16:54.241233+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -792,6 +792,57 @@
       "change": 0
     },
     {
+      "id": "i9a01ecf1",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "keywords": [
+        "최불암",
+        "아버지",
+        "수사반장",
+        "국민",
+        "별세",
+        "영원한"
+      ],
+      "source_count": 3,
+      "post_count": 5,
+      "score": 125.49,
+      "peak_score": 107.0,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 4,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://theqoo.net/hot/4390326783",
+          "score": 90.0
+        },
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+          "score": 71.82
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "속보) '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.clien.net/service/board/park/19284644?od=T31&po=0&category=0&groupCd=",
+          "score": 59.46
+        }
+      ],
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T04:16:54.241233+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i413fcde4",
       "title": "에콰도르전 손흥민, 황희찬",
       "keywords": [
@@ -829,63 +880,8 @@
       "last_seen": "2026-10-29T21:00:45.441651+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i1b32b99d",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스",
-        "시위대"
-      ],
-      "source_count": 4,
-      "post_count": 4,
-      "score": 124.13,
-      "peak_score": 104.66,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "프랑스 시위대 명품매장 약탈 모습",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155863",
-          "score": 79.66
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "프랑스 시위 심각한듯",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471218&_dcbest=1&page=1",
-          "score": 76.05
-        },
-        {
-          "source": "클리앙",
-          "rank": 22,
-          "title": "프랑스 관련 숫자 몇가지.",
-          "url": "https://www.clien.net/service/board/park/19279348?od=T31&po=0&category=0&groupCd=",
-          "score": 70.96
-        },
-        {
-          "source": "인벤",
-          "rank": 65,
-          "title": "140년 된 시청 통째로 '활활'…프랑스 1천750곳서 시위대 폭발 / 연합뉴스 (Yonhapnews)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741784",
-          "score": 59.09
-        }
-      ],
-      "first_seen": "2026-10-18T15:30:44.980988+09:00",
-      "last_seen": "2026-10-18T15:30:44.980988+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
