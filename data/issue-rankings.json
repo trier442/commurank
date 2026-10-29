@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-29T08:59:35.285318+09:00",
+  "collected_at": "2026-10-29T09:45:33.943203+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,47 +11,34 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i97a93890",
-        "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "관세청에",
-          "운영자",
-          "뜯긴",
-          "원두",
-          "5천만원치",
-          "루리웹"
+          "네이버페이"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 3,
-        "score": 111.61,
-        "peak_score": 111.61,
+        "score": 84.08,
+        "peak_score": 84.08,
         "appearances": 1,
         "sources": [
-          "더쿠",
           "루리웹",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "[네이버페이] 삼성화재 15원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120123",
+            "score": 74.08
+          },
+          {
             "source": "루리웹",
-            "rank": 2,
-            "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
-            "score": 96.61
-          },
-          {
-            "source": "인벤",
-            "rank": 51,
-            "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
-            "score": 60.52
-          },
-          {
-            "source": "더쿠",
-            "rank": 77,
-            "title": "관세청에 5천만원치 원두 뜯긴 루리웹 운영자..jpg",
-            "url": "https://theqoo.net/hot/4389380466",
-            "score": 55.74
+            "rank": 19,
+            "title": "[네이버페이] 라방 랜덤 5원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108463",
+            "score": 69.21
           }
         ],
         "rank": 1,
@@ -63,90 +50,46 @@
         "keywords": [
           "유시민"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 3,
-        "score": 84.98,
-        "peak_score": 84.98,
+        "score": 67.59,
+        "peak_score": 67.59,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 67,
             "title": "유시민 “이재명, 윤석열과 똑같다…극단적 경우 임기 못 채우기도” 또 작심 비판",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746388",
-            "score": 67.98
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 70,
-            "title": "김민석, 유시민 '李 진영 해체' 발언에 \"일일이 논평할 필요 없어\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491400",
-            "score": 57.03
+            "score": 57.59
           },
           {
             "source": "클리앙",
-            "rank": 100,
-            "title": "유시민 옹이 직접 정치를 하시지...",
-            "url": "https://www.clien.net/service/board/park/19284194?od=T31&po=0&category=0&groupCd=",
-            "score": 50.48
+            "rank": 75,
+            "title": "유시민 작가는 이재명의 구조적다수의 허구를 이번에 알려줬네요",
+            "url": "https://www.clien.net/service/board/park/19284230?od=T31&po=0&category=0&groupCd=",
+            "score": 56.51
           }
         ],
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
-        "id": "i9182f84b",
-        "title": "퇴직금 사외적립 의무화는 괜찮아보여요",
+        "id": "i1f600dc0",
+        "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
         "keywords": [
-          "퇴직금",
-          "사외적립",
-          "당정",
-          "퇴직연금",
-          "단계적"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 76.91,
-        "peak_score": 76.91,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 19,
-            "title": "퇴직금 사외적립 의무화는 괜찮아보여요",
-            "url": "https://www.clien.net/service/board/park/19284214?od=T31&po=0&category=0&groupCd=",
-            "score": 67.91
-          },
-          {
-            "source": "인벤",
-            "rank": 65,
-            "title": "당정 \"퇴직금 사외적립 단계적 의무화\" 기금형 퇴직연금 활성화",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746405",
-            "score": 57.53
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "ie0b569fe",
-        "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아주대"
+          "운영자",
+          "관세청에",
+          "뜯긴"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 107.54,
-        "peak_score": 107.54,
+        "score": 105.02,
+        "peak_score": 105.02,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -155,35 +98,66 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 1,
-            "title": "아주대 소아응급센터 교수 7명 사직이 안좋게 보인다는 사람",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77195105?m=humor",
-            "score": 98.54
+            "rank": 2,
+            "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
+            "score": 97.02
           },
           {
             "source": "인벤",
-            "rank": 76,
-            "title": "\"손이 떨려서 진료 못하겠다\"‥아주대 소아응급 전문의 7명 집단 사직",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746389",
-            "score": 55.91
+            "rank": 47,
+            "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
+            "score": 62.01
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i1cc33293",
+        "title": "‘하이닉스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "하이닉스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.21,
+        "peak_score": 79.21,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "월급 플렉스한 하이닉스 직원 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24395",
+            "score": 70.21
+          },
+          {
+            "source": "클리앙",
+            "rank": 80,
+            "title": "하이닉스 최고네요",
+            "url": "https://www.clien.net/service/board/park/19284227?od=T31&po=0&category=0&groupCd=",
+            "score": 55.03
           }
         ],
         "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "i06b41272",
-        "title": "‘퇴직연금’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib3876eed",
+        "title": "‘이번에’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "퇴직연금",
-          "단계적",
-          "의무화",
-          "기금형"
+          "이번에"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 74.48,
-        "peak_score": 74.48,
+        "score": 71.13,
+        "peak_score": 71.13,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -191,89 +165,21 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 28,
-            "title": "[속보] 당정 '퇴직금 사외적립 단계적 의무화…기금형 퇴직연금 활성'",
-            "url": "https://www.clien.net/service/board/park/19284207?od=T31&po=0&category=0&groupCd=",
-            "score": 65.48
+            "source": "인벤",
+            "rank": 46,
+            "title": "난 잘 모르겠지만 맥북 이번에 찬사받은 부분",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746414",
+            "score": 62.13
           },
           {
-            "source": "인벤",
-            "rank": 65,
-            "title": "당정 \"퇴직금 사외적립 단계적 의무화\" 기금형 퇴직연금 활성화",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746405",
-            "score": 57.53
+            "source": "클리앙",
+            "rank": 75,
+            "title": "유시민 작가는 이재명의 구조적다수의 허구를 이번에 알려줬네요",
+            "url": "https://www.clien.net/service/board/park/19284230?od=T31&po=0&category=0&groupCd=",
+            "score": 56.51
           }
         ],
         "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i976c1cbe",
-        "title": "‘테스트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "테스트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.58,
-        "peak_score": 70.58,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 46,
-            "title": "게임 피지컬 테스트하는 테스트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746407",
-            "score": 61.58
-          },
-          {
-            "source": "더쿠",
-            "rank": 92,
-            "title": "삼성서울병원에서 공개한 예민함 테스트.jpg",
-            "url": "https://theqoo.net/hot/4389300356",
-            "score": 52.95
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i01009091",
-        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김민석"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 66.03,
-        "peak_score": 66.03,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 70,
-            "title": "김민석, 유시민 '李 진영 해체' 발언에 \"일일이 논평할 필요 없어\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491400",
-            "score": 57.03
-          },
-          {
-            "source": "인벤",
-            "rank": 88,
-            "title": "당정, 가상자산 과세 '유예'로 가닥…김민석 \"부작용·형평성 우려\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746393",
-            "score": 53.74
-          }
-        ],
-        "rank": 7,
         "change": "NEW"
       }
     ],
@@ -327,7 +233,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ie0b569fe",
@@ -365,6 +271,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
+        "change": 0
+      },
+      {
+        "id": "i1f600dc0",
+        "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+        "keywords": [
+          "운영자",
+          "관세청에",
+          "뜯긴"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.49,
+        "peak_score": 105.02,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
+            "score": 97.02
+          },
+          {
+            "source": "인벤",
+            "rank": 47,
+            "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
+            "score": 62.01
+          }
+        ],
+        "first_seen": "2026-10-29T09:45:33.943203+09:00",
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -375,9 +321,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 111.64,
+        "score": 112.55,
         "peak_score": 90.59,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -386,32 +332,63 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 67,
             "title": "유시민 “이재명, 윤석열과 똑같다…극단적 경우 임기 못 채우기도” 또 작심 비판",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746388",
-            "score": 67.98
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 70,
-            "title": "김민석, 유시민 '李 진영 해체' 발언에 \"일일이 논평할 필요 없어\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491400",
-            "score": 57.03
+            "score": 57.59
           },
           {
             "source": "클리앙",
-            "rank": 100,
-            "title": "유시민 옹이 직접 정치를 하시지...",
-            "url": "https://www.clien.net/service/board/park/19284194?od=T31&po=0&category=0&groupCd=",
-            "score": 50.48
+            "rank": 75,
+            "title": "유시민 작가는 이재명의 구조적다수의 허구를 이번에 알려줬네요",
+            "url": "https://www.clien.net/service/board/park/19284230?od=T31&po=0&category=0&groupCd=",
+            "score": 56.51
           }
         ],
         "first_seen": "2026-10-29T00:54:29.410927+09:00",
-        "last_seen": "2026-10-29T08:59:35.285318+09:00",
-        "latest_source_count": 3,
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": -2
+        "rank": 4,
+        "change": -1
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 94.55,
+        "peak_score": 84.08,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "[네이버페이] 삼성화재 15원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120123",
+            "score": 74.08
+          },
+          {
+            "source": "루리웹",
+            "rank": 19,
+            "title": "[네이버페이] 라방 랜덤 5원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108463",
+            "score": 69.21
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "i533b29bd",
@@ -448,7 +425,7 @@
         "last_seen": "2026-10-29T00:54:29.410927+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 6,
         "change": -2
       },
       {
@@ -488,8 +465,46 @@
         "last_seen": "2026-10-29T05:56:45.702756+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 7,
         "change": -2
+      },
+      {
+        "id": "i1cc33293",
+        "title": "‘하이닉스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "하이닉스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.68,
+        "peak_score": 79.21,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "월급 플렉스한 하이닉스 직원 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24395",
+            "score": 70.21
+          },
+          {
+            "source": "클리앙",
+            "rank": 80,
+            "title": "하이닉스 최고네요",
+            "url": "https://www.clien.net/service/board/park/19284227?od=T31&po=0&category=0&groupCd=",
+            "score": 55.03
+          }
+        ],
+        "first_seen": "2026-10-15T09:30:37.326325+09:00",
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i9182f84b",
@@ -530,8 +545,8 @@
         "last_seen": "2026-10-29T08:59:35.285318+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "iae6b0123",
@@ -569,7 +584,7 @@
         "last_seen": "2026-10-29T00:54:29.410927+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 10,
         "change": -3
       },
       {
@@ -610,8 +625,8 @@
         "last_seen": "2026-10-29T08:59:35.285318+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 11,
+        "change": -3
       },
       {
         "id": "i976c1cbe",
@@ -648,8 +663,8 @@
         "last_seen": "2026-10-29T08:59:35.285318+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 12,
+        "change": -3
       },
       {
         "id": "i3ccc2d51",
@@ -686,8 +701,8 @@
         "last_seen": "2026-10-29T00:54:29.410927+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -5
+        "rank": 13,
+        "change": -3
       },
       {
         "id": "i01009091",
@@ -724,8 +739,8 @@
         "last_seen": "2026-10-29T08:59:35.285318+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 14,
+        "change": -3
       }
     ],
     "weekly": [
@@ -821,7 +836,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ie0b569fe",
@@ -860,7 +875,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": 4
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -900,7 +915,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i309283fe",
@@ -946,7 +961,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -2
+        "change": 0
       },
       {
         "id": "ifd0be149",
@@ -984,7 +999,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i47a1e6dd",
@@ -1026,7 +1041,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1035,36 +1050,36 @@
           "네이버페이"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 115.37,
+        "post_count": 3,
+        "score": 117.28,
         "peak_score": 101.32,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "루리웹",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 22,
-            "title": "[네이버페이] 라방 랜덤 5원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108420",
-            "score": 68.99
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "[네이버페이] 삼성화재 15원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120123",
+            "score": 74.08
           },
           {
-            "source": "뽐뿌",
-            "rank": 40,
-            "title": "10/28일자 네이버페이 79원 + 랜덤포인트 모음",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043",
-            "score": 61.89
+            "source": "루리웹",
+            "rank": 19,
+            "title": "[네이버페이] 라방 랜덤 5원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108463",
+            "score": 69.21
           }
         ],
         "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-28T10:42:26.011598+09:00",
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 8,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i2f0f43fb",
@@ -1103,7 +1118,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i1f600dc0",
+        "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+        "keywords": [
+          "운영자",
+          "관세청에",
+          "뜯긴"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.49,
+        "peak_score": 105.02,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
+            "score": 97.02
+          },
+          {
+            "source": "인벤",
+            "rank": 47,
+            "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
+            "score": 62.01
+          }
+        ],
+        "first_seen": "2026-10-29T09:45:33.943203+09:00",
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
       },
       {
         "id": "icf8be3fe",
@@ -1152,7 +1207,7 @@
         "last_seen": "2026-10-26T10:21:23.237248+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -1191,7 +1246,7 @@
         "last_seen": "2026-10-27T08:43:55.738153+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -1237,7 +1292,7 @@
         "last_seen": "2026-10-28T19:44:34.072960+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -1279,7 +1334,7 @@
         "last_seen": "2026-10-27T17:18:27.944845+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -1322,7 +1377,7 @@
         "last_seen": "2026-10-27T23:40:23.126135+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -1362,7 +1417,7 @@
         "last_seen": "2026-10-26T15:51:41.616953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -1373,9 +1428,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 111.64,
+        "score": 112.55,
         "peak_score": 90.59,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -1384,32 +1439,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 67,
             "title": "유시민 “이재명, 윤석열과 똑같다…극단적 경우 임기 못 채우기도” 또 작심 비판",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746388",
-            "score": 67.98
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 70,
-            "title": "김민석, 유시민 '李 진영 해체' 발언에 \"일일이 논평할 필요 없어\"",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491400",
-            "score": 57.03
+            "score": 57.59
           },
           {
             "source": "클리앙",
-            "rank": 100,
-            "title": "유시민 옹이 직접 정치를 하시지...",
-            "url": "https://www.clien.net/service/board/park/19284194?od=T31&po=0&category=0&groupCd=",
-            "score": 50.48
+            "rank": 75,
+            "title": "유시민 작가는 이재명의 구조적다수의 허구를 이번에 알려줬네요",
+            "url": "https://www.clien.net/service/board/park/19284230?od=T31&po=0&category=0&groupCd=",
+            "score": 56.51
           }
         ],
         "first_seen": "2026-10-29T00:54:29.410927+09:00",
-        "last_seen": "2026-10-29T08:59:35.285318+09:00",
-        "latest_source_count": 3,
+        "last_seen": "2026-10-29T09:45:33.943203+09:00",
+        "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": 1
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i14d31b7b",
@@ -1454,8 +1502,8 @@
         "last_seen": "2026-10-27T21:30:46.359849+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": -2
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "ib522be5d",
@@ -1492,8 +1540,8 @@
         "last_seen": "2026-10-28T16:45:56.099894+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i4be2fb52",
@@ -1543,44 +1591,6 @@
         "last_seen": "2026-10-27T17:18:27.944845+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.79,
-        "peak_score": 91.3,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 5,
-            "title": "대한민국 관세청 근황.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473712&_dcbest=1&page=1",
-            "score": 82.3
-          },
-          {
-            "source": "더쿠",
-            "rank": 96,
-            "title": "[관심부탁해 📣] 대한민국 세금 3500억원으로 만드는 베트남 마을",
-            "url": "https://theqoo.net/hot/4388576718",
-            "score": 50.79
-          }
-        ],
-        "first_seen": "2026-09-30T16:29:04.314799+09:00",
-        "last_seen": "2026-10-28T11:21:35.479635+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
         "change": -1
       }
@@ -1803,7 +1813,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i7f717bd5",
@@ -1845,7 +1855,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": 1
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -1886,7 +1896,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 7,
-        "change": 1
+        "change": 0
       },
       {
         "id": "id50390b0",
@@ -1926,7 +1936,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -1967,7 +1977,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i849dd46f",
@@ -2025,7 +2035,7 @@
         "latest_source_count": 4,
         "latest_post_count": 5,
         "rank": 10,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i47b692dc",
@@ -2065,7 +2075,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -2107,7 +2117,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -2148,7 +2158,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": 1
+        "change": 0
       },
       {
         "id": "id0f722ca",
@@ -2194,7 +2204,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 14,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ie5e6dce8",
@@ -2250,7 +2260,7 @@
         "latest_source_count": 4,
         "latest_post_count": 6,
         "rank": 15,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ia8451ee4",
@@ -2291,7 +2301,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i97a93890",
@@ -2342,7 +2352,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 17,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ib19f68fa",
