@@ -1,423 +1,443 @@
 {
   "version": 1,
-  "date": "2026-10-29",
-  "label": "2026년 10월 29일",
-  "collected_at": "2026-10-29T22:38:45.883273+09:00",
+  "date": "2026-10-30",
+  "label": "2026년 10월 30일",
+  "collected_at": "2026-10-30T03:26:30.068546+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세’입니다. 실시간 키워드 상위: #국민. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 20,
-    "keywords": 15,
-    "top100_views": 1132834,
-    "top100_comments": 13416
+    "daily_issues": 4,
+    "keywords": 16,
+    "top100_views": 817087,
+    "top100_comments": 8452
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-      "text": "3개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i97a93890"
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "text": "3개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i9a01ecf1"
     },
     {
       "type": "post",
-      "title": "딸기우유에 물 많이 탔다 말했다고 디시인 고소한 서울우유 사건 퍼지고 입장표명",
+      "title": "의사 수 늘린다고 해결되지 않는 이유",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77200840?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77203771?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#국민",
+      "text": "4개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
+      "keyword": "국민"
     }
   ],
   "top_posts": [
     {
-      "title": "딸기우유에 물 많이 탔다 말했다고 디시인 고소한 서울우유 사건 퍼지고 입장표명",
+      "title": "의사 수 늘린다고 해결되지 않는 이유",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77200840?m=humor",
-      "first_seen": "2026-10-29T21:00:45.441651+09:00",
-      "last_seen": "2026-10-29T22:38:45.883273+09:00",
-      "peak_score": 99.38,
-      "max_views": 34592,
-      "max_likes": 255,
-      "max_comments": 115,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 99.38,
-          "max_views": 34592,
-          "max_likes": 255,
-          "max_comments": 115,
-          "appearances": 2,
-          "last_seen": "2026-10-29T22:38:45.883273+09:00"
-        }
-      },
-      "score": 109.8,
-      "views": 34592,
-      "likes": 255,
-      "comments": 115,
-      "active_days": 1,
-      "change": 4
-    },
-    {
-      "title": "서울대 공대 학점 3.8/4.3점인데도 서류 올탈이라는 취업시장 근황... ㄷㄷ",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77196763?m=humor",
-      "first_seen": "2026-10-29T14:42:11.450079+09:00",
-      "last_seen": "2026-10-29T15:31:53.892245+09:00",
-      "peak_score": 98.54,
-      "max_views": 28637,
-      "max_likes": 193,
-      "max_comments": 159,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 98.54,
-          "max_views": 28637,
-          "max_likes": 193,
-          "max_comments": 159,
-          "appearances": 2,
-          "last_seen": "2026-10-29T15:31:53.892245+09:00"
-        }
-      },
-      "score": 108.36,
-      "views": 28637,
-      "likes": 193,
-      "comments": 159,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "스냅드래곤 ㅈ망한 퀄컴근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193826?m=humor",
-      "first_seen": "2026-10-29T05:00:12.898493+09:00",
-      "last_seen": "2026-10-29T05:56:45.702756+09:00",
-      "peak_score": 98.75,
-      "max_views": 15732,
-      "max_likes": 109,
-      "max_comments": 47,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 98.75,
-          "max_views": 15732,
-          "max_likes": 109,
-          "max_comments": 47,
-          "appearances": 2,
-          "last_seen": "2026-10-29T05:56:45.702756+09:00"
-        }
-      },
-      "score": 107.78,
-      "views": 15732,
-      "likes": 109,
-      "comments": 47,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "가장 쉽게 보이는 천주교와 개신교의 차이",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77198208?m=humor",
-      "first_seen": "2026-10-29T14:42:11.450079+09:00",
-      "last_seen": "2026-10-29T19:05:50.234509+09:00",
-      "peak_score": 97.29,
-      "max_views": 27750,
-      "max_likes": 95,
-      "max_comments": 155,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 97.29,
-          "max_views": 27750,
-          "max_likes": 95,
-          "max_comments": 155,
-          "appearances": 2,
-          "last_seen": "2026-10-29T19:05:50.234509+09:00"
-        }
-      },
-      "score": 107.41,
-      "views": 27750,
-      "likes": 95,
-      "comments": 155,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "아주대 소아응급센터 교수 7명 사직이 안좋게 보인다는 사람",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77195105?m=humor",
-      "first_seen": "2026-10-29T08:59:35.285318+09:00",
-      "last_seen": "2026-10-29T08:59:35.285318+09:00",
-      "peak_score": 98.54,
-      "max_views": 18977,
-      "max_likes": 112,
-      "max_comments": 84,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77203771?m=humor",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 96.84,
+      "max_views": 15416,
+      "max_likes": 64,
+      "max_comments": 69,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-29": {
-          "max_score": 98.54,
-          "max_views": 18977,
-          "max_likes": 112,
-          "max_comments": 84,
+        "2026-10-30": {
+          "max_score": 96.84,
+          "max_views": 15416,
+          "max_likes": 64,
+          "max_comments": 69,
           "appearances": 1,
-          "last_seen": "2026-10-29T08:59:35.285318+09:00"
-        }
-      },
-      "score": 106.93,
-      "views": 18977,
-      "likes": 112,
-      "comments": 84,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "누나가 20만원에 아다 떼준 썰 풀버전",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77193916?m=humor",
-      "first_seen": "2026-10-29T05:00:12.898493+09:00",
-      "last_seen": "2026-10-29T05:00:12.898493+09:00",
-      "peak_score": 98.75,
-      "max_views": 19264,
-      "max_likes": 104,
-      "max_comments": 51,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 98.75,
-          "max_views": 19264,
-          "max_likes": 104,
-          "max_comments": 51,
-          "appearances": 1,
-          "last_seen": "2026-10-29T05:00:12.898493+09:00"
-        }
-      },
-      "score": 106.8,
-      "views": 19264,
-      "likes": 104,
-      "comments": 51,
-      "active_days": 1,
-      "change": 0
-    },
-    {
-      "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
-      "first_seen": "2026-10-29T08:59:35.285318+09:00",
-      "last_seen": "2026-10-29T09:45:33.943203+09:00",
-      "peak_score": 97.02,
-      "max_views": 23056,
-      "max_likes": 236,
-      "max_comments": 87,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-29": {
-          "max_score": 97.02,
-          "max_views": 23056,
-          "max_likes": 236,
-          "max_comments": 87,
-          "appearances": 2,
-          "last_seen": "2026-10-29T09:45:33.943203+09:00"
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
         }
       },
       "score": 106.36,
-      "views": 23056,
-      "likes": 236,
-      "comments": 87,
+      "views": 15416,
+      "likes": 64,
+      "comments": 69,
       "active_days": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "title": "힘내라 동기짱 작가 근황",
+      "title": "현실화 되고있는 자궁이식 수술.jpg",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77195051?m=humor",
-      "first_seen": "2026-10-29T09:45:33.943203+09:00",
-      "last_seen": "2026-10-29T09:45:33.943203+09:00",
-      "peak_score": 97.88,
-      "max_views": 26857,
-      "max_likes": 101,
-      "max_comments": 60,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77204883?m=humor",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 96.59,
+      "max_views": 23041,
+      "max_likes": 70,
+      "max_comments": 79,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-29": {
-          "max_score": 97.88,
-          "max_views": 26857,
-          "max_likes": 101,
-          "max_comments": 60,
+        "2026-10-30": {
+          "max_score": 96.59,
+          "max_views": 23041,
+          "max_likes": 70,
+          "max_comments": 79,
           "appearances": 1,
-          "last_seen": "2026-10-29T09:45:33.943203+09:00"
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
         }
       },
-      "score": 106.33,
-      "views": 26857,
-      "likes": 101,
-      "comments": 60,
+      "score": 106.11,
+      "views": 23041,
+      "likes": 70,
+      "comments": 79,
       "active_days": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "title": "베스트에 올라온 '자살예방법 어이가 없네 ㅋㅋㅋㅋ' 관련 법령 체크",
+      "title": "복지 없애야 한다고 주장하는 사람들의 착각",
       "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77205351?m=humor",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 94.66,
+      "max_views": 13896,
+      "max_likes": 158,
+      "max_comments": 86,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 94.66,
+          "max_views": 13896,
+          "max_likes": 158,
+          "max_comments": 86,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 104.18,
+      "views": 13896,
+      "likes": 158,
+      "comments": 86,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "source": "더쿠",
+      "category": "이슈",
+      "url": "https://theqoo.net/hot/4390326783",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 90.0,
+      "max_views": 37077,
+      "max_likes": 0,
+      "max_comments": 1358,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 90.0,
+          "max_views": 37077,
+          "max_likes": 0,
+          "max_comments": 1358,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 99.52,
+      "views": 37077,
+      "likes": 0,
+      "comments": 1358,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "싱글벙글 김정은 주변 여자들에 대해 알아보기",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474149&_dcbest=1&page=1",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 79.68,
+      "max_views": 12908,
+      "max_likes": 99,
+      "max_comments": 102,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 79.68,
+          "max_views": 12908,
+          "max_likes": 99,
+          "max_comments": 102,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 89.2,
+      "views": 12908,
+      "likes": 99,
+      "comments": 102,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "여친이랑 모텔 갔는데 여친이 자기 여동생 부름",
+      "source": "뽐뿌",
       "category": "유머",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77189680?m=humor",
-      "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T00:54:29.410927+09:00",
-      "peak_score": 98.12,
-      "max_views": 12650,
-      "max_likes": 134,
-      "max_comments": 109,
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=789787",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 73.41,
+      "max_views": 21487,
+      "max_likes": 4,
+      "max_comments": 34,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-29": {
-          "max_score": 98.12,
-          "max_views": 12650,
-          "max_likes": 134,
-          "max_comments": 109,
+        "2026-10-30": {
+          "max_score": 73.41,
+          "max_views": 21487,
+          "max_likes": 4,
+          "max_comments": 34,
           "appearances": 1,
-          "last_seen": "2026-10-29T00:54:29.410927+09:00"
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
         }
       },
-      "score": 105.83,
-      "views": 12650,
-      "likes": 134,
-      "comments": 109,
+      "score": 82.93,
+      "views": 21487,
+      "likes": 4,
+      "comments": 34,
       "active_days": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "title": "아구통 교수님이 인증하는 다이어트 식단 ㄷㄷㄷㄷㄷ",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77197903?m=humor",
-      "first_seen": "2026-10-29T15:31:53.892245+09:00",
-      "last_seen": "2026-10-29T15:31:53.892245+09:00",
-      "peak_score": 96.84,
-      "max_views": 13922,
-      "max_likes": 113,
-      "max_comments": 105,
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "source": "인벤",
+      "category": "연예",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 72.72,
+      "max_views": 2224,
+      "max_likes": 6,
+      "max_comments": 37,
       "appearances": 1,
       "daily_stats": {
-        "2026-10-29": {
-          "max_score": 96.84,
-          "max_views": 13922,
-          "max_likes": 113,
-          "max_comments": 105,
+        "2026-10-30": {
+          "max_score": 72.72,
+          "max_views": 2224,
+          "max_likes": 6,
+          "max_comments": 37,
           "appearances": 1,
-          "last_seen": "2026-10-29T15:31:53.892245+09:00"
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
         }
       },
-      "score": 105.77,
-      "views": 13922,
-      "likes": 113,
-      "comments": 105,
+      "score": 82.24,
+      "views": 2224,
+      "likes": 6,
+      "comments": 37,
       "active_days": 1,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "title": "[에픽모바일] Galaxy Kart (무료)",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108490",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 72.33,
+      "max_views": 7874,
+      "max_likes": 36,
+      "max_comments": 1,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 72.33,
+          "max_views": 7874,
+          "max_likes": 36,
+          "max_comments": 1,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 81.85,
+      "views": 7874,
+      "likes": 36,
+      "comments": 1,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "1년동안 한남들 존나 만나고 다닌 여시언냐",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474143&_dcbest=1&page=1",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 72.01,
+      "max_views": 10351,
+      "max_likes": 25,
+      "max_comments": 167,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 72.01,
+          "max_views": 10351,
+          "max_likes": 25,
+          "max_comments": 167,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 81.53,
+      "views": 10351,
+      "likes": 25,
+      "comments": 167,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "[토스] 탐나유 햇밤 알밤 2키로 (8,440원/무료)",
+      "source": "뽐뿌",
+      "category": "이슈",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744194",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "peak_score": 71.69,
+      "max_views": 6907,
+      "max_likes": 3,
+      "max_comments": 7,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 71.69,
+          "max_views": 6907,
+          "max_likes": 3,
+          "max_comments": 7,
+          "appearances": 1,
+          "last_seen": "2026-10-30T03:26:30.068546+09:00"
+        }
+      },
+      "score": 81.21,
+      "views": 6907,
+      "likes": 3,
+      "comments": 7,
+      "active_days": 1,
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 기업이 우선이고 국민은 개돼지인 나라..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474091&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20705,
-      "likes": 435,
-      "comments": 463,
-      "score": 82.47,
-      "change": 0,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 6586,
-      "delta_likes": 214,
-      "delta_comments": 182,
-      "rank_gain": 0,
-      "rising_score": 97.62,
-      "rising_rank": 1,
-      "window_minutes": 98
-    },
-    {
       "source": "더쿠",
-      "title": "오늘 문화훈장 받은 유재석 수상소감",
-      "url": "https://theqoo.net/hot/4390091720",
+      "title": "02년생 신입한테 충고했는데 답장 봐...jpg",
+      "url": "https://theqoo.net/hot/4390178704",
       "category": "이슈",
-      "views": 49826,
+      "views": 67171,
       "likes": 0,
-      "comments": 367,
-      "score": 63.21,
-      "change": 37,
-      "current_rank": 40,
-      "new_entry": false,
-      "delta_views": 44935,
-      "delta_likes": 0,
-      "delta_comments": 307,
-      "rank_gain": 37,
-      "rising_score": 89.17,
-      "rising_rank": 2,
-      "window_minutes": 98
-    },
-    {
-      "source": "디시인사이드",
-      "title": "중소기업출신 빠니보틀이 말하는 여행유튜버 난이도",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474083&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 12878,
-      "likes": 86,
-      "comments": 186,
-      "score": 63.04,
+      "comments": 309,
+      "score": 49.11,
       "change": 0,
-      "current_rank": 41,
+      "current_rank": 100,
       "new_entry": false,
-      "delta_views": 5418,
-      "delta_likes": 38,
-      "delta_comments": 65,
+      "delta_views": 41861,
+      "delta_likes": 0,
+      "delta_comments": 75,
       "rank_gain": 0,
-      "rising_score": 82.8,
-      "rising_rank": 3,
-      "window_minutes": 98
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 288
     },
     {
       "source": "인벤",
-      "title": "ㅎㅂ 아낌없는 누나",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746666",
-      "category": "이슈",
-      "views": 5087,
+      "title": "당신은 어느쪽이 더 취향이신가요?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746689",
+      "category": "유머",
+      "views": 4192,
       "likes": 0,
-      "comments": 12,
-      "score": 65.39,
+      "comments": 23,
+      "score": 56.62,
       "change": 0,
-      "current_rank": 30,
+      "current_rank": 67,
       "new_entry": false,
-      "delta_views": 3622,
+      "delta_views": 3506,
       "delta_likes": 0,
-      "delta_comments": 8,
+      "delta_comments": 13,
       "rank_gain": 0,
-      "rising_score": 81.87,
-      "rising_rank": 4,
-      "window_minutes": 98
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 288
+    },
+    {
+      "source": "디시인사이드",
+      "title": "3년간 유튜브 접었던 덕자 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474105&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 24988,
+      "likes": 261,
+      "comments": 347,
+      "score": 66.38,
+      "change": 0,
+      "current_rank": 22,
+      "new_entry": false,
+      "delta_views": 14622,
+      "delta_likes": 151,
+      "delta_comments": 127,
+      "rank_gain": 0,
+      "rising_score": 91.67,
+      "rising_rank": 3,
+      "window_minutes": 288
     },
     {
       "source": "루리웹",
-      "title": "미국 해고 시스템의 뭐같은 점.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77201018?m=humor",
+      "title": "의사 수 늘린다고 해결되지 않는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77203771?m=humor",
       "category": "이슈",
-      "views": 23372,
-      "likes": 229,
-      "comments": 98,
-      "score": 93.84,
+      "views": 15416,
+      "likes": 64,
+      "comments": 69,
+      "score": 96.84,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.67,
+      "rising_rank": 4,
+      "window_minutes": 288
+    },
+    {
+      "source": "루리웹",
+      "title": "현실화 되고있는 자궁이식 수술.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77204883?m=humor",
+      "category": "이슈",
+      "views": 23041,
+      "likes": 70,
+      "comments": 79,
+      "score": 96.59,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.57,
+      "rising_rank": 5,
+      "window_minutes": 288
+    },
+    {
+      "source": "루리웹",
+      "title": "복지 없애야 한다고 주장하는 사람들의 착각",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77205351?m=humor",
+      "category": "이슈",
+      "views": 13896,
+      "likes": 158,
+      "comments": 86,
+      "score": 94.66,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,79 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 5,
-      "window_minutes": 98
-    },
-    {
-      "source": "디시인사이드",
-      "title": "\"또 올랐네\" 들었다 놨다..부활한 '저승사자' 뜯어본다...webp",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474093&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 6940,
-      "likes": 22,
-      "comments": 166,
-      "score": 60.04,
-      "change": 3,
-      "current_rank": 57,
-      "new_entry": false,
-      "delta_views": 5473,
-      "delta_likes": 17,
-      "delta_comments": 126,
-      "rank_gain": 3,
-      "rising_score": 80.48,
+      "rising_score": 81.76,
       "rising_rank": 6,
-      "window_minutes": 98
+      "window_minutes": 288
     },
     {
-      "source": "디시인사이드",
-      "title": "\"졸업시켜 보디가드로 쓰면돼\", 학폭 가해자 옹호한 교장.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474081&_dcbest=1&page=1",
+      "source": "더쿠",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "url": "https://theqoo.net/hot/4390326783",
       "category": "이슈",
-      "views": 11910,
-      "likes": 132,
-      "comments": 236,
-      "score": 65.06,
-      "change": 0,
-      "current_rank": 33,
-      "new_entry": false,
-      "delta_views": 4450,
-      "delta_likes": 42,
-      "delta_comments": 57,
-      "rank_gain": 0,
-      "rising_score": 78.04,
-      "rising_rank": 7,
-      "window_minutes": 98
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 유튜버 카광 근황.. 인방계 은퇴 선언",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474061&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 50436,
-      "likes": 478,
-      "comments": 1032,
-      "score": 69.05,
-      "change": 0,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 4911,
-      "delta_likes": 32,
-      "delta_comments": 73,
-      "rank_gain": 0,
-      "rising_score": 77.78,
-      "rising_rank": 8,
-      "window_minutes": 98
-    },
-    {
-      "source": "루리웹",
-      "title": "[요기요] 사용선착순 5천원 할인 쿠폰 (10/29)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108477",
-      "category": "이슈",
-      "views": 22712,
-      "likes": 38,
-      "comments": 23,
-      "score": 84.4,
+      "views": 37077,
+      "likes": 0,
+      "comments": 1358,
+      "score": 90.0,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -505,19 +465,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.45,
-      "rising_rank": 9,
-      "window_minutes": 98
+      "rising_score": 79.8,
+      "rising_rank": 7,
+      "window_minutes": 288
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 김정은 주변 여자들에 대해 알아보기",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474149&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12908,
+      "likes": 99,
+      "comments": 102,
+      "score": 79.68,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.47,
+      "rising_rank": 8,
+      "window_minutes": 288
     },
     {
       "source": "뽐뿌",
-      "title": "그야말로 테슬라의 시대네요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981041",
-      "category": "이슈",
-      "views": 20634,
-      "likes": 15,
-      "comments": 94,
-      "score": 80.09,
+      "title": "여친이랑 모텔 갔는데 여친이 자기 여동생 부름",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=789787",
+      "category": "유머",
+      "views": 21487,
+      "likes": 4,
+      "comments": 34,
+      "score": 73.41,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -525,464 +505,257 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.64,
+      "rising_score": 72.83,
+      "rising_rank": 9,
+      "window_minutes": 288
+    },
+    {
+      "source": "인벤",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+      "category": "연예",
+      "views": 2224,
+      "likes": 6,
+      "comments": 37,
+      "score": 72.72,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.54,
       "rising_rank": 10,
-      "window_minutes": 98
+      "window_minutes": 288
     }
   ],
   "issues": [
     {
-      "id": "i97a93890",
-      "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
+      "id": "i9a01ecf1",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
       "keywords": [
-        "관세청에",
-        "운영자",
-        "뜯긴",
-        "원두",
-        "5천만원치",
-        "루리웹"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 126.08,
-      "peak_score": 111.61,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
-          "score": 96.61
-        },
-        {
-          "source": "인벤",
-          "rank": 51,
-          "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
-          "score": 60.52
-        },
-        {
-          "source": "더쿠",
-          "rank": 77,
-          "title": "관세청에 5천만원치 원두 뜯긴 루리웹 운영자..jpg",
-          "url": "https://theqoo.net/hot/4389380466",
-          "score": 55.74
-        }
-      ],
-      "first_seen": "2026-10-29T08:59:35.285318+09:00",
-      "last_seen": "2026-10-29T08:59:35.285318+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "ie0b569fe",
-      "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아주대"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 117.01,
-      "peak_score": 107.54,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "아주대 소아응급센터 교수 7명 사직이 안좋게 보인다는 사람",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77195105?m=humor",
-          "score": 98.54
-        },
-        {
-          "source": "인벤",
-          "rank": 76,
-          "title": "\"손이 떨려서 진료 못하겠다\"‥아주대 소아응급 전문의 7명 집단 사직",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746389",
-          "score": 55.91
-        }
-      ],
-      "first_seen": "2026-10-17T15:03:41.666610+09:00",
-      "last_seen": "2026-10-29T08:59:35.285318+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "id0f722ca",
-      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "보이는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 115.76,
-      "peak_score": 106.29,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "가장 쉽게 보이는 천주교와 개신교의 차이",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77198208?m=humor",
-          "score": 97.29
-        },
-        {
-          "source": "인벤",
-          "rank": 45,
-          "title": "퇴근하고 집에 와보니 보이는 장면.jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746629",
-          "score": 62.23
-        }
-      ],
-      "first_seen": "2026-10-24T04:50:29.776456+09:00",
-      "last_seen": "2026-10-29T19:05:50.234509+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "iead2b930",
-      "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오늘자"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 114.63,
-      "peak_score": 100.16,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "얼탱얼탱 오늘자 연합뉴스TV 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474011&_dcbest=1&page=1",
-          "score": 83.16
-        },
-        {
-          "source": "인벤",
-          "rank": 37,
-          "title": "오늘자 이재명 대통령 SNS...jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746523",
-          "score": 64.66
-        },
-        {
-          "source": "클리앙",
-          "rank": 76,
-          "title": "[오늘자 베이킹] 우리 통밀 40% 사워도우.jpg",
-          "url": "https://www.clien.net/service/board/park/19284380?od=T31&po=0&category=0&groupCd=",
-          "score": 56.52
-        }
-      ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-10-29T14:42:11.450079+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "i1f600dc0",
-      "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-      "keywords": [
-        "운영자",
-        "관세청에",
-        "뜯긴"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 114.49,
-      "peak_score": 105.02,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "관세청에 5천만원치 원두 뜯긴 사이트 운영자..jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77195332?m=humor",
-          "score": 97.02
-        },
-        {
-          "source": "인벤",
-          "rank": 47,
-          "title": "관세청에 5천만원 뜯긴 루리웹 운영자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746394",
-          "score": 62.01
-        }
-      ],
-      "first_seen": "2026-10-29T09:45:33.943203+09:00",
-      "last_seen": "2026-10-29T09:45:33.943203+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "ia0fd1514",
-      "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유시민"
+        "수사반장",
+        "영원한",
+        "국민",
+        "최불암",
+        "아버지"
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 112.55,
-      "peak_score": 90.59,
-      "appearances": 5,
+      "score": 123.47,
+      "peak_score": 107.0,
+      "appearances": 1,
       "sources": [
-        "뽐뿌",
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 4,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://theqoo.net/hot/4390326783",
+          "score": 90.0
+        },
+        {
+          "source": "인벤",
+          "rank": 7,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+          "score": 72.72
+        },
+        {
+          "source": "클리앙",
+          "rank": 42,
+          "title": "속보) '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.clien.net/service/board/park/19284644?od=T31&po=0&category=0&groupCd=",
+          "score": 62.04
+        }
+      ],
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 5,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i8794fc33",
+      "title": "‘도시락’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "도시락"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.14,
+      "peak_score": 79.67,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "원이 도시락 2종 출시!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746722",
+          "score": 70.67
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 78,
+          "title": "[단독] 통인시장 엽전 도시락 수수료 20% '논란'…5년간 6억 떼어가",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474137&_dcbest=1&page=1",
+          "score": 53.84
+        }
+      ],
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i5891db4f",
+      "title": "특검 '내란 우두머리' 윤석열 2심도 사형 구형",
+      "keywords": [
+        "우두머리",
+        "2심도",
+        "내란",
+        "윤석열"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.8,
+      "peak_score": 74.33,
+      "appearances": 1,
+      "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 67,
-          "title": "유시민 “이재명, 윤석열과 똑같다…극단적 경우 임기 못 채우기도” 또 작심 비판",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746388",
-          "score": 57.59
+          "rank": 23,
+          "title": "특검 '내란 우두머리' 윤석열 2심도 사형 구형",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746725",
+          "score": 66.33
         },
         {
           "source": "클리앙",
-          "rank": 75,
-          "title": "유시민 작가는 이재명의 구조적다수의 허구를 이번에 알려줬네요",
-          "url": "https://www.clien.net/service/board/park/19284230?od=T31&po=0&category=0&groupCd=",
-          "score": 56.51
+          "rank": 96,
+          "title": "‘내란 우두머리’ 윤석열 2심도 사형구형이군요",
+          "url": "https://www.clien.net/service/board/park/19284627?od=T31&po=0&category=0&groupCd=",
+          "score": 49.56
         }
       ],
-      "first_seen": "2026-10-29T00:54:29.410927+09:00",
-      "last_seen": "2026-10-29T09:45:33.943203+09:00",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i496737ff",
+      "title": "‘남기고’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "남기고"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 109.45,
-      "peak_score": 96.52,
-      "appearances": 3,
+      "score": 82.3,
+      "peak_score": 72.83,
+      "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "주진우 \"이재명·장남 내외, 골프 마치고 헬기로 숙소 이동\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474067&_dcbest=1&page=1",
-          "score": 57.15
+          "source": "인벤",
+          "rank": 35,
+          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746710",
+          "score": 63.83
         },
         {
           "source": "클리앙",
-          "rank": 82,
-          "title": "이재명 '이태원 참사 진실 밝힐것'",
-          "url": "https://www.clien.net/service/board/park/19284583?od=T31&po=0&category=0&groupCd=",
-          "score": 54.49
+          "rank": 83,
+          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지",
+          "url": "https://www.clien.net/service/board/park/19284655?od=T31&po=0&category=0&groupCd=",
+          "score": 52.45
         }
       ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-29T22:38:45.883273+09:00",
+      "first_seen": "2026-10-30T03:26:30.068546+09:00",
+      "last_seen": "2026-10-30T03:26:30.068546+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.61,
-      "peak_score": 85.68,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 80,
-          "title": "(역겨움 주의) 성인 그라비아 배우랑 결혼한 남자의 만화랑 콜라보해서 난리난 치이카와",
-          "url": "https://theqoo.net/hot/4389909730",
-          "score": 55.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 87,
-          "title": "안싱글벙글 최근 난리난 충격적이고 기괴한 폭행사망사건",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474043&_dcbest=1&page=1",
-          "score": 53.88
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-29T22:38:45.883273+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "i2f8aa647",
-      "title": "‘반드시’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "반드시"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.79,
-      "peak_score": 83.3,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 51,
-          "title": "싱글벙글 반드시 수입해왔으면 하는 일본 법안",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474049&_dcbest=1&page=1",
-          "score": 62.46
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 98,
-          "title": "대형견 목줄을 반드시 채워야 되는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24410",
-          "score": 52.24
-        }
-      ],
-      "first_seen": "2026-10-29T19:05:50.234509+09:00",
-      "last_seen": "2026-10-29T21:00:45.441651+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 94.55,
-      "peak_score": 84.08,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "[네이버페이] 삼성화재 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120123",
-          "score": 74.08
-        },
-        {
-          "source": "루리웹",
-          "rank": 19,
-          "title": "[네이버페이] 라방 랜덤 5원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108463",
-          "score": 69.21
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-29T09:45:33.943203+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 10,
-      "change": 0
+      "rank": 4,
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i567efd17",
-      "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9a01ecf1",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
       "keywords": [
-        "드라마"
+        "수사반장",
+        "영원한",
+        "국민",
+        "최불암",
+        "아버지"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.15,
-      "peak_score": 74.15,
+      "source_count": 3,
+      "post_count": 5,
+      "score": 107.0,
+      "peak_score": 107.0,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 32,
-          "title": "드라마 카지노 제작사 대표 횡령 후 행방 묘연",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746683",
-          "score": 65.15
+          "source": "더쿠",
+          "rank": 4,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://theqoo.net/hot/4390326783",
+          "score": 90.0
         },
         {
-          "source": "더쿠",
-          "rank": 56,
-          "title": "여주만 10년 이상 좋아한 드라마 순정남주...jpgif",
-          "url": "https://theqoo.net/hot/4390093574",
-          "score": 60.37
+          "source": "인벤",
+          "rank": 7,
+          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+          "score": 72.72
+        },
+        {
+          "source": "클리앙",
+          "rank": 42,
+          "title": "속보) '영원한 수사반장'·'국민 아버지' 최불암 별세",
+          "url": "https://www.clien.net/service/board/park/19284644?od=T31&po=0&category=0&groupCd=",
+          "score": 62.04
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i533b29bd",
-      "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i8794fc33",
+      "title": "‘도시락’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "말하는"
+        "도시락"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.04,
-      "peak_score": 72.04,
+      "score": 79.67,
+      "peak_score": 79.67,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -990,213 +763,154 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "중소기업출신 빠니보틀이 말하는 여행유튜버 난이도",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474083&_dcbest=1&page=1",
-          "score": 63.04
+          "source": "인벤",
+          "rank": 12,
+          "title": "원이 도시락 2종 출시!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746722",
+          "score": 70.67
         },
         {
-          "source": "인벤",
-          "rank": 99,
-          "title": "피디니무가 말하는 거제 야호 | 썰풀다보니까",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746680",
-          "score": 51.36
+          "source": "디시인사이드",
+          "rank": 78,
+          "title": "[단독] 통인시장 엽전 도시락 수수료 20% '논란'…5년간 6억 떼어가",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474137&_dcbest=1&page=1",
+          "score": 53.84
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "icbf99b36",
-      "title": "‘있습니다’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5891db4f",
+      "title": "특검 '내란 우두머리' 윤석열 2심도 사형 구형",
       "keywords": [
-        "있습니다"
+        "우두머리",
+        "2심도",
+        "내란",
+        "윤석열"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 68.04,
-      "peak_score": 68.04,
+      "score": 74.33,
+      "peak_score": 74.33,
       "appearances": 1,
       "sources": [
-        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 60,
-          "title": "아이패드 프로 M6 기다리고 있습니다",
-          "url": "https://www.clien.net/service/board/park/19284601?od=T31&po=0&category=0&groupCd=",
-          "score": 59.04
+          "source": "인벤",
+          "rank": 23,
+          "title": "특검 '내란 우두머리' 윤석열 2심도 사형 구형",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746725",
+          "score": 66.33
         },
         {
-          "source": "루리웹",
-          "rank": 72,
-          "title": "책 한 권이 누군가의 이미지를 ㅆㅊ낼 수 있습니다.manwha",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77204617?m=humor_only&t=now",
-          "score": 56.41
+          "source": "클리앙",
+          "rank": 96,
+          "title": "‘내란 우두머리’ 윤석열 2심도 사형구형이군요",
+          "url": "https://www.clien.net/service/board/park/19284627?od=T31&po=0&category=0&groupCd=",
+          "score": 49.56
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i496737ff",
+      "title": "‘남기고’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "남기고"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 66.15,
-      "peak_score": 66.15,
+      "score": 72.83,
+      "peak_score": 72.83,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "주진우 \"이재명·장남 내외, 골프 마치고 헬기로 숙소 이동\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474067&_dcbest=1&page=1",
-          "score": 57.15
+          "source": "인벤",
+          "rank": 35,
+          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746710",
+          "score": 63.83
         },
         {
           "source": "클리앙",
-          "rank": 82,
-          "title": "이재명 '이태원 참사 진실 밝힐것'",
-          "url": "https://www.clien.net/service/board/park/19284583?od=T31&po=0&category=0&groupCd=",
-          "score": 54.49
+          "rank": 83,
+          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지",
+          "url": "https://www.clien.net/service/board/park/19284655?od=T31&po=0&category=0&groupCd=",
+          "score": 52.45
         }
       ],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.11,
-      "peak_score": 64.11,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 80,
-          "title": "(역겨움 주의) 성인 그라비아 배우랑 결혼한 남자의 만화랑 콜라보해서 난리난 치이카와",
-          "url": "https://theqoo.net/hot/4389909730",
-          "score": 55.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 87,
-          "title": "안싱글벙글 최근 난리난 충격적이고 기괴한 폭행사망사건",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474043&_dcbest=1&page=1",
-          "score": 53.88
-        }
-      ],
-      "rank": 5,
-      "change": -2
-    },
-    {
-      "id": "if8890818",
-      "title": "‘jtbc’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "jtbc"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 63.11,
-      "peak_score": 63.11,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 85,
-          "title": "JTBC) 네타냐후도 반대파도 과반 확도는 실패",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474097&_dcbest=1&page=1",
-          "score": 54.11
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "성희롱 발언에 무감각해진 JTBC",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169417",
-          "score": 51.61
-        }
-      ],
-      "rank": 6,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 156.4,
-      "post_count": 5,
+      "keyword": "국민",
+      "score": 170.19,
+      "post_count": 6,
       "source_count": 4,
-      "best_rank": 12,
+      "best_rank": 4,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "루리웹",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 17
+      "change": "NEW"
     },
     {
-      "keyword": "쿠폰",
-      "score": 102.54,
-      "post_count": 2,
-      "source_count": 2,
+      "keyword": "최불암",
+      "score": 149.55,
+      "post_count": 6,
+      "source_count": 3,
       "best_rank": 4,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "줄줄",
-      "score": 97.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 14,
+      "keyword": "수사반장",
+      "score": 141.73,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "별세",
+        "아버지",
+        "영원한"
+      ],
       "rank": 3,
-      "change": 8
+      "change": "NEW"
     },
     {
-      "keyword": "남성",
-      "score": 93.65,
+      "keyword": "1보",
+      "score": 109.3,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
@@ -1204,83 +918,83 @@
       "change": "NEW"
     },
     {
-      "keyword": "대표",
-      "score": 91.75,
-      "post_count": 2,
+      "keyword": "무료",
+      "score": 106.15,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 8,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 9
     },
     {
-      "keyword": "드라마",
-      "score": 89.25,
+      "keyword": "일본인",
+      "score": 94.24,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 19,
       "sources": [
         "더쿠",
-        "인벤"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "카광",
-      "score": 86.74,
+      "keyword": "도시락",
+      "score": 91.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 12,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -6
+      "change": "NEW"
     },
     {
-      "keyword": "듀오",
-      "score": 83.69,
+      "keyword": "하루",
+      "score": 86.0,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 30,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "있습니다",
-      "score": 82.56,
+      "keyword": "남친",
+      "score": 84.81,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 60,
+      "best_rank": 38,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "삼성",
-      "score": 81.51,
+      "keyword": "참사",
+      "score": 84.79,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 24,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1288,11 +1002,11 @@
       "change": "NEW"
     },
     {
-      "keyword": "말하",
-      "score": 81.46,
+      "keyword": "아이",
+      "score": 84.38,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 47,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1302,39 +1016,47 @@
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 79.63,
+      "keyword": "남기고",
+      "score": 84.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 70,
+      "best_rank": 35,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "떠난",
+        "웃음",
+        "파하"
+      ],
       "rank": 12,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 77.46,
+      "keyword": "우두머리",
+      "score": 84.18,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 80,
+      "best_rank": 23,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "2심도",
+        "내란",
+        "윤석열"
+      ],
       "rank": 13,
-      "change": -7
+      "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 76.95,
-      "post_count": 4,
+      "keyword": "무배",
+      "score": 72.21,
+      "post_count": 3,
       "source_count": 1,
-      "best_rank": 19,
+      "best_rank": 31,
       "sources": [
         "뽐뿌"
       ],
@@ -1343,14 +1065,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "jtbc",
-      "score": 75.32,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 85,
+      "keyword": "프로미스나인",
+      "score": 66.19,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 50,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 15,
@@ -1360,51 +1081,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "딸기우유에 물 많이 탔다 말했다고 디시인 고소한 서울우유 사건 퍼지고 입장표명",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77200840?m=humor",
-      "score": 99.38,
-      "views": 34592,
-      "comments": 115
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 기업이 우선이고 국민은 개돼지인 나라..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474091&_dcbest=1&page=1",
-      "score": 82.47,
-      "views": 20705,
-      "comments": 463
-    },
-    {
-      "source": "뽐뿌",
-      "title": "그야말로 테슬라의 시대네요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981041",
-      "score": 80.09,
-      "views": 20634,
-      "comments": 94
-    },
-    {
-      "source": "인벤",
-      "title": "당신은 어느쪽이 더 취향이신가요?",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746689",
-      "score": 73.44,
-      "views": 686,
-      "comments": 10
-    },
-    {
-      "source": "클리앙",
-      "title": "구글 시원하게 빠지네요",
-      "url": "https://www.clien.net/service/board/park/19284610?od=T31&po=0&category=0&groupCd=",
-      "score": 72.93,
-      "views": 483,
-      "comments": 5
+      "title": "의사 수 늘린다고 해결되지 않는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77203771?m=humor",
+      "score": 96.84,
+      "views": 15416,
+      "comments": 69
     },
     {
       "source": "더쿠",
-      "title": "한남 못만나서 양남 만났노",
-      "url": "https://theqoo.net/hot/4389982434",
-      "score": 70.74,
-      "views": 77379,
-      "comments": 604
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "url": "https://theqoo.net/hot/4390326783",
+      "score": 90.0,
+      "views": 37077,
+      "comments": 1358
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 김정은 주변 여자들에 대해 알아보기",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474149&_dcbest=1&page=1",
+      "score": 79.68,
+      "views": 12908,
+      "comments": 102
+    },
+    {
+      "source": "뽐뿌",
+      "title": "여친이랑 모텔 갔는데 여친이 자기 여동생 부름",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=789787",
+      "score": 73.41,
+      "views": 21487,
+      "comments": 34
+    },
+    {
+      "source": "인벤",
+      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
+      "score": 72.72,
+      "views": 2224,
+      "comments": 37
+    },
+    {
+      "source": "클리앙",
+      "title": "고인의 명복을 빕니다.",
+      "url": "https://www.clien.net/service/board/park/19284665?od=T31&po=0&category=0&groupCd=",
+      "score": 69.95,
+      "views": 702,
+      "comments": 3
     }
   ]
 }
