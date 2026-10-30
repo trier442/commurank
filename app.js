@@ -247,7 +247,7 @@ function renderCommunityChampions(){
         </div>
         <span class="community-score">#1 · ${row.count}건</span>
       </li>`).join("")
-    : '<li class="empty">수집 대기 중</li>';
+    : '<li class="empty">현재 표시할 인기글이 없습니다.</li>';
 }
 
 function renderPortal(){
