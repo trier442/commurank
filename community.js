@@ -65,8 +65,7 @@ function render(){
   document.querySelector("#rankingCount").textContent = sourceData().realtime?.length ?? 0;
   document.querySelector("#risingCount").textContent = sourceData().rising?.length ?? 0;
   document.querySelector("#collectorState").textContent =
-    status?.ok && status?.count > 0 ? "정상 수집" :
-    status?.cached && status?.count > 0 ? "캐시 데이터" : "수집 제한";
+    Number(status?.count) > 0 ? "인기글 반영" : "집계 준비 중";
 
   const updated = new Date(liveData?.collected_at || Date.now());
   document.querySelector("#updatedAt").textContent = updated.toLocaleString("ko-KR", {
