@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-30",
   "label": "2026년 10월 30일",
-  "collected_at": "2026-10-30T17:58:49.092844+09:00",
+  "collected_at": "2026-10-30T18:51:26.583895+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세’입니다. 실시간 키워드 상위: #경찰. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 13,
-    "top100_views": 1211776,
-    "top100_comments": 15913
+    "keywords": 19,
+    "top100_views": 1077919,
+    "top100_comments": 13015
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#경찰",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "경찰"
+      "title": "#단독",
+      "text": "3개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-10-30T17:58:49.092844+09:00"
         }
       },
-      "score": 108.48,
+      "score": 108.41,
       "views": 31083,
       "likes": 173,
       "comments": 90,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "안드로이드는 아이폰보다 램도 많은데 뭐함?",
@@ -88,12 +88,41 @@
           "last_seen": "2026-10-30T11:51:28.512923+09:00"
         }
       },
-      "score": 107.97,
+      "score": 107.9,
       "views": 19875,
       "likes": 192,
       "comments": 103,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "왜 내가 한국 사람이라는 걸 못 믿는 거야?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77209579?m=humor",
+      "first_seen": "2026-10-30T18:51:26.583895+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
+      "peak_score": 98.12,
+      "max_views": 35550,
+      "max_likes": 231,
+      "max_comments": 112,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 98.12,
+          "max_views": 35550,
+          "max_likes": 231,
+          "max_comments": 112,
+          "appearances": 1,
+          "last_seen": "2026-10-30T18:51:26.583895+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 35550,
+      "likes": 231,
+      "comments": 112,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "현실화 되고있는 자궁이식 수술.jpg",
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-30T04:16:54.241233+09:00"
         }
       },
-      "score": 106.54,
+      "score": 106.46,
       "views": 23041,
       "likes": 70,
       "comments": 79,
@@ -146,7 +175,7 @@
           "last_seen": "2026-10-30T07:58:19.786461+09:00"
         }
       },
-      "score": 106.36,
+      "score": 106.29,
       "views": 13950,
       "likes": 171,
       "comments": 43,
@@ -175,12 +204,41 @@
           "last_seen": "2026-10-30T07:58:19.786461+09:00"
         }
       },
-      "score": 106.12,
+      "score": 106.05,
       "views": 21384,
       "likes": 176,
       "comments": 77,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "행안부 장관 \"콜 오브 듀티 제재 검토\".. 콜옵 측 \"머리숙여 사과\".news",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474197&_dcbest=1&page=1",
+      "first_seen": "2026-10-30T11:34:34.934267+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
+      "peak_score": 94.21,
+      "max_views": 42791,
+      "max_likes": 332,
+      "max_comments": 1790,
+      "appearances": 4,
+      "daily_stats": {
+        "2026-10-30": {
+          "max_score": 94.21,
+          "max_views": 42791,
+          "max_likes": 332,
+          "max_comments": 1790,
+          "appearances": 4,
+          "last_seen": "2026-10-30T18:51:26.583895+09:00"
+        }
+      },
+      "score": 105.75,
+      "views": 42791,
+      "likes": 332,
+      "comments": 1790,
+      "active_days": 1,
+      "change": 1
     },
     {
       "title": "뚜레쥬르 근황.jpg",
@@ -204,12 +262,12 @@
           "last_seen": "2026-10-30T11:34:34.934267+09:00"
         }
       },
-      "score": 105.56,
+      "score": 105.49,
       "views": 28789,
       "likes": 187,
       "comments": 76,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "민중사관으로 인한 역사왜곡 이거 2개정도가 크지 않을까?",
@@ -233,41 +291,12 @@
           "last_seen": "2026-10-30T11:51:28.512923+09:00"
         }
       },
-      "score": 105.31,
+      "score": 105.23,
       "views": 8201,
       "likes": 96,
       "comments": 77,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "행안부 장관 \"콜 오브 듀티 제재 검토\".. 콜옵 측 \"머리숙여 사과\".news",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474197&_dcbest=1&page=1",
-      "first_seen": "2026-10-30T11:34:34.934267+09:00",
-      "last_seen": "2026-10-30T17:58:49.092844+09:00",
-      "peak_score": 94.21,
-      "max_views": 42114,
-      "max_likes": 327,
-      "max_comments": 1768,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-10-30": {
-          "max_score": 94.21,
-          "max_views": 42114,
-          "max_likes": 327,
-          "max_comments": 1768,
-          "appearances": 3,
-          "last_seen": "2026-10-30T17:58:49.092844+09:00"
-        }
-      },
-      "score": 105.26,
-      "views": 42114,
-      "likes": 327,
-      "comments": 1768,
-      "active_days": 1,
-      "change": 2
+      "change": -2
     },
     {
       "title": "의사 수 늘린다고 해결되지 않는 이유",
@@ -291,73 +320,104 @@
           "last_seen": "2026-10-30T03:26:30.068546+09:00"
         }
       },
-      "score": 105.15,
+      "score": 105.08,
       "views": 15416,
       "likes": 64,
       "comments": 69,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "치킨뼈로 끓인 닭칼국수... 재료 듣고 다 토했어요.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77204643?m=humor",
-      "first_seen": "2026-10-30T04:16:54.241233+09:00",
-      "last_seen": "2026-10-30T04:16:54.241233+09:00",
-      "peak_score": 96.6,
-      "max_views": 20468,
-      "max_likes": 80,
-      "max_comments": 117,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-10-30": {
-          "max_score": 96.6,
-          "max_views": 20468,
-          "max_likes": 80,
-          "max_comments": 117,
-          "appearances": 1,
-          "last_seen": "2026-10-30T04:16:54.241233+09:00"
-        }
-      },
-      "score": 104.98,
-      "views": 20468,
-      "likes": 80,
-      "comments": 117,
-      "active_days": 1,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "행안부 장관 \"콜 오브 듀티 제재 검토\".. 콜옵 측 \"머리숙여 사과\".news",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474197&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 2차 (10/30)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108510",
       "category": "이슈",
-      "views": 42114,
-      "likes": 327,
-      "comments": 1768,
-      "score": 53.07,
+      "views": 8987,
+      "likes": 11,
+      "comments": 1,
+      "score": 65.24,
       "change": 0,
-      "current_rank": 90,
+      "current_rank": 25,
       "new_entry": false,
-      "delta_views": 14113,
-      "delta_likes": 53,
-      "delta_comments": 615,
+      "delta_views": 855,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 367
+      "window_minutes": 53
+    },
+    {
+      "source": "디시인사이드",
+      "title": "‘박원순 피해자 신상공개·후배 성추행’ 정철승, 징역 1년 6개월법정구속",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474292&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3947,
+      "likes": 68,
+      "comments": 122,
+      "score": 62.93,
+      "change": 11,
+      "current_rank": 35,
+      "new_entry": false,
+      "delta_views": 2775,
+      "delta_likes": 40,
+      "delta_comments": 79,
+      "rank_gain": 11,
+      "rising_score": 94.5,
+      "rising_rank": 2,
+      "window_minutes": 53
+    },
+    {
+      "source": "디시인사이드",
+      "title": "와들와들 인도에서 철수한 중국 사채업의 근황의 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474289&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 6281,
+      "likes": 61,
+      "comments": 72,
+      "score": 61.13,
+      "change": 0,
+      "current_rank": 44,
+      "new_entry": false,
+      "delta_views": 2918,
+      "delta_likes": 33,
+      "delta_comments": 28,
+      "rank_gain": 0,
+      "rising_score": 91.67,
+      "rising_rank": 3,
+      "window_minutes": 53
+    },
+    {
+      "source": "더쿠",
+      "title": "게을러서 부지런한 사람 알아?",
+      "url": "https://theqoo.net/hot/4390896834",
+      "category": "이슈",
+      "views": 27118,
+      "likes": 0,
+      "comments": 454,
+      "score": 70.68,
+      "change": 44,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 22504,
+      "delta_likes": 0,
+      "delta_comments": 362,
+      "rank_gain": 44,
+      "rising_score": 91.25,
+      "rising_rank": 4,
+      "window_minutes": 53
     },
     {
       "source": "루리웹",
-      "title": "곧 9시 뉴스에서 볼 듯한 자동차 운전자",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77209756?m=humor",
+      "title": "왜 내가 한국 사람이라는 걸 못 믿는 거야?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77209579?m=humor",
       "category": "이슈",
-      "views": 31083,
-      "likes": 173,
-      "comments": 90,
-      "score": 98.96,
+      "views": 35550,
+      "likes": 231,
+      "comments": 112,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,18 +425,18 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 2,
-      "window_minutes": 367
+      "rising_score": 83.21,
+      "rising_rank": 5,
+      "window_minutes": 53
     },
     {
       "source": "루리웹",
-      "title": "성우와 캐릭을 일체화 하여 취급하는 일본에서도 이젠 슬슬 문제가 되는 경우",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77211684?m=humor",
+      "title": "여직원이 오늘 고쳐달라고 딸 아이폰들고 출근함.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77210274?m=humor",
       "category": "이슈",
-      "views": 12539,
-      "likes": 102,
-      "comments": 81,
+      "views": 30249,
+      "likes": 247,
+      "comments": 88,
       "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
@@ -386,18 +446,18 @@
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 82.05,
-      "rising_rank": 3,
-      "window_minutes": 367
+      "rising_rank": 6,
+      "window_minutes": 53
     },
     {
       "source": "루리웹",
-      "title": "퇴사] 남아야 하나?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77211894?m=humor",
+      "title": "가세연 때문에 초등학생 아들 친구들한테까지 남창이라고 소문났던 소재원 작가",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77210511?m=humor",
       "category": "이슈",
-      "views": 7483,
-      "likes": 121,
-      "comments": 137,
-      "score": 93.84,
+      "views": 23803,
+      "likes": 273,
+      "comments": 119,
+      "score": 94.67,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,129 +465,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 4,
-      "window_minutes": 367
-    },
-    {
-      "source": "더쿠",
-      "title": "아니 어떻게 이래? 이런 사람이 최소 두 명 이상이란 말이야?",
-      "url": "https://theqoo.net/hot/4390825055",
-      "category": "이슈",
-      "views": 43563,
-      "likes": 0,
-      "comments": 579,
-      "score": 81.68,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.31,
-      "rising_rank": 5,
-      "window_minutes": 367
+      "rising_score": 81.76,
+      "rising_rank": 7,
+      "window_minutes": 53
     },
     {
       "source": "인벤",
-      "title": "13살 많은 점장한테 고백한 20대녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746956",
-      "category": "연예",
-      "views": 2008,
-      "likes": 0,
-      "comments": 23,
-      "score": 80.1,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "title": "당근근황..",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746966",
+      "category": "이슈",
+      "views": 2071,
+      "likes": 1,
+      "comments": 18,
+      "score": 61.04,
+      "change": 0,
+      "current_rank": 45,
+      "new_entry": false,
+      "delta_views": 1609,
+      "delta_likes": 1,
+      "delta_comments": 13,
       "rank_gain": 0,
-      "rising_score": 75.64,
-      "rising_rank": 6,
-      "window_minutes": 367
-    },
-    {
-      "source": "클리앙",
-      "title": "[야구] PO 4차전 기아선발이 네일이네요",
-      "url": "https://www.clien.net/service/board/park/19285028?od=T31&po=0&category=0&groupCd=",
-      "category": "스포츠",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "score": 80.0,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.6,
-      "rising_rank": 7,
-      "window_minutes": 367
-    },
-    {
-      "source": "디시인사이드",
-      "title": "85년생 톱여배우 학폭논란 터짐",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 34798,
-      "likes": 148,
-      "comments": 628,
-      "score": 79.58,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.42,
+      "rising_score": 78.28,
       "rising_rank": 8,
-      "window_minutes": 367
+      "window_minutes": 53
     },
     {
       "source": "인벤",
       "title": "강남에서 유행 한다는 대출",
       "url": "https://www.inven.co.kr/board/webzine/2097/2746953",
       "category": "이슈",
-      "views": 2982,
+      "views": 5105,
       "likes": 0,
-      "comments": 18,
-      "score": 77.6,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 23,
+      "score": 61.6,
+      "change": 0,
+      "current_rank": 42,
+      "new_entry": false,
+      "delta_views": 2123,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 5,
       "rank_gain": 0,
-      "rising_score": 74.59,
+      "rising_score": 74.48,
       "rising_rank": 9,
-      "window_minutes": 367
+      "window_minutes": 53
     },
     {
       "source": "디시인사이드",
       "title": "아주대 소아응급센터장 사표 제출",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 8281,
-      "likes": 110,
-      "comments": 656,
-      "score": 76.15,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 10016,
+      "likes": 128,
+      "comments": 785,
+      "score": 70.09,
+      "change": 0,
+      "current_rank": 16,
+      "new_entry": false,
+      "delta_views": 1735,
+      "delta_likes": 18,
+      "delta_comments": 129,
       "rank_gain": 0,
-      "rising_score": 73.98,
+      "rising_score": 74.44,
       "rising_rank": 10,
-      "window_minutes": 367
+      "window_minutes": 53
     }
   ],
   "issues": [
@@ -771,6 +771,55 @@
       "change": 0
     },
     {
+      "id": "i3bd1b213",
+      "title": "아주대 소아응급센터장 사표 제출",
+      "keywords": [
+        "아주대",
+        "사표",
+        "소아응급센터장",
+        "경찰"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 101.58,
+      "peak_score": 85.09,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "아주대 소아응급센터장 사표 제출",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
+          "score": 70.09
+        },
+        {
+          "source": "더쿠",
+          "rank": 17,
+          "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
+          "url": "https://theqoo.net/hot/4390813567",
+          "score": 69.21
+        },
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "커지는 ‘아주대 압수수색’ 후폭풍···경찰 뒤늦게 고개 숙였지만 소아응급센터장 사표",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746981",
+          "score": 65.97
+        }
+      ],
+      "first_seen": "2026-10-30T17:58:49.092844+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 6,
+      "change": 2
+    },
+    {
       "id": "idfbedf2e",
       "title": "‘85년생’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -778,9 +827,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 98.05,
+      "score": 100.07,
       "peak_score": 88.58,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -788,24 +837,62 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 7,
+          "rank": 14,
           "title": "85년생 톱여배우 학폭논란 터짐",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
-          "score": 79.58
+          "score": 70.4
         },
         {
           "source": "더쿠",
-          "rank": 29,
+          "rank": 57,
           "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
           "url": "https://theqoo.net/hot/4390743250",
-          "score": 67.05
+          "score": 59.74
         }
       ],
       "first_seen": "2026-10-30T17:58:49.092844+09:00",
-      "last_seen": "2026-10-30T17:58:49.092844+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.66,
+      "peak_score": 85.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "NBS 지지율 역전 나왔네요. 이재명 대통령님의 정치가 드디어 진가를 발휘하는 듯합니",
+          "url": "https://www.clien.net/service/board/park/19285048?od=T31&po=0&category=0&groupCd=",
+          "score": 75.19
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 31,
+          "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+          "score": 63.88
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -843,163 +930,160 @@
       "last_seen": "2026-10-30T11:51:28.512923+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i3bd1b213",
-      "title": "아주대 소아응급센터장 사표 제출",
-      "keywords": [
-        "사표",
-        "아주대",
-        "소아응급센터장"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.62,
-      "peak_score": 84.15,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "아주대 소아응급센터장 사표 제출",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
-          "score": 76.15
-        },
-        {
-          "source": "더쿠",
-          "rank": 12,
-          "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
-          "url": "https://theqoo.net/hot/4390813567",
-          "score": 72.53
-        }
-      ],
-      "first_seen": "2026-10-30T17:58:49.092844+09:00",
-      "last_seen": "2026-10-30T17:58:49.092844+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "id": "i4218d941",
-      "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
-      "keywords": [
-        "삭제",
-        "참사",
-        "위로와",
-        "이태원",
-        "콜오브듀티"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.4,
-      "peak_score": 82.93,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 10,
-          "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746821",
-          "score": 74.93
-        },
-        {
-          "source": "더쿠",
-          "rank": 49,
-          "title": "'콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
-          "url": "https://theqoo.net/hot/4390588344",
-          "score": 62.0
-        }
-      ],
-      "first_seen": "2026-10-27T23:40:23.126135+09:00",
-      "last_seen": "2026-10-30T11:51:28.512923+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
       "change": -2
     },
     {
-      "id": "i8794fc33",
-      "title": "‘도시락’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9785fc48",
+      "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "도시락"
+        "드디어"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.02,
-      "peak_score": 80.53,
-      "appearances": 2,
+      "score": 93.66,
+      "peak_score": 84.19,
+      "appearances": 1,
       "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "NBS 지지율 역전 나왔네요. 이재명 대통령님의 정치가 드디어 진가를 발휘하는 듯합니",
+          "url": "https://www.clien.net/service/board/park/19285048?od=T31&po=0&category=0&groupCd=",
+          "score": 75.19
+        },
+        {
+          "source": "루리웹",
+          "rank": 76,
+          "title": "아 ㅋㅋㅋㅋ 드디어 저격빌런 뒤졌넼ㅋㅋㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77213144?m=humor_only&t=now",
+          "score": 57.41
+        }
+      ],
+      "first_seen": "2026-09-30T21:25:18.067717+09:00",
+      "last_seen": "2026-10-30T18:51:26.583895+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i3bd1b213",
+      "title": "아주대 소아응급센터장 사표 제출",
+      "keywords": [
+        "아주대",
+        "사표",
+        "소아응급센터장",
+        "경찰"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 85.09,
+      "peak_score": 85.09,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
         "디시인사이드",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 13,
-          "title": "원이 도시락 2종 출시!",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746722",
-          "score": 71.53
-        },
-        {
           "source": "디시인사이드",
-          "rank": 79,
-          "title": "[단독] 통인시장 엽전 도시락 수수료 20% '논란'…5년간 6억 떼어가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474137&_dcbest=1&page=1",
-          "score": 53.84
-        }
-      ],
-      "first_seen": "2026-10-30T03:26:30.068546+09:00",
-      "last_seen": "2026-10-30T04:16:54.241233+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ifc808af9",
-      "title": "‘메가커피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "메가커피"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 79.61,
-      "peak_score": 79.61,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 20,
-          "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 2차 (10/30)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108510",
-          "score": 69.61
+          "rank": 16,
+          "title": "아주대 소아응급센터장 사표 제출",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
+          "score": 70.09
         },
         {
-          "source": "뽐뿌",
-          "rank": 22,
-          "title": "메가커피 대단하네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170646",
-          "score": 69.23
+          "source": "더쿠",
+          "rank": 17,
+          "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
+          "url": "https://theqoo.net/hot/4390813567",
+          "score": 69.21
+        },
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "커지는 ‘아주대 압수수색’ 후폭풍···경찰 뒤늦게 고개 숙였지만 소아응급센터장 사표",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746981",
+          "score": 65.97
         }
       ],
       "rank": 1,
+      "change": 2
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 85.19,
+      "peak_score": 85.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "NBS 지지율 역전 나왔네요. 이재명 대통령님의 정치가 드디어 진가를 발휘하는 듯합니",
+          "url": "https://www.clien.net/service/board/park/19285048?od=T31&po=0&category=0&groupCd=",
+          "score": 75.19
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 31,
+          "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+          "score": 63.88
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i9785fc48",
+      "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "드디어"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.19,
+      "peak_score": 84.19,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "NBS 지지율 역전 나왔네요. 이재명 대통령님의 정치가 드디어 진가를 발휘하는 듯합니",
+          "url": "https://www.clien.net/service/board/park/19285048?od=T31&po=0&category=0&groupCd=",
+          "score": 75.19
+        },
+        {
+          "source": "루리웹",
+          "rank": 76,
+          "title": "아 ㅋㅋㅋㅋ 드디어 저격빌런 뒤졌넼ㅋㅋㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77213144?m=humor_only&t=now",
+          "score": 57.41
+        }
+      ],
+      "rank": 3,
       "change": "NEW"
     },
     {
@@ -1010,8 +1094,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.58,
-      "peak_score": 88.58,
+      "score": 79.4,
+      "peak_score": 79.4,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1020,136 +1104,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 7,
+          "rank": 14,
           "title": "85년생 톱여배우 학폭논란 터짐",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
-          "score": 79.58
+          "score": 70.4
         },
         {
           "source": "더쿠",
-          "rank": 29,
+          "rank": 57,
           "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
           "url": "https://theqoo.net/hot/4390743250",
-          "score": 67.05
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i3bd1b213",
-      "title": "아주대 소아응급센터장 사표 제출",
-      "keywords": [
-        "사표",
-        "아주대",
-        "소아응급센터장"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.15,
-      "peak_score": 84.15,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "아주대 소아응급센터장 사표 제출",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
-          "score": 76.15
-        },
-        {
-          "source": "더쿠",
-          "rank": 12,
-          "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
-          "url": "https://theqoo.net/hot/4390813567",
-          "score": 72.53
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i5c282c10",
-      "title": "‘전환용’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "전환용"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.88,
-      "peak_score": 79.88,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "조국혁신당) 이 합당 언급에 \"국면 전환용 단호히 거부\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170881",
-          "score": 70.88
-        },
-        {
-          "source": "인벤",
-          "rank": 30,
-          "title": "국면 전환용 소재가 되는것은 거부합니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746951",
-          "score": 66.88
+          "score": 59.74
         }
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "id": "i5596dd0a",
-      "title": "‘있나요’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9b0369e1",
+      "title": "‘한다는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "있나요"
+        "한다는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.27,
-      "peak_score": 72.27,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 47,
-          "title": "잔디에서 아이언 연습할 수 있는 연습장이 있나요?",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=golf&no=39094",
-          "score": 63.27
-        },
-        {
-          "source": "클리앙",
-          "rank": 72,
-          "title": "경찰이 압수수색 하면서 의료행위 방해했다는 증거 있나요?",
-          "url": "https://www.clien.net/service/board/park/19284999?od=T31&po=0&category=0&groupCd=",
-          "score": 58.16
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i2d13be8d",
-      "title": "‘살해한’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "살해한"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.36,
-      "peak_score": 69.36,
+      "score": 75.34,
+      "peak_score": 75.34,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1157,18 +1137,52 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 62,
-          "title": "주식 실패…혼자 죽기 무서워서\" 일본 여성 살해한 30대",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746942",
-          "score": 60.36
+          "source": "디시인사이드",
+          "rank": 22,
+          "title": "와들와들 사람 유입 없이 빠지기만 한다는 선박 제조업",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474306&_dcbest=1&page=1",
+          "score": 66.34
         },
         {
+          "source": "인벤",
+          "rank": 42,
+          "title": "강남에서 유행 한다는 대출",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746953",
+          "score": 61.6
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i09bfa95c",
+      "title": "‘다문화’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "다문화"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.88,
+      "peak_score": 72.88,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
           "source": "디시인사이드",
-          "rank": 100,
-          "title": "'주식투자 손실로 혼자죽기 싫어 일본여성 살해한 30대남성'",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474213&_dcbest=1&page=1",
-          "score": 50.39
+          "rank": 31,
+          "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+          "score": 63.88
+        },
+        {
+          "source": "클리앙",
+          "rank": 77,
+          "title": "대통령 다문화 게시글에 대해 커버 아닌 커버를 하자면",
+          "url": "https://www.clien.net/service/board/park/19285049?od=T31&po=0&category=0&groupCd=",
+          "score": 57.39
         }
       ],
       "rank": 6,
@@ -1177,90 +1191,90 @@
   ],
   "keywords": [
     {
-      "keyword": "경찰",
-      "score": 121.23,
-      "post_count": 3,
+      "keyword": "단독",
+      "score": 145.26,
+      "post_count": 7,
       "source_count": 3,
-      "best_rank": 12,
+      "best_rank": 20,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 11
     },
     {
       "keyword": "소아응급센터장",
-      "score": 104.39,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
+      "score": 127.32,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 16,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [
         "사표",
         "아주대"
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "85년생",
-      "score": 103.0,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
+      "keyword": "경찰",
+      "score": 126.75,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 17,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "전환용",
-      "score": 97.88,
-      "post_count": 2,
+      "keyword": "이재명",
+      "score": 108.61,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 9,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
-      "aliases": [
-        "국면"
-      ],
+      "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "의혹",
-      "score": 96.13,
-      "post_count": 3,
+      "keyword": "내가",
+      "score": 102.71,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "메가커피",
-      "score": 95.9,
-      "post_count": 3,
+      "keyword": "20대",
+      "score": 96.36,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 12,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 6,
@@ -1268,66 +1282,66 @@
     },
     {
       "keyword": "거부",
-      "score": 95.84,
-      "post_count": 3,
+      "score": 95.05,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "아내",
-      "score": 92.67,
+      "keyword": "드디어",
+      "score": 94.45,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "인벤"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "있나요",
-      "score": 84.96,
+      "keyword": "85년생",
+      "score": 94.04,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 47,
+      "best_rank": 14,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "선물",
-      "score": 82.21,
+      "keyword": "한다",
+      "score": 92.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 64,
+      "best_rank": 22,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "살해한",
-      "score": 78.3,
+      "keyword": "대출",
+      "score": 89.65,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 62,
+      "best_rank": 40,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1337,80 +1351,110 @@
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 76.34,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 13,
+      "keyword": "추가",
+      "score": 89.1,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
       "sources": [
-        "디시인사이드"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
-      "change": -6
+      "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 69.39,
+      "keyword": "의혹",
+      "score": 87.21,
       "post_count": 3,
-      "source_count": 1,
-      "best_rank": 43,
+      "source_count": 2,
+      "best_rank": 57,
       "sources": [
+        "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 13,
+      "change": -8
+    },
+    {
+      "keyword": "일본",
+      "score": 86.63,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "다문화",
+      "score": 86.26,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 31,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "곧 9시 뉴스에서 볼 듯한 자동차 운전자",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77209756?m=humor",
-      "score": 98.96,
-      "views": 31083,
-      "comments": 90
+      "title": "왜 내가 한국 사람이라는 걸 못 믿는 거야?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77209579?m=humor",
+      "score": 98.12,
+      "views": 35550,
+      "comments": 112
+    },
+    {
+      "source": "뽐뿌",
+      "title": "조국혁신당) 이 합당 언급에 \"국면 전환용 단호히 거부\"",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170881",
+      "score": 84.65,
+      "views": 5388,
+      "comments": 36
     },
     {
       "source": "더쿠",
       "title": "아니 어떻게 이래? 이런 사람이 최소 두 명 이상이란 말이야?",
       "url": "https://theqoo.net/hot/4390825055",
-      "score": 81.68,
-      "views": 43563,
-      "comments": 579
+      "score": 78.37,
+      "views": 54814,
+      "comments": 653
     },
     {
       "source": "인벤",
-      "title": "13살 많은 점장한테 고백한 20대녀",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746956",
-      "score": 80.1,
-      "views": 2008,
-      "comments": 23
+      "title": "아이 고추 커지는 주사 맞히신 분 계세요?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746976",
+      "score": 75.35,
+      "views": 1248,
+      "comments": 15
     },
     {
       "source": "클리앙",
-      "title": "[야구] PO 4차전 기아선발이 네일이네요",
-      "url": "https://www.clien.net/service/board/park/19285028?od=T31&po=0&category=0&groupCd=",
-      "score": 80.0,
-      "views": 0,
-      "comments": 0
+      "title": "NBS 지지율 역전 나왔네요. 이재명 대통령님의 정치가 드디어 진가를 발휘하는 듯합니",
+      "url": "https://www.clien.net/service/board/park/19285048?od=T31&po=0&category=0&groupCd=",
+      "score": 75.19,
+      "views": 878,
+      "comments": 8
     },
     {
       "source": "디시인사이드",
       "title": "85년생 톱여배우 학폭논란 터짐",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
-      "score": 79.58,
-      "views": 34798,
-      "comments": 628
-    },
-    {
-      "source": "뽐뿌",
-      "title": "정가은 미모 근황 ㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170857",
-      "score": 74.86,
-      "views": 28052,
-      "comments": 40
+      "score": 70.4,
+      "views": 37482,
+      "comments": 649
     }
   ]
 }
