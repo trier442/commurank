@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-31",
   "label": "2026년 10월 31일",
-  "collected_at": "2026-10-31T15:52:55.931554+09:00",
+  "collected_at": "2026-10-31T19:57:02.764520+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘샘알트먼’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #폴란드. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘샘알트먼’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 18,
-    "top100_views": 878141,
-    "top100_comments": 9033
+    "keywords": 16,
+    "top100_views": 1033882,
+    "top100_comments": 13100
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#폴란드",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "폴란드"
+      "title": "#한국",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-10-31T14:33:31.890853+09:00"
         }
       },
-      "score": 109.69,
+      "score": 109.35,
       "views": 31720,
       "likes": 171,
       "comments": 117,
@@ -88,10 +88,39 @@
           "last_seen": "2026-10-31T15:52:55.931554+09:00"
         }
       },
-      "score": 107.61,
+      "score": 107.28,
       "views": 18614,
       "likes": 172,
       "comments": 84,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "40살 넘었는데 운전면허가 없다.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77223177?m=humor",
+      "first_seen": "2026-10-31T19:57:02.764520+09:00",
+      "last_seen": "2026-10-31T19:57:02.764520+09:00",
+      "peak_score": 97.71,
+      "max_views": 16071,
+      "max_likes": 124,
+      "max_comments": 141,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-10-31": {
+          "max_score": 97.71,
+          "max_views": 16071,
+          "max_likes": 124,
+          "max_comments": 141,
+          "appearances": 1,
+          "last_seen": "2026-10-31T19:57:02.764520+09:00"
+        }
+      },
+      "score": 107.23,
+      "views": 16071,
+      "likes": 124,
+      "comments": 141,
       "active_days": 1,
       "change": "NEW"
     },
@@ -117,7 +146,7 @@
           "last_seen": "2026-10-31T00:53:20.343153+09:00"
         }
       },
-      "score": 106.82,
+      "score": 106.48,
       "views": 30597,
       "likes": 165,
       "comments": 89,
@@ -146,7 +175,7 @@
           "last_seen": "2026-10-31T06:08:07.944107+09:00"
         }
       },
-      "score": 106.68,
+      "score": 106.35,
       "views": 7282,
       "likes": 71,
       "comments": 51,
@@ -175,7 +204,7 @@
           "last_seen": "2026-10-31T06:08:07.944107+09:00"
         }
       },
-      "score": 106.48,
+      "score": 106.15,
       "views": 7313,
       "likes": 68,
       "comments": 51,
@@ -204,7 +233,7 @@
           "last_seen": "2026-10-31T01:39:29.226900+09:00"
         }
       },
-      "score": 106.05,
+      "score": 105.71,
       "views": 13833,
       "likes": 88,
       "comments": 75,
@@ -233,7 +262,7 @@
           "last_seen": "2026-10-31T14:33:31.890853+09:00"
         }
       },
-      "score": 105.98,
+      "score": 105.64,
       "views": 40567,
       "likes": 652,
       "comments": 1039,
@@ -262,7 +291,7 @@
           "last_seen": "2026-10-31T00:53:20.343153+09:00"
         }
       },
-      "score": 105.3,
+      "score": 104.96,
       "views": 37579,
       "likes": 121,
       "comments": 107,
@@ -270,154 +299,65 @@
       "change": -1
     },
     {
-      "title": "중국인이 만든 중화 지방 티어표...jpg",
+      "title": "속보)아반떼 계기판 무상장착 이벤트 예정",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77219754?m=humor",
-      "first_seen": "2026-10-31T14:33:31.890853+09:00",
-      "last_seen": "2026-10-31T15:52:55.931554+09:00",
-      "peak_score": 94.5,
-      "max_views": 29231,
-      "max_likes": 61,
-      "max_comments": 88,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-10-31": {
-          "max_score": 94.5,
-          "max_views": 29231,
-          "max_likes": 61,
-          "max_comments": 88,
-          "appearances": 2,
-          "last_seen": "2026-10-31T15:52:55.931554+09:00"
-        }
-      },
-      "score": 104.92,
-      "views": 29231,
-      "likes": 61,
-      "comments": 88,
-      "active_days": 1,
-      "change": 9
-    },
-    {
-      "title": "논란 아닌 논란이 일어난 봉준호 괴물 20주년 포스터",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77216278?m=humor",
-      "first_seen": "2026-10-31T01:39:29.226900+09:00",
-      "last_seen": "2026-10-31T01:39:29.226900+09:00",
-      "peak_score": 96.19,
-      "max_views": 14616,
-      "max_likes": 212,
-      "max_comments": 66,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77222606?m=humor",
+      "first_seen": "2026-10-31T19:57:02.764520+09:00",
+      "last_seen": "2026-10-31T19:57:02.764520+09:00",
+      "peak_score": 95.36,
+      "max_views": 20604,
+      "max_likes": 97,
+      "max_comments": 82,
       "appearances": 1,
       "daily_stats": {
         "2026-10-31": {
-          "max_score": 96.19,
-          "max_views": 14616,
-          "max_likes": 212,
-          "max_comments": 66,
+          "max_score": 95.36,
+          "max_views": 20604,
+          "max_likes": 97,
+          "max_comments": 82,
           "appearances": 1,
-          "last_seen": "2026-10-31T01:39:29.226900+09:00"
+          "last_seen": "2026-10-31T19:57:02.764520+09:00"
         }
       },
-      "score": 104.53,
-      "views": 14616,
-      "likes": 212,
-      "comments": 66,
+      "score": 104.88,
+      "views": 20604,
+      "likes": 97,
+      "comments": 82,
       "active_days": 1,
-      "change": -2
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "트럼프 \"상하원 모두 승리시 국민배당금 667만원\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474483&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 11591,
-      "likes": 94,
-      "comments": 512,
-      "score": 79.52,
-      "change": 11,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 7102,
-      "delta_likes": 46,
-      "delta_comments": 402,
-      "rank_gain": 11,
-      "rising_score": 94.77,
-      "rising_rank": 1,
-      "window_minutes": 79
-    },
-    {
-      "source": "인벤",
-      "title": "결혼준비 하다 현타 온 남자",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2747213",
-      "category": "유머",
-      "views": 4954,
-      "likes": 7,
-      "comments": 26,
-      "score": 68.13,
-      "change": 0,
-      "current_rank": 27,
-      "new_entry": false,
-      "delta_views": 2914,
-      "delta_likes": 6,
-      "delta_comments": 8,
-      "rank_gain": 0,
-      "rising_score": 88.77,
-      "rising_rank": 2,
-      "window_minutes": 79
-    },
-    {
-      "source": "인벤",
-      "title": "한국 운전자들 95% 특징",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2747217",
-      "category": "유머",
-      "views": 2933,
-      "likes": 4,
-      "comments": 15,
-      "score": 68.32,
-      "change": 4,
-      "current_rank": 25,
-      "new_entry": false,
-      "delta_views": 2305,
-      "delta_likes": 4,
-      "delta_comments": 11,
-      "rank_gain": 4,
-      "rising_score": 85.52,
-      "rising_rank": 3,
-      "window_minutes": 79
-    },
-    {
       "source": "더쿠",
-      "title": "[재혼황후] 오늘 영화가좋다에서 공개된 드라마 장면",
-      "url": "https://theqoo.net/hot/4391614561",
-      "category": "연예",
-      "views": 38214,
+      "title": "운동회에서 \"계주 위험하잖아요\"라며 학부모가 민원넣어서 계주 취소됨",
+      "url": "https://theqoo.net/hot/4391686226",
+      "category": "이슈",
+      "views": 46307,
       "likes": 0,
-      "comments": 698,
-      "score": 65.74,
-      "change": 0,
-      "current_rank": 33,
+      "comments": 646,
+      "score": 63.89,
+      "change": 1,
+      "current_rank": 40,
       "new_entry": false,
-      "delta_views": 19888,
+      "delta_views": 36553,
       "delta_likes": 0,
-      "delta_comments": 334,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 4,
-      "window_minutes": 79
+      "delta_comments": 468,
+      "rank_gain": 1,
+      "rising_score": 85.56,
+      "rising_rank": 1,
+      "window_minutes": 244
     },
     {
       "source": "루리웹",
-      "title": "되팔이로 월수입 100만엔을 벌고 있다는 일본인.twit",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77221995?m=humor",
+      "title": "40살 넘었는데 운전면허가 없다.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77223177?m=humor",
       "category": "이슈",
-      "views": 18614,
-      "likes": 172,
-      "comments": 84,
-      "score": 98.09,
+      "views": 16071,
+      "likes": 124,
+      "comments": 141,
+      "score": 97.71,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -425,79 +365,79 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.2,
-      "rising_rank": 5,
-      "window_minutes": 79
-    },
-    {
-      "source": "디시인사이드",
-      "title": "어흐어흐 일본 여배우한테 고백공격당하는 만화",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474477&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 12825,
-      "likes": 82,
-      "comments": 152,
-      "score": 70.63,
-      "change": 3,
-      "current_rank": 18,
-      "new_entry": false,
-      "delta_views": 6142,
-      "delta_likes": 40,
-      "delta_comments": 61,
-      "rank_gain": 3,
-      "rising_score": 83.06,
-      "rising_rank": 6,
-      "window_minutes": 79
+      "rising_score": 83.04,
+      "rising_rank": 2,
+      "window_minutes": 244
     },
     {
       "source": "루리웹",
-      "title": "왜 요즘 사람들 술을 안마시지.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77222136?m=humor",
+      "title": "속보)아반떼 계기판 무상장착 이벤트 예정",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77222606?m=humor",
       "category": "이슈",
-      "views": 13142,
-      "likes": 91,
-      "comments": 118,
-      "score": 93.41,
-      "change": 0,
-      "current_rank": 3,
-      "new_entry": false,
-      "delta_views": 4455,
-      "delta_likes": 18,
-      "delta_comments": 18,
+      "views": 20604,
+      "likes": 97,
+      "comments": 82,
+      "score": 95.36,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.56,
-      "rising_rank": 7,
-      "window_minutes": 79
+      "rising_score": 82.05,
+      "rising_rank": 3,
+      "window_minutes": 244
     },
     {
       "source": "디시인사이드",
-      "title": "MBC) 경찰, 응급실 압수수색 사진 전면 공개ㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474475&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 8605,
-      "likes": 208,
-      "comments": 354,
-      "score": 76.05,
+      "title": "싱글벙글 한녀 평균 지능",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474491&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 22468,
+      "likes": 91,
+      "comments": 720,
+      "score": 62.63,
       "change": 0,
-      "current_rank": 8,
+      "current_rank": 42,
       "new_entry": false,
-      "delta_views": 3072,
-      "delta_likes": 39,
-      "delta_comments": 121,
+      "delta_views": 14610,
+      "delta_likes": 45,
+      "delta_comments": 434,
       "rank_gain": 0,
-      "rising_score": 80.34,
-      "rising_rank": 8,
-      "window_minutes": 79
+      "rising_score": 81.94,
+      "rising_rank": 4,
+      "window_minutes": 244
+    },
+    {
+      "source": "루리웹",
+      "title": "전 일본총리 \"한일이 연합하면 세계 경제력, 국방력 통합 3위.\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77222348?m=humor",
+      "category": "이슈",
+      "views": 19538,
+      "likes": 202,
+      "comments": 110,
+      "score": 94.25,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.59,
+      "rising_rank": 5,
+      "window_minutes": 244
     },
     {
       "source": "뽐뿌",
-      "title": "4달만에 1억 5천 날렸습니다. 저 괜찮은걸까요?",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237803",
-      "category": "이슈",
-      "views": 15694,
-      "likes": 4,
-      "comments": 114,
-      "score": 86.2,
+      "title": "여자는 가슴 크면 사회생활 편해진다는 여자",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790198",
+      "category": "유머",
+      "views": 19802,
+      "likes": 25,
+      "comments": 20,
+      "score": 86.22,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -505,29 +445,89 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.2,
-      "rising_rank": 9,
-      "window_minutes": 79
+      "rising_score": 78.21,
+      "rising_rank": 6,
+      "window_minutes": 244
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 한녀 평균 지능",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474491&_dcbest=1&page=1",
+      "source": "뽐뿌",
+      "title": "삼성 갤럭시 모델이 된 리센느 근황",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171571",
       "category": "이슈",
-      "views": 7858,
-      "likes": 46,
-      "comments": 286,
-      "score": 75.68,
+      "views": 23501,
+      "likes": 21,
+      "comments": 63,
+      "score": 85.36,
       "change": "NEW",
-      "current_rank": 9,
+      "current_rank": 5,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.79,
+      "rising_score": 77.85,
+      "rising_rank": 7,
+      "window_minutes": 244
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 지방 의료 헌신하려던 의사가 다시 서울로 올라간 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474537&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13258,
+      "likes": 124,
+      "comments": 248,
+      "score": 83.44,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.04,
+      "rising_rank": 8,
+      "window_minutes": 244
+    },
+    {
+      "source": "더쿠",
+      "title": "아니 여자키 162보고 작다는 사람들 여자맞아?",
+      "url": "https://theqoo.net/hot/4391735536",
+      "category": "이슈",
+      "views": 57982,
+      "likes": 0,
+      "comments": 1277,
+      "score": 80.21,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.69,
+      "rising_rank": 9,
+      "window_minutes": 244
+    },
+    {
+      "source": "디시인사이드",
+      "title": "토스 인텔 종토방 조롱글 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474529&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 15694,
+      "likes": 184,
+      "comments": 149,
+      "score": 77.07,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.37,
       "rising_rank": 10,
-      "window_minutes": 79
+      "window_minutes": 244
     }
   ],
   "issues": [
@@ -654,6 +654,44 @@
       "change": 0
     },
     {
+      "id": "icb916b20",
+      "title": "‘의사가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "의사가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.91,
+      "peak_score": 92.44,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "싱글벙글 지방 의료 헌신하려던 의사가 다시 서울로 올라간 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474537&_dcbest=1&page=1",
+          "score": 83.44
+        },
+        {
+          "source": "클리앙",
+          "rank": 69,
+          "title": "우리나라 의료의 문제는 능력있는 의사가 의원차린다는 겁니다.",
+          "url": "https://www.clien.net/service/board/park/19285478?od=T31&po=0&category=0&groupCd=",
+          "score": 56.92
+        }
+      ],
+      "first_seen": "2026-10-31T19:57:02.764520+09:00",
+      "last_seen": "2026-10-31T19:57:02.764520+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "i3ccc2d51",
       "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -688,8 +726,8 @@
       "last_seen": "2026-10-31T09:50:39.275708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i3eced5eb",
@@ -727,8 +765,8 @@
       "last_seen": "2026-10-31T08:56:53.590058+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i839a5251",
@@ -765,7 +803,49 @@
       "last_seen": "2026-10-31T09:50:39.275708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i6614b490",
+      "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
+      "keywords": [
+        "대라",
+        "얼굴",
+        "가까이",
+        "시험에",
+        "금지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.17,
+      "peak_score": 82.68,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
+          "url": "https://theqoo.net/hot/4391665502",
+          "score": 70.74
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 82,
+          "title": "[단독]“시험에 안경 착용 금지…얼굴 가까이 대라”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474493&_dcbest=1&page=1",
+          "score": 54.49
+        }
+      ],
+      "first_seen": "2026-10-31T15:52:55.931554+09:00",
+      "last_seen": "2026-10-31T19:57:02.764520+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": 0
     },
     {
@@ -803,50 +883,8 @@
       "last_seen": "2026-10-31T06:08:07.944107+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i6614b490",
-      "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
-      "keywords": [
-        "안경",
-        "시험에",
-        "대라",
-        "얼굴",
-        "가까이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.15,
-      "peak_score": 82.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
-          "url": "https://theqoo.net/hot/4391665502",
-          "score": 74.68
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 36,
-          "title": "[단독]“시험에 안경 착용 금지…얼굴 가까이 대라”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474493&_dcbest=1&page=1",
-          "score": 65.23
-        }
-      ],
-      "first_seen": "2026-10-31T15:52:55.931554+09:00",
-      "last_seen": "2026-10-31T15:52:55.931554+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i171ab594",
@@ -885,66 +923,59 @@
       "last_seen": "2026-10-31T14:33:31.890853+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "ie0e43e2f",
-      "title": "[스팀] Asleep: Act 1 (무료)",
-      "keywords": [
-        "스팀",
-        "act",
-        "무료",
-        "asleep"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.83,
-      "peak_score": 81.36,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 14,
-          "title": "[스팀] Asleep: Act 1 (무료)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108533",
-          "score": 73.36
-        },
-        {
-          "source": "인벤",
-          "rank": 17,
-          "title": "스팀 무료 게임 - Asleep: Act 1",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747084",
-          "score": 72.23
-        }
-      ],
-      "first_seen": "2026-10-31T06:08:07.944107+09:00",
-      "last_seen": "2026-10-31T06:08:07.944107+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
       "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i6614b490",
-      "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
+      "id": "icb916b20",
+      "title": "‘의사가’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "안경",
-        "시험에",
-        "대라",
-        "얼굴",
-        "가까이"
+        "의사가"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 82.68,
-      "peak_score": 82.68,
+      "score": 92.44,
+      "peak_score": 92.44,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "싱글벙글 지방 의료 헌신하려던 의사가 다시 서울로 올라간 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474537&_dcbest=1&page=1",
+          "score": 83.44
+        },
+        {
+          "source": "클리앙",
+          "rank": 69,
+          "title": "우리나라 의료의 문제는 능력있는 의사가 의원차린다는 겁니다.",
+          "url": "https://www.clien.net/service/board/park/19285478?od=T31&po=0&category=0&groupCd=",
+          "score": 56.92
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i6614b490",
+      "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
+      "keywords": [
+        "대라",
+        "얼굴",
+        "가까이",
+        "시험에",
+        "금지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.74,
+      "peak_score": 78.74,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -953,144 +984,260 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 11,
+          "rank": 18,
           "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
           "url": "https://theqoo.net/hot/4391665502",
-          "score": 74.68
+          "score": 70.74
         },
         {
           "source": "디시인사이드",
-          "rank": 36,
+          "rank": 82,
           "title": "[단독]“시험에 안경 착용 금지…얼굴 가까이 대라”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474493&_dcbest=1&page=1",
-          "score": 65.23
+          "score": 54.49
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
-      "id": "i7644209b",
-      "title": "운동회에서 \"계주 위험하잖아요\"라며 학부모가 민원넣어서 계주 취소됨",
+      "id": "i8cf86a03",
+      "title": "“유학와서 월 330만원씩?”…외국인 ‘꿀알바’에 초강수 나왔다",
       "keywords": [
-        "취소됨",
-        "계주",
-        "학부모가"
+        "나왔다",
+        "외국인",
+        "330만원씩",
+        "꿀알바",
+        "초강수",
+        "유학와서"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.0,
-      "peak_score": 72.0,
+      "score": 70.44,
+      "peak_score": 70.44,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 41,
-          "title": "운동회에서 \"계주 위험하잖아요\"라며 학부모가 민원넣어서 계주 취소됨",
-          "url": "https://theqoo.net/hot/4391686226",
-          "score": 64.0
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "“유학와서 월 330만원씩?”…외국인 ‘꿀알바’에 초강수 나왔다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474521&_dcbest=1&page=1",
+          "score": 62.44
         },
         {
           "source": "루리웹",
-          "rank": 62,
-          "title": "학부모가 민원 넣어서 계주 취소됨.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77223090?m=humor_only&t=now",
-          "score": 60.03
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i4f7064f0",
-      "title": "‘폴란드’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "폴란드"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.77,
-      "peak_score": 64.77,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 81,
-          "title": "폴란드, 쿠데타 발생",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747206",
-          "score": 55.77
-        },
-        {
-          "source": "더쿠",
-          "rank": 100,
-          "title": "폴란드 지금 난리남",
-          "url": "https://theqoo.net/hot/4391580344",
-          "score": 51.42
+          "rank": 88,
+          "title": "“유학와서 월 330만원씩?”…외국인 ‘꿀알바’에 초강수 나왔다",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77225555?m=humor_only&t=now",
+          "score": 53.24
         }
       ],
       "rank": 3,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "id": "i5950f46e",
+      "title": "남대문시장에서 불편한것 두가지",
+      "keywords": [
+        "불편한것",
+        "두가지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 65.48,
+      "peak_score": 65.48,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 64,
+          "title": "남대문시장에서 불편한것 두가지",
+          "url": "https://www.clien.net/service/board/park/19285486?od=T31&po=0&category=0&groupCd=",
+          "score": 57.48
+        },
+        {
+          "source": "인벤",
+          "rank": 83,
+          "title": "남대문 시장에서 불편한것 단 두가지",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747303",
+          "score": 54.23
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "폴란드",
-      "score": 109.73,
-      "post_count": 3,
+      "keyword": "한국",
+      "score": 126.8,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 38,
+      "best_rank": 13,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "keyword": "여성",
-      "score": 109.52,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 64,
-      "sources": [
-        "더쿠",
+        "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": "NEW"
+      "rank": 1,
+      "change": 4
     },
     {
-      "keyword": "만든",
-      "score": 101.55,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 2,
+      "keyword": "시험",
+      "score": 120.25,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 18,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 2
+    },
+    {
+      "keyword": "다시",
+      "score": 113.32,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "시험",
-      "score": 99.34,
+      "keyword": "의사",
+      "score": 106.51,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 99.84,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 1
+    },
+    {
+      "keyword": "의료",
+      "score": 99.35,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "없다",
+      "score": 98.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "안경",
+      "score": 97.46,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "지방",
+      "score": 94.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 92.39,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 12,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "무료",
+      "score": 89.77,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "착용",
+      "score": 88.47,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 18,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -1099,164 +1246,56 @@
         "가까",
         "금지",
         "대라",
-        "안경",
         "얼굴"
       ],
-      "rank": 4,
+      "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 96.98,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 19,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 4
-    },
-    {
-      "keyword": "일본",
-      "score": 91.37,
+      "keyword": "330만원씩",
+      "score": 82.6,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": -4
-    },
-    {
-      "keyword": "남편",
-      "score": 87.95,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 49,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "봐야",
-      "score": 87.63,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 44,
       "sources": [
         "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "keyword": "특징",
-      "score": 87.34,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 25,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "학부모",
-      "score": 87.24,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 41,
-      "sources": [
-        "더쿠",
         "루리웹"
       ],
       "aliases": [
-        "계주",
-        "취소됨"
+        "꿀알바",
+        "나왔다",
+        "외국인",
+        "유학와서",
+        "초강수"
       ],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "당시",
-      "score": 85.15,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 21,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "발생",
-      "score": 84.65,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 39,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": -4
-    },
-    {
-      "keyword": "망한",
-      "score": 84.61,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "많은",
-      "score": 82.14,
+      "keyword": "불편한것",
+      "score": 80.24,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 61,
+      "best_rank": 64,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "두가지"
+      ],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "아내",
-      "score": 81.92,
+      "keyword": "시작",
+      "score": 80.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 48,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 15,
@@ -1266,51 +1305,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "되팔이로 월수입 100만엔을 벌고 있다는 일본인.twit",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77221995?m=humor",
-      "score": 98.09,
-      "views": 18614,
-      "comments": 84
+      "title": "40살 넘었는데 운전면허가 없다.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77223177?m=humor",
+      "score": 97.71,
+      "views": 16071,
+      "comments": 141
     },
     {
       "source": "뽐뿌",
-      "title": "4달만에 1억 5천 날렸습니다. 저 괜찮은걸까요?",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237803",
-      "score": 86.2,
-      "views": 15694,
-      "comments": 114
+      "title": "여자는 가슴 크면 사회생활 편해진다는 여자",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790198",
+      "score": 86.22,
+      "views": 19802,
+      "comments": 20
     },
     {
       "source": "디시인사이드",
-      "title": "트럼프 \"상하원 모두 승리시 국민배당금 667만원\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474483&_dcbest=1&page=1",
-      "score": 79.52,
-      "views": 11591,
-      "comments": 512
+      "title": "싱글벙글 지방 의료 헌신하려던 의사가 다시 서울로 올라간 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474537&_dcbest=1&page=1",
+      "score": 83.44,
+      "views": 13258,
+      "comments": 248
     },
     {
       "source": "더쿠",
-      "title": "시험에 안경 착용 금지…얼굴 가까이 대라",
-      "url": "https://theqoo.net/hot/4391665502",
-      "score": 74.68,
-      "views": 25179,
-      "comments": 432
+      "title": "아니 여자키 162보고 작다는 사람들 여자맞아?",
+      "url": "https://theqoo.net/hot/4391735536",
+      "score": 80.21,
+      "views": 57982,
+      "comments": 1277
     },
     {
       "source": "인벤",
-      "title": "반년간짝사랑한 동기한테 고백함",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2747236",
-      "score": 74.44,
-      "views": 976,
+      "title": "미국 M7 핵폭탄 맞았나봄..",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747305",
+      "score": 73.5,
+      "views": 1341,
       "comments": 9
     },
     {
       "source": "클리앙",
-      "title": "의료글 그만쓰셔도 될거 같아요.",
-      "url": "https://www.clien.net/service/board/park/19285388?od=T31&po=0&category=0&groupCd=",
-      "score": 70.09,
-      "views": 1233,
-      "comments": 43
+      "title": "비급여 분야를 망하게 해서 필수과로 의사를 보내자는 이야기에 숨은 뜻",
+      "url": "https://www.clien.net/service/board/park/19285491?od=T31&po=0&category=0&groupCd=",
+      "score": 70.99,
+      "views": 374,
+      "comments": 17
     }
   ]
 }
