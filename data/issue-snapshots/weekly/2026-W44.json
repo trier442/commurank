@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-11-01T18:43:20.593439+09:00",
+  "collected_at": "2026-11-01T19:52:30.235341+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -422,6 +422,45 @@
       "change": 0
     },
     {
+      "id": "ifd0be149",
+      "title": "‘나왔다’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "나왔다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.64,
+      "peak_score": 106.71,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 28,
+          "title": "야ㅋㅋㅋ 씹덕색히 가방에서 피규어 나왔다 ㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77237377?m=humor_only&t=now",
+          "score": 68.86
+        },
+        {
+          "source": "인벤",
+          "rank": 48,
+          "title": "“유학와서 월 330만원씩?”…외국인 ‘꿀알바’에 초강수 나왔다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747538",
+          "score": 61.73
+        }
+      ],
+      "first_seen": "2026-10-27T15:14:20.454275+09:00",
+      "last_seen": "2026-11-01T19:52:30.235341+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": 3
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -458,7 +497,45 @@
       "last_seen": "2026-10-31T01:39:29.226900+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
+      "change": -1
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 119.31,
+      "peak_score": 101.32,
+      "appearances": 8,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 9,
+          "title": "[네이버페이] 11월 주요 현장결제 이벤트 (11/1~30)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108544",
+          "score": 77.94
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 23,
+          "title": "[네이버페이] 클립 댓글 캠페인 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120229",
+          "score": 71.97
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-01T19:52:30.235341+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 12,
       "change": 0
     },
     {
@@ -498,84 +575,8 @@
       "last_seen": "2026-11-01T09:22:13.833529+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 118.72,
-      "peak_score": 101.32,
-      "appearances": 7,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 42원, 라이브예고 6원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108529",
-          "score": 88.15
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 89,
-          "title": "[네이버페이] KB손해보험 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120197",
-          "score": 53.88
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-31T09:50:39.275708+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "id": "ifd0be149",
-      "title": "‘나왔다’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "나왔다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 118.2,
-      "peak_score": 106.71,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77172541?m=humor",
-          "score": 94.66
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 52,
-          "title": "일본 능지 수준 레전드 하나 나왔다",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473507&_dcbest=1&page=1",
-          "score": 61.43
-        }
-      ],
-      "first_seen": "2026-10-27T15:14:20.454275+09:00",
-      "last_seen": "2026-10-27T17:18:27.944845+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 13,
-      "change": 0
+      "change": -2
     },
     {
       "id": "i47a1e6dd",
@@ -811,7 +812,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ie47b805f",
@@ -849,7 +850,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
