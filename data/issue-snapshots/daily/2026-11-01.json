@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-01",
   "label": "2026년 11월 01일",
-  "collected_at": "2026-11-01T09:22:13.833529+09:00",
+  "collected_at": "2026-11-01T11:26:54.101951+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -121,6 +121,44 @@
       "change": 0
     },
     {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 108.77,
+      "peak_score": 96.28,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 25,
+          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
+          "score": 68.07
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 36,
+          "title": "주말 마라톤 때문에 난리난 버스 노선들 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24523",
+          "score": 65.0
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-11-01T11:26:54.101951+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": 1
+    },
+    {
       "id": "ic62e5c80",
       "title": "‘미니pc’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -155,46 +193,8 @@
       "last_seen": "2026-11-01T01:12:55.542815+09:00",
       "latest_source_count": 2,
       "latest_post_count": 5,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 106.75,
-      "peak_score": 96.28,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "오싹오싹..현재 난리난 홍대 마약 의심 사탕 사건.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474597&_dcbest=1&page=1",
-          "score": 86.28
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 81,
-          "title": "난리난 홍대 13만 인파 및 일본 도톤보리 인파 ㄷㄷ.avi",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172326",
-          "score": 55.58
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-01T02:54:25.285375+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 5,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i4a23876e",
@@ -204,9 +204,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 105.17,
+      "score": 106.61,
       "peak_score": 87.68,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "루리웹",
@@ -214,33 +214,26 @@
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 21,
-          "title": "W코리아 11월 별자리운세 🌟",
-          "url": "https://theqoo.net/hot/4392207185",
-          "score": 69.68
-        },
-        {
           "source": "루리웹",
-          "rank": 47,
+          "rank": 16,
           "title": "[4대 편의점] 11월 제로칼로리 음료 1+1 행사 (11/1~30)",
           "url": "https://bbs.ruliweb.com/market/board/1020/read/108560",
-          "score": 61.69
+          "score": 71.69
         },
         {
           "source": "인벤",
-          "rank": 95,
-          "title": "11월 1일 일요일 날씨 + 운세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747397",
-          "score": 52.24
+          "rank": 78,
+          "title": "2026년 11월 1일 일요일 간추린 뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747450",
+          "score": 58.62
         }
       ],
       "first_seen": "2026-10-29T14:42:11.450079+09:00",
-      "last_seen": "2026-11-01T09:22:13.833529+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
+      "last_seen": "2026-11-01T11:26:54.101951+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 6,
-      "change": 11
+      "change": 0
     },
     {
       "id": "ifce040e4",
@@ -278,7 +271,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib9cf754d",
@@ -324,7 +317,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 8,
-      "change": 7
+      "change": 0
     },
     {
       "id": "i1b672c00",
@@ -362,7 +355,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ib02d3a70",
@@ -407,7 +400,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i2ef7e856",
@@ -445,7 +438,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ifc264642",
@@ -484,7 +477,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ie3fc87c2",
@@ -522,7 +515,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i622ffc1d",
@@ -560,7 +553,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i738512e2",
@@ -600,7 +593,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i6154676e",
@@ -641,7 +634,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i71d2ce21",
@@ -679,7 +672,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i4e73ee85",
@@ -718,6 +711,44 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
+      "change": 0
+    },
+    {
+      "id": "i1b29a66d",
+      "title": "‘20년’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "20년"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.07,
+      "peak_score": 75.6,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 32,
+          "title": "'공원 무료 급식' 전면 금지, 왜?... \"20년 해왔는데\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474657&_dcbest=1&page=1",
+          "score": 66.6
+        },
+        {
+          "source": "인벤",
+          "rank": 76,
+          "title": "[미안하다 사랑한다] 20년 만에 돌아온 레전드 명장면 (Ep.1)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747451",
+          "score": 58.75
+        }
+      ],
+      "first_seen": "2026-11-01T11:26:54.101951+09:00",
+      "last_seen": "2026-11-01T11:26:54.101951+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
       "change": "NEW"
     },
     {
@@ -753,45 +784,6 @@
       ],
       "first_seen": "2026-10-18T15:30:44.980988+09:00",
       "last_seen": "2026-11-01T01:12:55.542815+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -3
-    },
-    {
-      "id": "i12455f1b",
-      "title": "‘광군제’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "광군제"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 82.01,
-      "peak_score": 68.52,
-      "appearances": 2,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 62,
-          "title": "알리 광군제 할인코드들",
-          "url": "https://www.clien.net/service/board/park/19285630?od=T31&po=0&category=0&groupCd=",
-          "score": 59.52
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 90,
-          "title": "[광군제 코드공개] 샥즈 이어폰 3종 + 빅미 전자책 4종 + 베이스어스 헤드셋",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=103436",
-          "score": 53.23
-        }
-      ],
-      "first_seen": "2026-11-01T01:12:55.542815+09:00",
-      "last_seen": "2026-11-01T09:22:13.833529+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
