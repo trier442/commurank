@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-01",
   "label": "2026년 11월 01일",
-  "collected_at": "2026-11-01T11:26:54.101951+09:00",
+  "collected_at": "2026-11-01T15:43:39.117322+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘나왔네’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘난리난’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 6,
-    "cached_sources": 0,
+    "ok_sources": 5,
+    "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 15,
-    "top100_views": 944135,
-    "top100_comments": 8803
+    "keywords": 20,
+    "top100_views": 1018500,
+    "top100_comments": 10228
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘나왔네’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i5af231c6"
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "4개 커뮤니티에서 4개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ife021da2"
     },
     {
       "type": "post",
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#한국",
-      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "text": "4개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
       "keyword": "한국"
     }
   ],
@@ -59,7 +59,7 @@
           "last_seen": "2026-11-01T08:24:08.521487+09:00"
         }
       },
-      "score": 108.65,
+      "score": 108.29,
       "views": 19948,
       "likes": 139,
       "comments": 67,
@@ -88,12 +88,41 @@
           "last_seen": "2026-11-01T06:22:46.396757+09:00"
         }
       },
-      "score": 108.53,
+      "score": 108.18,
       "views": 15065,
       "likes": 87,
       "comments": 77,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "짱구 존댓말 떡밥에 일본애들 단체 패닉온 게 재밌네",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77232660?m=humor",
+      "first_seen": "2026-11-01T15:43:39.117322+09:00",
+      "last_seen": "2026-11-01T15:43:39.117322+09:00",
+      "peak_score": 98.54,
+      "max_views": 17717,
+      "max_likes": 118,
+      "max_comments": 113,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-01": {
+          "max_score": 98.54,
+          "max_views": 17717,
+          "max_likes": 118,
+          "max_comments": 113,
+          "appearances": 1,
+          "last_seen": "2026-11-01T15:43:39.117322+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 17717,
+      "likes": 118,
+      "comments": 113,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "프랑스 시위녀, 빠듯한 원룸모습과 월세 생활..",
@@ -117,12 +146,12 @@
           "last_seen": "2026-11-01T05:09:03.968462+09:00"
         }
       },
-      "score": 108.38,
+      "score": 108.02,
       "views": 12335,
       "likes": 137,
       "comments": 69,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "스압) 잇섭이 듀오 억빠했다는 이야기는 계속 나오네",
@@ -146,12 +175,41 @@
           "last_seen": "2026-11-01T02:54:25.285375+09:00"
         }
       },
-      "score": 107.34,
+      "score": 106.99,
       "views": 16296,
       "likes": 179,
       "comments": 115,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "난리난 현지 독일 상황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
+      "first_seen": "2026-11-01T15:43:39.117322+09:00",
+      "last_seen": "2026-11-01T15:43:39.117322+09:00",
+      "peak_score": 96.61,
+      "max_views": 31197,
+      "max_likes": 128,
+      "max_comments": 71,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-01": {
+          "max_score": 96.61,
+          "max_views": 31197,
+          "max_likes": 128,
+          "max_comments": 71,
+          "appearances": 1,
+          "last_seen": "2026-11-01T15:43:39.117322+09:00"
+        }
+      },
+      "score": 106.13,
+      "views": 31197,
+      "likes": 128,
+      "comments": 71,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "현재 논란이라는 게임 패드",
@@ -175,12 +233,12 @@
           "last_seen": "2026-11-01T11:26:54.101951+09:00"
         }
       },
-      "score": 106.37,
+      "score": 106.02,
       "views": 34829,
       "likes": 73,
       "comments": 75,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "아이폰 듀오로 보는 국내 it유튜버의 전문성 수준",
@@ -204,12 +262,12 @@
           "last_seen": "2026-11-01T01:12:55.542815+09:00"
         }
       },
-      "score": 105.55,
+      "score": 105.2,
       "views": 14629,
       "likes": 114,
       "comments": 91,
       "active_days": 1,
-      "change": -1
+      "change": -2
     },
     {
       "title": "드디어 밝혀진 배달원 수익 폭락 + 업계가 힘들어진 이유....",
@@ -233,12 +291,12 @@
           "last_seen": "2026-11-01T11:26:54.101951+09:00"
         }
       },
-      "score": 105.5,
+      "score": 105.14,
       "views": 34787,
       "likes": 197,
       "comments": 84,
       "active_days": 1,
-      "change": 4
+      "change": -2
     },
     {
       "title": "싱글벙글 일본의 b2c기업들이 망한이유",
@@ -262,142 +320,124 @@
           "last_seen": "2026-11-01T11:26:54.101951+09:00"
         }
       },
-      "score": 104.91,
+      "score": 104.55,
       "views": 32973,
       "likes": 154,
       "comments": 408,
       "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "삼전 직원 월세 부정수급 사건 최신 근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77230704?m=humor",
-      "first_seen": "2026-11-01T11:26:54.101951+09:00",
-      "last_seen": "2026-11-01T11:26:54.101951+09:00",
-      "peak_score": 95.32,
-      "max_views": 26418,
-      "max_likes": 116,
-      "max_comments": 68,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-01": {
-          "max_score": 95.32,
-          "max_views": 26418,
-          "max_likes": 116,
-          "max_comments": 68,
-          "appearances": 1,
-          "last_seen": "2026-11-01T11:26:54.101951+09:00"
-        }
-      },
-      "score": 104.84,
-      "views": 26418,
-      "likes": 116,
-      "comments": 68,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "우리나라에서는 생존 배낭 싸라고 호들갑 떨지 않는 이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77226339?m=humor",
-      "first_seen": "2026-11-01T02:54:25.285375+09:00",
-      "last_seen": "2026-11-01T02:54:25.285375+09:00",
-      "peak_score": 95.74,
-      "max_views": 19473,
-      "max_likes": 138,
-      "max_comments": 65,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-01": {
-          "max_score": 95.74,
-          "max_views": 19473,
-          "max_likes": 138,
-          "max_comments": 65,
-          "appearances": 1,
-          "last_seen": "2026-11-01T02:54:25.285375+09:00"
-        }
-      },
-      "score": 104.55,
-      "views": 19473,
-      "likes": 138,
-      "comments": 65,
-      "active_days": 1,
-      "change": -4
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "조선족의 충격고백 그들의 정치성향",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474643&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9278,
-      "likes": 219,
-      "comments": 296,
-      "score": 73.13,
-      "change": 24,
-      "current_rank": 13,
-      "new_entry": false,
-      "delta_views": 7939,
-      "delta_likes": 183,
-      "delta_comments": 257,
-      "rank_gain": 24,
-      "rising_score": 92.5,
-      "rising_rank": 1,
-      "window_minutes": 125
-    },
-    {
-      "source": "디시인사이드",
-      "title": "HLE VS BLG 후푸평점",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474645&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17054,
-      "likes": 132,
-      "comments": 156,
-      "score": 72.72,
-      "change": 0,
-      "current_rank": 15,
-      "new_entry": false,
-      "delta_views": 10026,
-      "delta_likes": 61,
-      "delta_comments": 111,
-      "rank_gain": 0,
-      "rising_score": 90.51,
-      "rising_rank": 2,
-      "window_minutes": 125
-    },
-    {
-      "source": "더쿠",
-      "title": "한국 소아과 사망",
-      "url": "https://theqoo.net/hot/4392225070",
-      "category": "이슈",
-      "views": 63970,
+      "source": "인벤",
+      "title": "[AAA 2026 라인업] RESCENE 리센느 | 아시아 아티스트 어워즈 인 가오슝(대만)",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747453",
+      "category": "연예",
+      "views": 37,
       "likes": 0,
-      "comments": 431,
-      "score": 73.05,
-      "change": 0,
-      "current_rank": 14,
+      "comments": 0,
+      "score": 60.4,
+      "change": 19,
+      "current_rank": 47,
       "new_entry": false,
-      "delta_views": 35341,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 216,
+      "delta_comments": 0,
+      "rank_gain": 19,
+      "rising_score": 95.24,
+      "rising_rank": 1,
+      "window_minutes": 257
+    },
+    {
+      "source": "인벤",
+      "title": "매월1일 11시 꼭잊지말고 할것",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747445",
+      "category": "이슈",
+      "views": 670,
+      "likes": 2,
+      "comments": 2,
+      "score": 60.03,
+      "change": 19,
+      "current_rank": 48,
+      "new_entry": false,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 19,
+      "rising_score": 95.24,
+      "rising_rank": 2,
+      "window_minutes": 257
+    },
+    {
+      "source": "디시인사이드",
+      "title": "프랑스 진짜 멸망 직전",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 62500,
+      "likes": 577,
+      "comments": 912,
+      "score": 63.07,
+      "change": 0,
+      "current_rank": 39,
+      "new_entry": false,
+      "delta_views": 26898,
+      "delta_likes": 203,
+      "delta_comments": 338,
       "rank_gain": 0,
-      "rising_score": 83.33,
+      "rising_score": 87.5,
       "rising_rank": 3,
-      "window_minutes": 125
+      "window_minutes": 257
+    },
+    {
+      "source": "인벤",
+      "title": "\"지하철부터 저가커피까지\"..외국인들이 한국에 진심인 이유 모아봄 [스:크랩]｜크랩",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747452",
+      "category": "이슈",
+      "views": 108,
+      "likes": 0,
+      "comments": 0,
+      "score": 60.78,
+      "change": 18,
+      "current_rank": 44,
+      "new_entry": false,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 18,
+      "rising_score": 85.71,
+      "rising_rank": 4,
+      "window_minutes": 257
+    },
+    {
+      "source": "인벤",
+      "title": "리센느 제나와 트로트 가수 정서주 과거 투샷이 레전드인 이유",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747444",
+      "category": "연예",
+      "views": 821,
+      "likes": 2,
+      "comments": 1,
+      "score": 59.63,
+      "change": 18,
+      "current_rank": 51,
+      "new_entry": false,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 18,
+      "rising_score": 85.71,
+      "rising_rank": 5,
+      "window_minutes": 257
     },
     {
       "source": "루리웹",
-      "title": "현재 논란이라는 게임 패드",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77229932?m=humor",
-      "category": "게임",
-      "views": 34829,
-      "likes": 73,
-      "comments": 75,
-      "score": 96.85,
+      "title": "짱구 존댓말 떡밥에 일본애들 단체 패닉온 게 재밌네",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77232660?m=humor",
+      "category": "이슈",
+      "views": 17717,
+      "likes": 118,
+      "comments": 113,
+      "score": 98.54,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -405,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.68,
-      "rising_rank": 4,
-      "window_minutes": 125
+      "rising_score": 83.39,
+      "rising_rank": 6,
+      "window_minutes": 257
     },
     {
       "source": "루리웹",
-      "title": "삼전 직원 월세 부정수급 사건 최신 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77230704?m=humor",
+      "title": "난리난 현지 독일 상황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
       "category": "이슈",
-      "views": 26418,
-      "likes": 116,
-      "comments": 68,
-      "score": 95.32,
+      "views": 31197,
+      "likes": 128,
+      "comments": 71,
+      "score": 96.61,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -425,112 +465,126 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.03,
-      "rising_rank": 5,
-      "window_minutes": 125
+      "rising_score": 82.58,
+      "rising_rank": 7,
+      "window_minutes": 257
     },
     {
       "source": "루리웹",
-      "title": "드디어 밝혀진 배달원 수익 폭락 + 업계가 힘들어진 이유....",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77230177?m=humor",
+      "title": "베글 4급 현역보낸다는거 또 이상하게 가네",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77232337?m=humor",
       "category": "이슈",
-      "views": 34787,
-      "likes": 197,
-      "comments": 84,
-      "score": 95.08,
-      "change": 0,
+      "views": 13222,
+      "likes": 102,
+      "comments": 88,
+      "score": 93.42,
+      "change": "NEW",
       "current_rank": 3,
-      "new_entry": false,
-      "delta_views": 19457,
-      "delta_likes": 81,
-      "delta_comments": 21,
-      "rank_gain": 0,
-      "rising_score": 80.56,
-      "rising_rank": 6,
-      "window_minutes": 125
-    },
-    {
-      "source": "디시인사이드",
-      "title": "프랑스 진짜 멸망 직전",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 35602,
-      "likes": 374,
-      "comments": 574,
-      "score": 91.27,
-      "change": "NEW",
-      "current_rank": 4,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.33,
-      "rising_rank": 7,
-      "window_minutes": 125
-    },
-    {
-      "source": "디시인사이드",
-      "title": "지금 핫한 걸그룹 노래 기괴한(?) 가사.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474635&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 10714,
-      "likes": 116,
-      "comments": 186,
-      "score": 63.3,
-      "change": 0,
-      "current_rank": 44,
-      "new_entry": false,
-      "delta_views": 5747,
-      "delta_likes": 61,
-      "delta_comments": 82,
-      "rank_gain": 0,
-      "rising_score": 80.32,
+      "rising_score": 81.24,
       "rising_rank": 8,
-      "window_minutes": 125
+      "window_minutes": 257
     },
     {
-      "source": "뽐뿌",
-      "title": "[네이버페이] 네이버 AI탭 15원 받으세요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120236",
+      "source": "인벤",
+      "title": "김동아 민주비대위 갤러리 인증샷",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747435",
       "category": "이슈",
-      "views": 5432,
-      "likes": 31,
-      "comments": 10,
-      "score": 80.83,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
+      "views": 785,
+      "likes": 3,
+      "comments": 9,
+      "score": 59.19,
+      "change": 17,
+      "current_rank": 55,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.95,
+      "rank_gain": 17,
+      "rising_score": 76.19,
       "rising_rank": 9,
-      "window_minutes": 125
+      "window_minutes": 257
     },
     {
-      "source": "뽐뿌",
-      "title": "재명이 또 SNS에 뻘소리하네",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448797",
-      "category": "이슈",
-      "views": 8992,
-      "likes": 23,
-      "comments": 39,
-      "score": 79.56,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
+      "source": "인벤",
+      "title": "샤이니 최민호 첫 마라톤 3:00:18",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2747438",
+      "category": "연예",
+      "views": 1165,
+      "likes": 1,
+      "comments": 9,
+      "score": 59.13,
+      "change": 17,
+      "current_rank": 56,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.42,
+      "rank_gain": 17,
+      "rising_score": 76.19,
       "rising_rank": 10,
-      "window_minutes": 125
+      "window_minutes": 257
     }
   ],
   "issues": [
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 4,
+      "post_count": 4,
+      "score": 144.54,
+      "peak_score": 121.61,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "난리난 현지 독일 상황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
+          "score": 96.61
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 12,
+          "title": "현재 난리난 유럽 국가 근황 ㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24536",
+          "score": 73.51
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 67,
+          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
+          "score": 58.01
+        },
+        {
+          "source": "더쿠",
+          "rank": 80,
+          "title": "반응 난리난 강유미 새 영상...jpg (나 100장 넘게 수제 캡처한 정성글인데 한 번만 봐주면 안되겠니)",
+          "url": "https://theqoo.net/hot/4392446351",
+          "score": 55.89
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-11-01T15:43:39.117322+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 4,
+      "rank": 1,
+      "change": 3
+    },
     {
       "id": "i5af231c6",
       "title": "‘나왔네’ 관련 글이 여러 커뮤니티에서 화제",
@@ -566,8 +620,8 @@
       "last_seen": "2026-11-01T05:09:03.968462+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i0cdcc665",
@@ -604,8 +658,8 @@
       "last_seen": "2026-11-01T01:12:55.542815+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -642,45 +696,47 @@
       "last_seen": "2026-11-01T05:09:03.968462+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4a23876e",
+      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "난리난"
+        "11월"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 108.77,
-      "peak_score": 96.28,
-      "appearances": 2,
+      "source_count": 3,
+      "post_count": 4,
+      "score": 107.73,
+      "peak_score": 87.68,
+      "appearances": 4,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
-          "score": 68.07
+          "source": "클리앙",
+          "rank": 32,
+          "title": "일본, 11월 1일부터 면세 할인 구입 시스템 변경",
+          "url": "https://www.clien.net/service/board/park/19285766?od=T31&po=0&category=0&groupCd=",
+          "score": 64.93
         },
         {
-          "source": "뽐뿌",
-          "rank": 36,
-          "title": "주말 마라톤 때문에 난리난 버스 노선들 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24523",
-          "score": 65.0
+          "source": "인벤",
+          "rank": 63,
+          "title": "2026년 11월 1일 일요일 간추린 뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747450",
+          "score": 58.62
         }
       ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-01T11:26:54.101951+09:00",
+      "first_seen": "2026-10-29T14:42:11.450079+09:00",
+      "last_seen": "2026-11-01T15:43:39.117322+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 4,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": 1
     },
     {
@@ -718,47 +774,54 @@
       "last_seen": "2026-11-01T01:12:55.542815+09:00",
       "latest_source_count": 2,
       "latest_post_count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
-      "id": "i4a23876e",
-      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib6978d90",
+      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "11월"
+        "마라톤"
       ],
       "source_count": 3,
-      "post_count": 4,
-      "score": 106.61,
-      "peak_score": 87.68,
-      "appearances": 3,
+      "post_count": 3,
+      "score": 105.69,
+      "peak_score": 89.2,
+      "appearances": 2,
       "sources": [
-        "더쿠",
-        "루리웹",
+        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 16,
-          "title": "[4대 편의점] 11월 제로칼로리 음료 1+1 행사 (11/1~30)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108560",
-          "score": 71.69
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "정부 후원 마라톤 21배 급증…교통불편에 멍 드는 서울",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474703&_dcbest=1&page=1",
+          "score": 72.2
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "마라톤 이제 진짜 선넘네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172262",
+          "score": 65.59
         },
         {
           "source": "인벤",
-          "rank": 78,
-          "title": "2026년 11월 1일 일요일 간추린 뉴스",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747450",
-          "score": 58.62
+          "rank": 56,
+          "title": "샤이니 최민호 첫 마라톤 3:00:18",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747438",
+          "score": 59.13
         }
       ],
-      "first_seen": "2026-10-29T14:42:11.450079+09:00",
-      "last_seen": "2026-11-01T11:26:54.101951+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "first_seen": "2026-10-14T07:59:33.070594+09:00",
+      "last_seen": "2026-11-01T15:43:39.117322+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "ifce040e4",
@@ -795,8 +858,8 @@
       "last_seen": "2026-11-01T06:22:46.396757+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ib9cf754d",
@@ -841,8 +904,8 @@
       "last_seen": "2026-11-01T09:22:13.833529+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i1b672c00",
@@ -879,53 +942,8 @@
       "last_seen": "2026-11-01T05:09:03.968462+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "ib02d3a70",
-      "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
-      "keywords": [
-        "인파",
-        "홍대",
-        "관리",
-        "2만",
-        "주말",
-        "12만",
-        "이태원",
-        "몰렸다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.77,
-      "peak_score": 80.72,
-      "appearances": 4,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 80,
-          "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
-          "url": "https://www.clien.net/service/board/park/19285605?od=T31&po=0&category=0&groupCd=",
-          "score": 55.95
-        },
-        {
-          "source": "인벤",
-          "rank": 97,
-          "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747376",
-          "score": 52.24
-        }
-      ],
-      "first_seen": "2026-11-01T02:54:25.285375+09:00",
-      "last_seen": "2026-11-01T08:24:08.521487+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 0
+      "change": -1
     }
   ],
   "realtime_issues": [
@@ -935,32 +953,169 @@
       "keywords": [
         "난리난"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 78.07,
-      "peak_score": 78.07,
+      "source_count": 4,
+      "post_count": 4,
+      "score": 121.61,
+      "peak_score": 121.61,
       "appearances": 1,
       "sources": [
+        "더쿠",
         "디시인사이드",
+        "루리웹",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
-          "score": 68.07
+          "source": "루리웹",
+          "rank": 2,
+          "title": "난리난 현지 독일 상황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
+          "score": 96.61
         },
         {
           "source": "뽐뿌",
-          "rank": 36,
-          "title": "주말 마라톤 때문에 난리난 버스 노선들 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24523",
-          "score": 65.0
+          "rank": 12,
+          "title": "현재 난리난 유럽 국가 근황 ㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24536",
+          "score": 73.51
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 67,
+          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
+          "score": 58.01
+        },
+        {
+          "source": "더쿠",
+          "rank": 80,
+          "title": "반응 난리난 강유미 새 영상...jpg (나 100장 넘게 수제 캡처한 정성글인데 한 번만 봐주면 안되겠니)",
+          "url": "https://theqoo.net/hot/4392446351",
+          "score": 55.89
         }
       ],
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "ib6978d90",
+      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마라톤"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 89.2,
+      "peak_score": 89.2,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "정부 후원 마라톤 21배 급증…교통불편에 멍 드는 서울",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474703&_dcbest=1&page=1",
+          "score": 72.2
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "마라톤 이제 진짜 선넘네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172262",
+          "score": 65.59
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "샤이니 최민호 첫 마라톤 3:00:18",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747438",
+          "score": 59.13
+        }
+      ],
+      "rank": 2,
+      "change": 2
+    },
+    {
+      "id": "i3fd03db5",
+      "title": "한국, 수출 1조 달러 전망.. 세계 4위 기염.news",
+      "keywords": [
+        "4위",
+        "세계",
+        "수출",
+        "한국"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 82.39,
+      "peak_score": 82.39,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 27,
+          "title": "한국, 수출 1조 달러 전망.. 세계 4위 기염.news",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474699&_dcbest=1&page=1",
+          "score": 67.39
+        },
+        {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "[속보]한국 수출 세계 4위",
+          "url": "https://www.clien.net/service/board/park/19285740?od=T31&po=0&category=0&groupCd=",
+          "score": 59.41
+        },
+        {
+          "source": "더쿠",
+          "rank": 100,
+          "title": "[속보]한국 수출 세계 4위",
+          "url": "https://theqoo.net/hot/4392411131",
+          "score": 51.42
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.08,
+      "peak_score": 80.08,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "싱글벙글 한국에서 FSD가 안 되는 이유+이모저모",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474711&_dcbest=1&page=1",
+          "score": 71.08
+        },
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "한국에서 열리는 한국 가수 콘서트인데 중국어 안내를 먼저 함.twt",
+          "url": "https://theqoo.net/hot/4392527915",
+          "score": 63.68
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -971,108 +1126,82 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.69,
-      "peak_score": 80.69,
+      "score": 73.93,
+      "peak_score": 73.93,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 16,
-          "title": "[4대 편의점] 11월 제로칼로리 음료 1+1 행사 (11/1~30)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108560",
-          "score": 71.69
+          "source": "클리앙",
+          "rank": 32,
+          "title": "일본, 11월 1일부터 면세 할인 구입 시스템 변경",
+          "url": "https://www.clien.net/service/board/park/19285766?od=T31&po=0&category=0&groupCd=",
+          "score": 64.93
         },
         {
           "source": "인벤",
-          "rank": 78,
+          "rank": 63,
           "title": "2026년 11월 1일 일요일 간추린 뉴스",
           "url": "https://www.inven.co.kr/board/webzine/2097/2747450",
           "score": 58.62
         }
       ],
-      "rank": 2,
-      "change": -1
+      "rank": 5,
+      "change": -3
     },
     {
-      "id": "i1b29a66d",
-      "title": "‘20년’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i1a97685e",
+      "title": "[속보] 최휘영 “19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금…문화예술 지원”",
       "keywords": [
-        "20년"
+        "모든",
+        "최휘영",
+        "10만",
+        "지원금",
+        "34세",
+        "비수도권",
+        "청년에",
+        "15만원",
+        "수도권"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.6,
-      "peak_score": 75.6,
+      "score": 73.05,
+      "peak_score": 73.05,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 32,
-          "title": "'공원 무료 급식' 전면 금지, 왜?... \"20년 해왔는데\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474657&_dcbest=1&page=1",
-          "score": 66.6
+          "source": "더쿠",
+          "rank": 31,
+          "title": "[속보] 최휘영 “19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금…문화예술 지원”",
+          "url": "https://theqoo.net/hot/4392449234",
+          "score": 65.05
         },
         {
-          "source": "인벤",
-          "rank": 76,
-          "title": "[미안하다 사랑한다] 20년 만에 돌아온 레전드 명장면 (Ep.1)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747451",
-          "score": 58.75
+          "source": "클리앙",
+          "rank": 91,
+          "title": "[속보] 최휘영 “19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금…문화",
+          "url": "https://www.clien.net/service/board/park/19285738?od=T31&po=0&category=0&groupCd=",
+          "score": 53.31
         }
       ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "ib6978d90",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "마라톤"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.0,
-      "peak_score": 74.0,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 36,
-          "title": "주말 마라톤 때문에 난리난 버스 노선들 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24523",
-          "score": 65.0
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "샤이니 최민호 첫 마라톤 3:00:18",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747438",
-          "score": 59.13
-        }
-      ],
-      "rank": 4,
+      "rank": 6,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "한국",
-      "score": 146.36,
-      "post_count": 4,
+      "score": 174.12,
+      "post_count": 7,
       "source_count": 4,
-      "best_rank": 14,
+      "best_rank": 7,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -1084,70 +1213,76 @@
       "change": 0
     },
     {
-      "keyword": "게임",
-      "score": 129.63,
+      "keyword": "난리난",
+      "score": 156.76,
       "post_count": 4,
-      "source_count": 3,
-      "best_rank": 1,
+      "source_count": 4,
+      "best_rank": 2,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 14
+      "change": 3
     },
     {
-      "keyword": "사건",
-      "score": 100.13,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 2,
+      "keyword": "청년",
+      "score": 148.32,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 8,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "사망",
-      "score": 97.81,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 14,
+      "keyword": "지원금",
+      "score": 123.21,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 8,
       "sources": [
         "더쿠",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 94.55,
+      "keyword": "마라톤",
+      "score": 122.43,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 25,
+      "source_count": 3,
+      "best_rank": 17,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 8
     },
     {
-      "keyword": "보면",
-      "score": 93.18,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 22,
+      "keyword": "일본",
+      "score": 117.65,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 24,
       "sources": [
-        "인벤",
+        "더쿠",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1155,41 +1290,45 @@
       "change": "NEW"
     },
     {
-      "keyword": "사탕",
-      "score": 92.17,
+      "keyword": "수출",
+      "score": 113.47,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 25,
+      "source_count": 3,
+      "best_rank": 27,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "4위",
+        "세계"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "11월",
-      "score": 90.6,
+      "keyword": "수준",
+      "score": 97.39,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 14,
       "sources": [
-        "루리웹",
-        "인벤"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": -6
+      "change": "NEW"
     },
     {
-      "keyword": "붕괴",
-      "score": 89.72,
+      "keyword": "민주당",
+      "score": 93.95,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 21,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1197,13 +1336,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "조국",
-      "score": 86.95,
+      "keyword": "할인",
+      "score": 93.85,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 26,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1211,36 +1350,36 @@
       "change": "NEW"
     },
     {
-      "keyword": "20년",
-      "score": 86.83,
+      "keyword": "만난",
+      "score": 92.81,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 24,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "여성",
-      "score": 86.7,
+      "keyword": "추가",
+      "score": 91.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 26,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "마라톤",
-      "score": 86.54,
+      "keyword": "대만",
+      "score": 89.62,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 36,
@@ -1253,74 +1392,66 @@
       "change": "NEW"
     },
     {
-      "keyword": "이런거",
-      "score": 85.59,
+      "keyword": "가수",
+      "score": 89.3,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 52,
+      "best_rank": 34,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "마약",
-      "score": 80.1,
+      "keyword": "11월",
+      "score": 88.14,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 61,
+      "best_rank": 32,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -7
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "현재 논란이라는 게임 패드",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77229932?m=humor",
-      "score": 96.85,
-      "views": 34829,
-      "comments": 75
+      "title": "짱구 존댓말 떡밥에 일본애들 단체 패닉온 게 재밌네",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77232660?m=humor",
+      "score": 98.54,
+      "views": 17717,
+      "comments": 113
     },
     {
       "source": "디시인사이드",
-      "title": "프랑스 진짜 멸망 직전",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
-      "score": 91.27,
-      "views": 35602,
-      "comments": 574
-    },
-    {
-      "source": "뽐뿌",
-      "title": "[네이버페이] 네이버 AI탭 15원 받으세요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120236",
-      "score": 80.83,
-      "views": 5432,
-      "comments": 10
-    },
-    {
-      "source": "더쿠",
-      "title": "혼밥을 엄청 천천히 먹는게 욕먹을 일인가요?",
-      "url": "https://theqoo.net/hot/4392270306",
-      "score": 76.37,
-      "views": 39598,
-      "comments": 568
+      "title": "폴란드 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474713&_dcbest=1&page=1",
+      "score": 79.54,
+      "views": 13108,
+      "comments": 136
     },
     {
       "source": "클리앙",
-      "title": "지방은 이미 끝났죠..인구소멸 확정적입니다.",
-      "url": "https://www.clien.net/service/board/park/19285673?od=T31&po=0&category=0&groupCd=",
-      "score": 76.23,
-      "views": 2152,
-      "comments": 26
+      "title": "한국은 부패한 국가인가",
+      "url": "https://www.clien.net/service/board/park/19285757?od=T31&po=0&category=0&groupCd=",
+      "score": 77.15,
+      "views": 1675,
+      "comments": 32
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[속보] 청년 지원금 확정 ㄷㄷ..jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172761",
+      "score": 76.36,
+      "views": 4085,
+      "comments": 35
     },
     {
       "source": "인벤",
@@ -1329,6 +1460,14 @@
       "score": 73.61,
       "views": 1355,
       "comments": 13
+    },
+    {
+      "source": "더쿠",
+      "title": "이슬람의 창시자 무함마드가 며느리랑 결혼한 이유",
+      "url": "https://theqoo.net/hot/4392458313",
+      "score": 72.21,
+      "views": 49195,
+      "comments": 531
     }
   ]
 }
