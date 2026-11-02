@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-02T14:56:17.431188+09:00",
+  "collected_at": "2026-11-02T18:18:23.155279+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,275 +11,15 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i3afa8a28",
-        "title": "한강을 달리는 자전거들 가격",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "한강을",
-          "자전거들",
-          "가격",
-          "달리는"
+          "이재명"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 3,
-        "score": 110.77,
-        "peak_score": 110.77,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
-            "score": 62.38
-          },
-          {
-            "source": "더쿠",
-            "rank": 76,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://theqoo.net/hot/4393517414",
-            "score": 56.68
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i27245075",
-        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "있다는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.45,
-        "peak_score": 85.45,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 10,
-            "title": "쿠팡맨 하고 있다는 90년대 아이돌.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173468",
-            "score": 76.45
-          },
-          {
-            "source": "인벤",
-            "rank": 23,
-            "title": "현재 망하고 있다는 울릉도 생태계...",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747830",
-            "score": 67.94
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i245743f5",
-        "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
-        "keywords": [
-          "가슴",
-          "좋다",
-          "옛말"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.16,
-        "peak_score": 82.16,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 13,
-            "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747819",
-            "score": 74.16
-          },
-          {
-            "source": "루리웹",
-            "rank": 89,
-            "title": "\"큰 가슴 좋다\"는 건 옛말 이제는...",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244875?m=humor_only&t=now",
-            "score": 52.97
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "ia4a07fe1",
-        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "박근혜"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.96,
-        "peak_score": 76.96,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "이명박, 박근혜 때가 태평성대였네요",
-            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
-            "score": 67.96
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
-            "score": 61.43
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i985d0761",
-        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-        "keywords": [
-          "수령",
-          "7만명",
-          "교도소",
-          "민생지원금"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.74,
-        "peak_score": 74.74,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
-            "score": 66.74
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "교도소 7만명 민생지원금 수령…",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
-            "score": 63.5
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i6b93d02e",
-        "title": "‘내로남불’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "내로남불"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.77,
-        "peak_score": 69.77,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 56,
-            "title": "李대통령 \"'정치적올바름'에 반발하는 이유는 내로남불 때문\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474874&_dcbest=1&page=1",
-            "score": 60.77
-          },
-          {
-            "source": "인벤",
-            "rank": 75,
-            "title": "내로남불?? 이중잣대??",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747808",
-            "score": 56.71
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i73127acd",
-        "title": "박항서 감독 태국에서 인종차별 당한거 태국인들 욕 박더니",
-        "keywords": [
-          "인종차별",
-          "박항서",
-          "감독",
-          "태국에서"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.75,
-        "peak_score": 69.75,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 49,
-            "title": "박항서 감독 태국에서 인종차별 당한거 태국인들 욕 박더니",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244920?m=humor_only&t=now",
-            "score": 61.75
-          },
-          {
-            "source": "인벤",
-            "rank": 88,
-            "title": "태국에서 인종차별 당한 박항서 감독",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747817",
-            "score": 53.04
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "ib6efdff3",
-        "title": "故 최불암 선생님 마지막 가시는길",
-        "keywords": [
-          "최불암",
-          "가시는길",
-          "선생님",
-          "마지막"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 67.93,
-        "peak_score": 67.93,
+        "score": 71.16,
+        "peak_score": 71.16,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -288,17 +28,267 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 61,
-            "title": "故 최불암 선생님 마지막 가시는길",
-            "url": "https://www.clien.net/service/board/park/19286214?od=T31&po=0&category=0&groupCd=",
-            "score": 59.93
+            "rank": 48,
+            "title": "문재인 전대통령과 이재명 대통령",
+            "url": "https://www.clien.net/service/board/park/19286291?od=T31&po=0&category=0&groupCd=",
+            "score": 61.16
           },
           {
             "source": "인벤",
-            "rank": 84,
-            "title": "故 최불암 선생님 마지막 가시는길",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747829",
-            "score": 55.08
+            "rank": 62,
+            "title": "이재명 대통령 x",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747879",
+            "score": 58.94
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i09329f76",
+        "title": "여군이 알려주는 진짜 호신술",
+        "keywords": [
+          "호신술",
+          "여군이",
+          "알려주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 106.94,
+        "peak_score": 106.94,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "여군이 알려주는 진짜 호신술",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243626?m=humor",
+            "score": 98.94
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "강철 여군이 알려주는 실전 호신술",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747895",
+            "score": 58.33
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i3afa8a28",
+        "title": "한강을 달리는 자전거들 가격",
+        "keywords": [
+          "한강을",
+          "달리는",
+          "자전거들",
+          "가격"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 102.25,
+        "peak_score": 102.25,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "더쿠",
+            "rank": 98,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://theqoo.net/hot/4393517414",
+            "score": 52.58
+          }
+        ],
+        "rank": 3,
+        "change": -2
+      },
+      {
+        "id": "i12d4a891",
+        "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+        "keywords": [
+          "대회",
+          "민호",
+          "페이스메이커",
+          "실격",
+          "조력",
+          "샤이니",
+          "처리해야",
+          "마라톤"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.38,
+        "peak_score": 86.38,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474944&_dcbest=1&page=1",
+            "score": 78.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 67,
+            "title": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’[Oh!쎈 이슈]",
+            "url": "https://theqoo.net/hot/4393480564",
+            "score": 58.11
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i5a736633",
+        "title": "‘했는데’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "했는데"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.99,
+        "peak_score": 79.99,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 21,
+            "title": "싱글벙글 배달기사님한테 놓고가달라 했는데…",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474930&_dcbest=1&page=1",
+            "score": 70.99
+          },
+          {
+            "source": "루리웹",
+            "rank": 33,
+            "title": "소금빵 10개 주문 했는데 배달부가 빼먹해서 7개만 옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77246760?m=humor_only&t=now",
+            "score": 65.36
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "iae209e51",
+        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "충격적인"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.32,
+        "peak_score": 77.32,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 23,
+            "title": "충격적인 2030 남자 비만율 통계 50%.. 여초반응..",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474934&_dcbest=1&page=1",
+            "score": 68.32
+          },
+          {
+            "source": "클리앙",
+            "rank": 45,
+            "title": "어제 충격적인 카톡을 받았습니다.",
+            "url": "https://www.clien.net/service/board/park/19286273?od=T31&po=0&category=0&groupCd=",
+            "score": 61.67
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i567efd17",
+        "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드라마"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.03,
+        "peak_score": 77.03,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 24,
+            "title": "서현진 신작 드라마 시청률",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173614",
+            "score": 68.03
+          },
+          {
+            "source": "더쿠",
+            "rank": 55,
+            "title": "관계자들이 뽑은 올해 최악의 드라마 순위",
+            "url": "https://theqoo.net/hot/4393494795",
+            "score": 59.42
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "ic87ce8e8",
+        "title": "‘최악의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최악의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.85,
+        "peak_score": 73.85,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 35,
+            "title": "자주 먹으면 안 좋은 최악의 배달음식 조합",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747898",
+            "score": 64.85
+          },
+          {
+            "source": "더쿠",
+            "rank": 55,
+            "title": "관계자들이 뽑은 올해 최악의 드라마 순위",
+            "url": "https://theqoo.net/hot/4393494795",
+            "score": 59.42
           }
         ],
         "rank": 8,
@@ -311,15 +301,15 @@
         "title": "한강을 달리는 자전거들 가격",
         "keywords": [
           "한강을",
+          "달리는",
           "자전거들",
-          "가격",
-          "달리는"
+          "가격"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 125.24,
+        "score": 127.26,
         "peak_score": 110.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "루리웹",
@@ -328,32 +318,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
+            "rank": 3,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
-            "score": 62.38
+            "score": 94.25
           },
           {
             "source": "더쿠",
-            "rank": 76,
+            "rank": 98,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://theqoo.net/hot/4393517414",
-            "score": 56.68
+            "score": 52.58
           }
         ],
         "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i5c6da920",
@@ -391,7 +374,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifc264642",
@@ -429,7 +412,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i09329f76",
+        "title": "여군이 알려주는 진짜 호신술",
+        "keywords": [
+          "호신술",
+          "여군이",
+          "알려주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.41,
+        "peak_score": 106.94,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "여군이 알려주는 진짜 호신술",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243626?m=humor",
+            "score": 98.94
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "강철 여군이 알려주는 실전 호신술",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747895",
+            "score": 58.33
+          }
+        ],
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i85fe1706",
@@ -466,7 +489,7 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -504,7 +527,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -542,7 +565,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -580,7 +603,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -619,7 +642,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -657,8 +680,53 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
+      },
+      {
+        "id": "i12d4a891",
+        "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+        "keywords": [
+          "대회",
+          "민호",
+          "페이스메이커",
+          "실격",
+          "조력",
+          "샤이니",
+          "처리해야",
+          "마라톤"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.85,
+        "peak_score": 86.38,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474944&_dcbest=1&page=1",
+            "score": 78.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 67,
+            "title": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’[Oh!쎈 이슈]",
+            "url": "https://theqoo.net/hot/4393480564",
+            "score": 58.11
+          }
+        ],
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i4ae5766d",
@@ -699,8 +767,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ib85b481b",
@@ -737,8 +805,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i27245075",
@@ -775,8 +843,8 @@
         "last_seen": "2026-11-02T14:56:17.431188+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i5df0fb13",
@@ -813,7 +881,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 15,
         "change": -2
       },
       {
@@ -853,7 +921,7 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 16,
         "change": -2
       },
       {
@@ -893,8 +961,8 @@
         "last_seen": "2026-11-02T14:56:17.431188+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i1dfadc28",
@@ -931,136 +999,19 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
-      },
-      {
-        "id": "ia4a07fe1",
-        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "박근혜"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.43,
-        "peak_score": 76.96,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "이명박, 박근혜 때가 태평성대였네요",
-            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
-            "score": 67.96
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
-            "score": 61.43
-          }
-        ],
-        "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "i1587955d",
-        "title": "‘다음주’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "다음주"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.02,
-        "peak_score": 76.55,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 25,
-            "title": "다음주 공개되는 성인용 AI로봇 실제 모습.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173214",
-            "score": 67.55
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 89,
-            "title": "NYT \"다음주 전쟁하냐\" 트럼프 \"내가 알려주겠냐\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474754&_dcbest=1&page=1",
-            "score": 45.12
-          }
-        ],
-        "first_seen": "2026-11-02T01:31:31.214001+09:00",
-        "last_seen": "2026-11-02T01:31:31.214001+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": -4
+        "change": -2
       },
       {
-        "id": "i985d0761",
-        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+        "id": "i5a736633",
+        "title": "‘했는데’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "수령",
-          "7만명",
-          "교도소",
-          "민생지원금"
+          "했는데"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.21,
-        "peak_score": 74.74,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
-            "score": 66.74
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "교도소 7만명 민생지원금 수령…",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
-            "score": 63.5
-          }
-        ],
-        "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.85,
-        "peak_score": 71.38,
+        "score": 89.46,
+        "peak_score": 79.99,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -1069,25 +1020,63 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 40,
-            "title": "와들와들 2026 대한민국 평균 ㄷㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474808&_dcbest=1&page=1",
-            "score": 62.38
+            "rank": 21,
+            "title": "싱글벙글 배달기사님한테 놓고가달라 했는데…",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474930&_dcbest=1&page=1",
+            "score": 70.99
           },
           {
             "source": "루리웹",
-            "rank": 85,
-            "title": "대한민국 라노벨 역사상 최악의 히로인",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241904?m=humor_only&t=now",
-            "score": 48.37
+            "rank": 33,
+            "title": "소금빵 10개 주문 했는데 배달부가 빼먹해서 7개만 옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77246760?m=humor_only&t=now",
+            "score": 65.36
           }
         ],
-        "first_seen": "2026-09-30T16:29:04.314799+09:00",
-        "last_seen": "2026-11-02T09:04:17.608386+09:00",
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
+      },
+      {
+        "id": "iae209e51",
+        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "충격적인"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.79,
+        "peak_score": 77.32,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 23,
+            "title": "충격적인 2030 남자 비만율 통계 50%.. 여초반응..",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474934&_dcbest=1&page=1",
+            "score": 68.32
+          },
+          {
+            "source": "클리앙",
+            "rank": 45,
+            "title": "어제 충격적인 카톡을 받았습니다.",
+            "url": "https://www.clien.net/service/board/park/19286273?od=T31&po=0&category=0&groupCd=",
+            "score": 61.67
+          }
+        ],
+        "first_seen": "2026-09-30T11:27:58.185526+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -5
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -1096,15 +1085,15 @@
         "title": "한강을 달리는 자전거들 가격",
         "keywords": [
           "한강을",
+          "달리는",
           "자전거들",
-          "가격",
-          "달리는"
+          "가격"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 125.24,
+        "score": 127.26,
         "peak_score": 110.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "루리웹",
@@ -1113,32 +1102,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
+            "rank": 3,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
-            "score": 62.38
+            "score": 94.25
           },
           {
             "source": "더쿠",
-            "rank": 76,
+            "rank": 98,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://theqoo.net/hot/4393517414",
-            "score": 56.68
+            "score": 52.58
           }
         ],
         "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i5c6da920",
@@ -1176,7 +1158,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifc264642",
@@ -1214,7 +1196,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i09329f76",
+        "title": "여군이 알려주는 진짜 호신술",
+        "keywords": [
+          "호신술",
+          "여군이",
+          "알려주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.41,
+        "peak_score": 106.94,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "여군이 알려주는 진짜 호신술",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243626?m=humor",
+            "score": 98.94
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "강철 여군이 알려주는 실전 호신술",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747895",
+            "score": 58.33
+          }
+        ],
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i85fe1706",
@@ -1251,7 +1273,7 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -1289,7 +1311,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -1327,7 +1349,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1365,7 +1387,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -1404,7 +1426,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -1442,8 +1464,53 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
+      },
+      {
+        "id": "i12d4a891",
+        "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+        "keywords": [
+          "대회",
+          "민호",
+          "페이스메이커",
+          "실격",
+          "조력",
+          "샤이니",
+          "처리해야",
+          "마라톤"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.85,
+        "peak_score": 86.38,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "\"실격 처리해야\" 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474944&_dcbest=1&page=1",
+            "score": 78.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 67,
+            "title": "“실격 처리해야” 샤이니 민호, 마라톤 대회 논란…페이스메이커 조력 ‘갑론을박’[Oh!쎈 이슈]",
+            "url": "https://theqoo.net/hot/4393480564",
+            "score": 58.11
+          }
+        ],
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i4ae5766d",
@@ -1484,8 +1551,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ib85b481b",
@@ -1522,8 +1589,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i27245075",
@@ -1560,8 +1627,8 @@
         "last_seen": "2026-11-02T14:56:17.431188+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i5df0fb13",
@@ -1598,7 +1665,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 15,
         "change": -2
       },
       {
@@ -1638,7 +1705,7 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 16,
         "change": -2
       },
       {
@@ -1678,8 +1745,8 @@
         "last_seen": "2026-11-02T14:56:17.431188+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i1dfadc28",
@@ -1716,136 +1783,19 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
-      },
-      {
-        "id": "ia4a07fe1",
-        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "박근혜"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.43,
-        "peak_score": 76.96,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "이명박, 박근혜 때가 태평성대였네요",
-            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
-            "score": 67.96
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
-            "score": 61.43
-          }
-        ],
-        "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "i1587955d",
-        "title": "‘다음주’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "다음주"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.02,
-        "peak_score": 76.55,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 25,
-            "title": "다음주 공개되는 성인용 AI로봇 실제 모습.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173214",
-            "score": 67.55
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 89,
-            "title": "NYT \"다음주 전쟁하냐\" 트럼프 \"내가 알려주겠냐\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474754&_dcbest=1&page=1",
-            "score": 45.12
-          }
-        ],
-        "first_seen": "2026-11-02T01:31:31.214001+09:00",
-        "last_seen": "2026-11-02T01:31:31.214001+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": -4
+        "change": -2
       },
       {
-        "id": "i985d0761",
-        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+        "id": "i5a736633",
+        "title": "‘했는데’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "수령",
-          "7만명",
-          "교도소",
-          "민생지원금"
+          "했는데"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.21,
-        "peak_score": 74.74,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
-            "score": 66.74
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "교도소 7만명 민생지원금 수령…",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
-            "score": 63.5
-          }
-        ],
-        "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.85,
-        "peak_score": 71.38,
+        "score": 89.46,
+        "peak_score": 79.99,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -1854,25 +1804,63 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 40,
-            "title": "와들와들 2026 대한민국 평균 ㄷㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474808&_dcbest=1&page=1",
-            "score": 62.38
+            "rank": 21,
+            "title": "싱글벙글 배달기사님한테 놓고가달라 했는데…",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474930&_dcbest=1&page=1",
+            "score": 70.99
           },
           {
             "source": "루리웹",
-            "rank": 85,
-            "title": "대한민국 라노벨 역사상 최악의 히로인",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241904?m=humor_only&t=now",
-            "score": 48.37
+            "rank": 33,
+            "title": "소금빵 10개 주문 했는데 배달부가 빼먹해서 7개만 옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77246760?m=humor_only&t=now",
+            "score": 65.36
           }
         ],
-        "first_seen": "2026-09-30T16:29:04.314799+09:00",
-        "last_seen": "2026-11-02T09:04:17.608386+09:00",
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
+      },
+      {
+        "id": "iae209e51",
+        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "충격적인"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.79,
+        "peak_score": 77.32,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 23,
+            "title": "충격적인 2030 남자 비만율 통계 50%.. 여초반응..",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474934&_dcbest=1&page=1",
+            "score": 68.32
+          },
+          {
+            "source": "클리앙",
+            "rank": 45,
+            "title": "어제 충격적인 카톡을 받았습니다.",
+            "url": "https://www.clien.net/service/board/park/19286273?od=T31&po=0&category=0&groupCd=",
+            "score": 61.67
+          }
+        ],
+        "first_seen": "2026-09-30T11:27:58.185526+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -5
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -1969,15 +1957,15 @@
         "title": "한강을 달리는 자전거들 가격",
         "keywords": [
           "한강을",
+          "달리는",
           "자전거들",
-          "가격",
-          "달리는"
+          "가격"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 125.24,
+        "score": 127.26,
         "peak_score": 110.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "루리웹",
@@ -1986,32 +1974,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
+            "rank": 3,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "한강을 달리는 자전거들 가격",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
-            "score": 62.38
+            "score": 94.25
           },
           {
             "source": "더쿠",
-            "rank": 76,
+            "rank": 98,
             "title": "한강을 달리는 자전거들 가격",
             "url": "https://theqoo.net/hot/4393517414",
-            "score": 56.68
+            "score": 52.58
           }
         ],
         "first_seen": "2026-11-02T14:56:17.431188+09:00",
-        "last_seen": "2026-11-02T14:56:17.431188+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 3,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ifc264642",
@@ -2051,7 +2032,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5c6da920",
@@ -2089,7 +2070,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -2129,7 +2110,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i09329f76",
+        "title": "여군이 알려주는 진짜 호신술",
+        "keywords": [
+          "호신술",
+          "여군이",
+          "알려주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.41,
+        "peak_score": 106.94,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "여군이 알려주는 진짜 호신술",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243626?m=humor",
+            "score": 98.94
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "강철 여군이 알려주는 실전 호신술",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747895",
+            "score": 58.33
+          }
+        ],
+        "first_seen": "2026-11-02T18:18:23.155279+09:00",
+        "last_seen": "2026-11-02T18:18:23.155279+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "i5af231c6",
@@ -2166,7 +2187,7 @@
         "last_seen": "2026-11-01T05:09:03.968462+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -2205,7 +2226,7 @@
         "last_seen": "2026-11-01T18:43:20.593439+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -2243,7 +2264,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -2281,7 +2302,7 @@
         "last_seen": "2026-11-01T05:09:03.968462+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -2319,7 +2340,7 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -2359,7 +2380,7 @@
         "last_seen": "2026-11-01T19:52:30.235341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -2401,7 +2422,7 @@
         "last_seen": "2026-11-01T22:49:23.434457+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -2439,7 +2460,7 @@
         "last_seen": "2026-11-01T01:12:55.542815+09:00",
         "latest_source_count": 2,
         "latest_post_count": 5,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -2485,7 +2506,7 @@
         "last_seen": "2026-11-01T15:43:39.117322+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -2523,7 +2544,7 @@
         "last_seen": "2026-11-01T06:22:46.396757+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -2561,7 +2582,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -2600,7 +2621,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -2639,44 +2660,6 @@
         ],
         "first_seen": "2026-11-01T19:52:30.235341+09:00",
         "last_seen": "2026-11-01T22:49:23.434457+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "ib4309374",
-        "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "여자들이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 99.25,
-        "peak_score": 89.78,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 5,
-            "title": "요즘 20대 여자들이 원하는 남자조건",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
-            "score": 80.78
-          },
-          {
-            "source": "루리웹",
-            "rank": 90,
-            "title": "여자들이 신음소리가 큰 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241907?m=humor_only&t=now",
-            "score": 45.71
-          }
-        ],
-        "first_seen": "2026-10-17T02:56:53.776363+09:00",
-        "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
