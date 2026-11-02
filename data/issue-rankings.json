@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-02T10:52:35.245667+09:00",
+  "collected_at": "2026-11-02T14:56:17.431188+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,158 +11,130 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i5c6da920",
-        "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i3afa8a28",
+        "title": "한강을 달리는 자전거들 가격",
         "keywords": [
-          "중국에서"
+          "한강을",
+          "자전거들",
+          "가격",
+          "달리는"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 107.54,
-        "peak_score": 107.54,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "중국에서 욕먹는 일본드라마 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241566?m=humor",
-            "score": 98.54
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 85,
-            "title": "중국에서 천마라 불린다는 리빙레전드 페이커 ㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474820&_dcbest=1&page=1",
-            "score": 48.81
-          }
-        ],
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i85fe1706",
-        "title": "‘새로운’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "새로운"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 103.11,
-        "peak_score": 103.11,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 110.77,
+        "peak_score": 110.77,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "루리웹"
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 3,
-            "title": "펩시제로 새로운 맛 등장",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77242332?m=humor",
-            "score": 94.11
+            "rank": 2,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "인벤",
+            "rank": 48,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
+            "score": 62.38
           },
           {
             "source": "더쿠",
-            "rank": 50,
-            "title": "핫게 간 \"결혼 1년차 이혼해도될까?\" 에 대한 새로운 시선 \"그래서 일부러 교회를 아주 많이 열심히 다니는 여자로 고름\"",
-            "url": "https://theqoo.net/hot/4393241851",
-            "score": 56.42
+            "rank": 76,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://theqoo.net/hot/4393517414",
+            "score": 56.68
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.45,
+        "peak_score": 85.45,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "쿠팡맨 하고 있다는 90년대 아이돌.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173468",
+            "score": 76.45
+          },
+          {
+            "source": "인벤",
+            "rank": 23,
+            "title": "현재 망하고 있다는 울릉도 생태계...",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747830",
+            "score": 67.94
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "i4ae5766d",
-        "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+        "id": "i245743f5",
+        "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
         "keywords": [
-          "수술",
-          "미치광이",
-          "박아",
-          "넣는다는",
-          "철수세미"
+          "가슴",
+          "좋다",
+          "옛말"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.66,
-        "peak_score": 85.66,
+        "score": 82.16,
+        "peak_score": 82.16,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌"
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 6,
-            "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173162",
-            "score": 77.66
+            "source": "인벤",
+            "rank": 13,
+            "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747819",
+            "score": 74.16
           },
           {
-            "source": "디시인사이드",
-            "rank": 38,
-            "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
-            "score": 61.24
+            "source": "루리웹",
+            "rank": 89,
+            "title": "\"큰 가슴 좋다\"는 건 옛말 이제는...",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244875?m=humor_only&t=now",
+            "score": 52.97
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "ib85b481b",
-        "title": "‘지마켓’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ia4a07fe1",
+        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "지마켓"
+          "박근혜"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.46,
-        "peak_score": 85.46,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 11,
-            "title": "[지마켓] 브라더 프린터 & 복합기 빅스마일데이 특가 최대 22%",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304328",
-            "score": 76.46
-          },
-          {
-            "source": "루리웹",
-            "rank": 21,
-            "title": "[지마켓] 노브랜드버거 금액권 20~21% 할인 (11/2)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108584",
-            "score": 70.03
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i5af4f08c",
-        "title": "李대통령 \"'정치적올바름'에 반발하는 이유는 내로남불 때문\"",
-        "keywords": [
-          "이유는",
-          "내로남불",
-          "정치적올바름",
-          "반발하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.94,
-        "peak_score": 82.94,
+        "score": 76.96,
+        "peak_score": 76.96,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -170,94 +142,220 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "李대통령 \"'정치적올바름'에 반발하는 이유는 내로남불 때문\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474874&_dcbest=1&page=1",
-            "score": 74.94
+            "source": "클리앙",
+            "rank": 22,
+            "title": "이명박, 박근혜 때가 태평성대였네요",
+            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
+            "score": 67.96
           },
           {
-            "source": "클리앙",
-            "rank": 91,
-            "title": "李대통령 ''정치적올바름'에 반발하는 이유는 내로남불 때문'",
-            "url": "https://www.clien.net/service/board/park/19286032?od=T31&po=0&category=0&groupCd=",
-            "score": 46.73
+            "source": "디시인사이드",
+            "rank": 51,
+            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
+            "score": 61.43
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i985d0761",
+        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+        "keywords": [
+          "수령",
+          "7만명",
+          "교도소",
+          "민생지원금"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.74,
+        "peak_score": 74.74,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
+            "score": 66.74
+          },
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "교도소 7만명 민생지원금 수령…",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
+            "score": 63.5
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "idbb760fc",
-        "title": "‘열심히’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i6b93d02e",
+        "title": "‘내로남불’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "열심히"
+          "내로남불"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 65.42,
-        "peak_score": 65.42,
+        "score": 69.77,
+        "peak_score": 69.77,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "핫게 간 \"결혼 1년차 이혼해도될까?\" 에 대한 새로운 시선 \"그래서 일부러 교회를 아주 많이 열심히 다니는 여자로 고름\"",
-            "url": "https://theqoo.net/hot/4393241851",
-            "score": 56.42
+            "source": "디시인사이드",
+            "rank": 56,
+            "title": "李대통령 \"'정치적올바름'에 반발하는 이유는 내로남불 때문\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474874&_dcbest=1&page=1",
+            "score": 60.77
           },
           {
-            "source": "클리앙",
-            "rank": 97,
-            "title": "다른 세대 신경쓰시지 마시고 다들 열심히 삽시다",
-            "url": "https://www.clien.net/service/board/park/19286034?od=T31&po=0&category=0&groupCd=",
-            "score": 43.67
+            "source": "인벤",
+            "rank": 75,
+            "title": "내로남불?? 이중잣대??",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747808",
+            "score": 56.71
           }
         ],
         "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "i53a2e4b6",
-        "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i73127acd",
+        "title": "박항서 감독 태국에서 인종차별 당한거 태국인들 욕 박더니",
         "keywords": [
-          "논란중인"
+          "인종차별",
+          "박항서",
+          "감독",
+          "태국에서"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 63.99,
-        "peak_score": 63.99,
+        "score": 69.75,
+        "peak_score": 69.75,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "뽐뿌"
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
-            "score": 54.99
+            "source": "루리웹",
+            "rank": 49,
+            "title": "박항서 감독 태국에서 인종차별 당한거 태국인들 욕 박더니",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244920?m=humor_only&t=now",
+            "score": 61.75
           },
           {
-            "source": "더쿠",
-            "rank": 84,
-            "title": "요즘 사람들 사이에서 논란중인 문제",
-            "url": "https://theqoo.net/hot/4393213230",
-            "score": 49.11
+            "source": "인벤",
+            "rank": 88,
+            "title": "태국에서 인종차별 당한 박항서 감독",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747817",
+            "score": 53.04
           }
         ],
         "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "ib6efdff3",
+        "title": "故 최불암 선생님 마지막 가시는길",
+        "keywords": [
+          "최불암",
+          "가시는길",
+          "선생님",
+          "마지막"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 67.93,
+        "peak_score": 67.93,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 61,
+            "title": "故 최불암 선생님 마지막 가시는길",
+            "url": "https://www.clien.net/service/board/park/19286214?od=T31&po=0&category=0&groupCd=",
+            "score": 59.93
+          },
+          {
+            "source": "인벤",
+            "rank": 84,
+            "title": "故 최불암 선생님 마지막 가시는길",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747829",
+            "score": 55.08
+          }
+        ],
+        "rank": 8,
         "change": "NEW"
       }
     ],
     "daily": [
       {
+        "id": "i3afa8a28",
+        "title": "한강을 달리는 자전거들 가격",
+        "keywords": [
+          "한강을",
+          "자전거들",
+          "가격",
+          "달리는"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 125.24,
+        "peak_score": 110.77,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "인벤",
+            "rank": 48,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
+            "score": 62.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 76,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://theqoo.net/hot/4393517414",
+            "score": 56.68
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i5c6da920",
         "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -292,8 +390,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 1
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ifc264642",
@@ -330,7 +428,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -368,8 +466,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -406,7 +504,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -444,7 +542,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -482,7 +580,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -521,7 +619,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -559,7 +657,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -601,8 +699,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ib85b481b",
@@ -639,7 +737,45 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
+        "change": -1
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.92,
+        "peak_score": 85.45,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "쿠팡맨 하고 있다는 90년대 아이돌.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173468",
+            "score": 76.45
+          },
+          {
+            "source": "인벤",
+            "rank": 23,
+            "title": "현재 망하고 있다는 울릉도 생태계...",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747830",
+            "score": 67.94
+          }
+        ],
+        "first_seen": "2026-10-04T04:29:59.427007+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
         "change": "NEW"
       },
       {
@@ -677,8 +813,8 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i5af4f08c",
@@ -717,7 +853,47 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 14,
+        "change": -2
+      },
+      {
+        "id": "i245743f5",
+        "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
+        "keywords": [
+          "가슴",
+          "좋다",
+          "옛말"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.63,
+        "peak_score": 82.16,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747819",
+            "score": 74.16
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "\"큰 가슴 좋다\"는 건 옛말 이제는...",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244875?m=humor_only&t=now",
+            "score": 52.97
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
         "change": "NEW"
       },
       {
@@ -755,8 +931,46 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 16,
+        "change": -3
+      },
+      {
+        "id": "ia4a07fe1",
+        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "박근혜"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.43,
+        "peak_score": 76.96,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 22,
+            "title": "이명박, 박근혜 때가 태평성대였네요",
+            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
+            "score": 67.96
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 51,
+            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
+            "score": 61.43
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i1587955d",
@@ -793,8 +1007,49 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 18,
         "change": -4
+      },
+      {
+        "id": "i985d0761",
+        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+        "keywords": [
+          "수령",
+          "7만명",
+          "교도소",
+          "민생지원금"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.21,
+        "peak_score": 74.74,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
+            "score": 66.74
+          },
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "교도소 7만명 민생지원금 수령…",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
+            "score": 63.5
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i4c8bdd1e",
@@ -831,126 +1086,61 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -4
-      },
-      {
-        "id": "idbb760fc",
-        "title": "‘열심히’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "열심히"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.89,
-        "peak_score": 65.42,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "핫게 간 \"결혼 1년차 이혼해도될까?\" 에 대한 새로운 시선 \"그래서 일부러 교회를 아주 많이 열심히 다니는 여자로 고름\"",
-            "url": "https://theqoo.net/hot/4393241851",
-            "score": 56.42
-          },
-          {
-            "source": "클리앙",
-            "rank": 97,
-            "title": "다른 세대 신경쓰시지 마시고 다들 열심히 삽시다",
-            "url": "https://www.clien.net/service/board/park/19286034?od=T31&po=0&category=0&groupCd=",
-            "score": 43.67
-          }
-        ],
-        "first_seen": "2026-11-02T10:52:35.245667+09:00",
-        "last_seen": "2026-11-02T10:52:35.245667+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i53a2e4b6",
-        "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "논란중인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.46,
-        "peak_score": 63.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
-            "score": 54.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 84,
-            "title": "요즘 사람들 사이에서 논란중인 문제",
-            "url": "https://theqoo.net/hot/4393213230",
-            "score": 49.11
-          }
-        ],
-        "first_seen": "2026-11-02T10:52:35.245667+09:00",
-        "last_seen": "2026-11-02T10:52:35.245667+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "i50b33b63",
-        "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "고양이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.92,
-        "peak_score": 62.45,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "[오늘의 우주이야기] 고양이 얼굴을 한 성운",
-            "url": "https://www.clien.net/service/board/park/19285946?od=T31&po=0&category=0&groupCd=",
-            "score": 53.45
-          },
-          {
-            "source": "루리웹",
-            "rank": 85,
-            "title": "좀비 고양이",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241028?m=humor_only&t=now",
-            "score": 47.77
-          }
-        ],
-        "first_seen": "2026-09-30T10:38:38.903426+09:00",
-        "last_seen": "2026-11-02T03:51:28.771217+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
+        "rank": 20,
+        "change": -5
       }
     ],
     "weekly": [
       {
+        "id": "i3afa8a28",
+        "title": "한강을 달리는 자전거들 가격",
+        "keywords": [
+          "한강을",
+          "자전거들",
+          "가격",
+          "달리는"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 125.24,
+        "peak_score": 110.77,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "인벤",
+            "rank": 48,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
+            "score": 62.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 76,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://theqoo.net/hot/4393517414",
+            "score": 56.68
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i5c6da920",
         "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -985,8 +1175,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 1
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ifc264642",
@@ -1023,7 +1213,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -1061,8 +1251,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -1099,7 +1289,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -1137,7 +1327,7 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -1175,7 +1365,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1214,7 +1404,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -1252,7 +1442,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -1294,8 +1484,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ib85b481b",
@@ -1332,7 +1522,45 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
+        "change": -1
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.92,
+        "peak_score": 85.45,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "쿠팡맨 하고 있다는 90년대 아이돌.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173468",
+            "score": 76.45
+          },
+          {
+            "source": "인벤",
+            "rank": 23,
+            "title": "현재 망하고 있다는 울릉도 생태계...",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747830",
+            "score": 67.94
+          }
+        ],
+        "first_seen": "2026-10-04T04:29:59.427007+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
         "change": "NEW"
       },
       {
@@ -1370,8 +1598,8 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i5af4f08c",
@@ -1410,7 +1638,47 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 14,
+        "change": -2
+      },
+      {
+        "id": "i245743f5",
+        "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
+        "keywords": [
+          "가슴",
+          "좋다",
+          "옛말"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.63,
+        "peak_score": 82.16,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747819",
+            "score": 74.16
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "\"큰 가슴 좋다\"는 건 옛말 이제는...",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77244875?m=humor_only&t=now",
+            "score": 52.97
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
         "change": "NEW"
       },
       {
@@ -1448,8 +1716,46 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 16,
+        "change": -3
+      },
+      {
+        "id": "ia4a07fe1",
+        "title": "‘박근혜’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "박근혜"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.43,
+        "peak_score": 76.96,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 22,
+            "title": "이명박, 박근혜 때가 태평성대였네요",
+            "url": "https://www.clien.net/service/board/park/19286190?od=T31&po=0&category=0&groupCd=",
+            "score": 67.96
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 51,
+            "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474872&_dcbest=1&page=1",
+            "score": 61.43
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i1587955d",
@@ -1486,8 +1792,49 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 18,
         "change": -4
+      },
+      {
+        "id": "i985d0761",
+        "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+        "keywords": [
+          "수령",
+          "7만명",
+          "교도소",
+          "민생지원금"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.21,
+        "peak_score": 74.74,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "[단독]교도소 7만명 민생지원금 수령…“숙식 제공받는데 맞나” 지적",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474896&_dcbest=1&page=1",
+            "score": 66.74
+          },
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "교도소 7만명 민생지원금 수령…",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747820",
+            "score": 63.5
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i4c8bdd1e",
@@ -1524,122 +1871,8 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -4
-      },
-      {
-        "id": "idbb760fc",
-        "title": "‘열심히’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "열심히"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.89,
-        "peak_score": 65.42,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "핫게 간 \"결혼 1년차 이혼해도될까?\" 에 대한 새로운 시선 \"그래서 일부러 교회를 아주 많이 열심히 다니는 여자로 고름\"",
-            "url": "https://theqoo.net/hot/4393241851",
-            "score": 56.42
-          },
-          {
-            "source": "클리앙",
-            "rank": 97,
-            "title": "다른 세대 신경쓰시지 마시고 다들 열심히 삽시다",
-            "url": "https://www.clien.net/service/board/park/19286034?od=T31&po=0&category=0&groupCd=",
-            "score": 43.67
-          }
-        ],
-        "first_seen": "2026-11-02T10:52:35.245667+09:00",
-        "last_seen": "2026-11-02T10:52:35.245667+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i53a2e4b6",
-        "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "논란중인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.46,
-        "peak_score": 63.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
-            "score": 54.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 84,
-            "title": "요즘 사람들 사이에서 논란중인 문제",
-            "url": "https://theqoo.net/hot/4393213230",
-            "score": 49.11
-          }
-        ],
-        "first_seen": "2026-11-02T10:52:35.245667+09:00",
-        "last_seen": "2026-11-02T10:52:35.245667+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "i50b33b63",
-        "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "고양이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.92,
-        "peak_score": 62.45,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "[오늘의 우주이야기] 고양이 얼굴을 한 성운",
-            "url": "https://www.clien.net/service/board/park/19285946?od=T31&po=0&category=0&groupCd=",
-            "score": 53.45
-          },
-          {
-            "source": "루리웹",
-            "rank": 85,
-            "title": "좀비 고양이",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77241028?m=humor_only&t=now",
-            "score": 47.77
-          }
-        ],
-        "first_seen": "2026-09-30T10:38:38.903426+09:00",
-        "last_seen": "2026-11-02T03:51:28.771217+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
+        "rank": 20,
+        "change": -5
       }
     ],
     "monthly": [
@@ -1732,6 +1965,55 @@
         "change": 0
       },
       {
+        "id": "i3afa8a28",
+        "title": "한강을 달리는 자전거들 가격",
+        "keywords": [
+          "한강을",
+          "자전거들",
+          "가격",
+          "달리는"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 125.24,
+        "peak_score": 110.77,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77243396?m=humor",
+            "score": 95.77
+          },
+          {
+            "source": "인벤",
+            "rank": 48,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747832",
+            "score": 62.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 76,
+            "title": "한강을 달리는 자전거들 가격",
+            "url": "https://theqoo.net/hot/4393517414",
+            "score": 56.68
+          }
+        ],
+        "first_seen": "2026-11-02T14:56:17.431188+09:00",
+        "last_seen": "2026-11-02T14:56:17.431188+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
         "id": "ifc264642",
         "title": "‘아반떼’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1768,8 +2050,8 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i5c6da920",
@@ -1806,8 +2088,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 2
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i0cdcc665",
@@ -1846,7 +2128,7 @@
         "last_seen": "2026-11-01T18:43:20.593439+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -1884,7 +2166,7 @@
         "last_seen": "2026-11-01T05:09:03.968462+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1923,8 +2205,8 @@
         "last_seen": "2026-11-01T18:43:20.593439+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -1961,8 +2243,8 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -1999,8 +2281,8 @@
         "last_seen": "2026-11-01T05:09:03.968462+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i85fe1706",
@@ -2037,8 +2319,8 @@
         "last_seen": "2026-11-02T10:52:35.245667+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i4a23876e",
@@ -2077,7 +2359,7 @@
         "last_seen": "2026-11-01T19:52:30.235341+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -2119,7 +2401,7 @@
         "last_seen": "2026-11-01T22:49:23.434457+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -2157,7 +2439,7 @@
         "last_seen": "2026-11-01T01:12:55.542815+09:00",
         "latest_source_count": 2,
         "latest_post_count": 5,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -2203,7 +2485,7 @@
         "last_seen": "2026-11-01T15:43:39.117322+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -2241,7 +2523,7 @@
         "last_seen": "2026-11-01T06:22:46.396757+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -2279,7 +2561,7 @@
         "last_seen": "2026-11-02T01:31:31.214001+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -2318,7 +2600,7 @@
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -2359,7 +2641,7 @@
         "last_seen": "2026-11-01T22:49:23.434457+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -2395,44 +2677,6 @@
         ],
         "first_seen": "2026-10-17T02:56:53.776363+09:00",
         "last_seen": "2026-11-02T09:04:17.608386+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i1b672c00",
-        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "치이카와"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 97.65,
-        "peak_score": 88.18,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 11,
-            "title": "쳐멸망했다던 치이카와 근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474619&_dcbest=1&page=1",
-            "score": 79.18
-          },
-          {
-            "source": "루리웹",
-            "rank": 92,
-            "title": "(치이카와)세이렌은 본 섬사람들에게 실망했다.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77228375?m=humor_only&t=now",
-            "score": 52.88
-          }
-        ],
-        "first_seen": "2026-10-08T11:52:47.411122+09:00",
-        "last_seen": "2026-11-01T05:09:03.968462+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
