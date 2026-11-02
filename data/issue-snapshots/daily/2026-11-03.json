@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-03",
   "label": "2026년 11월 03일",
-  "collected_at": "2026-11-03T04:36:52.209960+09:00",
+  "collected_at": "2026-11-03T08:16:00.039053+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -161,7 +161,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib6978d90",
@@ -199,7 +199,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i304a5af2",
@@ -240,6 +240,120 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
+      "change": 0
+    },
+    {
+      "id": "i7fdb4187",
+      "title": "‘전한길’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "전한길"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.68,
+      "peak_score": 73.21,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 36,
+          "title": "\"5·18은 DJ·북한이 주도한 내란\" 주장 전한길 공소청 송치",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748035",
+          "score": 64.21
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 71,
+          "title": "전한길 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174162",
+          "score": 57.07
+        }
+      ],
+      "first_seen": "2026-11-03T08:16:00.039053+09:00",
+      "last_seen": "2026-11-03T08:16:00.039053+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.72,
+      "peak_score": 72.25,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "후방) 오토하 미나 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748040",
+          "score": 63.25
+        },
+        {
+          "source": "더쿠",
+          "rank": 48,
+          "title": "인스타 댓글 기싸움 난리난 글...gif",
+          "url": "https://theqoo.net/hot/4394220973",
+          "score": 62.0
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-11-03T08:16:00.039053+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "i9658358b",
+      "title": "‘우크라이나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "우크라이나"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.53,
+      "peak_score": 70.06,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 52,
+          "title": "남성들만 강제징병된 우크라이나 근황 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174108",
+          "score": 61.06
+        },
+        {
+          "source": "루리웹",
+          "rank": 69,
+          "title": "우크라이나 전쟁의 정보전 썰.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77252094?m=humor_only&t=now",
+          "score": 57.7
+        }
+      ],
+      "first_seen": "2026-10-22T01:08:04.674749+09:00",
+      "last_seen": "2026-11-03T08:16:00.039053+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
@@ -277,8 +391,8 @@
       "last_seen": "2026-11-03T04:36:52.209960+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 10,
+      "change": -3
     }
   ]
 }
