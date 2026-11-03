@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-03T08:16:00.039053+09:00",
+  "collected_at": "2026-11-03T10:50:19.580284+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -711,6 +711,45 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 91.92,
+      "peak_score": 79.43,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "JTBC) 이재명 \"모두의 성장\" 찍고 821조 승부수",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475095&_dcbest=1&page=1",
+          "score": 70.43
+        },
+        {
+          "source": "클리앙",
+          "rank": 97,
+          "title": "장인수:이재명 본인이 죽게생겨야 생각 변할것",
+          "url": "https://www.clien.net/service/board/park/19286496?od=T31&po=0&category=0&groupCd=",
+          "score": 51.47
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-11-03T10:50:19.580284+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i245743f5",
       "title": "\"큰 가슴 좋다\"는 건 옛말.. 빈유가 뜬다!!!",
       "keywords": [
@@ -747,46 +786,8 @@
       "last_seen": "2026-11-02T14:56:17.431188+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i1dfadc28",
-      "title": "‘얼굴을’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "얼굴을"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.7,
-      "peak_score": 77.77,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 24,
-          "title": "일본 며느리의 얼굴을 몰라보는 시아버지",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474828&_dcbest=1&page=1",
-          "score": 68.77
-        },
-        {
-          "source": "클리앙",
-          "rank": 74,
-          "title": "[오늘의 우주이야기] 고양이 얼굴을 한 성운",
-          "url": "https://www.clien.net/service/board/park/19285946?od=T31&po=0&category=0&groupCd=",
-          "score": 49.97
-        }
-      ],
-      "first_seen": "2026-11-02T01:31:31.214001+09:00",
-      "last_seen": "2026-11-02T05:49:45.729204+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
