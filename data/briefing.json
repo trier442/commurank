@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-04",
   "label": "2026년 11월 04일",
-  "collected_at": "2026-11-04T02:17:10.666186+09:00",
+  "collected_at": "2026-11-04T04:01:31.975565+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘리센느’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #리센느. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘리센느’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 5,
-    "keywords": 15,
-    "top100_views": 890287,
-    "top100_comments": 8348
+    "daily_issues": 7,
+    "keywords": 11,
+    "top100_views": 1013704,
+    "top100_comments": 9438
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "갑자기 전쟁 준비한다는 스레드 근황",
+      "title": "인스타에서 사람들이 신고 중인 영상.mp4",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77258339?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77260237?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#리센느",
-      "text": "3개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "리센느"
+      "title": "#한국",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "인스타에서 사람들이 신고 중인 영상.mp4",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77260237?m=humor",
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "peak_score": 98.54,
+      "max_views": 15573,
+      "max_likes": 71,
+      "max_comments": 77,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-04": {
+          "max_score": 98.54,
+          "max_views": 15573,
+          "max_likes": 71,
+          "max_comments": 77,
+          "appearances": 1,
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 15573,
+      "likes": 71,
+      "comments": 77,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "갑자기 전쟁 준비한다는 스레드 근황",
       "source": "루리웹",
@@ -67,12 +96,41 @@
           "last_seen": "2026-11-04T02:17:10.666186+09:00"
         }
       },
-      "score": 106.12,
+      "score": 105.98,
       "views": 34662,
       "likes": 174,
       "comments": 117,
       "active_days": 1,
-      "change": 14
+      "change": -1
+    },
+    {
+      "title": "일론 머스크 대형 악재 발생",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77261582?m=humor",
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "peak_score": 96.19,
+      "max_views": 14921,
+      "max_likes": 107,
+      "max_comments": 72,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-04": {
+          "max_score": 96.19,
+          "max_views": 14921,
+          "max_likes": 107,
+          "max_comments": 72,
+          "appearances": 1,
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
+        }
+      },
+      "score": 105.71,
+      "views": 14921,
+      "likes": 107,
+      "comments": 72,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "외국인들이 이상할정도로 환장하는 한국음식",
@@ -96,12 +154,12 @@
           "last_seen": "2026-11-04T02:17:10.666186+09:00"
         }
       },
-      "score": 105.53,
+      "score": 105.39,
       "views": 10602,
       "likes": 70,
       "comments": 63,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "축구 역사상 최악의 반칙 끝내 선수 사망",
@@ -125,10 +183,39 @@
           "last_seen": "2026-11-04T02:17:10.666186+09:00"
         }
       },
-      "score": 104.17,
+      "score": 104.03,
       "views": 39088,
       "likes": 145,
       "comments": 112,
+      "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77261768?m=humor",
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "peak_score": 92.59,
+      "max_views": 12774,
+      "max_likes": 41,
+      "max_comments": 87,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-04": {
+          "max_score": 92.59,
+          "max_views": 12774,
+          "max_likes": 41,
+          "max_comments": 87,
+          "appearances": 1,
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
+        }
+      },
+      "score": 102.11,
+      "views": 12774,
+      "likes": 41,
+      "comments": 87,
       "active_days": 1,
       "change": "NEW"
     },
@@ -162,12 +249,12 @@
           "last_seen": "2026-11-04T02:17:10.666186+09:00"
         }
       },
-      "score": 94.06,
+      "score": 93.92,
       "views": 34845,
       "likes": 29,
       "comments": 28,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "리센느 미쳤나 진짜..ㄷㄷ",
@@ -175,205 +262,218 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
       "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
       "peak_score": 83.49,
-      "max_views": 10488,
-      "max_likes": 6,
-      "max_comments": 50,
-      "appearances": 1,
+      "max_views": 16177,
+      "max_likes": 9,
+      "max_comments": 57,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-04": {
           "max_score": 83.49,
-          "max_views": 10488,
-          "max_likes": 6,
-          "max_comments": 50,
-          "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
+          "max_views": 16177,
+          "max_likes": 9,
+          "max_comments": 57,
+          "appearances": 2,
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
         }
       },
-      "score": 93.01,
-      "views": 10488,
-      "likes": 6,
-      "comments": 50,
+      "score": 93.91,
+      "views": 16177,
+      "likes": 9,
+      "comments": 57,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "title": "싱글벙글 관세청 새끼들이 양아치인 이유",
-      "source": "디시인사이드",
+      "title": "중수청은 역사에 남을 뻘짓으로 기록될듯",
+      "source": "클리앙",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475330&_dcbest=1&page=1",
+      "url": "https://www.clien.net/service/board/park/19287017?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "peak_score": 80.35,
-      "max_views": 20237,
-      "max_likes": 261,
-      "max_comments": 301,
-      "appearances": 1,
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "peak_score": 81.55,
+      "max_views": 1876,
+      "max_likes": 3,
+      "max_comments": 10,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-04": {
-          "max_score": 80.35,
-          "max_views": 20237,
-          "max_likes": 261,
-          "max_comments": 301,
-          "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
+          "max_score": 81.55,
+          "max_views": 1876,
+          "max_likes": 3,
+          "max_comments": 10,
+          "appearances": 2,
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
         }
       },
-      "score": 89.87,
-      "views": 20237,
-      "likes": 261,
-      "comments": 301,
+      "score": 91.97,
+      "views": 1876,
+      "likes": 3,
+      "comments": 10,
       "active_days": 1,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "title": "호남 참 원망스럽네요",
+      "title": "분해서 참을 수가 없네요. 전당대회때 한 짓들 다 기억",
       "source": "뽐뿌",
       "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175101",
-      "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "peak_score": 80.13,
-      "max_views": 11010,
-      "max_likes": 49,
-      "max_comments": 64,
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175384",
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "peak_score": 81.3,
+      "max_views": 6242,
+      "max_likes": 85,
+      "max_comments": 13,
       "appearances": 1,
       "daily_stats": {
         "2026-11-04": {
-          "max_score": 80.13,
-          "max_views": 11010,
-          "max_likes": 49,
-          "max_comments": 64,
+          "max_score": 81.3,
+          "max_views": 6242,
+          "max_likes": 85,
+          "max_comments": 13,
           "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
+          "last_seen": "2026-11-04T04:01:31.975565+09:00"
         }
       },
-      "score": 89.65,
-      "views": 11010,
-      "likes": 49,
-      "comments": 64,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "리센느 차단하든지 해야지",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
-      "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "peak_score": 79.44,
-      "max_views": 2859,
-      "max_likes": 21,
-      "max_comments": 30,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-04": {
-          "max_score": 79.44,
-          "max_views": 2859,
-          "max_likes": 21,
-          "max_comments": 30,
-          "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
-        }
-      },
-      "score": 88.96,
-      "views": 2859,
-      "likes": 21,
-      "comments": 30,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
-      "source": "더쿠",
-      "category": "유머",
-      "url": "https://theqoo.net/hot/4395147593",
-      "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "peak_score": 78.53,
-      "max_views": 34124,
-      "max_likes": 0,
-      "max_comments": 549,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-04": {
-          "max_score": 78.53,
-          "max_views": 34124,
-          "max_likes": 0,
-          "max_comments": 549,
-          "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
-        }
-      },
-      "score": 88.05,
-      "views": 34124,
-      "likes": 0,
-      "comments": 549,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "싱글벙글 독립운동을 한다면 목숨을 걸고 할거라는 사람들",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475324&_dcbest=1&page=1",
-      "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "peak_score": 75.78,
-      "max_views": 17994,
-      "max_likes": 159,
-      "max_comments": 368,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-04": {
-          "max_score": 75.78,
-          "max_views": 17994,
-          "max_likes": 159,
-          "max_comments": 368,
-          "appearances": 1,
-          "last_seen": "2026-11-04T02:17:10.666186+09:00"
-        }
-      },
-      "score": 85.3,
-      "views": 17994,
-      "likes": 159,
-      "comments": 368,
+      "score": 90.82,
+      "views": 6242,
+      "likes": 85,
+      "comments": 13,
       "active_days": 1,
       "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "갑자기 전쟁 준비한다는 스레드 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77258339?m=humor",
+      "source": "디시인사이드",
+      "title": "첨단 기술이 없어 가난해진 일본 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475356&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 34662,
-      "likes": 174,
-      "comments": 117,
-      "score": 96.6,
-      "change": 2,
-      "current_rank": 1,
+      "views": 6623,
+      "likes": 41,
+      "comments": 170,
+      "score": 77.12,
+      "change": 23,
+      "current_rank": 10,
       "new_entry": false,
-      "delta_views": 21994,
-      "delta_likes": 75,
-      "delta_comments": 26,
-      "rank_gain": 2,
-      "rising_score": 100.0,
+      "delta_views": 4181,
+      "delta_likes": 21,
+      "delta_comments": 93,
+      "rank_gain": 23,
+      "rising_score": 93.94,
       "rising_rank": 1,
-      "window_minutes": 324
+      "window_minutes": 104
+    },
+    {
+      "source": "더쿠",
+      "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+      "url": "https://theqoo.net/hot/4395205575",
+      "category": "이슈",
+      "views": 13783,
+      "likes": 0,
+      "comments": 231,
+      "score": 69.0,
+      "change": 24,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 8118,
+      "delta_likes": 0,
+      "delta_comments": 115,
+      "rank_gain": 24,
+      "rising_score": 93.52,
+      "rising_rank": 2,
+      "window_minutes": 104
+    },
+    {
+      "source": "디시인사이드",
+      "title": "한국와서 기싸움에 밀린 순박한 자전거 일본여자 .",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475358&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 5535,
+      "likes": 27,
+      "comments": 70,
+      "score": 67.48,
+      "change": 28,
+      "current_rank": 27,
+      "new_entry": false,
+      "delta_views": 4018,
+      "delta_likes": 19,
+      "delta_comments": 37,
+      "rank_gain": 28,
+      "rising_score": 89.52,
+      "rising_rank": 3,
+      "window_minutes": 104
+    },
+    {
+      "source": "디시인사이드",
+      "title": "한국 치어리더 이주은때문에 난리 나버린 대만근황 남녀내전",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475354&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8001,
+      "likes": 16,
+      "comments": 85,
+      "score": 67.98,
+      "change": 28,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 4536,
+      "delta_likes": 11,
+      "delta_comments": 30,
+      "rank_gain": 28,
+      "rising_score": 85.58,
+      "rising_rank": 4,
+      "window_minutes": 104
     },
     {
       "source": "루리웹",
-      "title": "외국인들이 이상할정도로 환장하는 한국음식",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77260919?m=humor",
-      "category": "생활",
-      "views": 10602,
-      "likes": 70,
-      "comments": 63,
-      "score": 96.01,
+      "title": "인스타에서 사람들이 신고 중인 영상.mp4",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77260237?m=humor",
+      "category": "이슈",
+      "views": 15573,
+      "likes": 71,
+      "comments": 77,
+      "score": 98.54,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.39,
+      "rising_rank": 5,
+      "window_minutes": 104
+    },
+    {
+      "source": "클리앙",
+      "title": "중수청은 역사에 남을 뻘짓으로 기록될듯",
+      "url": "https://www.clien.net/service/board/park/19287017?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1876,
+      "likes": 3,
+      "comments": 10,
+      "score": 81.55,
+      "change": 8,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 1229,
+      "delta_likes": 2,
+      "delta_comments": 4,
+      "rank_gain": 8,
+      "rising_score": 82.5,
+      "rising_rank": 6,
+      "window_minutes": 104
+    },
+    {
+      "source": "루리웹",
+      "title": "일론 머스크 대형 악재 발생",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77261582?m=humor",
+      "category": "이슈",
+      "views": 14921,
+      "likes": 107,
+      "comments": 72,
+      "score": 96.19,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -381,19 +481,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.32,
-      "rising_rank": 2,
-      "window_minutes": 324
+      "rising_score": 82.4,
+      "rising_rank": 7,
+      "window_minutes": 104
+    },
+    {
+      "source": "인벤",
+      "title": "이모는 젖이 안 나온다고",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2748469",
+      "category": "이슈",
+      "views": 3186,
+      "likes": 1,
+      "comments": 6,
+      "score": 70.31,
+      "change": 5,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 1242,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 5,
+      "rising_score": 81.0,
+      "rising_rank": 8,
+      "window_minutes": 104
     },
     {
       "source": "루리웹",
-      "title": "축구 역사상 최악의 반칙 끝내 선수 사망",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77258235?m=humor",
-      "category": "스포츠",
-      "views": 39088,
-      "likes": 145,
-      "comments": 112,
-      "score": 94.65,
+      "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77261768?m=humor",
+      "category": "이슈",
+      "views": 12774,
+      "likes": 41,
+      "comments": 87,
+      "score": 92.59,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -401,149 +521,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.75,
-      "rising_rank": 3,
-      "window_minutes": 324
-    },
-    {
-      "source": "루리웹",
-      "title": "[신한카드] 11월 럭키박스 (11/2~30)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108614",
-      "category": "이슈",
-      "views": 34845,
-      "likes": 29,
-      "comments": 28,
-      "score": 84.54,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.51,
-      "rising_rank": 4,
-      "window_minutes": 324
-    },
-    {
-      "source": "뽐뿌",
-      "title": "리센느 미쳤나 진짜..ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
-      "category": "이슈",
-      "views": 10488,
-      "likes": 6,
-      "comments": 50,
-      "score": 83.49,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.07,
-      "rising_rank": 5,
-      "window_minutes": 324
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 관세청 새끼들이 양아치인 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475330&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20237,
-      "likes": 261,
-      "comments": 301,
-      "score": 80.35,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.75,
-      "rising_rank": 6,
-      "window_minutes": 324
-    },
-    {
-      "source": "뽐뿌",
-      "title": "호남 참 원망스럽네요",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175101",
-      "category": "이슈",
-      "views": 11010,
-      "likes": 49,
-      "comments": 64,
-      "score": 80.13,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.65,
-      "rising_rank": 7,
-      "window_minutes": 324
-    },
-    {
-      "source": "뽐뿌",
-      "title": "리센느 차단하든지 해야지",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
-      "category": "이슈",
-      "views": 2859,
-      "likes": 21,
-      "comments": 30,
-      "score": 79.44,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.36,
-      "rising_rank": 8,
-      "window_minutes": 324
+      "rising_score": 80.89,
+      "rising_rank": 9,
+      "window_minutes": 104
     },
     {
       "source": "더쿠",
-      "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
-      "url": "https://theqoo.net/hot/4395147593",
-      "category": "유머",
-      "views": 34124,
+      "title": "[재혼황후] 현재 호평받는 중인 정영주 배우 대사톤",
+      "url": "https://theqoo.net/hot/4395174054",
+      "category": "연예",
+      "views": 32200,
       "likes": 0,
-      "comments": 549,
-      "score": 78.53,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 307,
+      "score": 75.84,
+      "change": 9,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 7459,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.98,
-      "rising_rank": 9,
-      "window_minutes": 324
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 독립운동을 한다면 목숨을 걸고 할거라는 사람들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475324&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17994,
-      "likes": 159,
-      "comments": 368,
-      "score": 75.78,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.83,
+      "delta_comments": 42,
+      "rank_gain": 9,
+      "rising_score": 80.56,
       "rising_rank": 10,
-      "window_minutes": 324
+      "window_minutes": 104
     }
   ],
   "issues": [
@@ -555,9 +555,9 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 118.96,
+      "score": 120.98,
       "peak_score": 102.49,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤",
@@ -566,32 +566,25 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 5,
-          "title": "리센느 미쳤나 진짜..ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
-          "score": 83.49
+          "rank": 8,
+          "title": "리센느 차단하든지 해야지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
+          "score": 79.35
         },
         {
           "source": "인벤",
-          "rank": 51,
+          "rank": 59,
           "title": "여기도 리센느, 저기도 리센느",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-          "score": 61.9
-        },
-        {
-          "source": "클리앙",
-          "rank": 90,
-          "title": "리센느 멜론 TOP100 14위 안으로 10곡",
-          "url": "https://www.clien.net/service/board/park/19286995?od=T31&po=0&category=0&groupCd=",
-          "score": 54.09
+          "score": 61.25
         }
       ],
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 5,
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ic87ce8e8",
@@ -629,6 +622,49 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "if692bfca",
+      "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+      "keywords": [
+        "50으로",
+        "정확히",
+        "취향",
+        "식사",
+        "갈린",
+        "000명이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.06,
+      "peak_score": 100.59,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77261768?m=humor",
+          "score": 92.59
+        },
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+          "url": "https://theqoo.net/hot/4395205575",
+          "score": 69.0
+        }
+      ],
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
       "change": "NEW"
     },
     {
@@ -666,8 +702,46 @@
       "last_seen": "2026-11-04T02:17:10.666186+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "iae209e51",
+      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "충격적인"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 100.56,
+      "peak_score": 88.07,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
+          "score": 78.07
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "\"일을 왜함?\" 충격적인 기초수급자 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475308&_dcbest=1&page=1",
+          "score": 67.41
+        }
+      ],
+      "first_seen": "2026-09-30T11:27:58.185526+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": 0
     },
     {
       "id": "ibc133f9d",
@@ -677,72 +751,72 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.11,
-      "peak_score": 77.64,
-      "appearances": 1,
+      "score": 98.56,
+      "peak_score": 87.07,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 22,
-          "title": "김성회 의원의 브리핑 내용을 본 홍사훈 기자의 반응",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748473",
-          "score": 68.64
-        },
-        {
           "source": "뽐뿌",
-          "rank": 46,
+          "rank": 9,
           "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-          "score": 62.44
+          "score": 78.07
+        },
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "김성회 의원의 브리핑 내용을 본 홍사훈 기자의 반응",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748473",
+          "score": 71.18
         }
       ],
       "first_seen": "2026-11-04T02:17:10.666186+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
-      "id": "iae209e51",
-      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i015a50b6",
+      "title": "‘롯데온’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "충격적인"
+        "롯데온"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.88,
-      "peak_score": 76.41,
+      "score": 85.58,
+      "peak_score": 76.11,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 28,
-          "title": "\"일을 왜함?\" 충격적인 기초수급자 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475308&_dcbest=1&page=1",
-          "score": 67.41
+          "source": "루리웹",
+          "rank": 29,
+          "title": "[롯데온]초코파이 망고라씨12P+브라우니12P+카스타드12P/카페11,870원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108651",
+          "score": 67.11
         },
         {
           "source": "뽐뿌",
-          "rank": 46,
-          "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-          "score": 62.44
+          "rank": 94,
+          "title": "[롯데온] 나이키키즈 겨울아우터 3종 택1 (64,970원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745619",
+          "score": 52.98
         }
       ],
-      "first_seen": "2026-09-30T11:27:58.185526+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
+      "first_seen": "2026-11-04T04:01:31.975565+09:00",
+      "last_seen": "2026-11-04T04:01:31.975565+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 7,
       "change": "NEW"
     }
   ],
@@ -753,86 +827,83 @@
       "keywords": [
         "리센느"
       ],
-      "source_count": 3,
-      "post_count": 5,
-      "score": 102.49,
-      "peak_score": 102.49,
+      "source_count": 2,
+      "post_count": 4,
+      "score": 90.35,
+      "peak_score": 90.35,
       "appearances": 1,
       "sources": [
         "뽐뿌",
-        "인벤",
-        "클리앙"
+        "인벤"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 5,
-          "title": "리센느 미쳤나 진짜..ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
-          "score": 83.49
+          "rank": 8,
+          "title": "리센느 차단하든지 해야지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
+          "score": 79.35
         },
         {
           "source": "인벤",
-          "rank": 51,
+          "rank": 59,
           "title": "여기도 리센느, 저기도 리센느",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-          "score": 61.9
-        },
-        {
-          "source": "클리앙",
-          "rank": 90,
-          "title": "리센느 멜론 TOP100 14위 안으로 10곡",
-          "url": "https://www.clien.net/service/board/park/19286995?od=T31&po=0&category=0&groupCd=",
-          "score": 54.09
+          "score": 61.25
         }
       ],
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
-      "id": "ic87ce8e8",
-      "title": "‘최악의’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iae209e51",
+      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "최악의"
+        "충격적인"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 103.65,
-      "peak_score": 103.65,
+      "post_count": 3,
+      "score": 88.07,
+      "peak_score": 88.07,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "축구 역사상 최악의 반칙 끝내 선수 사망",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77258235?m=humor",
-          "score": 94.65
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
+          "score": 78.07
         },
         {
           "source": "디시인사이드",
-          "rank": 43,
-          "title": "이동진 평론가가 말하는 최악의 연애.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475332&_dcbest=1&page=1",
-          "score": 63.1
+          "rank": 28,
+          "title": "\"일을 왜함?\" 충격적인 기초수급자 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475308&_dcbest=1&page=1",
+          "score": 67.41
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "id": "i4a23876e",
-      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "if692bfca",
+      "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
       "keywords": [
-        "11월"
+        "50으로",
+        "정확히",
+        "취향",
+        "식사",
+        "갈린",
+        "000명이"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.54,
-      "peak_score": 93.54,
+      "score": 100.59,
+      "peak_score": 100.59,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -841,17 +912,17 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 4,
-          "title": "[신한카드] 11월 럭키박스 (11/2~30)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108614",
-          "score": 84.54
+          "rank": 3,
+          "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77261768?m=humor",
+          "score": 92.59
         },
         {
           "source": "더쿠",
-          "rank": 37,
-          "title": "11월 춥다고 이불에 맨날 기어 들어가지 말고 스트레칭",
-          "url": "https://theqoo.net/hot/4395113644",
-          "score": 64.21
+          "rank": 21,
+          "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+          "url": "https://theqoo.net/hot/4395205575",
+          "score": 69.0
         }
       ],
       "rank": 3,
@@ -865,8 +936,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.64,
-      "peak_score": 77.64,
+      "score": 87.07,
+      "peak_score": 87.07,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -874,52 +945,52 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 22,
-          "title": "김성회 의원의 브리핑 내용을 본 홍사훈 기자의 반응",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748473",
-          "score": 68.64
-        },
-        {
           "source": "뽐뿌",
-          "rank": 46,
+          "rank": 9,
           "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-          "score": 62.44
+          "score": 78.07
+        },
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "김성회 의원의 브리핑 내용을 본 홍사훈 기자의 반응",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748473",
+          "score": 71.18
         }
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "iae209e51",
-      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i015a50b6",
+      "title": "‘롯데온’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "충격적인"
+        "롯데온"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.41,
-      "peak_score": 76.41,
+      "score": 76.11,
+      "peak_score": 76.11,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 28,
-          "title": "\"일을 왜함?\" 충격적인 기초수급자 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475308&_dcbest=1&page=1",
-          "score": 67.41
+          "source": "루리웹",
+          "rank": 29,
+          "title": "[롯데온]초코파이 망고라씨12P+브라우니12P+카스타드12P/카페11,870원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108651",
+          "score": 67.11
         },
         {
           "source": "뽐뿌",
-          "rank": 46,
-          "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-          "score": 62.44
+          "rank": 94,
+          "title": "[롯데온] 나이키키즈 겨울아우터 3종 택1 (64,970원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745619",
+          "score": 52.98
         }
       ],
       "rank": 5,
@@ -928,28 +999,28 @@
   ],
   "keywords": [
     {
-      "keyword": "리센느",
-      "score": 138.23,
-      "post_count": 5,
+      "keyword": "한국",
+      "score": 122.74,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 5,
+      "best_rank": 26,
       "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": 4
     },
     {
-      "keyword": "최악",
-      "score": 104.76,
+      "keyword": "중인",
+      "score": 111.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 1,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "루리웹"
       ],
       "aliases": [],
@@ -957,22 +1028,36 @@
       "change": "NEW"
     },
     {
-      "keyword": "11월",
-      "score": 103.74,
-      "post_count": 2,
+      "keyword": "충격적인",
+      "score": 109.5,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 4
     },
     {
-      "keyword": "축구",
-      "score": 97.69,
+      "keyword": "리센느",
+      "score": 108.39,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 8,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": -3
+    },
+    {
+      "keyword": "000명이",
+      "score": 107.93,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 3,
@@ -981,126 +1066,46 @@
         "루리웹"
       ],
       "aliases": [
-        "사망"
+        "50으로",
+        "갈린",
+        "식사",
+        "정확히",
+        "취향"
       ],
-      "rank": 4,
+      "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 94.24,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 40,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -2
-    },
-    {
       "keyword": "내용",
-      "score": 92.43,
+      "score": 103.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 9,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "충격적인",
-      "score": 91.54,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "일본",
-      "score": 90.81,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 33,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": 5
+      "change": 0
     },
     {
       "keyword": "신발",
-      "score": 88.71,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "민주당",
-      "score": 86.48,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 70,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": -1
-    },
-    {
-      "keyword": "가치",
-      "score": 84.18,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 40,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "미국",
-      "score": 83.08,
+      "score": 86.16,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 44,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "클리앙"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": "NEW"
+      "rank": 7,
+      "change": 2
     },
     {
-      "keyword": "ai",
-      "score": 80.94,
+      "keyword": "만화",
+      "score": 85.95,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 50,
@@ -1109,85 +1114,100 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 13,
+      "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "멜론",
-      "score": 77.8,
+      "keyword": "롯데온",
+      "score": 84.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 76,
+      "best_rank": 29,
       "sources": [
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": -12
+      "rank": 9,
+      "change": "NEW"
     },
     {
-      "keyword": "김민석",
-      "score": 75.32,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 13,
+      "keyword": "같이",
+      "score": 81.46,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 50,
       "sources": [
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
-      "rank": 15,
-      "change": -8
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 80.72,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 57,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": 1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "갑자기 전쟁 준비한다는 스레드 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77258339?m=humor",
-      "score": 96.6,
-      "views": 34662,
-      "comments": 117
-    },
-    {
-      "source": "뽐뿌",
-      "title": "리센느 미쳤나 진짜..ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
-      "score": 83.49,
-      "views": 10488,
-      "comments": 50
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 관세청 새끼들이 양아치인 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475330&_dcbest=1&page=1",
-      "score": 80.35,
-      "views": 20237,
-      "comments": 301
-    },
-    {
-      "source": "더쿠",
-      "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
-      "url": "https://theqoo.net/hot/4395147593",
-      "score": 78.53,
-      "views": 34124,
-      "comments": 549
+      "title": "인스타에서 사람들이 신고 중인 영상.mp4",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77260237?m=humor",
+      "score": 98.54,
+      "views": 15573,
+      "comments": 77
     },
     {
       "source": "클리앙",
       "title": "중수청은 역사에 남을 뻘짓으로 기록될듯",
       "url": "https://www.clien.net/service/board/park/19287017?od=T31&po=0&category=0&groupCd=",
-      "score": 73.1,
-      "views": 647,
-      "comments": 6
+      "score": 81.55,
+      "views": 1876,
+      "comments": 10
+    },
+    {
+      "source": "뽐뿌",
+      "title": "분해서 참을 수가 없네요. 전당대회때 한 짓들 다 기억",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175384",
+      "score": 81.3,
+      "views": 6242,
+      "comments": 13
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 관세청 새끼들이 양아치인 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475330&_dcbest=1&page=1",
+      "score": 80.08,
+      "views": 21735,
+      "comments": 308
+    },
+    {
+      "source": "더쿠",
+      "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
+      "url": "https://theqoo.net/hot/4395147593",
+      "score": 79.53,
+      "views": 37951,
+      "comments": 584
     },
     {
       "source": "인벤",
       "title": "버스에서 담배 피우는 여자, 훈계하자 극대로",
       "url": "https://www.inven.co.kr/board/webzine/2097/2748470",
-      "score": 71.16,
-      "views": 1523,
-      "comments": 5
+      "score": 73.6,
+      "views": 2420,
+      "comments": 6
     }
   ]
 }
