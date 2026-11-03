@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-04T07:21:53.879915+09:00",
+  "collected_at": "2026-11-04T08:57:35.047717+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -205,6 +205,45 @@
       "change": 0
     },
     {
+      "id": "i01009091",
+      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민석"
+      ],
+      "source_count": 3,
+      "post_count": 6,
+      "score": 116.36,
+      "peak_score": 94.31,
+      "appearances": 4,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 31,
+          "title": "양비론 ㅋㅋㅋ 김민석 탈출구 인가요? ㅋㅋㅋ",
+          "url": "https://www.clien.net/service/board/park/19287079?od=T31&po=0&category=0&groupCd=",
+          "score": 68.75
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "김민석, 신천지 의혹 사과…조작기소 특검법 당론 채택",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491543",
+          "score": 64.53
+        }
+      ],
+      "first_seen": "2026-10-03T16:01:31.160167+09:00",
+      "last_seen": "2026-11-04T08:57:35.047717+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 6,
+      "change": 1
+    },
+    {
       "id": "if692bfca",
       "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
       "keywords": [
@@ -244,47 +283,8 @@
       "last_seen": "2026-11-04T07:21:53.879915+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 5
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 3,
-      "post_count": 6,
-      "score": 115.24,
-      "peak_score": 94.31,
-      "appearances": 3,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 30,
-          "title": "민주당 김민석 박선원은 책임은 어떻게 진다는건가요?",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175374",
-          "score": 64.39
-        },
-        {
-          "source": "클리앙",
-          "rank": 36,
-          "title": "박현광]신천지 밀어붙이던 김민석 갑자기 태세 전환한 이유",
-          "url": "https://www.clien.net/service/board/park/19287036?od=T31&po=0&category=0&groupCd=",
-          "score": 63.22
-        }
-      ],
-      "first_seen": "2026-10-03T16:01:31.160167+09:00",
-      "last_seen": "2026-11-04T07:21:53.879915+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
       "rank": 7,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ic87ce8e8",
@@ -324,7 +324,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ia4c7959d",
+      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "좋아하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.58,
+      "peak_score": 103.11,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "토리야마 선생님 디자인중 특히 좋아하는 애들 모음",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77262193?m=humor",
+          "score": 94.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 30,
+          "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
+          "url": "https://theqoo.net/hot/4395147593",
+          "score": 68.89
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-11-04T08:57:35.047717+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "i85fe1706",
@@ -361,7 +399,7 @@
       "last_seen": "2026-11-02T10:52:35.245667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 10,
       "change": -1
     },
     {
@@ -399,7 +437,7 @@
       "last_seen": "2026-11-02T05:49:45.729204+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
       "change": -1
     },
     {
@@ -437,8 +475,47 @@
       "last_seen": "2026-11-03T00:41:17.132978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 12,
       "change": -1
+    },
+    {
+      "id": "i5a1ee9c8",
+      "title": "‘정청래’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "정청래"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 107.17,
+      "peak_score": 93.68,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "정청래 의원 대분노 표출.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175574",
+          "score": 84.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 38,
+          "title": "김민석 정청래 둘다 정계은퇴해야한다봅니다",
+          "url": "https://www.clien.net/service/board/park/19287077?od=T31&po=0&category=0&groupCd=",
+          "score": 66.59
+        }
+      ],
+      "first_seen": "2026-11-03T18:24:28.936864+09:00",
+      "last_seen": "2026-11-04T08:57:35.047717+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": 5
     },
     {
       "id": "if1498e47",
@@ -475,8 +552,47 @@
       "last_seen": "2026-11-04T07:21:53.879915+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 14,
+      "change": -2
+    },
+    {
+      "id": "i4a23876e",
+      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "11월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.03,
+      "peak_score": 93.54,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 24,
+          "title": "11월 4일 수요일 날씨 + 운세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748514",
+          "score": 71.41
+        },
+        {
+          "source": "더쿠",
+          "rank": 73,
+          "title": "11월 춥다고 이불에 맨날 기어 들어가지 말고 스트레칭",
+          "url": "https://theqoo.net/hot/4395113644",
+          "score": 56.58
+        }
+      ],
+      "first_seen": "2026-10-29T14:42:11.450079+09:00",
+      "last_seen": "2026-11-04T08:57:35.047717+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i9ccef52d",
@@ -513,46 +629,8 @@
       "last_seen": "2026-11-03T18:24:28.936864+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 13,
-      "change": -1
-    },
-    {
-      "id": "i4a23876e",
-      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "11월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.01,
-      "peak_score": 93.54,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[신한카드] 11월 럭키박스 (11/2~30)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108614",
-          "score": 84.54
-        },
-        {
-          "source": "더쿠",
-          "rank": 37,
-          "title": "11월 춥다고 이불에 맨날 기어 들어가지 말고 스트레칭",
-          "url": "https://theqoo.net/hot/4395113644",
-          "score": 64.21
-        }
-      ],
-      "first_seen": "2026-10-29T14:42:11.450079+09:00",
-      "last_seen": "2026-11-04T02:17:10.666186+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": -1
+      "rank": 16,
+      "change": -3
     },
     {
       "id": "icc40de38",
@@ -589,8 +667,8 @@
       "last_seen": "2026-11-03T18:24:28.936864+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -1
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "ife021da2",
@@ -627,8 +705,8 @@
       "last_seen": "2026-11-02T05:49:45.729204+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -1
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "iae209e51",
@@ -666,46 +744,8 @@
       "last_seen": "2026-11-04T04:01:31.975565+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 17,
-      "change": -1
-    },
-    {
-      "id": "i5a1ee9c8",
-      "title": "‘정청래’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "정청래"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 100.47,
-      "peak_score": 89.0,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "오전에 정청래 공격하고 오후에는 울먹거리며 사과",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174870",
-          "score": 78.0
-        },
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "정청래 페북 [김민석은 공개사과하고 책임져라]",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748309",
-          "score": 73.35
-        }
-      ],
-      "first_seen": "2026-11-03T18:24:28.936864+09:00",
-      "last_seen": "2026-11-03T18:24:28.936864+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 18,
-      "change": -1
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "i886c4e19",
@@ -742,45 +782,6 @@
       "last_seen": "2026-11-02T01:31:31.214001+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i75cc7e14",
-      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "넷플릭스"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 100.17,
-      "peak_score": 80.21,
-      "appearances": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 22,
-          "title": "오늘자 넷플릭스 전세계 2위 찍은 한국드라마.jpg",
-          "url": "https://theqoo.net/hot/4393147092",
-          "score": 69.89
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 91,
-          "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
-          "score": 45.51
-        }
-      ],
-      "first_seen": "2026-10-23T02:33:10.347544+09:00",
-      "last_seen": "2026-11-02T09:04:17.608386+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
       "change": -1
     }
