@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-05",
   "label": "2026년 11월 05일",
-  "collected_at": "2026-11-05T05:55:42.842985+09:00",
+  "collected_at": "2026-11-05T08:32:32.126353+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘마라톤’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #마라톤. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘마라톤’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #할아버지. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
-    "sources": 5,
-    "ok_sources": 5,
+    "sources": 6,
+    "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 13,
-    "keywords": 13,
-    "top100_views": 1431020,
-    "top100_comments": 12620
+    "daily_issues": 15,
+    "keywords": 16,
+    "top100_views": 1057439,
+    "top100_comments": 8436
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "미호요 근황..........jpg",
+      "title": "한중일 전쟁나면 안되는 이유.jpg",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274087?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275726?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#마라톤",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "마라톤"
+      "title": "#할아버지",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "할아버지"
     }
   ],
   "top_posts": [
+    {
+      "title": "한중일 전쟁나면 안되는 이유.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275726?m=humor",
+      "first_seen": "2026-11-05T08:32:32.126353+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "peak_score": 97.89,
+      "max_views": 15884,
+      "max_likes": 89,
+      "max_comments": 41,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-05": {
+          "max_score": 97.89,
+          "max_views": 15884,
+          "max_likes": 89,
+          "max_comments": 41,
+          "appearances": 1,
+          "last_seen": "2026-11-05T08:32:32.126353+09:00"
+        }
+      },
+      "score": 107.41,
+      "views": 15884,
+      "likes": 89,
+      "comments": 41,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "미호요 근황..........jpg",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-11-05T02:55:21.298246+09:00"
         }
       },
-      "score": 107.39,
+      "score": 107.18,
       "views": 15237,
       "likes": 77,
       "comments": 119,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "알고보면 반대가 된 AI시대 예측",
@@ -88,12 +117,12 @@
           "last_seen": "2026-11-05T05:55:42.842985+09:00"
         }
       },
-      "score": 105.98,
+      "score": 105.77,
       "views": 11835,
       "likes": 89,
       "comments": 51,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "마운자로가 진짜 효과 돌긴 했음.",
@@ -117,12 +146,12 @@
           "last_seen": "2026-11-05T05:55:42.842985+09:00"
         }
       },
-      "score": 105.71,
+      "score": 105.5,
       "views": 14413,
       "likes": 87,
       "comments": 71,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "수탉 납치살해미수 사건 범인들 근황",
@@ -146,12 +175,41 @@
           "last_seen": "2026-11-05T02:55:21.298246+09:00"
         }
       },
-      "score": 105.46,
+      "score": 105.25,
       "views": 10298,
       "likes": 133,
       "comments": 77,
       "active_days": 1,
-      "change": -2
+      "change": -1
+    },
+    {
+      "title": "아주 지랄을 한다 ㅋㅋㅋㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275384?m=humor",
+      "first_seen": "2026-11-05T08:32:32.126353+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "peak_score": 94.21,
+      "max_views": 21014,
+      "max_likes": 121,
+      "max_comments": 40,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-05": {
+          "max_score": 94.21,
+          "max_views": 21014,
+          "max_likes": 121,
+          "max_comments": 40,
+          "appearances": 1,
+          "last_seen": "2026-11-05T08:32:32.126353+09:00"
+        }
+      },
+      "score": 103.73,
+      "views": 21014,
+      "likes": 121,
+      "comments": 40,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "니케 - 이번사태는 상당히 큰거같은데 시각이 다른 유게이가 있네?",
@@ -175,12 +233,12 @@
           "last_seen": "2026-11-05T05:55:42.842985+09:00"
         }
       },
-      "score": 103.77,
+      "score": 103.56,
       "views": 11878,
       "likes": 95,
       "comments": 79,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "이단·사이비 의혹에 “핍박 시작…하나님이 해결할 것”",
@@ -204,12 +262,41 @@
           "last_seen": "2026-11-05T02:55:21.298246+09:00"
         }
       },
-      "score": 102.27,
+      "score": 102.06,
       "views": 9705,
       "likes": 100,
       "comments": 72,
       "active_days": 1,
-      "change": -3
+      "change": -2
+    },
+    {
+      "title": "한달동안 3시간만 잔 후기",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77276109?m=humor",
+      "first_seen": "2026-11-05T08:32:32.126353+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "peak_score": 92.2,
+      "max_views": 7762,
+      "max_likes": 46,
+      "max_comments": 41,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-05": {
+          "max_score": 92.2,
+          "max_views": 7762,
+          "max_likes": 46,
+          "max_comments": 41,
+          "appearances": 1,
+          "last_seen": "2026-11-05T08:32:32.126353+09:00"
+        }
+      },
+      "score": 101.72,
+      "views": 7762,
+      "likes": 46,
+      "comments": 41,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "혐주의)세종포천고속도로 사고영상",
@@ -217,227 +304,100 @@
       "category": "이슈",
       "url": "https://www.inven.co.kr/board/webzine/2097/2748913",
       "first_seen": "2026-11-05T02:55:21.298246+09:00",
-      "last_seen": "2026-11-05T02:55:21.298246+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
       "peak_score": 90.55,
-      "max_views": 2902,
+      "max_views": 8146,
       "max_likes": 0,
-      "max_comments": 19,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 90.55,
-          "max_views": 2902,
-          "max_likes": 0,
-          "max_comments": 19,
-          "appearances": 1,
-          "last_seen": "2026-11-05T02:55:21.298246+09:00"
-        }
-      },
-      "score": 99.82,
-      "views": 2902,
-      "likes": 0,
-      "comments": 19,
-      "active_days": 1,
-      "change": -3
-    },
-    {
-      "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-      "first_seen": "2026-11-05T02:55:21.298246+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "peak_score": 87.11,
-      "max_views": 22489,
-      "max_likes": 4,
       "max_comments": 48,
       "appearances": 2,
       "daily_stats": {
         "2026-11-05": {
-          "max_score": 87.11,
-          "max_views": 22489,
-          "max_likes": 4,
+          "max_score": 90.55,
+          "max_views": 8146,
+          "max_likes": 0,
           "max_comments": 48,
           "appearances": 2,
-          "last_seen": "2026-11-05T05:55:42.842985+09:00"
+          "last_seen": "2026-11-05T08:32:32.126353+09:00"
         }
       },
-      "score": 97.53,
-      "views": 22489,
-      "likes": 4,
+      "score": 100.97,
+      "views": 8146,
+      "likes": 0,
       "comments": 48,
       "active_days": 1,
-      "change": 89
-    },
-    {
-      "title": "싱글벙글 할아버지 10대 시절 레전드",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
-      "first_seen": "2026-11-05T02:55:21.298246+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "peak_score": 82.99,
-      "max_views": 12685,
-      "max_likes": 136,
-      "max_comments": 200,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 82.99,
-          "max_views": 12685,
-          "max_likes": 136,
-          "max_comments": 200,
-          "appearances": 2,
-          "last_seen": "2026-11-05T05:55:42.842985+09:00"
-        }
-      },
-      "score": 93.41,
-      "views": 12685,
-      "likes": 136,
-      "comments": 200,
-      "active_days": 1,
-      "change": 1
-    },
-    {
-      "title": "[네이버쇼핑] 넾다세일 낮12시 20% 선착순 할인 쿠폰 (11/4)",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108669",
-      "first_seen": "2026-11-05T02:55:21.298246+09:00",
-      "last_seen": "2026-11-05T02:55:21.298246+09:00",
-      "peak_score": 81.49,
-      "max_views": 18350,
-      "max_likes": 11,
-      "max_comments": 40,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 81.49,
-          "max_views": 18350,
-          "max_likes": 11,
-          "max_comments": 40,
-          "appearances": 1,
-          "last_seen": "2026-11-05T02:55:21.298246+09:00"
-        }
-      },
-      "score": 90.76,
-      "views": 18350,
-      "likes": 11,
-      "comments": 40,
-      "active_days": 1,
-      "change": -5
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "클리앙",
-      "title": "미장 반도체 대폭락중",
-      "url": "https://www.clien.net/service/board/park/19287663?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 5862,
-      "likes": 0,
-      "comments": 6,
-      "score": 62.01,
+      "source": "디시인사이드",
+      "title": "싱글벙글 할아버지 10대 시절 레전드",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 21399,
+      "likes": 207,
+      "comments": 346,
+      "score": 83.72,
       "change": 0,
-      "current_rank": 31,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 2655,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_views": 8714,
+      "delta_likes": 71,
+      "delta_comments": 146,
       "rank_gain": 0,
-      "rising_score": 95.45,
+      "rising_score": 97.5,
       "rising_rank": 1,
-      "window_minutes": 180
+      "window_minutes": 157
     },
     {
       "source": "더쿠",
       "title": "익명이니까 말해본다 딸이 못생겨서 스트레스 받아",
       "url": "https://theqoo.net/hot/4396268853",
       "category": "유머",
-      "views": 26420,
+      "views": 61828,
       "likes": 0,
-      "comments": 287,
-      "score": 79.0,
-      "change": 17,
-      "current_rank": 6,
+      "comments": 541,
+      "score": 89.0,
+      "change": 2,
+      "current_rank": 4,
       "new_entry": false,
-      "delta_views": 14997,
+      "delta_views": 35408,
       "delta_likes": 0,
-      "delta_comments": 82,
-      "rank_gain": 17,
-      "rising_score": 89.35,
+      "delta_comments": 254,
+      "rank_gain": 2,
+      "rising_score": 92.78,
       "rising_rank": 2,
-      "window_minutes": 180
+      "window_minutes": 157
     },
     {
       "source": "디시인사이드",
       "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…\"부대원 자괴감\"",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475695&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 6893,
-      "likes": 56,
-      "comments": 114,
-      "score": 70.31,
-      "change": 24,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 3702,
-      "delta_likes": 26,
-      "delta_comments": 42,
-      "rank_gain": 24,
-      "rising_score": 89.26,
-      "rising_rank": 3,
-      "window_minutes": 180
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 할아버지 10대 시절 레전드",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 12685,
-      "likes": 136,
-      "comments": 200,
-      "score": 82.99,
-      "change": 5,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 6803,
-      "delta_likes": 68,
-      "delta_comments": 84,
-      "rank_gain": 5,
-      "rising_score": 88.95,
-      "rising_rank": 4,
-      "window_minutes": 180
-    },
-    {
-      "source": "클리앙",
-      "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
-      "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2807,
-      "likes": 0,
-      "comments": 37,
-      "score": 75.01,
+      "views": 11683,
+      "likes": 87,
+      "comments": 169,
+      "score": 70.63,
       "change": 0,
-      "current_rank": 10,
+      "current_rank": 22,
       "new_entry": false,
-      "delta_views": 2189,
-      "delta_likes": 0,
-      "delta_comments": 23,
+      "delta_views": 4790,
+      "delta_likes": 31,
+      "delta_comments": 55,
       "rank_gain": 0,
-      "rising_score": 88.64,
-      "rising_rank": 5,
-      "window_minutes": 180
+      "rising_score": 87.5,
+      "rising_rank": 3,
+      "window_minutes": 157
     },
     {
       "source": "루리웹",
-      "title": "알고보면 반대가 된 AI시대 예측",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
+      "title": "한중일 전쟁나면 안되는 이유.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275726?m=humor",
       "category": "이슈",
-      "views": 11835,
+      "views": 15884,
       "likes": 89,
-      "comments": 51,
-      "score": 96.46,
+      "comments": 41,
+      "score": 97.89,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -445,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.51,
-      "rising_rank": 6,
-      "window_minutes": 180
+      "rising_score": 83.11,
+      "rising_rank": 4,
+      "window_minutes": 157
     },
     {
       "source": "루리웹",
-      "title": "마운자로가 진짜 효과 돌긴 했음.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274347?m=humor",
-      "category": "이슈",
-      "views": 14413,
-      "likes": 87,
-      "comments": 71,
-      "score": 96.19,
+      "title": "아주 지랄을 한다 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275384?m=humor",
+      "category": "유머",
+      "views": 21014,
+      "likes": 121,
+      "comments": 40,
+      "score": 94.21,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -465,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 7,
-      "window_minutes": 180
+      "rising_score": 81.57,
+      "rising_rank": 5,
+      "window_minutes": 157
     },
     {
       "source": "루리웹",
-      "title": "니케 - 이번사태는 상당히 큰거같은데 시각이 다른 유게이가 있네?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274915?m=humor",
+      "title": "한달동안 3시간만 잔 후기",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77276109?m=humor",
       "category": "이슈",
-      "views": 11878,
-      "likes": 95,
-      "comments": 79,
-      "score": 94.25,
+      "views": 7762,
+      "likes": 46,
+      "comments": 41,
+      "score": 92.2,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -485,49 +445,89 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.59,
-      "rising_rank": 8,
-      "window_minutes": 180
+      "rising_score": 80.72,
+      "rising_rank": 6,
+      "window_minutes": 157
     },
     {
-      "source": "더쿠",
-      "title": "의외로 일생상활 취급이라는 걸음 수.jpg",
-      "url": "https://theqoo.net/hot/4396238447",
+      "source": "디시인사이드",
+      "title": "일본 야X이 필요 이상으로 감동적일 때",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475677&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 26092,
-      "likes": 0,
-      "comments": 126,
-      "score": 65.34,
-      "change": 28,
-      "current_rank": 23,
+      "views": 17693,
+      "likes": 56,
+      "comments": 83,
+      "score": 58.8,
+      "change": 0,
+      "current_rank": 67,
       "new_entry": false,
-      "delta_views": 12579,
+      "delta_views": 5472,
+      "delta_likes": 11,
+      "delta_comments": 17,
+      "rank_gain": 0,
+      "rising_score": 75.97,
+      "rising_rank": 7,
+      "window_minutes": 157
+    },
+    {
+      "source": "디시인사이드",
+      "title": "솔직히 중국이 패권국이 되기 힘든 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475706&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 15453,
+      "likes": 87,
+      "comments": 198,
+      "score": 79.87,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 25,
-      "rank_gain": 28,
-      "rising_score": 78.8,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.55,
+      "rising_rank": 8,
+      "window_minutes": 157
+    },
+    {
+      "source": "뽐뿌",
+      "title": "박범계 뼈 발골하는 트윗 .jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176858",
+      "category": "스포츠",
+      "views": 8199,
+      "likes": 48,
+      "comments": 12,
+      "score": 79.47,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.38,
       "rising_rank": 9,
-      "window_minutes": 180
+      "window_minutes": 157
     },
     {
       "source": "디시인사이드",
       "title": "안싱글벙글 한국반도체부품회사들 유혹 중인 중국 소도시",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475689&_dcbest=1&page=1",
       "category": "생활",
-      "views": 6411,
-      "likes": 46,
-      "comments": 145,
-      "score": 66.86,
-      "change": 23,
-      "current_rank": 16,
+      "views": 9873,
+      "likes": 58,
+      "comments": 174,
+      "score": 63.91,
+      "change": 0,
+      "current_rank": 43,
       "new_entry": false,
-      "delta_views": 2575,
-      "delta_likes": 20,
-      "delta_comments": 40,
-      "rank_gain": 23,
-      "rising_score": 77.71,
+      "delta_views": 3462,
+      "delta_likes": 12,
+      "delta_comments": 29,
+      "rank_gain": 0,
+      "rising_score": 74.72,
       "rising_rank": 10,
-      "window_minutes": 180
+      "window_minutes": 157
     }
   ],
   "issues": [
@@ -575,7 +575,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 1,
-      "change": 2
+      "change": 0
     },
     {
       "id": "if956ba6b",
@@ -613,7 +613,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -651,7 +651,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": 4
+      "change": 0
+    },
+    {
+      "id": "i68c59bfc",
+      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "할아버지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.19,
+      "peak_score": 92.72,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "싱글벙글 할아버지 10대 시절 레전드",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
+          "score": 83.72
+        },
+        {
+          "source": "루리웹",
+          "rank": 59,
+          "title": "크리스마스날 할아버지 댁에 못 가는 손주.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77276156?m=humor_only&t=now",
+          "score": 59.92
+        }
+      ],
+      "first_seen": "2026-11-05T08:32:32.126353+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i2272efa7",
@@ -688,8 +726,8 @@
       "last_seen": "2026-11-05T02:55:21.298246+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": -3
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "ieef61a46",
@@ -727,8 +765,8 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i01009091",
@@ -765,8 +803,8 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i1a43d719",
@@ -803,8 +841,47 @@
       "last_seen": "2026-11-05T02:55:21.298246+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -5
+      "rank": 8,
+      "change": -1
+    },
+    {
+      "id": "i0cdcc665",
+      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이폰"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.86,
+      "peak_score": 79.37,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "아이폰 듀오 역시 애플은 다르네요",
+          "url": "https://www.clien.net/service/board/park/19287701?od=T31&po=0&category=0&groupCd=",
+          "score": 70.37
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+          "score": 56.81
+        }
+      ],
+      "first_seen": "2026-10-17T02:56:53.776363+09:00",
+      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 3
     },
     {
       "id": "if553a5cf",
@@ -841,178 +918,21 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "id": "ibdcdfeff",
-      "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…\"부대원 자괴감\"",
-      "keywords": [
-        "부대원",
-        "워킹",
-        "자괴감",
-        "교육을",
-        "시켜",
-        "특전사한테"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.78,
-      "peak_score": 78.31,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…\"부대원 자괴감\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475695&_dcbest=1&page=1",
-          "score": 70.31
-        },
-        {
-          "source": "클리앙",
-          "rank": 38,
-          "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…'부대원 자괴감'",
-          "url": "https://www.clien.net/service/board/park/19287676?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "first_seen": "2026-11-05T05:55:42.842985+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당은’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당은"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.98,
-      "peak_score": 75.51,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 21,
-          "title": "민주당은 김민석으로 끝났다고 봅니다.",
-          "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
-          "score": 66.51
-        },
-        {
-          "source": "인벤",
-          "rank": 61,
-          "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
-          "score": 59.15
-        }
-      ],
-      "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-11-05T02:55:21.298246+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": -5
+      "change": -2
     }
   ],
   "realtime_issues": [
     {
-      "id": "ib6978d90",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i68c59bfc",
+      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "마라톤"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 104.11,
-      "peak_score": 104.11,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 87.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 62,
-          "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
-          "score": 53.23
-        },
-        {
-          "source": "클리앙",
-          "rank": 73,
-          "title": "마라톤 대회에 지친 사람들이 제시한 아이디어.jpg",
-          "url": "https://www.clien.net/service/board/park/19287665?od=T31&po=0&category=0&groupCd=",
-          "score": 50.18
-        }
-      ],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 77.64,
-      "peak_score": 77.64,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 15,
-          "title": "[속보] 트럼프 '나를 탄핵시키면 민주당 파멸시킬 것'",
-          "url": "https://www.clien.net/service/board/park/19287675?od=T31&po=0&category=0&groupCd=",
-          "score": 67.64
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 99,
-          "title": "[속보] 트럼프 항복",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475565&_dcbest=1&page=1",
-          "score": 41.81
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "if956ba6b",
-      "title": "‘ai시대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai시대"
+        "할아버지"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 105.46,
-      "peak_score": 105.46,
+      "score": 92.72,
+      "peak_score": 92.72,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1020,268 +940,157 @@
       ],
       "posts": [
         {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "싱글벙글 할아버지 10대 시절 레전드",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
+          "score": 83.72
+        },
+        {
           "source": "루리웹",
-          "rank": 1,
-          "title": "알고보면 반대가 된 AI시대 예측",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
-          "score": 96.46
+          "rank": 59,
+          "title": "크리스마스날 할아버지 댁에 못 가는 손주.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77276156?m=humor_only&t=now",
+          "score": 59.92
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i0cdcc665",
+      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이폰"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.37,
+      "peak_score": 79.37,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "아이폰 듀오 역시 애플은 다르네요",
+          "url": "https://www.clien.net/service/board/park/19287701?od=T31&po=0&category=0&groupCd=",
+          "score": 70.37
         },
         {
           "source": "디시인사이드",
-          "rank": 90,
-          "title": "싱글벙글 AI시대 생겨나는 새로운 진상들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475567&_dcbest=1&page=1",
-          "score": 45.24
+          "rank": 73,
+          "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+          "score": 56.81
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ic2f0aa64",
+      "title": "‘콜라보’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "콜라보"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.91,
+      "peak_score": 74.91,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "맘터 X 주술회전 콜라보",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748933",
+          "score": 65.91
+        },
+        {
+          "source": "루리웹",
+          "rank": 71,
+          "title": "[모비노기] 모비노기 특급 콜라보 실채",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77276124?m=humor_only&t=now",
+          "score": 57.36
         }
       ],
       "rank": 3,
       "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.11,
-      "peak_score": 96.11,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 87.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "싱글벙글 현재 인도네시아 난리난 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
-          "score": 60.13
-        }
-      ],
-      "rank": 4,
-      "change": 3
-    },
-    {
-      "id": "ieef61a46",
-      "title": "일론 머스크 근황",
-      "keywords": [
-        "머스크",
-        "일론"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.81,
-      "peak_score": 85.81,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "일론 머스크 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
-          "score": 77.81
-        },
-        {
-          "source": "더쿠",
-          "rank": 58,
-          "title": "일론 머스크 : 머지않아 아무도 일하지 않고 초고소득을 받는 시대가 올 것",
-          "url": "https://theqoo.net/hot/4396088487",
-          "score": 55.42
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ibdcdfeff",
-      "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…\"부대원 자괴감\"",
-      "keywords": [
-        "부대원",
-        "워킹",
-        "자괴감",
-        "교육을",
-        "시켜",
-        "특전사한테"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.31,
-      "peak_score": 78.31,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…\"부대원 자괴감\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475695&_dcbest=1&page=1",
-          "score": 70.31
-        },
-        {
-          "source": "클리앙",
-          "rank": 38,
-          "title": "[단독] 특전사한테 모델 워킹 교육을 시켜?…'부대원 자괴감'",
-          "url": "https://www.clien.net/service/board/park/19287676?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "ic6bd73cf",
-      "title": "미국 선거를 보고 문득 생각난 분",
-      "keywords": [
-        "선거를",
-        "미국"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.4,
-      "peak_score": 74.4,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 19,
-          "title": "미국 선거를 보고 문득 생각난 분",
-          "url": "https://www.clien.net/service/board/park/19287672?od=T31&po=0&category=0&groupCd=",
-          "score": 66.4
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "난 미국 중간 선거를 대비해서 철저하게 포트폴리오 분할함.",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77274109?m=humor_only&t=now",
-          "score": 48.29
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 66.42,
-      "peak_score": 66.42,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 50,
-          "title": "김민석 \" '당 통합'에 매진하겠다\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
-          "score": 57.42
-        },
-        {
-          "source": "클리앙",
-          "rank": 65,
-          "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
-          "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
-          "score": 51.91
-        }
-      ],
-      "rank": 8,
-      "change": -5
     }
   ],
   "keywords": [
     {
-      "keyword": "마라톤",
-      "score": 123.5,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 4,
+      "keyword": "할아버지",
+      "score": 99.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "미국",
-      "score": 114.46,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 19,
+      "keyword": "10대",
+      "score": 97.29,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
-        "루리웹",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 15
+      "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 112.47,
+      "keyword": "트럼프",
+      "score": 95.72,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 35,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 2
+      "change": 8
     },
     {
-      "keyword": "난리난",
-      "score": 103.05,
+      "keyword": "남친",
+      "score": 95.45,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 12
+      "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 98.45,
-      "post_count": 3,
+      "keyword": "텍사스",
+      "score": 91.0,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 19,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1289,91 +1098,84 @@
       "change": "NEW"
     },
     {
-      "keyword": "대회",
-      "score": 97.82,
+      "keyword": "신입",
+      "score": 90.66,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 24,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
-      "change": 9
+      "change": "NEW"
     },
     {
-      "keyword": "ai시대",
-      "score": 97.81,
+      "keyword": "아이폰",
+      "score": 88.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 1,
+      "best_rank": 26,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "듀오"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "머스크",
-      "score": 97.64,
+      "keyword": "콜라보",
+      "score": 86.42,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 38,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "루리웹",
+        "인벤"
       ],
-      "aliases": [
-        "일론"
-      ],
+      "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "특전사한테",
-      "score": 97.38,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
+      "keyword": "눈나",
+      "score": 86.15,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 8,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "인벤"
       ],
-      "aliases": [
-        "교육",
-        "모델",
-        "부대원",
-        "시켜",
-        "워킹"
-      ],
+      "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "니케",
-      "score": 96.84,
-      "post_count": 3,
+      "keyword": "모음",
+      "score": 84.93,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 40,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "트럼프",
-      "score": 94.23,
-      "post_count": 3,
+      "keyword": "애플",
+      "score": 84.28,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 26,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1381,74 +1183,108 @@
       "change": "NEW"
     },
     {
-      "keyword": "선거",
-      "score": 89.94,
+      "keyword": "중국",
+      "score": 81.6,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 19,
+      "source_count": 1,
+      "best_rank": 6,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": -9
     },
     {
-      "keyword": "김민석",
-      "score": 89.7,
-      "post_count": 3,
+      "keyword": "젤다",
+      "score": 81.04,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 66,
       "sources": [
         "뽐뿌",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 13,
-      "change": -12
+      "change": "NEW"
+    },
+    {
+      "keyword": "신천지",
+      "score": 76.29,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 15,
+      "sources": [
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "되는",
+      "score": 75.57,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 86,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "알고보면 반대가 된 AI시대 예측",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
-      "score": 96.46,
-      "views": 11835,
-      "comments": 51
-    },
-    {
-      "source": "뽐뿌",
-      "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-      "score": 87.11,
-      "views": 22489,
-      "comments": 48
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 할아버지 10대 시절 레전드",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
-      "score": 82.99,
-      "views": 12685,
-      "comments": 200
+      "title": "한중일 전쟁나면 안되는 이유.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275726?m=humor",
+      "score": 97.89,
+      "views": 15884,
+      "comments": 41
     },
     {
       "source": "더쿠",
       "title": "익명이니까 말해본다 딸이 못생겨서 스트레스 받아",
       "url": "https://theqoo.net/hot/4396268853",
-      "score": 79.0,
-      "views": 26420,
-      "comments": 287
+      "score": 89.0,
+      "views": 61828,
+      "comments": 541
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 할아버지 10대 시절 레전드",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
+      "score": 83.72,
+      "views": 21399,
+      "comments": 346
+    },
+    {
+      "source": "뽐뿌",
+      "title": "박범계 뼈 발골하는 트윗 .jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176858",
+      "score": 79.47,
+      "views": 8199,
+      "comments": 12
+    },
+    {
+      "source": "인벤",
+      "title": "ㅇㅎ) 맨유 좋아하는 태국 여사친 눈나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2748930",
+      "score": 77.57,
+      "views": 4493,
+      "comments": 13
     },
     {
       "source": "클리앙",
-      "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
-      "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
-      "score": 75.01,
-      "views": 2807,
-      "comments": 37
+      "title": "신천지 뒤집어씌우기는 정계은퇴급이죠.",
+      "url": "https://www.clien.net/service/board/park/19287703?od=T31&po=0&category=0&groupCd=",
+      "score": 73.78,
+      "views": 1030,
+      "comments": 7
     }
   ]
 }
