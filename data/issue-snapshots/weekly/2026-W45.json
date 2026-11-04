@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-04T15:10:11.887100+09:00",
+  "collected_at": "2026-11-04T18:55:56.818749+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -59,7 +59,7 @@
       "latest_source_count": 4,
       "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i3afa8a28",
@@ -101,7 +101,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -141,7 +141,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5c6da920",
@@ -179,7 +179,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i01009091",
@@ -218,7 +218,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifc264642",
@@ -256,7 +256,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i09329f76",
@@ -296,7 +296,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if692bfca",
@@ -339,7 +339,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ic87ce8e8",
@@ -379,7 +379,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7afdb3c6",
@@ -426,7 +426,48 @@
       "latest_source_count": 3,
       "latest_post_count": 5,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "idc85f2a1",
+      "title": "미국 중간선거 텍사스주 현황.jpg",
+      "keywords": [
+        "중간선거",
+        "미국"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 114.91,
+      "peak_score": 102.42,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "미국 중간선거 텍사스주 현황.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
+          "score": 87.06
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 64,
+          "title": "싱글벙글 미국 중간선거 미시시피주 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
+          "score": 58.87
+        }
+      ],
+      "first_seen": "2026-11-04T15:10:11.887100+09:00",
+      "last_seen": "2026-11-04T18:55:56.818749+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": 2
     },
     {
       "id": "if553a5cf",
@@ -463,8 +504,8 @@
       "last_seen": "2026-11-04T15:10:11.887100+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": "NEW"
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ia4c7959d",
@@ -501,47 +542,8 @@
       "last_seen": "2026-11-04T11:38:09.473574+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -3
-    },
-    {
-      "id": "idc85f2a1",
-      "title": "미국 중간선거 출구조사.jpg",
-      "keywords": [
-        "중간선거",
-        "미국"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 112.89,
-      "peak_score": 102.42,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "미국 중간선거 출구조사.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77264858?m=humor",
-          "score": 93.42
-        },
-        {
-          "source": "인벤",
-          "rank": 75,
-          "title": "미국 중간선거 켄자스주 94년만에 민주당 승리",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748691",
-          "score": 57.07
-        }
-      ],
-      "first_seen": "2026-11-04T15:10:11.887100+09:00",
-      "last_seen": "2026-11-04T15:10:11.887100+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 13,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i85fe1706",
@@ -579,7 +581,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -617,7 +619,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i87351a46",
@@ -655,7 +657,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i5a1ee9c8",
@@ -694,7 +696,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -4
+      "change": 0
     },
     {
       "id": "if1498e47",
@@ -732,7 +734,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i4a23876e",
@@ -771,7 +773,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i9ccef52d",
@@ -809,7 +811,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -4
+      "change": 0
     }
   ]
 }

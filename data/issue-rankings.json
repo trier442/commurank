@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-04T15:10:11.887100+09:00",
+  "collected_at": "2026-11-04T18:55:56.818749+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,266 +11,59 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ieef61a46",
+        "title": "일론 머스크 근황",
         "keywords": [
-          "민주당"
+          "일론",
+          "머스크"
         ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 106.69,
-        "peak_score": 106.69,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 89.62,
+        "peak_score": 89.62,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드",
+          "루리웹",
           "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 6,
-            "title": "민주당 압승... 국장 근황.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475511&_dcbest=1&page=1",
-            "score": 81.69
-          },
-          {
             "source": "뽐뿌",
             "rank": 14,
-            "title": "저는 이번에 민주당 보면서 소름이 돋았습니다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175957",
-            "score": 73.55
+            "title": "일론 머스크 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
+            "score": 74.62
+          },
+          {
+            "source": "루리웹",
+            "rank": 65,
+            "title": "호달달할수밖에 없는 일론 머스크",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77270429?m=humor_only&t=now",
+            "score": 58.6
           },
           {
             "source": "인벤",
-            "rank": 75,
-            "title": "미국 중간선거 켄자스주 94년만에 민주당 승리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748691",
-            "score": 57.07
-          },
-          {
-            "source": "더쿠",
-            "rank": 79,
-            "title": "[속보] 미국 민주당 상원 장악 가능성 98%, 하원 100%",
-            "url": "https://theqoo.net/hot/4395422235",
-            "score": 56.11
+            "rank": 74,
+            "title": "현재 X된 일론 머스크",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748755",
+            "score": 56.77
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "i7afdb3c6",
-        "title": "‘2심도’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "2심도",
-          "윤석열"
-        ],
-        "source_count": 3,
-        "post_count": 5,
-        "score": 98.61,
-        "peak_score": 98.61,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 8,
-            "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-            "url": "https://www.clien.net/service/board/park/19287360?od=T31&po=0&category=0&groupCd=",
-            "score": 79.61
-          },
-          {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
-            "url": "https://theqoo.net/hot/4395594125",
-            "score": 64.0
-          },
-          {
-            "source": "인벤",
-            "rank": 66,
-            "title": "윤석열 선거법 위반 2심도 유죄…확정 땐 국힘 397억 반환",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748686",
-            "score": 58.62
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i92af6733",
-        "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-        "keywords": [
-          "유죄",
-          "397억",
-          "선거법",
-          "2심도",
-          "윤석열",
-          "반환",
-          "징역형"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 88.61,
-        "peak_score": 88.61,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 8,
-            "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-            "url": "https://www.clien.net/service/board/park/19287360?od=T31&po=0&category=0&groupCd=",
-            "score": 79.61
-          },
-          {
-            "source": "인벤",
-            "rank": 34,
-            "title": "[속보] '국힘 397억' 걸린 '尹 선거법 위반' 2심 유죄 '당선무효형' 유지",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748689",
-            "score": 65.46
-          },
-          {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
-            "url": "https://theqoo.net/hot/4395594125",
-            "score": 64.0
-          },
-          {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "[속보] 윤석열.2심도 징역형.국힘 397억 반환..",
-            "url": "https://www.clien.net/service/board/park/19287344?od=T31&po=0&category=0&groupCd=",
-            "score": 57.31
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
         "id": "idc85f2a1",
-        "title": "미국 중간선거 출구조사.jpg",
+        "title": "미국 중간선거 텍사스주 현황.jpg",
         "keywords": [
           "중간선거",
           "미국"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 102.42,
-        "peak_score": 102.42,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "미국 중간선거 출구조사.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77264858?m=humor",
-            "score": 93.42
-          },
-          {
-            "source": "인벤",
-            "rank": 75,
-            "title": "미국 중간선거 켄자스주 94년만에 민주당 승리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748691",
-            "score": 57.07
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i093092b0",
-        "title": "‘당선무효형’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "당선무효형"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 77.44,
-        "peak_score": 77.44,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "ㅋㅋㅋㅋㅋ당선무효형",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748685",
-            "score": 67.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 78,
-            "title": "[속보] 尹 '허위사실공표' 2심도 당선무효형…'죄질 가볍지 않아'",
-            "url": "https://www.clien.net/service/board/park/19287346?od=T31&po=0&category=0&groupCd=",
-            "score": 56.25
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
         "post_count": 2,
-        "score": 105.19,
-        "peak_score": 105.19,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "트럼프 지지하는 이유로 트랜스젠더니 뭐니 헛소리하는 놈들특",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77265331?m=humor",
-            "score": 96.19
-          },
-          {
-            "source": "클리앙",
-            "rank": 26,
-            "title": "트럼프 파워가 대단하긴 하네요",
-            "url": "https://www.clien.net/service/board/park/19287362?od=T31&po=0&category=0&groupCd=",
-            "score": 66.69
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i837ccf59",
-        "title": "‘백종원의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "백종원의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.56,
-        "peak_score": 75.56,
+        "score": 95.06,
+        "peak_score": 95.06,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -278,52 +71,222 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 27,
-            "title": "백종원의 사라진 매장들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475485&_dcbest=1&page=1",
-            "score": 66.56
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "미국 중간선거 텍사스주 현황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
+            "score": 87.06
           },
           {
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "싱글벙글 미국 중간선거 미시시피주 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
+            "score": 58.87
+          }
+        ],
+        "rank": 2,
+        "change": 2
+      },
+      {
+        "id": "iead2b930",
+        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "오늘자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.37,
+        "peak_score": 92.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "오늘자 최악의 방식으로 미국콘 취소해버린 캣츠아이",
+            "url": "https://theqoo.net/hot/4395698830",
+            "score": 83.37
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "오늘자 듀오근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475552&_dcbest=1&page=1",
+            "score": 55.99
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i77bec7b9",
+        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "윤석열"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.65,
+        "peak_score": 87.65,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
             "source": "뽐뿌",
-            "rank": 98,
-            "title": "백종원의 고소 폭격이 심각한 이유",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174674",
-            "score": 50.78
+            "rank": 8,
+            "title": "윤석열 판결의 역사적 의미",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176213",
+            "score": 78.65
+          },
+          {
+            "source": "더쿠",
+            "rank": 95,
+            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
+            "url": "https://theqoo.net/hot/4395594125",
+            "score": 52.58
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.75,
+        "peak_score": 86.75,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 11,
+            "title": "[속보] 이재명 유튜브도 시작",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176203",
+            "score": 77.75
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "이재명 정부 들어서고 김민석의 업적",
+            "url": "https://www.clien.net/service/board/park/19287510?od=T31&po=0&category=0&groupCd=",
+            "score": 60.41
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i7bf0ff51",
+        "title": "‘2차전’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "2차전"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.26,
+        "peak_score": 74.26,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 39,
+            "title": "2차전 시구 언론 핑계로 취소네요 ㅎㅎㅎ",
+            "url": "https://www.clien.net/service/board/park/19287530?od=T31&po=0&category=0&groupCd=",
+            "score": 65.26
+          },
+          {
+            "source": "인벤",
+            "rank": 60,
+            "title": "한국시리즈 2차전 시구는 조범현,이만수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748781",
+            "score": 60.4
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "ia5b703d8",
+        "title": "‘사망한’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "사망한"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.64,
+        "peak_score": 73.64,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 43,
+            "title": "ICE의 총격으로 사망한 희생자의 추모소에 I Voted 스티커를 붙인 미국 유권자들",
+            "url": "https://www.clien.net/service/board/park/19287533?od=T31&po=0&category=0&groupCd=",
+            "score": 64.64
+          },
+          {
+            "source": "인벤",
+            "rank": 47,
+            "title": "매일 라면만 먹다가 결국 사망한 사람.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748758",
+            "score": 63.35
           }
         ],
         "rank": 7,
         "change": "NEW"
       },
       {
-        "id": "ib6978d90",
-        "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i32eff8e2",
+        "title": "‘하나요’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "마라톤"
+          "하나요"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.93,
-        "peak_score": 71.93,
+        "score": 72.35,
+        "peak_score": 72.35,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 39,
-            "title": "퍼옴)X에 올라온 마라톤 해결 방안",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748695",
-            "score": 62.93
+            "rank": 48,
+            "title": "오토바이 탈 때 헬멧을 꼭 써야 하나요?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748778",
+            "score": 63.35
           },
           {
-            "source": "더쿠",
-            "rank": 55,
-            "title": "마라톤 교통체증에 지친 서울 시민 아이디어",
-            "url": "https://theqoo.net/hot/4395531667",
-            "score": 60.05
+            "source": "클리앙",
+            "rank": 63,
+            "title": "조작기소 특검 이제야 하나요??",
+            "url": "https://www.clien.net/service/board/park/19287525?od=T31&po=0&category=0&groupCd=",
+            "score": 59.36
           }
         ],
         "rank": 8,
@@ -383,7 +346,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i2272efa7",
@@ -422,7 +385,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if692bfca",
@@ -465,7 +428,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7afdb3c6",
@@ -512,7 +475,48 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "idc85f2a1",
+        "title": "미국 중간선거 텍사스주 현황.jpg",
+        "keywords": [
+          "중간선거",
+          "미국"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 114.91,
+        "peak_score": 102.42,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "미국 중간선거 텍사스주 현황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
+            "score": 87.06
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "싱글벙글 미국 중간선거 미시시피주 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
+            "score": 58.87
+          }
+        ],
+        "first_seen": "2026-11-04T15:10:11.887100+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 3
       },
       {
         "id": "if553a5cf",
@@ -549,8 +553,8 @@
         "last_seen": "2026-11-04T15:10:11.887100+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -587,8 +591,8 @@
         "last_seen": "2026-11-04T11:38:09.473574+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -3
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "ic87ce8e8",
@@ -625,47 +629,8 @@
         "last_seen": "2026-11-04T02:17:10.666186+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -3
-      },
-      {
-        "id": "idc85f2a1",
-        "title": "미국 중간선거 출구조사.jpg",
-        "keywords": [
-          "중간선거",
-          "미국"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 112.89,
-        "peak_score": 102.42,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "미국 중간선거 출구조사.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77264858?m=humor",
-            "score": 93.42
-          },
-          {
-            "source": "인벤",
-            "rank": 75,
-            "title": "미국 중간선거 켄자스주 94년만에 민주당 승리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748691",
-            "score": 57.07
-          }
-        ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 8,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "if1498e47",
@@ -703,7 +668,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i4a23876e",
@@ -742,7 +707,54 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -4
+        "change": 0
+      },
+      {
+        "id": "ieef61a46",
+        "title": "일론 머스크 근황",
+        "keywords": [
+          "일론",
+          "머스크"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 104.09,
+        "peak_score": 89.62,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 14,
+            "title": "일론 머스크 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
+            "score": 74.62
+          },
+          {
+            "source": "루리웹",
+            "rank": 65,
+            "title": "호달달할수밖에 없는 일론 머스크",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77270429?m=humor_only&t=now",
+            "score": 58.6
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "현재 X된 일론 머스크",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748755",
+            "score": 56.77
+          }
+        ],
+        "first_seen": "2026-11-04T18:55:56.818749+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i92af6733",
@@ -800,8 +812,8 @@
         "last_seen": "2026-11-04T15:10:11.887100+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i5a1ee9c8",
@@ -838,8 +850,46 @@
         "last_seen": "2026-11-04T08:57:35.047717+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -5
+        "rank": 13,
+        "change": -1
+      },
+      {
+        "id": "iead2b930",
+        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "오늘자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 101.84,
+        "peak_score": 92.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "오늘자 최악의 방식으로 미국콘 취소해버린 캣츠아이",
+            "url": "https://theqoo.net/hot/4395698830",
+            "score": 83.37
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "오늘자 듀오근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475552&_dcbest=1&page=1",
+            "score": 55.99
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "iae209e51",
@@ -876,8 +926,8 @@
         "last_seen": "2026-11-04T04:01:31.975565+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -5
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "ibc133f9d",
@@ -914,8 +964,46 @@
         "last_seen": "2026-11-04T04:01:31.975565+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 16,
+        "change": -2
+      },
+      {
+        "id": "i77bec7b9",
+        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "윤석열"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 97.12,
+        "peak_score": 87.65,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 8,
+            "title": "윤석열 판결의 역사적 의미",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176213",
+            "score": 78.65
+          },
+          {
+            "source": "더쿠",
+            "rank": 95,
+            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
+            "url": "https://theqoo.net/hot/4395594125",
+            "score": 52.58
+          }
+        ],
+        "first_seen": "2026-11-04T18:55:56.818749+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "ifce040e4",
@@ -952,8 +1040,46 @@
         "last_seen": "2026-11-04T08:57:35.047717+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 18,
+        "change": -3
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.22,
+        "peak_score": 86.75,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 11,
+            "title": "[속보] 이재명 유튜브도 시작",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176203",
+            "score": 77.75
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "이재명 정부 들어서고 김민석의 업적",
+            "url": "https://www.clien.net/service/board/park/19287510?od=T31&po=0&category=0&groupCd=",
+            "score": 60.41
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i01009091",
@@ -991,163 +1117,8 @@
         "last_seen": "2026-11-04T11:38:09.473574+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 16,
-        "change": -5
-      },
-      {
-        "id": "i093092b0",
-        "title": "‘당선무효형’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "당선무효형"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 87.91,
-        "peak_score": 77.44,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "ㅋㅋㅋㅋㅋ당선무효형",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748685",
-            "score": 67.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 78,
-            "title": "[속보] 尹 '허위사실공표' 2심도 당선무효형…'죄질 가볍지 않아'",
-            "url": "https://www.clien.net/service/board/park/19287346?od=T31&po=0&category=0&groupCd=",
-            "score": 56.25
-          }
-        ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "ia9c66bbe",
-        "title": "미국 캔자스 투표소 투표용지 부족 사태",
-        "keywords": [
-          "부족",
-          "미국",
-          "투표용지",
-          "사태"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.31,
-        "peak_score": 77.84,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 28,
-            "title": "미국 캔자스 투표소 투표용지 부족 사태",
-            "url": "https://theqoo.net/hot/4395276246",
-            "score": 69.84
-          },
-          {
-            "source": "인벤",
-            "rank": 53,
-            "title": "미국 중간선거도 투표용지 부족 사태 일어남",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748515",
-            "score": 61.65
-          }
-        ],
-        "first_seen": "2026-11-04T08:57:35.047717+09:00",
-        "last_seen": "2026-11-04T08:57:35.047717+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
-      },
-      {
-        "id": "i015a50b6",
-        "title": "‘롯데온’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "롯데온"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.58,
-        "peak_score": 76.11,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 29,
-            "title": "[롯데온]초코파이 망고라씨12P+브라우니12P+카스타드12P/카페11,870원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108651",
-            "score": 67.11
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 94,
-            "title": "[롯데온] 나이키키즈 겨울아우터 3종 택1 (64,970원/무료)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745619",
-            "score": 52.98
-          }
-        ],
-        "first_seen": "2026-11-04T04:01:31.975565+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -6
-      },
-      {
-        "id": "i837ccf59",
-        "title": "‘백종원의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "백종원의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.03,
-        "peak_score": 75.56,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 27,
-            "title": "백종원의 사라진 매장들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475485&_dcbest=1&page=1",
-            "score": 66.56
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 98,
-            "title": "백종원의 고소 폭격이 심각한 이유",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174674",
-            "score": 50.78
-          }
-        ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -4
       }
     ],
     "weekly": [
@@ -1204,7 +1175,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i3afa8a28",
@@ -1246,7 +1217,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2272efa7",
@@ -1286,7 +1257,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5c6da920",
@@ -1324,7 +1295,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -1363,7 +1334,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifc264642",
@@ -1401,7 +1372,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i09329f76",
@@ -1441,7 +1412,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if692bfca",
@@ -1484,7 +1455,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic87ce8e8",
@@ -1524,7 +1495,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7afdb3c6",
@@ -1571,7 +1542,48 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 10,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "idc85f2a1",
+        "title": "미국 중간선거 텍사스주 현황.jpg",
+        "keywords": [
+          "중간선거",
+          "미국"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 114.91,
+        "peak_score": 102.42,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "미국 중간선거 텍사스주 현황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
+            "score": 87.06
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "싱글벙글 미국 중간선거 미시시피주 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
+            "score": 58.87
+          }
+        ],
+        "first_seen": "2026-11-04T15:10:11.887100+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": 2
       },
       {
         "id": "if553a5cf",
@@ -1608,8 +1620,8 @@
         "last_seen": "2026-11-04T15:10:11.887100+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1646,47 +1658,8 @@
         "last_seen": "2026-11-04T11:38:09.473574+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -3
-      },
-      {
-        "id": "idc85f2a1",
-        "title": "미국 중간선거 출구조사.jpg",
-        "keywords": [
-          "중간선거",
-          "미국"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 112.89,
-        "peak_score": 102.42,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "미국 중간선거 출구조사.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77264858?m=humor",
-            "score": 93.42
-          },
-          {
-            "source": "인벤",
-            "rank": 75,
-            "title": "미국 중간선거 켄자스주 94년만에 민주당 승리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748691",
-            "score": 57.07
-          }
-        ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 13,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i85fe1706",
@@ -1724,7 +1697,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1762,7 +1735,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i87351a46",
@@ -1800,7 +1773,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i5a1ee9c8",
@@ -1839,7 +1812,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -4
+        "change": 0
       },
       {
         "id": "if1498e47",
@@ -1877,7 +1850,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i4a23876e",
@@ -1916,7 +1889,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i9ccef52d",
@@ -1954,7 +1927,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 20,
-        "change": -4
+        "change": 0
       }
     ],
     "monthly": [
@@ -2051,7 +2024,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i9993f219",
@@ -2099,7 +2072,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3afa8a28",
@@ -2141,7 +2114,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2272efa7",
@@ -2181,7 +2154,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifc264642",
@@ -2221,7 +2194,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5c6da920",
@@ -2259,7 +2232,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -2299,7 +2272,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -2338,7 +2311,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i09329f76",
@@ -2378,7 +2351,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4a23876e",
@@ -2418,7 +2391,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if692bfca",
@@ -2461,7 +2434,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5af231c6",
@@ -2499,7 +2472,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic87ce8e8",
@@ -2539,7 +2512,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7afdb3c6",
@@ -2586,6 +2559,47 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 15,
+        "change": 0
+      },
+      {
+        "id": "idc85f2a1",
+        "title": "미국 중간선거 텍사스주 현황.jpg",
+        "keywords": [
+          "중간선거",
+          "미국"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 114.91,
+        "peak_score": 102.42,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "미국 중간선거 텍사스주 현황.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
+            "score": 87.06
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "싱글벙글 미국 중간선거 미시시피주 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
+            "score": 58.87
+          }
+        ],
+        "first_seen": "2026-11-04T15:10:11.887100+09:00",
+        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
         "change": "NEW"
       },
       {
@@ -2624,8 +2638,8 @@
         "last_seen": "2026-11-01T18:43:20.593439+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -2
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -2662,8 +2676,8 @@
         "last_seen": "2026-11-04T15:10:11.887100+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -2700,8 +2714,8 @@
         "last_seen": "2026-11-04T11:38:09.473574+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -3
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -2738,46 +2752,8 @@
         "last_seen": "2026-11-02T05:49:45.729204+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -3
-      },
-      {
-        "id": "i7b918478",
-        "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "일본의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 113.41,
-        "peak_score": 103.94,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "일본의 외국인 대상 반말 떡밥에서 꽤나 공감받는 글이 나왔네",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77228828?m=humor",
-            "score": 94.94
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 4,
-            "title": "싱글벙글 일본의 b2c기업들이 망한이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474617&_dcbest=1&page=1",
-            "score": 91.81
-          }
-        ],
-        "first_seen": "2026-10-01T04:25:33.357220+09:00",
-        "last_seen": "2026-11-01T05:09:03.968462+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -3
+        "change": -1
       }
     ]
   }
