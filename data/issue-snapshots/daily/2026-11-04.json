@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-04",
   "label": "2026년 11월 04일",
-  "collected_at": "2026-11-04T08:57:35.047717+09:00",
+  "collected_at": "2026-11-04T11:38:09.473574+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -89,6 +89,44 @@
       "change": 0
     },
     {
+      "id": "ia4c7959d",
+      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "좋아하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.6,
+      "peak_score": 103.11,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "토리야마 선생님 디자인중 특히 좋아하는 애들 모음",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77262193?m=humor",
+          "score": 94.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 99,
+          "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
+          "url": "https://theqoo.net/hot/4395147593",
+          "score": 52.95
+        }
+      ],
+      "first_seen": "2026-10-02T19:12:07.909187+09:00",
+      "last_seen": "2026-11-04T11:38:09.473574+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 1
+    },
+    {
       "id": "ic87ce8e8",
       "title": "‘최악의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -123,46 +161,8 @@
       "last_seen": "2026-11-04T02:17:10.666186+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "ia4c7959d",
-      "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "좋아하는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 112.58,
-      "peak_score": 103.11,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "토리야마 선생님 디자인중 특히 좋아하는 애들 모음",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77262193?m=humor",
-          "score": 94.11
-        },
-        {
-          "source": "더쿠",
-          "rank": 30,
-          "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
-          "url": "https://theqoo.net/hot/4395147593",
-          "score": 68.89
-        }
-      ],
-      "first_seen": "2026-10-02T19:12:07.909187+09:00",
-      "last_seen": "2026-11-04T08:57:35.047717+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "if1498e47",
@@ -200,7 +200,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4a23876e",
@@ -239,7 +239,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5a1ee9c8",
@@ -277,7 +277,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iae209e51",
@@ -315,7 +315,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibc133f9d",
@@ -353,7 +353,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ifce040e4",
@@ -391,7 +391,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i01009091",
@@ -401,35 +401,36 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 93.24,
+      "score": 94.68,
       "peak_score": 79.75,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 31,
-          "title": "양비론 ㅋㅋㅋ 김민석 탈출구 인가요? ㅋㅋㅋ",
-          "url": "https://www.clien.net/service/board/park/19287079?od=T31&po=0&category=0&groupCd=",
-          "score": 68.75
+          "source": "인벤",
+          "rank": 34,
+          "title": "김민석 당대표 좋은 점 한가지",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748594",
+          "score": 65.5
         },
         {
-          "source": "뽐뿌",
-          "rank": 40,
-          "title": "김민석, 신천지 의혹 사과…조작기소 특검법 당론 채택",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_pol_eco&no=491543",
-          "score": 64.53
+          "source": "클리앙",
+          "rank": 38,
+          "title": "정봉주 '與 '지지율 하락' 원인 은당 내분...김민석 흔들어선 못 오른다'",
+          "url": "https://www.clien.net/service/board/park/19287185?od=T31&po=0&category=0&groupCd=",
+          "score": 64.86
         }
       ],
       "first_seen": "2026-10-03T16:01:31.160167+09:00",
-      "last_seen": "2026-11-04T08:57:35.047717+09:00",
+      "last_seen": "2026-11-04T11:38:09.473574+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 11,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ia9c66bbe",
@@ -470,7 +471,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i015a50b6",
@@ -508,7 +509,125 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -4
+      "change": 0
+    },
+    {
+      "id": "i371907c6",
+      "title": "‘김희선’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김희선"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.03,
+      "peak_score": 72.56,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 44,
+          "title": "김희선",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748595",
+          "score": 63.56
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 63,
+          "title": "화면빨 못받은 김희선 수준",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24811",
+          "score": 61.06
+        }
+      ],
+      "first_seen": "2026-11-04T11:38:09.473574+09:00",
+      "last_seen": "2026-11-04T11:38:09.473574+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "id": "i15d85707",
+      "title": "[속보] 김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
+      "keywords": [
+        "가상자산",
+        "공식",
+        "정부에",
+        "유예",
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.15,
+      "peak_score": 70.68,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 53,
+          "title": "[속보] 김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748585",
+          "score": 62.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 87,
+          "title": "[속보] 민주당 김민석 “가상자산 소득 과세 유예 정부에 공식 제안",
+          "url": "https://www.clien.net/service/board/park/19287178?od=T31&po=0&category=0&groupCd=",
+          "score": 55.17
+        }
+      ],
+      "first_seen": "2026-11-04T11:38:09.473574+09:00",
+      "last_seen": "2026-11-04T11:38:09.473574+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
+    },
+    {
+      "id": "i64aac33b",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.4,
+      "peak_score": 68.93,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 71,
+          "title": "코스닥 코스피 다 지하로 가네요",
+          "url": "https://www.clien.net/service/board/park/19287195?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 96,
+          "title": "코스피 종토방 근황...",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475414&_dcbest=1&page=1",
+          "score": 53.71
+        }
+      ],
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-11-04T11:38:09.473574+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     },
     {
       "id": "ide037c43",
@@ -546,8 +665,8 @@
       "last_seen": "2026-11-04T08:57:35.047717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 17,
+      "change": -3
     },
     {
       "id": "i7cf38624",
@@ -584,8 +703,8 @@
       "last_seen": "2026-11-04T08:57:35.047717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 18,
+      "change": -3
     }
   ]
 }
