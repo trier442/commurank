@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-04T23:34:40.273486+09:00",
+  "collected_at": "2026-11-05T02:55:21.298246+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,252 +11,46 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i31c0a449",
-        "title": "[한국시리즈] 2차전 대혈투",
+        "id": "ib6978d90",
+        "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "2차전",
-          "한국시리즈"
+          "마라톤"
         ],
-        "source_count": 2,
+        "source_count": 3,
         "post_count": 3,
-        "score": 86.53,
-        "peak_score": 86.53,
+        "score": 77.73,
+        "peak_score": 77.73,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 8,
-            "title": "[한국시리즈] 2차전 대혈투",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748880",
-            "score": 77.53
-          },
-          {
-            "source": "더쿠",
-            "rank": 31,
-            "title": "[KBO] 오늘 한국시리즈 2차전 한장요약",
-            "url": "https://theqoo.net/hot/4396116224",
-            "score": 66.84
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.52,
-        "peak_score": 86.52,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 9,
-            "title": "하나하나 주옥같은 중간선거 참패 후 트럼프 반응",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748881",
-            "score": 77.52
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 65,
-            "title": "[속보] 트럼프 항복",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475565&_dcbest=1&page=1",
-            "score": 57.13
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ibd58f499",
-        "title": "‘인도네시아’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "인도네시아"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.55,
-        "peak_score": 82.55,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "싱글벙글 현재 인도네시아 난리난 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
-            "score": 73.55
-          },
-          {
-            "source": "루리웹",
-            "rank": 16,
-            "title": "트윗 인도네시아 물가가 화제라고 함",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77274018?m=humor_only&t=now",
-            "score": 72.06
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당은"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.93,
-        "peak_score": 75.93,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 29,
-            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
-            "score": 66.93
-          },
-          {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "미국 민주당은 합니다!",
-            "url": "https://www.clien.net/service/board/park/19287632?od=T31&po=0&category=0&groupCd=",
-            "score": 55.51
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i6c2c2d02",
-        "title": "‘갑자기’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "갑자기"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.56,
-        "peak_score": 71.56,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "갑자기 애 하나 갖자는 여사친",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748876",
-            "score": 62.56
-          },
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "해외 케이팝덬들한테 갑자기 끌올돼서 붐업받고 있는 노래...twt",
-            "url": "https://theqoo.net/hot/4395893893",
-            "score": 60.42
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "if956ba6b",
-        "title": "‘ai시대’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "ai시대"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.02,
-        "peak_score": 69.02,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 53,
-            "title": "싱글벙글 AI시대 생겨나는 새로운 진상들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475567&_dcbest=1&page=1",
-            "score": 60.02
-          },
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "테렌스 타오: AI시대 수학2.0은 오픈소스 정신으로 해야…",
-            "url": "https://www.clien.net/service/board/park/19287633?od=T31&po=0&category=0&groupCd=",
-            "score": 59.46
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      }
-    ],
-    "daily": [
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당은"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 128.18,
-        "peak_score": 106.69,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
           "디시인사이드",
           "뽐뿌",
-          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 29,
-            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
-            "score": 66.93
+            "source": "클리앙",
+            "rank": 53,
+            "title": "마라톤 대회에 지친 사람들이 제시한 아이디어.jpg",
+            "url": "https://www.clien.net/service/board/park/19287665?od=T31&po=0&category=0&groupCd=",
+            "score": 60.73
           },
           {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "미국 민주당은 합니다!",
-            "url": "https://www.clien.net/service/board/park/19287632?od=T31&po=0&category=0&groupCd=",
-            "score": 55.51
+            "source": "디시인사이드",
+            "rank": 93,
+            "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
+            "score": 53.23
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+            "score": 52.23
           }
         ],
-        "first_seen": "2026-09-29T19:53:33.458089+09:00",
-        "last_seen": "2026-11-04T23:34:40.273486+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 1,
-        "change": 0
+        "change": "NEW"
       },
       {
         "id": "i2272efa7",
@@ -264,53 +58,12 @@
         "keywords": [
           "리센느"
         ],
-        "source_count": 3,
-        "post_count": 5,
-        "score": 120.98,
-        "peak_score": 102.49,
-        "appearances": 2,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "리센느 차단하든지 해야지",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
-            "score": 79.35
-          },
-          {
-            "source": "인벤",
-            "rank": 59,
-            "title": "여기도 리센느, 저기도 리센느",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-            "score": 61.25
-          }
-        ],
-        "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 4,
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 116.68,
-        "peak_score": 105.19,
-        "appearances": 2,
+        "post_count": 3,
+        "score": 84.92,
+        "peak_score": 84.92,
+        "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹",
           "인벤",
           "클리앙"
         ],
@@ -318,82 +71,67 @@
           {
             "source": "인벤",
             "rank": 9,
-            "title": "하나하나 주옥같은 중간선거 참패 후 트럼프 반응",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748881",
-            "score": 77.52
+            "title": "리센느 리브 라이브",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
+            "score": 74.92
           },
           {
-            "source": "디시인사이드",
-            "rank": 65,
-            "title": "[속보] 트럼프 항복",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475565&_dcbest=1&page=1",
-            "score": 57.13
+            "source": "클리앙",
+            "rank": 54,
+            "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
+            "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           }
         ],
-        "first_seen": "2026-10-01T08:10:08.976041+09:00",
-        "last_seen": "2026-11-04T23:34:40.273486+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 3,
-        "change": 3
+        "rank": 2,
+        "change": "NEW"
       },
       {
-        "id": "if692bfca",
-        "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
+        "id": "i01009091",
+        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "취향",
-          "000명이",
-          "정확히",
-          "갈린",
-          "식사",
-          "50으로"
+          "김민석"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 115.94,
-        "peak_score": 104.45,
-        "appearances": 2,
+        "post_count": 3,
+        "score": 81.44,
+        "peak_score": 81.44,
+        "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77261768?m=humor",
-            "score": 96.45
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "김민석 \" '당 통합'에 매진하겠다\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+            "score": 71.44
           },
           {
-            "source": "더쿠",
-            "rank": 12,
-            "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
-            "url": "https://theqoo.net/hot/4395205575",
-            "score": 74.84
+            "source": "클리앙",
+            "rank": 14,
+            "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
+            "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
+            "score": 68.74
           }
         ],
-        "first_seen": "2026-11-04T04:01:31.975565+09:00",
-        "last_seen": "2026-11-04T07:21:53.879915+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
+        "rank": 3,
+        "change": "NEW"
       },
       {
-        "id": "i7afdb3c6",
-        "title": "‘2심도’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1a43d719",
+        "title": "‘유선민’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "2심도",
-          "윤석열"
+          "유선민"
         ],
-        "source_count": 3,
-        "post_count": 5,
-        "score": 115.08,
-        "peak_score": 98.61,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.4,
+        "peak_score": 84.4,
         "appearances": 1,
         "sources": [
-          "더쿠",
           "인벤",
           "클리앙"
         ],
@@ -401,121 +139,133 @@
           {
             "source": "클리앙",
             "rank": 8,
-            "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-            "url": "https://www.clien.net/service/board/park/19287360?od=T31&po=0&category=0&groupCd=",
-            "score": 79.61
-          },
-          {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
-            "url": "https://theqoo.net/hot/4395594125",
-            "score": 64.0
+            "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
+            "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
+            "score": 75.4
           },
           {
             "source": "인벤",
-            "rank": 66,
-            "title": "윤석열 선거법 위반 2심도 유죄…확정 땐 국힘 397억 반환",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748686",
-            "score": 58.62
+            "rank": 83,
+            "title": "이진숙, 유선민 중령 '내란'이라 말하면 진급, 군 역사에 치부.기자회견 공유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748899",
+            "score": 54.96
           }
         ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당은’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.51,
+        "peak_score": 75.51,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 21,
+            "title": "민주당은 김민석으로 끝났다고 봅니다.",
+            "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
+            "score": 66.51
+          },
+          {
+            "source": "인벤",
+            "rank": 61,
+            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
+            "score": 59.15
+          }
+        ],
         "rank": 5,
         "change": -1
       },
       {
-        "id": "idc85f2a1",
-        "title": "미국 중간선거 텍사스주 현황.jpg",
+        "id": "i0cdcc665",
+        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "중간선거",
-          "미국"
+          "아이폰"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 114.91,
-        "peak_score": 102.42,
-        "appearances": 2,
+        "post_count": 2,
+        "score": 69.29,
+        "peak_score": 69.29,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
-          "루리웹",
-          "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "미국 중간선거 텍사스주 현황.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
-            "score": 87.06
+            "source": "인벤",
+            "rank": 57,
+            "title": "아이폰 듀오 대참사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
+            "score": 60.29
           },
           {
             "source": "디시인사이드",
-            "rank": 64,
-            "title": "싱글벙글 미국 중간선거 미시시피주 근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
-            "score": 58.87
+            "rank": 68,
+            "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+            "score": 57.86
           }
         ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T18:55:56.818749+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": "NEW"
       },
       {
-        "id": "ia4c7959d",
-        "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "좋아하는"
+          "난리난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 114.6,
-        "peak_score": 103.11,
-        "appearances": 2,
+        "score": 69.13,
+        "peak_score": 69.13,
+        "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "디시인사이드",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "토리야마 선생님 디자인중 특히 좋아하는 애들 모음",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77262193?m=humor",
-            "score": 94.11
+            "source": "디시인사이드",
+            "rank": 58,
+            "title": "싱글벙글 현재 인도네시아 난리난 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
+            "score": 60.13
           },
           {
-            "source": "더쿠",
-            "rank": 99,
-            "title": "만약에 좋아하는 돌이 담배피다가 걸렸는데.... (케톡펌)(추가)",
-            "url": "https://theqoo.net/hot/4395147593",
-            "score": 52.95
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+            "score": 52.23
           }
         ],
-        "first_seen": "2026-10-02T19:12:07.909187+09:00",
-        "last_seen": "2026-11-04T11:38:09.473574+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 7,
-        "change": 0
+        "change": "NEW"
       },
       {
-        "id": "ic87ce8e8",
-        "title": "‘최악의’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i73215f7c",
+        "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "최악의"
+          "얼마나"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 113.12,
-        "peak_score": 103.65,
+        "score": 66.86,
+        "peak_score": 66.86,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -523,170 +273,75 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "축구 역사상 최악의 반칙 끝내 선수 사망",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77258235?m=humor",
-            "score": 94.65
+            "source": "디시인사이드",
+            "rank": 68,
+            "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+            "score": 57.86
           },
           {
-            "source": "디시인사이드",
-            "rank": 43,
-            "title": "이동진 평론가가 말하는 최악의 연애.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475332&_dcbest=1&page=1",
-            "score": 63.1
+            "source": "루리웹",
+            "rank": 77,
+            "title": "알렉산더 대왕이 얼마나 미친 천재인지 유목민 상대로 보여준 전투",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77275270?m=humor_only&t=now",
+            "score": 56.42
           }
         ],
-        "first_seen": "2026-11-02T18:18:23.155279+09:00",
-        "last_seen": "2026-11-04T02:17:10.666186+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 8,
-        "change": 0
-      },
+        "change": "NEW"
+      }
+    ],
+    "daily": [
       {
-        "id": "if1498e47",
-        "title": "‘시리즈’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "시리즈"
+          "리센느"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 106.71,
-        "peak_score": 97.24,
+        "post_count": 3,
+        "score": 95.39,
+        "peak_score": 84.92,
         "appearances": 1,
         "sources": [
-          "루리웹",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 4,
-            "title": "RTX 50 시리즈 가격 최대 $500 인상",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77261799?m=humor",
-            "score": 88.24
+            "source": "인벤",
+            "rank": 9,
+            "title": "리센느 리브 라이브",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
+            "score": 74.92
           },
           {
             "source": "클리앙",
-            "rank": 52,
-            "title": "갤럭시 Z플립 시리즈 One UI 9.0올라가고 이상해졌네요..",
-            "url": "https://www.clien.net/service/board/park/19287031?od=T31&po=0&category=0&groupCd=",
-            "score": 60.85
+            "rank": 54,
+            "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
+            "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           }
         ],
-        "first_seen": "2026-11-04T07:21:53.879915+09:00",
-        "last_seen": "2026-11-04T07:21:53.879915+09:00",
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": 1
       },
       {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1a43d719",
+        "title": "‘유선민’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "11월"
+          "유선민"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 105.03,
-        "peak_score": 93.54,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "11월 4일 수요일 날씨 + 운세",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748514",
-            "score": 71.41
-          },
-          {
-            "source": "더쿠",
-            "rank": 73,
-            "title": "11월 춥다고 이불에 맨날 기어 들어가지 말고 스트레칭",
-            "url": "https://theqoo.net/hot/4395113644",
-            "score": 56.58
-          }
-        ],
-        "first_seen": "2026-10-29T14:42:11.450079+09:00",
-        "last_seen": "2026-11-04T08:57:35.047717+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
-      },
-      {
-        "id": "ieef61a46",
-        "title": "일론 머스크 근황",
-        "keywords": [
-          "일론",
-          "머스크"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 104.09,
-        "peak_score": 89.62,
+        "score": 93.87,
+        "peak_score": 84.4,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 14,
-            "title": "일론 머스크 근황",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
-            "score": 74.62
-          },
-          {
-            "source": "루리웹",
-            "rank": 65,
-            "title": "호달달할수밖에 없는 일론 머스크",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77270429?m=humor_only&t=now",
-            "score": 58.6
-          },
-          {
-            "source": "인벤",
-            "rank": 74,
-            "title": "현재 X된 일론 머스크",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748755",
-            "score": 56.77
-          }
-        ],
-        "first_seen": "2026-11-04T18:55:56.818749+09:00",
-        "last_seen": "2026-11-04T18:55:56.818749+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 11,
-        "change": 0
-      },
-      {
-        "id": "i92af6733",
-        "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-        "keywords": [
-          "유죄",
-          "397억",
-          "선거법",
-          "2심도",
-          "윤석열",
-          "반환",
-          "징역형"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 104.08,
-        "peak_score": 88.61,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
           "인벤",
           "클리앙"
         ],
@@ -694,49 +349,81 @@
           {
             "source": "클리앙",
             "rank": 8,
-            "title": "[속보]윤석열 결국 국힘에 397억 어퍼컷···선거법 2심도 유죄",
-            "url": "https://www.clien.net/service/board/park/19287360?od=T31&po=0&category=0&groupCd=",
-            "score": 79.61
+            "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
+            "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
+            "score": 75.4
           },
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "[속보] '국힘 397억' 걸린 '尹 선거법 위반' 2심 유죄 '당선무효형' 유지",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748689",
-            "score": 65.46
-          },
-          {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
-            "url": "https://theqoo.net/hot/4395594125",
-            "score": 64.0
-          },
-          {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "[속보] 윤석열.2심도 징역형.국힘 397억 반환..",
-            "url": "https://www.clien.net/service/board/park/19287344?od=T31&po=0&category=0&groupCd=",
-            "score": 57.31
+            "rank": 83,
+            "title": "이진숙, 유선민 중령 '내란'이라 말하면 진급, 군 역사에 치부.기자회견 공유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748899",
+            "score": 54.96
           }
         ],
-        "first_seen": "2026-11-04T15:10:11.887100+09:00",
-        "last_seen": "2026-11-04T15:10:11.887100+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
-        "rank": 12,
-        "change": 0
+        "first_seen": "2026-11-05T02:55:21.298246+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
       },
       {
-        "id": "i5a1ee9c8",
-        "title": "‘정청래’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib6978d90",
+        "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "정청래"
+          "마라톤"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 92.2,
+        "peak_score": 77.73,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 53,
+            "title": "마라톤 대회에 지친 사람들이 제시한 아이디어.jpg",
+            "url": "https://www.clien.net/service/board/park/19287665?od=T31&po=0&category=0&groupCd=",
+            "score": 60.73
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 93,
+            "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
+            "score": 53.23
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+            "score": 52.23
+          }
+        ],
+        "first_seen": "2026-10-14T07:59:33.070594+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i01009091",
+        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김민석"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 103.15,
-        "peak_score": 93.68,
+        "post_count": 3,
+        "score": 91.91,
+        "peak_score": 81.44,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -745,292 +432,177 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 4,
-            "title": "정청래 의원 대분노 표출.JPG",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175574",
-            "score": 84.68
+            "rank": 13,
+            "title": "김민석 \" '당 통합'에 매진하겠다\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+            "score": 71.44
           },
           {
             "source": "클리앙",
-            "rank": 38,
-            "title": "김민석 정청래 둘다 정계은퇴해야한다봅니다",
-            "url": "https://www.clien.net/service/board/park/19287077?od=T31&po=0&category=0&groupCd=",
-            "score": 66.59
+            "rank": 14,
+            "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
+            "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
+            "score": 68.74
           }
         ],
-        "first_seen": "2026-11-03T18:24:28.936864+09:00",
-        "last_seen": "2026-11-04T08:57:35.047717+09:00",
+        "first_seen": "2026-10-03T16:01:31.160167+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "latest_post_count": 3,
+        "rank": 4,
+        "change": "NEW"
       },
       {
-        "id": "iead2b930",
-        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당은’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "오늘자"
+          "민주당은"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 101.84,
-        "peak_score": 92.37,
+        "score": 84.98,
+        "peak_score": 75.51,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 6,
-            "title": "오늘자 최악의 방식으로 미국콘 취소해버린 캣츠아이",
-            "url": "https://theqoo.net/hot/4395698830",
-            "score": 83.37
+            "source": "클리앙",
+            "rank": 21,
+            "title": "민주당은 김민석으로 끝났다고 봅니다.",
+            "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
+            "score": 66.51
+          },
+          {
+            "source": "인벤",
+            "rank": 61,
+            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
+            "score": 59.15
+          }
+        ],
+        "first_seen": "2026-09-29T19:53:33.458089+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": -4
+      },
+      {
+        "id": "i0cdcc665",
+        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아이폰"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.76,
+        "peak_score": 69.29,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 57,
+            "title": "아이폰 듀오 대참사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
+            "score": 60.29
           },
           {
             "source": "디시인사이드",
-            "rank": 76,
-            "title": "오늘자 듀오근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475552&_dcbest=1&page=1",
-            "score": 55.99
+            "rank": 68,
+            "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+            "score": 57.86
           }
         ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-11-04T18:55:56.818749+09:00",
+        "first_seen": "2026-10-17T02:56:53.776363+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 6,
+        "change": "NEW"
       },
       {
-        "id": "iae209e51",
-        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "충격적인"
+          "난리난"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 100.56,
-        "peak_score": 88.07,
-        "appearances": 2,
+        "post_count": 2,
+        "score": 78.6,
+        "peak_score": 69.13,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-            "score": 78.07
-          },
-          {
             "source": "디시인사이드",
-            "rank": 28,
-            "title": "\"일을 왜함?\" 충격적인 기초수급자 근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475308&_dcbest=1&page=1",
-            "score": 67.41
-          }
-        ],
-        "first_seen": "2026-09-30T11:27:58.185526+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 15,
-        "change": 0
-      },
-      {
-        "id": "ibc133f9d",
-        "title": "‘내용을’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "내용을"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 98.56,
-        "peak_score": 87.07,
-        "appearances": 2,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
+            "rank": 58,
+            "title": "싱글벙글 현재 인도네시아 난리난 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
+            "score": 60.13
+          },
           {
             "source": "뽐뿌",
-            "rank": 9,
-            "title": "홍사훈쑈] 박규환최고가 충격적인 내용을 폭로했네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175422",
-            "score": 78.07
-          },
-          {
-            "source": "인벤",
-            "rank": 18,
-            "title": "김성회 의원의 브리핑 내용을 본 홍사훈 기자의 반응",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748473",
-            "score": 71.18
+            "rank": 97,
+            "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+            "score": 52.23
           }
         ],
-        "first_seen": "2026-11-04T02:17:10.666186+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
-      },
-      {
-        "id": "i77bec7b9",
-        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "윤석열"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 97.12,
-        "peak_score": 87.65,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "윤석열 판결의 역사적 의미",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176213",
-            "score": 78.65
-          },
-          {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "[속보] 윤석열 '대선 거짓말' 2심도 징역형..국힘 397억 반환 위기",
-            "url": "https://theqoo.net/hot/4395594125",
-            "score": 52.58
-          }
-        ],
-        "first_seen": "2026-11-04T18:55:56.818749+09:00",
-        "last_seen": "2026-11-04T18:55:56.818749+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "i31c0a449",
-        "title": "[한국시리즈] 2차전 대혈투",
-        "keywords": [
-          "2차전",
-          "한국시리즈"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 97.0,
-        "peak_score": 86.53,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 8,
-            "title": "[한국시리즈] 2차전 대혈투",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748880",
-            "score": 77.53
-          },
-          {
-            "source": "더쿠",
-            "rank": 31,
-            "title": "[KBO] 오늘 한국시리즈 2차전 한장요약",
-            "url": "https://theqoo.net/hot/4396116224",
-            "score": 66.84
-          }
-        ],
-        "first_seen": "2026-11-04T23:34:40.273486+09:00",
-        "last_seen": "2026-11-04T23:34:40.273486+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 18,
+        "rank": 7,
         "change": "NEW"
       },
       {
-        "id": "ifce040e4",
-        "title": "‘엄청난’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i73215f7c",
+        "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엄청난"
+          "얼마나"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 96.36,
-        "peak_score": 86.89,
+        "score": 76.33,
+        "peak_score": 66.86,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "엄청난) 중국 황산 잔도 풍경 ㄷㄷ.gif",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116212",
-            "score": 77.89
+            "source": "디시인사이드",
+            "rank": 68,
+            "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+            "score": 57.86
           },
           {
-            "source": "인벤",
-            "rank": 36,
-            "title": "엄청난 무기를 가진 폭력적인 눈나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748516",
-            "score": 66.85
+            "source": "루리웹",
+            "rank": 77,
+            "title": "알렉산더 대왕이 얼마나 미친 천재인지 유목민 상대로 보여준 전투",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77275270?m=humor_only&t=now",
+            "score": 56.42
           }
         ],
-        "first_seen": "2026-11-01T06:22:46.396757+09:00",
-        "last_seen": "2026-11-04T08:57:35.047717+09:00",
+        "first_seen": "2026-11-05T02:55:21.298246+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 96.22,
-        "peak_score": 86.75,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 11,
-            "title": "[속보] 이재명 유튜브도 시작",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176203",
-            "score": 77.75
-          },
-          {
-            "source": "클리앙",
-            "rank": 58,
-            "title": "이재명 정부 들어서고 김민석의 업적",
-            "url": "https://www.clien.net/service/board/park/19287510?od=T31&po=0&category=0&groupCd=",
-            "score": 60.41
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-11-04T18:55:56.818749+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 20,
-        "change": -1
+        "rank": 8,
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -1042,9 +614,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 129.62,
+        "score": 130.74,
         "peak_score": 106.69,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1054,22 +626,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 29,
-            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
-            "score": 66.93
+            "source": "클리앙",
+            "rank": 21,
+            "title": "민주당은 김민석으로 끝났다고 봅니다.",
+            "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
+            "score": 66.51
           },
           {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "미국 민주당은 합니다!",
-            "url": "https://www.clien.net/service/board/park/19287632?od=T31&po=0&category=0&groupCd=",
-            "score": 55.51
+            "source": "인벤",
+            "rank": 61,
+            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
+            "score": 59.15
           }
         ],
         "first_seen": "2026-09-29T19:53:33.458089+09:00",
-        "last_seen": "2026-11-04T23:34:40.273486+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
@@ -1125,9 +697,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 123.54,
+        "score": 124.45,
         "peak_score": 102.49,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "더쿠",
           "뽐뿌",
@@ -1136,24 +708,24 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "리센느 차단하든지 해야지",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
-            "score": 79.35
+            "source": "인벤",
+            "rank": 9,
+            "title": "리센느 리브 라이브",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
+            "score": 74.92
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "여기도 리센느, 저기도 리센느",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-            "score": 61.25
+            "source": "클리앙",
+            "rank": 54,
+            "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
+            "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           }
         ],
         "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 3,
         "rank": 3,
         "change": 0
       },
@@ -1203,9 +775,9 @@
         ],
         "source_count": 3,
         "post_count": 6,
-        "score": 117.27,
+        "score": 118.04,
         "peak_score": 94.31,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -1213,24 +785,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 34,
-            "title": "김민석 당대표 좋은 점 한가지",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748594",
-            "score": 65.5
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "김민석 \" '당 통합'에 매진하겠다\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+            "score": 71.44
           },
           {
             "source": "클리앙",
-            "rank": 38,
-            "title": "정봉주 '與 '지지율 하락' 원인 은당 내분...김민석 흔들어선 못 오른다'",
-            "url": "https://www.clien.net/service/board/park/19287185?od=T31&po=0&category=0&groupCd=",
-            "score": 64.86
+            "rank": 14,
+            "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
+            "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
+            "score": 68.74
           }
         ],
         "first_seen": "2026-10-03T16:01:31.160167+09:00",
-        "last_seen": "2026-11-04T11:38:09.473574+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 3,
         "rank": 5,
         "change": 0
       },
@@ -1310,7 +882,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": 5
+        "change": 0
       },
       {
         "id": "i09329f76",
@@ -1350,7 +922,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if692bfca",
@@ -1393,7 +965,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic87ce8e8",
@@ -1433,7 +1005,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7afdb3c6",
@@ -1480,7 +1052,7 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "idc85f2a1",
@@ -1521,7 +1093,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia4c7959d",
@@ -1839,9 +1411,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 145.66,
+        "score": 146.57,
         "peak_score": 121.61,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1850,22 +1422,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "현재) 난리난 인종차별 영상.mp4",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172994",
-            "score": 84.19
+            "source": "디시인사이드",
+            "rank": 58,
+            "title": "싱글벙글 현재 인도네시아 난리난 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
+            "score": 60.13
           },
           {
-            "source": "더쿠",
-            "rank": 14,
-            "title": "못생겼다고 난리난 남돌 스페셜 앨범",
-            "url": "https://theqoo.net/hot/4393151473",
-            "score": 76.68
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+            "score": 52.23
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-02T05:49:45.729204+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
@@ -1879,9 +1451,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 129.62,
+        "score": 130.74,
         "peak_score": 106.69,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1891,22 +1463,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 29,
-            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
-            "score": 66.93
+            "source": "클리앙",
+            "rank": 21,
+            "title": "민주당은 김민석으로 끝났다고 봅니다.",
+            "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
+            "score": 66.51
           },
           {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "미국 민주당은 합니다!",
-            "url": "https://www.clien.net/service/board/park/19287632?od=T31&po=0&category=0&groupCd=",
-            "score": 55.51
+            "source": "인벤",
+            "rank": 61,
+            "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
+            "score": 59.15
           }
         ],
         "first_seen": "2026-09-29T19:53:33.458089+09:00",
-        "last_seen": "2026-11-04T23:34:40.273486+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
@@ -2010,9 +1582,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 124.45,
+        "score": 125.22,
         "peak_score": 102.49,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "더쿠",
           "뽐뿌",
@@ -2021,24 +1593,24 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "리센느 차단하든지 해야지",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175476",
-            "score": 79.35
+            "source": "인벤",
+            "rank": 9,
+            "title": "리센느 리브 라이브",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
+            "score": 74.92
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "여기도 리센느, 저기도 리센느",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-            "score": 61.25
+            "source": "클리앙",
+            "rank": 54,
+            "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
+            "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           }
         ],
         "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-11-04T04:01:31.975565+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 3,
         "rank": 5,
         "change": 0
       },
@@ -2122,39 +1694,39 @@
       },
       {
         "id": "i0cdcc665",
-        "title": "다양한 아이폰 듀오 vs 폴드8 리뷰 중에서 이 분께 제일 인상 깊네요.",
+        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "듀오",
           "아이폰"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 117.37,
+        "score": 118.81,
         "peak_score": 105.88,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "루리웹",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 58,
-            "title": "다양한 아이폰 듀오 vs 폴드8 리뷰 중에서 이 분께 제일 인상 깊네요.",
-            "url": "https://www.clien.net/service/board/park/19285812?od=T31&po=0&category=0&groupCd=",
-            "score": 58.56
+            "source": "인벤",
+            "rank": 57,
+            "title": "아이폰 듀오 대참사",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
+            "score": 60.29
           },
           {
-            "source": "루리웹",
-            "rank": 65,
-            "title": "아이폰 듀오 새로운 불량",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77236619?m=humor_only&t=now",
-            "score": 57.2
+            "source": "디시인사이드",
+            "rank": 68,
+            "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+            "score": 57.86
           }
         ],
         "first_seen": "2026-10-17T02:56:53.776363+09:00",
-        "last_seen": "2026-11-01T18:43:20.593439+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
@@ -2168,9 +1740,9 @@
         ],
         "source_count": 3,
         "post_count": 6,
-        "score": 117.27,
+        "score": 118.04,
         "peak_score": 94.31,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -2178,24 +1750,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 34,
-            "title": "김민석 당대표 좋은 점 한가지",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748594",
-            "score": 65.5
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "김민석 \" '당 통합'에 매진하겠다\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+            "score": 71.44
           },
           {
             "source": "클리앙",
-            "rank": 38,
-            "title": "정봉주 '與 '지지율 하락' 원인 은당 내분...김민석 흔들어선 못 오른다'",
-            "url": "https://www.clien.net/service/board/park/19287185?od=T31&po=0&category=0&groupCd=",
-            "score": 64.86
+            "rank": 14,
+            "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
+            "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
+            "score": 68.74
           }
         ],
         "first_seen": "2026-10-03T16:01:31.160167+09:00",
-        "last_seen": "2026-11-04T11:38:09.473574+09:00",
+        "last_seen": "2026-11-05T02:55:21.298246+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 3,
         "rank": 9,
         "change": 0
       },
@@ -2237,7 +1809,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": 8
+        "change": 0
       },
       {
         "id": "i09329f76",
@@ -2277,7 +1849,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4a23876e",
@@ -2317,7 +1889,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if692bfca",
@@ -2360,7 +1932,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5af231c6",
@@ -2398,7 +1970,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic87ce8e8",
@@ -2438,7 +2010,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7afdb3c6",
@@ -2485,7 +2057,7 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "idc85f2a1",
@@ -2526,7 +2098,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i85bc9afd",
@@ -2565,7 +2137,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia4c7959d",
