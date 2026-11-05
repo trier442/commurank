@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-05",
   "label": "2026년 11월 05일",
-  "collected_at": "2026-11-05T12:41:22.765321+09:00",
+  "collected_at": "2026-11-05T17:09:32.621874+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -279,7 +279,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i01009091",
@@ -317,7 +317,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ieef61a46",
@@ -356,7 +356,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1a43d719",
@@ -394,7 +394,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iead2b930",
@@ -432,7 +432,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8ac4ec41",
@@ -470,7 +470,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -509,7 +509,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -2
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -547,7 +547,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i14d31b7b",
@@ -585,7 +585,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ibdcdfeff",
@@ -628,7 +628,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -3
+      "change": 0
+    },
+    {
+      "id": "idf55914c",
+      "title": "‘아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아버지"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 86.11,
+      "peak_score": 75.64,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 42,
+          "title": "아버지 찌른 30대 딸 ㅠ (평범한 칼괴)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475839&_dcbest=1&page=1",
+          "score": 65.64
+        },
+        {
+          "source": "인벤",
+          "rank": 72,
+          "title": "아들 생일날 직접 술상 차려준 아버지",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749177",
+          "score": 58.36
+        }
+      ],
+      "first_seen": "2026-11-05T17:09:32.621874+09:00",
+      "last_seen": "2026-11-05T17:09:32.621874+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i33fa3ddc",
@@ -665,8 +703,8 @@
       "last_seen": "2026-11-05T10:22:40.151862+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -3
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -703,84 +741,46 @@
       "last_seen": "2026-11-05T02:55:21.298246+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -3
+      "rank": 19,
+      "change": -1
     },
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i19b638ee",
+      "title": "‘한국인들’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "실시간"
+        "한국인들"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.42,
-      "peak_score": 74.95,
+      "score": 84.68,
+      "peak_score": 75.21,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "루리웹"
       ],
       "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 30,
-          "title": "싱글벙글 실시간 백악관 상황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475800&_dcbest=1&page=1",
-          "score": 65.95
-        },
         {
           "source": "더쿠",
-          "rank": 34,
-          "title": "실시간 삼성전자, 하이닉스 주가.................jpg",
-          "url": "https://theqoo.net/hot/4396402095",
-          "score": 65.05
-        }
-      ],
-      "first_seen": "2026-10-07T14:44:26.372950+09:00",
-      "last_seen": "2026-11-05T12:41:22.765321+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "ic2f0aa64",
-      "title": "‘콜라보’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "콜라보"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.38,
-      "peak_score": 74.91,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
           "rank": 38,
-          "title": "맘터 X 주술회전 콜라보",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748933",
-          "score": 65.91
+          "title": "디자인 예쁘기만 한데... 한국인들 기준이 엄청 높은가?",
+          "url": "https://theqoo.net/hot/4396649917",
+          "score": 66.21
         },
         {
           "source": "루리웹",
-          "rank": 71,
-          "title": "[모비노기] 모비노기 특급 콜라보 실채",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77276124?m=humor_only&t=now",
-          "score": 57.36
+          "rank": 46,
+          "title": "중국 : 한국인들 이해 안된다",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77281211?m=humor_only&t=now",
+          "score": 64.54
         }
       ],
-      "first_seen": "2026-11-05T08:32:32.126353+09:00",
-      "last_seen": "2026-11-05T08:32:32.126353+09:00",
+      "first_seen": "2026-11-05T17:09:32.621874+09:00",
+      "last_seen": "2026-11-05T17:09:32.621874+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -4
+      "change": "NEW"
     }
   ]
 }
