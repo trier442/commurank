@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-06T04:03:15.083487+09:00",
+  "collected_at": "2026-11-06T07:16:56.427308+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -130,6 +130,54 @@
       "change": 0
     },
     {
+      "id": "i7f48cc7a",
+      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "반도체"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 123.54,
+      "peak_score": 104.61,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "호남 반도체 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177689",
+          "score": 86.61
+        },
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "기어이 반도체 패닉셀이 나왔네요.",
+          "url": "https://www.clien.net/service/board/park/19288200?od=T31&po=0&category=0&groupCd=",
+          "score": 70.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 92,
+          "title": "싱글벙글 반도체 관련주들 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476101&_dcbest=1&page=1",
+          "score": 52.7
+        }
+      ],
+      "first_seen": "2026-11-05T12:41:22.765321+09:00",
+      "last_seen": "2026-11-06T07:16:56.427308+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "ib6978d90",
       "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -174,8 +222,8 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i01009091",
@@ -213,8 +261,8 @@
       "last_seen": "2026-11-05T10:22:40.151862+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -253,8 +301,8 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i5c6da920",
@@ -291,8 +339,8 @@
       "last_seen": "2026-11-02T10:52:35.245667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "if956ba6b",
@@ -330,8 +378,8 @@
       "last_seen": "2026-11-05T05:55:42.842985+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ifc264642",
@@ -368,8 +416,8 @@
       "last_seen": "2026-11-02T01:31:31.214001+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i09329f76",
@@ -408,8 +456,8 @@
       "last_seen": "2026-11-02T18:18:23.155279+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "if692bfca",
@@ -451,8 +499,46 @@
       "last_seen": "2026-11-04T07:21:53.879915+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
+    },
+    {
+      "id": "i1e941339",
+      "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 115.91,
+      "peak_score": 106.44,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "중국인 : \"한국인들은 이딴걸 쳐먹는단 말이냐?\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77286485?m=humor",
+          "score": 97.44
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 51,
+          "title": "한국식 볶음밥에 빡친 중국인",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476119&_dcbest=1&page=1",
+          "score": 62.72
+        }
+      ],
+      "first_seen": "2026-09-30T04:57:06.263561+09:00",
+      "last_seen": "2026-11-06T07:16:56.427308+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
     },
     {
       "id": "ic87ce8e8",
@@ -491,8 +577,8 @@
       "last_seen": "2026-11-04T02:17:10.666186+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i7afdb3c6",
@@ -538,8 +624,8 @@
       "last_seen": "2026-11-04T15:10:11.887100+09:00",
       "latest_source_count": 3,
       "latest_post_count": 5,
-      "rank": 13,
-      "change": 0
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "idc85f2a1",
@@ -579,8 +665,8 @@
       "last_seen": "2026-11-04T18:55:56.818749+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "ia4c7959d",
@@ -617,8 +703,8 @@
       "last_seen": "2026-11-04T11:38:09.473574+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i5d6688ff",
@@ -655,8 +741,8 @@
       "last_seen": "2026-11-05T10:22:40.151862+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i85fe1706",
@@ -693,8 +779,8 @@
       "last_seen": "2026-11-02T10:52:35.245667+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "i87351a46",
@@ -731,85 +817,8 @@
       "last_seen": "2026-11-03T00:41:17.132978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 109.04,
-      "peak_score": 96.11,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 87.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "싱글벙글 현재 인도네시아 난리난 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
-          "score": 60.13
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i08456703",
-      "title": "‘soxl’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "soxl"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 108.74,
-      "peak_score": 97.25,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "현시각 SOXL ETF 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
-          "score": 88.25
-        },
-        {
-          "source": "클리앙",
-          "rank": 31,
-          "title": "와 SOXL 5년 전 가격으로 할인하네요",
-          "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
-          "score": 66.54
-        }
-      ],
-      "first_seen": "2026-11-06T01:28:49.569202+09:00",
-      "last_seen": "2026-11-06T04:03:15.083487+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": -2
     }
   ]
 }
