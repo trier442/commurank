@@ -1,383 +1,343 @@
 {
   "version": 1,
-  "date": "2026-11-05",
-  "label": "2026년 11월 05일",
-  "collected_at": "2026-11-05T20:36:23.359064+09:00",
+  "date": "2026-11-06",
+  "label": "2026년 11월 06일",
+  "collected_at": "2026-11-06T01:28:49.569202+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘마라톤’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘반도체’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #주식. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 876070,
-    "top100_comments": 10553
+    "daily_issues": 6,
+    "keywords": 13,
+    "top100_views": 947659,
+    "top100_comments": 6975
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "3개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ib6978d90"
+      "issue_id": "i7f48cc7a"
     },
     {
       "type": "post",
-      "title": "한국 차원달라병.JPG",
+      "title": "푸른주스 솔직히 개 호들갑임ㅋㅋㅋ",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280091?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77283176?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#주식",
+      "text": "3개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "주식"
     }
   ],
   "top_posts": [
     {
-      "title": "한국 차원달라병.JPG",
+      "title": "푸른주스 솔직히 개 호들갑임ㅋㅋㅋ",
       "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280091?m=humor",
-      "first_seen": "2026-11-05T20:36:23.359064+09:00",
-      "last_seen": "2026-11-05T20:36:23.359064+09:00",
-      "peak_score": 98.54,
-      "max_views": 49469,
-      "max_likes": 237,
-      "max_comments": 89,
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77283176?m=humor",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 98.94,
+      "max_views": 22202,
+      "max_likes": 124,
+      "max_comments": 83,
       "appearances": 1,
       "daily_stats": {
-        "2026-11-05": {
-          "max_score": 98.54,
-          "max_views": 49469,
-          "max_likes": 237,
-          "max_comments": 89,
+        "2026-11-06": {
+          "max_score": 98.94,
+          "max_views": 22202,
+          "max_likes": 124,
+          "max_comments": 83,
           "appearances": 1,
-          "last_seen": "2026-11-05T20:36:23.359064+09:00"
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
         }
       },
-      "score": 108.06,
-      "views": 49469,
-      "likes": 237,
-      "comments": 89,
+      "score": 108.46,
+      "views": 22202,
+      "likes": 124,
+      "comments": 83,
       "active_days": 1,
       "change": "NEW"
     },
     {
-      "title": "트럼프, 분노로 인해 현재 사저에 칩거중.jpg",
+      "title": "군사갤러가 군사유튜브 거르는 이유",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77276490?m=humor",
-      "first_seen": "2026-11-05T10:22:40.151862+09:00",
-      "last_seen": "2026-11-05T12:41:22.765321+09:00",
-      "peak_score": 98.12,
-      "max_views": 22965,
-      "max_likes": 86,
-      "max_comments": 77,
-      "appearances": 2,
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77282878?m=humor",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 96.12,
+      "max_views": 24315,
+      "max_likes": 115,
+      "max_comments": 66,
+      "appearances": 1,
       "daily_stats": {
-        "2026-11-05": {
-          "max_score": 98.12,
-          "max_views": 22965,
-          "max_likes": 86,
-          "max_comments": 77,
-          "appearances": 2,
-          "last_seen": "2026-11-05T12:41:22.765321+09:00"
+        "2026-11-06": {
+          "max_score": 96.12,
+          "max_views": 24315,
+          "max_likes": 115,
+          "max_comments": 66,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
         }
       },
-      "score": 107.88,
-      "views": 22965,
-      "likes": 86,
-      "comments": 77,
+      "score": 105.64,
+      "views": 24315,
+      "likes": 115,
+      "comments": 66,
       "active_days": 1,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "title": "한중일 전쟁나면 안되는 이유.jpg",
+      "title": "영화 이퀼리브리움에서 예산부족으로 못 넣은 것.jpg",
       "source": "루리웹",
+      "category": "연예",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77284502?m=humor",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 93.38,
+      "max_views": 11641,
+      "max_likes": 87,
+      "max_comments": 72,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-06": {
+          "max_score": 93.38,
+          "max_views": 11641,
+          "max_likes": 87,
+          "max_comments": 72,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
+        }
+      },
+      "score": 102.9,
+      "views": 11641,
+      "likes": 87,
+      "comments": 72,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "3040 이혼사유 1위 근황",
+      "source": "뽐뿌",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275726?m=humor",
-      "first_seen": "2026-11-05T08:32:32.126353+09:00",
-      "last_seen": "2026-11-05T08:32:32.126353+09:00",
-      "peak_score": 97.89,
-      "max_views": 15884,
-      "max_likes": 89,
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177713",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 83.32,
+      "max_views": 25779,
+      "max_likes": 9,
+      "max_comments": 56,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-06": {
+          "max_score": 83.32,
+          "max_views": 25779,
+          "max_likes": 9,
+          "max_comments": 56,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
+        }
+      },
+      "score": 92.84,
+      "views": 25779,
+      "likes": 9,
+      "comments": 56,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "싱글벙글 연매출 100억 병원장의 삶",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475999&_dcbest=1&page=1",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 77.3,
+      "max_views": 20506,
+      "max_likes": 155,
+      "max_comments": 278,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-06": {
+          "max_score": 77.3,
+          "max_views": 20506,
+          "max_likes": 155,
+          "max_comments": 278,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
+        }
+      },
+      "score": 86.82,
+      "views": 20506,
+      "likes": 155,
+      "comments": 278,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "블라인드에서 댓글 1000개 넘게 달린 담배 논란.JPG",
+      "source": "더쿠",
+      "category": "유머",
+      "url": "https://theqoo.net/hot/4397099233",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 76.53,
+      "max_views": 44831,
+      "max_likes": 0,
+      "max_comments": 620,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-06": {
+          "max_score": 76.53,
+          "max_views": 44831,
+          "max_likes": 0,
+          "max_comments": 620,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
+        }
+      },
+      "score": 86.05,
+      "views": 44831,
+      "likes": 0,
+      "comments": 620,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "싱글벙글 히틀러 똥꼬를 빨던 르 코르뷔지에에 대해.araboja",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476033&_dcbest=1&page=1",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 76.19,
+      "max_views": 7328,
+      "max_likes": 51,
+      "max_comments": 38,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-06": {
+          "max_score": 76.19,
+          "max_views": 7328,
+          "max_likes": 51,
+          "max_comments": 38,
+          "appearances": 1,
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
+        }
+      },
+      "score": 85.71,
+      "views": 7328,
+      "likes": 51,
+      "comments": 38,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "슈카월드 보수인 이유가 있었군요. 4억 광고받음 ㅋㅋ",
+      "source": "뽐뿌",
+      "category": "유머",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177704",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 75.45,
+      "max_views": 12794,
+      "max_likes": 38,
       "max_comments": 41,
       "appearances": 1,
       "daily_stats": {
-        "2026-11-05": {
-          "max_score": 97.89,
-          "max_views": 15884,
-          "max_likes": 89,
+        "2026-11-06": {
+          "max_score": 75.45,
+          "max_views": 12794,
+          "max_likes": 38,
           "max_comments": 41,
           "appearances": 1,
-          "last_seen": "2026-11-05T08:32:32.126353+09:00"
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
         }
       },
-      "score": 106.41,
-      "views": 15884,
-      "likes": 89,
+      "score": 84.97,
+      "views": 12794,
+      "likes": 38,
       "comments": 41,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "미호요 근황..........jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274087?m=humor",
-      "first_seen": "2026-11-05T02:55:21.298246+09:00",
-      "last_seen": "2026-11-05T02:55:21.298246+09:00",
-      "peak_score": 98.12,
-      "max_views": 15237,
-      "max_likes": 77,
-      "max_comments": 119,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 98.12,
-          "max_views": 15237,
-          "max_likes": 77,
-          "max_comments": 119,
-          "appearances": 1,
-          "last_seen": "2026-11-05T02:55:21.298246+09:00"
-        }
-      },
-      "score": 106.17,
-      "views": 15237,
-      "likes": 77,
-      "comments": 119,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "독신으로 살면 노년은 어찌 되는걸까",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77279268?m=humor",
-      "first_seen": "2026-11-05T17:09:32.621874+09:00",
-      "last_seen": "2026-11-05T17:09:32.621874+09:00",
-      "peak_score": 96.61,
-      "max_views": 14775,
-      "max_likes": 86,
-      "max_comments": 120,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 96.61,
-          "max_views": 14775,
-          "max_likes": 86,
-          "max_comments": 120,
-          "appearances": 1,
-          "last_seen": "2026-11-05T17:09:32.621874+09:00"
-        }
-      },
-      "score": 105.85,
-      "views": 14775,
-      "likes": 86,
-      "comments": 120,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "삼국지)촉나라가 낭만 원툴이라고 해도 빨리는 이유.JPG",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77277575?m=humor",
-      "first_seen": "2026-11-05T17:09:32.621874+09:00",
-      "last_seen": "2026-11-05T17:09:32.621874+09:00",
-      "peak_score": 96.04,
-      "max_views": 8360,
-      "max_likes": 78,
-      "max_comments": 84,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 96.04,
-          "max_views": 8360,
-          "max_likes": 78,
-          "max_comments": 84,
-          "appearances": 1,
-          "last_seen": "2026-11-05T17:09:32.621874+09:00"
-        }
-      },
-      "score": 105.28,
-      "views": 8360,
-      "likes": 78,
-      "comments": 84,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "???:5년차에 영끌월급700 못받으면 회사가 ↗소임.",
-      "source": "루리웹",
-      "category": "생활",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77281149?m=humor",
-      "first_seen": "2026-11-05T20:36:23.359064+09:00",
-      "last_seen": "2026-11-05T20:36:23.359064+09:00",
-      "peak_score": 95.36,
-      "max_views": 13986,
-      "max_likes": 93,
-      "max_comments": 93,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 95.36,
-          "max_views": 13986,
-          "max_likes": 93,
-          "max_comments": 93,
-          "appearances": 1,
-          "last_seen": "2026-11-05T20:36:23.359064+09:00"
-        }
-      },
-      "score": 104.88,
-      "views": 13986,
-      "likes": 93,
-      "comments": 93,
       "active_days": 1,
       "change": "NEW"
     },
     {
-      "title": "알고보면 반대가 된 AI시대 예측",
-      "source": "루리웹",
+      "title": "“ 네가 항상 옳을 수는 없어 ”",
+      "source": "디시인사이드",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
-      "first_seen": "2026-11-05T05:55:42.842985+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "peak_score": 96.46,
-      "max_views": 11835,
-      "max_likes": 89,
-      "max_comments": 51,
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476007&_dcbest=1&page=1",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 74.25,
+      "max_views": 17636,
+      "max_likes": 96,
+      "max_comments": 124,
       "appearances": 1,
       "daily_stats": {
-        "2026-11-05": {
-          "max_score": 96.46,
-          "max_views": 11835,
-          "max_likes": 89,
-          "max_comments": 51,
+        "2026-11-06": {
+          "max_score": 74.25,
+          "max_views": 17636,
+          "max_likes": 96,
+          "max_comments": 124,
           "appearances": 1,
-          "last_seen": "2026-11-05T05:55:42.842985+09:00"
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
         }
       },
-      "score": 104.76,
-      "views": 11835,
-      "likes": 89,
-      "comments": 51,
+      "score": 83.77,
+      "views": 17636,
+      "likes": 96,
+      "comments": 124,
       "active_days": 1,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "title": "텍사스 신임 주지사가 내건 데이터 센터 건설 재개 조건",
-      "source": "루리웹",
+      "title": "알티타고 있는 재혼황후 신민아 연기.twt",
+      "source": "더쿠",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77276402?m=humor",
-      "first_seen": "2026-11-05T10:22:40.151862+09:00",
-      "last_seen": "2026-11-05T10:22:40.151862+09:00",
-      "peak_score": 96.04,
-      "max_views": 11139,
-      "max_likes": 137,
-      "max_comments": 45,
+      "url": "https://theqoo.net/hot/4397075763",
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "peak_score": 74.21,
+      "max_views": 78054,
+      "max_likes": 0,
+      "max_comments": 560,
       "appearances": 1,
       "daily_stats": {
-        "2026-11-05": {
-          "max_score": 96.04,
-          "max_views": 11139,
-          "max_likes": 137,
-          "max_comments": 45,
+        "2026-11-06": {
+          "max_score": 74.21,
+          "max_views": 78054,
+          "max_likes": 0,
+          "max_comments": 560,
           "appearances": 1,
-          "last_seen": "2026-11-05T10:22:40.151862+09:00"
+          "last_seen": "2026-11-06T01:28:49.569202+09:00"
         }
       },
-      "score": 104.71,
-      "views": 11139,
-      "likes": 137,
-      "comments": 45,
+      "score": 83.73,
+      "views": 78054,
+      "likes": 0,
+      "comments": 560,
       "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "마운자로가 진짜 효과 돌긴 했음.",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274347?m=humor",
-      "first_seen": "2026-11-05T05:55:42.842985+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "peak_score": 96.19,
-      "max_views": 14413,
-      "max_likes": 87,
-      "max_comments": 71,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-05": {
-          "max_score": 96.19,
-          "max_views": 14413,
-          "max_likes": 87,
-          "max_comments": 71,
-          "appearances": 1,
-          "last_seen": "2026-11-05T05:55:42.842985+09:00"
-        }
-      },
-      "score": 104.49,
-      "views": 14413,
-      "likes": 87,
-      "comments": 71,
-      "active_days": 1,
-      "change": -2
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "마지막 택배로 무인도에서 10일 버티기",
-      "url": "https://theqoo.net/hot/4396751019",
-      "category": "유머",
-      "views": 35416,
-      "likes": 0,
-      "comments": 1951,
-      "score": 50.95,
-      "change": 0,
-      "current_rank": 100,
-      "new_entry": false,
-      "delta_views": 28695,
-      "delta_likes": 0,
-      "delta_comments": 1443,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 207
-    },
-    {
-      "source": "디시인사이드",
-      "title": "위잉위잉 모두가 기피하는 데이터센터 소음 ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19883,
-      "likes": 169,
-      "comments": 487,
-      "score": 55.56,
-      "change": 0,
-      "current_rank": 75,
-      "new_entry": false,
-      "delta_views": 16737,
-      "delta_likes": 138,
-      "delta_comments": 425,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 207
-    },
-    {
       "source": "루리웹",
-      "title": "한국 차원달라병.JPG",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280091?m=humor",
-      "category": "이슈",
-      "views": 49469,
-      "likes": 237,
-      "comments": 89,
-      "score": 98.54,
+      "title": "푸른주스 솔직히 개 호들갑임ㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77283176?m=humor",
+      "category": "유머",
+      "views": 22202,
+      "likes": 124,
+      "comments": 83,
+      "score": 98.94,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -385,19 +345,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.39,
-      "rising_rank": 3,
-      "window_minutes": 207
+      "rising_score": 83.55,
+      "rising_rank": 1,
+      "window_minutes": 292
     },
     {
       "source": "루리웹",
-      "title": "???:5년차에 영끌월급700 못받으면 회사가 ↗소임.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77281149?m=humor",
-      "category": "생활",
-      "views": 13986,
-      "likes": 93,
-      "comments": 93,
-      "score": 95.36,
+      "title": "군사갤러가 군사유튜브 거르는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77282878?m=humor",
+      "category": "이슈",
+      "views": 24315,
+      "likes": 115,
+      "comments": 66,
+      "score": 96.12,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -405,19 +365,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.05,
-      "rising_rank": 4,
-      "window_minutes": 207
+      "rising_score": 82.37,
+      "rising_rank": 2,
+      "window_minutes": 292
     },
     {
       "source": "루리웹",
-      "title": "조선이 유교 때문에 망했다 ㄴㄴ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77281987?m=humor",
-      "category": "이슈",
-      "views": 10842,
-      "likes": 123,
-      "comments": 111,
-      "score": 93.84,
+      "title": "영화 이퀼리브리움에서 예산부족으로 못 넣은 것.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77284502?m=humor",
+      "category": "연예",
+      "views": 11641,
+      "likes": 87,
+      "comments": 72,
+      "score": 93.38,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -425,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 5,
-      "window_minutes": 207
+      "rising_score": 81.22,
+      "rising_rank": 3,
+      "window_minutes": 292
     },
     {
-      "source": "더쿠",
-      "title": "카메라 좋다는것도 이제 옛말이라는 갤럭시 울트라 시리즈.jpg",
-      "url": "https://theqoo.net/hot/4396887170",
+      "source": "뽐뿌",
+      "title": "3040 이혼사유 1위 근황",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177713",
       "category": "이슈",
-      "views": 37590,
-      "likes": 0,
-      "comments": 402,
-      "score": 87.0,
+      "views": 25779,
+      "likes": 9,
+      "comments": 56,
+      "score": 83.32,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -445,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.54,
-      "rising_rank": 6,
-      "window_minutes": 207
+      "rising_score": 76.99,
+      "rising_rank": 4,
+      "window_minutes": 292
     },
     {
-      "source": "인벤",
-      "title": "와우 길드 공지사항",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2749261",
-      "category": "유머",
-      "views": 936,
-      "likes": 0,
-      "comments": 11,
-      "score": 78.86,
+      "source": "디시인사이드",
+      "title": "싱글벙글 연매출 100억 병원장의 삶",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475999&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 20506,
+      "likes": 155,
+      "comments": 278,
+      "score": 77.3,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -465,19 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.12,
-      "rising_rank": 7,
-      "window_minutes": 207
+      "rising_score": 74.47,
+      "rising_rank": 5,
+      "window_minutes": 292
     },
     {
       "source": "더쿠",
-      "title": "얼굴만으로 1만 맘찍 터진 <재혼황후> 이세영",
-      "url": "https://theqoo.net/hot/4396877477",
-      "category": "이슈",
-      "views": 35789,
+      "title": "블라인드에서 댓글 1000개 넘게 달린 담배 논란.JPG",
+      "url": "https://theqoo.net/hot/4397099233",
+      "category": "유머",
+      "views": 44831,
       "likes": 0,
-      "comments": 296,
-      "score": 77.68,
+      "comments": 620,
+      "score": 76.53,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -485,19 +445,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.63,
-      "rising_rank": 8,
-      "window_minutes": 207
+      "rising_score": 74.14,
+      "rising_rank": 6,
+      "window_minutes": 292
     },
     {
       "source": "디시인사이드",
-      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-      "category": "스포츠",
-      "views": 9360,
-      "likes": 81,
-      "comments": 220,
-      "score": 77.34,
+      "title": "싱글벙글 히틀러 똥꼬를 빨던 르 코르뷔지에에 대해.araboja",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476033&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7328,
+      "likes": 51,
+      "comments": 38,
+      "score": 76.19,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -505,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.48,
-      "rising_rank": 9,
-      "window_minutes": 207
+      "rising_score": 74.0,
+      "rising_rank": 7,
+      "window_minutes": 292
     },
     {
-      "source": "루리웹",
-      "title": "[11번가] 구글플레이 기프트코드 10만원권 8% 할인 (11/5~6)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108721",
-      "category": "이슈",
-      "views": 12665,
-      "likes": 24,
-      "comments": 10,
-      "score": 77.32,
+      "source": "뽐뿌",
+      "title": "슈카월드 보수인 이유가 있었군요. 4억 광고받음 ㅋㅋ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177704",
+      "category": "유머",
+      "views": 12794,
+      "likes": 38,
+      "comments": 41,
+      "score": 75.45,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -525,144 +485,184 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.47,
+      "rising_score": 73.69,
+      "rising_rank": 8,
+      "window_minutes": 292
+    },
+    {
+      "source": "디시인사이드",
+      "title": "“ 네가 항상 옳을 수는 없어 ”",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476007&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17636,
+      "likes": 96,
+      "comments": 124,
+      "score": 74.25,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.19,
+      "rising_rank": 9,
+      "window_minutes": 292
+    },
+    {
+      "source": "더쿠",
+      "title": "알티타고 있는 재혼황후 신민아 연기.twt",
+      "url": "https://theqoo.net/hot/4397075763",
+      "category": "이슈",
+      "views": 78054,
+      "likes": 0,
+      "comments": 560,
+      "score": 74.21,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.17,
       "rising_rank": 10,
-      "window_minutes": 207
+      "window_minutes": 292
     }
   ],
   "issues": [
     {
-      "id": "ib6978d90",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7f48cc7a",
+      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "마라톤"
+        "반도체"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 120.6,
-      "peak_score": 104.11,
-      "appearances": 2,
+      "score": 95.75,
+      "peak_score": 81.28,
+      "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 4,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 87.11
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 62,
-          "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
-          "score": 53.23
+          "rank": 41,
+          "title": "호남 반도체 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177689",
+          "score": 64.28
         },
         {
           "source": "클리앙",
-          "rank": 73,
-          "title": "마라톤 대회에 지친 사람들이 제시한 아이디어.jpg",
-          "url": "https://www.clien.net/service/board/park/19287665?od=T31&po=0&category=0&groupCd=",
-          "score": 50.18
+          "rank": 45,
+          "title": "주식시장이 그런 겁니다. 반도체 주식이 싸니 버텨야 하고 더 사야 한다고요?",
+          "url": "https://www.clien.net/service/board/park/19288161?od=T31&po=0&category=0&groupCd=",
+          "score": 63.94
+        },
+        {
+          "source": "루리웹",
+          "rank": 60,
+          "title": "주식) 반도체 하락장의 진정한 공포는 아직 오지도 않음",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77286371?m=humor_only&t=now",
+          "score": 60.53
         }
       ],
-      "first_seen": "2026-10-14T07:59:33.070594+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
+      "first_seen": "2026-11-05T12:41:22.765321+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 1,
-      "change": 0
+      "change": 6
     },
     {
-      "id": "if956ba6b",
-      "title": "‘ai시대’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5a1ee9c8",
+      "title": "‘정청래’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "ai시대"
+        "정청래"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 114.93,
-      "peak_score": 105.46,
+      "score": 90.39,
+      "peak_score": 80.92,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "알고보면 반대가 된 AI시대 예측",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
-          "score": 96.46
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 90,
-          "title": "싱글벙글 AI시대 생겨나는 새로운 진상들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475567&_dcbest=1&page=1",
-          "score": 45.24
-        }
-      ],
-      "first_seen": "2026-11-04T23:34:40.273486+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 107.6,
-      "peak_score": 96.11,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 4,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 87.11
+          "rank": 13,
+          "title": "정청래 향해 민주 내부 쓴소리 \"좁쌀 정치\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177426",
+          "score": 71.92
         },
         {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "싱글벙글 현재 인도네시아 난리난 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
-          "score": 60.13
+          "source": "인벤",
+          "rank": 21,
+          "title": "“신천지, 책임지라”는 정청래 속내는···조국혁신당 합당으로 김민석 체제 붕괴?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749317",
+          "score": 69.03
         }
       ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
+      "first_seen": "2026-11-03T18:24:28.936864+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 2,
+      "change": "NEW"
     },
     {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i08456703",
+      "title": "‘soxl’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "네이버페이"
+        "soxl"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 105.79,
-      "peak_score": 96.32,
+      "score": 88.38,
+      "peak_score": 78.91,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 18,
+          "title": "와 SOXL 5년 전 가격으로 할인하네요",
+          "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
+          "score": 69.91
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "현시각 SOXL ETF 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
+          "score": 52.53
+        }
+      ],
+      "first_seen": "2026-11-06T01:28:49.569202+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.23,
+      "peak_score": 77.76,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -671,360 +671,24 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 5,
-          "title": "[네이버페이] AI탭 답변 끝까지 확인하면 네이버페이 포인트 300원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108650",
-          "score": 87.32
+          "rank": 23,
+          "title": "[네이버] 컬쳐랜드상품권 5만원권 (46,500원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108735",
+          "score": 68.76
         },
         {
           "source": "뽐뿌",
-          "rank": 12,
-          "title": "11/5일자 네이버페이 112원(92원) + 랜덤포인트 모음",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549372",
-          "score": 71.64
+          "rank": 37,
+          "title": "[네이버] 장인의주방 양평해장국 600g 3팩 (11,900원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=746335",
+          "score": 64.78
         }
       ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-05T10:22:40.151862+09:00",
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "i68c59bfc",
-      "title": "‘할아버지’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "할아버지"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 102.19,
-      "peak_score": 92.72,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "싱글벙글 할아버지 10대 시절 레전드",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
-          "score": 83.72
-        },
-        {
-          "source": "루리웹",
-          "rank": 59,
-          "title": "크리스마스날 할아버지 댁에 못 가는 손주.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77276156?m=humor_only&t=now",
-          "score": 59.92
-        }
-      ],
-      "first_seen": "2026-11-05T08:32:32.126353+09:00",
-      "last_seen": "2026-11-05T08:32:32.126353+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i2272efa7",
-      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "리센느"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 98.85,
-      "peak_score": 84.92,
-      "appearances": 3,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 16,
-          "title": "내가 리센느 한테 바라는거 딱 1가지..",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=rescene&no=2894",
-          "score": 72.35
-        },
-        {
-          "source": "인벤",
-          "rank": 99,
-          "title": "디즈니 영화에 리센느 노래…K팝 최초 [잇슈 컬처] / KBS 2026.11.05. │ KBS News",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2749056",
-          "score": 51.47
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-05T12:41:22.765321+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i7f48cc7a",
-      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "반도체"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 98.15,
-      "peak_score": 87.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 9,
-          "title": "한국 반도체 삼전 닉스가 빠르게 무너질 거라 보는 이유",
-          "url": "https://theqoo.net/hot/4396463751",
-          "score": 77.68
-        },
-        {
-          "source": "클리앙",
-          "rank": 21,
-          "title": "제빵 전문가가 호남 반도체 지원금 심의 ㅋㅋㅋ",
-          "url": "https://www.clien.net/service/board/park/19287839?od=T31&po=0&category=0&groupCd=",
-          "score": 68.81
-        }
-      ],
-      "first_seen": "2026-11-05T12:41:22.765321+09:00",
-      "last_seen": "2026-11-05T12:41:22.765321+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 96.92,
-      "peak_score": 81.99,
-      "appearances": 3,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "김민석 또 말 달라짐 ㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176985",
-          "score": 70.99
-        },
-        {
-          "source": "클리앙",
-          "rank": 65,
-          "title": "김민석 대표님 사과 관련해서 제 개인적인 생각 적어봅니다.",
-          "url": "https://www.clien.net/service/board/park/19287759?od=T31&po=0&category=0&groupCd=",
-          "score": 57.83
-        }
-      ],
-      "first_seen": "2026-10-03T16:01:31.160167+09:00",
-      "last_seen": "2026-11-05T10:22:40.151862+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "ieef61a46",
-      "title": "일론 머스크 근황",
-      "keywords": [
-        "머스크",
-        "일론"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.28,
-      "peak_score": 85.81,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "일론 머스크 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
-          "score": 77.81
-        },
-        {
-          "source": "더쿠",
-          "rank": 58,
-          "title": "일론 머스크 : 머지않아 아무도 일하지 않고 초고소득을 받는 시대가 올 것",
-          "url": "https://theqoo.net/hot/4396088487",
-          "score": 55.42
-        }
-      ],
-      "first_seen": "2026-11-04T18:55:56.818749+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i4bd2f982",
-      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-      "keywords": [
-        "국가대표",
-        "호날두"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.81,
-      "peak_score": 85.34,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-          "score": 77.34
-        },
-        {
-          "source": "클리앙",
-          "rank": 36,
-          "title": "호날두 국가대표 은퇴선언",
-          "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-          "score": 64.19
-        }
-      ],
-      "first_seen": "2026-11-05T20:36:23.359064+09:00",
-      "last_seen": "2026-11-05T20:36:23.359064+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i4bd2f982",
-      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-      "keywords": [
-        "국가대표",
-        "호날두"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.34,
-      "peak_score": 85.34,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-          "score": 77.34
-        },
-        {
-          "source": "클리앙",
-          "rank": 36,
-          "title": "호날두 국가대표 은퇴선언",
-          "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-          "score": 64.19
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i7ac9c329",
-      "title": "‘최태원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "최태원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.53,
-      "peak_score": 77.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 22,
-          "title": "[속보]최태원 \"한국·일본 손잡아야 AI 패권경쟁서 승산\"",
-          "url": "https://theqoo.net/hot/4396851568",
-          "score": 68.53
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 96,
-          "title": "최태원 주식 존나 팔앗네 ㅋㅋㅋㅌ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475882&_dcbest=1&page=1",
-          "score": 51.63
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i1a3ab1ae",
-      "title": "‘경찰관’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "경찰관"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 68.98,
-      "peak_score": 68.98,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 58,
-          "title": "119 구급 대원한테 부모님까지 들먹이며 욕설한 경찰관",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2749266",
-          "score": 59.98
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 78,
-          "title": "장윤기 수사 경찰관 \"사건 은폐 아냐...경솔했다\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475919&_dcbest=1&page=1",
-          "score": 55.2
-        }
-      ],
-      "rank": 3,
       "change": "NEW"
     },
     {
@@ -1035,8 +699,46 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 65.47,
-      "peak_score": 65.47,
+      "score": 83.13,
+      "peak_score": 73.66,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 38,
+          "title": "중간선거는 민주당 압승이 정배 아니었나요",
+          "url": "https://www.clien.net/service/board/park/19288175?od=T31&po=0&category=0&groupCd=",
+          "score": 64.66
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 54,
+          "title": "민주당 \"트럼프 아들 코인 다 털어버릴것\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475981&_dcbest=1&page=1",
+          "score": 61.84
+        }
+      ],
+      "first_seen": "2026-09-29T19:53:33.458089+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 13
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.01,
+      "peak_score": 71.54,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -1044,83 +746,267 @@
       ],
       "posts": [
         {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "이재명 대통령 공소취소를 위한 특검법 법사위 통과",
+          "url": "https://www.clien.net/service/board/park/19288172?od=T31&po=0&category=0&groupCd=",
+          "score": 62.54
+        },
+        {
           "source": "뽐뿌",
-          "rank": 70,
-          "title": "美 민주당 의회 장악에 빅테크 긴장…트럼프 밀착 기업 조사 비상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_society&no=516010",
-          "score": 56.47
+          "rank": 56,
+          "title": "[속보] 이재명 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177813",
+          "score": 60.73
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-11-06T01:28:49.569202+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i7f48cc7a",
+      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "반도체"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 81.28,
+      "peak_score": 81.28,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 41,
+          "title": "호남 반도체 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177689",
+          "score": 64.28
         },
         {
           "source": "클리앙",
-          "rank": 92,
-          "title": "김민석 사퇴 하라 민주당 유린하고 당원 개 돼지로 아는 김민석 사퇴하라",
-          "url": "https://www.clien.net/service/board/park/19288038?od=T31&po=0&category=0&groupCd=",
-          "score": 52.81
+          "rank": 45,
+          "title": "주식시장이 그런 겁니다. 반도체 주식이 싸니 버텨야 하고 더 사야 한다고요?",
+          "url": "https://www.clien.net/service/board/park/19288161?od=T31&po=0&category=0&groupCd=",
+          "score": 63.94
+        },
+        {
+          "source": "루리웹",
+          "rank": 60,
+          "title": "주식) 반도체 하락장의 진정한 공포는 아직 오지도 않음",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77286371?m=humor_only&t=now",
+          "score": 60.53
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i5a1ee9c8",
+      "title": "‘정청래’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "정청래"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.92,
+      "peak_score": 80.92,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 13,
+          "title": "정청래 향해 민주 내부 쓴소리 \"좁쌀 정치\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177426",
+          "score": 71.92
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "“신천지, 책임지라”는 정청래 속내는···조국혁신당 합당으로 김민석 체제 붕괴?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749317",
+          "score": 69.03
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i08456703",
+      "title": "‘soxl’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "soxl"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.91,
+      "peak_score": 78.91,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 18,
+          "title": "와 SOXL 5년 전 가격으로 할인하네요",
+          "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
+          "score": 69.91
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "현시각 SOXL ETF 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
+          "score": 52.53
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i5781c296",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.76,
+      "peak_score": 77.76,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 23,
+          "title": "[네이버] 컬쳐랜드상품권 5만원권 (46,500원/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108735",
+          "score": 68.76
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 37,
+          "title": "[네이버] 장인의주방 양평해장국 600g 3팩 (11,900원/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=746335",
+          "score": 64.78
         }
       ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "i2e26d9ac",
-      "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "데이터센터"
+        "민주당"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 64.56,
-      "peak_score": 64.56,
+      "score": 73.66,
+      "peak_score": 73.66,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 75,
-          "title": "위잉위잉 모두가 기피하는 데이터센터 소음 ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
-          "score": 55.56
+          "source": "클리앙",
+          "rank": 38,
+          "title": "중간선거는 민주당 압승이 정배 아니었나요",
+          "url": "https://www.clien.net/service/board/park/19288175?od=T31&po=0&category=0&groupCd=",
+          "score": 64.66
         },
         {
-          "source": "루리웹",
-          "rank": 82,
-          "title": "? : 고소의 나라인데 데이터센터 저렇게 지어도 문제 없나?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77280434?m=humor_only&t=now",
-          "score": 54.22
+          "source": "디시인사이드",
+          "rank": 54,
+          "title": "민주당 \"트럼프 아들 코인 다 털어버릴것\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475981&_dcbest=1&page=1",
+          "score": 61.84
         }
       ],
       "rank": 5,
-      "change": 1
+      "change": -1
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.54,
+      "peak_score": 71.54,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "이재명 대통령 공소취소를 위한 특검법 법사위 통과",
+          "url": "https://www.clien.net/service/board/park/19288172?od=T31&po=0&category=0&groupCd=",
+          "score": 62.54
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 56,
+          "title": "[속보] 이재명 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177813",
+          "score": 60.73
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 141.53,
-      "post_count": 4,
+      "keyword": "주식",
+      "score": 128.5,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 1,
+      "best_rank": 36,
       "sources": [
-        "더쿠",
         "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "vs",
-      "score": 122.02,
+      "keyword": "반도체",
+      "score": 117.18,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 9,
+      "best_rank": 41,
       "sources": [
-        "더쿠",
-        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1128,101 +1014,101 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 119.03,
+      "keyword": "민주당",
+      "score": 116.13,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 22,
+      "best_rank": 38,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 3
+      "change": 8
     },
     {
-      "keyword": "미국",
-      "score": 118.79,
+      "keyword": "데이터센터",
+      "score": 112.18,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 13,
+      "best_rank": 24,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": -2
+      "change": 13
     },
     {
-      "keyword": "국가대표",
-      "score": 101.44,
+      "keyword": "정청래",
+      "score": 100.34,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 13,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
-      "aliases": [
-        "호날두"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "영국",
-      "score": 96.21,
+      "keyword": "하고",
+      "score": 95.64,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 15,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "가격",
-      "score": 93.09,
+      "keyword": "한국",
+      "score": 94.58,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "고소",
-      "score": 90.66,
+      "keyword": "네이버",
+      "score": 93.74,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 23,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "무료"
+      ],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "북한",
-      "score": 89.4,
-      "post_count": 2,
+      "keyword": "내일",
+      "score": 93.06,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 36,
       "sources": [
-        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1230,13 +1116,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "정책",
-      "score": 86.81,
+      "keyword": "이재명",
+      "score": 86.66,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 51,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1244,124 +1130,96 @@
       "change": "NEW"
     },
     {
-      "keyword": "민주당",
-      "score": 86.64,
-      "post_count": 3,
+      "keyword": "soxl",
+      "score": 86.4,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 65,
+      "best_rank": 18,
       "sources": [
         "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 11,
-      "change": 9
+      "change": "NEW"
     },
     {
-      "keyword": "전국",
-      "score": 85.07,
+      "keyword": "친구",
+      "score": 85.3,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 29,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "최태원",
-      "score": 84.9,
+      "keyword": "방법",
+      "score": 83.4,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 42,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "존나",
-      "score": 84.74,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "경찰관",
-      "score": 82.05,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 58,
-      "sources": [
-        "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
-      "rank": 15,
+      "rank": 13,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국 차원달라병.JPG",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280091?m=humor",
-      "score": 98.54,
-      "views": 49469,
-      "comments": 89
-    },
-    {
-      "source": "더쿠",
-      "title": "카메라 좋다는것도 이제 옛말이라는 갤럭시 울트라 시리즈.jpg",
-      "url": "https://theqoo.net/hot/4396887170",
-      "score": 87.0,
-      "views": 37590,
-      "comments": 402
-    },
-    {
-      "source": "인벤",
-      "title": "와우 길드 공지사항",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2749261",
-      "score": 78.86,
-      "views": 936,
-      "comments": 11
-    },
-    {
-      "source": "디시인사이드",
-      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-      "score": 77.34,
-      "views": 9360,
-      "comments": 220
-    },
-    {
-      "source": "클리앙",
-      "title": "李대통령 '부동산 투기 3차 단속 시작…범죄로 돈 벌던 시대 끝",
-      "url": "https://www.clien.net/service/board/park/19288052?od=T31&po=0&category=0&groupCd=",
-      "score": 74.58,
-      "views": 1199,
-      "comments": 16
+      "title": "푸른주스 솔직히 개 호들갑임ㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77283176?m=humor",
+      "score": 98.94,
+      "views": 22202,
+      "comments": 83
     },
     {
       "source": "뽐뿌",
-      "title": "소방관 목숨부터 챙기는 추미애 지사.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177656",
-      "score": 72.31,
-      "views": 1012,
+      "title": "3040 이혼사유 1위 근황",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177713",
+      "score": 83.32,
+      "views": 25779,
+      "comments": 56
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 연매출 100억 병원장의 삶",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475999&_dcbest=1&page=1",
+      "score": 77.3,
+      "views": 20506,
+      "comments": 278
+    },
+    {
+      "source": "더쿠",
+      "title": "블라인드에서 댓글 1000개 넘게 달린 담배 논란.JPG",
+      "url": "https://theqoo.net/hot/4397099233",
+      "score": 76.53,
+      "views": 44831,
+      "comments": 620
+    },
+    {
+      "source": "클리앙",
+      "title": "조국 혁신당 지지율 10%돌파",
+      "url": "https://www.clien.net/service/board/park/19288178?od=T31&po=0&category=0&groupCd=",
+      "score": 71.83,
+      "views": 557,
       "comments": 1
+    },
+    {
+      "source": "인벤",
+      "title": "삼전닉스 주주들은 심호흡 하고 보세요;; 추정가…",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749322",
+      "score": 70.73,
+      "views": 2155,
+      "comments": 7
     }
   ]
 }
