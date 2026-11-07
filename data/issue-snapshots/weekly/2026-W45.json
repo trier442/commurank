@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-08T06:55:49.432508+09:00",
+  "collected_at": "2026-11-08T07:59:43.004608+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -640,6 +640,45 @@
       "change": 0
     },
     {
+      "id": "id0f722ca",
+      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "보이는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.18,
+      "peak_score": 103.25,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "싱글벙글 ㄹㅇ 개좆밥같아 보이는 군복 1위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476723&_dcbest=1&page=1",
+          "score": 72.26
+        },
+        {
+          "source": "더쿠",
+          "rank": 22,
+          "title": "“40대는 ‘자라’ 입지 말라고?”…20대 때 입던 옷인데 촌스러워 보이는 이유",
+          "url": "https://theqoo.net/hot/4399073038",
+          "score": 69.68
+        }
+      ],
+      "first_seen": "2026-10-24T04:50:29.776456+09:00",
+      "last_seen": "2026-11-08T07:59:43.004608+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
       "id": "if692bfca",
       "title": "13,000명이 정확히 50:50으로 갈린 식사 취향",
       "keywords": [
@@ -679,8 +718,8 @@
       "last_seen": "2026-11-04T07:21:53.879915+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "ic87ce8e8",
@@ -719,8 +758,8 @@
       "last_seen": "2026-11-04T02:17:10.666186+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i7afdb3c6",
@@ -766,8 +805,8 @@
       "last_seen": "2026-11-04T15:10:11.887100+09:00",
       "latest_source_count": 3,
       "latest_post_count": 5,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -804,49 +843,8 @@
       "last_seen": "2026-11-06T15:54:47.604214+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "idc85f2a1",
-      "title": "미국 중간선거 텍사스주 현황.jpg",
-      "keywords": [
-        "중간선거",
-        "미국"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 114.91,
-      "peak_score": 102.42,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "미국 중간선거 텍사스주 현황.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
-          "score": 87.06
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 64,
-          "title": "싱글벙글 미국 중간선거 미시시피주 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
-          "score": 58.87
-        }
-      ],
-      "first_seen": "2026-11-04T15:10:11.887100+09:00",
-      "last_seen": "2026-11-04T18:55:56.818749+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
