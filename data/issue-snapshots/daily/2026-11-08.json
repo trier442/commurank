@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T04:30:55.100342+09:00",
+  "collected_at": "2026-11-08T06:55:49.432508+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i153ac4c4",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젠슨황"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.23,
+      "peak_score": 79.3,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 34,
+          "title": "젠슨황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
+          "score": 63.6
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 71,
+          "title": "젠슨황 중국간첩인거 확정인듯",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
+          "score": 56.81
+        }
+      ],
+      "first_seen": "2026-11-08T03:14:06.981190+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "i9ea7996d",
       "title": "‘시사타파’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,45 +79,83 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
-      "id": "i153ac4c4",
-      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "id0f722ca",
+      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "젠슨황"
+        "보이는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.79,
-      "peak_score": 79.3,
-      "appearances": 2,
+      "score": 91.54,
+      "peak_score": 82.07,
+      "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 20,
-          "title": "젠슨황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
-          "score": 70.3
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "싱글벙글 ㄹㅇ 개좆밥같아 보이는 군복 1위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476723&_dcbest=1&page=1",
+          "score": 73.07
         },
         {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "젠슨황 중국간첩인거 확정인듯",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
-          "score": 63.38
+          "source": "더쿠",
+          "rank": 27,
+          "title": "“40대는 ‘자라’ 입지 말라고?”…20대 때 입던 옷인데 촌스러워 보이는 이유",
+          "url": "https://theqoo.net/hot/4399073038",
+          "score": 66.68
+        }
+      ],
+      "first_seen": "2026-10-24T04:50:29.776456+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ie82bac33",
+      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있습니까"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.07,
+      "peak_score": 74.14,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
+          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
+          "score": 58.49
+        },
+        {
+          "source": "더쿠",
+          "rank": 83,
+          "title": "당신이라면 일주일을 버틸 수 있습니까?",
+          "url": "https://theqoo.net/hot/4398897897",
+          "score": 54.26
         }
       ],
       "first_seen": "2026-11-08T03:14:06.981190+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 4,
       "change": 0
     },
     {
@@ -117,46 +193,8 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "ie82bac33",
-      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "있습니까"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.63,
-      "peak_score": 74.14,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
-          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-          "score": 60.66
-        },
-        {
-          "source": "더쿠",
-          "rank": 72,
-          "title": "당신이라면 일주일을 버틸 수 있습니까?",
-          "url": "https://theqoo.net/hot/4398897897",
-          "score": 56.42
-        }
-      ],
-      "first_seen": "2026-11-08T03:14:06.981190+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 4,
-      "change": 1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i924c4c51",
@@ -195,7 +233,7 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -233,8 +271,8 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i2e26d9ac",
@@ -271,8 +309,8 @@
       "last_seen": "2026-11-08T03:14:06.981190+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -309,8 +347,8 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     }
   ]
 }

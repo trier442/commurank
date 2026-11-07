@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T04:30:55.100342+09:00",
+  "collected_at": "2026-11-08T06:55:49.432508+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘시사타파’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #보이. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
-    "keywords": 10,
-    "top100_views": 972633,
-    "top100_comments": 7549
+    "daily_issues": 9,
+    "keywords": 12,
+    "top100_views": 1014126,
+    "top100_comments": 7351
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘시사타파’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i9ea7996d"
+      "issue_id": "i153ac4c4"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#중국",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "중국"
+      "title": "#보이",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "보이"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-11-08T03:14:06.981190+09:00"
         }
       },
-      "score": 107.54,
+      "score": 107.34,
       "views": 14659,
       "likes": 88,
       "comments": 72,
@@ -88,12 +88,12 @@
           "last_seen": "2026-11-08T04:30:55.100342+09:00"
         }
       },
-      "score": 107.23,
+      "score": 107.03,
       "views": 16942,
       "likes": 97,
       "comments": 67,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "페미니즘도 결국 유행이었을 뿐이라는게 느껴지는 구만",
@@ -117,12 +117,12 @@
           "last_seen": "2026-11-08T00:17:54.381807+09:00"
         }
       },
-      "score": 106.88,
+      "score": 106.68,
       "views": 19411,
       "likes": 142,
       "comments": 96,
       "active_days": 1,
-      "change": -1
+      "change": 0
     },
     {
       "title": "편의점 알바가 갑자기 그만둬서 2명분 일을 하고있거든.",
@@ -146,12 +146,12 @@
           "last_seen": "2026-11-08T04:30:55.100342+09:00"
         }
       },
-      "score": 106.13,
+      "score": 105.93,
       "views": 18601,
       "likes": 145,
       "comments": 64,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "쿠팡 알바에 사람들이 몰리는 이유",
@@ -183,12 +183,12 @@
           "last_seen": "2026-11-08T00:17:54.381807+09:00"
         }
       },
-      "score": 105.78,
+      "score": 105.58,
       "views": 14089,
       "likes": 143,
       "comments": 156,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "충격과 공포의 \"잘생긴 콩코드\" 등장",
@@ -212,12 +212,12 @@
           "last_seen": "2026-11-08T03:14:06.981190+09:00"
         }
       },
-      "score": 104.92,
+      "score": 104.72,
       "views": 25530,
       "likes": 121,
       "comments": 93,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "국정원 표어를 음지에서 일하고 양지를 지향한다로 기억하는 애들은 대체",
@@ -241,12 +241,12 @@
           "last_seen": "2026-11-08T03:14:06.981190+09:00"
         }
       },
-      "score": 103.94,
+      "score": 103.74,
       "views": 8646,
       "likes": 78,
       "comments": 66,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "국제결혼 집안에서 반대한다",
@@ -270,10 +270,39 @@
           "last_seen": "2026-11-08T04:30:55.100342+09:00"
         }
       },
-      "score": 103.77,
+      "score": 103.57,
       "views": 17997,
       "likes": 159,
       "comments": 52,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "덕질하다 빡친 지방 출신 기자",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77310049?m=humor",
+      "first_seen": "2026-11-08T06:55:49.432508+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
+      "peak_score": 93.75,
+      "max_views": 9263,
+      "max_likes": 68,
+      "max_comments": 43,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-08": {
+          "max_score": 93.75,
+          "max_views": 9263,
+          "max_likes": 68,
+          "max_comments": 43,
+          "appearances": 1,
+          "last_seen": "2026-11-08T06:55:49.432508+09:00"
+        }
+      },
+      "score": 103.27,
+      "views": 9263,
+      "likes": 68,
+      "comments": 43,
       "active_days": 1,
       "change": "NEW"
     },
@@ -299,193 +328,144 @@
           "last_seen": "2026-11-08T00:17:54.381807+09:00"
         }
       },
-      "score": 103.42,
+      "score": 103.22,
       "views": 34130,
       "likes": 138,
       "comments": 115,
       "active_days": 1,
-      "change": -3
-    },
-    {
-      "title": "\"가장 중요한건 인간성이에요\"",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476719&_dcbest=1&page=1",
-      "first_seen": "2026-11-08T04:30:55.100342+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
-      "peak_score": 84.85,
-      "max_views": 12908,
-      "max_likes": 160,
-      "max_comments": 61,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-08": {
-          "max_score": 84.85,
-          "max_views": 12908,
-          "max_likes": 160,
-          "max_comments": 61,
-          "appearances": 1,
-          "last_seen": "2026-11-08T04:30:55.100342+09:00"
-        }
-      },
-      "score": 94.37,
-      "views": 12908,
-      "likes": 160,
-      "comments": 61,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "[애플TV스토어] 90년대 명작 40% 특가",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108817",
-      "category": "이슈",
-      "views": 11931,
-      "likes": 9,
-      "comments": 6,
-      "score": 72.53,
-      "change": 0,
-      "current_rank": 16,
-      "new_entry": false,
-      "delta_views": 1441,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 77
-    },
-    {
-      "source": "클리앙",
-      "title": "날 세운 이재명 '주식시장이 망가지는 건 다 정부 탓'",
-      "url": "https://www.clien.net/service/board/park/19289201?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2748,
-      "likes": 8,
-      "comments": 19,
-      "score": 76.28,
-      "change": 0,
-      "current_rank": 9,
-      "new_entry": false,
-      "delta_views": 785,
-      "delta_likes": 2,
-      "delta_comments": 3,
-      "rank_gain": 0,
-      "rising_score": 94.21,
-      "rising_rank": 2,
-      "window_minutes": 77
-    },
-    {
-      "source": "인벤",
-      "title": "단추 하나만 채운 트리플에스 김채연",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2750077",
-      "category": "연예",
-      "views": 2287,
-      "likes": 0,
-      "comments": 0,
-      "score": 65.28,
-      "change": 0,
-      "current_rank": 32,
-      "new_entry": false,
-      "delta_views": 617,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 92.5,
-      "rising_rank": 3,
-      "window_minutes": 77
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 의외로 여초에서 매우 싫어한다는 것...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476713&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 7150,
-      "likes": 54,
-      "comments": 167,
-      "score": 78.51,
-      "change": 2,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 3555,
-      "delta_likes": 19,
-      "delta_comments": 86,
-      "rank_gain": 2,
-      "rising_score": 89.15,
-      "rising_rank": 4,
-      "window_minutes": 77
-    },
     {
       "source": "클리앙",
       "title": "약후] 이게 동남아식 볶음밥인가요?",
       "url": "https://www.clien.net/service/board/park/19289190?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 4691,
+      "views": 6632,
       "likes": 0,
       "comments": 10,
-      "score": 72.53,
+      "score": 70.01,
       "change": 0,
-      "current_rank": 17,
+      "current_rank": 19,
       "new_entry": false,
-      "delta_views": 747,
+      "delta_views": 1941,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 87.5,
-      "rising_rank": 5,
-      "window_minutes": 77
+      "rising_score": 96.88,
+      "rising_rank": 1,
+      "window_minutes": 145
     },
     {
-      "source": "인벤",
-      "title": "남자들이 정말 싫어하는 여친의 장난 7가지",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2750089",
-      "category": "유머",
-      "views": 1388,
-      "likes": 0,
-      "comments": 1,
-      "score": 67.22,
-      "change": 29,
-      "current_rank": 26,
+      "source": "디시인사이드",
+      "title": "살이 많이 빠졌다는 백종원",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476721&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8659,
+      "likes": 169,
+      "comments": 56,
+      "score": 74.24,
+      "change": 0,
+      "current_rank": 15,
       "new_entry": false,
-      "delta_views": 1000,
-      "delta_likes": 0,
-      "delta_comments": 1,
-      "rank_gain": 29,
-      "rising_score": 84.61,
-      "rising_rank": 6,
-      "window_minutes": 77
+      "delta_views": 4795,
+      "delta_likes": 48,
+      "delta_comments": 28,
+      "rank_gain": 0,
+      "rising_score": 95.75,
+      "rising_rank": 2,
+      "window_minutes": 145
     },
     {
       "source": "더쿠",
       "title": "“40대는 ‘자라’ 입지 말라고?”…20대 때 입던 옷인데 촌스러워 보이는 이유",
       "url": "https://theqoo.net/hot/4399073038",
       "category": "이슈",
-      "views": 20985,
+      "views": 30703,
       "likes": 0,
-      "comments": 158,
-      "score": 66.84,
-      "change": 4,
+      "comments": 206,
+      "score": 66.68,
+      "change": 0,
       "current_rank": 27,
       "new_entry": false,
-      "delta_views": 4923,
+      "delta_views": 9718,
       "delta_likes": 0,
-      "delta_comments": 25,
-      "rank_gain": 4,
-      "rising_score": 84.27,
-      "rising_rank": 7,
-      "window_minutes": 77
+      "delta_comments": 48,
+      "rank_gain": 0,
+      "rising_score": 95.45,
+      "rising_rank": 3,
+      "window_minutes": 145
+    },
+    {
+      "source": "클리앙",
+      "title": "날 세운 이재명 '주식시장이 망가지는 건 다 정부 탓'",
+      "url": "https://www.clien.net/service/board/park/19289201?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 4413,
+      "likes": 8,
+      "comments": 22,
+      "score": 77.73,
+      "change": 0,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 1665,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 88.38,
+      "rising_rank": 4,
+      "window_minutes": 145
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 의외로 여초에서 매우 싫어한다는 것...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476713&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11289,
+      "likes": 71,
+      "comments": 201,
+      "score": 75.34,
+      "change": 0,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 4139,
+      "delta_likes": 17,
+      "delta_comments": 34,
+      "rank_gain": 0,
+      "rising_score": 87.58,
+      "rising_rank": 5,
+      "window_minutes": 145
+    },
+    {
+      "source": "인벤",
+      "title": "남고 학생들이 선생님 결혼시킨 썰.",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750085",
+      "category": "이슈",
+      "views": 2568,
+      "likes": 1,
+      "comments": 0,
+      "score": 62.28,
+      "change": 0,
+      "current_rank": 42,
+      "new_entry": false,
+      "delta_views": 880,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 86.84,
+      "rising_rank": 6,
+      "window_minutes": 145
     },
     {
       "source": "루리웹",
-      "title": "\"빵집은 니들이 더 유명할텐데 왜 굳이 한국까지.\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77308958?m=humor",
-      "category": "생활",
-      "views": 16942,
-      "likes": 97,
-      "comments": 67,
-      "score": 97.71,
+      "title": "덕질하다 빡친 지방 출신 기자",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77310049?m=humor",
+      "category": "이슈",
+      "views": 9263,
+      "likes": 68,
+      "comments": 43,
+      "score": 93.75,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -493,19 +473,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.04,
-      "rising_rank": 8,
-      "window_minutes": 77
+      "rising_score": 81.38,
+      "rising_rank": 7,
+      "window_minutes": 145
     },
     {
       "source": "루리웹",
-      "title": "편의점 알바가 갑자기 그만둬서 2명분 일을 하고있거든.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77309283?m=humor",
-      "category": "생활",
-      "views": 18601,
-      "likes": 145,
-      "comments": 64,
-      "score": 96.61,
+      "title": "GTA6 발매일이 다가오는 시국에 난리난 일본",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77310984?m=humor",
+      "category": "이슈",
+      "views": 10177,
+      "likes": 52,
+      "comments": 47,
+      "score": 92.44,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -513,32 +493,90 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 9,
-      "window_minutes": 77
+      "rising_score": 80.82,
+      "rising_rank": 8,
+      "window_minutes": 145
     },
     {
-      "source": "뽐뿌",
-      "title": "드웨인존슨 근황 이거 진짜임??",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179427",
+      "source": "더쿠",
+      "title": "🗣 : 아줌마 오타쿠 소름끼쳐",
+      "url": "https://theqoo.net/hot/4399041625",
       "category": "이슈",
-      "views": 7063,
+      "views": 19596,
       "likes": 0,
-      "comments": 20,
-      "score": 74.74,
+      "comments": 125,
+      "score": 53.21,
       "change": 0,
-      "current_rank": 13,
+      "current_rank": 88,
       "new_entry": false,
-      "delta_views": 3764,
+      "delta_views": 9057,
       "delta_likes": 0,
-      "delta_comments": 8,
+      "delta_comments": 28,
       "rank_gain": 0,
-      "rising_score": 81.92,
+      "rising_score": 80.77,
+      "rising_rank": 9,
+      "window_minutes": 145
+    },
+    {
+      "source": "더쿠",
+      "title": "요즘 취향차이로 나뉜다는 최애 드라마 .. jpg",
+      "url": "https://theqoo.net/hot/4399079493",
+      "category": "연예",
+      "views": 31193,
+      "likes": 0,
+      "comments": 307,
+      "score": 74.84,
+      "change": 0,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 8611,
+      "delta_likes": 0,
+      "delta_comments": 39,
+      "rank_gain": 0,
+      "rising_score": 80.07,
       "rising_rank": 10,
-      "window_minutes": 77
+      "window_minutes": 145
     }
   ],
   "issues": [
+    {
+      "id": "i153ac4c4",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젠슨황"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.23,
+      "peak_score": 79.3,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 34,
+          "title": "젠슨황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
+          "score": 63.6
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 71,
+          "title": "젠슨황 중국간첩인거 확정인듯",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
+          "score": 56.81
+        }
+      ],
+      "first_seen": "2026-11-08T03:14:06.981190+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "i9ea7996d",
       "title": "‘시사타파’ 관련 글이 여러 커뮤니티에서 화제",
@@ -574,45 +612,83 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
-      "id": "i153ac4c4",
-      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "id0f722ca",
+      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "젠슨황"
+        "보이는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.79,
-      "peak_score": 79.3,
-      "appearances": 2,
+      "score": 91.54,
+      "peak_score": 82.07,
+      "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 20,
-          "title": "젠슨황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
-          "score": 70.3
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "싱글벙글 ㄹㅇ 개좆밥같아 보이는 군복 1위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476723&_dcbest=1&page=1",
+          "score": 73.07
         },
         {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "젠슨황 중국간첩인거 확정인듯",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
-          "score": 63.38
+          "source": "더쿠",
+          "rank": 27,
+          "title": "“40대는 ‘자라’ 입지 말라고?”…20대 때 입던 옷인데 촌스러워 보이는 이유",
+          "url": "https://theqoo.net/hot/4399073038",
+          "score": 66.68
+        }
+      ],
+      "first_seen": "2026-10-24T04:50:29.776456+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ie82bac33",
+      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있습니까"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.07,
+      "peak_score": 74.14,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
+          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
+          "score": 58.49
+        },
+        {
+          "source": "더쿠",
+          "rank": 83,
+          "title": "당신이라면 일주일을 버틸 수 있습니까?",
+          "url": "https://theqoo.net/hot/4398897897",
+          "score": 54.26
         }
       ],
       "first_seen": "2026-11-08T03:14:06.981190+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
+      "last_seen": "2026-11-08T06:55:49.432508+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 4,
       "change": 0
     },
     {
@@ -650,46 +726,8 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "ie82bac33",
-      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "있습니까"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.63,
-      "peak_score": 74.14,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
-          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-          "score": 60.66
-        },
-        {
-          "source": "더쿠",
-          "rank": 72,
-          "title": "당신이라면 일주일을 버틸 수 있습니까?",
-          "url": "https://theqoo.net/hot/4398897897",
-          "score": 56.42
-        }
-      ],
-      "first_seen": "2026-11-08T03:14:06.981190+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 4,
-      "change": 1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i924c4c51",
@@ -728,7 +766,7 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -766,8 +804,8 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i2e26d9ac",
@@ -804,8 +842,8 @@
       "last_seen": "2026-11-08T03:14:06.981190+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -842,11 +880,45 @@
       "last_seen": "2026-11-08T00:17:54.381807+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     }
   ],
   "realtime_issues": [
+    {
+      "id": "id0f722ca",
+      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "보이는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.07,
+      "peak_score": 82.07,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "싱글벙글 ㄹㅇ 개좆밥같아 보이는 군복 1위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476723&_dcbest=1&page=1",
+          "score": 73.07
+        },
+        {
+          "source": "더쿠",
+          "rank": 27,
+          "title": "“40대는 ‘자라’ 입지 말라고?”…20대 때 입던 옷인데 촌스러워 보이는 이유",
+          "url": "https://theqoo.net/hot/4399073038",
+          "score": 66.68
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i153ac4c4",
       "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
@@ -855,8 +927,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.3,
-      "peak_score": 79.3,
+      "score": 72.6,
+      "peak_score": 72.6,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -865,21 +937,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 20,
+          "rank": 34,
           "title": "젠슨황",
           "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
-          "score": 70.3
+          "score": 63.6
         },
         {
           "source": "디시인사이드",
-          "rank": 38,
+          "rank": 71,
           "title": "젠슨황 중국간첩인거 확정인듯",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
-          "score": 63.38
+          "score": 56.81
         }
       ],
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ie82bac33",
@@ -889,8 +961,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 69.66,
-      "peak_score": 69.66,
+      "score": 67.49,
+      "peak_score": 67.49,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -899,145 +971,144 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 49,
+          "rank": 58,
           "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
           "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-          "score": 60.66
+          "score": 58.49
         },
         {
           "source": "더쿠",
-          "rank": 72,
+          "rank": 83,
           "title": "당신이라면 일주일을 버틸 수 있습니까?",
           "url": "https://theqoo.net/hot/4398897897",
-          "score": 56.42
+          "score": 54.26
         }
       ],
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     }
   ],
   "keywords": [
     {
-      "keyword": "중국",
-      "score": 111.03,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 57,
+      "keyword": "보이",
+      "score": 98.05,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 16,
       "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 97.86,
+      "keyword": "일본",
+      "score": 97.57,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 2,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 0
+      "change": 6
     },
     {
-      "keyword": "젠슨황",
-      "score": 94.0,
+      "keyword": "자라",
+      "score": 95.51,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 20,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 2
+      "change": "NEW"
     },
     {
       "keyword": "많이",
-      "score": 89.11,
+      "score": 87.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 15,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "당신",
-      "score": 86.04,
+      "keyword": "젠슨황",
+      "score": 86.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 34,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": 3
+      "change": -2
     },
     {
-      "keyword": "있습니까",
-      "score": 84.11,
+      "keyword": "당신",
+      "score": 85.42,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 53,
       "sources": [
         "더쿠",
         "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": 0
+      "change": -1
     },
     {
-      "keyword": "ai",
-      "score": 83.6,
+      "keyword": "중국",
+      "score": 84.2,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 0
+      "change": -6
     },
     {
-      "keyword": "일본",
-      "score": 83.54,
+      "keyword": "있습니까",
+      "score": 81.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 62,
+      "best_rank": 58,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "하면",
-      "score": 78.03,
+      "keyword": "상황",
+      "score": 76.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 69,
+      "best_rank": 81,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
@@ -1045,67 +1116,95 @@
       "change": "NEW"
     },
     {
-      "keyword": "영화",
-      "score": 70.19,
-      "post_count": 3,
+      "keyword": "아이브",
+      "score": 74.24,
+      "post_count": 4,
       "source_count": 1,
-      "best_rank": 49,
+      "best_rank": 50,
       "sources": [
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
+    },
+    {
+      "keyword": "드리프트",
+      "score": 67.57,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 56,
+      "sources": [
+        "루리웹"
+      ],
+      "aliases": [
+        "스토리"
+      ],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "영화",
+      "score": 67.21,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 58,
+      "sources": [
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": -2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "\"빵집은 니들이 더 유명할텐데 왜 굳이 한국까지.\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77308958?m=humor",
-      "score": 97.71,
-      "views": 16942,
-      "comments": 67
+      "title": "덕질하다 빡친 지방 출신 기자",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77310049?m=humor",
+      "score": 93.75,
+      "views": 9263,
+      "comments": 43
+    },
+    {
+      "source": "뽐뿌",
+      "title": "샤오핑 한국 진출 확정",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179613",
+      "score": 84.42,
+      "views": 23247,
+      "comments": 74
     },
     {
       "source": "디시인사이드",
       "title": "\"가장 중요한건 인간성이에요\"",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476719&_dcbest=1&page=1",
-      "score": 84.85,
-      "views": 12908,
-      "comments": 61
-    },
-    {
-      "source": "뽐뿌",
-      "title": "시사타파 근황.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179817",
-      "score": 80.89,
-      "views": 7982,
-      "comments": 13
+      "score": 80.99,
+      "views": 16044,
+      "comments": 87
     },
     {
       "source": "클리앙",
       "title": "날 세운 이재명 '주식시장이 망가지는 건 다 정부 탓'",
       "url": "https://www.clien.net/service/board/park/19289201?od=T31&po=0&category=0&groupCd=",
-      "score": 76.28,
-      "views": 2748,
-      "comments": 19
+      "score": 77.73,
+      "views": 4413,
+      "comments": 22
     },
     {
       "source": "더쿠",
       "title": "요즘 취향차이로 나뉜다는 최애 드라마 .. jpg",
       "url": "https://theqoo.net/hot/4399079493",
-      "score": 76.0,
-      "views": 22582,
-      "comments": 268
+      "score": 74.84,
+      "views": 31193,
+      "comments": 307
     },
     {
       "source": "인벤",
       "title": "난 썩었어 ㅜㅜ",
       "url": "https://www.inven.co.kr/board/webzine/2097/2750083",
-      "score": 75.58,
-      "views": 2040,
-      "comments": 9
+      "score": 72.18,
+      "views": 2889,
+      "comments": 11
     }
   ]
 }
