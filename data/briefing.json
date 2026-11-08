@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T18:21:51.917085+09:00",
+  "collected_at": "2026-11-08T23:28:26.957997+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘여자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #삼성. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘여자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #미국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 11,
-    "top100_views": 1068452,
-    "top100_comments": 11523
+    "keywords": 20,
+    "top100_views": 1136685,
+    "top100_comments": 11588
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#삼성",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "삼성"
+      "title": "#미국",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "미국"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-11-08T18:21:51.917085+09:00"
         }
       },
-      "score": 108.96,
+      "score": 108.53,
       "views": 24073,
       "likes": 155,
       "comments": 68,
@@ -88,12 +88,41 @@
           "last_seen": "2026-11-08T11:25:03.707569+09:00"
         }
       },
-      "score": 107.07,
+      "score": 106.64,
       "views": 12640,
       "likes": 100,
       "comments": 61,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "두번, 세번 읽어도 전혀 이해가 안가는 문장.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77318559?m=humor",
+      "first_seen": "2026-11-08T23:28:26.957997+09:00",
+      "last_seen": "2026-11-08T23:28:26.957997+09:00",
+      "peak_score": 96.59,
+      "max_views": 25677,
+      "max_likes": 243,
+      "max_comments": 74,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-08": {
+          "max_score": 96.59,
+          "max_views": 25677,
+          "max_likes": 243,
+          "max_comments": 74,
+          "appearances": 1,
+          "last_seen": "2026-11-08T23:28:26.957997+09:00"
+        }
+      },
+      "score": 106.11,
+      "views": 25677,
+      "likes": 243,
+      "comments": 74,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "\"ALL Correct\" 줄임말이 왜 \"OK\" 임?",
@@ -117,12 +146,12 @@
           "last_seen": "2026-11-08T18:21:51.917085+09:00"
         }
       },
-      "score": 106.4,
+      "score": 105.98,
       "views": 19882,
       "likes": 109,
       "comments": 72,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "중국에 소매치기가 줄어든 이유",
@@ -146,7 +175,7 @@
           "last_seen": "2026-11-08T16:27:52.543970+09:00"
         }
       },
-      "score": 106.39,
+      "score": 105.96,
       "views": 29931,
       "likes": 138,
       "comments": 89,
@@ -175,7 +204,7 @@
           "last_seen": "2026-11-08T03:14:06.981190+09:00"
         }
       },
-      "score": 106.38,
+      "score": 105.96,
       "views": 14659,
       "likes": 88,
       "comments": 72,
@@ -204,7 +233,7 @@
           "last_seen": "2026-11-08T04:30:55.100342+09:00"
         }
       },
-      "score": 106.08,
+      "score": 105.66,
       "views": 16942,
       "likes": 97,
       "comments": 67,
@@ -233,7 +262,7 @@
           "last_seen": "2026-11-08T11:25:03.707569+09:00"
         }
       },
-      "score": 106.03,
+      "score": 105.6,
       "views": 22064,
       "likes": 88,
       "comments": 56,
@@ -262,7 +291,7 @@
           "last_seen": "2026-11-08T00:17:54.381807+09:00"
         }
       },
-      "score": 105.73,
+      "score": 105.3,
       "views": 19411,
       "likes": 142,
       "comments": 96,
@@ -291,153 +320,24 @@
           "last_seen": "2026-11-08T10:15:33.113538+09:00"
         }
       },
-      "score": 105.72,
+      "score": 105.29,
       "views": 12439,
       "likes": 75,
       "comments": 83,
-      "active_days": 1,
-      "change": -1
-    },
-    {
-      "title": "편의점 알바가 갑자기 그만둬서 2명분 일을 하고있거든.",
-      "source": "루리웹",
-      "category": "생활",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77309283?m=humor",
-      "first_seen": "2026-11-08T04:30:55.100342+09:00",
-      "last_seen": "2026-11-08T04:30:55.100342+09:00",
-      "peak_score": 96.61,
-      "max_views": 18601,
-      "max_likes": 145,
-      "max_comments": 64,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-08": {
-          "max_score": 96.61,
-          "max_views": 18601,
-          "max_likes": 145,
-          "max_comments": 64,
-          "appearances": 1,
-          "last_seen": "2026-11-08T04:30:55.100342+09:00"
-        }
-      },
-      "score": 104.98,
-      "views": 18601,
-      "likes": 145,
-      "comments": 64,
       "active_days": 1,
       "change": -1
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "약후 난 이분에게 주먹한방에 질 자신있음",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2750230",
-      "category": "이슈",
-      "views": 3379,
-      "likes": 0,
-      "comments": 12,
-      "score": 50.84,
-      "change": 0,
-      "current_rank": 99,
-      "new_entry": false,
-      "delta_views": 3084,
-      "delta_likes": 0,
-      "delta_comments": 10,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 114
-    },
-    {
       "source": "루리웹",
-      "title": "한국만 트페미가 극성인줄 알았는데",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77313526?m=humor",
+      "title": "두번, 세번 읽어도 전혀 이해가 안가는 문장.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77318559?m=humor",
       "category": "이슈",
-      "views": 24073,
-      "likes": 155,
-      "comments": 68,
-      "score": 95.77,
-      "change": 0,
-      "current_rank": 2,
-      "new_entry": false,
-      "delta_views": 1762,
-      "delta_likes": 9,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 114
-    },
-    {
-      "source": "디시인사이드",
-      "title": "와들와들 여자들 외모 바이럴 이해하기",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 22382,
-      "likes": 324,
-      "comments": 402,
-      "score": 79.31,
-      "change": 1,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 14248,
-      "delta_likes": 201,
-      "delta_comments": 290,
-      "rank_gain": 1,
-      "rising_score": 97.35,
-      "rising_rank": 3,
-      "window_minutes": 114
-    },
-    {
-      "source": "디시인사이드",
-      "title": "실시간 싱붕이 이거 탈모냐?",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16519,
-      "likes": 109,
-      "comments": 331,
-      "score": 67.99,
-      "change": 0,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 9413,
-      "delta_likes": 46,
-      "delta_comments": 140,
-      "rank_gain": 0,
-      "rising_score": 87.91,
-      "rising_rank": 4,
-      "window_minutes": 114
-    },
-    {
-      "source": "더쿠",
-      "title": "지금 2030들안 당했음 청년이라는데…",
-      "url": "https://theqoo.net/hot/4399465416",
-      "category": "이슈",
-      "views": 62758,
-      "likes": 0,
-      "comments": 768,
-      "score": 63.42,
-      "change": 0,
-      "current_rank": 34,
-      "new_entry": false,
-      "delta_views": 30361,
-      "delta_likes": 0,
-      "delta_comments": 285,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 5,
-      "window_minutes": 114
-    },
-    {
-      "source": "루리웹",
-      "title": "\"ALL Correct\" 줄임말이 왜 \"OK\" 임?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314169?m=humor",
-      "category": "이슈",
-      "views": 19882,
-      "likes": 109,
-      "comments": 72,
-      "score": 96.88,
+      "views": 25677,
+      "likes": 243,
+      "comments": 74,
+      "score": 96.59,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -445,39 +345,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.69,
-      "rising_rank": 6,
-      "window_minutes": 114
-    },
-    {
-      "source": "디시인사이드",
-      "title": "연돈 텐트 웨이팅은 진짜 개돼지 같다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476801&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15926,
-      "likes": 202,
-      "comments": 262,
-      "score": 67.94,
-      "change": 0,
-      "current_rank": 21,
-      "new_entry": false,
-      "delta_views": 8027,
-      "delta_likes": 86,
-      "delta_comments": 83,
-      "rank_gain": 0,
-      "rising_score": 82.68,
-      "rising_rank": 7,
-      "window_minutes": 114
+      "rising_score": 82.57,
+      "rising_rank": 1,
+      "window_minutes": 307
     },
     {
       "source": "루리웹",
-      "title": "현대차가 슬슬 개쫄리는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314139?m=humor",
+      "title": "미국에서 집에 도둑이 들어도 정당방위로 인정받지 못한 사건",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77318379?m=humor",
+      "category": "생활",
+      "views": 14002,
+      "likes": 82,
+      "comments": 63,
+      "score": 95.17,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.97,
+      "rising_rank": 2,
+      "window_minutes": 307
+    },
+    {
+      "source": "루리웹",
+      "title": "베트남이 본 경제순위",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77318836?m=humor",
       "category": "이슈",
-      "views": 26005,
-      "likes": 122,
-      "comments": 105,
-      "score": 94.67,
+      "views": 27532,
+      "likes": 146,
+      "comments": 97,
+      "score": 95.08,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -485,39 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 8,
-      "window_minutes": 114
+      "rising_score": 81.93,
+      "rising_rank": 3,
+      "window_minutes": 307
     },
     {
       "source": "디시인사이드",
-      "title": "프랑스 씨발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476799&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 20792,
-      "likes": 317,
-      "comments": 416,
-      "score": 73.22,
-      "change": 0,
-      "current_rank": 10,
-      "new_entry": false,
-      "delta_views": 7403,
-      "delta_likes": 81,
-      "delta_comments": 139,
-      "rank_gain": 0,
-      "rising_score": 79.41,
-      "rising_rank": 9,
-      "window_minutes": 114
-    },
-    {
-      "source": "더쿠",
-      "title": "스스로를 무던하다, 돈까스를 좋아한다는 여자들 보면 짠하다",
-      "url": "https://theqoo.net/hot/4399607989",
+      "title": "훌쩍훌쩍 고추 작으면 듣는 말",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476903&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 36183,
-      "likes": 0,
-      "comments": 731,
-      "score": 86.84,
+      "views": 15118,
+      "likes": 74,
+      "comments": 383,
+      "score": 79.19,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -525,9 +405,129 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.47,
+      "rising_score": 75.26,
+      "rising_rank": 4,
+      "window_minutes": 307
+    },
+    {
+      "source": "인벤",
+      "title": "횟집에서 치킨 먹은 손님들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750307",
+      "category": "생활",
+      "views": 3243,
+      "likes": 8,
+      "comments": 15,
+      "score": 76.52,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.14,
+      "rising_rank": 5,
+      "window_minutes": 307
+    },
+    {
+      "source": "디시인사이드",
+      "title": "'조용히' 바뀌고 있는 아랫세대들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476895&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17538,
+      "likes": 124,
+      "comments": 255,
+      "score": 76.37,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.08,
+      "rising_rank": 6,
+      "window_minutes": 307
+    },
+    {
+      "source": "인벤",
+      "title": "배달 음식 환불거지 갑질 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750306",
+      "category": "생활",
+      "views": 3312,
+      "likes": 5,
+      "comments": 14,
+      "score": 74.13,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.13,
+      "rising_rank": 7,
+      "window_minutes": 307
+    },
+    {
+      "source": "뽐뿌",
+      "title": "자전거 유튜버가 떠나기전 편집한 마지막 영상",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=25428",
+      "category": "생활",
+      "views": 13168,
+      "likes": 12,
+      "comments": 23,
+      "score": 73.71,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.96,
+      "rising_rank": 8,
+      "window_minutes": 307
+    },
+    {
+      "source": "뽐뿌",
+      "title": "멋진 강쥐",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=free_gallery&no=362557",
+      "category": "이슈",
+      "views": 1509,
+      "likes": 7,
+      "comments": 8,
+      "score": 73.39,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.82,
+      "rising_rank": 9,
+      "window_minutes": 307
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[KB Pay] 오늘의 퀴즈 11/8일자 정답",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120520",
+      "category": "이슈",
+      "views": 5547,
+      "likes": 42,
+      "comments": 10,
+      "score": 73.33,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.8,
       "rising_rank": 10,
-      "window_minutes": 114
+      "window_minutes": 307
     }
   ],
   "issues": [
@@ -567,6 +567,52 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "i54cc5255",
+      "title": "‘마지막’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마지막"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 105.18,
+      "peak_score": 90.71,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 8,
+          "title": "자전거 유튜버가 떠나기전 편집한 마지막 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=25428",
+          "score": 73.71
+        },
+        {
+          "source": "루리웹",
+          "rank": 13,
+          "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 마지막 (11/8)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108831",
+          "score": 71.32
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "기억을 잃어가는 아버지의 마지막 노트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750308",
+          "score": 61.84
+        }
+      ],
+      "first_seen": "2026-11-08T23:28:26.957997+09:00",
+      "last_seen": "2026-11-08T23:28:26.957997+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 2,
       "change": "NEW"
     },
     {
@@ -604,7 +650,7 @@
       "last_seen": "2026-11-08T11:25:03.707569+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
@@ -642,8 +688,57 @@
       "last_seen": "2026-11-08T11:25:03.707569+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
+    },
+    {
+      "id": "i31c0a449",
+      "title": "삼성 라이온즈 12년만에 한국시리즈 우승..gif",
+      "keywords": [
+        "한국시리즈",
+        "삼성",
+        "우승",
+        "라이온즈"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 95.81,
+      "peak_score": 79.32,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 33,
+          "title": "삼성 라이온즈 12년만에 한국시리즈 우승..gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476854&_dcbest=1&page=1",
+          "score": 64.32
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "삼성, 12년 만에 한국시리즈 우승…‘왕조 재건의 원년 선포’",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750311",
+          "score": 57.56
+        },
+        {
+          "source": "더쿠",
+          "rank": 73,
+          "title": "삼성 라이온즈, 한국시리즈 우승…계열사, 대규모 할인 행사 검토(종합)",
+          "url": "https://theqoo.net/hot/4399753866",
+          "score": 55.42
+        }
+      ],
+      "first_seen": "2026-11-04T23:34:40.273486+09:00",
+      "last_seen": "2026-11-08T23:28:26.957997+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 5,
+      "change": 9
     },
     {
       "id": "i039fd79c",
@@ -680,8 +775,8 @@
       "last_seen": "2026-11-08T07:59:43.004608+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i27245075",
@@ -718,7 +813,46 @@
       "last_seen": "2026-11-08T18:21:51.917085+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i64a58239",
+      "title": "횟집에서 치킨 먹은 손님들",
+      "keywords": [
+        "손님들",
+        "횟집에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.99,
+      "peak_score": 84.52,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "횟집에서 치킨 먹은 손님들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750307",
+          "score": 76.52
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 36,
+          "title": "횟집에서 치킨시킨 손님들.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10180188",
+          "score": 63.75
+        }
+      ],
+      "first_seen": "2026-11-08T23:28:26.957997+09:00",
+      "last_seen": "2026-11-08T23:28:26.957997+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -756,8 +890,8 @@
       "last_seen": "2026-11-08T07:59:43.004608+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 9,
+      "change": -3
     },
     {
       "id": "iae6b0123",
@@ -794,95 +928,283 @@
       "last_seen": "2026-11-08T18:21:51.917085+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 1
+      "rank": 10,
+      "change": -3
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i54cc5255",
+      "title": "‘마지막’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마지막"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 90.71,
+      "peak_score": 90.71,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 8,
+          "title": "자전거 유튜버가 떠나기전 편집한 마지막 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=25428",
+          "score": 73.71
+        },
+        {
+          "source": "루리웹",
+          "rank": 13,
+          "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 마지막 (11/8)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108831",
+          "score": 71.32
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "기억을 잃어가는 아버지의 마지막 노트",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750308",
+          "score": 61.84
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
     },
     {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i31c0a449",
+      "title": "삼성 라이온즈 12년만에 한국시리즈 우승..gif",
       "keywords": [
-        "어떻게"
+        "한국시리즈",
+        "삼성",
+        "우승",
+        "라이온즈"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.47,
-      "peak_score": 83.0,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 79.32,
+      "peak_score": 79.32,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 33,
+          "title": "삼성 라이온즈 12년만에 한국시리즈 우승..gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476854&_dcbest=1&page=1",
+          "score": 64.32
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "삼성, 12년 만에 한국시리즈 우승…‘왕조 재건의 원년 선포’",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750311",
+          "score": 57.56
+        },
+        {
+          "source": "더쿠",
+          "rank": 73,
+          "title": "삼성 라이온즈, 한국시리즈 우승…계열사, 대규모 할인 행사 검토(종합)",
+          "url": "https://theqoo.net/hot/4399753866",
+          "score": 55.42
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i64a58239",
+      "title": "횟집에서 치킨 먹은 손님들",
+      "keywords": [
+        "손님들",
+        "횟집에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.52,
+      "peak_score": 84.52,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "횟집에서 치킨 먹은 손님들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750307",
+          "score": 76.52
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 36,
+          "title": "횟집에서 치킨시킨 손님들.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10180188",
+          "score": 63.75
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ib39e156b",
+      "title": "‘가는거’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "가는거"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.84,
+      "peak_score": 75.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 14,
-          "title": "\"밤 10시 이후 샤워 자제해주세요\"…아파트 공지문에 \"야근하고 씻지말라고?\" [어떻게 생각하세요]",
-          "url": "https://theqoo.net/hot/4399238681",
-          "score": 74.0
+          "rank": 19,
+          "title": "친구한명이 여행 살 다빼고나서 가고싶다고 미루자는데 나머지끼리만 가는거 좀 커뮤식 사고인가...",
+          "url": "https://theqoo.net/hot/4399984046",
+          "score": 66.84
         },
         {
-          "source": "디시인사이드",
-          "rank": 79,
-          "title": "신부 이야기 속 러시아군은 어떻게 중앙아시아를 정복했는가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476753&_dcbest=1&page=1",
-          "score": 56.37
+          "source": "루리웹",
+          "rank": 87,
+          "title": "킨텍스 가는거 존나 불편하긴 하더라",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77321630?m=humor_only&t=now",
+          "score": 53.84
         }
       ],
-      "first_seen": "2026-09-28T19:49:36.308484+09:00",
-      "last_seen": "2026-11-08T11:25:03.707569+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -3
+      "rank": 4,
+      "change": "NEW"
     },
     {
-      "id": "i3c64ef3a",
-      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia973b9f1",
+      "title": "민주당, 종부세 1주택 공제 14억 통일 요구 “총선 달려있다”",
       "keywords": [
-        "자동차"
+        "공제",
+        "14억",
+        "종부세",
+        "요구",
+        "통일"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.44,
-      "peak_score": 82.97,
+      "score": 74.2,
+      "peak_score": 74.2,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
-          "score": 73.97
+          "source": "클리앙",
+          "rank": 23,
+          "title": "민주당, 종부세 1주택 공제 14억 통일 요구 “총선 달려있다”",
+          "url": "https://www.clien.net/service/board/park/19289511?od=T31&po=0&category=0&groupCd=",
+          "score": 66.2
         },
         {
-          "source": "뽐뿌",
-          "rank": 87,
-          "title": "중국 자동차 시장이 부럽습니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
-          "score": 55.99
+          "source": "인벤",
+          "rank": 91,
+          "title": "당정 \"소방 투자에 2조 원\"‥'종부세 공제 14억 통일' 요구",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750310",
+          "score": 52.91
         }
       ],
-      "first_seen": "2026-11-08T16:27:52.543970+09:00",
-      "last_seen": "2026-11-08T16:27:52.543970+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -3
+      "rank": 5,
+      "change": "NEW"
     },
     {
-      "id": "i9ea7996d",
-      "title": "‘시사타파’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i268dadd0",
+      "title": "‘시상식에서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "시사타파"
+        "시상식에서"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.11,
-      "peak_score": 82.64,
+      "score": 73.68,
+      "peak_score": 73.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 31,
+          "title": "KGMA 시상식에서 신인상에 대상까지 2관왕 달성한 남돌",
+          "url": "https://theqoo.net/hot/4399933898",
+          "score": 64.68
+        },
+        {
+          "source": "인벤",
+          "rank": 89,
+          "title": "시상식에서 모든 서사를 회수 해버린 리센느",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750300",
+          "score": 53.57
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i70f39dd0",
+      "title": "‘byd’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "byd"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.49,
+      "peak_score": 70.49,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 48,
+          "title": "BYD, 전기 스포츠카로 시속 503km/h...",
+          "url": "https://www.clien.net/service/board/park/19289501?od=T31&po=0&category=0&groupCd=",
+          "score": 61.49
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 85,
+          "title": "싱글벙글 byd 양왕 알티오르 공개",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476884&_dcbest=1&page=1",
+          "score": 54.47
+        }
+      ],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i463bef82",
+      "title": "‘gpt’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gpt"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 61.85,
+      "peak_score": 61.85,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -890,233 +1212,94 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "시사타파 입장문.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179948",
-          "score": 73.64
-        },
-        {
           "source": "클리앙",
-          "rank": 38,
-          "title": "시사타파 오늘 방송 선 넘었네요. 대통령 협박은 진짜 아닌 듯합니다",
-          "url": "https://www.clien.net/service/board/park/19289171?od=T31&po=0&category=0&groupCd=",
-          "score": 62.04
-        }
-      ],
-      "first_seen": "2026-10-20T19:21:59.571776+09:00",
-      "last_seen": "2026-11-08T00:17:54.381807+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -3
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ib4309374",
-      "title": "‘여자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "여자들"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 96.84,
-      "peak_score": 96.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 4,
-          "title": "스스로를 무던하다, 돈까스를 좋아한다는 여자들 보면 짠하다",
-          "url": "https://theqoo.net/hot/4399607989",
-          "score": 86.84
+          "rank": 93,
+          "title": "GPT pro 50 요금 나올수도있겠네요",
+          "url": "https://www.clien.net/service/board/park/19289495?od=T31&po=0&category=0&groupCd=",
+          "score": 52.85
         },
         {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "와들와들 여자들 외모 바이럴 이해하기",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
-          "score": 79.31
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "GPT-6 다음주 한국증시 예상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=452683",
+          "score": 52.23
         }
       ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i27245075",
-      "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "있다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.95,
-      "peak_score": 84.95,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "요즘 늘고 있다는 사춘기 자식들한테 맞고 사는 엄마들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750259",
-          "score": 75.95
-        },
-        {
-          "source": "루리웹",
-          "rank": 87,
-          "title": "크리스마스마다 일본에서 8년째 방영되고 있다는 애니메이션",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77318126?m=humor_only&t=now",
-          "score": 53.92
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.99,
-      "peak_score": 76.99,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "실시간 싱붕이 이거 탈모냐?",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-          "score": 67.99
-        },
-        {
-          "source": "더쿠",
-          "rank": 98,
-          "title": "실시간 안세영...jpg",
-          "url": "https://theqoo.net/hot/4399396285",
-          "score": 51.11
-        }
-      ],
-      "rank": 3,
-      "change": -1
-    },
-    {
-      "id": "i351af4be",
-      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본에서",
-        "애니메이션"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.34,
-      "peak_score": 69.34,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 55,
-          "title": "일본에서 인기 없었던 90년대 애니메이션",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476781&_dcbest=1&page=1",
-          "score": 60.34
-        },
-        {
-          "source": "루리웹",
-          "rank": 87,
-          "title": "크리스마스마다 일본에서 8년째 방영되고 있다는 애니메이션",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77318126?m=humor_only&t=now",
-          "score": 53.92
-        }
-      ],
-      "rank": 4,
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "삼성",
-      "score": 110.52,
-      "post_count": 3,
+      "keyword": "미국",
+      "score": 134.58,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 26,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "여자들",
-      "score": 108.21,
+      "keyword": "마지막",
+      "score": 129.47,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 4,
+      "source_count": 3,
+      "best_rank": 8,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 1
-    },
-    {
-      "keyword": "아내",
-      "score": 99.59,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 5,
-      "sources": [
+        "루리웹",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 3,
+      "rank": 2,
       "change": "NEW"
     },
     {
       "keyword": "일본",
-      "score": 94.56,
+      "score": 126.34,
       "post_count": 4,
-      "source_count": 2,
-      "best_rank": 55,
+      "source_count": 3,
+      "best_rank": 25,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": 1
+    },
+    {
+      "keyword": "우승",
+      "score": 122.08,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 33,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "있다",
-      "score": 92.75,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
+      "keyword": "하고",
+      "score": 115.26,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 46,
       "sources": [
-        "루리웹",
+        "더쿠",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1124,55 +1307,58 @@
       "change": "NEW"
     },
     {
-      "keyword": "ai",
-      "score": 89.42,
-      "post_count": 2,
+      "keyword": "베트남",
+      "score": 113.89,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 3,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 84.75,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
+      "keyword": "한국시리즈",
+      "score": 113.79,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 33,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "삼성"
+      ],
       "rank": 7,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "keyword": "시대",
-      "score": 84.3,
+      "keyword": "사건",
+      "score": 107.82,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 2,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "소리",
-      "score": 83.11,
-      "post_count": 2,
+      "keyword": "한국",
+      "score": 105.75,
+      "post_count": 5,
       "source_count": 2,
-      "best_rank": 51,
+      "best_rank": 20,
       "sources": [
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1180,82 +1366,140 @@
       "change": "NEW"
     },
     {
-      "keyword": "애니메이션",
-      "score": 81.2,
-      "post_count": 2,
+      "keyword": "아내",
+      "score": 103.01,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 11,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 10,
+      "change": -7
+    },
+    {
+      "keyword": "손님들",
+      "score": 102.21,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [
+        "횟집"
+      ],
+      "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "게임",
-      "score": 75.9,
+      "keyword": "민주당",
+      "score": 95.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 85,
+      "best_rank": 22,
       "sources": [
         "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "후기",
+      "score": 92.93,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 30,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "할인",
+      "score": 92.11,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "더쿠",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 11,
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "가는거",
+      "score": 86.77,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "\"ALL Correct\" 줄임말이 왜 \"OK\" 임?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314169?m=humor",
-      "score": 96.88,
-      "views": 19882,
-      "comments": 72
-    },
-    {
-      "source": "더쿠",
-      "title": "스스로를 무던하다, 돈까스를 좋아한다는 여자들 보면 짠하다",
-      "url": "https://theqoo.net/hot/4399607989",
-      "score": 86.84,
-      "views": 36183,
-      "comments": 731
-    },
-    {
-      "source": "뽐뿌",
-      "title": "아내가 보험회사 설계사 취업했는데, ㄱㅅ 들입니다.",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=238032",
-      "score": 84.88,
-      "views": 15442,
-      "comments": 82
+      "title": "두번, 세번 읽어도 전혀 이해가 안가는 문장.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77318559?m=humor",
+      "score": 96.59,
+      "views": 25677,
+      "comments": 74
     },
     {
       "source": "디시인사이드",
-      "title": "와들와들 여자들 외모 바이럴 이해하기",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
-      "score": 79.31,
-      "views": 22382,
-      "comments": 402
+      "title": "훌쩍훌쩍 고추 작으면 듣는 말",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476903&_dcbest=1&page=1",
+      "score": 79.19,
+      "views": 15118,
+      "comments": 383
     },
     {
       "source": "인벤",
-      "title": "요즘 늘고 있다는 사춘기 자식들한테 맞고 사는 엄마들",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2750259",
-      "score": 75.95,
-      "views": 1092,
-      "comments": 12
+      "title": "횟집에서 치킨 먹은 손님들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750307",
+      "score": 76.52,
+      "views": 3243,
+      "comments": 15
+    },
+    {
+      "source": "뽐뿌",
+      "title": "자전거 유튜버가 떠나기전 편집한 마지막 영상",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=25428",
+      "score": 73.71,
+      "views": 13168,
+      "comments": 23
+    },
+    {
+      "source": "더쿠",
+      "title": "다른 가수들 인터뷰할때 나오면 안되는줄 알았던 올데프 타잔 애니...",
+      "url": "https://theqoo.net/hot/4399910942",
+      "score": 67.37,
+      "views": 55928,
+      "comments": 335
     },
     {
       "source": "클리앙",
-      "title": "클리앙의 흥망성쇠를 다 보는거 같네요",
-      "url": "https://www.clien.net/service/board/park/19289403?od=T31&po=0&category=0&groupCd=",
-      "score": 71.27,
-      "views": 1122,
-      "comments": 26
+      "title": "민주당, 종부세 1주택 공제 14억 통일 요구 “총선 달려있다”",
+      "url": "https://www.clien.net/service/board/park/19289511?od=T31&po=0&category=0&groupCd=",
+      "score": 66.2,
+      "views": 360,
+      "comments": 6
     }
   ]
 }
