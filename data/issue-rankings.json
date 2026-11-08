@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-08T16:27:52.543970+09:00",
+  "collected_at": "2026-11-08T18:21:51.917085+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,37 +11,71 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i3c64ef3a",
-        "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib4309374",
+        "title": "‘여자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "자동차"
+          "여자들"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 82.97,
-        "peak_score": 82.97,
+        "post_count": 3,
+        "score": 96.84,
+        "peak_score": 96.84,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌"
+          "더쿠",
+          "디시인사이드"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 10,
-            "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
-            "score": 73.97
+            "source": "더쿠",
+            "rank": 4,
+            "title": "스스로를 무던하다, 돈까스를 좋아한다는 여자들 보면 짠하다",
+            "url": "https://theqoo.net/hot/4399607989",
+            "score": 86.84
           },
           {
-            "source": "뽐뿌",
-            "rank": 87,
-            "title": "중국 자동차 시장이 부럽습니다.",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
-            "score": 55.99
+            "source": "디시인사이드",
+            "rank": 7,
+            "title": "와들와들 여자들 외모 바이럴 이해하기",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
+            "score": 79.31
           }
         ],
         "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.95,
+        "peak_score": 84.95,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 9,
+            "title": "요즘 늘고 있다는 사춘기 자식들한테 맞고 사는 엄마들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750259",
+            "score": 75.95
+          },
+          {
+            "source": "루리웹",
+            "rank": 87,
+            "title": "크리스마스마다 일본에서 8년째 방영되고 있다는 애니메이션",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77318126?m=humor_only&t=now",
+            "score": 53.92
+          }
+        ],
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -52,8 +86,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.22,
-        "peak_score": 81.22,
+        "score": 76.99,
+        "peak_score": 76.99,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -62,168 +96,69 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 18,
+            "rank": 20,
             "title": "실시간 싱붕이 이거 탈모냐?",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-            "score": 72.22
+            "score": 67.99
           },
           {
             "source": "더쿠",
-            "rank": 30,
+            "rank": 98,
             "title": "실시간 안세영...jpg",
             "url": "https://theqoo.net/hot/4399396285",
-            "score": 68.53
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국은"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.38,
-        "peak_score": 79.38,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 23,
-            "title": "한국은 왜 탑건같은 영화 못만듬?",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77316660?m=humor_only&t=now",
-            "score": 70.38
-          },
-          {
-            "source": "인벤",
-            "rank": 99,
-            "title": "?? : 한국은 중국을 좋아한다!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750207",
-            "score": 52.62
+            "score": 51.11
           }
         ],
         "rank": 3,
-        "change": "NEW"
+        "change": -1
       },
       {
-        "id": "i31c0a449",
-        "title": "‘한국시리즈’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i351af4be",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "한국시리즈"
+          "일본에서",
+          "애니메이션"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.7,
-        "peak_score": 78.7,
+        "score": 69.34,
+        "peak_score": 69.34,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 27,
-            "title": "한국시리즈 끝날듯",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750225",
-            "score": 69.7
+            "source": "디시인사이드",
+            "rank": 55,
+            "title": "일본에서 인기 없었던 90년대 애니메이션",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476781&_dcbest=1&page=1",
+            "score": 60.34
           },
           {
-            "source": "더쿠",
-            "rank": 47,
-            "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
-            "url": "https://theqoo.net/hot/4399510222",
-            "score": 63.0
+            "source": "루리웹",
+            "rank": 87,
+            "title": "크리스마스마다 일본에서 8년째 방영되고 있다는 애니메이션",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77318126?m=humor_only&t=now",
+            "score": 53.92
           }
         ],
         "rank": 4,
         "change": "NEW"
-      },
+      }
+    ],
+    "daily": [
       {
-        "id": "i76049555",
-        "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib4309374",
+        "title": "‘여자들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "kbo"
+          "여자들"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 77.08,
-        "peak_score": 77.08,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 32,
-            "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
-            "score": 68.08
-          },
-          {
-            "source": "더쿠",
-            "rank": 66,
-            "title": "[KBO] 1루에서 만세부르는 강민호",
-            "url": "https://theqoo.net/hot/4399491225",
-            "score": 59.84
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i38c36f25",
-        "title": "‘은마아파트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "은마아파트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.21,
-        "peak_score": 75.21,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 39,
-            "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
-            "url": "https://theqoo.net/hot/4399358992",
-            "score": 66.21
-          },
-          {
-            "source": "인벤",
-            "rank": 91,
-            "title": "은마아파트 재건축 초과이익환수 청구서",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
-            "score": 55.09
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i4f451ecc",
-        "title": "‘앞으로’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "앞으로"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.21,
-        "peak_score": 75.21,
+        "post_count": 3,
+        "score": 107.31,
+        "peak_score": 96.84,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -232,58 +167,26 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 39,
-            "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
-            "url": "https://theqoo.net/hot/4399358992",
-            "score": 66.21
+            "rank": 4,
+            "title": "스스로를 무던하다, 돈까스를 좋아한다는 여자들 보면 짠하다",
+            "url": "https://theqoo.net/hot/4399607989",
+            "score": 86.84
           },
           {
             "source": "디시인사이드",
-            "rank": 49,
-            "title": "앞으로 쑤욱 넣어버리고 만 자치.. gif",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476762&_dcbest=1&page=1",
-            "score": 62.47
+            "rank": 7,
+            "title": "와들와들 여자들 외모 바이럴 이해하기",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
+            "score": 79.31
           }
         ],
-        "rank": 7,
+        "first_seen": "2026-10-17T02:56:53.776363+09:00",
+        "last_seen": "2026-11-08T18:21:51.917085+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 1,
         "change": "NEW"
       },
-      {
-        "id": "i6ad9d12c",
-        "title": "‘5차전’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "5차전"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.0,
-        "peak_score": 72.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 47,
-            "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
-            "url": "https://theqoo.net/hot/4399510222",
-            "score": 63.0
-          },
-          {
-            "source": "클리앙",
-            "rank": 60,
-            "title": "적어도 지금까진 선수들이 방심하지 않고 5차전 준비 잘했네요.",
-            "url": "https://www.clien.net/service/board/park/19289371?od=T31&po=0&category=0&groupCd=",
-            "score": 60.78
-          }
-        ],
-        "rank": 8,
-        "change": "NEW"
-      }
-    ],
-    "daily": [
       {
         "id": "i9ccef52d",
         "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
@@ -319,8 +222,8 @@
         "last_seen": "2026-11-08T11:25:03.707569+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -357,8 +260,8 @@
         "last_seen": "2026-11-08T11:25:03.707569+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -395,8 +298,46 @@
         "last_seen": "2026-11-08T07:59:43.004608+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.42,
+        "peak_score": 84.95,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 9,
+            "title": "요즘 늘고 있다는 사춘기 자식들한테 맞고 사는 엄마들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750259",
+            "score": 75.95
+          },
+          {
+            "source": "루리웹",
+            "rank": 87,
+            "title": "크리스마스마다 일본에서 8년째 방영되고 있다는 애니메이션",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77318126?m=humor_only&t=now",
+            "score": 53.92
+          }
+        ],
+        "first_seen": "2026-10-04T04:29:59.427007+09:00",
+        "last_seen": "2026-11-08T18:21:51.917085+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "i153ac4c4",
@@ -433,8 +374,46 @@
         "last_seen": "2026-11-08T07:59:43.004608+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.71,
+        "peak_score": 81.22,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 20,
+            "title": "실시간 싱붕이 이거 탈모냐?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
+            "score": 67.99
+          },
+          {
+            "source": "더쿠",
+            "rank": 98,
+            "title": "실시간 안세영...jpg",
+            "url": "https://theqoo.net/hot/4399396285",
+            "score": 51.11
+          }
+        ],
+        "first_seen": "2026-10-07T14:44:26.372950+09:00",
+        "last_seen": "2026-11-08T18:21:51.917085+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": 1
       },
       {
         "id": "ibb35f05f",
@@ -471,8 +450,8 @@
         "last_seen": "2026-11-08T11:25:03.707569+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 8,
+        "change": -3
       },
       {
         "id": "i3c64ef3a",
@@ -509,8 +488,8 @@
         "last_seen": "2026-11-08T16:27:52.543970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "i9ea7996d",
@@ -547,46 +526,8 @@
         "last_seen": "2026-11-08T00:17:54.381807+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
-      },
-      {
-        "id": "iae6b0123",
-        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "실시간"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.69,
-        "peak_score": 81.22,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 18,
-            "title": "실시간 싱붕이 이거 탈모냐?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-            "score": 72.22
-          },
-          {
-            "source": "더쿠",
-            "rank": 30,
-            "title": "실시간 안세영...jpg",
-            "url": "https://theqoo.net/hot/4399396285",
-            "score": 68.53
-          }
-        ],
-        "first_seen": "2026-10-07T14:44:26.372950+09:00",
-        "last_seen": "2026-11-08T16:27:52.543970+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 10,
+        "change": -3
       },
       {
         "id": "i9a0fa5b7",
@@ -623,7 +564,7 @@
         "last_seen": "2026-11-08T10:15:33.113538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 11,
         "change": -2
       },
       {
@@ -661,8 +602,8 @@
         "last_seen": "2026-11-08T16:27:52.543970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ie82bac33",
@@ -699,8 +640,8 @@
         "last_seen": "2026-11-08T07:59:43.004608+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i31c0a449",
@@ -737,8 +678,8 @@
         "last_seen": "2026-11-08T16:27:52.543970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i4e73ee85",
@@ -775,8 +716,8 @@
         "last_seen": "2026-11-08T10:15:33.113538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "iae209e51",
@@ -813,8 +754,8 @@
         "last_seen": "2026-11-08T10:15:33.113538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -4
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i76049555",
@@ -851,8 +792,8 @@
         "last_seen": "2026-11-08T16:27:52.543970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i567efd17",
@@ -889,8 +830,8 @@
         "last_seen": "2026-11-08T00:17:54.381807+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -5
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i924c4c51",
@@ -929,8 +870,8 @@
         "last_seen": "2026-11-08T00:17:54.381807+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -5
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "i4f451ecc",
@@ -967,84 +908,8 @@
         "last_seen": "2026-11-08T16:27:52.543970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "i38c36f25",
-        "title": "‘은마아파트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "은마아파트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.68,
-        "peak_score": 75.21,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 39,
-            "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
-            "url": "https://theqoo.net/hot/4399358992",
-            "score": 66.21
-          },
-          {
-            "source": "인벤",
-            "rank": 91,
-            "title": "은마아파트 재건축 초과이익환수 청구서",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
-            "score": 55.09
-          }
-        ],
-        "first_seen": "2026-11-08T16:27:52.543970+09:00",
-        "last_seen": "2026-11-08T16:27:52.543970+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i19c2837b",
-        "title": "‘초등학생’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "초등학생"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.22,
-        "peak_score": 74.75,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 36,
-            "title": "싱글벙글 초등학생 칼아저씨",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476733&_dcbest=1&page=1",
-            "score": 65.75
-          },
-          {
-            "source": "클리앙",
-            "rank": 52,
-            "title": "내년 초등학생 입학생이 처음으로 30만명 밑이네요..",
-            "url": "https://www.clien.net/service/board/park/19289275?od=T31&po=0&category=0&groupCd=",
-            "score": 61.58
-          }
-        ],
-        "first_seen": "2026-11-01T18:43:20.593439+09:00",
-        "last_seen": "2026-11-08T11:25:03.707569+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -7
+        "change": -2
       }
     ],
     "weekly": [
