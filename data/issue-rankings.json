@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-10T11:45:35.101201+09:00",
+  "collected_at": "2026-11-10T16:44:26.962966+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,69 +11,80 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i153ac4c4",
-        "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie5a2c1ba",
+        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "젠슨황"
+          "아파트"
         ],
-        "source_count": 2,
+        "source_count": 3,
         "post_count": 3,
-        "score": 81.8,
-        "peak_score": 81.8,
+        "score": 86.85,
+        "peak_score": 86.85,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "디시인사이드"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "젠슨황 사태를 예견한 치킨집",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477461&_dcbest=1&page=1",
-            "score": 71.8
+            "source": "인벤",
+            "rank": 21,
+            "title": "아파트 공동명의 하자했더니 결혼 다시 생각하자는 남친",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750970",
+            "score": 69.85
           },
           {
             "source": "더쿠",
-            "rank": 18,
-            "title": "(중국 외교부 대변인) 젠슨황 불륜상대 중국스파이 아니라고 함",
-            "url": "https://theqoo.net/hot/4401363519",
-            "score": 71.39
+            "rank": 42,
+            "title": "아파트 주차 대수별 체감",
+            "url": "https://theqoo.net/hot/4401668052",
+            "score": 63.05
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "아파트 고점신호",
+            "url": "https://www.clien.net/service/board/park/19290312?od=T31&po=0&category=0&groupCd=",
+            "score": 59.93
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "i938836c2",
-        "title": "어제자) 안동커피매장 무차별 폭행장면",
+        "id": "i683c596f",
+        "title": "전남광주 '초광역특구법 철회' 대통령에 항의 서한",
         "keywords": [
-          "안동커피매장",
-          "무차별"
+          "초광역특구법",
+          "항의",
+          "전남광주",
+          "대통령에",
+          "서한"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 96.12,
-        "peak_score": 96.12,
+        "score": 66.16,
+        "peak_score": 66.16,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "어제자) 안동커피매장 무차별 폭행장면",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10182113",
-            "score": 88.12
+            "source": "클리앙",
+            "rank": 76,
+            "title": "전남광주 '초광역특구법 철회' 대통령에 항의 서한",
+            "url": "https://www.clien.net/service/board/park/19290303?od=T31&po=0&category=0&groupCd=",
+            "score": 58.16
           },
           {
             "source": "인벤",
-            "rank": 51,
-            "title": "어제 (9일) 안동커피매장 무차별 폭행 장면.mp4",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2750837",
-            "score": 62.97
+            "rank": 98,
+            "title": "전남광주 \"초광역특구법 철회\" 대통령에 항의 서한",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750963",
+            "score": 51.8
           }
         ],
         "rank": 2,
@@ -195,7 +206,53 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "ie5a2c1ba",
+        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아파트"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 103.34,
+        "peak_score": 86.85,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 21,
+            "title": "아파트 공동명의 하자했더니 결혼 다시 생각하자는 남친",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750970",
+            "score": 69.85
+          },
+          {
+            "source": "더쿠",
+            "rank": 42,
+            "title": "아파트 주차 대수별 체감",
+            "url": "https://theqoo.net/hot/4401668052",
+            "score": 63.05
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "아파트 고점신호",
+            "url": "https://www.clien.net/service/board/park/19290312?od=T31&po=0&category=0&groupCd=",
+            "score": 59.93
+          }
+        ],
+        "first_seen": "2026-10-09T19:48:30.742386+09:00",
+        "last_seen": "2026-11-10T16:44:26.962966+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 4,
+        "change": 8
       },
       {
         "id": "ia3af0886",
@@ -233,7 +290,7 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -271,7 +328,7 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -309,7 +366,7 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -347,8 +404,8 @@
         "last_seen": "2026-11-10T11:45:35.101201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i3edbb211",
@@ -385,8 +442,8 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -2
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i28a07729",
@@ -426,8 +483,8 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -2
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i695beb6d",
@@ -464,8 +521,8 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -2
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "ife021da2",
@@ -502,46 +559,8 @@
         "last_seen": "2026-11-10T01:42:19.646344+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
-      },
-      {
-        "id": "ie5a2c1ba",
-        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아파트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.08,
-        "peak_score": 73.61,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 43,
-            "title": "강남 아파트 조정왔다고 좋아할 일이 아니죠",
-            "url": "https://www.clien.net/service/board/park/19290102?od=T31&po=0&category=0&groupCd=",
-            "score": 64.61
-          },
-          {
-            "source": "더쿠",
-            "rank": 73,
-            "title": "아파트 공동명의하자고 했더니 남친이 결혼다시 생각하 자는디",
-            "url": "https://theqoo.net/hot/4401145927",
-            "score": 57.42
-          }
-        ],
-        "first_seen": "2026-10-09T19:48:30.742386+09:00",
-        "last_seen": "2026-11-10T09:30:55.856846+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 12,
-        "change": -2
+        "change": -1
       },
       {
         "id": "ie8b793b3",
@@ -579,7 +598,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -617,7 +636,48 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 14,
-        "change": -2
+        "change": 0
+      },
+      {
+        "id": "i683c596f",
+        "title": "전남광주 '초광역특구법 철회' 대통령에 항의 서한",
+        "keywords": [
+          "초광역특구법",
+          "항의",
+          "전남광주",
+          "서한"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.63,
+        "peak_score": 66.16,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 76,
+            "title": "전남광주 '초광역특구법 철회' 대통령에 항의 서한",
+            "url": "https://www.clien.net/service/board/park/19290303?od=T31&po=0&category=0&groupCd=",
+            "score": 58.16
+          },
+          {
+            "source": "인벤",
+            "rank": 98,
+            "title": "전남광주 \"초광역특구법 철회\" 대통령에 항의 서한",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750963",
+            "score": 51.8
+          }
+        ],
+        "first_seen": "2026-11-10T16:44:26.962966+09:00",
+        "last_seen": "2026-11-10T16:44:26.962966+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
       },
       {
         "id": "i24ae49e9",
@@ -654,8 +714,8 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i85bbedd4",
@@ -699,8 +759,8 @@
         "last_seen": "2026-11-10T01:42:19.646344+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -2
+        "rank": 17,
+        "change": -1
       }
     ],
     "weekly": [
@@ -936,7 +996,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "iae6b0123",
@@ -974,7 +1034,53 @@
         "latest_source_count": 2,
         "latest_post_count": 6,
         "rank": 7,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ie5a2c1ba",
+        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아파트"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 103.34,
+        "peak_score": 86.85,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 21,
+            "title": "아파트 공동명의 하자했더니 결혼 다시 생각하자는 남친",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2750970",
+            "score": 69.85
+          },
+          {
+            "source": "더쿠",
+            "rank": 42,
+            "title": "아파트 주차 대수별 체감",
+            "url": "https://theqoo.net/hot/4401668052",
+            "score": 63.05
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "아파트 고점신호",
+            "url": "https://www.clien.net/service/board/park/19290312?od=T31&po=0&category=0&groupCd=",
+            "score": 59.93
+          }
+        ],
+        "first_seen": "2026-10-09T19:48:30.742386+09:00",
+        "last_seen": "2026-11-10T16:44:26.962966+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i4dea1b92",
@@ -1013,7 +1119,7 @@
         "last_seen": "2026-11-09T07:45:48.461214+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -1052,7 +1158,7 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -1090,7 +1196,7 @@
         "last_seen": "2026-11-09T07:45:48.461214+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -1128,7 +1234,7 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -1168,7 +1274,7 @@
         "last_seen": "2026-11-09T11:03:46.924548+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -1206,7 +1312,7 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -1245,7 +1351,7 @@
         "last_seen": "2026-11-09T05:28:35.586230+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -1283,7 +1389,7 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 16,
         "change": -1
       },
       {
@@ -1324,7 +1430,7 @@
         "last_seen": "2026-11-10T05:10:38.847623+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -1362,7 +1468,7 @@
         "last_seen": "2026-11-10T09:30:55.856846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -1400,7 +1506,7 @@
         "last_seen": "2026-11-09T15:16:56.220393+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -1435,46 +1541,6 @@
           }
         ],
         "first_seen": "2026-10-15T14:11:05.910258+09:00",
-        "last_seen": "2026-11-09T07:45:48.461214+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i14d31b7b",
-        "title": "[버거킹] 와퍼 3,900원 (11.9~11.13) 할인행사 하네요!",
-        "keywords": [
-          "버거킹",
-          "와퍼",
-          "900원"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.88,
-        "peak_score": 76.41,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 35,
-            "title": "[버거킹] 와퍼 3,900원 (11.9~11.13) 할인행사 하네요!",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=50858",
-            "score": 68.41
-          },
-          {
-            "source": "클리앙",
-            "rank": 56,
-            "title": "버거킹 올해 마지막 와퍼 할인 3,900원",
-            "url": "https://www.clien.net/service/board/park/19289547?od=T31&po=0&category=0&groupCd=",
-            "score": 60.48
-          }
-        ],
-        "first_seen": "2026-10-27T02:38:46.283937+09:00",
         "last_seen": "2026-11-09T07:45:48.461214+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
