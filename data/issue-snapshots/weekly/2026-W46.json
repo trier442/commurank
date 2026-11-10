@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W46",
   "label": "2026.11.09 ~ 11.15",
-  "collected_at": "2026-11-11T00:58:15.680303+09:00",
+  "collected_at": "2026-11-11T03:08:47.985223+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -168,7 +168,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i54cc5255",
@@ -208,7 +208,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i153ac4c4",
@@ -248,7 +248,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if2b2d16b",
@@ -286,7 +286,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i938836c2",
@@ -325,7 +325,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -363,7 +363,7 @@
       "latest_source_count": 2,
       "latest_post_count": 6,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie5a2c1ba",
@@ -409,7 +409,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4dea1b92",
@@ -449,7 +449,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia3af0886",
@@ -488,7 +488,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i92288094",
@@ -526,7 +526,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 98.04,
+      "peak_score": 86.55,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "특이점이 온 일본의 가슴 사이즈 체크법",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751116",
+          "score": 66.9
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 89,
+          "title": "한국, 경상수지 흑자 일본의 2배…반도체 호황에 격차 확대",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477655&_dcbest=1&page=1",
+          "score": 52.95
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-11-11T03:08:47.985223+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 3
     },
     {
       "id": "i9f5e1ed4",
@@ -563,8 +602,8 @@
       "last_seen": "2026-11-09T07:45:48.461214+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": -2
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "id0f722ca",
@@ -601,8 +640,8 @@
       "last_seen": "2026-11-10T05:10:38.847623+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -2
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "ie742f672",
@@ -641,45 +680,45 @@
       "last_seen": "2026-11-09T11:03:46.924548+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -2
+      "rank": 17,
+      "change": -1
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0febb275",
+      "title": "‘오르는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본에서"
+        "오르는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 96.02,
-      "peak_score": 86.55,
+      "score": 95.43,
+      "peak_score": 85.96,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 6,
-          "title": "일본에서 화제라는 한국음식",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10182780",
-          "score": 77.55
+          "rank": 7,
+          "title": "지금 나스닥 오르는 이유",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=453746",
+          "score": 76.96
         },
         {
-          "source": "디시인사이드",
-          "rank": 75,
-          "title": "싱글벙글 일본에서 난리난 미국 공항에서 끌려가는 스시녀 영상",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477631&_dcbest=1&page=1",
-          "score": 57.72
+          "source": "클리앙",
+          "rank": 85,
+          "title": "미국 물가 오르는 이유는 AI???",
+          "url": "https://www.clien.net/service/board/park/19290482?od=T31&po=0&category=0&groupCd=",
+          "score": 53.79
         }
       ],
-      "first_seen": "2026-10-01T04:25:33.357220+09:00",
-      "last_seen": "2026-11-11T00:58:15.680303+09:00",
+      "first_seen": "2026-11-11T03:08:47.985223+09:00",
+      "last_seen": "2026-11-11T03:08:47.985223+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": "NEW"
     },
     {
@@ -717,8 +756,8 @@
       "last_seen": "2026-11-10T09:30:55.856846+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -3
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "iaae789d8",
@@ -756,46 +795,8 @@
       "last_seen": "2026-11-09T05:28:35.586230+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -3
-    },
-    {
-      "id": "i3edbb211",
-      "title": "‘만드는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "만드는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.83,
-      "peak_score": 78.34,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 40,
-          "title": "싱글벙글 이케아가 설명서를 읽게 만드는 방법",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477400&_dcbest=1&page=1",
-          "score": 65.33
-        },
-        {
-          "source": "루리웹",
-          "rank": 79,
-          "title": "일도 안하는데손님들이 몰려오게 만드는 이달의 우수 직원.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77335765?m=humor_only&t=now",
-          "score": 56.27
-        }
-      ],
-      "first_seen": "2026-11-10T05:10:38.847623+09:00",
-      "last_seen": "2026-11-10T09:30:55.856846+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -3
+      "change": -1
     }
   ]
 }
