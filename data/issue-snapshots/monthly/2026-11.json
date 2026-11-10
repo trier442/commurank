@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-11T03:08:47.985223+09:00",
+  "collected_at": "2026-11-11T06:47:16.588781+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -729,6 +729,86 @@
       "change": 0
     },
     {
+      "id": "i85bc9afd",
+      "title": "‘서울역’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "서울역"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 118.36,
+      "peak_score": 105.43,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "후덜덜 오늘자 서울역 근황.JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477679&_dcbest=1&page=1",
+          "score": 75.41
+        },
+        {
+          "source": "인벤",
+          "rank": 91,
+          "title": "서울역 길거리 음주금지... 노숙인단체 반발",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751095",
+          "score": 51.97
+        }
+      ],
+      "first_seen": "2026-11-01T18:43:20.593439+09:00",
+      "last_seen": "2026-11-11T06:47:16.588781+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 117.99,
+      "peak_score": 103.94,
+      "appearances": 4,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 32,
+          "title": "특이점이 온 일본의 가슴 사이즈 체크법",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751116",
+          "score": 67.06
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 87,
+          "title": "한국, 경상수지 흑자 일본의 2배…반도체 호황에 격차 확대",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477655&_dcbest=1&page=1",
+          "score": 53.22
+        }
+      ],
+      "first_seen": "2026-10-01T04:25:33.357220+09:00",
+      "last_seen": "2026-11-11T06:47:16.588781+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i1e941339",
       "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -764,87 +844,8 @@
       "last_seen": "2026-11-07T15:29:22.585575+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 117.1,
-      "peak_score": 105.61,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "프랑스 최초의 좌우대통합",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77290550?m=humor",
-          "score": 96.61
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "현재 난리난 프랑스 마크롱 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10178212",
-          "score": 83.83
-        }
-      ],
-      "first_seen": "2026-10-08T03:52:22.165654+09:00",
-      "last_seen": "2026-11-06T15:54:47.604214+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "if956ba6b",
-      "title": "‘ai시대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai시대"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 116.95,
-      "peak_score": 105.46,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "알고보면 반대가 된 AI시대 예측",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275189?m=humor",
-          "score": 96.46
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 90,
-          "title": "싱글벙글 AI시대 생겨나는 새로운 진상들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475567&_dcbest=1&page=1",
-          "score": 45.24
-        }
-      ],
-      "first_seen": "2026-11-04T23:34:40.273486+09:00",
-      "last_seen": "2026-11-05T05:55:42.842985+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }
