@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-11T17:23:33.742053+09:00",
+  "collected_at": "2026-11-11T19:40:35.918609+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,69 +11,20 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i2c6cb5dc",
-        "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
-        "keywords": [
-          "세무사",
-          "안경",
-          "같다는",
-          "ai",
-          "시험",
-          "난리났다는",
-          "뚫린것"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 95.39,
-        "peak_score": 95.39,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 5,
-            "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751370",
-            "score": 80.39
-          },
-          {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "현재 AI 안경 뚫린것 같아서 난리났다는 세무사 근황",
-            "url": "https://theqoo.net/hot/4402739887",
-            "score": 74.05
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "현재 AI안경에 뚫린것 같다는 의심으로 난리났다는 세무사 시험 근황.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183584",
-            "score": 58.2
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
         "id": "i6fb7ee77",
         "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
         "keywords": [
-          "마운자로",
-          "국내",
           "반입",
-          "최대",
+          "마운자로",
           "일본서",
+          "최대",
           "12개",
           "허용된다"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 84.55,
-        "peak_score": 84.55,
+        "score": 85.37,
+        "peak_score": 85.37,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -82,63 +33,239 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 28,
-            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-            "url": "https://www.clien.net/service/board/park/19290776?od=T31&po=0&category=0&groupCd=",
-            "score": 69.55
-          },
-          {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 20,
             "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
             "url": "https://theqoo.net/hot/4402822804",
-            "score": 65.84
+            "score": 70.37
+          },
+          {
+            "source": "클리앙",
+            "rank": 82,
+            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+            "url": "https://www.clien.net/service/board/park/19290839?od=T31&po=0&category=0&groupCd=",
+            "score": 54.61
           },
           {
             "source": "루리웹",
-            "rank": 69,
-            "title": "해외에서 구입한 마운자로 국내 반입 허용 ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77351117?m=humor_only&t=now",
-            "score": 58.87
+            "rank": 89,
+            "title": "마운자로 직구 반입 허용됐네",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77352668?m=humor_only&t=now",
+            "score": 52.57
+          }
+        ],
+        "rank": 1,
+        "change": 1
+      },
+      {
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "sns"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.29,
+        "peak_score": 82.29,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 8,
+            "title": "조국 원장 SNS.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183650",
+            "score": 73.29
+          },
+          {
+            "source": "인벤",
+            "rank": 44,
+            "title": "박지원 할배 sns",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2751405",
+            "score": 62.48
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "i4dea1b92",
-        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i9fb6204d",
+        "title": "‘앨리스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엔비디아"
+          "앨리스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.03,
-        "peak_score": 85.03,
+        "score": 81.61,
+        "peak_score": 81.61,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "인벤"
+          "더쿠",
+          "디시인사이드"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 12,
-            "title": "엔비디아 벌써 후임 CEO 거론되는데 좆1된 거 같다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477776&_dcbest=1&page=1",
-            "score": 76.03
+            "rank": 10,
+            "title": "젠슨황 내연녀 앨리스 황 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477825&_dcbest=1&page=1",
+            "score": 72.61
           },
           {
-            "source": "인벤",
-            "rank": 61,
-            "title": "답답했던 엔비디아 주주",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751366",
-            "score": 61.15
+            "source": "더쿠",
+            "rank": 26,
+            "title": "“앨리스 황, 보기만 해도 감전…남자들 영혼까지 끌려갔다”",
+            "url": "https://theqoo.net/hot/4402821355",
+            "score": 68.21
           }
         ],
         "rank": 3,
-        "change": 4
+        "change": "NEW"
+      },
+      {
+        "id": "ie40d832e",
+        "title": "아이돌 준비에 200억'…'중소돌' 살길은?",
+        "keywords": [
+          "아이돌",
+          "중소돌",
+          "200억",
+          "준비에",
+          "살길은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.31,
+        "peak_score": 79.31,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "아이돌 준비에 200억'…'중소돌' 살길은?",
+            "url": "https://www.clien.net/service/board/park/19290844?od=T31&po=0&category=0&groupCd=",
+            "score": 71.31
+          },
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "아이돌 준비에 200억\"…'중소돌' 살길은?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2751412",
+            "score": 66.69
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i492ef5da",
+        "title": "‘나왔습니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "나왔습니다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.49,
+        "peak_score": 78.49,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 22,
+            "title": "양념닭갈비에서 정체를 알 수 없는 플라스틱 이물질이 나왔습니다. 이게 뭘까요?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2751415",
+            "score": 69.49
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "폴드8 광고 신작이 나왔습니다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77352738?m=humor_only&t=now",
+            "score": 56.09
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i242515e8",
+        "title": "[종근당건강몰] 락토핏 코어 360포+30포 (44,190원 / 무배)",
+        "keywords": [
+          "코어",
+          "190원",
+          "락토핏"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.57,
+        "peak_score": 71.57,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 38,
+            "title": "[종근당건강몰] 락토핏 코어 360포+30포 (44,190원 / 무배)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108934",
+            "score": 63.57
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 49,
+            "title": "[종근당건강] 락토핏 코어 60포 6통+코어30포 (44,190원/무료)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=747940",
+            "score": 61.5
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i2c6cb5dc",
+        "title": "‘난리났다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리났다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.68,
+        "peak_score": 70.68,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 48,
+            "title": "현재 다른 의미로 역대급 난리났다는 PC, 플스 상황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477817&_dcbest=1&page=1",
+            "score": 61.68
+          },
+          {
+            "source": "더쿠",
+            "rank": 60,
+            "title": "현재 AI 안경 뚫린것 같아서 난리났다는 세무사 근황",
+            "url": "https://theqoo.net/hot/4402739887",
+            "score": 60.26
+          }
+        ],
+        "rank": 7,
+        "change": -6
       }
     ],
     "daily": [
@@ -276,55 +403,43 @@
       },
       {
         "id": "i2c6cb5dc",
-        "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
+        "title": "‘난리났다는’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사",
-          "안경",
-          "같다는",
-          "ai",
-          "시험",
-          "난리났다는",
-          "뚫린것"
+          "난리났다는"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 109.86,
+        "score": 111.88,
         "peak_score": 95.39,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
+          "디시인사이드",
           "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 5,
-            "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751370",
-            "score": 80.39
+            "source": "디시인사이드",
+            "rank": 48,
+            "title": "현재 다른 의미로 역대급 난리났다는 PC, 플스 상황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477817&_dcbest=1&page=1",
+            "score": 61.68
           },
           {
             "source": "더쿠",
-            "rank": 19,
+            "rank": 60,
             "title": "현재 AI 안경 뚫린것 같아서 난리났다는 세무사 근황",
             "url": "https://theqoo.net/hot/4402739887",
-            "score": 74.05
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "현재 AI안경에 뚫린것 같다는 의심으로 난리났다는 세무사 시험 근황.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183584",
-            "score": 58.2
+            "score": 60.26
           }
         ],
         "first_seen": "2026-10-26T15:51:41.616953+09:00",
-        "last_seen": "2026-11-11T17:23:33.742053+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i9f5e1ed4",
@@ -362,7 +477,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3f5db74d",
@@ -401,7 +516,58 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i6fb7ee77",
+        "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+        "keywords": [
+          "반입",
+          "마운자로",
+          "일본서",
+          "최대",
+          "12개",
+          "허용된다"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 101.86,
+        "peak_score": 85.37,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 20,
+            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+            "url": "https://theqoo.net/hot/4402822804",
+            "score": 70.37
+          },
+          {
+            "source": "클리앙",
+            "rank": 82,
+            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+            "url": "https://www.clien.net/service/board/park/19290839?od=T31&po=0&category=0&groupCd=",
+            "score": 54.61
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "마운자로 직구 반입 허용됐네",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77352668?m=humor_only&t=now",
+            "score": 52.57
+          }
+        ],
+        "first_seen": "2026-09-30T10:38:38.903426+09:00",
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 7,
+        "change": 3
       },
       {
         "id": "ief141ca9",
@@ -439,7 +605,7 @@
         "last_seen": "2026-11-11T08:27:29.523284+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -477,7 +643,7 @@
         "last_seen": "2026-11-11T11:56:49.963572+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -517,60 +683,8 @@
         "last_seen": "2026-11-11T08:27:29.523284+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
-      },
-      {
-        "id": "i6fb7ee77",
-        "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-        "keywords": [
-          "마운자로",
-          "국내",
-          "반입",
-          "최대",
-          "일본서",
-          "12개",
-          "허용된다"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 99.02,
-        "peak_score": 84.55,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 28,
-            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-            "url": "https://www.clien.net/service/board/park/19290776?od=T31&po=0&category=0&groupCd=",
-            "score": 69.55
-          },
-          {
-            "source": "더쿠",
-            "rank": 45,
-            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-            "url": "https://theqoo.net/hot/4402822804",
-            "score": 65.84
-          },
-          {
-            "source": "루리웹",
-            "rank": 69,
-            "title": "해외에서 구입한 마운자로 국내 반입 허용 ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77351117?m=humor_only&t=now",
-            "score": 58.87
-          }
-        ],
-        "first_seen": "2026-09-30T10:38:38.903426+09:00",
-        "last_seen": "2026-11-11T17:23:33.742053+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
         "rank": 10,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i92288094",
@@ -608,7 +722,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -2
+        "change": 0
       },
       {
         "id": "if8b91d71",
@@ -646,7 +760,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 12,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -684,7 +798,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i4dea1b92",
@@ -723,7 +837,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": 6
+        "change": 0
       },
       {
         "id": "i85bc9afd",
@@ -761,7 +875,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -3
+        "change": 0
       },
       {
         "id": "i0febb275",
@@ -799,7 +913,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -3
+        "change": 0
       },
       {
         "id": "ida1c1518",
@@ -837,7 +951,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 17,
-        "change": -3
+        "change": 0
       },
       {
         "id": "i9ccef52d",
@@ -875,83 +989,83 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -3
+        "change": 0
       },
       {
-        "id": "ie5a2c1ba",
-        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아파트"
+          "sns"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.78,
-        "peak_score": 81.31,
+        "score": 91.76,
+        "peak_score": 82.29,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 15,
-            "title": "아파트 가격은 기본적으로 수요 공급이 결정하는데요",
-            "url": "https://www.clien.net/service/board/park/19290618?od=T31&po=0&category=0&groupCd=",
-            "score": 72.31
+            "source": "뽐뿌",
+            "rank": 8,
+            "title": "조국 원장 SNS.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183650",
+            "score": 73.29
           },
           {
             "source": "인벤",
-            "rank": 97,
-            "title": "거래량은 줄었는데 집값 35.5% 폭등…분당 아파트 시장 무슨 일이",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751192",
-            "score": 50.07
+            "rank": 44,
+            "title": "박지원 할배 sns",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2751405",
+            "score": 62.48
           }
         ],
-        "first_seen": "2026-10-09T19:48:30.742386+09:00",
-        "last_seen": "2026-11-11T11:56:49.963572+09:00",
+        "first_seen": "2026-10-03T08:03:19.978953+09:00",
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -3
+        "change": "NEW"
       },
       {
-        "id": "if8890818",
-        "title": "‘jtbc’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i9fb6204d",
+        "title": "‘앨리스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "jtbc"
+          "앨리스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.19,
-        "peak_score": 77.26,
-        "appearances": 3,
+        "score": 91.08,
+        "peak_score": 81.61,
+        "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "클리앙"
+          "더쿠",
+          "디시인사이드"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 77,
-            "title": "'냉장고 온도가 80도까지'…유럽 열받게 한 '해킹' 범인 찾았다 / JTBC 뉴스룸",
-            "url": "https://www.clien.net/service/board/park/19290483?od=T31&po=0&category=0&groupCd=",
-            "score": 56.07
+            "source": "디시인사이드",
+            "rank": 10,
+            "title": "젠슨황 내연녀 앨리스 황 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477825&_dcbest=1&page=1",
+            "score": 72.61
           },
           {
-            "source": "디시인사이드",
-            "rank": 81,
-            "title": "JTBC) 술병에 음주운전 경고문 의무화된다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477673&_dcbest=1&page=1",
-            "score": 55.2
+            "source": "더쿠",
+            "rank": 26,
+            "title": "“앨리스 황, 보기만 해도 감전…남자들 영혼까지 끌려갔다”",
+            "url": "https://theqoo.net/hot/4402821355",
+            "score": 68.21
           }
         ],
-        "first_seen": "2026-10-07T22:16:07.179889+09:00",
-        "last_seen": "2026-11-11T06:47:16.588781+09:00",
+        "first_seen": "2026-11-11T19:40:35.918609+09:00",
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -3
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -1214,6 +1328,46 @@
         "change": 0
       },
       {
+        "id": "i2c6cb5dc",
+        "title": "‘난리났다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리났다는"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 111.88,
+        "peak_score": 95.39,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 48,
+            "title": "현재 다른 의미로 역대급 난리났다는 PC, 플스 상황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477817&_dcbest=1&page=1",
+            "score": 61.68
+          },
+          {
+            "source": "더쿠",
+            "rank": 60,
+            "title": "현재 AI 안경 뚫린것 같아서 난리났다는 세무사 근황",
+            "url": "https://theqoo.net/hot/4402739887",
+            "score": 60.26
+          }
+        ],
+        "first_seen": "2026-10-26T15:51:41.616953+09:00",
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": 2
+      },
+      {
         "id": "i54cc5255",
         "title": "‘마지막’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1250,8 +1404,8 @@
         "last_seen": "2026-11-09T07:45:48.461214+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i153ac4c4",
@@ -1290,60 +1444,8 @@
         "last_seen": "2026-11-10T11:45:35.101201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": 0
-      },
-      {
-        "id": "i2c6cb5dc",
-        "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
-        "keywords": [
-          "세무사",
-          "안경",
-          "같다는",
-          "ai",
-          "시험",
-          "난리났다는",
-          "뚫린것"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 109.86,
-        "peak_score": 95.39,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 5,
-            "title": "현재 AI 안경 뚫린거 같다는 세무사 시험",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751370",
-            "score": 80.39
-          },
-          {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "현재 AI 안경 뚫린것 같아서 난리났다는 세무사 근황",
-            "url": "https://theqoo.net/hot/4402739887",
-            "score": 74.05
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "현재 AI안경에 뚫린것 같다는 의심으로 난리났다는 세무사 시험 근황.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183584",
-            "score": 58.2
-          }
-        ],
-        "first_seen": "2026-10-26T15:51:41.616953+09:00",
-        "last_seen": "2026-11-11T17:23:33.742053+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
         "rank": 9,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -1382,7 +1484,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if2b2d16b",
@@ -1420,7 +1522,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i938836c2",
@@ -1459,7 +1561,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iae6b0123",
@@ -1498,7 +1600,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie5a2c1ba",
@@ -1537,7 +1639,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -1578,7 +1680,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3f5db74d",
@@ -1617,7 +1719,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4dea1b92",
@@ -1658,7 +1760,59 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i6fb7ee77",
+        "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+        "keywords": [
+          "반입",
+          "마운자로",
+          "일본서",
+          "최대",
+          "12개",
+          "허용된다"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 103.3,
+        "peak_score": 85.37,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 20,
+            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+            "url": "https://theqoo.net/hot/4402822804",
+            "score": 70.37
+          },
+          {
+            "source": "클리앙",
+            "rank": 82,
+            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+            "url": "https://www.clien.net/service/board/park/19290839?od=T31&po=0&category=0&groupCd=",
+            "score": 54.61
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "마운자로 직구 반입 허용됐네",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77352668?m=humor_only&t=now",
+            "score": 52.57
+          }
+        ],
+        "first_seen": "2026-09-30T10:38:38.903426+09:00",
+        "last_seen": "2026-11-11T19:40:35.918609+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 18,
+        "change": 1
       },
       {
         "id": "ief141ca9",
@@ -1696,61 +1850,8 @@
         "last_seen": "2026-11-11T08:27:29.523284+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -1
-      },
-      {
-        "id": "i6fb7ee77",
-        "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-        "keywords": [
-          "마운자로",
-          "국내",
-          "반입",
-          "최대",
-          "일본서",
-          "12개",
-          "허용된다"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 101.04,
-        "peak_score": 84.55,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 28,
-            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-            "url": "https://www.clien.net/service/board/park/19290776?od=T31&po=0&category=0&groupCd=",
-            "score": 69.55
-          },
-          {
-            "source": "더쿠",
-            "rank": 45,
-            "title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
-            "url": "https://theqoo.net/hot/4402822804",
-            "score": 65.84
-          },
-          {
-            "source": "루리웹",
-            "rank": 69,
-            "title": "해외에서 구입한 마운자로 국내 반입 허용 ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77351117?m=humor_only&t=now",
-            "score": 58.87
-          }
-        ],
-        "first_seen": "2026-09-30T10:38:38.903426+09:00",
-        "last_seen": "2026-11-11T17:23:33.742053+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
         "rank": 19,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -1790,7 +1891,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": 0
       }
     ],
     "monthly": [
