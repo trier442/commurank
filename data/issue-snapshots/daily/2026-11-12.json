@@ -3,9 +3,85 @@
   "period": "daily",
   "key": "2026-11-12",
   "label": "2026년 11월 12일",
-  "collected_at": "2026-11-12T01:27:38.199309+09:00",
+  "collected_at": "2026-11-12T03:06:26.127837+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i2bf88edf",
+      "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "ai안경"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 106.03,
+      "peak_score": 96.56,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "AI안경 잡아내는 가장 초간단 방법",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183938",
+          "score": 87.56
+        },
+        {
+          "source": "더쿠",
+          "rank": 7,
+          "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
+          "url": "https://theqoo.net/hot/4403288959",
+          "score": 78.0
+        }
+      ],
+      "first_seen": "2026-11-12T03:06:26.127837+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i1fcd34de",
+      "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "세무사"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.47,
+      "peak_score": 87.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 7,
+          "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
+          "url": "https://theqoo.net/hot/4403288959",
+          "score": 78.0
+        },
+        {
+          "source": "루리웹",
+          "rank": 98,
+          "title": "이번 세무사 시험 사건을 식당에 비유하면 어떤 거임?",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77356555?m=humor_only&t=now",
+          "score": 50.38
+        }
+      ],
+      "first_seen": "2026-11-12T03:06:26.127837+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "ic1cc5d7c",
       "title": "‘11번가’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,7 +117,83 @@
       "last_seen": "2026-11-12T01:27:38.199309+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
+      "rank": 3,
+      "change": -2
+    },
+    {
+      "id": "i4029f5d7",
+      "title": "‘박지원’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박지원"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.66,
+      "peak_score": 83.19,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 10,
+          "title": "박지원 \"싸우지말자\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183879",
+          "score": 74.19
+        },
+        {
+          "source": "인벤",
+          "rank": 91,
+          "title": "박지원 강제 시스루 (프로미스나인)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751497",
+          "score": 52.48
+        }
+      ],
+      "first_seen": "2026-11-12T03:06:26.127837+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.0,
+      "peak_score": 81.53,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 12,
+          "title": "[설빙]네이버페이 9900원 이상 결제 50%적립+포켓몬 콜라보(11/12~15)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
+          "score": 72.53
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 39,
+          "title": "[란123] 네이버페이 79원 + 랜덤 포인트 받으세요 (+기타 258원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184090",
+          "score": 63.87
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -79,8 +231,8 @@
       "last_seen": "2026-11-12T01:27:38.199309+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 6,
+      "change": -4
     },
     {
       "id": "i0a785976",
@@ -117,7 +269,85 @@
       "last_seen": "2026-11-12T01:27:38.199309+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "id": "i42c24aa7",
+      "title": "강사 이도 사과문",
+      "keywords": [
+        "강사",
+        "이도",
+        "사과문"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.99,
+      "peak_score": 73.52,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 31,
+          "title": "강사 이도 사과문",
+          "url": "https://www.clien.net/service/board/park/19290989?od=T31&po=0&category=0&groupCd=",
+          "score": 65.52
+        },
+        {
+          "source": "인벤",
+          "rank": 48,
+          "title": "강사 이도 사과문",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751505",
+          "score": 60.82
+        }
+      ],
+      "first_seen": "2026-11-12T03:06:26.127837+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "i86108cb2",
+      "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이벤트"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 77.61,
+      "peak_score": 67.14,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 68,
+          "title": "페이코 11주년 이벤트 110만포인트 마지막날 11개 응모하세요.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108186",
+          "score": 57.14
+        },
+        {
+          "source": "더쿠",
+          "rank": 83,
+          "title": "디즈니의 새로운 마법세계 <헥스: 마녀왕국> 마녀의 초대 시사회 이벤트🔮✨",
+          "url": "https://theqoo.net/hot/4403235891",
+          "score": 53.53
+        }
+      ],
+      "first_seen": "2026-11-12T03:06:26.127837+09:00",
+      "last_seen": "2026-11-12T03:06:26.127837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 9,
       "change": "NEW"
     }
   ]
