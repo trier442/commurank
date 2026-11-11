@@ -2,41 +2,70 @@
   "version": 1,
   "date": "2026-11-11",
   "label": "2026년 11월 11일",
-  "collected_at": "2026-11-11T08:27:29.523284+09:00",
+  "collected_at": "2026-11-11T10:37:41.180808+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘한국민속촌 근황’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ’입니다. 실시간 키워드 상위: #성범죄. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 18,
-    "keywords": 10,
-    "top100_views": 1084031,
-    "top100_comments": 9510
+    "daily_issues": 20,
+    "keywords": 20,
+    "top100_views": 987783,
+    "top100_comments": 9758
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "한국민속촌 근황",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i6d87b2e0"
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+      "text": "3개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i3570b6ac"
     },
     {
       "type": "post",
-      "title": "통풍 그냥 방치하면 안되는 이유",
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77344824?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "2개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#성범죄",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "성범죄"
     }
   ],
   "top_posts": [
+    {
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor",
+      "first_seen": "2026-11-11T10:37:41.180808+09:00",
+      "last_seen": "2026-11-11T10:37:41.180808+09:00",
+      "peak_score": 99.15,
+      "max_views": 12858,
+      "max_likes": 139,
+      "max_comments": 88,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-11": {
+          "max_score": 99.15,
+          "max_views": 12858,
+          "max_likes": 139,
+          "max_comments": 88,
+          "appearances": 1,
+          "last_seen": "2026-11-11T10:37:41.180808+09:00"
+        }
+      },
+      "score": 108.67,
+      "views": 12858,
+      "likes": 139,
+      "comments": 88,
+      "active_days": 1,
+      "change": "NEW"
+    },
     {
       "title": "통풍 그냥 방치하면 안되는 이유",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-11-11T06:47:16.588781+09:00"
         }
       },
-      "score": 106.67,
+      "score": 106.48,
       "views": 12795,
       "likes": 79,
       "comments": 43,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "중국 자동차 360조 적자 기록",
@@ -88,12 +117,12 @@
           "last_seen": "2026-11-11T03:08:47.985223+09:00"
         }
       },
-      "score": 106.51,
+      "score": 106.33,
       "views": 34607,
       "likes": 141,
       "comments": 108,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "한국에서 은근 거품인 생선",
@@ -117,12 +146,12 @@
           "last_seen": "2026-11-11T00:58:15.680303+09:00"
         }
       },
-      "score": 106.15,
+      "score": 105.97,
       "views": 24260,
       "likes": 85,
       "comments": 93,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "요즘 게임 엔딩들 특...JPG",
@@ -146,12 +175,12 @@
           "last_seen": "2026-11-11T03:08:47.985223+09:00"
         }
       },
-      "score": 105.92,
+      "score": 105.74,
       "views": 12626,
       "likes": 99,
       "comments": 54,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "판도겜 할 때 특징.manhwa",
@@ -175,12 +204,12 @@
           "last_seen": "2026-11-11T08:27:29.523284+09:00"
         }
       },
-      "score": 104.67,
+      "score": 104.49,
       "views": 11842,
       "likes": 73,
       "comments": 32,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "젤다 제작진이 야숨을 만들게 된 이유 甲.JPG",
@@ -204,7 +233,7 @@
           "last_seen": "2026-11-11T00:58:15.680303+09:00"
         }
       },
-      "score": 104.6,
+      "score": 104.42,
       "views": 28035,
       "likes": 158,
       "comments": 83,
@@ -233,12 +262,12 @@
           "last_seen": "2026-11-11T08:27:29.523284+09:00"
         }
       },
-      "score": 104.52,
+      "score": 104.34,
       "views": 9587,
       "likes": 59,
       "comments": 32,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "한국민속촌 근황",
@@ -262,12 +291,12 @@
           "last_seen": "2026-11-11T00:58:15.680303+09:00"
         }
       },
-      "score": 104.39,
+      "score": 104.21,
       "views": 34785,
       "likes": 210,
       "comments": 97,
       "active_days": 1,
-      "change": -2
+      "change": -1
     },
     {
       "title": "6시간전에 생굴을 먹었는데",
@@ -291,153 +320,64 @@
           "last_seen": "2026-11-11T08:27:29.523284+09:00"
         }
       },
-      "score": 104.19,
+      "score": 104.01,
       "views": 10853,
       "likes": 108,
       "comments": 40,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "8,90년대생 아재들 덕후로 각성 시킨 애니 둘",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77343889?m=humor",
-      "first_seen": "2026-11-11T03:08:47.985223+09:00",
-      "last_seen": "2026-11-11T03:08:47.985223+09:00",
-      "peak_score": 93.4,
-      "max_views": 14068,
-      "max_likes": 66,
-      "max_comments": 74,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-11": {
-          "max_score": 93.4,
-          "max_views": 14068,
-          "max_likes": 66,
-          "max_comments": 74,
-          "appearances": 1,
-          "last_seen": "2026-11-11T03:08:47.985223+09:00"
-        }
-      },
-      "score": 102.48,
-      "views": 14068,
-      "likes": 66,
-      "comments": 74,
-      "active_days": 1,
-      "change": -3
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "후덜덜 오늘자 서울역 근황.JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477679&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20352,
-      "likes": 99,
-      "comments": 204,
-      "score": 74.25,
-      "change": 0,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 5563,
-      "delta_likes": 23,
-      "delta_comments": 41,
-      "rank_gain": 0,
-      "rising_score": 91.93,
-      "rising_rank": 1,
-      "window_minutes": 100
-    },
-    {
-      "source": "디시인사이드",
-      "title": "'나 외쿡인인데 왜 한쿡 버스 요금 내라함?'",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477683&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16828,
-      "likes": 254,
-      "comments": 265,
-      "score": 78.38,
-      "change": 0,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 4977,
-      "delta_likes": 44,
-      "delta_comments": 71,
-      "rank_gain": 0,
-      "rising_score": 89.9,
-      "rising_rank": 2,
-      "window_minutes": 100
-    },
-    {
       "source": "더쿠",
-      "title": "실시간 심하게 악플 테러 당하고 있는 배우 한수아 인스타...",
-      "url": "https://theqoo.net/hot/4402306245",
-      "category": "연예",
-      "views": 67052,
+      "title": "영크크들 난리난 스레드 고3딸 코트 브랜드 추천글",
+      "url": "https://theqoo.net/hot/4402339623",
+      "category": "유머",
+      "views": 63206,
       "likes": 0,
-      "comments": 396,
-      "score": 84.37,
+      "comments": 780,
+      "score": 66.74,
       "change": 0,
-      "current_rank": 6,
+      "current_rank": 27,
       "new_entry": false,
-      "delta_views": 32617,
+      "delta_views": 45514,
       "delta_likes": 0,
-      "delta_comments": 166,
+      "delta_comments": 553,
       "rank_gain": 0,
-      "rising_score": 88.46,
-      "rising_rank": 3,
-      "window_minutes": 100
+      "rising_score": 91.67,
+      "rising_rank": 1,
+      "window_minutes": 130
     },
     {
       "source": "디시인사이드",
-      "title": "“계집애가 어디서 나대느냐”",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477681&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 18476,
-      "likes": 104,
-      "comments": 141,
-      "score": 71.42,
-      "change": 0,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 5255,
-      "delta_likes": 24,
-      "delta_comments": 26,
-      "rank_gain": 0,
-      "rising_score": 85.59,
-      "rising_rank": 4,
-      "window_minutes": 100
-    },
-    {
-      "source": "클리앙",
-      "title": "[속보/AP] 공화당, 강경모드로 선회. 친트럼프 짐조던 당대표 선출.",
-      "url": "https://www.clien.net/service/board/park/19290504?od=T31&po=0&category=0&groupCd=",
+      "title": "싱글벙글 금쪽이 촬영 거부한 형제들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477705&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 5663,
-      "likes": 0,
-      "comments": 5,
-      "score": 52.09,
-      "change": 0,
-      "current_rank": 94,
+      "views": 10931,
+      "likes": 77,
+      "comments": 186,
+      "score": 64.55,
+      "change": 13,
+      "current_rank": 33,
       "new_entry": false,
-      "delta_views": 2928,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 5,
-      "window_minutes": 100
+      "delta_views": 8841,
+      "delta_likes": 65,
+      "delta_comments": 143,
+      "rank_gain": 13,
+      "rising_score": 88.75,
+      "rising_rank": 2,
+      "window_minutes": 130
     },
     {
       "source": "루리웹",
-      "title": "판도겜 할 때 특징.manhwa",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77345222?m=humor",
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor",
       "category": "이슈",
-      "views": 11842,
-      "likes": 73,
-      "comments": 32,
-      "score": 95.15,
+      "views": 12858,
+      "likes": 139,
+      "comments": 88,
+      "score": 99.15,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -445,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.96,
-      "rising_rank": 6,
-      "window_minutes": 100
+      "rising_score": 83.64,
+      "rising_rank": 3,
+      "window_minutes": 130
     },
     {
       "source": "루리웹",
-      "title": "내향인들의 플러팅",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77344941?m=humor",
+      "title": "'아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346599?m=humor",
       "category": "이슈",
-      "views": 9587,
-      "likes": 59,
-      "comments": 32,
-      "score": 95.0,
+      "views": 11821,
+      "likes": 125,
+      "comments": 88,
+      "score": 94.03,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -465,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.9,
-      "rising_rank": 7,
-      "window_minutes": 100
+      "rising_score": 81.49,
+      "rising_rank": 4,
+      "window_minutes": 130
     },
     {
       "source": "루리웹",
-      "title": "6시간전에 생굴을 먹었는데",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77345383?m=humor",
+      "title": "세상 바뀐거 확 체감되는 요즘 학교 독후감용 도서",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346017?m=humor",
       "category": "이슈",
-      "views": 10853,
-      "likes": 108,
-      "comments": 40,
-      "score": 94.67,
+      "views": 12839,
+      "likes": 99,
+      "comments": 70,
+      "score": 93.64,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -485,52 +425,214 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 8,
-      "window_minutes": 100
+      "rising_score": 81.33,
+      "rising_rank": 5,
+      "window_minutes": 130
+    },
+    {
+      "source": "뽐뿌",
+      "title": "21년만에 바뀐다는 현대 포터 jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982002",
+      "category": "이슈",
+      "views": 20119,
+      "likes": 6,
+      "comments": 105,
+      "score": 89.75,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 79.69,
+      "rising_rank": 6,
+      "window_minutes": 130
+    },
+    {
+      "source": "뽐뿌",
+      "title": "참치에 김 싸먹는다고 면박주는 직장상사 ㄷ..gif",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92238",
+      "category": "연예",
+      "views": 17492,
+      "likes": 0,
+      "comments": 54,
+      "score": 80.28,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.72,
+      "rising_rank": 7,
+      "window_minutes": 130
     },
     {
       "source": "디시인사이드",
-      "title": "우리나라 옛날 아파트들...JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477685&_dcbest=1&page=1",
+      "title": "싱글벙글 가난하면 애낳지 말라는 말에 반박",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477746&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 18470,
-      "likes": 66,
-      "comments": 192,
-      "score": 74.06,
-      "change": 0,
-      "current_rank": 18,
-      "new_entry": false,
-      "delta_views": 5248,
-      "delta_likes": 17,
-      "delta_comments": 31,
+      "views": 10510,
+      "likes": 53,
+      "comments": 81,
+      "score": 79.86,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.15,
-      "rising_rank": 9,
-      "window_minutes": 100
+      "rising_score": 75.54,
+      "rising_rank": 8,
+      "window_minutes": 130
     },
     {
-      "source": "인벤",
-      "title": "미대 출신 케이크 가게 사장님의 실력",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2751115",
+      "source": "더쿠",
+      "title": "고소장 받은 민속촌 '귀신 훈육'...논란 커지자 결국",
+      "url": "https://theqoo.net/hot/4402340885",
       "category": "이슈",
-      "views": 4770,
-      "likes": 14,
-      "comments": 24,
-      "score": 67.67,
+      "views": 49700,
+      "likes": 0,
+      "comments": 618,
+      "score": 63.89,
       "change": 0,
       "current_rank": 35,
       "new_entry": false,
-      "delta_views": 1809,
-      "delta_likes": 9,
-      "delta_comments": 11,
+      "delta_views": 39578,
+      "delta_likes": 0,
+      "delta_comments": 485,
       "rank_gain": 0,
-      "rising_score": 78.21,
+      "rising_score": 75.0,
+      "rising_rank": 9,
+      "window_minutes": 130
+    },
+    {
+      "source": "디시인사이드",
+      "title": "의사 판사급 권력 하이닉스 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477699&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 15274,
+      "likes": 56,
+      "comments": 102,
+      "score": 56.85,
+      "change": 0,
+      "current_rank": 75,
+      "new_entry": false,
+      "delta_views": 9566,
+      "delta_likes": 35,
+      "delta_comments": 60,
+      "rank_gain": 0,
+      "rising_score": 75.0,
       "rising_rank": 10,
-      "window_minutes": 100
+      "window_minutes": 130
     }
   ],
   "issues": [
+    {
+      "id": "i3570b6ac",
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+      "keywords": [
+        "젠슨황",
+        "중국으로",
+        "엔비디아",
+        "10조원",
+        "앨리스황",
+        "밀반입",
+        "ai칩"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 128.62,
+      "peak_score": 114.15,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor",
+          "score": 99.15
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477719&_dcbest=1&page=1",
+          "score": 76.27
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "“젠슨황 연인 앨리스황, 10조원 규모 엔비디아 AI칩 중국으로 밀반입”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751152",
+          "score": 54.99
+        }
+      ],
+      "first_seen": "2026-11-11T10:37:41.180808+09:00",
+      "last_seen": "2026-11-11T10:37:41.180808+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i51bf17e2",
+      "title": "'아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+      "keywords": [
+        "살해",
+        "성범죄",
+        "아들",
+        "사건",
+        "피해자"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 125.5,
+      "peak_score": 110.03,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "'아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346599?m=humor",
+          "score": 94.03
+        },
+        {
+          "source": "더쿠",
+          "rank": 10,
+          "title": "[단독] '아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+          "url": "https://theqoo.net/hot/4402420557",
+          "score": 74.68
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "'10대 여성 살해' 50대, 아들 성범죄 합의 거부하자 범행",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751169",
+          "score": 63.13
+        }
+      ],
+      "first_seen": "2026-11-11T10:37:41.180808+09:00",
+      "last_seen": "2026-11-11T10:37:41.180808+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i6d87b2e0",
       "title": "한국민속촌 근황",
@@ -566,8 +668,8 @@
       "last_seen": "2026-11-11T00:58:15.680303+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i9f5e1ed4",
@@ -604,8 +706,8 @@
       "last_seen": "2026-11-11T08:27:29.523284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 1
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i3f5db74d",
@@ -643,8 +745,8 @@
       "last_seen": "2026-11-11T06:47:16.588781+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": -1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ief141ca9",
@@ -682,8 +784,8 @@
       "last_seen": "2026-11-11T08:27:29.523284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i7b918478",
@@ -722,8 +824,8 @@
       "last_seen": "2026-11-11T08:27:29.523284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i92288094",
@@ -760,8 +862,8 @@
       "last_seen": "2026-11-11T00:58:15.680303+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i01009091",
@@ -798,8 +900,8 @@
       "last_seen": "2026-11-11T08:27:29.523284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i85bc9afd",
@@ -836,58 +938,117 @@
       "last_seen": "2026-11-11T06:47:16.588781+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
+      "rank": 10,
+      "change": -2
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "i0febb275",
-      "title": "‘오르는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i51bf17e2",
+      "title": "'아들 성범죄 사건' 피해자 살해…50대 남성 검거",
       "keywords": [
-        "오르는"
+        "살해",
+        "성범죄",
+        "50대",
+        "아들",
+        "사건",
+        "피해자"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.43,
-      "peak_score": 85.96,
+      "source_count": 3,
+      "post_count": 4,
+      "score": 110.03,
+      "peak_score": 110.03,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "더쿠",
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "지금 나스닥 오르는 이유",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=453746",
-          "score": 76.96
+          "source": "루리웹",
+          "rank": 2,
+          "title": "'아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346599?m=humor",
+          "score": 94.03
         },
         {
-          "source": "클리앙",
-          "rank": 85,
-          "title": "미국 물가 오르는 이유는 AI???",
-          "url": "https://www.clien.net/service/board/park/19290482?od=T31&po=0&category=0&groupCd=",
-          "score": 53.79
+          "source": "더쿠",
+          "rank": 10,
+          "title": "[단독] '아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+          "url": "https://theqoo.net/hot/4402420557",
+          "score": 74.68
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "'10대 여성 살해' 50대, 아들 성범죄 합의 거부하자 범행",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751169",
+          "score": 63.13
         }
       ],
-      "first_seen": "2026-11-11T03:08:47.985223+09:00",
-      "last_seen": "2026-11-11T03:08:47.985223+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
+      "rank": 1,
+      "change": "NEW"
     },
     {
-      "id": "if8890818",
-      "title": "‘jtbc’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i3570b6ac",
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
       "keywords": [
-        "jtbc"
+        "젠슨황",
+        "중국으로",
+        "엔비디아",
+        "10조원",
+        "앨리스황",
+        "밀반입",
+        "ai칩"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 114.15,
+      "peak_score": 114.15,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor",
+          "score": 99.15
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477719&_dcbest=1&page=1",
+          "score": 76.27
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "“젠슨황 연인 앨리스황, 10조원 규모 엔비디아 AI칩 중국으로 밀반입”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751152",
+          "score": 54.99
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "if8b91d71",
+      "title": "‘부동산’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부동산"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.19,
-      "peak_score": 77.26,
-      "appearances": 3,
+      "score": 85.13,
+      "peak_score": 85.13,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -895,324 +1056,339 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 77,
-          "title": "'냉장고 온도가 80도까지'…유럽 열받게 한 '해킹' 범인 찾았다 / JTBC 뉴스룸",
-          "url": "https://www.clien.net/service/board/park/19290483?od=T31&po=0&category=0&groupCd=",
-          "score": 56.07
+          "rank": 8,
+          "title": ".대출 막혔는데,.증여로’ 서울 부동산 물려받은 20대 두 배..",
+          "url": "https://www.clien.net/service/board/park/19290586?od=T31&po=0&category=0&groupCd=",
+          "score": 76.13
         },
         {
           "source": "디시인사이드",
-          "rank": 81,
-          "title": "JTBC) 술병에 음주운전 경고문 의무화된다",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477673&_dcbest=1&page=1",
-          "score": 55.2
-        }
-      ],
-      "first_seen": "2026-10-07T22:16:07.179889+09:00",
-      "last_seen": "2026-11-11T06:47:16.588781+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.37,
-      "peak_score": 93.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 6,
-          "title": "실시간 심하게 악플 테러 당하고 있는 배우 한수아 인스타...",
-          "url": "https://theqoo.net/hot/4402306245",
-          "score": 84.37
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 79,
-          "title": "자욱이 자필편지 인스타 올라옴 ㅠㅠ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477639&_dcbest=1&page=1",
-          "score": 56.11
-        }
-      ],
-      "rank": 1,
-      "change": 1
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.69,
-      "peak_score": 87.69,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 11,
-          "title": "김민석 징계 청원' 접수…\"3자 비밀연합 의혹 제기로 당원 명예 훼손",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751139",
-          "score": 78.69
-        },
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "오늘 대통령이 김민석 대표, 한병도 원내대표랑 만찬을 가지는 군요",
-          "url": "https://www.clien.net/service/board/park/19290527?od=T31&po=0&category=0&groupCd=",
-          "score": 62.0
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "ief141ca9",
-      "title": "한 할아버지가 28년간 돌본 존재....jpg",
-      "keywords": [
-        "28년간",
-        "돌본"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.21,
-      "peak_score": 84.21,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "한 할아버지가 28년간 돌본 존재....jpg",
-          "url": "https://theqoo.net/hot/4402282179",
-          "score": 76.21
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 43,
-          "title": "낭만낭만 다친 암컷 황새를 28년간 돌본 할배와 매년 찾아오는 수컷 황새",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477657&_dcbest=1&page=1",
-          "score": 62.84
+          "rank": 16,
+          "title": "부동산 업자들 디시 부갤 좆같을걸 ㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477731&_dcbest=1&page=1",
+          "score": 71.25
         }
       ],
       "rank": 3,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "id": "i9bab61a3",
-      "title": "삼성이 1조 6천억 들여서 개발한 전세계에서 유일한 기술 근황....jpg",
+      "id": "i5451d6a7",
+      "title": "‘거부하자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "기술",
-        "삼성이"
+        "거부하자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.68,
-      "peak_score": 78.68,
+      "score": 79.0,
+      "peak_score": 79.0,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "루리웹"
+        "인벤"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 27,
-          "title": "삼성이 1조 6천억 들여서 개발한 전세계에서 유일한 기술 근황....jpg",
-          "url": "https://theqoo.net/hot/4402333959",
-          "score": 70.68
+          "rank": 17,
+          "title": "[단독] '10대 여성 살해' 50대, 아들 성범죄 합의 거부하자 범행",
+          "url": "https://theqoo.net/hot/4402433339",
+          "score": 70.0
         },
         {
-          "source": "루리웹",
-          "rank": 36,
-          "title": "삼성이 1조넘게 투자한 기술",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77345838?m=humor_only&t=now",
-          "score": 67.22
+          "source": "인벤",
+          "rank": 39,
+          "title": "'10대 여성 살해' 50대, 아들 성범죄 합의 거부하자 범행",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751169",
+          "score": 63.13
         }
       ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i70fabfeb",
+      "title": "‘거부한’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본의"
+        "거부한"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 69.18,
-      "peak_score": 69.18,
+      "score": 73.55,
+      "peak_score": 73.55,
       "appearances": 1,
       "sources": [
-        "루리웹",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 33,
+          "title": "싱글벙글 금쪽이 촬영 거부한 형제들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477705&_dcbest=1&page=1",
+          "score": 64.55
+        },
+        {
+          "source": "루리웹",
+          "rank": 63,
+          "title": "질문 많은 손님 진료 거부한 미용의사",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346868?m=humor_only&t=now",
+          "score": 58.62
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "ib92b67a5",
+      "title": "고소장 받은 민속촌 '귀신 훈육'...논란 커지자 결국",
+      "keywords": [
+        "결국",
+        "민속촌",
+        "고소장",
+        "받은",
+        "훈육",
+        "커지자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.89,
+      "peak_score": 71.89,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 59,
-          "title": "특이점이 온 일본의 가슴 사이즈 체크법",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751116",
-          "score": 60.18
+          "source": "더쿠",
+          "rank": 35,
+          "title": "고소장 받은 민속촌 '귀신 훈육'...논란 커지자 결국",
+          "url": "https://theqoo.net/hot/4402340885",
+          "score": 63.89
         },
         {
-          "source": "루리웹",
-          "rank": 70,
-          "title": "일본의 한지우(사토시) 성우님 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77345840?m=humor_only&t=now",
-          "score": 57.94
+          "source": "인벤",
+          "rank": 73,
+          "title": "고소장 받은 민속촌 '귀신 훈육'...논란 커지자 결국 [자막뉴스]",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751151",
+          "score": 57.3
         }
-      ],
-      "rank": 5,
-      "change": 1
-    }
-  ],
-  "keywords": [
-    {
-      "keyword": "일본",
-      "score": 98.05,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 14,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 10
-    },
-    {
-      "keyword": "발언",
-      "score": 97.73,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "김민석",
-      "score": 97.65,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 11,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "인스타",
-      "score": 96.61,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": 1
-    },
-    {
-      "keyword": "28년간",
-      "score": 96.5,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [
-        "돌본"
-      ],
-      "rank": 5,
-      "change": -2
-    },
-    {
-      "keyword": "삼성",
-      "score": 93.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 27,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [
-        "기술"
       ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 91.7,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
       ],
-      "aliases": [],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.26,
+      "peak_score": 71.26,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 42,
+          "title": "실시간 심하게 악플 테러 당하고 있는 배우 한수아 인스타...",
+          "url": "https://theqoo.net/hot/4402306245",
+          "score": 62.26
+        },
+        {
+          "source": "루리웹",
+          "rank": 94,
+          "title": "실시간 코믹월드 운영진에 대한 코스어들 반응",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77346781?m=humor_only&t=now",
+          "score": 53.2
+        }
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "만화",
-      "score": 85.16,
-      "post_count": 2,
+      "id": "i96022c62",
+      "title": "삼성이 1조 6천억 들여서 개발한 전세계에서 유일한 기술 근황",
+      "keywords": [
+        "들여서",
+        "6천억",
+        "삼성이",
+        "개발한",
+        "기술",
+        "전세계에서",
+        "유일한"
+      ],
       "source_count": 2,
-      "best_rank": 54,
+      "post_count": 2,
+      "score": 69.34,
+      "peak_score": 69.34,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 49,
+          "title": "삼성이 1조 6천억 들여서 개발한 전세계에서 유일한 기술 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751156",
+          "score": 61.34
+        },
+        {
+          "source": "더쿠",
+          "rank": 69,
+          "title": "삼성이 1조 6천억 들여서 개발한 전세계에서 유일한 기술 근황....jpg",
+          "url": "https://theqoo.net/hot/4402333959",
+          "score": 57.58
+        }
+      ],
+      "rank": 8,
+      "change": "NEW"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "성범죄",
+      "score": 141.59,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "50대",
+        "살해",
+        "아들"
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "중국",
+      "score": 135.9,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 1,
       "sources": [
         "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": -2
+      "rank": 2,
+      "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 77.48,
+      "keyword": "10조원",
+      "score": 132.03,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "엔비디아",
+        "젠슨황"
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "남성",
+      "score": 129.19,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "여성",
+      "score": 124.6,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 17,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "결국",
+      "score": 113.59,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 35,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "피해자",
+      "score": 110.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 72,
+      "best_rank": 2,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [
+        "검거",
+        "사건"
+      ],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "부동산",
+      "score": 104.19,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 8,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "서울",
+      "score": 100.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 8,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -1222,67 +1398,151 @@
       "change": "NEW"
     },
     {
-      "keyword": "jtbc",
-      "score": 62.04,
+      "keyword": "브라질",
+      "score": 98.98,
       "post_count": 3,
-      "source_count": 1,
-      "best_rank": 78,
+      "source_count": 2,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "받은",
+      "score": 96.47,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "거부하자",
+      "score": 95.21,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "10대",
+        "범행",
+        "합의"
+      ],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "앨리스황",
+      "score": 94.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "ai칩",
+        "밀반입",
+        "연인"
+      ],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "거부한",
+      "score": 87.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 33,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "고소장",
+      "score": 86.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 35,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "귀신",
+        "민속촌",
+        "커지자",
+        "훈육"
+      ],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "판도겜 할 때 특징.manhwa",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77345222?m=humor",
-      "score": 95.15,
-      "views": 11842,
-      "comments": 32
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ) 겨울철 따뜻한 국가로 여행 가는 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2751135",
-      "score": 85.39,
-      "views": 3453,
-      "comments": 19
-    },
-    {
-      "source": "더쿠",
-      "title": "실시간 심하게 악플 테러 당하고 있는 배우 한수아 인스타...",
-      "url": "https://theqoo.net/hot/4402306245",
-      "score": 84.37,
-      "views": 67052,
-      "comments": 396
-    },
-    {
-      "source": "뽐뿌",
-      "title": "남자 의사때문에 병원 7곳 다닌 무슬림 부부 ㄷㄷ.gif",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183057",
-      "score": 82.66,
-      "views": 10956,
-      "comments": 26
-    },
-    {
-      "source": "디시인사이드",
-      "title": "ㅅㄱㅂㄱ 말한마디로 8천만원빚 용서",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477701&_dcbest=1&page=1",
-      "score": 78.86,
-      "views": 16678,
+      "title": "젠슨황 내연녀, 10조원 어치 엔비디아 칩 중국으로 반입한것으로 확인 ㄷㄷ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77346511?m=humor",
+      "score": 99.15,
+      "views": 12858,
       "comments": 88
     },
     {
+      "source": "뽐뿌",
+      "title": "21년만에 바뀐다는 현대 포터 jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982002",
+      "score": 89.75,
+      "views": 20119,
+      "comments": 105
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 가난하면 애낳지 말라는 말에 반박",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477746&_dcbest=1&page=1",
+      "score": 79.86,
+      "views": 10510,
+      "comments": 81
+    },
+    {
       "source": "클리앙",
-      "title": "李 '힘세면 버티면 되나..법이 뭐 상관있냐 생각할 수 있어'",
-      "url": "https://www.clien.net/service/board/park/19290516?od=T31&po=0&category=0&groupCd=",
-      "score": 66.75,
-      "views": 1418,
-      "comments": 11
+      "title": ".대출 막혔는데,.증여로’ 서울 부동산 물려받은 20대 두 배..",
+      "url": "https://www.clien.net/service/board/park/19290586?od=T31&po=0&category=0&groupCd=",
+      "score": 76.13,
+      "views": 846,
+      "comments": 8
+    },
+    {
+      "source": "더쿠",
+      "title": "[단독] '아들 성범죄 사건' 피해자 살해…50대 남성 검거",
+      "url": "https://theqoo.net/hot/4402420557",
+      "score": 74.68,
+      "views": 20543,
+      "comments": 596
+    },
+    {
+      "source": "인벤",
+      "title": "브라질에서 총격전 벌인 한국인",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2751166",
+      "score": 73.33,
+      "views": 2034,
+      "comments": 27
     }
   ]
 }
