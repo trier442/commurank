@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-15",
   "label": "2026년 11월 15일",
-  "collected_at": "2026-11-15T00:15:10.603905+09:00",
+  "collected_at": "2026-11-15T01:57:16.415403+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -42,7 +42,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i636308b4",
@@ -98,7 +98,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1faf5b45",
@@ -144,7 +144,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i567efd17",
@@ -190,7 +190,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i52561f54",
@@ -200,35 +200,36 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.55,
+      "score": 97.57,
       "peak_score": 86.08,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 16,
           "title": "싱글벙글 한국서 일하는 일본인이 느끼는 한국인특징..",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478673&_dcbest=1&page=1",
-          "score": 77.08
+          "score": 69.1
         },
         {
-          "source": "루리웹",
-          "rank": 62,
-          "title": "이탈리아인이 한국에 살면서 느끼는 불편한 점",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77389586?m=humor_only&t=now",
-          "score": 58.62
+          "source": "뽐뿌",
+          "rank": 57,
+          "title": "중학교 엄마들 모임에서 있었던 일, 제가 불편하게 느끼는 게 과한 걸까요?",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=238205",
+          "score": 59.12
         }
       ],
       "first_seen": "2026-11-15T00:15:10.603905+09:00",
-      "last_seen": "2026-11-15T00:15:10.603905+09:00",
+      "last_seen": "2026-11-15T01:57:16.415403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i6a048271",
@@ -266,6 +267,44 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
+      "change": 0
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.86,
+      "peak_score": 76.39,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "2030이 반민주당으로 바뀌는걸 어떻게 막아야 할까요",
+          "url": "https://www.clien.net/service/board/park/19292430?od=T31&po=0&category=0&groupCd=",
+          "score": 67.39
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 71,
+          "title": "여러분은 스트레스 받을 때 어떻게 푸세요?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=daily_life&no=24624",
+          "score": 57.29
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-11-15T01:57:16.415403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -276,9 +315,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 80.77,
+      "score": 82.79,
       "peak_score": 70.3,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -286,25 +325,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 56,
+          "rank": 88,
           "title": "후방 ㅡ 민한나 인스타",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752606",
-          "score": 60.3
+          "score": 52.53
         },
         {
           "source": "디시인사이드",
-          "rank": 68,
+          "rank": 95,
           "title": "싱글벙글 인스타 중국집",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478679&_dcbest=1&page=1",
-          "score": 56.73
+          "score": 50.92
         }
       ],
       "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-11-15T00:15:10.603905+09:00",
+      "last_seen": "2026-11-15T01:57:16.415403+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 7,
-      "change": "NEW"
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i1fcd34de",
@@ -341,8 +380,8 @@
       "last_seen": "2026-11-15T00:15:10.603905+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": -4
+      "rank": 9,
+      "change": -1
     }
   ]
 }
