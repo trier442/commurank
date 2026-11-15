@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-15T13:52:47.987919+09:00",
+  "collected_at": "2026-11-15T16:54:11.117299+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -16,41 +16,117 @@
         "keywords": [
           "세무사"
         ],
-        "source_count": 3,
-        "post_count": 7,
-        "score": 95.31,
-        "peak_score": 95.31,
+        "source_count": 4,
+        "post_count": 5,
+        "score": 104.52,
+        "peak_score": 104.52,
         "appearances": 1,
         "sources": [
-          "더쿠",
           "디시인사이드",
-          "인벤"
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "세무사 시험 2등한게 자랑임",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10188136",
+            "score": 78.52
+          },
+          {
+            "source": "클리앙",
+            "rank": 24,
+            "title": "세무사 수석, '이번 수능 AI커닝 생각도 말라!'",
+            "url": "https://www.clien.net/service/board/park/19292707?od=T31&po=0&category=0&groupCd=",
+            "score": 68.86
+          },
+          {
+            "source": "인벤",
+            "rank": 37,
+            "title": "[빠른 요약] 세무사 수석 범행 수법, 자수 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752752",
+            "score": 64.27
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 77,
+            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
+            "score": 56.64
+          }
+        ],
+        "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i2bf88edf",
+        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ai안경"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 80.39,
+        "peak_score": 80.39,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 8,
-            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
-            "score": 76.31
+            "rank": 20,
+            "title": "이번에 AI안경 써봤는데 ㄹㅇ 말 안되네 ㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478849&_dcbest=1&page=1",
+            "score": 70.39
           },
           {
+            "source": "루리웹",
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "id699e72a",
+        "title": "‘mma’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "mma"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 72.58,
+        "peak_score": 72.58,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
             "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "rank": 42,
+            "title": "팝가수들 따라해서 말 조금씩 나오는 MMA 예나, 라이즈",
+            "url": "https://theqoo.net/hot/4406726152",
+            "score": 62.58
           },
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "세무사 수석들 필기 노트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752715",
-            "score": 63.06
+            "rank": 60,
+            "title": "mma 수상 목록 리센느",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752755",
+            "score": 60.25
           }
         ],
-        "rank": 1,
-        "change": 1
+        "rank": 3,
+        "change": "NEW"
       },
       {
         "id": "ib31b3615",
@@ -58,124 +134,44 @@
         "keywords": [
           "세무냥이"
         ],
-        "source_count": 3,
-        "post_count": 6,
-        "score": 89.6,
-        "peak_score": 89.6,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.63,
+        "peak_score": 85.63,
         "appearances": 1,
         "sources": [
-          "더쿠",
           "디시인사이드",
           "루리웹"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "세무냥이) 상상과 현실",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393755?m=humor_only&t=now",
-            "score": 70.6
-          },
-          {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
-          },
-          {
             "source": "디시인사이드",
-            "rank": 78,
-            "title": "싱글벙글 의외로 정직했던 세무냥이...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478788&_dcbest=1&page=1",
-            "score": 57.89
-          }
-        ],
-        "rank": 2,
-        "change": 1
-      },
-      {
-        "id": "i30b66e0d",
-        "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-        "keywords": [
-          "세무사",
-          "세무냥이",
-          "부정행위",
-          "합격자",
-          "수석"
-        ],
-        "source_count": 2,
-        "post_count": 5,
-        "score": 76.37,
-        "peak_score": 76.37,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "rank": 8,
+            "title": "그럼에도 세무냥이 욕하는게 열등감 덩어리인 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478864&_dcbest=1&page=1",
+            "score": 76.63
           },
           {
             "source": "루리웹",
-            "rank": 61,
-            "title": "세무냥이 부정행위 저지르게된 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393698?m=humor_only&t=now",
-            "score": 61.06
-          }
-        ],
-        "rank": 3,
-        "change": -2
-      },
-      {
-        "id": "ic1e312ba",
-        "title": "산업인력공단 “자백 영상만으로는 세무냥 부정행위라 볼 수 없어”",
-        "keywords": [
-          "산업인력공단"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.81,
-        "peak_score": 88.81,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 6,
-            "title": "산업인력공단 “자백 영상만으로는 세무냥 부정행위라 볼 수 없어”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478817&_dcbest=1&page=1",
-            "score": 80.81
-          },
-          {
-            "source": "더쿠",
-            "rank": 64,
-            "title": "산업인력공단 : 자백영상만으로 부정행위 단정 어렵다.gisa",
-            "url": "https://theqoo.net/hot/4406719518",
-            "score": 60.84
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
           }
         ],
         "rank": 4,
-        "change": "NEW"
+        "change": -2
       },
       {
-        "id": "i5f469d21",
-        "title": "‘공무원’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i30b66e0d",
+        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "공무원"
+          "부정행위"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.71,
-        "peak_score": 78.71,
+        "score": 79.49,
+        "peak_score": 79.49,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -183,142 +179,70 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 23,
-            "title": "공무원 7,9급 공부해서 붙는게 바보였구나",
-            "url": "https://theqoo.net/hot/4406643910",
-            "score": 69.71
+            "source": "클리앙",
+            "rank": 19,
+            "title": "[속보] 靑 '국가자격시험 전체 AI 활용 부정행위 의심사례 전수조사'",
+            "url": "https://www.clien.net/service/board/park/19292710?od=T31&po=0&category=0&groupCd=",
+            "score": 70.49
           },
           {
-            "source": "클리앙",
-            "rank": 76,
-            "title": "제주도 9급 공무원 전산직 시험 ai 안경 의혹나네요",
-            "url": "https://www.clien.net/service/board/park/19292636?od=T31&po=0&category=0&groupCd=",
-            "score": 59.09
+            "source": "더쿠",
+            "rank": 48,
+            "title": "인도는 부정행위 못하게 빤스만 입고 시험봄",
+            "url": "https://theqoo.net/hot/4406859697",
+            "score": 61.53
           }
         ],
         "rank": 5,
-        "change": "NEW"
+        "change": -2
       },
       {
-        "id": "if4949e9f",
-        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2af08ac5",
+        "title": "‘역대급’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "만점자"
+          "역대급"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.12,
-        "peak_score": 72.12,
+        "score": 75.94,
+        "peak_score": 75.94,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 48,
-            "title": "세무사 만점자 자수.. 논란의 세무냥 부정행위 저지른 원인.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478781&_dcbest=1&page=1",
-            "score": 63.12
-          },
-          {
-            "source": "더쿠",
-            "rank": 72,
-            "title": "수능국어로 증명하겠다던 리트 만점자 시험지 의심 정황",
-            "url": "https://theqoo.net/hot/4406573547",
-            "score": 60.05
-          }
-        ],
-        "rank": 6,
-        "change": 0
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국만’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국만"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.39,
-        "peak_score": 71.39,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 53,
-            "title": "gta6 한중일 중 한국만 무삭제?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752717",
-            "score": 62.39
+            "rank": 29,
+            "title": "‘고척돔 역대급 메가 텅텅콘서트’ 결국 회사서 잘렸는데…임원은 5억 달라 소송까지 냈다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752770",
+            "score": 66.94
           },
           {
-            "source": "클리앙",
-            "rank": 85,
-            "title": "'한국만 FSD 뒤처진다는 진짜 이유.. 국토부 제발 옳은 결정을 해주세요.'",
-            "url": "https://www.clien.net/service/board/park/19292622?od=T31&po=0&category=0&groupCd=",
-            "score": 56.03
+            "source": "디시인사이드",
+            "rank": 72,
+            "title": "실시간 UFC 역대급 ai 치팅....",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478847&_dcbest=1&page=1",
+            "score": 57.71
           }
         ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "ifd35d16a",
-        "title": "‘해주세요’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "해주세요"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 65.38,
-        "peak_score": 65.38,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 84,
-            "title": "'공깃밥보다 싸다' 배추 한 포기 1000원…\"제발 김장 좀 해주세요\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393724?m=humor_only&t=now",
-            "score": 56.38
-          },
-          {
-            "source": "클리앙",
-            "rank": 85,
-            "title": "'한국만 FSD 뒤처진다는 진짜 이유.. 국토부 제발 옳은 결정을 해주세요.'",
-            "url": "https://www.clien.net/service/board/park/19292622?od=T31&po=0&category=0&groupCd=",
-            "score": 56.03
-          }
-        ],
-        "rank": 8,
+        "rank": 6,
         "change": "NEW"
       }
     ],
     "daily": [
       {
         "id": "i30b66e0d",
-        "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
+        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사",
-          "세무냥이",
-          "부정행위",
-          "합격자",
-          "수석"
+          "부정행위"
         ],
         "source_count": 6,
         "post_count": 9,
-        "score": 155.33,
+        "score": 156.77,
         "peak_score": 121.84,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -329,24 +253,24 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 19,
+            "title": "[속보] 靑 '국가자격시험 전체 AI 활용 부정행위 의심사례 전수조사'",
+            "url": "https://www.clien.net/service/board/park/19292710?od=T31&po=0&category=0&groupCd=",
+            "score": 70.49
           },
           {
-            "source": "루리웹",
-            "rank": 61,
-            "title": "세무냥이 부정행위 저지르게된 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393698?m=humor_only&t=now",
-            "score": 61.06
+            "source": "더쿠",
+            "rank": 48,
+            "title": "인도는 부정행위 못하게 빤스만 입고 시험봄",
+            "url": "https://theqoo.net/hot/4406859697",
+            "score": 61.53
           }
         ],
         "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 5,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -358,9 +282,9 @@
         ],
         "source_count": 5,
         "post_count": 9,
-        "score": 149.77,
+        "score": 150.89,
         "peak_score": 118.84,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -370,31 +294,38 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 8,
-            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
-            "score": 76.31
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "세무사 시험 2등한게 자랑임",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10188136",
+            "score": 78.52
           },
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 24,
+            "title": "세무사 수석, '이번 수능 AI커닝 생각도 말라!'",
+            "url": "https://www.clien.net/service/board/park/19292707?od=T31&po=0&category=0&groupCd=",
+            "score": 68.86
           },
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "세무사 수석들 필기 노트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752715",
-            "score": 63.06
+            "rank": 37,
+            "title": "[빠른 요약] 세무사 수석 범행 수법, 자수 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752752",
+            "score": 64.27
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 77,
+            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
+            "score": 56.64
           }
         ],
         "first_seen": "2026-11-12T03:06:26.127837+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 7,
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 2,
         "change": 0
       },
@@ -406,9 +337,9 @@
         ],
         "source_count": 3,
         "post_count": 6,
-        "score": 124.33,
+        "score": 125.77,
         "peak_score": 104.84,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -417,31 +348,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "세무냥이) 상상과 현실",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393755?m=humor_only&t=now",
-            "score": 70.6
-          },
-          {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
-          },
-          {
             "source": "디시인사이드",
-            "rank": 78,
-            "title": "싱글벙글 의외로 정직했던 세무냥이...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478788&_dcbest=1&page=1",
-            "score": 57.89
+            "rank": 8,
+            "title": "그럼에도 세무냥이 욕하는게 열등감 덩어리인 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478864&_dcbest=1&page=1",
+            "score": 76.63
+          },
+          {
+            "source": "루리웹",
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
           }
         ],
         "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 6,
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
@@ -701,7 +625,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i567efd17",
@@ -741,7 +665,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i34514000",
@@ -856,7 +780,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "if7637c69",
@@ -896,7 +820,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7069ff01",
@@ -942,7 +866,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i153ac4c4",
@@ -988,7 +912,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i6a048271",
@@ -1028,7 +952,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ib92d7d28",
@@ -1066,7 +990,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i413e3524",
@@ -1105,7 +1029,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i9898b86f",
@@ -1146,7 +1070,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "weekly": [
@@ -1208,9 +1132,9 @@
         ],
         "source_count": 5,
         "post_count": 9,
-        "score": 156.7,
+        "score": 157.01,
         "peak_score": 118.84,
-        "appearances": 15,
+        "appearances": 16,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1221,49 +1145,52 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 8,
-            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
-            "score": 76.31
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "세무사 시험 2등한게 자랑임",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10188136",
+            "score": 78.52
           },
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 24,
+            "title": "세무사 수석, '이번 수능 AI커닝 생각도 말라!'",
+            "url": "https://www.clien.net/service/board/park/19292707?od=T31&po=0&category=0&groupCd=",
+            "score": 68.86
           },
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "세무사 수석들 필기 노트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752715",
-            "score": 63.06
+            "rank": 37,
+            "title": "[빠른 요약] 세무사 수석 범행 수법, 자수 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752752",
+            "score": 64.27
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 77,
+            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
+            "score": 56.64
           }
         ],
         "first_seen": "2026-11-12T03:06:26.127837+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 7,
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 2,
         "change": 0
       },
       {
         "id": "i30b66e0d",
-        "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
+        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사",
-          "세무냥이",
-          "부정행위",
-          "합격자",
-          "수석"
+          "부정행위"
         ],
         "source_count": 6,
         "post_count": 9,
-        "score": 155.33,
+        "score": 156.77,
         "peak_score": 121.84,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1274,24 +1201,24 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 19,
+            "title": "[속보] 靑 '국가자격시험 전체 AI 활용 부정행위 의심사례 전수조사'",
+            "url": "https://www.clien.net/service/board/park/19292710?od=T31&po=0&category=0&groupCd=",
+            "score": 70.49
           },
           {
-            "source": "루리웹",
-            "rank": 61,
-            "title": "세무냥이 부정행위 저지르게된 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393698?m=humor_only&t=now",
-            "score": 61.06
+            "source": "더쿠",
+            "rank": 48,
+            "title": "인도는 부정행위 못하게 빤스만 입고 시험봄",
+            "url": "https://theqoo.net/hot/4406859697",
+            "score": 61.53
           }
         ],
         "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 5,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
@@ -1534,6 +1461,46 @@
         "change": 0
       },
       {
+        "id": "ib31b3615",
+        "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "세무냥이"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 125.77,
+        "peak_score": 104.84,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "그럼에도 세무냥이 욕하는게 열등감 덩어리인 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478864&_dcbest=1&page=1",
+            "score": 76.63
+          },
+          {
+            "source": "루리웹",
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
+          }
+        ],
+        "first_seen": "2026-11-15T10:07:26.357077+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": 1
+      },
+      {
         "id": "i5572e997",
         "title": "고경표 음주운전으로 개망한 프로그램",
         "keywords": [
@@ -1571,55 +1538,8 @@
         "last_seen": "2026-11-15T08:53:37.467352+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
-      },
-      {
-        "id": "ib31b3615",
-        "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "세무냥이"
-        ],
-        "source_count": 3,
-        "post_count": 6,
-        "score": 124.33,
-        "peak_score": 104.84,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "세무냥이) 상상과 현실",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393755?m=humor_only&t=now",
-            "score": 70.6
-          },
-          {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 78,
-            "title": "싱글벙글 의외로 정직했던 세무냥이...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478788&_dcbest=1&page=1",
-            "score": 57.89
-          }
-        ],
-        "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 6,
         "rank": 10,
-        "change": 3
+        "change": -1
       },
       {
         "id": "i4424f79f",
@@ -1667,7 +1587,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibb35f05f",
@@ -1709,7 +1629,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3a1e7440",
@@ -1758,7 +1678,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i91f13db9",
@@ -1799,6 +1719,47 @@
         "change": 0
       },
       {
+        "id": "i2bf88edf",
+        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ai안경"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 117.52,
+        "peak_score": 96.56,
+        "appearances": 5,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 20,
+            "title": "이번에 AI안경 써봤는데 ㄹㅇ 말 안되네 ㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478849&_dcbest=1&page=1",
+            "score": 70.39
+          },
+          {
+            "source": "루리웹",
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
+          }
+        ],
+        "first_seen": "2026-11-12T03:06:26.127837+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 15,
+        "change": 1
+      },
+      {
         "id": "i2272efa7",
         "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1834,49 +1795,8 @@
         "last_seen": "2026-11-13T16:29:36.640828+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
-      },
-      {
-        "id": "i2bf88edf",
-        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "ai안경"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 116.61,
-        "peak_score": 96.56,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 71,
-            "title": "AI안경 쓰고 풀었더니 세무사 시험 90점",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=25967",
-            "score": 57.78
-          },
-          {
-            "source": "인벤",
-            "rank": 99,
-            "title": "AI안경 주작 의심이 드는 방송",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752477",
-            "score": 51.49
-          }
-        ],
-        "first_seen": "2026-11-12T03:06:26.127837+09:00",
-        "last_seen": "2026-11-14T17:22:25.150520+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 16,
-        "change": 0
+        "change": -1
       },
       {
         "id": "ic0d6e88d",
@@ -2112,9 +2032,9 @@
         ],
         "source_count": 5,
         "post_count": 9,
-        "score": 156.7,
+        "score": 157.01,
         "peak_score": 118.84,
-        "appearances": 15,
+        "appearances": 16,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2125,49 +2045,52 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 8,
-            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
-            "score": 76.31
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "세무사 시험 2등한게 자랑임",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10188136",
+            "score": 78.52
           },
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 24,
+            "title": "세무사 수석, '이번 수능 AI커닝 생각도 말라!'",
+            "url": "https://www.clien.net/service/board/park/19292707?od=T31&po=0&category=0&groupCd=",
+            "score": 68.86
           },
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "세무사 수석들 필기 노트",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752715",
-            "score": 63.06
+            "rank": 37,
+            "title": "[빠른 요약] 세무사 수석 범행 수법, 자수 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752752",
+            "score": 64.27
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 77,
+            "title": "싱글벙글 미안함을 느꼈다는 세무사 수석(였던것)",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478825&_dcbest=1&page=1",
+            "score": 56.64
           }
         ],
         "first_seen": "2026-11-12T03:06:26.127837+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 7,
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 2,
         "change": 0
       },
       {
         "id": "i30b66e0d",
-        "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
+        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사",
-          "세무냥이",
-          "부정행위",
-          "합격자",
-          "수석"
+          "부정행위"
         ],
         "source_count": 6,
         "post_count": 9,
-        "score": 155.33,
+        "score": 156.77,
         "peak_score": 121.84,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2178,24 +2101,24 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
+            "source": "클리앙",
+            "rank": 19,
+            "title": "[속보] 靑 '국가자격시험 전체 AI 활용 부정행위 의심사례 전수조사'",
+            "url": "https://www.clien.net/service/board/park/19292710?od=T31&po=0&category=0&groupCd=",
+            "score": 70.49
           },
           {
-            "source": "루리웹",
-            "rank": 61,
-            "title": "세무냥이 부정행위 저지르게된 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393698?m=humor_only&t=now",
-            "score": 61.06
+            "source": "더쿠",
+            "rank": 48,
+            "title": "인도는 부정행위 못하게 빤스만 입고 시험봄",
+            "url": "https://theqoo.net/hot/4406859697",
+            "score": 61.53
           }
         ],
         "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 5,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
@@ -2734,6 +2657,46 @@
         "change": 0
       },
       {
+        "id": "ib31b3615",
+        "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "세무냥이"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 125.77,
+        "peak_score": 104.84,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "그럼에도 세무냥이 욕하는게 열등감 덩어리인 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478864&_dcbest=1&page=1",
+            "score": 76.63
+          },
+          {
+            "source": "루리웹",
+            "rank": 45,
+            "title": "세무냥이) ai안경 사태 보고 여자만 유리하다 보는 에타인",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77397960?m=humor_only&t=now",
+            "score": 62.04
+          }
+        ],
+        "first_seen": "2026-11-15T10:07:26.357077+09:00",
+        "last_seen": "2026-11-15T16:54:11.117299+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": 2
+      },
+      {
         "id": "ib6978d90",
         "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2772,8 +2735,8 @@
         "last_seen": "2026-11-09T01:08:35.710493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5572e997",
@@ -2813,55 +2776,8 @@
         "last_seen": "2026-11-15T08:53:37.467352+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "ib31b3615",
-        "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "세무냥이"
-        ],
-        "source_count": 3,
-        "post_count": 6,
-        "score": 124.33,
-        "peak_score": 104.84,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "세무냥이) 상상과 현실",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77393755?m=humor_only&t=now",
-            "score": 70.6
-          },
-          {
-            "source": "더쿠",
-            "rank": 40,
-            "title": "세무냥이 (세무사 수석합격자) : 내가 다 꼰지를거임. 수능 부정행위 할 생각마셈.jpg",
-            "url": "https://theqoo.net/hot/4406651029",
-            "score": 65.37
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 78,
-            "title": "싱글벙글 의외로 정직했던 세무냥이...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478788&_dcbest=1&page=1",
-            "score": 57.89
-          }
-        ],
-        "first_seen": "2026-11-15T10:07:26.357077+09:00",
-        "last_seen": "2026-11-15T13:52:47.987919+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 6,
         "rank": 18,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ibb35f05f",
@@ -2903,7 +2819,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7f48cc7a",
@@ -2951,7 +2867,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
