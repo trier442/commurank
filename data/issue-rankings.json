@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-16T09:25:03.319201+09:00",
+  "collected_at": "2026-11-16T11:55:35.868276+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,127 @@
   "rankings": {
     "realtime": [
       {
-        "id": "if4949e9f",
-        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "만점자"
+          "민주당"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 102.6,
+        "peak_score": 102.6,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "김민석 이사람은 민주당 역사 중에 최대 빌런이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189275",
+            "score": 85.6
+          },
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "오늘부로 이재명과 민주당 지지를 완전히 거둡니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752974",
+            "score": 70.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "총선결과는 민주당 승 예상합니다",
+            "url": "https://www.clien.net/service/board/park/19293077?od=T31&po=0&category=0&groupCd=",
+            "score": 63.02
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
         ],
         "source_count": 2,
-        "post_count": 6,
-        "score": 91.37,
-        "peak_score": 91.37,
+        "post_count": 4,
+        "score": 91.84,
+        "peak_score": 91.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 교육부장관 해결방안ㅋㅋㅋ",
+            "url": "https://theqoo.net/hot/4407837027",
+            "score": 80.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 27,
+            "title": "와들와들 실시간 재평가 받고 있는 유튜버.JPG",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479038&_dcbest=1&page=1",
+            "score": 70.5
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.57,
+        "peak_score": 82.57,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 12,
+            "title": "[요기요/배달의민족] 네이버페이 결제 랜덤 할인 쿠폰 (11/16~30)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109065",
+            "score": 73.57
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 17,
+            "title": "[네이버페이] 삼성전자 갤럭시, 메리츠화재 30원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120786",
+            "score": 72.18
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "id99cf9ee",
+        "title": "[속보] 교육부 '수능 연기 계획 없다",
+        "keywords": [
+          "수능",
+          "연기",
+          "교육부"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.52,
+        "peak_score": 78.52,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -27,73 +139,33 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 6,
-            "title": "이미 수능 뚫린지 오래임.. 만점자 4배, 1개틀림 10배 상승",
-            "url": "https://theqoo.net/hot/4407635605",
-            "score": 79.37
-          },
-          {
             "source": "클리앙",
-            "rank": 68,
-            "title": "24년 26년 수능 언어영역 만점자, 1개틀린사람 수 비교 ㄷㄷㄷㄷ.jpg",
-            "url": "https://www.clien.net/service/board/park/19292930?od=T31&po=0&category=0&groupCd=",
-            "score": 56.78
-          }
-        ],
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i4dea1b92",
-        "title": "[속보]젠슨 황, 엔비디아 복귀 논의",
-        "keywords": [
-          "엔비디아",
-          "논의",
-          "복귀",
-          "젠슨"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.13,
-        "peak_score": 80.13,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "[속보]젠슨 황, 엔비디아 복귀 논의",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=455421",
-            "score": 72.13
+            "rank": 26,
+            "title": "[속보] 교육부 '수능 연기 계획 없다",
+            "url": "https://www.clien.net/service/board/park/19293093?od=T31&po=0&category=0&groupCd=",
+            "score": 70.52
           },
           {
-            "source": "인벤",
-            "rank": 53,
-            "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752930",
-            "score": 59.9
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
           }
         ],
-        "rank": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "ie375bdab",
-        "title": "국힘 43%·민주 34.6%…與지지율 현 정부 들어 최저[리얼미터]",
+        "id": "i2bf88edf",
+        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "국힘",
-          "리얼미터",
-          "민주",
-          "지지율"
+          "ai안경"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.52,
-        "peak_score": 75.52,
+        "score": 73.74,
+        "peak_score": 73.74,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -101,94 +173,107 @@
         ],
         "posts": [
           {
+            "source": "인벤",
+            "rank": 46,
+            "title": "AI안경 사건에서 또 이상한데 꽂힌 여초사이트",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752991",
+            "score": 64.74
+          },
+          {
             "source": "클리앙",
-            "rank": 27,
-            "title": "국힘 43%·민주 34.6%…與지지율 현 정부 들어 최저[리얼미터]",
-            "url": "https://www.clien.net/service/board/park/19292940?od=T31&po=0&category=0&groupCd=",
-            "score": 67.52
-          },
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "李 지지율 36.4%‥민주 34.6%·국힘 43.0% 오차 밖 [리얼미터]",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752939",
-            "score": 60.5
+            "rank": 47,
+            "title": "방송중 ai안경 착용 의심받는 연예인",
+            "url": "https://www.clien.net/service/board/park/19293084?od=T31&po=0&category=0&groupCd=",
+            "score": 64.68
           }
         ],
-        "rank": 3,
+        "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "i1fcd34de",
-        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i9fd8eb79",
+        "title": "‘카메라’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사"
+          "카메라",
+          "초소형"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.38,
-        "peak_score": 72.38,
+        "score": 69.67,
+        "peak_score": 69.67,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 38,
-            "title": "세무사 시험 진짜 수석이 된 차석이 AI 의심을 안받는 이유.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77405543?m=humor_only&t=now",
-            "score": 63.38
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "세무사 수석 부정행위 자백에…공단 \"확인되면 즉시 합격 취소\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752925",
-            "score": 51.25
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ie8b793b3",
-        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "같습니다"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 63.17,
-        "peak_score": 63.17,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
+          "더쿠",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 78,
-            "title": "의대 치대 약대 서울대 입학 후에 오르비 활동하는 사람들 보면 관종 같습니다.",
-            "url": "https://www.clien.net/service/board/park/19292934?od=T31&po=0&category=0&groupCd=",
-            "score": 54.17
+            "rank": 66,
+            "title": "초소형 카메라 이용한 시험 치팅을 막아야 한다는데...",
+            "url": "https://www.clien.net/service/board/park/19293094?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           },
           {
-            "source": "디시인사이드",
-            "rank": 81,
-            "title": "80만원 주고 샀는데 짝퉁걸린거 같습니다.kin",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478996&_dcbest=1&page=1",
-            "score": 53.89
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
           }
         ],
-        "rank": 5,
+        "rank": 6,
         "change": "NEW"
       }
     ],
     "daily": [
       {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 117.07,
+        "peak_score": 102.6,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "김민석 이사람은 민주당 역사 중에 최대 빌런이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189275",
+            "score": 85.6
+          },
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "오늘부로 이재명과 민주당 지지를 완전히 거둡니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752974",
+            "score": 70.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "총선결과는 민주당 승 예상합니다",
+            "url": "https://www.clien.net/service/board/park/19293077?od=T31&po=0&category=0&groupCd=",
+            "score": 63.02
+          }
+        ],
+        "first_seen": "2026-09-29T19:53:33.458089+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -224,8 +309,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "if4949e9f",
@@ -262,8 +347,46 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 6,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 103.31,
+        "peak_score": 91.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 교육부장관 해결방안ㅋㅋㅋ",
+            "url": "https://theqoo.net/hot/4407837027",
+            "score": 80.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 27,
+            "title": "와들와들 실시간 재평가 받고 있는 유튜버.JPG",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479038&_dcbest=1&page=1",
+            "score": 70.5
+          }
+        ],
+        "first_seen": "2026-10-07T14:44:26.372950+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i4d1d7a40",
@@ -300,8 +423,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "i21490b69",
@@ -340,8 +463,46 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.04,
+        "peak_score": 82.57,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 12,
+            "title": "[요기요/배달의민족] 네이버페이 결제 랜덤 할인 쿠폰 (11/16~30)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109065",
+            "score": 73.57
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 17,
+            "title": "[네이버페이] 삼성전자 갤럭시, 메리츠화재 30원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120786",
+            "score": 72.18
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "i83c188b0",
@@ -379,8 +540,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 8,
+        "change": -3
       },
       {
         "id": "i4dea1b92",
@@ -420,8 +581,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "i7b918478",
@@ -458,8 +619,48 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 10,
+        "change": -3
+      },
+      {
+        "id": "id99cf9ee",
+        "title": "[속보] 교육부 '수능 연기 계획 없다",
+        "keywords": [
+          "수능",
+          "연기",
+          "교육부"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.99,
+        "peak_score": 78.52,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 26,
+            "title": "[속보] 교육부 '수능 연기 계획 없다",
+            "url": "https://www.clien.net/service/board/park/19293093?od=T31&po=0&category=0&groupCd=",
+            "score": 70.52
+          },
+          {
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
+          }
+        ],
+        "first_seen": "2026-11-16T11:55:35.868276+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i1fcd34de",
@@ -498,8 +699,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 3
+        "rank": 12,
+        "change": -4
       },
       {
         "id": "ie375bdab",
@@ -539,8 +740,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 13,
+        "change": -4
       },
       {
         "id": "i24ae49e9",
@@ -577,8 +778,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 14,
+        "change": -4
       },
       {
         "id": "i30b66e0d",
@@ -617,8 +818,46 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 15,
+        "change": -4
+      },
+      {
+        "id": "i2bf88edf",
+        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ai안경"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.21,
+        "peak_score": 73.74,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "AI안경 사건에서 또 이상한데 꽂힌 여초사이트",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752991",
+            "score": 64.74
+          },
+          {
+            "source": "클리앙",
+            "rank": 47,
+            "title": "방송중 ai안경 착용 의심받는 연예인",
+            "url": "https://www.clien.net/service/board/park/19293084?od=T31&po=0&category=0&groupCd=",
+            "score": 64.68
+          }
+        ],
+        "first_seen": "2026-11-12T03:06:26.127837+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
       },
       {
         "id": "ib40eb21c",
@@ -655,8 +894,8 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -3
+        "rank": 17,
+        "change": -5
       },
       {
         "id": "i0cdcc665",
@@ -694,8 +933,47 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -3
+        "rank": 18,
+        "change": -5
+      },
+      {
+        "id": "i9fd8eb79",
+        "title": "‘카메라’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "카메라",
+          "초소형"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.14,
+        "peak_score": 69.67,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 66,
+            "title": "초소형 카메라 이용한 시험 치팅을 막아야 한다는데...",
+            "url": "https://www.clien.net/service/board/park/19293094?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
+          }
+        ],
+        "first_seen": "2026-11-16T11:55:35.868276+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i5781c296",
@@ -732,88 +1010,58 @@
         "last_seen": "2026-11-16T04:06:16.355360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -2
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.64,
-        "peak_score": 66.17,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 69,
-            "title": "개인적으로 생각하시는 역대 대통령 순위가 어떻게 되시나요?",
-            "url": "https://www.clien.net/service/board/park/19292872?od=T31&po=0&category=0&groupCd=",
-            "score": 57.17
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 89,
-            "title": "“1300곳 수능장 AI 어떻게 잡을건데…” 시험 4일전 핵폭탄 터졌다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478920&_dcbest=1&page=1",
-            "score": 52.5
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-11-16T00:34:54.603899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
-      },
-      {
-        "id": "ie8b793b3",
-        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "같습니다"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.64,
-        "peak_score": 63.17,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 78,
-            "title": "의대 치대 약대 서울대 입학 후에 오르비 활동하는 사람들 보면 관종 같습니다.",
-            "url": "https://www.clien.net/service/board/park/19292934?od=T31&po=0&category=0&groupCd=",
-            "score": 54.17
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 81,
-            "title": "80만원 주고 샀는데 짝퉁걸린거 같습니다.kin",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478996&_dcbest=1&page=1",
-            "score": 53.89
-          }
-        ],
-        "first_seen": "2026-11-10T09:30:55.856846+09:00",
-        "last_seen": "2026-11-16T09:25:03.319201+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
+        "rank": 20,
+        "change": -6
       }
     ],
     "weekly": [
       {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 117.07,
+        "peak_score": 102.6,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "김민석 이사람은 민주당 역사 중에 최대 빌런이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189275",
+            "score": 85.6
+          },
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "오늘부로 이재명과 민주당 지지를 완전히 거둡니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752974",
+            "score": 70.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "총선결과는 민주당 승 예상합니다",
+            "url": "https://www.clien.net/service/board/park/19293077?od=T31&po=0&category=0&groupCd=",
+            "score": 63.02
+          }
+        ],
+        "first_seen": "2026-09-29T19:53:33.458089+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -849,8 +1097,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "if4949e9f",
@@ -887,8 +1135,46 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 6,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 103.31,
+        "peak_score": 91.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 교육부장관 해결방안ㅋㅋㅋ",
+            "url": "https://theqoo.net/hot/4407837027",
+            "score": 80.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 27,
+            "title": "와들와들 실시간 재평가 받고 있는 유튜버.JPG",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479038&_dcbest=1&page=1",
+            "score": 70.5
+          }
+        ],
+        "first_seen": "2026-10-07T14:44:26.372950+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i4d1d7a40",
@@ -925,8 +1211,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "i21490b69",
@@ -965,8 +1251,46 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.04,
+        "peak_score": 82.57,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 12,
+            "title": "[요기요/배달의민족] 네이버페이 결제 랜덤 할인 쿠폰 (11/16~30)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109065",
+            "score": 73.57
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 17,
+            "title": "[네이버페이] 삼성전자 갤럭시, 메리츠화재 30원 받으세요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120786",
+            "score": 72.18
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "i83c188b0",
@@ -1004,8 +1328,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 8,
+        "change": -3
       },
       {
         "id": "i4dea1b92",
@@ -1045,8 +1369,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "i7b918478",
@@ -1083,8 +1407,48 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 10,
+        "change": -3
+      },
+      {
+        "id": "id99cf9ee",
+        "title": "[속보] 교육부 '수능 연기 계획 없다",
+        "keywords": [
+          "수능",
+          "연기",
+          "교육부"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.99,
+        "peak_score": 78.52,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 26,
+            "title": "[속보] 교육부 '수능 연기 계획 없다",
+            "url": "https://www.clien.net/service/board/park/19293093?od=T31&po=0&category=0&groupCd=",
+            "score": 70.52
+          },
+          {
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
+          }
+        ],
+        "first_seen": "2026-11-16T11:55:35.868276+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i1fcd34de",
@@ -1123,8 +1487,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 3
+        "rank": 12,
+        "change": -4
       },
       {
         "id": "ie375bdab",
@@ -1164,8 +1528,8 @@
         "last_seen": "2026-11-16T09:25:03.319201+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 13,
+        "change": -4
       },
       {
         "id": "i24ae49e9",
@@ -1202,8 +1566,8 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 14,
+        "change": -4
       },
       {
         "id": "i30b66e0d",
@@ -1242,8 +1606,46 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 15,
+        "change": -4
+      },
+      {
+        "id": "i2bf88edf",
+        "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ai안경"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.21,
+        "peak_score": 73.74,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "AI안경 사건에서 또 이상한데 꽂힌 여초사이트",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752991",
+            "score": 64.74
+          },
+          {
+            "source": "클리앙",
+            "rank": 47,
+            "title": "방송중 ai안경 착용 의심받는 연예인",
+            "url": "https://www.clien.net/service/board/park/19293084?od=T31&po=0&category=0&groupCd=",
+            "score": 64.68
+          }
+        ],
+        "first_seen": "2026-11-12T03:06:26.127837+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
       },
       {
         "id": "ib40eb21c",
@@ -1280,8 +1682,8 @@
         "last_seen": "2026-11-16T00:34:54.603899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -3
+        "rank": 17,
+        "change": -5
       },
       {
         "id": "i0cdcc665",
@@ -1319,8 +1721,47 @@
         "last_seen": "2026-11-16T05:36:18.577493+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -3
+        "rank": 18,
+        "change": -5
+      },
+      {
+        "id": "i9fd8eb79",
+        "title": "‘카메라’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "카메라",
+          "초소형"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.14,
+        "peak_score": 69.67,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 66,
+            "title": "초소형 카메라 이용한 시험 치팅을 막아야 한다는데...",
+            "url": "https://www.clien.net/service/board/park/19293094?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "더쿠",
+            "rank": 87,
+            "title": "교육부 “수능 연기 검토 안 해”…초소형 카메라 대책 보완",
+            "url": "https://theqoo.net/hot/4407828837",
+            "score": 54.68
+          }
+        ],
+        "first_seen": "2026-11-16T11:55:35.868276+09:00",
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i5781c296",
@@ -1357,84 +1798,8 @@
         "last_seen": "2026-11-16T04:06:16.355360+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -2
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.64,
-        "peak_score": 66.17,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 69,
-            "title": "개인적으로 생각하시는 역대 대통령 순위가 어떻게 되시나요?",
-            "url": "https://www.clien.net/service/board/park/19292872?od=T31&po=0&category=0&groupCd=",
-            "score": 57.17
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 89,
-            "title": "“1300곳 수능장 AI 어떻게 잡을건데…” 시험 4일전 핵폭탄 터졌다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478920&_dcbest=1&page=1",
-            "score": 52.5
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-11-16T00:34:54.603899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
-      },
-      {
-        "id": "ie8b793b3",
-        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "같습니다"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.64,
-        "peak_score": 63.17,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 78,
-            "title": "의대 치대 약대 서울대 입학 후에 오르비 활동하는 사람들 보면 관종 같습니다.",
-            "url": "https://www.clien.net/service/board/park/19292934?od=T31&po=0&category=0&groupCd=",
-            "score": 54.17
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 81,
-            "title": "80만원 주고 샀는데 짝퉁걸린거 같습니다.kin",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478996&_dcbest=1&page=1",
-            "score": 53.89
-          }
-        ],
-        "first_seen": "2026-11-10T09:30:55.856846+09:00",
-        "last_seen": "2026-11-16T09:25:03.319201+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
+        "rank": 20,
+        "change": -6
       }
     ],
     "monthly": [
@@ -1525,7 +1890,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i1fcd34de",
@@ -1567,7 +1932,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i1faf5b45",
@@ -1708,9 +2073,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 134.68,
+        "score": 135.11,
         "peak_score": 106.69,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1720,24 +2085,31 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 21,
-            "title": "[속보/더힐] 민주당, 알래스카 승리.",
-            "url": "https://www.clien.net/service/board/park/19292325?od=T31&po=0&category=0&groupCd=",
-            "score": 67.29
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "김민석 이사람은 민주당 역사 중에 최대 빌런이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189275",
+            "score": 85.6
           },
           {
             "source": "인벤",
-            "rank": 80,
-            "title": "미국 민주당 알래스카도 탈환",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752538",
-            "score": 55.03
+            "rank": 28,
+            "title": "오늘부로 이재명과 민주당 지지를 완전히 거둡니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752974",
+            "score": 70.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "총선결과는 민주당 승 예상합니다",
+            "url": "https://www.clien.net/service/board/park/19293077?od=T31&po=0&category=0&groupCd=",
+            "score": 63.02
           }
         ],
         "first_seen": "2026-09-29T19:53:33.458089+09:00",
-        "last_seen": "2026-11-14T19:59:15.591751+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
+        "last_seen": "2026-11-16T11:55:35.868276+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
         "rank": 7,
         "change": 0
       },
