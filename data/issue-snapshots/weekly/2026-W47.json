@@ -3,9 +3,49 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-17T21:12:46.324581+09:00",
+  "collected_at": "2026-11-18T03:24:21.792382+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 119.09,
+      "peak_score": 102.6,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 22,
+          "title": "민주당 초선 국회의원들의 행태",
+          "url": "https://www.clien.net/service/board/park/19294344?od=T31&po=0&category=0&groupCd=",
+          "score": 70.79
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 81,
+          "title": "민주당 새끼들 왜 지금 발작하는지 앎?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479591&_dcbest=1&page=1",
+          "score": 54.64
+        }
+      ],
+      "first_seen": "2026-09-29T19:53:33.458089+09:00",
+      "last_seen": "2026-11-18T03:24:21.792382+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "if4949e9f",
       "title": "리트 만점자, 오늘 돌연 '두절'",
@@ -44,52 +84,6 @@
       "last_seen": "2026-11-17T21:12:46.324581+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 1
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 117.07,
-      "peak_score": 102.6,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "김민석 이사람은 민주당 역사 중에 최대 빌런이네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189275",
-          "score": 85.6
-        },
-        {
-          "source": "인벤",
-          "rank": 28,
-          "title": "오늘부로 이재명과 민주당 지지를 완전히 거둡니다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752974",
-          "score": 70.35
-        },
-        {
-          "source": "클리앙",
-          "rank": 56,
-          "title": "총선결과는 민주당 승 예상합니다",
-          "url": "https://www.clien.net/service/board/park/19293077?od=T31&po=0&category=0&groupCd=",
-          "score": 63.02
-        }
-      ],
-      "first_seen": "2026-09-29T19:53:33.458089+09:00",
-      "last_seen": "2026-11-16T11:55:35.868276+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 2,
       "change": -1
     },
@@ -392,6 +386,45 @@
       "change": 0
     },
     {
+      "id": "i01009091",
+      "title": "추장군 김민석 저격 페북.JPG",
+      "keywords": [
+        "김민석",
+        "저격"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.21,
+      "peak_score": 91.74,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "추장군 김민석 저격 페북.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10191922",
+          "score": 83.74
+        },
+        {
+          "source": "클리앙",
+          "rank": 10,
+          "title": "추미애. 김민석 저격. 반민주적 마타도어",
+          "url": "https://www.clien.net/service/board/park/19294358?od=T31&po=0&category=0&groupCd=",
+          "score": 76.63
+        }
+      ],
+      "first_seen": "2026-10-03T16:01:31.160167+09:00",
+      "last_seen": "2026-11-18T03:24:21.792382+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
       "id": "i64aac33b",
       "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -428,8 +461,8 @@
       "last_seen": "2026-11-17T17:59:32.996713+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i4d1d7a40",
@@ -466,8 +499,8 @@
       "last_seen": "2026-11-16T05:36:18.577493+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "id99cf9ee",
@@ -506,8 +539,8 @@
       "last_seen": "2026-11-17T12:19:34.407284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "ibb35f05f",
@@ -546,8 +579,8 @@
       "last_seen": "2026-11-17T12:19:34.407284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i2bf88edf",
@@ -585,8 +618,8 @@
       "last_seen": "2026-11-17T21:12:46.324581+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "idcf983e7",
@@ -623,7 +656,7 @@
       "last_seen": "2026-11-17T05:45:20.406847+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
+      "rank": 16,
       "change": -1
     },
     {
@@ -661,7 +694,7 @@
       "last_seen": "2026-11-17T05:45:20.406847+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -1
     },
     {
@@ -703,8 +736,52 @@
       "last_seen": "2026-11-17T21:12:46.324581+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 18,
+      "change": -1
+    },
+    {
+      "id": "i3ccc2d51",
+      "title": "일본인이 만든 한국 과자 티어표",
+      "keywords": [
+        "한국",
+        "일본인이",
+        "만든",
+        "과자",
+        "티어표"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.12,
+      "peak_score": 80.19,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 27,
+          "title": "일본인이 만든 한국 과자 티어표",
+          "url": "https://theqoo.net/hot/4409784687",
+          "score": 68.21
+        },
+        {
+          "source": "루리웹",
+          "rank": 60,
+          "title": "일본인이 만든 한국 과자 티어표",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77427801?m=humor_only&t=now",
+          "score": 60.21
+        }
+      ],
+      "first_seen": "2026-10-02T06:06:28.724750+09:00",
+      "last_seen": "2026-11-18T03:24:21.792382+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": 1
     },
     {
       "id": "i21490b69",
@@ -741,83 +818,6 @@
       ],
       "first_seen": "2026-11-16T00:34:54.603899+09:00",
       "last_seen": "2026-11-16T00:34:54.603899+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
-    },
-    {
-      "id": "ia3911d65",
-      "title": "‘그래미’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "그래미"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.88,
-      "peak_score": 83.41,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 14,
-          "title": "[VRT] 2027 그래미 후보작 발표. 아시아 팝 뮤직에 6후보.",
-          "url": "https://www.clien.net/service/board/park/19293655?od=T31&po=0&category=0&groupCd=",
-          "score": 74.41
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "그래미 어워즈..제니 본상 후보/아이브,키키 아시안 팝 후보",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753292",
-          "score": 56.63
-        }
-      ],
-      "first_seen": "2026-11-17T05:45:20.406847+09:00",
-      "last_seen": "2026-11-17T05:45:20.406847+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.68,
-      "peak_score": 80.19,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "존예 일본인 여친의 애교 클라스",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479343&_dcbest=1&page=1",
-          "score": 71.19
-        },
-        {
-          "source": "인벤",
-          "rank": 74,
-          "title": "일제강점기 조선에 사는 60만 일본인 중 유일한 비국민",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753289",
-          "score": 56.37
-        }
-      ],
-      "first_seen": "2026-10-02T06:06:28.724750+09:00",
-      "last_seen": "2026-11-17T05:45:20.406847+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
