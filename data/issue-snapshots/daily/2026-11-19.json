@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-11-19",
   "label": "2026년 11월 19일",
-  "collected_at": "2026-11-19T02:36:43.606255+09:00",
+  "collected_at": "2026-11-19T04:28:17.131561+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.22,
+      "peak_score": 100.75,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "대한민국 사람들은 물론이고 전세계가 좋아할 결말",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77439246?m=humor",
+          "score": 91.75
+        },
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "대한민국 대통령을 찾으시오",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754066",
+          "score": 76.14
+        }
+      ],
+      "first_seen": "2026-09-30T16:29:04.314799+09:00",
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i91f13db9",
       "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
@@ -14,9 +52,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 102.92,
+      "score": 104.94,
       "peak_score": 88.45,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "루리웹",
         "인벤",
@@ -25,32 +63,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 13,
+          "rank": 23,
           "title": "GTA6 기대 이하네요",
           "url": "https://www.clien.net/service/board/park/19294897?od=T31&po=0&category=0&groupCd=",
-          "score": 71.45
+          "score": 69.63
         },
         {
           "source": "인벤",
-          "rank": 33,
+          "rank": 31,
           "title": "gta6 145개 리뷰중 유일한 80점",
           "url": "https://www.inven.co.kr/board/webzine/2097/2754055",
-          "score": 63.29
-        },
-        {
-          "source": "루리웹",
-          "rank": 86,
-          "title": "gta6 남주 호감인 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77439895?m=humor_only&t=now",
-          "score": 54.66
+          "score": 64.94
         }
       ],
       "first_seen": "2026-11-13T19:49:05.459513+09:00",
-      "last_seen": "2026-11-19T02:36:43.606255+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 1,
-      "change": "NEW"
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ib040db4a",
@@ -87,7 +118,45 @@
       "last_seen": "2026-11-19T02:36:43.606255+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i5b318335",
+      "title": "‘gta’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.96,
+      "peak_score": 85.49,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 11,
+          "title": "GTA 6 릴리즈 후 3시간 달려본 결과, 주말 내내 하게될 것 같네요",
+          "url": "https://www.clien.net/service/board/park/19294910?od=T31&po=0&category=0&groupCd=",
+          "score": 76.49
+        },
+        {
+          "source": "루리웹",
+          "rank": 76,
+          "title": "GTA)제이슨이 멀쩡해보이는 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440388?m=humor_only&t=now",
+          "score": 54.85
+        }
+      ],
+      "first_seen": "2026-11-19T04:28:17.131561+09:00",
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -98,9 +167,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.7,
-      "peak_score": 71.23,
-      "appearances": 1,
+      "score": 84.08,
+      "peak_score": 72.59,
+      "appearances": 2,
       "sources": [
         "루리웹",
         "인벤"
@@ -108,25 +177,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 39,
+          "rank": 36,
           "title": "펌)테슬라 공중부양은 말이 안되는 기술임.JPG",
           "url": "https://www.inven.co.kr/board/webzine/2097/2754065",
-          "score": 62.23
+          "score": 63.59
         },
         {
           "source": "루리웹",
-          "rank": 87,
-          "title": "그타6 스샷보고 오 하면 안되는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77439843?m=humor_only&t=now",
-          "score": 53.97
+          "rank": 85,
+          "title": "한국인은 이해가 안되는 이유로 맥도날드에서 감격한 일본인",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440284?m=humor_only&t=now",
+          "score": 52.99
         }
       ],
       "first_seen": "2026-09-30T04:43:08.301615+09:00",
-      "last_seen": "2026-11-19T02:36:43.606255+09:00",
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ie37a60df",
@@ -136,9 +205,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.31,
+      "score": 77.33,
       "peak_score": 65.84,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -146,24 +215,62 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 73,
+          "rank": 67,
           "title": "싱글벙글 AI컨닝 육안으로 식별 불가능한 이유(AI안경 X)",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479923&_dcbest=1&page=1",
-          "score": 56.84
+          "score": 56.43
         },
         {
           "source": "더쿠",
-          "rank": 90,
+          "rank": 88,
           "title": "사실 AI컨닝 난리난거 한국이 먼저 아님.....",
           "url": "https://theqoo.net/hot/4410831585",
-          "score": 53.58
+          "score": 52.58
         }
       ],
       "first_seen": "2026-11-19T02:36:43.606255+09:00",
-      "last_seen": "2026-11-19T02:36:43.606255+09:00",
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 6,
+      "change": -2
+    },
+    {
+      "id": "i1b4ace13",
+      "title": "‘manwha’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "manwha"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 73.1,
+      "peak_score": 63.63,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 77,
+          "title": "분석은 정확했던 만화가.manwha",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440327?m=humor_only&t=now",
+          "score": 54.63
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 89,
+          "title": "금수고등학교.manwha",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479953&_dcbest=1&page=1",
+          "score": 52.4
+        }
+      ],
+      "first_seen": "2026-11-19T04:28:17.131561+09:00",
+      "last_seen": "2026-11-19T04:28:17.131561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     }
   ]
