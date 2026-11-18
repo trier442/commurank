@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-18T20:14:16.609063+09:00",
+  "collected_at": "2026-11-19T02:36:43.606255+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -705,6 +705,53 @@
       "change": 0
     },
     {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 126.2,
+      "peak_score": 108.71,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 13,
+          "title": "GTA6 기대 이하네요",
+          "url": "https://www.clien.net/service/board/park/19294897?od=T31&po=0&category=0&groupCd=",
+          "score": 71.45
+        },
+        {
+          "source": "인벤",
+          "rank": 33,
+          "title": "gta6 145개 리뷰중 유일한 80점",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754055",
+          "score": 63.29
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "gta6 남주 호감인 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77439895?m=humor_only&t=now",
+          "score": 54.66
+        }
+      ],
+      "first_seen": "2026-11-13T19:49:05.459513+09:00",
+      "last_seen": "2026-11-19T02:36:43.606255+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 17,
+      "change": "NEW"
+    },
+    {
       "id": "ib6978d90",
       "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -743,8 +790,8 @@
       "last_seen": "2026-11-09T01:08:35.710493+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "ibb35f05f",
@@ -785,8 +832,8 @@
       "last_seen": "2026-11-17T12:19:34.407284+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i5572e997",
@@ -826,50 +873,8 @@
       "last_seen": "2026-11-15T08:53:37.467352+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i4424f79f",
-      "title": "수학 7등급 유튜버, AI 안경 쓰고 수능 봤더니 '충격 결과'",
-      "keywords": [
-        "안경",
-        "ai"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 124.26,
-      "peak_score": 106.33,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 23,
-          "title": "수학 7등급 유튜버, AI 안경 쓰고 수능 봤더니 '충격 결과'",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479127&_dcbest=1&page=1",
-          "score": 68.97
-        },
-        {
-          "source": "인벤",
-          "rank": 76,
-          "title": "AI 안경 의심받을때",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753107",
-          "score": 55.88
-        }
-      ],
-      "first_seen": "2026-11-12T08:03:04.231715+09:00",
-      "last_seen": "2026-11-16T16:09:51.021551+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
