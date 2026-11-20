@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-20T17:14:33.865490+09:00",
+  "collected_at": "2026-11-20T20:24:22.602711+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,45 +11,73 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i27245075",
-        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i40293d93",
+        "title": "리센느 2026 MAMA 무대",
         "keywords": [
-          "있다는"
+          "리센느",
+          "2026",
+          "mama"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 4,
-        "score": 96.59,
-        "peak_score": 96.59,
+        "score": 70.8,
+        "peak_score": 70.8,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드",
-          "인벤"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
+            "source": "클리앙",
+            "rank": 51,
+            "title": "리센느 2026 MAMA 무대",
+            "url": "https://www.clien.net/service/board/park/19296193?od=T31&po=0&category=0&groupCd=",
+            "score": 60.8
+          },
+          {
             "source": "인벤",
-            "rank": 9,
-            "title": "대치동 에서 퍼지고 있다는 루머",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754785",
-            "score": 78.59
-          },
-          {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "한국인들의 호불호가 꽤 있다는 빵",
-            "url": "https://theqoo.net/hot/4412727283",
-            "score": 62.58
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 59,
-            "title": "의외로 효과 있다는 짜파게티 끓이는 법",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480396&_dcbest=1&page=1",
-            "score": 61.7
+            "rank": 57,
+            "title": "2026 MAMA 리센느 베스트 오브 넥스트 수상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754863",
+            "score": 60.4
           }
         ],
         "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i7b982dea",
+        "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리트냥이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.04,
+        "peak_score": 89.04,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "리트냥이 마지막 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196773",
+            "score": 80.04
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 40,
+            "title": "싱글벙글 리트냥이 여자였으면 성희롱쩔었을거라는 여자들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480438&_dcbest=1&page=1",
+            "score": 64.18
+          }
+        ],
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -59,9 +87,9 @@
           "gta6"
         ],
         "source_count": 2,
-        "post_count": 4,
-        "score": 79.59,
-        "peak_score": 79.59,
+        "post_count": 2,
+        "score": 81.77,
+        "peak_score": 81.77,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -70,32 +98,136 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 24,
-            "title": "이게 GTA6 엔딩임.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480394&_dcbest=1&page=1",
-            "score": 68.59
+            "rank": 13,
+            "title": "훌쩍훌쩍 GTA6 무료나눔",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480447&_dcbest=1&page=1",
+            "score": 72.77
           },
           {
             "source": "루리웹",
-            "rank": 83,
-            "title": "소름끼치는 gta6 근황 mp4",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77457281?m=humor_only&t=now",
-            "score": 54.31
+            "rank": 100,
+            "title": "Gta6) 지금 그타6 산 애들이 바보인 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77462842?m=humor_only&t=now",
+            "score": 51.47
           }
         ],
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
-        "id": "i2272efa7",
-        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i0bd7c73b",
+        "title": "안경 맞춰주고 의대가라는 아버지",
         "keywords": [
-          "리센느"
+          "맞춰주고",
+          "아버지",
+          "안경"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 82.65,
-        "peak_score": 82.65,
+        "post_count": 2,
+        "score": 79.89,
+        "peak_score": 79.89,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 16,
+            "title": "안경 맞춰주고 의대가라는 아버지",
+            "url": "https://theqoo.net/hot/4412858366",
+            "score": 71.89
+          },
+          {
+            "source": "클리앙",
+            "rank": 67,
+            "title": "딸한테 AI 안경 맞춰주고 의대 가라는 아버지.jpg",
+            "url": "https://www.clien.net/service/board/park/19296173?od=T31&po=0&category=0&groupCd=",
+            "score": 58.19
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i258055db",
+        "title": "‘협성대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "협성대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.2,
+        "peak_score": 78.2,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 23,
+            "title": "협성대 수석 입장문 발표",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196607",
+            "score": 69.2
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 70,
+            "title": "협성대 미트수석 해명글 올라옴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480395&_dcbest=1&page=1",
+            "score": 57.85
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i316b08bf",
+        "title": "‘했습니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "했습니다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.32,
+        "peak_score": 74.32,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 31,
+            "title": "오늘부터 난방개시 했습니다.",
+            "url": "https://www.clien.net/service/board/park/19296190?od=T31&po=0&category=0&groupCd=",
+            "score": 65.32
+          },
+          {
+            "source": "더쿠",
+            "rank": 94,
+            "title": "이것이 위안소의 전체도입니다. 병사들이 줄을 서서 위안부들은 하루에 여러 명을 상대해야 했습니다.",
+            "url": "https://theqoo.net/hot/4413017659",
+            "score": 53.53
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i4c8bdd1e",
+        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "대한민국"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.28,
+        "peak_score": 74.28,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -103,21 +235,21 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 18,
-            "title": "마마 리센느 입장신",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480415&_dcbest=1&page=1",
-            "score": 72.65
+            "source": "인벤",
+            "rank": 32,
+            "title": "대한민국 공항 10곳 더 건설",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754844",
+            "score": 65.28
           },
           {
-            "source": "인벤",
-            "rank": 49,
-            "title": "리센느 공식 인별",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754795",
-            "score": 62.79
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "재미재미 대한민국 게임의 표본",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480453&_dcbest=1&page=1",
+            "score": 59.11
           }
         ],
-        "rank": 3,
+        "rank": 7,
         "change": "NEW"
       },
       {
@@ -127,111 +259,9 @@
           "재난문자"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 72.44,
-        "peak_score": 72.44,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 56,
-            "title": "어제자 재난문자 뜻밖의 피해자들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754799",
-            "score": 62.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "대통령이 '수능 재난문자 재밌어하더라' 발언이 왜 나온지 알겠네요",
-            "url": "https://www.clien.net/service/board/park/19296093?od=T31&po=0&category=0&groupCd=",
-            "score": 61.93
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ifef4e453",
-        "title": "‘스트레칭’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스트레칭"
-        ],
-        "source_count": 2,
         "post_count": 2,
-        "score": 91.03,
-        "peak_score": 91.03,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "ㅇㅎ) 스트레칭 하는 처자 ㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=793998",
-            "score": 82.03
-          },
-          {
-            "source": "인벤",
-            "rank": 11,
-            "title": "ㅇㅎ)스트레칭 하는 누나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754788",
-            "score": 77.04
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i535bfe29",
-        "title": "‘lck’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "lck"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.54,
-        "peak_score": 85.54,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 14,
-            "title": "슬슬 정리되가는 2027 LCK 4팀 로스터",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754794",
-            "score": 76.54
-          },
-          {
-            "source": "클리앙",
-            "rank": 62,
-            "title": "LCK 디플러스기아가 부활했습니다.",
-            "url": "https://www.clien.net/service/board/park/19296100?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "iac58c16e",
-        "title": "‘무조건’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "무조건"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.03,
-        "peak_score": 84.03,
+        "score": 65.64,
+        "peak_score": 65.64,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -240,55 +270,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 16,
-            "title": "개추좀) 수능 무조건 뚫렸다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480376&_dcbest=1&page=1",
-            "score": 75.03
+            "rank": 75,
+            "title": "오들오들 디시콘으로 설명하는 재난문자 회피 수법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480443&_dcbest=1&page=1",
+            "score": 56.64
           },
           {
             "source": "인벤",
-            "rank": 45,
-            "title": "무조건 걸러야하는 나르시시스트 특징 정리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754779",
-            "score": 63.44
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "if5897b78",
-        "title": "‘취업이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "취업이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.26,
-        "peak_score": 74.26,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 37,
-            "title": "의외로 전과자들이 더 취업이 쉬움 법무무산하협력기업이 튼실함",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480407&_dcbest=1&page=1",
-            "score": 65.26
-          },
-          {
-            "source": "루리웹",
-            "rank": 91,
-            "title": "취업이 안되서 미쳐버린 20대",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77457259?m=humor_only&t=now",
-            "score": 52.52
+            "rank": 92,
+            "title": "위급 재난문자 적발 가짜 뉴스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754835",
+            "score": 53.98
           }
         ],
         "rank": 8,
-        "change": "NEW"
+        "change": -4
       }
     ],
     "daily": [
@@ -373,6 +369,48 @@
         "change": 0
       },
       {
+        "id": "i7b982dea",
+        "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리트냥이"
+        ],
+        "source_count": 4,
+        "post_count": 4,
+        "score": 113.89,
+        "peak_score": 90.96,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "리트냥이 마지막 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196773",
+            "score": 80.04
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 40,
+            "title": "싱글벙글 리트냥이 여자였으면 성희롱쩔었을거라는 여자들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480438&_dcbest=1&page=1",
+            "score": 64.18
+          }
+        ],
+        "first_seen": "2026-11-17T12:19:34.407284+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": 1
+      },
+      {
         "id": "i837ccf59",
         "title": "‘백종원’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -407,62 +445,8 @@
         "last_seen": "2026-11-20T03:39:50.018882+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i7b982dea",
-        "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "리트냥이"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 112.45,
-        "peak_score": 90.96,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 35,
-            "title": "세무냥이, 리트냥이 덕분에 이제 사회분위기 달라질듯",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77454764?m=humor_only&t=now",
-            "score": 65.96
-          },
-          {
-            "source": "더쿠",
-            "rank": 55,
-            "title": "리트냥이 죽은거 너무 우울하다",
-            "url": "https://theqoo.net/hot/4412153120",
-            "score": 59.26
-          },
-          {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "리트냥이 책 저자 소개글",
-            "url": "https://www.clien.net/service/board/park/19295741?od=T31&po=0&category=0&groupCd=",
-            "score": 58.03
-          },
-          {
-            "source": "인벤",
-            "rank": 76,
-            "title": "솔직히 리트냥이 죽은 게 슬픈일임?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754514",
-            "score": 53.01
-          }
-        ],
-        "first_seen": "2026-11-17T12:19:34.407284+09:00",
-        "last_seen": "2026-11-20T07:04:19.578956+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 4,
         "rank": 4,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i27245075",
@@ -508,7 +492,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -546,7 +530,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i9a0fa5b7",
@@ -592,7 +576,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifef4e453",
@@ -630,7 +614,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i0f001078",
@@ -668,7 +652,46 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 9,
-        "change": -2
+        "change": 0
+      },
+      {
+        "id": "i91f13db9",
+        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "gta6"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 96.7,
+        "peak_score": 81.77,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 13,
+            "title": "훌쩍훌쩍 GTA6 무료나눔",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480447&_dcbest=1&page=1",
+            "score": 72.77
+          },
+          {
+            "source": "루리웹",
+            "rank": 100,
+            "title": "Gta6) 지금 그타6 산 애들이 바보인 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77462842?m=humor_only&t=now",
+            "score": 51.47
+          }
+        ],
+        "first_seen": "2026-11-13T19:49:05.459513+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": 7
       },
       {
         "id": "ib31b3615",
@@ -705,8 +728,8 @@
         "last_seen": "2026-11-20T07:04:19.578956+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -2
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i139fa3fd",
@@ -743,8 +766,8 @@
         "last_seen": "2026-11-20T12:03:29.240587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 11,
-        "change": -2
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i535bfe29",
@@ -781,8 +804,8 @@
         "last_seen": "2026-11-20T17:14:33.865490+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i6fb7ee77",
@@ -820,8 +843,8 @@
         "last_seen": "2026-11-20T09:55:57.900558+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -3
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "iac58c16e",
@@ -858,8 +881,8 @@
         "last_seen": "2026-11-20T17:14:33.865490+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i30b66e0d",
@@ -896,8 +919,8 @@
         "last_seen": "2026-11-20T12:03:29.240587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -4
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i2272efa7",
@@ -934,47 +957,8 @@
         "last_seen": "2026-11-20T17:14:33.865490+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i91f13db9",
-        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "gta6"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 93.08,
-        "peak_score": 79.59,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 24,
-            "title": "이게 GTA6 엔딩임.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480394&_dcbest=1&page=1",
-            "score": 68.59
-          },
-          {
-            "source": "루리웹",
-            "rank": 83,
-            "title": "소름끼치는 gta6 근황 mp4",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77457281?m=humor_only&t=now",
-            "score": 54.31
-          }
-        ],
-        "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-20T17:14:33.865490+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 4,
         "rank": 17,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ie89894c8",
@@ -1012,7 +996,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -6
+        "change": 0
       },
       {
         "id": "i64aac33b",
@@ -1050,7 +1034,7 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 19,
-        "change": -6
+        "change": 0
       },
       {
         "id": "if607fdf2",
@@ -1093,7 +1077,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -6
+        "change": 0
       }
     ],
     "weekly": [
@@ -1105,9 +1089,9 @@
         ],
         "source_count": 6,
         "post_count": 7,
-        "score": 155.35,
+        "score": 155.83,
         "peak_score": 116.84,
-        "appearances": 9,
+        "appearances": 10,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1118,38 +1102,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 35,
-            "title": "세무냥이, 리트냥이 덕분에 이제 사회분위기 달라질듯",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77454764?m=humor_only&t=now",
-            "score": 65.96
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "리트냥이 마지막 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196773",
+            "score": 80.04
           },
           {
-            "source": "더쿠",
-            "rank": 55,
-            "title": "리트냥이 죽은거 너무 우울하다",
-            "url": "https://theqoo.net/hot/4412153120",
-            "score": 59.26
-          },
-          {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "리트냥이 책 저자 소개글",
-            "url": "https://www.clien.net/service/board/park/19295741?od=T31&po=0&category=0&groupCd=",
-            "score": 58.03
-          },
-          {
-            "source": "인벤",
-            "rank": 76,
-            "title": "솔직히 리트냥이 죽은 게 슬픈일임?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754514",
-            "score": 53.01
+            "source": "디시인사이드",
+            "rank": 40,
+            "title": "싱글벙글 리트냥이 여자였으면 성희롱쩔었을거라는 여자들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480438&_dcbest=1&page=1",
+            "score": 64.18
           }
         ],
         "first_seen": "2026-11-17T12:19:34.407284+09:00",
-        "last_seen": "2026-11-20T07:04:19.578956+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 4,
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -1161,9 +1131,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 136.46,
+        "score": 137.05,
         "peak_score": 109.06,
-        "appearances": 7,
+        "appearances": 8,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -1173,25 +1143,66 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 24,
-            "title": "이게 GTA6 엔딩임.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480394&_dcbest=1&page=1",
-            "score": 68.59
+            "rank": 13,
+            "title": "훌쩍훌쩍 GTA6 무료나눔",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480447&_dcbest=1&page=1",
+            "score": 72.77
           },
           {
             "source": "루리웹",
-            "rank": 83,
-            "title": "소름끼치는 gta6 근황 mp4",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77457281?m=humor_only&t=now",
-            "score": 54.31
+            "rank": 100,
+            "title": "Gta6) 지금 그타6 산 애들이 바보인 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77462842?m=humor_only&t=now",
+            "score": 51.47
           }
         ],
         "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-20T17:14:33.865490+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 2,
         "rank": 2,
         "change": 0
+      },
+      {
+        "id": "i65d22dc5",
+        "title": "‘재난문자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "재난문자"
+        ],
+        "source_count": 3,
+        "post_count": 8,
+        "score": 132.43,
+        "peak_score": 106.7,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 75,
+            "title": "오들오들 디시콘으로 설명하는 재난문자 회피 수법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480443&_dcbest=1&page=1",
+            "score": 56.64
+          },
+          {
+            "source": "인벤",
+            "rank": 92,
+            "title": "위급 재난문자 적발 가짜 뉴스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754835",
+            "score": 53.98
+          }
+        ],
+        "first_seen": "2026-11-18T11:54:34.498554+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": 1
       },
       {
         "id": "i139fa3fd",
@@ -1230,49 +1241,8 @@
         "last_seen": "2026-11-20T12:03:29.240587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i65d22dc5",
-        "title": "‘재난문자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "재난문자"
-        ],
-        "source_count": 3,
-        "post_count": 8,
-        "score": 131.66,
-        "peak_score": 106.7,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 56,
-            "title": "어제자 재난문자 뜻밖의 피해자들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754799",
-            "score": 62.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "대통령이 '수능 재난문자 재밌어하더라' 발언이 왜 나온지 알겠네요",
-            "url": "https://www.clien.net/service/board/park/19296093?od=T31&po=0&category=0&groupCd=",
-            "score": 61.93
-          }
-        ],
-        "first_seen": "2026-11-18T11:54:34.498554+09:00",
-        "last_seen": "2026-11-20T17:14:33.865490+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 4,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i3ccc2d51",
@@ -1699,6 +1669,46 @@
         "change": 0
       },
       {
+        "id": "i4c8bdd1e",
+        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "대한민국"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.8,
+        "peak_score": 100.75,
+        "appearances": 4,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "대한민국 공항 10곳 더 건설",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754844",
+            "score": 65.28
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 64,
+            "title": "재미재미 대한민국 게임의 표본",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480453&_dcbest=1&page=1",
+            "score": 59.11
+          }
+        ],
+        "first_seen": "2026-09-30T16:29:04.314799+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": 1
+      },
+      {
         "id": "i5d6688ff",
         "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1733,47 +1743,8 @@
         "last_seen": "2026-11-20T09:55:57.900558+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 113.68,
-        "peak_score": 100.75,
-        "appearances": 3,
-        "sources": [
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "대한민국 사람들은 물론이고 전세계가 좋아할 결말",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77439246?m=humor",
-            "score": 91.75
-          },
-          {
-            "source": "인벤",
-            "rank": 12,
-            "title": "대한민국 대통령을 찾으시오",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754066",
-            "score": 76.14
-          }
-        ],
-        "first_seen": "2026-09-30T16:29:04.314799+09:00",
-        "last_seen": "2026-11-19T04:28:17.131561+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 16,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i837ccf59",
@@ -1946,7 +1917,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 20,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "monthly": [
@@ -2087,9 +2058,9 @@
         ],
         "source_count": 6,
         "post_count": 7,
-        "score": 155.35,
+        "score": 155.83,
         "peak_score": 116.84,
-        "appearances": 9,
+        "appearances": 10,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2100,38 +2071,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 35,
-            "title": "세무냥이, 리트냥이 덕분에 이제 사회분위기 달라질듯",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77454764?m=humor_only&t=now",
-            "score": 65.96
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "리트냥이 마지막 근황",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196773",
+            "score": 80.04
           },
           {
-            "source": "더쿠",
-            "rank": 55,
-            "title": "리트냥이 죽은거 너무 우울하다",
-            "url": "https://theqoo.net/hot/4412153120",
-            "score": 59.26
-          },
-          {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "리트냥이 책 저자 소개글",
-            "url": "https://www.clien.net/service/board/park/19295741?od=T31&po=0&category=0&groupCd=",
-            "score": 58.03
-          },
-          {
-            "source": "인벤",
-            "rank": 76,
-            "title": "솔직히 리트냥이 죽은 게 슬픈일임?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754514",
-            "score": 53.01
+            "source": "디시인사이드",
+            "rank": 40,
+            "title": "싱글벙글 리트냥이 여자였으면 성희롱쩔었을거라는 여자들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480438&_dcbest=1&page=1",
+            "score": 64.18
           }
         ],
         "first_seen": "2026-11-17T12:19:34.407284+09:00",
-        "last_seen": "2026-11-20T07:04:19.578956+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 4,
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 4,
         "change": 0
       },
@@ -2268,9 +2225,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 137.05,
+        "score": 137.57,
         "peak_score": 109.06,
-        "appearances": 8,
+        "appearances": 9,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -2280,23 +2237,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 24,
-            "title": "이게 GTA6 엔딩임.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480394&_dcbest=1&page=1",
-            "score": 68.59
+            "rank": 13,
+            "title": "훌쩍훌쩍 GTA6 무료나눔",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480447&_dcbest=1&page=1",
+            "score": 72.77
           },
           {
             "source": "루리웹",
-            "rank": 83,
-            "title": "소름끼치는 gta6 근황 mp4",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77457281?m=humor_only&t=now",
-            "score": 54.31
+            "rank": 100,
+            "title": "Gta6) 지금 그타6 산 애들이 바보인 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77462842?m=humor_only&t=now",
+            "score": 51.47
           }
         ],
         "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-20T17:14:33.865490+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 2,
         "rank": 8,
         "change": 0
       },
@@ -2384,6 +2341,47 @@
         "change": 0
       },
       {
+        "id": "i65d22dc5",
+        "title": "‘재난문자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "재난문자"
+        ],
+        "source_count": 3,
+        "post_count": 8,
+        "score": 132.43,
+        "peak_score": 106.7,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 75,
+            "title": "오들오들 디시콘으로 설명하는 재난문자 회피 수법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480443&_dcbest=1&page=1",
+            "score": 56.64
+          },
+          {
+            "source": "인벤",
+            "rank": 92,
+            "title": "위급 재난문자 적발 가짜 뉴스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2754835",
+            "score": 53.98
+          }
+        ],
+        "first_seen": "2026-11-18T11:54:34.498554+09:00",
+        "last_seen": "2026-11-20T20:24:22.602711+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": 2
+      },
+      {
         "id": "i139fa3fd",
         "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2420,8 +2418,8 @@
         "last_seen": "2026-11-20T12:03:29.240587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i2e26d9ac",
@@ -2461,49 +2459,8 @@
         "last_seen": "2026-11-08T03:14:06.981190+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
-      },
-      {
-        "id": "i65d22dc5",
-        "title": "‘재난문자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "재난문자"
-        ],
-        "source_count": 3,
-        "post_count": 8,
-        "score": 131.66,
-        "peak_score": 106.7,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 56,
-            "title": "어제자 재난문자 뜻밖의 피해자들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754799",
-            "score": 62.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "대통령이 '수능 재난문자 재밌어하더라' 발언이 왜 나온지 알겠네요",
-            "url": "https://www.clien.net/service/board/park/19296093?od=T31&po=0&category=0&groupCd=",
-            "score": 61.93
-          }
-        ],
-        "first_seen": "2026-11-18T11:54:34.498554+09:00",
-        "last_seen": "2026-11-20T17:14:33.865490+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 13,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i2272efa7",
