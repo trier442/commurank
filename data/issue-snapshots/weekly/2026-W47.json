@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-21T02:04:41.969998+09:00",
+  "collected_at": "2026-11-21T04:13:56.071333+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -334,6 +334,46 @@
       "change": 0
     },
     {
+      "id": "i1060e3b1",
+      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "조희대"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 118.72,
+      "peak_score": 99.79,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 70,
+          "title": "[속보] 민주당, 진보정당과 함께 조희대 탄핵 진행",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480510&_dcbest=1&page=1",
+          "score": 58.8
+        },
+        {
+          "source": "인벤",
+          "rank": 93,
+          "title": "“탄핵 사유 쌓여, 연내에 처리”…여, ‘조희대 탄핵’ 본격화",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754902",
+          "score": 53.03
+        }
+      ],
+      "first_seen": "2026-10-06T17:04:46.984922+09:00",
+      "last_seen": "2026-11-21T04:13:56.071333+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 9,
+      "change": 1
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -370,48 +410,8 @@
       "last_seen": "2026-11-20T12:03:29.240587+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i1060e3b1",
-      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "조희대"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 117.28,
-      "peak_score": 99.79,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 61,
-          "title": "[속보] 민주당, 진보정당과 함께 조희대 탄핵 진행",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480510&_dcbest=1&page=1",
-          "score": 59.89
-        },
-        {
-          "source": "인벤",
-          "rank": 82,
-          "title": "“탄핵 사유 쌓여, 연내에 처리”…여, ‘조희대 탄핵’ 본격화",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754902",
-          "score": 56.0
-        }
-      ],
-      "first_seen": "2026-10-06T17:04:46.984922+09:00",
-      "last_seen": "2026-11-21T02:04:41.969998+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 10,
-      "change": 2
+      "change": -1
     },
     {
       "id": "i44a99ede",
@@ -457,7 +457,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iae9c8631",
@@ -498,7 +498,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1512ea3b",
@@ -536,7 +536,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ie861fdd4",
@@ -574,7 +574,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d031567",
@@ -623,7 +623,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -663,7 +663,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -701,7 +701,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i837ccf59",
@@ -739,7 +739,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i30b66e0d",
@@ -781,7 +781,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ica8e375b",
@@ -828,7 +828,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
