@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-20T07:04:19.578956+09:00",
+  "collected_at": "2026-11-20T09:55:57.900558+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -529,6 +529,46 @@
       "change": 0
     },
     {
+      "id": "i139fa3fd",
+      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이진우"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 130.56,
+      "peak_score": 113.07,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "\"한쪽선 쓰레기로 보였어도 좋은 형이었다\" 서울대 치대 동기들 이진우 애도",
+          "url": "https://theqoo.net/hot/4412403373",
+          "score": 71.84
+        },
+        {
+          "source": "인벤",
+          "rank": 64,
+          "title": "서울대 교수 이진우 사태에 “살아갈 길은 열어둬야”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754583",
+          "score": 58.51
+        }
+      ],
+      "first_seen": "2026-11-19T18:29:26.022521+09:00",
+      "last_seen": "2026-11-20T09:55:57.900558+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 13,
+      "change": 3
+    },
+    {
       "id": "i2272efa7",
       "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -574,8 +614,8 @@
       "last_seen": "2026-11-18T20:14:16.609063+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i5d449f3d",
@@ -620,8 +660,8 @@
       "last_seen": "2026-11-12T09:47:37.853685+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i3570b6ac",
@@ -672,54 +712,8 @@
       "last_seen": "2026-11-11T10:37:41.180808+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 15,
-      "change": 0
-    },
-    {
-      "id": "i139fa3fd",
-      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이진우"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 128.54,
-      "peak_score": 113.07,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "속보) 이진우 공식 사망",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77445963?m=humor",
-          "score": 95.07
-        },
-        {
-          "source": "더쿠",
-          "rank": 29,
-          "title": "[단독] 이진우 사망에도...경찰, '리트·수능 의혹' 계속 수사",
-          "url": "https://theqoo.net/hot/4411780489",
-          "score": 67.53
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 46,
-          "title": "속보) 리트냥이 이진우 심정지 상태로 발견.. jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480094&_dcbest=1&page=1",
-          "score": 63.83
-        }
-      ],
-      "first_seen": "2026-11-19T18:29:26.022521+09:00",
-      "last_seen": "2026-11-19T18:29:26.022521+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
       "rank": 16,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i924c4c51",
