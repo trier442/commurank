@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-22T04:46:52.348148+09:00",
+  "collected_at": "2026-11-22T06:41:04.129529+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,86 +11,68 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i70248884",
-        "title": "‘리만가설’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib3876eed",
+        "title": "‘이번에’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "리만가설"
+          "이번에",
+          "오늘의"
         ],
-        "source_count": 2,
-        "post_count": 5,
-        "score": 84.91,
-        "peak_score": 84.91,
+        "source_count": 3,
+        "post_count": 4,
+        "score": 76.94,
+        "peak_score": 76.94,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "클리앙"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 11,
-            "title": "수학계가 리만가설 AI가 푼거 개빡쳐 하는 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477904?m=humor_only&t=now",
-            "score": 72.91
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "이번에 얼굴공개한 과학유튜버 리뷰엉이",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197548",
+            "score": 67.94
           },
           {
-            "source": "클리앙",
-            "rank": 33,
-            "title": "클로드를 통한 리만가설 증명 관련 해설 듣고 왔는데 소름돋네요.",
-            "url": "https://www.clien.net/service/board/park/19296715?od=T31&po=0&category=0&groupCd=",
-            "score": 67.37
+            "source": "루리웹",
+            "rank": 95,
+            "title": "\"저게 이번에 마왕을 퇴치한 공으로 아카데미에 들어온 평민인가\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478067?m=humor_only&t=now",
+            "score": 51.66
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 52,
+            "title": "[KB Pay] 오늘의 퀴즈 11/21일자 정답",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121016",
+            "score": 59.21
+          },
+          {
+            "source": "인벤",
+            "rank": 94,
+            "title": "[2026-11-22] 오늘의 전국 날씨 & 띠별 운세",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755166",
+            "score": 51.78
           }
         ],
         "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i91f13db9",
-        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "gta6"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 104.36,
-        "peak_score": 104.36,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "GTA6) 이쯤되면 PC하지 않은 남자가 뭔지 조차 알기 무서워진다",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477010?m=humor",
-            "score": 95.36
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 9,
-            "title": "와들와들 GTA6 근황…jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-            "score": 74.97
-          }
-        ],
-        "rank": 2,
-        "change": 1
+        "change": "NEW"
       },
       {
         "id": "i5f59c15f",
         "title": "제발 김장 좀 해달라는 농민들",
         "keywords": [
-          "김장",
           "농민들",
           "제발",
+          "김장",
           "해달라는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 86.18,
-        "peak_score": 86.18,
+        "score": 93.32,
+        "peak_score": 93.32,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -99,124 +81,54 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 6,
+            "rank": 4,
             "title": "제발 김장 좀 해달라는 농민들",
             "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-            "score": 78.18
+            "score": 85.32
           },
           {
             "source": "인벤",
-            "rank": 24,
+            "rank": 32,
             "title": "제발 김장 좀 해달라는 농민들",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755163",
-            "score": 69.57
+            "score": 65.43
           }
         ],
-        "rank": 3,
-        "change": "NEW"
+        "rank": 2,
+        "change": 1
       },
       {
-        "id": "i9a0fa5b7",
-        "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "ai가"
+          "난리난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.91,
-        "peak_score": 81.91,
+        "score": 92.1,
+        "peak_score": 92.1,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 11,
-            "title": "수학계가 리만가설 AI가 푼거 개빡쳐 하는 이유",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477904?m=humor_only&t=now",
-            "score": 72.91
-          },
-          {
-            "source": "클리앙",
-            "rank": 77,
-            "title": "Ai가 대체못하는 직업이 있을까싶네요",
-            "url": "https://www.clien.net/service/board/park/19296695?od=T31&po=0&category=0&groupCd=",
-            "score": 55.9
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i1cc33293",
-        "title": "‘하이닉스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "하이닉스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.21,
-        "peak_score": 78.21,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 27,
-            "title": "밑바닥 뚫고 지하로 향하는 하이닉스",
-            "url": "https://theqoo.net/hot/4414154358",
-            "score": 69.21
-          },
-          {
-            "source": "인벤",
-            "rank": 78,
-            "title": "하이닉스 사겠다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755133",
-            "score": 55.86
-          }
-        ],
-        "rank": 5,
-        "change": -1
-      },
-      {
-        "id": "idc036774",
-        "title": "일본인이 한국여행에서 느낀점..jpg",
-        "keywords": [
-          "느낀점",
-          "한국여행에서",
-          "일본인이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.42,
-        "peak_score": 76.42,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
+          "디시인사이드",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 29,
-            "title": "일본인이 한국여행에서 느낀점..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197985",
-            "score": 68.42
+            "source": "디시인사이드",
+            "rank": 5,
+            "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
+            "score": 83.1
           },
           {
-            "source": "루리웹",
-            "rank": 55,
-            "title": "일본인이 한국여행에서 느낀점",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477884?m=humor_only&t=now",
-            "score": 61.54
+            "source": "뽐뿌",
+            "rank": 27,
+            "title": "난리난) 중국 자율주행 자동차 근황. mp4",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
+            "score": 67.43
           }
         ],
-        "rank": 6,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -227,8 +139,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 73.69,
-        "peak_score": 73.69,
+        "score": 74.24,
+        "peak_score": 74.24,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -237,21 +149,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 41,
+            "rank": 34,
             "title": "리트냥이는 비비지도 못한다는 전청조 멘탈...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480726&_dcbest=1&page=1",
-            "score": 64.69
+            "score": 65.24
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 70,
             "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-            "score": 60.61
+            "score": 56.31
           }
         ],
-        "rank": 7,
-        "change": "NEW"
+        "rank": 4,
+        "change": 3
       }
     ],
     "daily": [
@@ -291,7 +203,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": 2
+        "change": 0
       },
       {
         "id": "iead2b930",
@@ -329,7 +241,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i70248884",
@@ -367,22 +279,22 @@
         "latest_source_count": 2,
         "latest_post_count": 5,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5f59c15f",
         "title": "제발 김장 좀 해달라는 농민들",
         "keywords": [
-          "김장",
           "농민들",
           "제발",
+          "김장",
           "해달라는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 95.65,
-        "peak_score": 86.18,
-        "appearances": 1,
+        "score": 104.81,
+        "peak_score": 93.32,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -390,24 +302,62 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 6,
+            "rank": 4,
             "title": "제발 김장 좀 해달라는 농민들",
             "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-            "score": 78.18
+            "score": 85.32
           },
           {
             "source": "인벤",
-            "rank": 24,
+            "rank": 32,
             "title": "제발 김장 좀 해달라는 농민들",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755163",
-            "score": 69.57
+            "score": 65.43
           }
         ],
         "first_seen": "2026-11-22T04:46:52.348148+09:00",
-        "last_seen": "2026-11-22T04:46:52.348148+09:00",
+        "last_seen": "2026-11-22T06:41:04.129529+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
+        "change": 0
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 101.57,
+        "peak_score": 92.1,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 5,
+            "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
+            "score": 83.1
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 27,
+            "title": "난리난) 중국 자율주행 자동차 근황. mp4",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
+            "score": 67.43
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-22T06:41:04.129529+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
         "change": "NEW"
       },
       {
@@ -445,7 +395,7 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -483,8 +433,8 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "idc036774",
@@ -523,8 +473,8 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "ibfa99061",
@@ -534,9 +484,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.16,
-        "peak_score": 73.69,
-        "appearances": 1,
+        "score": 85.73,
+        "peak_score": 74.24,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
@@ -544,25 +494,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 41,
+            "rank": 34,
             "title": "리트냥이는 비비지도 못한다는 전청조 멘탈...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480726&_dcbest=1&page=1",
-            "score": 64.69
+            "score": 65.24
           },
           {
             "source": "인벤",
-            "rank": 60,
+            "rank": 70,
             "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-            "score": 60.61
+            "score": 56.31
           }
         ],
         "first_seen": "2026-11-22T04:46:52.348148+09:00",
-        "last_seen": "2026-11-22T04:46:52.348148+09:00",
+        "last_seen": "2026-11-22T06:41:04.129529+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i8bcd73b9",
@@ -599,8 +549,8 @@
         "last_seen": "2026-11-22T01:12:00.627587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -4
+        "rank": 10,
+        "change": -1
       }
     ],
     "weekly": [
@@ -1668,9 +1618,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 148.6,
+        "score": 149.12,
         "peak_score": 121.61,
-        "appearances": 8,
+        "appearances": 9,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1680,21 +1630,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 79,
-            "title": "싱글벙글 일본에서 난리난 미국 공항에서 끌려가는 스시녀 영상",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477631&_dcbest=1&page=1",
-            "score": 54.57
+            "rank": 5,
+            "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
+            "score": 83.1
           },
           {
             "source": "뽐뿌",
-            "rank": 92,
-            "title": "현재) 난리난 인권위 근황 ㄷㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10182932",
-            "score": 52.26
+            "rank": 27,
+            "title": "난리난) 중국 자율주행 자동차 근황. mp4",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
+            "score": 67.43
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-11T03:08:47.985223+09:00",
+        "last_seen": "2026-11-22T06:41:04.129529+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
