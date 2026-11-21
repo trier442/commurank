@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-21",
   "label": "2026년 11월 21일",
-  "collected_at": "2026-11-21T08:03:54.550617+09:00",
+  "collected_at": "2026-11-21T09:49:44.516680+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘그림쟁이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘그림쟁이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #수능. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 15,
-    "keywords": 17,
-    "top100_views": 1170736,
-    "top100_comments": 8833
+    "daily_issues": 16,
+    "keywords": 11,
+    "top100_views": 1070436,
+    "top100_comments": 7392
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "4개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#수능",
+      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "수능"
     }
   ],
   "top_posts": [
@@ -59,7 +59,7 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 108.76,
+      "score": 108.61,
       "views": 22723,
       "likes": 154,
       "comments": 100,
@@ -88,12 +88,41 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 107.66,
+      "score": 107.51,
       "views": 28872,
       "likes": 135,
       "comments": 128,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "미국 상원의원 \"진정한 남자는 야.동 안 본다\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77467668?m=humor",
+      "first_seen": "2026-11-21T09:49:44.516680+09:00",
+      "last_seen": "2026-11-21T09:49:44.516680+09:00",
+      "peak_score": 97.71,
+      "max_views": 13104,
+      "max_likes": 73,
+      "max_comments": 48,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-21": {
+          "max_score": 97.71,
+          "max_views": 13104,
+          "max_likes": 73,
+          "max_comments": 48,
+          "appearances": 1,
+          "last_seen": "2026-11-21T09:49:44.516680+09:00"
+        }
+      },
+      "score": 107.23,
+      "views": 13104,
+      "likes": 73,
+      "comments": 48,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "농장 채로 수백 명에게 서리당한 농부",
@@ -117,12 +146,70 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 105.3,
+      "score": 105.15,
       "views": 25722,
       "likes": 162,
       "comments": 76,
       "active_days": 1,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "주식) 우리가 생각하는 장투 vs 실제 장투",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77466818?m=humor",
+      "first_seen": "2026-11-21T09:49:44.516680+09:00",
+      "last_seen": "2026-11-21T09:49:44.516680+09:00",
+      "peak_score": 94.25,
+      "max_views": 34010,
+      "max_likes": 68,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-21": {
+          "max_score": 94.25,
+          "max_views": 34010,
+          "max_likes": 68,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-11-21T09:49:44.516680+09:00"
+        }
+      },
+      "score": 103.77,
+      "views": 34010,
+      "likes": 68,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "빌드업이 재미없다고 불평하는게 빡친다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77466812?m=humor",
+      "first_seen": "2026-11-21T09:49:44.516680+09:00",
+      "last_seen": "2026-11-21T09:49:44.516680+09:00",
+      "peak_score": 92.44,
+      "max_views": 24476,
+      "max_likes": 46,
+      "max_comments": 45,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-21": {
+          "max_score": 92.44,
+          "max_views": 24476,
+          "max_likes": 46,
+          "max_comments": 45,
+          "appearances": 1,
+          "last_seen": "2026-11-21T09:49:44.516680+09:00"
+        }
+      },
+      "score": 101.96,
+      "views": 24476,
+      "likes": 46,
+      "comments": 45,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "후덜덜한 강남 배달원 한달 월급 인증",
@@ -146,12 +233,12 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 102.0,
+      "score": 101.85,
       "views": 21540,
       "likes": 0,
       "comments": 40,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "얼마전 쿠우쿠우에서 있었던일",
@@ -175,12 +262,12 @@
           "last_seen": "2026-11-21T04:13:56.071333+09:00"
         }
       },
-      "score": 97.38,
+      "score": 97.23,
       "views": 22090,
       "likes": 15,
       "comments": 55,
       "active_days": 1,
-      "change": -1
+      "change": -3
     },
     {
       "title": "배현진. 리트냥이님의 명복을 빕니다",
@@ -204,12 +291,12 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 95.15,
+      "score": 95.0,
       "views": 7503,
       "likes": 0,
       "comments": 34,
       "active_days": 1,
-      "change": 0
+      "change": -3
     },
     {
       "title": "ai 리만가설 증명 완료",
@@ -233,211 +320,184 @@
           "last_seen": "2026-11-21T08:03:54.550617+09:00"
         }
       },
-      "score": 94.95,
+      "score": 94.8,
       "views": 6826,
       "likes": 6,
       "comments": 24,
       "active_days": 1,
-      "change": 1
-    },
-    {
-      "title": "매일 5만보 걸은 후기.jpg",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196949",
-      "first_seen": "2026-11-21T02:04:41.969998+09:00",
-      "last_seen": "2026-11-21T04:13:56.071333+09:00",
-      "peak_score": 84.71,
-      "max_views": 28992,
-      "max_likes": 33,
-      "max_comments": 94,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-11-21": {
-          "max_score": 84.71,
-          "max_views": 28992,
-          "max_likes": 33,
-          "max_comments": 94,
-          "appearances": 2,
-          "last_seen": "2026-11-21T04:13:56.071333+09:00"
-        }
-      },
-      "score": 94.81,
-      "views": 28992,
-      "likes": 33,
-      "comments": 94,
-      "active_days": 1,
       "change": -3
-    },
-    {
-      "title": "일본인들이 만든 한국 과자 티어표 ㄷㄷ.jpg",
-      "source": "뽐뿌",
-      "category": "생활",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116311",
-      "first_seen": "2026-11-21T04:13:56.071333+09:00",
-      "last_seen": "2026-11-21T04:13:56.071333+09:00",
-      "peak_score": 85.0,
-      "max_views": 20376,
-      "max_likes": 0,
-      "max_comments": 64,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-21": {
-          "max_score": 85.0,
-          "max_views": 20376,
-          "max_likes": 0,
-          "max_comments": 64,
-          "appearances": 1,
-          "last_seen": "2026-11-21T04:13:56.071333+09:00"
-        }
-      },
-      "score": 94.21,
-      "views": 20376,
-      "likes": 0,
-      "comments": 64,
-      "active_days": 1,
-      "change": -2
-    },
-    {
-      "title": "싱글벙글.....하반기가 ㅈㄴ 중요한 이유......jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480529&_dcbest=1&page=1",
-      "first_seen": "2026-11-21T02:04:41.969998+09:00",
-      "last_seen": "2026-11-21T08:03:54.550617+09:00",
-      "peak_score": 81.75,
-      "max_views": 30386,
-      "max_likes": 266,
-      "max_comments": 112,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-11-21": {
-          "max_score": 81.75,
-          "max_views": 30386,
-          "max_likes": 266,
-          "max_comments": 112,
-          "appearances": 3,
-          "last_seen": "2026-11-21T08:03:54.550617+09:00"
-        }
-      },
-      "score": 92.8,
-      "views": 30386,
-      "likes": 266,
-      "comments": 112,
-      "active_days": 1,
-      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "[애플TV스토어] 영화 오디세이 OTT 사전예약(11,000원)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109241",
-      "category": "연예",
-      "views": 6586,
-      "likes": 10,
-      "comments": 32,
-      "score": 77.94,
-      "change": 8,
-      "current_rank": 5,
+      "source": "디시인사이드",
+      "title": "오픈AI 이사, 초지능까지 6~12개월 남았다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480555&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11297,
+      "likes": 64,
+      "comments": 179,
+      "score": 70.09,
+      "change": 3,
+      "current_rank": 16,
       "new_entry": false,
+      "delta_views": 4683,
+      "delta_likes": 21,
+      "delta_comments": 116,
+      "rank_gain": 3,
+      "rising_score": 89.32,
+      "rising_rank": 1,
+      "window_minutes": 106
+    },
+    {
+      "source": "디시인사이드",
+      "title": "금수저 vs 금수저 .일본 비즈니스석타서 무개념 커플만남",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480549&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7129,
+      "likes": 60,
+      "comments": 70,
+      "score": 57.76,
+      "change": 0,
+      "current_rank": 68,
+      "new_entry": false,
+      "delta_views": 4418,
+      "delta_likes": 29,
+      "delta_comments": 35,
+      "rank_gain": 0,
+      "rising_score": 86.4,
+      "rising_rank": 2,
+      "window_minutes": 106
+    },
+    {
+      "source": "디시인사이드",
+      "title": "“의치대 가능, 수년간 사고 없다”…14년전 이미 시험장 뚫은 ‘선수’",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480553&_dcbest=1&page=1",
+      "category": "스포츠",
+      "views": 7131,
+      "likes": 32,
+      "comments": 70,
+      "score": 58.36,
+      "change": 0,
+      "current_rank": 67,
+      "new_entry": false,
+      "delta_views": 5135,
+      "delta_likes": 15,
+      "delta_comments": 51,
+      "rank_gain": 0,
+      "rising_score": 85.24,
+      "rising_rank": 3,
+      "window_minutes": 106
+    },
+    {
+      "source": "루리웹",
+      "title": "미국 상원의원 \"진정한 남자는 야.동 안 본다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77467668?m=humor",
+      "category": "이슈",
+      "views": 13104,
+      "likes": 73,
+      "comments": 48,
+      "score": 97.71,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 8,
-      "rising_score": 91.67,
-      "rising_rank": 1,
-      "window_minutes": 230
-    },
-    {
-      "source": "디시인사이드",
-      "title": "단독]리트 만점자 수색 경찰 내부정보 SNS에 유출…서울청, 경위 파악 착수",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480533&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 14139,
-      "likes": 88,
-      "comments": 123,
-      "score": 70.49,
-      "change": 15,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 5275,
-      "delta_likes": 30,
-      "delta_comments": 40,
-      "rank_gain": 15,
-      "rising_score": 86.16,
-      "rising_rank": 2,
-      "window_minutes": 230
-    },
-    {
-      "source": "디시인사이드",
-      "title": "AI 로 좁아진 신규채용, 결혼은 더 어려워졌다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480543&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 14675,
-      "likes": 53,
-      "comments": 297,
-      "score": 74.95,
-      "change": 7,
-      "current_rank": 10,
-      "new_entry": false,
-      "delta_views": 7797,
-      "delta_likes": 18,
-      "delta_comments": 135,
-      "rank_gain": 7,
-      "rising_score": 83.21,
-      "rising_rank": 3,
-      "window_minutes": 230
-    },
-    {
-      "source": "디시인사이드",
-      "title": "손주은 예언 ㄷㄷㄷㄷㄷㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480525&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16122,
-      "likes": 96,
-      "comments": 282,
-      "score": 70.12,
-      "change": 8,
-      "current_rank": 16,
-      "new_entry": false,
-      "delta_views": 4736,
-      "delta_likes": 29,
-      "delta_comments": 160,
-      "rank_gain": 8,
-      "rising_score": 82.84,
+      "rank_gain": 0,
+      "rising_score": 83.04,
       "rising_rank": 4,
-      "window_minutes": 230
+      "window_minutes": 106
+    },
+    {
+      "source": "루리웹",
+      "title": "주식) 우리가 생각하는 장투 vs 실제 장투",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77466818?m=humor",
+      "category": "이슈",
+      "views": 34010,
+      "likes": 68,
+      "comments": 51,
+      "score": 94.25,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.59,
+      "rising_rank": 5,
+      "window_minutes": 106
+    },
+    {
+      "source": "루리웹",
+      "title": "빌드업이 재미없다고 불평하는게 빡친다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77466812?m=humor",
+      "category": "이슈",
+      "views": 24476,
+      "likes": 46,
+      "comments": 45,
+      "score": 92.44,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.82,
+      "rising_rank": 6,
+      "window_minutes": 106
     },
     {
       "source": "더쿠",
-      "title": "중국의 미래도시 근황",
-      "url": "https://theqoo.net/hot/4413428698",
-      "category": "이슈",
-      "views": 46625,
+      "title": "방탄소년단 정국 폰으로 담은 가오슝의 영화 같은 풍경 (인스타)",
+      "url": "https://theqoo.net/hot/4413486490",
+      "category": "연예",
+      "views": 34779,
       "likes": 0,
-      "comments": 292,
-      "score": 77.68,
-      "change": 15,
-      "current_rank": 6,
+      "comments": 153,
+      "score": 64.84,
+      "change": 5,
+      "current_rank": 28,
       "new_entry": false,
-      "delta_views": 20864,
+      "delta_views": 19591,
       "delta_likes": 0,
-      "delta_comments": 66,
-      "rank_gain": 15,
-      "rising_score": 82.42,
-      "rising_rank": 5,
-      "window_minutes": 230
+      "delta_comments": 68,
+      "rank_gain": 5,
+      "rising_score": 80.42,
+      "rising_rank": 7,
+      "window_minutes": 106
     },
     {
-      "source": "뽐뿌",
-      "title": "후덜덜한 강남 배달원 한달 월급 인증",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197052",
+      "source": "더쿠",
+      "title": "실시간 2년 전 주가로 회귀한 엔비디아",
+      "url": "https://theqoo.net/hot/4413437051",
       "category": "이슈",
-      "views": 21540,
+      "views": 55050,
       "likes": 0,
-      "comments": 40,
-      "score": 91.58,
+      "comments": 166,
+      "score": 62.53,
+      "change": 0,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 23375,
+      "delta_likes": 0,
+      "delta_comments": 43,
+      "rank_gain": 0,
+      "rising_score": 78.37,
+      "rising_rank": 8,
+      "window_minutes": 106
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 역사상 가장 유명한 박사학위 논문 Top 12",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480573&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 14023,
+      "likes": 47,
+      "comments": 131,
+      "score": 78.59,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -445,89 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.46,
-      "rising_rank": 6,
-      "window_minutes": 230
-    },
-    {
-      "source": "인벤",
-      "title": "80년대 에서 90년대의 홍콩 유명 남녀 배우들이 받은 출연료",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754921",
-      "category": "연예",
-      "views": 4831,
-      "likes": 0,
-      "comments": 8,
-      "score": 61.79,
-      "change": 0,
-      "current_rank": 50,
-      "new_entry": false,
-      "delta_views": 3019,
-      "delta_likes": 0,
-      "delta_comments": 7,
-      "rank_gain": 0,
-      "rising_score": 76.92,
-      "rising_rank": 7,
-      "window_minutes": 230
-    },
-    {
-      "source": "루리웹",
-      "title": "일본만화식 와인 소믈리에",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77466380?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 4906,
-      "likes": 22,
-      "comments": 18,
-      "score": 63.15,
-      "change": 6,
-      "current_rank": 43,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 6,
-      "rising_score": 75.0,
-      "rising_rank": 8,
-      "window_minutes": 230
-    },
-    {
-      "source": "인벤",
-      "title": "환자 고츄 보고 쮸압쮸압 생각 들었다는 간호사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754942",
-      "category": "유머",
-      "views": 930,
-      "likes": 0,
-      "comments": 8,
-      "score": 75.1,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.54,
+      "rising_score": 75.01,
       "rising_rank": 9,
-      "window_minutes": 230
+      "window_minutes": 106
     },
     {
-      "source": "인벤",
-      "title": "연봉이 5500인데 지원자가 없다는 회사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754940",
-      "category": "생활",
-      "views": 1056,
-      "likes": 0,
-      "comments": 10,
-      "score": 75.01,
+      "source": "디시인사이드",
+      "title": "현재 프랑스에서 필수로 공부해야되는 과목",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480565&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7894,
+      "likes": 142,
+      "comments": 186,
+      "score": 78.49,
       "change": "NEW",
-      "current_rank": 9,
+      "current_rank": 5,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.5,
+      "rising_score": 74.97,
       "rising_rank": 10,
-      "window_minutes": 230
+      "window_minutes": 106
     }
   ],
   "issues": [
@@ -621,7 +621,7 @@
       "latest_source_count": 4,
       "latest_post_count": 4,
       "rank": 2,
-      "change": 7
+      "change": 0
     },
     {
       "id": "i70248884",
@@ -659,7 +659,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie7dab000",
@@ -706,7 +706,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie9ff0a71",
@@ -745,7 +745,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i7d8a3e8a",
@@ -783,7 +783,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i3c64ef3a",
@@ -821,7 +821,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i42817f00",
@@ -859,7 +859,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i29f25407",
@@ -897,7 +897,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iac764c07",
@@ -943,418 +943,156 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -4
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
-      "id": "i4dea1b92",
-      "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0f382d6a",
+      "title": "수능 그 세계사 문제 본 중국인들 반응",
       "keywords": [
-        "엔비디아"
-      ],
-      "source_count": 4,
-      "post_count": 4,
-      "score": 92.84,
-      "peak_score": 92.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "실시간 2년 전 주가로 회귀한 엔비디아",
-          "url": "https://theqoo.net/hot/4413437051",
-          "score": 67.84
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 32,
-          "title": "이시각 엔비디아 AMD 전부 불기둥",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=458277",
-          "score": 66.16
-        },
-        {
-          "source": "루리웹",
-          "rank": 49,
-          "title": "주식) 마이클버리 \" 엔비디아 풋옵션 절반 매도했습니다.\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77466396?m=humor_only&t=now",
-          "score": 61.87
-        },
-        {
-          "source": "클리앙",
-          "rank": 71,
-          "title": "엔비디아 마14% 쇼크",
-          "url": "https://www.clien.net/service/board/park/19296343?od=T31&po=0&category=0&groupCd=",
-          "score": 58.85
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i29f25407",
-      "title": "‘월요일’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "월요일"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 83.62,
-      "peak_score": 83.62,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 11,
-          "title": "월요일 주식시장 충격에 대비하시길",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754924",
-          "score": 73.62
-        },
-        {
-          "source": "클리앙",
-          "rank": 62,
-          "title": "월요일 주식은 검은 월요일 수준이 아니고...",
-          "url": "https://www.clien.net/service/board/park/19296344?od=T31&po=0&category=0&groupCd=",
-          "score": 60.4
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i42817f00",
-      "title": "‘중요한’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "중요한"
+        "세계사",
+        "수능"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.7,
-      "peak_score": 85.7,
+      "score": 70.69,
+      "peak_score": 70.69,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "싱글벙글.....하반기가 ㅈㄴ 중요한 이유......jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480529&_dcbest=1&page=1",
-          "score": 76.7
+          "source": "루리웹",
+          "rank": 36,
+          "title": "수능 그 세계사 문제 본 중국인들 반응",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77467907?m=humor_only&t=now",
+          "score": 62.69
         },
         {
           "source": "인벤",
-          "rank": 29,
-          "title": "견종보다 주인 이미지가 중요한 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754939",
-          "score": 66.73
+          "rank": 87,
+          "title": "요번 수능 세계사 정답률 7.4%짜리 문제",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754943",
+          "score": 53.86
         }
       ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "ie9ff0a71",
-      "title": "중국의 미래도시 근황",
-      "keywords": [
-        "중국의",
-        "미래도시"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.68,
-      "peak_score": 85.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 6,
-          "title": "중국의 미래도시 근황",
-          "url": "https://theqoo.net/hot/4413428698",
-          "score": 77.68
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 72,
-          "title": "와들와들 중국의 미래도시 ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480503&_dcbest=1&page=1",
-          "score": 58.25
-        }
-      ],
-      "rank": 4,
-      "change": 2
-    },
-    {
-      "id": "i9a0fa5b7",
-      "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai가"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.53,
-      "peak_score": 77.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 21,
-          "title": "요즘 대학생들 : AI가 없던 시절에는 그럼 대학생활을 대체 어케 하신거에요 선배님들......",
-          "url": "https://theqoo.net/hot/4413419806",
-          "score": 68.53
-        },
-        {
-          "source": "클리앙",
-          "rank": 96,
-          "title": "AI가 수능을 다 풀면, 우리는 모두 같은 실력일까요?",
-          "url": "https://www.clien.net/service/board/park/19296346?od=T31&po=0&category=0&groupCd=",
-          "score": 52.71
-        }
-      ],
-      "rank": 5,
-      "change": 3
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.84,
-      "peak_score": 76.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "실시간 2년 전 주가로 회귀한 엔비디아",
-          "url": "https://theqoo.net/hot/4413437051",
-          "score": 67.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 64,
-          "title": "실시간 코스피 추정가",
-          "url": "https://www.clien.net/service/board/park/19296360?od=T31&po=0&category=0&groupCd=",
-          "score": 60.05
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i1060e3b1",
-      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "조희대"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.06,
-      "peak_score": 74.06,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "조희대 탄핵보다 더 시급한건",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197099",
-          "score": 65.06
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 97,
-          "title": "[속보] 민주당, 진보정당과 함께 조희대 탄핵 진행",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480510&_dcbest=1&page=1",
-          "score": 52.66
-        }
-      ],
-      "rank": 7,
-      "change": -3
-    },
-    {
-      "id": "i5ba3b544",
-      "title": "푸틴 면전에서 직설적으로 말한 호주 총리",
-      "keywords": [
-        "푸틴",
-        "말한",
-        "면전에서",
-        "호주",
-        "총리",
-        "직설적으로"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.34,
-      "peak_score": 70.34,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 48,
-          "title": "푸틴 면전에서 직설적으로 말한 호주 총리",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754923",
-          "score": 62.34
-        },
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "푸틴 면전에서 직설적으로 말한 호주 총리",
-          "url": "https://www.clien.net/service/board/park/19296355?od=T31&po=0&category=0&groupCd=",
-          "score": 61.78
-        }
-      ],
-      "rank": 8,
+      "rank": 1,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 170.88,
-      "post_count": 6,
+      "keyword": "수능",
+      "score": 150.24,
+      "post_count": 5,
       "source_count": 4,
-      "best_rank": 1,
+      "best_rank": 36,
       "sources": [
         "더쿠",
-        "디시인사이드",
         "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 1
+      "change": 3
     },
     {
-      "keyword": "ai",
-      "score": 164.32,
-      "post_count": 4,
-      "source_count": 4,
+      "keyword": "주식",
+      "score": 135.92,
+      "post_count": 5,
+      "source_count": 3,
       "best_rank": 2,
       "sources": [
-        "디시인사이드",
         "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": -1
+      "change": 8
     },
     {
-      "keyword": "엔비디아",
-      "score": 147.51,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 24,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 13
-    },
-    {
-      "keyword": "수능",
-      "score": 139.85,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 23,
+      "keyword": "vs",
+      "score": 129.67,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌",
-        "클리앙"
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 125.96,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 13,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 1
+      "change": -3
     },
     {
-      "keyword": "월요일",
-      "score": 103.25,
-      "post_count": 4,
+      "keyword": "본다",
+      "score": 112.25,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "영화",
-      "score": 103.08,
+      "keyword": "진실",
+      "score": 101.93,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 10,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "중요한",
-      "score": 102.55,
-      "post_count": 2,
+      "keyword": "없다",
+      "score": 95.56,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 34,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": 1
     },
     {
-      "keyword": "없다",
-      "score": 97.3,
+      "keyword": "대한민국",
+      "score": 87.3,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 18,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1364,160 +1102,95 @@
       "change": "NEW"
     },
     {
-      "keyword": "미래도시",
-      "score": 96.81,
+      "keyword": "세계사",
+      "score": 83.8,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [
-        "중국"
-      ],
-      "rank": 9,
-      "change": 3
-    },
-    {
-      "keyword": "주식",
-      "score": 96.4,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 36,
       "sources": [
         "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "이미",
+      "score": 79.32,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 67,
+      "sources": [
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "keyword": "인생",
-      "score": 91.58,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
+      "keyword": "단독",
+      "score": 70.46,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 29,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "실시간",
-      "score": 89.58,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 24,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "직설적",
-      "score": 87.74,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 48,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "말한",
-        "면전",
-        "총리",
-        "푸틴",
-        "호주"
-      ],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "결국",
-      "score": 86.96,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": 3
-    },
-    {
-      "keyword": "ai가",
-      "score": 85.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 21,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 15,
-      "change": 0
+      "change": 6
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "세계 1위였던 일본의 전자산업이 몰락한 과정.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77464704?m=humor",
+      "title": "미국 상원의원 \"진정한 남자는 야.동 안 본다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77467668?m=humor",
       "score": 97.71,
-      "views": 22723,
-      "comments": 100
-    },
-    {
-      "source": "뽐뿌",
-      "title": "후덜덜한 강남 배달원 한달 월급 인증",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197052",
-      "score": 91.58,
-      "views": 21540,
-      "comments": 40
-    },
-    {
-      "source": "더쿠",
-      "title": "중국의 미래도시 근황",
-      "url": "https://theqoo.net/hot/4413428698",
-      "score": 77.68,
-      "views": 46625,
-      "comments": 292
+      "views": 13104,
+      "comments": 48
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글.....하반기가 ㅈㄴ 중요한 이유......jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480529&_dcbest=1&page=1",
-      "score": 76.7,
-      "views": 30386,
-      "comments": 112
+      "title": "싱글벙글 역사상 가장 유명한 박사학위 논문 Top 12",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480573&_dcbest=1&page=1",
+      "score": 78.59,
+      "views": 14023,
+      "comments": 131
     },
     {
       "source": "인벤",
-      "title": "환자 고츄 보고 쮸압쮸압 생각 들었다는 간호사",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754942",
-      "score": 75.1,
-      "views": 930,
-      "comments": 8
+      "title": "나온지 이틀만에 평점 나락간 GTA6",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754958",
+      "score": 77.3,
+      "views": 1979,
+      "comments": 18
+    },
+    {
+      "source": "더쿠",
+      "title": "여시를 2년 넘게 봐왔지만 이렇게 도움되는 글은 처음 본다 나도 갑자기 책읽고싶어짐ㅁㅊ.....",
+      "url": "https://theqoo.net/hot/4413537498",
+      "score": 76.0,
+      "views": 27729,
+      "comments": 332
     },
     {
       "source": "클리앙",
-      "title": "사람의 지능에 따라 AI 결과가 많이 달라질거라 믿는 사람이 많은데요",
-      "url": "https://www.clien.net/service/board/park/19296357?od=T31&po=0&category=0&groupCd=",
-      "score": 71.47,
-      "views": 680,
-      "comments": 12
+      "title": "지금의 하락은 AI버블 붕괴가 아닙니다.",
+      "url": "https://www.clien.net/service/board/park/19296391?od=T31&po=0&category=0&groupCd=",
+      "score": 71.84,
+      "views": 1597,
+      "comments": 11
+    },
+    {
+      "source": "뽐뿌",
+      "title": "일본 코스트코에 뜬 연예인",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197238",
+      "score": 71.63,
+      "views": 6826,
+      "comments": 15
     }
   ]
 }
