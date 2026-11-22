@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-22T08:59:50.432892+09:00",
+  "collected_at": "2026-11-22T10:39:33.526251+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,139 +11,47 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ifd5a2cc3",
-        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "id2d5aa4e",
+        "title": "미래에 전국민 테슬라 fsd 같은것이 이루어지면 좋겠네요",
         "keywords": [
-          "한국의"
+          "테슬라",
+          "fsd",
+          "시각화"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 96.59,
-        "peak_score": 96.59,
+        "source_count": 3,
+        "post_count": 4,
+        "score": 79.67,
+        "peak_score": 79.67,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹"
+          "뽐뿌",
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "정신나간 한국의 암흑 요리사",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478065?m=humor",
-            "score": 87.59
+            "source": "클리앙",
+            "rank": 39,
+            "title": "미래에 전국민 테슬라 fsd 같은것이 이루어지면 좋겠네요",
+            "url": "https://www.clien.net/service/board/park/19296786?od=T31&po=0&category=0&groupCd=",
+            "score": 63.67
           },
           {
-            "source": "디시인사이드",
-            "rank": 69,
-            "title": "아시아의 작은 유럽 한국의 모습 .",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480765&_dcbest=1&page=1",
-            "score": 58.97
+            "source": "뽐뿌",
+            "rank": 47,
+            "title": "미쳤다는 테슬라 FSD 15 시각화",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198047",
+            "score": 61.75
+          },
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+            "score": 58.79
           }
         ],
         "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.61,
-        "peak_score": 86.61,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 9,
-            "title": "사람이 없는데 어떻게 인프라 먼저 만드냐고 하는데",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478562?m=humor_only&t=now",
-            "score": 77.61
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 79,
-            "title": "Ai시험부정 중고등학교까지 광범위, 내신반영 어떻게?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480792&_dcbest=1&page=1",
-            "score": 56.99
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i1b7788cf",
-        "title": "‘업데이트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "업데이트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.79,
-        "peak_score": 83.79,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 12,
-            "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
-            "score": 74.79
-          },
-          {
-            "source": "클리앙",
-            "rank": 24,
-            "title": "테슬라가 fsd를 gta급으로 업데이트 하네요",
-            "url": "https://www.clien.net/service/board/park/19296736?od=T31&po=0&category=0&groupCd=",
-            "score": 69.47
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i89c5681f",
-        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "테슬라"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.79,
-        "peak_score": 83.79,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 12,
-            "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
-            "score": 74.79
-          },
-          {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "테슬라 모델 S/X 중고차값은 더 오르겠네요.",
-            "url": "https://www.clien.net/service/board/park/19296735?od=T31&po=0&category=0&groupCd=",
-            "score": 61.07
-          }
-        ],
-        "rank": 4,
         "change": "NEW"
       },
       {
@@ -153,46 +61,117 @@
           "gta6"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 75.85,
-        "peak_score": 75.85,
+        "post_count": 3,
+        "score": 105.77,
+        "peak_score": 105.77,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 31,
-            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
-            "score": 66.85
+            "source": "루리웹",
+            "rank": 2,
+            "title": "민심 박살나는 중이라는 GTA6 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478303?m=humor",
+            "score": 95.77
           },
           {
-            "source": "디시인사이드",
-            "rank": 47,
-            "title": "와들와들 GTA6 근황…jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-            "score": 63.94
+            "source": "인벤",
+            "rank": 65,
+            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+            "score": 57.3
           }
         ],
-        "rank": 5,
-        "change": "NEW"
+        "rank": 2,
+        "change": 3
       },
       {
-        "id": "i5f59c15f",
-        "title": "제발 김장 좀 해달라는 농민들",
+        "id": "i5f59d520",
+        "title": "‘홈플러스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "농민들",
-          "해달라는",
-          "김장",
-          "제발"
+          "홈플러스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.5,
-        "peak_score": 72.5,
+        "score": 106.71,
+        "peak_score": 106.71,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "사모펀드, \"홈플러스 죽이고 일본 회사도 죽이겠다\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478483?m=humor",
+            "score": 97.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "홈플러스 방문 후기",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=51039",
+            "score": 67.73
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i24ae49e9",
+        "title": "‘2026년’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "2026년"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.87,
+        "peak_score": 77.87,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 21,
+            "title": "2026년 논란 있거나 나락간 사람들 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198053",
+            "score": 68.87
+          },
+          {
+            "source": "인벤",
+            "rank": 57,
+            "title": "2026년 11월 22일 일요일 간추린 뉴스",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755202",
+            "score": 58.52
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i35dce0d3",
+        "title": "작년엔 줄 서는 데만 1시간…재고 쌓아둔 사장님도 '한숨'",
+        "keywords": [
+          "사장님도",
+          "작년엔",
+          "한숨",
+          "재고",
+          "서는",
+          "쌓아둔",
+          "1시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.42,
+        "peak_score": 72.42,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -200,90 +179,90 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 43,
-            "title": "제발 김장 좀 해달라는 농민들",
-            "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-            "score": 64.5
-          },
-          {
             "source": "인벤",
-            "rank": 60,
-            "title": "제발 김장 좀 해달라는 농민들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755163",
-            "score": 61.25
-          }
-        ],
-        "rank": 6,
-        "change": -4
-      },
-      {
-        "id": "i567efd17",
-        "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "드라마"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.05,
-        "peak_score": 69.05,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 63,
-            "title": "남주가 ㅇㅇ한 드라마 <라이어> (ㅅㅍ주의)",
-            "url": "https://theqoo.net/hot/4414158050",
-            "score": 60.05
+            "rank": 38,
+            "title": "작년엔 줄 서는 데만 1시간…재고 쌓아둔 사장님도 '한숨'",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755198",
+            "score": 64.42
           },
           {
-            "source": "루리웹",
-            "rank": 66,
-            "title": "ai 뇌절 유투브 드라마 특",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478493?m=humor_only&t=now",
-            "score": 59.27
+            "source": "클리앙",
+            "rank": 76,
+            "title": "작년엔 줄 서는 데만 1시간'…재고 쌓아둔 사장님도 '한숨'",
+            "url": "https://www.clien.net/service/board/park/19296770?od=T31&po=0&category=0&groupCd=",
+            "score": 55.78
           }
         ],
-        "rank": 7,
+        "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ibfa99061",
-        "title": "‘전청조’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "전청조"
+          "난리난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 62.39,
-        "peak_score": 62.39,
+        "score": 71.82,
+        "peak_score": 71.82,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 92,
-            "title": "리트냥이는 비비지도 못한다는 전청조 멘탈...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480726&_dcbest=1&page=1",
-            "score": 53.39
+            "rank": 42,
+            "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
+            "score": 62.82
           },
           {
-            "source": "인벤",
-            "rank": 100,
-            "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-            "score": 49.89
+            "source": "뽐뿌",
+            "rank": 64,
+            "title": "난리난) 중국 자율주행 자동차 근황. mp4",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
+            "score": 57.61
           }
         ],
-        "rank": 8,
-        "change": -4
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i26dc6ffd",
+        "title": "‘시각화’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시각화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.75,
+        "peak_score": 70.75,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 47,
+            "title": "미쳤다는 테슬라 FSD 15 시각화",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198047",
+            "score": 61.75
+          },
+          {
+            "source": "클리앙",
+            "rank": 96,
+            "title": "테슬라 FSD의 새로운 시각화 수준이 충격적이네요.",
+            "url": "https://www.clien.net/service/board/park/19296762?od=T31&po=0&category=0&groupCd=",
+            "score": 51.47
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
       }
     ],
     "daily": [
@@ -294,10 +273,10 @@
           "gta6"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 117.29,
-        "peak_score": 104.36,
-        "appearances": 3,
+        "post_count": 3,
+        "score": 120.82,
+        "peak_score": 105.77,
+        "appearances": 4,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -305,26 +284,64 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 31,
-            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
-            "score": 66.85
+            "source": "루리웹",
+            "rank": 2,
+            "title": "민심 박살나는 중이라는 GTA6 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478303?m=humor",
+            "score": 95.77
           },
           {
-            "source": "디시인사이드",
-            "rank": 47,
-            "title": "와들와들 GTA6 근황…jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-            "score": 63.94
+            "source": "인벤",
+            "rank": 65,
+            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+            "score": 57.3
           }
         ],
         "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-22T08:59:50.432892+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 1,
         "change": 0
+      },
+      {
+        "id": "i5f59d520",
+        "title": "‘홈플러스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "홈플러스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.18,
+        "peak_score": 106.71,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "사모펀드, \"홈플러스 죽이고 일본 회사도 죽이겠다\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478483?m=humor",
+            "score": 97.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "홈플러스 방문 후기",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=51039",
+            "score": 67.73
+          }
+        ],
+        "first_seen": "2026-11-22T10:39:33.526251+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
       },
       {
         "id": "iead2b930",
@@ -361,8 +378,8 @@
         "last_seen": "2026-11-22T01:12:00.627587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i70248884",
@@ -399,8 +416,8 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 5,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i5f59c15f",
@@ -440,8 +457,8 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "ifd5a2cc3",
@@ -478,8 +495,8 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "ife021da2",
@@ -489,9 +506,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 101.57,
+        "score": 103.59,
         "peak_score": 92.1,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "뽐뿌"
@@ -499,24 +516,24 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 5,
+            "rank": 42,
             "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
-            "score": 83.1
+            "score": 62.82
           },
           {
             "source": "뽐뿌",
-            "rank": 27,
+            "rank": 64,
             "title": "난리난) 중국 자율주행 자동차 근황. mp4",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
-            "score": 67.43
+            "score": 57.61
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-22T06:41:04.129529+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -554,7 +571,55 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
+        "change": -1
+      },
+      {
+        "id": "id2d5aa4e",
+        "title": "미래에 전국민 테슬라 fsd 같은것이 이루어지면 좋겠네요",
+        "keywords": [
+          "테슬라",
+          "fsd",
+          "시각화"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 95.14,
+        "peak_score": 79.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 39,
+            "title": "미래에 전국민 테슬라 fsd 같은것이 이루어지면 좋겠네요",
+            "url": "https://www.clien.net/service/board/park/19296786?od=T31&po=0&category=0&groupCd=",
+            "score": 63.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 47,
+            "title": "미쳤다는 테슬라 FSD 15 시각화",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198047",
+            "score": 61.75
+          },
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+            "score": 58.79
+          }
+        ],
+        "first_seen": "2026-10-28T10:42:26.011598+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 9,
         "change": "NEW"
       },
       {
@@ -592,7 +657,7 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 10,
         "change": -2
       },
       {
@@ -630,8 +695,8 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "i89c5681f",
@@ -668,8 +733,8 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i9a0fa5b7",
@@ -706,8 +771,46 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -4
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i24ae49e9",
+        "title": "‘2026년’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "2026년"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.34,
+        "peak_score": 77.87,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 21,
+            "title": "2026년 논란 있거나 나락간 사람들 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198053",
+            "score": 68.87
+          },
+          {
+            "source": "인벤",
+            "rank": 57,
+            "title": "2026년 11월 22일 일요일 간추린 뉴스",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755202",
+            "score": 58.52
+          }
+        ],
+        "first_seen": "2026-10-31T22:32:46.076744+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "ibfa99061",
@@ -744,7 +847,7 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 15,
         "change": -3
       },
       {
@@ -784,8 +887,51 @@
         "last_seen": "2026-11-22T04:46:52.348148+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -5
+        "rank": 16,
+        "change": -3
+      },
+      {
+        "id": "i35dce0d3",
+        "title": "작년엔 줄 서는 데만 1시간…재고 쌓아둔 사장님도 '한숨'",
+        "keywords": [
+          "작년엔",
+          "한숨",
+          "재고",
+          "서는",
+          "쌓아둔",
+          "1시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 81.89,
+        "peak_score": 72.42,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 38,
+            "title": "작년엔 줄 서는 데만 1시간…재고 쌓아둔 사장님도 '한숨'",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755198",
+            "score": 64.42
+          },
+          {
+            "source": "클리앙",
+            "rank": 76,
+            "title": "작년엔 줄 서는 데만 1시간'…재고 쌓아둔 사장님도 '한숨'",
+            "url": "https://www.clien.net/service/board/park/19296770?od=T31&po=0&category=0&groupCd=",
+            "score": 55.78
+          }
+        ],
+        "first_seen": "2026-11-15T21:27:32.782979+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i8bcd73b9",
@@ -822,8 +968,46 @@
         "last_seen": "2026-11-22T01:12:00.627587+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 18,
         "change": -4
+      },
+      {
+        "id": "i26dc6ffd",
+        "title": "‘시각화’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시각화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.22,
+        "peak_score": 70.75,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 47,
+            "title": "미쳤다는 테슬라 FSD 15 시각화",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198047",
+            "score": 61.75
+          },
+          {
+            "source": "클리앙",
+            "rank": 96,
+            "title": "테슬라 FSD의 새로운 시각화 수준이 충격적이네요.",
+            "url": "https://www.clien.net/service/board/park/19296762?od=T31&po=0&category=0&groupCd=",
+            "score": 51.47
+          }
+        ],
+        "first_seen": "2026-11-22T10:39:33.526251+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i567efd17",
@@ -860,8 +1044,8 @@
         "last_seen": "2026-11-22T08:59:50.432892+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 20,
+        "change": -5
       }
     ],
     "weekly": [
@@ -915,9 +1099,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 139.26,
+        "score": 139.6,
         "peak_score": 109.06,
-        "appearances": 13,
+        "appearances": 14,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -926,24 +1110,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 31,
-            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
-            "score": 66.85
+            "source": "루리웹",
+            "rank": 2,
+            "title": "민심 박살나는 중이라는 GTA6 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478303?m=humor",
+            "score": 95.77
           },
           {
-            "source": "디시인사이드",
-            "rank": 47,
-            "title": "와들와들 GTA6 근황…jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-            "score": 63.94
+            "source": "인벤",
+            "rank": 65,
+            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+            "score": 57.3
           }
         ],
         "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-22T08:59:50.432892+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 2,
         "change": 0
       },
@@ -1438,6 +1622,44 @@
         "change": 0
       },
       {
+        "id": "i5f59d520",
+        "title": "‘홈플러스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "홈플러스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.18,
+        "peak_score": 106.71,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "사모펀드, \"홈플러스 죽이고 일본 회사도 죽이겠다\"",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478483?m=humor",
+            "score": 97.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "홈플러스 방문 후기",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=51039",
+            "score": 67.73
+          }
+        ],
+        "first_seen": "2026-11-22T10:39:33.526251+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
+      },
+      {
         "id": "i4dea1b92",
         "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1489,8 +1711,8 @@
         "last_seen": "2026-11-21T08:03:54.550617+09:00",
         "latest_source_count": 4,
         "latest_post_count": 4,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i1512ea3b",
@@ -1527,8 +1749,8 @@
         "last_seen": "2026-11-21T02:04:41.969998+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "ie861fdd4",
@@ -1565,8 +1787,8 @@
         "last_seen": "2026-11-19T10:28:39.012328+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i5d031567",
@@ -1614,8 +1836,8 @@
         "last_seen": "2026-11-19T13:34:06.546891+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i4c8bdd1e",
@@ -1654,46 +1876,8 @@
         "last_seen": "2026-11-20T20:24:22.602711+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버페이"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 113.79,
-        "peak_score": 97.83,
-        "appearances": 5,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 4,
-            "title": "[네이버페이] 일일적립, 클릭 39원, 라이브예고 9원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/109197",
-            "score": 87.83
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 53,
-            "title": "[네이버페이] 네이버여행 슈퍼위크 20원 받으세요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120964",
-            "score": 61.23
-          }
-        ],
-        "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-11-20T09:55:57.900558+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
@@ -1929,9 +2113,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 149.12,
+        "score": 149.6,
         "peak_score": 121.61,
-        "appearances": 9,
+        "appearances": 10,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1941,21 +2125,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 5,
+            "rank": 42,
             "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
-            "score": 83.1
+            "score": 62.82
           },
           {
             "source": "뽐뿌",
-            "rank": 27,
+            "rank": 64,
             "title": "난리난) 중국 자율주행 자동차 근황. mp4",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
-            "score": 67.43
+            "score": 57.61
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-22T06:41:04.129529+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
@@ -2012,9 +2196,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 139.6,
+        "score": 139.92,
         "peak_score": 109.06,
-        "appearances": 14,
+        "appearances": 15,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -2023,24 +2207,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 31,
-            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
-            "score": 66.85
+            "source": "루리웹",
+            "rank": 2,
+            "title": "민심 박살나는 중이라는 GTA6 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77478303?m=humor",
+            "score": 95.77
           },
           {
-            "source": "디시인사이드",
-            "rank": 47,
-            "title": "와들와들 GTA6 근황…jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-            "score": 63.94
+            "source": "인벤",
+            "rank": 65,
+            "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+            "score": 57.3
           }
         ],
         "first_seen": "2026-11-13T19:49:05.459513+09:00",
-        "last_seen": "2026-11-22T08:59:50.432892+09:00",
+        "last_seen": "2026-11-22T10:39:33.526251+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 8,
         "change": 0
       },
