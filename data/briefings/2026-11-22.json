@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-22",
   "label": "2026년 11월 22일",
-  "collected_at": "2026-11-22T06:41:04.129529+09:00",
+  "collected_at": "2026-11-22T08:59:50.432892+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘gta6’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #ai. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘gta6’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #테슬라. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 10,
-    "keywords": 10,
-    "top100_views": 1291328,
-    "top100_comments": 9871
+    "daily_issues": 15,
+    "keywords": 19,
+    "top100_views": 1309016,
+    "top100_comments": 9381
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#ai",
-      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "ai"
+      "title": "#테슬라",
+      "text": "2개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "테슬라"
     }
   ],
   "top_posts": [
@@ -59,12 +59,12 @@
           "last_seen": "2026-11-22T06:41:04.129529+09:00"
         }
       },
-      "score": 108.48,
+      "score": 108.29,
       "views": 17713,
       "likes": 86,
       "comments": 62,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "안먹어도 편식이라고 하면 안되는 음식 1위.JPG",
@@ -88,12 +88,41 @@
           "last_seen": "2026-11-22T04:46:52.348148+09:00"
         }
       },
-      "score": 107.91,
+      "score": 107.71,
       "views": 26212,
       "likes": 109,
       "comments": 115,
       "active_days": 1,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "중국한테 조리돌림 당한 다카이치",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478114?m=humor",
+      "first_seen": "2026-11-22T08:59:50.432892+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
+      "peak_score": 98.12,
+      "max_views": 17719,
+      "max_likes": 65,
+      "max_comments": 74,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-22": {
+          "max_score": 98.12,
+          "max_views": 17719,
+          "max_likes": 65,
+          "max_comments": 74,
+          "appearances": 1,
+          "last_seen": "2026-11-22T08:59:50.432892+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 17719,
+      "likes": 65,
+      "comments": 74,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "굴 노로는 양식장 똥 때문이다 아니다 의미 없는 이유",
@@ -117,7 +146,7 @@
           "last_seen": "2026-11-22T01:12:00.627587+09:00"
         }
       },
-      "score": 106.78,
+      "score": 106.59,
       "views": 10945,
       "likes": 86,
       "comments": 194,
@@ -146,7 +175,7 @@
           "last_seen": "2026-11-22T01:12:00.627587+09:00"
         }
       },
-      "score": 105.68,
+      "score": 105.49,
       "views": 32455,
       "likes": 172,
       "comments": 80,
@@ -175,7 +204,7 @@
           "last_seen": "2026-11-22T04:46:52.348148+09:00"
         }
       },
-      "score": 104.93,
+      "score": 104.74,
       "views": 20993,
       "likes": 160,
       "comments": 77,
@@ -204,12 +233,41 @@
           "last_seen": "2026-11-22T04:46:52.348148+09:00"
         }
       },
-      "score": 104.73,
+      "score": 104.53,
       "views": 13886,
       "likes": 111,
       "comments": 59,
       "active_days": 1,
       "change": -1
+    },
+    {
+      "title": "다카이치가 중국한테 조리돌림 당한게 뭐라고",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478224?m=humor",
+      "first_seen": "2026-11-22T08:59:50.432892+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
+      "peak_score": 94.94,
+      "max_views": 11933,
+      "max_likes": 128,
+      "max_comments": 42,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-22": {
+          "max_score": 94.94,
+          "max_views": 11933,
+          "max_likes": 128,
+          "max_comments": 42,
+          "appearances": 1,
+          "last_seen": "2026-11-22T08:59:50.432892+09:00"
+        }
+      },
+      "score": 104.46,
+      "views": 11933,
+      "likes": 128,
+      "comments": 42,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "고졸은 누구나 이해할 수 있는 리만 가설",
@@ -233,12 +291,12 @@
           "last_seen": "2026-11-22T06:41:04.129529+09:00"
         }
       },
-      "score": 103.42,
+      "score": 103.23,
       "views": 10945,
       "likes": 40,
       "comments": 42,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "\"일본 서브컬쳐에 자주 나왔고 실제 역사에도 먹은 식품\"",
@@ -262,70 +320,12 @@
           "last_seen": "2026-11-22T06:41:04.129529+09:00"
         }
       },
-      "score": 103.36,
+      "score": 103.17,
       "views": 23926,
       "likes": 52,
       "comments": 39,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "제발 김장 좀 해달라는 농민들",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-11-22T04:46:52.348148+09:00",
-      "last_seen": "2026-11-22T06:41:04.129529+09:00",
-      "peak_score": 85.32,
-      "max_views": 2582,
-      "max_likes": 0,
-      "max_comments": 11,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-11-22": {
-          "max_score": 85.32,
-          "max_views": 2582,
-          "max_likes": 0,
-          "max_comments": 11,
-          "appearances": 2,
-          "last_seen": "2026-11-22T06:41:04.129529+09:00"
-        }
-      },
-      "score": 95.74,
-      "views": 2582,
-      "likes": 0,
-      "comments": 11,
-      "active_days": 1,
-      "change": 3
-    },
-    {
-      "title": "[속보] 리만가설 증명 코드에서 논리적 결함 발견",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19296699?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-11-22T01:12:00.627587+09:00",
-      "last_seen": "2026-11-22T06:41:04.129529+09:00",
-      "peak_score": 83.69,
-      "max_views": 5569,
-      "max_likes": 0,
-      "max_comments": 18,
-      "appearances": 3,
-      "daily_stats": {
-        "2026-11-22": {
-          "max_score": 83.69,
-          "max_views": 5569,
-          "max_likes": 0,
-          "max_comments": 18,
-          "appearances": 3,
-          "last_seen": "2026-11-22T06:41:04.129529+09:00"
-        }
-      },
-      "score": 94.74,
-      "views": 5569,
-      "likes": 0,
-      "comments": 18,
-      "active_days": 1,
-      "change": -4
+      "change": -2
     }
   ],
   "rising": [
@@ -334,110 +334,90 @@
       "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14491,
-      "likes": 89,
-      "comments": 458,
-      "score": 83.1,
+      "views": 20565,
+      "likes": 129,
+      "comments": 556,
+      "score": 78.33,
       "change": 0,
-      "current_rank": 5,
+      "current_rank": 8,
       "new_entry": false,
-      "delta_views": 3857,
-      "delta_likes": 28,
-      "delta_comments": 86,
+      "delta_views": 6074,
+      "delta_likes": 40,
+      "delta_comments": 98,
       "rank_gain": 0,
-      "rising_score": 97.83,
+      "rising_score": 95.83,
       "rising_rank": 1,
-      "window_minutes": 114
-    },
-    {
-      "source": "클리앙",
-      "title": "[속보/CNN] 정부와 계약한 기업들. 백악관 지시에 협조 행정명령. 국회조사 대응.",
-      "url": "https://www.clien.net/service/board/park/19296725?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1943,
-      "likes": 1,
-      "comments": 0,
-      "score": 73.2,
-      "change": 32,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 1474,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 32,
-      "rising_score": 94.6,
-      "rising_rank": 2,
-      "window_minutes": 114
-    },
-    {
-      "source": "클리앙",
-      "title": "시급 350불 인간 전문가 상대 전승 찍은 AI... 3.6개월마다 2배씩 성장 중",
-      "url": "https://www.clien.net/service/board/park/19296726?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1646,
-      "likes": 1,
-      "comments": 0,
-      "score": 71.26,
-      "change": 36,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 1309,
-      "delta_likes": 1,
-      "delta_comments": 0,
-      "rank_gain": 36,
-      "rising_score": 89.39,
-      "rising_rank": 3,
-      "window_minutes": 114
+      "window_minutes": 139
     },
     {
       "source": "인벤",
-      "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-      "category": "유머",
-      "views": 1667,
+      "title": "??? : 오빠 좋아",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755167",
+      "category": "이슈",
+      "views": 3598,
       "likes": 0,
-      "comments": 3,
-      "score": 56.31,
-      "change": 0,
-      "current_rank": 70,
+      "comments": 13,
+      "score": 64.73,
+      "change": 38,
+      "current_rank": 40,
       "new_entry": false,
-      "delta_views": 1225,
+      "delta_views": 2779,
       "delta_likes": 0,
-      "delta_comments": 2,
-      "rank_gain": 0,
-      "rising_score": 87.44,
-      "rising_rank": 4,
-      "window_minutes": 114
+      "delta_comments": 12,
+      "rank_gain": 38,
+      "rising_score": 88.9,
+      "rising_rank": 2,
+      "window_minutes": 139
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 방송사에서 예능 방송 편집으로 주작하는 법",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480778&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 9581,
-      "likes": 105,
-      "comments": 113,
-      "score": 72.06,
-      "change": 8,
-      "current_rank": 15,
+      "source": "클리앙",
+      "title": "코스피 vs 필라델피아 반도체 지수",
+      "url": "https://www.clien.net/service/board/park/19296728?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 4522,
+      "likes": 4,
+      "comments": 15,
+      "score": 70.11,
+      "change": 0,
+      "current_rank": 21,
       "new_entry": false,
-      "delta_views": 2217,
-      "delta_likes": 20,
-      "delta_comments": 21,
-      "rank_gain": 8,
-      "rising_score": 87.22,
-      "rising_rank": 5,
-      "window_minutes": 114
+      "delta_views": 3597,
+      "delta_likes": 4,
+      "delta_comments": 12,
+      "rank_gain": 0,
+      "rising_score": 86.11,
+      "rising_rank": 3,
+      "window_minutes": 139
+    },
+    {
+      "source": "인벤",
+      "title": "후방 ㅡ fullmooon 인스타",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755174",
+      "category": "이슈",
+      "views": 5144,
+      "likes": 0,
+      "comments": 4,
+      "score": 64.39,
+      "change": 0,
+      "current_rank": 45,
+      "new_entry": false,
+      "delta_views": 4354,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 83.68,
+      "rising_rank": 4,
+      "window_minutes": 139
     },
     {
       "source": "루리웹",
-      "title": "최애의아이 작가 후속작 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77477172?m=humor",
+      "title": "중국한테 조리돌림 당한 다카이치",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478114?m=humor",
       "category": "이슈",
-      "views": 17713,
-      "likes": 86,
-      "comments": 62,
-      "score": 98.96,
+      "views": 17719,
+      "likes": 65,
+      "comments": 74,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -445,59 +425,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 6,
-      "window_minutes": 114
-    },
-    {
-      "source": "인벤",
-      "title": "고추가 뇌를 지배 함",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755154",
-      "category": "이슈",
-      "views": 7498,
-      "likes": 0,
-      "comments": 3,
-      "score": 56.84,
-      "change": 0,
-      "current_rank": 65,
-      "new_entry": false,
-      "delta_views": 985,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 7,
-      "window_minutes": 114
-    },
-    {
-      "source": "인벤",
-      "title": "아 미친놈 하나때문에 피곤하다 ㅜㅜ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755157",
-      "category": "이슈",
-      "views": 5911,
-      "likes": 2,
-      "comments": 11,
-      "score": 62.57,
-      "change": 0,
-      "current_rank": 39,
-      "new_entry": false,
-      "delta_views": 1068,
-      "delta_likes": 0,
-      "delta_comments": 2,
-      "rank_gain": 0,
-      "rising_score": 82.82,
-      "rising_rank": 8,
-      "window_minutes": 114
+      "rising_score": 83.21,
+      "rising_rank": 5,
+      "window_minutes": 139
     },
     {
       "source": "루리웹",
-      "title": "고졸은 누구나 이해할 수 있는 리만 가설",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77477525?m=humor",
+      "title": "다카이치가 중국한테 조리돌림 당한게 뭐라고",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478224?m=humor",
       "category": "이슈",
-      "views": 10945,
-      "likes": 40,
+      "views": 11933,
+      "likes": 128,
       "comments": 42,
-      "score": 93.9,
+      "score": 94.94,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -505,19 +445,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.44,
-      "rising_rank": 9,
-      "window_minutes": 114
+      "rising_score": 81.87,
+      "rising_rank": 6,
+      "window_minutes": 139
+    },
+    {
+      "source": "더쿠",
+      "title": "<4회 핑계고 시상식> 대상 후보 7인 공개",
+      "url": "https://theqoo.net/hot/4414227539",
+      "category": "이슈",
+      "views": 58464,
+      "likes": 0,
+      "comments": 527,
+      "score": 73.53,
+      "change": 5,
+      "current_rank": 16,
+      "new_entry": false,
+      "delta_views": 14932,
+      "delta_likes": 0,
+      "delta_comments": 64,
+      "rank_gain": 5,
+      "rising_score": 81.53,
+      "rising_rank": 7,
+      "window_minutes": 139
     },
     {
       "source": "루리웹",
-      "title": "\"일본 서브컬쳐에 자주 나왔고 실제 역사에도 먹은 식품\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77476873?m=humor",
+      "title": "정신나간 한국의 암흑 요리사",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478065?m=humor",
       "category": "이슈",
-      "views": 23926,
-      "likes": 52,
-      "comments": 39,
-      "score": 93.84,
+      "views": 11544,
+      "likes": 28,
+      "comments": 43,
+      "score": 87.59,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -525,9 +485,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
+      "rising_score": 78.79,
+      "rising_rank": 8,
+      "window_minutes": 139
+    },
+    {
+      "source": "루리웹",
+      "title": "[알리] 이어폰 dac 등등 가격다양",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109257",
+      "category": "이슈",
+      "views": 24462,
+      "likes": 33,
+      "comments": 20,
+      "score": 85.65,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.97,
+      "rising_rank": 9,
+      "window_minutes": 139
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 방송사에서 예능 방송 편집으로 주작하는 법",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480778&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 12601,
+      "likes": 131,
+      "comments": 132,
+      "score": 66.47,
+      "change": 0,
+      "current_rank": 34,
+      "new_entry": false,
+      "delta_views": 3020,
+      "delta_likes": 26,
+      "delta_comments": 19,
+      "rank_gain": 0,
+      "rising_score": 77.78,
       "rising_rank": 10,
-      "window_minutes": 114
+      "window_minutes": 139
     }
   ],
   "issues": [
@@ -539,31 +539,32 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 115.85,
+      "score": 117.29,
       "peak_score": 104.36,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "GTA6) 이쯤되면 PC하지 않은 남자가 뭔지 조차 알기 무서워진다",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77477010?m=humor",
-          "score": 95.36
+          "source": "인벤",
+          "rank": 31,
+          "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+          "score": 66.85
         },
         {
           "source": "디시인사이드",
-          "rank": 9,
+          "rank": 47,
           "title": "와들와들 GTA6 근황…jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
-          "score": 74.97
+          "score": 63.94
         }
       ],
       "first_seen": "2026-11-13T19:49:05.459513+09:00",
-      "last_seen": "2026-11-22T04:46:52.348148+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -650,15 +651,15 @@
       "title": "제발 김장 좀 해달라는 농민들",
       "keywords": [
         "농민들",
-        "제발",
+        "해달라는",
         "김장",
-        "해달라는"
+        "제발"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 104.81,
+      "score": 106.25,
       "peak_score": 93.32,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "인벤",
         "클리앙"
@@ -666,25 +667,63 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 4,
+          "rank": 43,
           "title": "제발 김장 좀 해달라는 농민들",
           "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-          "score": 85.32
+          "score": 64.5
         },
         {
           "source": "인벤",
-          "rank": 32,
+          "rank": 60,
           "title": "제발 김장 좀 해달라는 농민들",
           "url": "https://www.inven.co.kr/board/webzine/2097/2755163",
-          "score": 65.43
+          "score": 61.25
         }
       ],
       "first_seen": "2026-11-22T04:46:52.348148+09:00",
-      "last_seen": "2026-11-22T06:41:04.129529+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
       "change": 0
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 106.06,
+      "peak_score": 96.59,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "정신나간 한국의 암흑 요리사",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478065?m=humor",
+          "score": 87.59
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "아시아의 작은 유럽 한국의 모습 .",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480765&_dcbest=1&page=1",
+          "score": 58.97
+        }
+      ],
+      "first_seen": "2026-09-29T17:24:25.017696+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "ife021da2",
@@ -721,7 +760,45 @@
       "last_seen": "2026-11-22T06:41:04.129529+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.08,
+      "peak_score": 86.61,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 9,
+          "title": "사람이 없는데 어떻게 인프라 먼저 만드냐고 하는데",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478562?m=humor_only&t=now",
+          "score": 77.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 79,
+          "title": "Ai시험부정 중고등학교까지 광범위, 내신반영 어떻게?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480792&_dcbest=1&page=1",
+          "score": 56.99
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -759,213 +836,255 @@
       "last_seen": "2026-11-22T04:46:52.348148+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
-      "id": "i9a0fa5b7",
-      "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i1b7788cf",
+      "title": "‘업데이트’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "ai가"
+        "업데이트"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.38,
-      "peak_score": 81.91,
+      "score": 93.26,
+      "peak_score": 83.79,
       "appearances": 1,
       "sources": [
-        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 11,
-          "title": "수학계가 리만가설 AI가 푼거 개빡쳐 하는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77477904?m=humor_only&t=now",
-          "score": 72.91
+          "source": "인벤",
+          "rank": 12,
+          "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+          "score": 74.79
         },
         {
           "source": "클리앙",
-          "rank": 77,
-          "title": "Ai가 대체못하는 직업이 있을까싶네요",
-          "url": "https://www.clien.net/service/board/park/19296695?od=T31&po=0&category=0&groupCd=",
-          "score": 55.9
+          "rank": 24,
+          "title": "테슬라가 fsd를 gta급으로 업데이트 하네요",
+          "url": "https://www.clien.net/service/board/park/19296736?od=T31&po=0&category=0&groupCd=",
+          "score": 69.47
         }
       ],
-      "first_seen": "2026-10-24T16:09:25.390279+09:00",
-      "last_seen": "2026-11-22T04:46:52.348148+09:00",
+      "first_seen": "2026-11-22T08:59:50.432892+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": "NEW"
     },
     {
-      "id": "idc036774",
-      "title": "일본인이 한국여행에서 느낀점..jpg",
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "느낀점",
-        "한국여행에서",
-        "일본인이"
+        "테슬라"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.89,
-      "peak_score": 76.42,
+      "score": 93.26,
+      "peak_score": 83.79,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "일본인이 한국여행에서 느낀점..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197985",
-          "score": 68.42
+          "source": "인벤",
+          "rank": 12,
+          "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+          "score": 74.79
         },
         {
-          "source": "루리웹",
-          "rank": 55,
-          "title": "일본인이 한국여행에서 느낀점",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77477884?m=humor_only&t=now",
-          "score": 61.54
+          "source": "클리앙",
+          "rank": 61,
+          "title": "테슬라 모델 S/X 중고차값은 더 오르겠네요.",
+          "url": "https://www.clien.net/service/board/park/19296735?od=T31&po=0&category=0&groupCd=",
+          "score": 61.07
         }
       ],
-      "first_seen": "2026-11-22T04:46:52.348148+09:00",
-      "last_seen": "2026-11-22T04:46:52.348148+09:00",
+      "first_seen": "2026-11-22T08:59:50.432892+09:00",
+      "last_seen": "2026-11-22T08:59:50.432892+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
+      "rank": 10,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "ibfa99061",
-      "title": "‘전청조’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ifd5a2cc3",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "전청조"
+        "한국의"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.73,
-      "peak_score": 74.24,
-      "appearances": 2,
+      "score": 96.59,
+      "peak_score": 96.59,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "정신나간 한국의 암흑 요리사",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478065?m=humor",
+          "score": 87.59
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "아시아의 작은 유럽 한국의 모습 .",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480765&_dcbest=1&page=1",
+          "score": 58.97
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.61,
+      "peak_score": 86.61,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 9,
+          "title": "사람이 없는데 어떻게 인프라 먼저 만드냐고 하는데",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478562?m=humor_only&t=now",
+          "score": 77.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 79,
+          "title": "Ai시험부정 중고등학교까지 광범위, 내신반영 어떻게?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480792&_dcbest=1&page=1",
+          "score": 56.99
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i1b7788cf",
+      "title": "‘업데이트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "업데이트"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.79,
+      "peak_score": 83.79,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+          "score": 74.79
+        },
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "테슬라가 fsd를 gta급으로 업데이트 하네요",
+          "url": "https://www.clien.net/service/board/park/19296736?od=T31&po=0&category=0&groupCd=",
+          "score": 69.47
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i89c5681f",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.79,
+      "peak_score": 83.79,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+          "score": 74.79
+        },
+        {
+          "source": "클리앙",
+          "rank": 61,
+          "title": "테슬라 모델 S/X 중고차값은 더 오르겠네요.",
+          "url": "https://www.clien.net/service/board/park/19296735?od=T31&po=0&category=0&groupCd=",
+          "score": 61.07
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.85,
+      "peak_score": 75.85,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "posts": [
         {
+          "source": "인벤",
+          "rank": 31,
+          "title": "가짜 리뷰를 제거하자 유저 평점이 더 떨어진 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755181",
+          "score": 66.85
+        },
+        {
           "source": "디시인사이드",
-          "rank": 34,
-          "title": "리트냥이는 비비지도 못한다는 전청조 멘탈...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480726&_dcbest=1&page=1",
-          "score": 65.24
-        },
-        {
-          "source": "인벤",
-          "rank": 70,
-          "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-          "score": 56.31
+          "rank": 47,
+          "title": "와들와들 GTA6 근황…jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+          "score": 63.94
         }
       ],
-      "first_seen": "2026-11-22T04:46:52.348148+09:00",
-      "last_seen": "2026-11-22T06:41:04.129529+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "i8bcd73b9",
-      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "라이브"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.69,
-      "peak_score": 72.22,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 40,
-          "title": "[네이버페이] 제주항공, 롯데카드 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120991",
-          "score": 63.22
-        },
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "AI가 무수한 컨탠츠를 양산하는데 사람들은 라이브 컨탠츠에 더 큰 돈을 지불합니다.",
-          "url": "https://www.clien.net/service/board/park/19296697?od=T31&po=0&category=0&groupCd=",
-          "score": 60.81
-        }
-      ],
-      "first_seen": "2026-11-22T01:12:00.627587+09:00",
-      "last_seen": "2026-11-22T01:12:00.627587+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ib3876eed",
-      "title": "‘이번에’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이번에",
-        "오늘의"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 76.94,
-      "peak_score": 76.94,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "이번에 얼굴공개한 과학유튜버 리뷰엉이",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197548",
-          "score": 67.94
-        },
-        {
-          "source": "루리웹",
-          "rank": 95,
-          "title": "\"저게 이번에 마왕을 퇴치한 공으로 아카데미에 들어온 평민인가\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478067?m=humor_only&t=now",
-          "score": 51.66
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 52,
-          "title": "[KB Pay] 오늘의 퀴즈 11/21일자 정답",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121016",
-          "score": 59.21
-        },
-        {
-          "source": "인벤",
-          "rank": 94,
-          "title": "[2026-11-22] 오늘의 전국 날씨 & 띠별 운세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755166",
-          "score": 51.78
-        }
-      ],
-      "rank": 1,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -973,14 +1092,14 @@
       "title": "제발 김장 좀 해달라는 농민들",
       "keywords": [
         "농민들",
-        "제발",
+        "해달라는",
         "김장",
-        "해달라는"
+        "제발"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.32,
-      "peak_score": 93.32,
+      "score": 72.5,
+      "peak_score": 72.5,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -989,54 +1108,54 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 4,
+          "rank": 43,
           "title": "제발 김장 좀 해달라는 농민들",
           "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-          "score": 85.32
+          "score": 64.5
         },
         {
           "source": "인벤",
-          "rank": 32,
+          "rank": 60,
           "title": "제발 김장 좀 해달라는 농민들",
           "url": "https://www.inven.co.kr/board/webzine/2097/2755163",
-          "score": 65.43
+          "score": 61.25
         }
       ],
-      "rank": 2,
-      "change": 1
+      "rank": 6,
+      "change": -4
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i567efd17",
+      "title": "‘드라마’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "난리난"
+        "드라마"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.1,
-      "peak_score": 92.1,
+      "score": 69.05,
+      "peak_score": 69.05,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
-          "score": 83.1
+          "source": "더쿠",
+          "rank": 63,
+          "title": "남주가 ㅇㅇ한 드라마 <라이어> (ㅅㅍ주의)",
+          "url": "https://theqoo.net/hot/4414158050",
+          "score": 60.05
         },
         {
-          "source": "뽐뿌",
-          "rank": 27,
-          "title": "난리난) 중국 자율주행 자동차 근황. mp4",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197989",
-          "score": 67.43
+          "source": "루리웹",
+          "rank": 66,
+          "title": "ai 뇌절 유투브 드라마 특",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77478493?m=humor_only&t=now",
+          "score": 59.27
         }
       ],
-      "rank": 3,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -1047,8 +1166,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.24,
-      "peak_score": 74.24,
+      "score": 62.39,
+      "peak_score": 62.39,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1057,76 +1176,183 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 34,
+          "rank": 92,
           "title": "리트냥이는 비비지도 못한다는 전청조 멘탈...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480726&_dcbest=1&page=1",
-          "score": 65.24
+          "score": 53.39
         },
         {
           "source": "인벤",
-          "rank": 70,
+          "rank": 100,
           "title": "다시 만난 옛 연인(feat. 전청조/남현희)",
           "url": "https://www.inven.co.kr/board/webzine/2097/2755165",
-          "score": 56.31
+          "score": 49.89
         }
       ],
-      "rank": 4,
-      "change": 3
+      "rank": 8,
+      "change": -4
     }
   ],
   "keywords": [
     {
-      "keyword": "ai",
-      "score": 143.83,
+      "keyword": "테슬라",
+      "score": 107.95,
       "post_count": 4,
-      "source_count": 4,
-      "best_rank": 17,
+      "source_count": 2,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
-        "루리웹",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "리만",
-      "score": 106.2,
-      "post_count": 2,
+      "keyword": "한국",
+      "score": 107.16,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
-      "aliases": [
-        "가설"
-      ],
+      "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "난리난",
-      "score": 104.72,
+      "keyword": "주식",
+      "score": 102.4,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 8,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "해달라",
-      "score": 104.62,
+      "keyword": "업데이트",
+      "score": 100.92,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 12,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "어떻게",
+      "score": 94.37,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본인",
+      "score": 91.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "gta6",
+      "score": 91.19,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 31,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "정부",
+      "score": 90.35,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 54,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "다카이치",
+      "score": 90.23,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 1,
+      "sources": [
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "중국",
+      "score": 88.86,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 59,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "좋아",
+      "score": 88.06,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 40,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "해달라",
+      "score": 87.48,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 43,
       "sources": [
         "인벤",
         "클리앙"
@@ -1136,142 +1362,100 @@
         "농민들",
         "제발"
       ],
-      "rank": 4,
-      "change": 0
+      "rank": 12,
+      "change": -8
     },
     {
-      "keyword": "증명",
-      "score": 99.31,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 22,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 1
-    },
-    {
-      "keyword": "대응",
-      "score": 96.47,
+      "keyword": "역대",
+      "score": 85.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": 1
-    },
-    {
-      "keyword": "수능",
-      "score": 92.93,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "발견",
-      "score": 92.52,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 28,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "keyword": "전청조",
-      "score": 86.78,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 58,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": 2
+      "rank": 13,
+      "change": "NEW"
     },
     {
-      "keyword": "작은",
-      "score": 83.24,
+      "keyword": "모습",
+      "score": 85.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 48,
       "sources": [
         "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "드라마",
+      "score": 83.46,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 63,
+      "sources": [
+        "더쿠",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 10,
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "최애의아이 작가 후속작 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77477172?m=humor",
-      "score": 98.96,
-      "views": 17713,
-      "comments": 62
-    },
-    {
-      "source": "클리앙",
-      "title": "제발 김장 좀 해달라는 농민들",
-      "url": "https://www.clien.net/service/board/park/19296722?od=T31&po=0&category=0&groupCd=",
-      "score": 85.32,
-      "views": 2582,
-      "comments": 11
+      "title": "중국한테 조리돌림 당한 다카이치",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77478114?m=humor",
+      "score": 98.12,
+      "views": 17719,
+      "comments": 74
     },
     {
       "source": "디시인사이드",
-      "title": "주말에 민심 난리난 주식 투자자들 근황 ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480780&_dcbest=1&page=1",
-      "score": 83.1,
-      "views": 14491,
-      "comments": 458
-    },
-    {
-      "source": "뽐뿌",
-      "title": "충격적인) 인도의 전기 감전 카레 ㄷ..gif",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197784",
-      "score": 77.29,
-      "views": 28530,
-      "comments": 49
+      "title": "\"이번 티원 이적으로 제우스가 배신한 사람들\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480784&_dcbest=1&page=1",
+      "score": 84.91,
+      "views": 38848,
+      "comments": 295
     },
     {
       "source": "더쿠",
       "title": "우는데 \"울면 너 손해야”라는 말 들으면 어떨 거 같아?",
       "url": "https://theqoo.net/hot/4414295680",
-      "score": 76.5,
-      "views": 16522,
-      "comments": 470
+      "score": 81.5,
+      "views": 30700,
+      "comments": 737
+    },
+    {
+      "source": "클리앙",
+      "title": "FSD관련해서 현토부가 많이 까이는 이유",
+      "url": "https://www.clien.net/service/board/park/19296738?od=T31&po=0&category=0&groupCd=",
+      "score": 79.15,
+      "views": 2373,
+      "comments": 16
     },
     {
       "source": "인벤",
-      "title": "바보들이 국짐한테 3:1로도 발리네 - 영상 댓글",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755159",
-      "score": 69.01,
-      "views": 4397,
-      "comments": 15
+      "title": "이번에 업데이트 된다는 테슬라 FSD 화면",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755180",
+      "score": 74.79,
+      "views": 2686,
+      "comments": 13
+    },
+    {
+      "source": "뽐뿌",
+      "title": "소개팅 만나기도 전에 까인 남자 ㄷㄷ..jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197863",
+      "score": 73.57,
+      "views": 26908,
+      "comments": 80
     }
   ]
 }
