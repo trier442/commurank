@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-23",
   "label": "2026년 11월 23일",
-  "collected_at": "2026-11-23T05:57:06.565209+09:00",
+  "collected_at": "2026-11-23T07:24:50.632152+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -84,6 +84,44 @@
       "change": 0
     },
     {
+      "id": "i813dd917",
+      "title": "‘매불쇼’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "매불쇼"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.61,
+      "peak_score": 72.14,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 38,
+          "title": "매불쇼 pd가 장사의신 은현장 씹었고",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198759",
+          "score": 63.14
+        },
+        {
+          "source": "인벤",
+          "rank": 53,
+          "title": "\"은현장은 쓰레기야\", 매불쇼 직원이 스토킹",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755412",
+          "score": 59.98
+        }
+      ],
+      "first_seen": "2026-11-23T07:24:50.632152+09:00",
+      "last_seen": "2026-11-23T07:24:50.632152+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
       "id": "icf32a6e1",
       "title": "잔고 25만원\" 도경완이 또..억대 외제차 시승ㅋㅋ",
       "keywords": [
@@ -122,8 +160,8 @@
       "last_seen": "2026-11-23T02:02:34.813510+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ibee10c72",
@@ -166,8 +204,8 @@
       "last_seen": "2026-11-23T05:57:06.565209+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -204,7 +242,7 @@
       "last_seen": "2026-11-23T02:02:34.813510+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -242,8 +280,8 @@
       "last_seen": "2026-11-23T05:57:06.565209+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 7,
+      "change": -1
     }
   ]
 }
