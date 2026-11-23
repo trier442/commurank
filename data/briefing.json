@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-24",
   "label": "2026년 11월 24일",
-  "collected_at": "2026-11-24T06:51:07.613883+09:00",
+  "collected_at": "2026-11-24T08:58:36.457989+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #젠슨. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #젠슨황. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
+    "daily_issues": 15,
     "keywords": 20,
-    "top100_views": 1091732,
-    "top100_comments": 9099
+    "top100_views": 1091084,
+    "top100_comments": 8704
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#젠슨",
-      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "젠슨"
+      "title": "#젠슨황",
+      "text": "5개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "keyword": "젠슨황"
     }
   ],
   "top_posts": [
@@ -59,10 +59,39 @@
           "last_seen": "2026-11-24T06:51:07.613883+09:00"
         }
       },
-      "score": 107.64,
+      "score": 107.47,
       "views": 11933,
       "likes": 44,
       "comments": 39,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "직원들은 황회장 편이긴 했나보다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77499214?m=humor",
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "peak_score": 96.88,
+      "max_views": 14500,
+      "max_likes": 58,
+      "max_comments": 36,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-24": {
+          "max_score": 96.88,
+          "max_views": 14500,
+          "max_likes": 58,
+          "max_comments": 36,
+          "appearances": 1,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
+        }
+      },
+      "score": 106.4,
+      "views": 14500,
+      "likes": 58,
+      "comments": 36,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,10 +117,68 @@
           "last_seen": "2026-11-24T06:51:07.613883+09:00"
         }
       },
-      "score": 106.52,
+      "score": 106.35,
       "views": 13257,
       "likes": 81,
       "comments": 35,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "실시간 직원들에게 환대받는 젠슨황 근황… ㄷㄷ",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77499603?m=humor",
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "peak_score": 95.77,
+      "max_views": 7653,
+      "max_likes": 62,
+      "max_comments": 49,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-24": {
+          "max_score": 95.77,
+          "max_views": 7653,
+          "max_likes": 62,
+          "max_comments": 49,
+          "appearances": 1,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
+        }
+      },
+      "score": 105.29,
+      "views": 7653,
+      "likes": 62,
+      "comments": 49,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "미국 원주민들의 이름이 특이한 이유",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498657?m=humor",
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "peak_score": 95.5,
+      "max_views": 28122,
+      "max_likes": 135,
+      "max_comments": 73,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-24": {
+          "max_score": 95.5,
+          "max_views": 28122,
+          "max_likes": 135,
+          "max_comments": 73,
+          "appearances": 1,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
+        }
+      },
+      "score": 105.02,
+      "views": 28122,
+      "likes": 135,
+      "comments": 73,
       "active_days": 1,
       "change": "NEW"
     },
@@ -101,28 +188,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481221&_dcbest=1&page=1",
       "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
       "peak_score": 94.53,
-      "max_views": 19992,
-      "max_likes": 119,
-      "max_comments": 551,
-      "appearances": 1,
+      "max_views": 25031,
+      "max_likes": 137,
+      "max_comments": 687,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-24": {
           "max_score": 94.53,
-          "max_views": 19992,
-          "max_likes": 119,
-          "max_comments": 551,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
+          "max_views": 25031,
+          "max_likes": 137,
+          "max_comments": 687,
+          "appearances": 2,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
         }
       },
-      "score": 104.05,
-      "views": 19992,
-      "likes": 119,
-      "comments": 551,
+      "score": 104.95,
+      "views": 25031,
+      "likes": 137,
+      "comments": 687,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "미야자키 하야오가 AI 좆같다고 한이유",
@@ -130,28 +217,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481223&_dcbest=1&page=1",
       "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
       "peak_score": 94.15,
-      "max_views": 28855,
-      "max_likes": 188,
-      "max_comments": 239,
-      "appearances": 1,
+      "max_views": 35325,
+      "max_likes": 231,
+      "max_comments": 264,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-24": {
           "max_score": 94.15,
-          "max_views": 28855,
-          "max_likes": 188,
-          "max_comments": 239,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
+          "max_views": 35325,
+          "max_likes": 231,
+          "max_comments": 264,
+          "appearances": 2,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
         }
       },
-      "score": 103.67,
-      "views": 28855,
-      "likes": 188,
-      "comments": 239,
+      "score": 104.57,
+      "views": 35325,
+      "likes": 231,
+      "comments": 264,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "\"딸딸이 주세요\" 라고 했다가 성희롱 의심",
@@ -175,155 +262,68 @@
           "last_seen": "2026-11-24T06:51:07.613883+09:00"
         }
       },
-      "score": 100.62,
+      "score": 100.45,
       "views": 10089,
       "likes": 25,
       "comments": 34,
       "active_days": 1,
+      "change": -3
+    },
+    {
+      "title": "싱글벙글 미쿠팬덤 단체발작버튼",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481246&_dcbest=1&page=1",
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "peak_score": 83.81,
+      "max_views": 15083,
+      "max_likes": 84,
+      "max_comments": 132,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-24": {
+          "max_score": 83.81,
+          "max_views": 15083,
+          "max_likes": 84,
+          "max_comments": 132,
+          "appearances": 1,
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
+        }
+      },
+      "score": 93.33,
+      "views": 15083,
+      "likes": 84,
+      "comments": 132,
+      "active_days": 1,
       "change": "NEW"
     },
     {
-      "title": "1억 5천 뚫었습니다",
+      "title": "자랑 하나 해도될까요?",
       "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=459506",
-      "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "peak_score": 83.29,
-      "max_views": 27753,
-      "max_likes": 9,
-      "max_comments": 66,
+      "category": "생활",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baby&no=54514",
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "peak_score": 83.65,
+      "max_views": 3763,
+      "max_likes": 30,
+      "max_comments": 20,
       "appearances": 1,
       "daily_stats": {
         "2026-11-24": {
-          "max_score": 83.29,
-          "max_views": 27753,
-          "max_likes": 9,
-          "max_comments": 66,
+          "max_score": 83.65,
+          "max_views": 3763,
+          "max_likes": 30,
+          "max_comments": 20,
           "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
+          "last_seen": "2026-11-24T08:58:36.457989+09:00"
         }
       },
-      "score": 92.81,
-      "views": 27753,
-      "likes": 9,
-      "comments": 66,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "한국 사람들이 정부와 농협에 의해서 순수 세뇌 당한 영역",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755806",
-      "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "peak_score": 80.06,
-      "max_views": 3429,
-      "max_likes": 0,
-      "max_comments": 30,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-24": {
-          "max_score": 80.06,
-          "max_views": 3429,
-          "max_likes": 0,
-          "max_comments": 30,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
-        }
-      },
-      "score": 89.58,
-      "views": 3429,
-      "likes": 0,
-      "comments": 30,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "조건만남으로 생계를 유지하는 전과 4범 여자",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481219&_dcbest=1&page=1",
-      "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "peak_score": 78.72,
-      "max_views": 16322,
-      "max_likes": 62,
-      "max_comments": 129,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-24": {
-          "max_score": 78.72,
-          "max_views": 16322,
-          "max_likes": 62,
-          "max_comments": 129,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
-        }
-      },
-      "score": 88.24,
-      "views": 16322,
-      "likes": 62,
-      "comments": 129,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "이것이 한국게임의 메타스코어 순위우",
-      "source": "디시인사이드",
-      "category": "게임",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481211&_dcbest=1&page=1",
-      "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "peak_score": 77.94,
-      "max_views": 17513,
-      "max_likes": 80,
-      "max_comments": 157,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-24": {
-          "max_score": 77.94,
-          "max_views": 17513,
-          "max_likes": 80,
-          "max_comments": 157,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
-        }
-      },
-      "score": 87.46,
-      "views": 17513,
-      "likes": 80,
-      "comments": 157,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "살해 위협하는 종교 본진 털러 간 기자",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481207&_dcbest=1&page=1",
-      "first_seen": "2026-11-24T06:51:07.613883+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "peak_score": 75.31,
-      "max_views": 8855,
-      "max_likes": 97,
-      "max_comments": 329,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-24": {
-          "max_score": 75.31,
-          "max_views": 8855,
-          "max_likes": 97,
-          "max_comments": 329,
-          "appearances": 1,
-          "last_seen": "2026-11-24T06:51:07.613883+09:00"
-        }
-      },
-      "score": 84.83,
-      "views": 8855,
-      "likes": 97,
-      "comments": 329,
+      "score": 93.17,
+      "views": 3763,
+      "likes": 30,
+      "comments": 20,
       "active_days": 1,
       "change": "NEW"
     }
@@ -331,33 +331,53 @@
   "rising": [
     {
       "source": "더쿠",
-      "title": "마라톤때문에 특히나 피해본다는 분들....jpg",
-      "url": "https://theqoo.net/hot/4415822332",
+      "title": "할머니들이 안정적으로 말아주는 랜덤비빔밥",
+      "url": "https://theqoo.net/hot/4416109355",
       "category": "이슈",
-      "views": 88041,
+      "views": 41707,
       "likes": 0,
-      "comments": 945,
-      "score": 55.95,
-      "change": 0,
-      "current_rank": 78,
+      "comments": 210,
+      "score": 68.37,
+      "change": 18,
+      "current_rank": 24,
       "new_entry": false,
-      "delta_views": 55815,
+      "delta_views": 30370,
       "delta_likes": 0,
-      "delta_comments": 501,
-      "rank_gain": 0,
-      "rising_score": 100.0,
+      "delta_comments": 122,
+      "rank_gain": 18,
+      "rising_score": 90.48,
       "rising_rank": 1,
-      "window_minutes": 577
+      "window_minutes": 127
+    },
+    {
+      "source": "디시인사이드",
+      "title": "조건만남으로 생계를 유지하는 전과 4범 여자",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481219&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 23845,
+      "likes": 80,
+      "comments": 206,
+      "score": 75.48,
+      "change": 0,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 7523,
+      "delta_likes": 18,
+      "delta_comments": 77,
+      "rank_gain": 0,
+      "rising_score": 86.03,
+      "rising_rank": 2,
+      "window_minutes": 127
     },
     {
       "source": "루리웹",
-      "title": "그래 내가 키라다.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498732?m=humor",
+      "title": "직원들은 황회장 편이긴 했나보다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77499214?m=humor",
       "category": "이슈",
-      "views": 11933,
-      "likes": 44,
-      "comments": 39,
-      "score": 98.12,
+      "views": 14500,
+      "likes": 58,
+      "comments": 36,
+      "score": 96.88,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.21,
-      "rising_rank": 2,
-      "window_minutes": 577
+      "rising_score": 82.69,
+      "rising_rank": 3,
+      "window_minutes": 127
     },
     {
       "source": "루리웹",
-      "title": "ㅇㅇㄱ) 지인이 뭐요?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498420?m=humor",
+      "title": "실시간 직원들에게 환대받는 젠슨황 근황… ㄷㄷ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77499603?m=humor",
       "category": "이슈",
-      "views": 13257,
-      "likes": 81,
-      "comments": 35,
-      "score": 97.0,
+      "views": 7653,
+      "likes": 62,
+      "comments": 49,
+      "score": 95.77,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.74,
-      "rising_rank": 3,
-      "window_minutes": 577
+      "rising_score": 82.22,
+      "rising_rank": 4,
+      "window_minutes": 127
     },
     {
-      "source": "디시인사이드",
-      "title": "머스크 \"기본소득과 노동해방은 반드시 온다\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481221&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "미국 원주민들의 이름이 특이한 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498657?m=humor",
       "category": "이슈",
-      "views": 19992,
-      "likes": 119,
-      "comments": 551,
-      "score": 94.53,
+      "views": 28122,
+      "likes": 135,
+      "comments": 73,
+      "score": 95.5,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,39 +425,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.7,
-      "rising_rank": 4,
-      "window_minutes": 577
+      "rising_score": 82.11,
+      "rising_rank": 5,
+      "window_minutes": 127
     },
     {
       "source": "디시인사이드",
       "title": "미야자키 하야오가 AI 좆같다고 한이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481223&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 28855,
-      "likes": 188,
-      "comments": 239,
-      "score": 94.15,
-      "change": "NEW",
+      "views": 35325,
+      "likes": 231,
+      "comments": 264,
+      "score": 84.37,
+      "change": 0,
       "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "new_entry": false,
+      "delta_views": 6470,
+      "delta_likes": 43,
+      "delta_comments": 25,
       "rank_gain": 0,
-      "rising_score": 81.54,
-      "rising_rank": 5,
-      "window_minutes": 577
+      "rising_score": 82.1,
+      "rising_rank": 6,
+      "window_minutes": 127
     },
     {
-      "source": "루리웹",
-      "title": "\"딸딸이 주세요\" 라고 했다가 성희롱 의심",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498603?m=humor",
+      "source": "디시인사이드",
+      "title": "머스크 \"기본소득과 노동해방은 반드시 온다\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481221&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 10089,
-      "likes": 25,
-      "comments": 34,
-      "score": 91.1,
+      "views": 25031,
+      "likes": 137,
+      "comments": 687,
+      "score": 82.85,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 5039,
+      "delta_likes": 18,
+      "delta_comments": 136,
+      "rank_gain": 0,
+      "rising_score": 80.95,
+      "rising_rank": 7,
+      "window_minutes": 127
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 미쿠팬덤 단체발작버튼",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481246&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 15083,
+      "likes": 84,
+      "comments": 132,
+      "score": 83.81,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -445,19 +485,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.26,
-      "rising_rank": 6,
-      "window_minutes": 577
+      "rising_score": 77.2,
+      "rising_rank": 8,
+      "window_minutes": 127
     },
     {
       "source": "뽐뿌",
-      "title": "1억 5천 뚫었습니다",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=459506",
-      "category": "이슈",
-      "views": 27753,
-      "likes": 9,
-      "comments": 66,
-      "score": 83.29,
+      "title": "자랑 하나 해도될까요?",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baby&no=54514",
+      "category": "생활",
+      "views": 3763,
+      "likes": 30,
+      "comments": 20,
+      "score": 83.65,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -465,39 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.98,
-      "rising_rank": 7,
-      "window_minutes": 577
+      "rising_score": 77.13,
+      "rising_rank": 9,
+      "window_minutes": 127
     },
     {
       "source": "인벤",
-      "title": "한국 사람들이 정부와 농협에 의해서 순수 세뇌 당한 영역",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755806",
+      "title": "젠슨황 복귀 환영하는 여직원",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755855",
       "category": "이슈",
-      "views": 3429,
+      "views": 1708,
       "likes": 0,
-      "comments": 30,
-      "score": 80.06,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.63,
-      "rising_rank": 8,
-      "window_minutes": 577
-    },
-    {
-      "source": "디시인사이드",
-      "title": "조건만남으로 생계를 유지하는 전과 4범 여자",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481219&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16322,
-      "likes": 62,
-      "comments": 129,
-      "score": 78.72,
+      "comments": 16,
+      "score": 80.95,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -505,29 +525,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.06,
-      "rising_rank": 9,
-      "window_minutes": 577
-    },
-    {
-      "source": "디시인사이드",
-      "title": "이것이 한국게임의 메타스코어 순위우",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481211&_dcbest=1&page=1",
-      "category": "게임",
-      "views": 17513,
-      "likes": 80,
-      "comments": 157,
-      "score": 77.94,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.73,
+      "rising_score": 76.0,
       "rising_rank": 10,
-      "window_minutes": 577
+      "window_minutes": 127
     }
   ],
   "issues": [
@@ -539,9 +539,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 113.36,
+      "score": 115.38,
       "peak_score": 91.89,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "루리웹",
@@ -551,39 +551,73 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 39,
-          "title": "젠슨 황 엔비디아 CEO 복귀, 이사회 만장일치",
-          "url": "https://theqoo.net/hot/4415979777",
-          "score": 65.89
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 48,
-          "title": "와..엔비디아 미친 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=460062",
-          "score": 62.55
-        },
-        {
-          "source": "인벤",
-          "rank": 57,
-          "title": "CNN뉴스_트럼프는 엔비디아 젠슨 황을 재고용하라고 직접 압박했다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755809",
-          "score": 60.63
+          "rank": 16,
+          "title": "젠슨황 복귀 환영하는 엔비디아 직원들",
+          "url": "https://theqoo.net/hot/4416150303",
+          "score": 71.0
         },
         {
           "source": "루리웹",
-          "rank": 81,
-          "title": "엔비디아) UFC가 아니라 WWE였다고",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499137?m=humor_only&t=now",
-          "score": 54.75
+          "rank": 100,
+          "title": "엔비디아 복귀한 젠슨황 때문에 잔뜩 열받은 숏쟁이.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499828?m=humor_only&t=now",
+          "score": 51.48
         }
       ],
       "first_seen": "2026-11-09T07:45:48.461214+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 6,
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
       "rank": 1,
-      "change": 18
+      "change": 0
+    },
+    {
+      "id": "i153ac4c4",
+      "title": "젠슨황 복귀 환영하는 여직원",
+      "keywords": [
+        "복귀",
+        "젠슨황",
+        "환영하는"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 110.42,
+      "peak_score": 95.95,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 8,
+          "title": "젠슨황 복귀 환영하는 여직원",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755855",
+          "score": 80.95
+        },
+        {
+          "source": "더쿠",
+          "rank": 16,
+          "title": "젠슨황 복귀 환영하는 엔비디아 직원들",
+          "url": "https://theqoo.net/hot/4416150303",
+          "score": 71.0
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "젠슨황 복귀 요약",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499754?m=humor_only&t=now",
+          "score": 53.92
+        }
+      ],
+      "first_seen": "2026-11-08T03:14:06.981190+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
     },
     {
       "id": "i39913e0f",
@@ -629,7 +663,53 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i26c94275",
+      "title": "‘러시아’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "러시아"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 90.06,
+      "peak_score": 75.59,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 63,
+          "title": "러시아 군용기 울릉도 근접에 한때 경계경보…영공 침범 없어",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755859",
+          "score": 58.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "러시아 아니고 북한이네요",
+          "url": "https://www.clien.net/service/board/park/19297690?od=T31&po=0&category=0&groupCd=",
+          "score": 57.0
+        },
+        {
+          "source": "루리웹",
+          "rank": 89,
+          "title": "이번 '러시아 항공기' 침범으로 보는 졸-렬한 언론",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499866?m=humor_only&t=now",
+          "score": 54.28
+        }
+      ],
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -667,8 +747,8 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ife021da2",
@@ -705,8 +785,8 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "if553a5cf",
@@ -743,8 +823,8 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "ia7821ac6",
@@ -784,7 +864,48 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 8,
+      "change": -2
+    },
+    {
+      "id": "iefd363e8",
+      "title": "4개에 천원한다는 붕어빵 가게",
+      "keywords": [
+        "4개에",
+        "가게",
+        "천원한다는",
+        "붕어빵"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.38,
+      "peak_score": 73.91,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 32,
+          "title": "4개에 천원한다는 붕어빵 가게",
+          "url": "https://www.clien.net/service/board/park/19297703?od=T31&po=0&category=0&groupCd=",
+          "score": 65.91
+        },
+        {
+          "source": "인벤",
+          "rank": 94,
+          "title": "4개에 천원한다는 붕어빵 가게",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755849",
+          "score": 52.91
+        }
+      ],
+      "first_seen": "2026-11-24T08:58:36.457989+09:00",
+      "last_seen": "2026-11-24T08:58:36.457989+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
@@ -822,350 +943,306 @@
       "last_seen": "2026-11-24T06:51:07.613883+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i5f59d520",
-      "title": "홈플러스 온라인 배송 중단",
-      "keywords": [
-        "온라인",
-        "중단",
-        "배송",
-        "홈플러스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.73,
-      "peak_score": 71.26,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 46,
-          "title": "홈플러스 온라인 배송 중단",
-          "url": "https://www.clien.net/service/board/park/19297644?od=T31&po=0&category=0&groupCd=",
-          "score": 63.26
-        },
-        {
-          "source": "인벤",
-          "rank": 61,
-          "title": "홈플러스 온라인 배송 중단 안내",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755790",
-          "score": 59.16
-        }
-      ],
-      "first_seen": "2026-11-22T10:39:33.526251+09:00",
-      "last_seen": "2026-11-24T06:51:07.613883+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 10,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "i4dea1b92",
-      "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i153ac4c4",
+      "title": "젠슨황 복귀 환영하는 여직원",
       "keywords": [
-        "엔비디아"
+        "복귀",
+        "젠슨황",
+        "환영하는"
       ],
-      "source_count": 4,
-      "post_count": 6,
-      "score": 91.89,
-      "peak_score": 91.89,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 95.95,
+      "peak_score": 95.95,
       "appearances": 1,
       "sources": [
         "더쿠",
         "루리웹",
-        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 39,
-          "title": "젠슨 황 엔비디아 CEO 복귀, 이사회 만장일치",
-          "url": "https://theqoo.net/hot/4415979777",
-          "score": 65.89
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 48,
-          "title": "와..엔비디아 미친 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=460062",
-          "score": 62.55
-        },
-        {
           "source": "인벤",
-          "rank": 57,
-          "title": "CNN뉴스_트럼프는 엔비디아 젠슨 황을 재고용하라고 직접 압박했다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755809",
-          "score": 60.63
+          "rank": 8,
+          "title": "젠슨황 복귀 환영하는 여직원",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755855",
+          "score": 80.95
+        },
+        {
+          "source": "더쿠",
+          "rank": 16,
+          "title": "젠슨황 복귀 환영하는 엔비디아 직원들",
+          "url": "https://theqoo.net/hot/4416150303",
+          "score": 71.0
         },
         {
           "source": "루리웹",
-          "rank": 81,
-          "title": "엔비디아) UFC가 아니라 WWE였다고",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499137?m=humor_only&t=now",
-          "score": 54.75
+          "rank": 90,
+          "title": "젠슨황 복귀 요약",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499754?m=humor_only&t=now",
+          "score": 53.92
         }
       ],
       "rank": 1,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "id": "i39913e0f",
-      "title": "젠슨 황 해고 -> 복귀 스토리는 무조건 영화로 나오겠네요.",
+      "id": "i26c94275",
+      "title": "‘러시아’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "젠슨",
-        "복귀"
+        "러시아"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 85.78,
-      "peak_score": 85.78,
+      "score": 75.59,
+      "peak_score": 75.59,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "루리웹",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 18,
-          "title": "젠슨 황 해고 -> 복귀 스토리는 무조건 영화로 나오겠네요.",
-          "url": "https://www.clien.net/service/board/park/19297659?od=T31&po=0&category=0&groupCd=",
-          "score": 70.78
-        },
-        {
           "source": "인벤",
-          "rank": 27,
-          "title": "젠슨 황 남천동 엔비디아로 복귀",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755808",
-          "score": 67.41
+          "rank": 63,
+          "title": "러시아 군용기 울릉도 근접에 한때 경계경보…영공 침범 없어",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755859",
+          "score": 58.59
         },
         {
-          "source": "더쿠",
-          "rank": 39,
-          "title": "젠슨 황 엔비디아 CEO 복귀, 이사회 만장일치",
-          "url": "https://theqoo.net/hot/4415979777",
-          "score": 65.89
+          "source": "클리앙",
+          "rank": 74,
+          "title": "러시아 아니고 북한이네요",
+          "url": "https://www.clien.net/service/board/park/19297690?od=T31&po=0&category=0&groupCd=",
+          "score": 57.0
+        },
+        {
+          "source": "루리웹",
+          "rank": 89,
+          "title": "이번 '러시아 항공기' 침범으로 보는 졸-렬한 언론",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499866?m=humor_only&t=now",
+          "score": 54.28
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i2ac13537",
-      "title": "‘알아보자’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4dea1b92",
+      "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "알아보자"
+        "엔비디아"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 76.84,
-      "peak_score": 76.84,
+      "score": 81.0,
+      "peak_score": 81.0,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "루리웹"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 33,
-          "title": "지금 AI가 풀어서 난리라는 \"리만 가설\"이 무엇인지 알아보자...jpg",
-          "url": "https://theqoo.net/hot/4416108766",
-          "score": 66.84
+          "rank": 16,
+          "title": "젠슨황 복귀 환영하는 엔비디아 직원들",
+          "url": "https://theqoo.net/hot/4416150303",
+          "score": 71.0
         },
         {
-          "source": "디시인사이드",
-          "rank": 60,
-          "title": "싱글벙글 요즘 대학가기 쉬워졌다는 이유를 알아보자",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481172&_dcbest=1&page=1",
-          "score": 60.1
+          "source": "루리웹",
+          "rank": 100,
+          "title": "엔비디아 복귀한 젠슨황 때문에 잔뜩 열받은 숏쟁이.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499828?m=humor_only&t=now",
+          "score": 51.48
         }
       ],
       "rank": 3,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iefd363e8",
+      "title": "4개에 천원한다는 붕어빵 가게",
       "keywords": [
-        "난리난"
+        "4개에",
+        "가게",
+        "천원한다는",
+        "붕어빵"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.32,
-      "peak_score": 76.32,
+      "score": 73.91,
+      "peak_score": 73.91,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 28,
-          "title": "난리난 헬스장 업계...마운자로 땜에 초토화",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481190&_dcbest=1&page=1",
-          "score": 67.32
+          "source": "클리앙",
+          "rank": 32,
+          "title": "4개에 천원한다는 붕어빵 가게",
+          "url": "https://www.clien.net/service/board/park/19297703?od=T31&po=0&category=0&groupCd=",
+          "score": 65.91
         },
         {
           "source": "인벤",
-          "rank": 97,
-          "title": "난리난 엔비디아 3배 인버스 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755785",
-          "score": 50.93
+          "rank": 94,
+          "title": "4개에 천원한다는 붕어빵 가게",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755849",
+          "score": 52.91
         }
       ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib0567162",
+      "title": "한국에선 '온리팬스'로 집안 못 일으킨다...대법 \"영상물 등급분류 받아야\"",
       "keywords": [
-        "트럼프"
+        "일으킨다",
+        "집안",
+        "받아야",
+        "등급분류",
+        "대법",
+        "한국에선",
+        "영상물",
+        "온리팬스"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.68,
-      "peak_score": 75.68,
+      "score": 72.41,
+      "peak_score": 72.41,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "트럼프 아들, 배런 트럼프 근황.jpg",
-          "url": "https://theqoo.net/hot/4416072578",
-          "score": 66.68
+          "source": "인벤",
+          "rank": 39,
+          "title": "한국에선 '온리팬스'로 집안 못 일으킨다...대법 \"영상물 등급분류 받아야\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755844",
+          "score": 64.41
         },
         {
-          "source": "뽐뿌",
-          "rank": 47,
-          "title": "미친 트럼프!! 또 지랄이네여. 이것때문에 떨어지는거네요.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=460056",
-          "score": 62.95
+          "source": "클리앙",
+          "rank": 64,
+          "title": "[단독] 한국에선 '온리팬스'로 집안 못 일으킨다...대법 '영상물 등급분류 받아야'",
+          "url": "https://www.clien.net/service/board/park/19297686?od=T31&po=0&category=0&groupCd=",
+          "score": 58.35
         }
       ],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "id": "ia7821ac6",
-      "title": "어벤져스 : 둠스데이 메인 예고편",
+      "id": "ie456f7c1",
+      "title": "‘예고편’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "예고편",
-        "어벤져스",
-        "메인",
-        "둠스데이"
+        "예고편"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.43,
-      "peak_score": 75.43,
+      "score": 71.84,
+      "peak_score": 71.84,
       "appearances": 1,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 26,
-          "title": "어벤져스 : 둠스데이 메인 예고편",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755816",
-          "score": 67.43
+          "source": "더쿠",
+          "rank": 45,
+          "title": "윤경호, 김혜윤 영화 <고딩형사> 1차 포스터 및 예고편",
+          "url": "https://theqoo.net/hot/4416144615",
+          "score": 62.84
         },
         {
-          "source": "클리앙",
-          "rank": 89,
-          "title": "어벤져스 : 둠스데이 메인 예고편",
-          "url": "https://www.clien.net/service/board/park/19297655?od=T31&po=0&category=0&groupCd=",
-          "score": 52.99
+          "source": "인벤",
+          "rank": 60,
+          "title": "디워2 예고편",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755847",
+          "score": 58.75
         }
       ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "id": "i4784d0dc",
-      "title": "‘현시각’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i0f7ef78e",
+      "title": "‘ceo’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "현시각"
+        "ceo"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.36,
-      "peak_score": 73.36,
+      "score": 70.77,
+      "peak_score": 70.77,
       "appearances": 1,
       "sources": [
-        "인벤",
+        "더쿠",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 44,
-          "title": "현시각 기준 전세계 상장기업 시가총액 순위 정리",
-          "url": "https://www.clien.net/service/board/park/19297651?od=T31&po=0&category=0&groupCd=",
-          "score": 64.36
+          "rank": 49,
+          "title": "[CEO] ??? : 젠슨황이 복귀한 이유",
+          "url": "https://www.clien.net/service/board/park/19297692?od=T31&po=0&category=0&groupCd=",
+          "score": 61.77
         },
         {
-          "source": "인벤",
-          "rank": 71,
-          "title": "현시각 엔비디아 사옥 현장",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755784",
-          "score": 56.99
+          "source": "더쿠",
+          "rank": 57,
+          "title": "젠슨 황 엔비디아 CEO 복귀, 이사회 만장일치",
+          "url": "https://theqoo.net/hot/4415979777",
+          "score": 59.26
         }
       ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i5f59d520",
-      "title": "홈플러스 온라인 배송 중단",
+      "id": "i2073be6f",
+      "title": "‘복귀한’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "온라인",
-        "중단",
-        "배송",
-        "홈플러스"
+        "복귀한"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 71.26,
-      "peak_score": 71.26,
+      "score": 70.77,
+      "peak_score": 70.77,
       "appearances": 1,
       "sources": [
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 46,
-          "title": "홈플러스 온라인 배송 중단",
-          "url": "https://www.clien.net/service/board/park/19297644?od=T31&po=0&category=0&groupCd=",
-          "score": 63.26
+          "rank": 49,
+          "title": "[CEO] ??? : 젠슨황이 복귀한 이유",
+          "url": "https://www.clien.net/service/board/park/19297692?od=T31&po=0&category=0&groupCd=",
+          "score": 61.77
         },
         {
-          "source": "인벤",
-          "rank": 61,
-          "title": "홈플러스 온라인 배송 중단 안내",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755790",
-          "score": 59.16
+          "source": "루리웹",
+          "rank": 100,
+          "title": "엔비디아 복귀한 젠슨황 때문에 잔뜩 열받은 숏쟁이.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77499828?m=humor_only&t=now",
+          "score": 51.48
         }
       ],
       "rank": 8,
@@ -1174,13 +1251,14 @@
   ],
   "keywords": [
     {
-      "keyword": "젠슨",
-      "score": 158.79,
-      "post_count": 5,
-      "source_count": 4,
-      "best_rank": 18,
+      "keyword": "젠슨황",
+      "score": 210.79,
+      "post_count": 9,
+      "source_count": 5,
+      "best_rank": 2,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "루리웹",
         "인벤",
         "클리앙"
@@ -1190,144 +1268,143 @@
       "change": "NEW"
     },
     {
-      "keyword": "엔비디아",
-      "score": 154.93,
-      "post_count": 6,
-      "source_count": 4,
-      "best_rank": 39,
+      "keyword": "복귀",
+      "score": 134.59,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "루리웹",
-        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 8
+      "change": 1
     },
     {
-      "keyword": "복귀",
-      "score": 148.33,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 18,
+      "keyword": "직원들",
+      "score": 118.98,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
         "더쿠",
-        "루리웹",
-        "인벤",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "트럼프",
-      "score": 117.88,
+      "keyword": "주식",
+      "score": 114.69,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 35,
+      "best_rank": 22,
       "sources": [
-        "더쿠",
+        "루리웹",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 5
     },
     {
-      "keyword": "ai",
-      "score": 106.23,
+      "keyword": "일본",
+      "score": 111.57,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 4,
+      "source_count": 3,
+      "best_rank": 56,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 7
     },
     {
-      "keyword": "한국",
-      "score": 104.61,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
+      "keyword": "러시아",
+      "score": 109.01,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 63,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "내가",
-      "score": 104.0,
+      "keyword": "이름",
+      "score": 108.56,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 1,
+      "best_rank": 3,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "라고",
-      "score": 101.14,
+      "keyword": "황회장",
+      "score": 107.43,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 1,
       "sources": [
         "루리웹",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "주식",
-      "score": 93.86,
-      "post_count": 4,
+      "keyword": "ai",
+      "score": 107.37,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 58,
+      "best_rank": 4,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "알아보자",
-      "score": 93.77,
-      "post_count": 3,
+      "keyword": "환영하",
+      "score": 104.83,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 8,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "전세계",
-      "score": 93.22,
-      "post_count": 2,
+      "keyword": "버리",
+      "score": 102.94,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 15,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -1335,110 +1412,110 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 92.26,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 45,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": -7
-    },
-    {
-      "keyword": "순위",
-      "score": 91.23,
+      "keyword": "미국",
+      "score": 99.64,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 3,
       "sources": [
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 13,
+      "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "업계",
-      "score": 90.37,
+      "keyword": "엔비디아",
+      "score": 93.76,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 16,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -11
+    },
+    {
+      "keyword": "국장",
+      "score": 93.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 22,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "인스타",
-      "score": 87.25,
+      "keyword": "트럼프",
+      "score": 89.2,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 42,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -11
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "그래 내가 키라다.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77498732?m=humor",
-      "score": 98.12,
-      "views": 11933,
-      "comments": 39
+      "title": "직원들은 황회장 편이긴 했나보다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77499214?m=humor",
+      "score": 96.88,
+      "views": 14500,
+      "comments": 36
     },
     {
       "source": "디시인사이드",
-      "title": "머스크 \"기본소득과 노동해방은 반드시 온다\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481221&_dcbest=1&page=1",
-      "score": 94.53,
-      "views": 19992,
-      "comments": 551
+      "title": "미야자키 하야오가 AI 좆같다고 한이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481223&_dcbest=1&page=1",
+      "score": 84.37,
+      "views": 35325,
+      "comments": 264
     },
     {
       "source": "뽐뿌",
-      "title": "1억 5천 뚫었습니다",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=459506",
-      "score": 83.29,
-      "views": 27753,
-      "comments": 66
+      "title": "자랑 하나 해도될까요?",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baby&no=54514",
+      "score": 83.65,
+      "views": 3763,
+      "comments": 20
     },
     {
       "source": "인벤",
-      "title": "한국 사람들이 정부와 농협에 의해서 순수 세뇌 당한 영역",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755806",
-      "score": 80.06,
-      "views": 3429,
-      "comments": 30
+      "title": "젠슨황 복귀 환영하는 여직원",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755855",
+      "score": 80.95,
+      "views": 1708,
+      "comments": 16
     },
     {
       "source": "클리앙",
-      "title": "앞으로 주식시장",
-      "url": "https://www.clien.net/service/board/park/19297649?od=T31&po=0&category=0&groupCd=",
-      "score": 73.96,
-      "views": 4068,
-      "comments": 7
+      "title": "요즘 자녀들을 보며 고민되는 것(배우게 하고 싶은것)",
+      "url": "https://www.clien.net/service/board/park/19297698?od=T31&po=0&category=0&groupCd=",
+      "score": 76.86,
+      "views": 1246,
+      "comments": 17
     },
     {
       "source": "더쿠",
-      "title": "지금 AI가 풀어서 난리라는 \"리만 가설\"이 무엇인지 알아보자...jpg",
-      "url": "https://theqoo.net/hot/4416108766",
-      "score": 66.84,
-      "views": 21125,
-      "comments": 132
+      "title": "젠슨황 복귀 환영하는 엔비디아 직원들",
+      "url": "https://theqoo.net/hot/4416150303",
+      "score": 71.0,
+      "views": 17020,
+      "comments": 167
     }
   ]
 }
