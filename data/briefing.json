@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-25",
   "label": "2026년 11월 25일",
-  "collected_at": "2026-11-25T05:22:37.623517+09:00",
+  "collected_at": "2026-11-25T10:12:50.793201+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #내가. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘개판났다는 스시자로 원정 후기 근황’입니다. 실시간 키워드 상위: #의사. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 2,
-    "keywords": 14,
-    "top100_views": 984098,
-    "top100_comments": 8088
+    "daily_issues": 8,
+    "keywords": 15,
+    "top100_views": 1013138,
+    "top100_comments": 8547
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "개판났다는 스시자로 원정 후기 근황",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ia7821ac6"
+      "issue_id": "i7ea603ba"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#내가",
+      "title": "#의사",
       "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "내가"
+      "keyword": "의사"
     }
   ],
   "top_posts": [
@@ -59,12 +59,41 @@
           "last_seen": "2026-11-25T01:45:57.310408+09:00"
         }
       },
-      "score": 108.6,
+      "score": 108.2,
       "views": 32316,
       "likes": 224,
       "comments": 83,
       "active_days": 1,
       "change": 0
+    },
+    {
+      "title": "9급 공무원들 수준낮아서 데리고 일못하겠다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509659?m=humor",
+      "first_seen": "2026-11-25T10:12:50.793201+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "peak_score": 98.54,
+      "max_views": 26523,
+      "max_likes": 141,
+      "max_comments": 51,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-25": {
+          "max_score": 98.54,
+          "max_views": 26523,
+          "max_likes": 141,
+          "max_comments": 51,
+          "appearances": 1,
+          "last_seen": "2026-11-25T10:12:50.793201+09:00"
+        }
+      },
+      "score": 108.06,
+      "views": 26523,
+      "likes": 141,
+      "comments": 51,
+      "active_days": 1,
+      "change": "NEW"
     },
     {
       "title": "수출 잘된다는 라면, 외국에서 근황",
@@ -88,12 +117,12 @@
           "last_seen": "2026-11-25T05:22:37.623517+09:00"
         }
       },
-      "score": 106.78,
+      "score": 106.38,
       "views": 15006,
       "likes": 64,
       "comments": 36,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "15년째 라멘에 미쳐있다는 라멘 괴인의 1년치 라멘값",
@@ -117,10 +146,39 @@
           "last_seen": "2026-11-25T05:22:37.623517+09:00"
         }
       },
-      "score": 106.52,
+      "score": 106.12,
       "views": 20557,
       "likes": 85,
       "comments": 40,
+      "active_days": 1,
+      "change": -1
+    },
+    {
+      "title": "개판났다는 스시자로 원정 후기 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77510052?m=humor",
+      "first_seen": "2026-11-25T10:12:50.793201+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "peak_score": 95.77,
+      "max_views": 25292,
+      "max_likes": 78,
+      "max_comments": 72,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-25": {
+          "max_score": 95.77,
+          "max_views": 25292,
+          "max_likes": 78,
+          "max_comments": 72,
+          "appearances": 1,
+          "last_seen": "2026-11-25T10:12:50.793201+09:00"
+        }
+      },
+      "score": 105.29,
+      "views": 25292,
+      "likes": 78,
+      "comments": 72,
       "active_days": 1,
       "change": "NEW"
     },
@@ -146,7 +204,7 @@
           "last_seen": "2026-11-25T01:45:57.310408+09:00"
         }
       },
-      "score": 104.16,
+      "score": 103.76,
       "views": 12255,
       "likes": 78,
       "comments": 56,
@@ -175,10 +233,39 @@
           "last_seen": "2026-11-25T05:22:37.623517+09:00"
         }
       },
-      "score": 103.22,
+      "score": 102.81,
       "views": 20835,
       "likes": 8,
       "comments": 57,
+      "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "어이가 없는 '한국인 의사' 찾는 어플 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77510430?m=humor",
+      "first_seen": "2026-11-25T10:12:50.793201+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "peak_score": 93.0,
+      "max_views": 13863,
+      "max_likes": 90,
+      "max_comments": 54,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-25": {
+          "max_score": 93.0,
+          "max_views": 13863,
+          "max_likes": 90,
+          "max_comments": 54,
+          "appearances": 1,
+          "last_seen": "2026-11-25T10:12:50.793201+09:00"
+        }
+      },
+      "score": 102.52,
+      "views": 13863,
+      "likes": 90,
+      "comments": 54,
       "active_days": 1,
       "change": "NEW"
     },
@@ -204,7 +291,7 @@
           "last_seen": "2026-11-25T01:45:57.310408+09:00"
         }
       },
-      "score": 102.64,
+      "score": 102.24,
       "views": 14893,
       "likes": 156,
       "comments": 55,
@@ -233,251 +320,44 @@
           "last_seen": "2026-11-25T05:22:37.623517+09:00"
         }
       },
-      "score": 102.52,
+      "score": 102.12,
       "views": 12038,
       "likes": 52,
       "comments": 44,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "[네이버]프롭스 2만mAh 22.5w 보조배터리 11880원/무료배송",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109311",
-      "first_seen": "2026-11-25T01:45:57.310408+09:00",
-      "last_seen": "2026-11-25T01:45:57.310408+09:00",
-      "peak_score": 83.78,
-      "max_views": 31164,
-      "max_likes": 19,
-      "max_comments": 16,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-25": {
-          "max_score": 83.78,
-          "max_views": 31164,
-          "max_likes": 19,
-          "max_comments": 16,
-          "appearances": 1,
-          "last_seen": "2026-11-25T01:45:57.310408+09:00"
-        }
-      },
-      "score": 93.0,
-      "views": 31164,
-      "likes": 19,
-      "comments": 16,
-      "active_days": 1,
-      "change": -4
-    },
-    {
-      "title": "이대로 가면 이 대통령 탄핵 - 구속 나올지도 모릅니다.",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19298102?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-11-25T01:45:57.310408+09:00",
-      "last_seen": "2026-11-25T05:22:37.623517+09:00",
-      "peak_score": 82.03,
-      "max_views": 4134,
-      "max_likes": 11,
-      "max_comments": 51,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-11-25": {
-          "max_score": 82.03,
-          "max_views": 4134,
-          "max_likes": 11,
-          "max_comments": 51,
-          "appearances": 2,
-          "last_seen": "2026-11-25T05:22:37.623517+09:00"
-        }
-      },
-      "score": 92.45,
-      "views": 4134,
-      "likes": 11,
-      "comments": 51,
-      "active_days": 1,
-      "change": -4
-    },
-    {
-      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
-      "first_seen": "2026-11-25T01:45:57.310408+09:00",
-      "last_seen": "2026-11-25T05:22:37.623517+09:00",
-      "peak_score": 81.16,
-      "max_views": 11167,
-      "max_likes": 211,
-      "max_comments": 283,
-      "appearances": 2,
-      "daily_stats": {
-        "2026-11-25": {
-          "max_score": 81.16,
-          "max_views": 11167,
-          "max_likes": 211,
-          "max_comments": 283,
-          "appearances": 2,
-          "last_seen": "2026-11-25T05:22:37.623517+09:00"
-        }
-      },
-      "score": 91.58,
-      "views": 11167,
-      "likes": 211,
-      "comments": 283,
       "active_days": 1,
       "change": -3
     }
   ],
   "rising": [
     {
-      "source": "더쿠",
-      "title": "고등학생 딸 아이가 수업시간에 교복에 설사를했답니다",
-      "url": "https://theqoo.net/hot/4417097017",
+      "source": "뽐뿌",
+      "title": "다음달부터 전국민한테 무료 ai가 제공되네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200845",
       "category": "이슈",
-      "views": 28943,
-      "likes": 0,
-      "comments": 289,
-      "score": 67.84,
-      "change": 3,
-      "current_rank": 24,
+      "views": 24340,
+      "likes": 4,
+      "comments": 63,
+      "score": 78.46,
+      "change": 31,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 24128,
-      "delta_likes": 0,
-      "delta_comments": 208,
-      "rank_gain": 3,
-      "rising_score": 91.85,
-      "rising_rank": 1,
-      "window_minutes": 217
-    },
-    {
-      "source": "디시인사이드",
-      "title": "의사도 출근 못하고 119도 못지나 가게하는 마라토너들 .",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481458&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 5814,
-      "likes": 42,
-      "comments": 87,
-      "score": 68.55,
-      "change": 27,
-      "current_rank": 23,
-      "new_entry": false,
-      "delta_views": 5756,
-      "delta_likes": 39,
-      "delta_comments": 87,
-      "rank_gain": 27,
-      "rising_score": 91.45,
-      "rising_rank": 2,
-      "window_minutes": 217
-    },
-    {
-      "source": "클리앙",
-      "title": "이대로 가면 이 대통령 탄핵 - 구속 나올지도 모릅니다.",
-      "url": "https://www.clien.net/service/board/park/19298102?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 4134,
-      "likes": 11,
-      "comments": 51,
-      "score": 71.56,
-      "change": 0,
-      "current_rank": 15,
-      "new_entry": false,
-      "delta_views": 1946,
+      "delta_views": 17676,
       "delta_likes": 4,
-      "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 91.02,
-      "rising_rank": 3,
-      "window_minutes": 217
-    },
-    {
-      "source": "인벤",
-      "title": "내가 궁금해서 해보고싶은 2개중에 하나를..",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756186",
-      "category": "이슈",
-      "views": 1998,
-      "likes": 0,
-      "comments": 13,
-      "score": 76.98,
-      "change": 30,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 1745,
-      "delta_likes": 0,
-      "delta_comments": 11,
-      "rank_gain": 30,
-      "rising_score": 89.67,
-      "rising_rank": 4,
-      "window_minutes": 217
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 한국 좋아하는 베트남 사람",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481454&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9076,
-      "likes": 59,
-      "comments": 71,
-      "score": 70.54,
-      "change": 20,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 6356,
-      "delta_likes": 36,
-      "delta_comments": 45,
-      "rank_gain": 20,
-      "rising_score": 88.17,
-      "rising_rank": 5,
-      "window_minutes": 217
-    },
-    {
-      "source": "클리앙",
-      "title": "최근 현기차 인포테인먼트 루팅ㄷㄷㄷ",
-      "url": "https://www.clien.net/service/board/park/19298109?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2697,
-      "likes": 0,
-      "comments": 1,
-      "score": 57.64,
-      "change": 0,
-      "current_rank": 67,
-      "new_entry": false,
-      "delta_views": 1882,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 85.0,
-      "rising_rank": 6,
-      "window_minutes": 217
-    },
-    {
-      "source": "더쿠",
-      "title": "기념일도 아닌데 가진 용돈 탈탈 털어 금반지 선물한 아들 때문에 오열한 엄마..",
-      "url": "https://theqoo.net/hot/4417063265",
-      "category": "이슈",
-      "views": 29124,
-      "likes": 0,
-      "comments": 257,
-      "score": 63.68,
-      "change": 0,
-      "current_rank": 36,
-      "new_entry": false,
-      "delta_views": 13887,
-      "delta_likes": 0,
-      "delta_comments": 73,
-      "rank_gain": 0,
-      "rising_score": 83.33,
-      "rising_rank": 7,
-      "window_minutes": 217
+      "delta_comments": 43,
+      "rank_gain": 31,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 290
     },
     {
       "source": "루리웹",
-      "title": "수출 잘된다는 라면, 외국에서 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509173?m=humor",
+      "title": "9급 공무원들 수준낮아서 데리고 일못하겠다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509659?m=humor",
       "category": "이슈",
-      "views": 15006,
-      "likes": 64,
-      "comments": 36,
-      "score": 97.26,
+      "views": 26523,
+      "likes": 141,
+      "comments": 51,
+      "score": 98.54,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -485,19 +365,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.85,
-      "rising_rank": 8,
-      "window_minutes": 217
+      "rising_score": 83.39,
+      "rising_rank": 2,
+      "window_minutes": 290
     },
     {
       "source": "루리웹",
-      "title": "15년째 라멘에 미쳐있다는 라멘 괴인의 1년치 라멘값",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77507659?m=humor",
+      "title": "개판났다는 스시자로 원정 후기 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77510052?m=humor",
       "category": "이슈",
-      "views": 20557,
-      "likes": 85,
-      "comments": 40,
-      "score": 97.0,
+      "views": 25292,
+      "likes": 78,
+      "comments": 72,
+      "score": 95.77,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -505,18 +385,18 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.74,
-      "rising_rank": 9,
-      "window_minutes": 217
+      "rising_score": 82.22,
+      "rising_rank": 3,
+      "window_minutes": 290
     },
     {
       "source": "루리웹",
-      "title": "ㅅㅂ 나는 컴갤빌런이 맞았구나...",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509025?m=humor",
+      "title": "어이가 없는 '한국인 의사' 찾는 어플 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77510430?m=humor",
       "category": "이슈",
-      "views": 12038,
-      "likes": 52,
-      "comments": 44,
+      "views": 13863,
+      "likes": 90,
+      "comments": 54,
       "score": 93.0,
       "change": "NEW",
       "current_rank": 3,
@@ -526,11 +406,284 @@
       "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 81.06,
+      "rising_rank": 4,
+      "window_minutes": 290
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 19456,
+      "likes": 316,
+      "comments": 378,
+      "score": 60.19,
+      "change": 0,
+      "current_rank": 59,
+      "new_entry": false,
+      "delta_views": 8289,
+      "delta_likes": 105,
+      "delta_comments": 95,
+      "rank_gain": 0,
+      "rising_score": 78.57,
+      "rising_rank": 5,
+      "window_minutes": 290
+    },
+    {
+      "source": "디시인사이드",
+      "title": "의사도 출근 못하고 119도 못지나 가게하는 마라토너들 .",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481458&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 15165,
+      "likes": 92,
+      "comments": 174,
+      "score": 60.23,
+      "change": 0,
+      "current_rank": 58,
+      "new_entry": false,
+      "delta_views": 9351,
+      "delta_likes": 50,
+      "delta_comments": 87,
+      "rank_gain": 0,
+      "rising_score": 78.57,
+      "rising_rank": 6,
+      "window_minutes": 290
+    },
+    {
+      "source": "디시인사이드",
+      "title": "전남친과 헤어진게 후회되는 웅니",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481496&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 16840,
+      "likes": 79,
+      "comments": 171,
+      "score": 83.71,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.16,
+      "rising_rank": 7,
+      "window_minutes": 290
+    },
+    {
+      "source": "뽐뿌",
+      "title": "제자가 학원비를 못내길래.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200975",
+      "category": "이슈",
+      "views": 11307,
+      "likes": 50,
+      "comments": 47,
+      "score": 81.99,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.44,
+      "rising_rank": 8,
+      "window_minutes": 290
+    },
+    {
+      "source": "디시인사이드",
+      "title": "리뷰) GTA6 - 떠날 때를 알아야 한다.",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481484&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 14478,
+      "likes": 95,
+      "comments": 407,
+      "score": 79.06,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.21,
+      "rising_rank": 9,
+      "window_minutes": 290
+    },
+    {
+      "source": "더쿠",
+      "title": "\"육아휴직 후 세무사 도전…양가 도움으로 2년 만에 합격\" [제63회 세무사시험-합격자]",
+      "url": "https://theqoo.net/hot/4417199489",
+      "category": "생활",
+      "views": 32964,
+      "likes": 0,
+      "comments": 533,
+      "score": 75.53,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.72,
       "rising_rank": 10,
-      "window_minutes": 217
+      "window_minutes": 290
     }
   ],
   "issues": [
+    {
+      "id": "i7ea603ba",
+      "title": "개판났다는 스시자로 원정 후기 근황",
+      "keywords": [
+        "스시자로",
+        "원정"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.24,
+      "peak_score": 103.77,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "개판났다는 스시자로 원정 후기 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77510052?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "어글리 코리안의 정수를 보여주고 있다는 스시자로 대마도 원정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756231",
+          "score": 66.64
+        }
+      ],
+      "first_seen": "2026-11-25T10:12:50.793201+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i64aac33b",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 94.91,
+      "peak_score": 83.44,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 15,
+          "title": "금융위기 때보다 빠른 코스피 추락",
+          "url": "https://www.clien.net/service/board/park/19298209?od=T31&po=0&category=0&groupCd=",
+          "score": 72.44
+        },
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "[속보] 코스피 4%대로 낙폭 확대…매도 사이드카 발동",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756226",
+          "score": 66.59
+        }
+      ],
+      "first_seen": "2026-10-15T14:11:05.910258+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i9f81d2b8",
+      "title": "‘대마도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대마도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.11,
+      "peak_score": 75.64,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "어글리 코리안의 정수를 보여주고 있다는 스시자로 대마도 원정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756231",
+          "score": 66.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 94,
+          "title": "대마도 마운자로 사건에서 방식그대로가자는 사람이 왜 빌런이야?",
+          "url": "https://theqoo.net/hot/4417180091",
+          "score": 54.05
+        }
+      ],
+      "first_seen": "2026-11-24T14:41:34.077762+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ib02598ad",
+      "title": "‘사이드카’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "사이드카"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.06,
+      "peak_score": 75.59,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "[속보] 코스피 4%대로 낙폭 확대…매도 사이드카 발동",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756226",
+          "score": 66.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 75,
+          "title": "사이드카 발동이 너무 잦아서",
+          "url": "https://www.clien.net/service/board/park/19298205?od=T31&po=0&category=0&groupCd=",
+          "score": 57.9
+        }
+      ],
+      "first_seen": "2026-11-23T12:01:44.176997+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
     {
       "id": "ia7821ac6",
       "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
@@ -567,8 +720,8 @@
       "last_seen": "2026-11-25T05:22:37.623517+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 1
+      "rank": 5,
+      "change": -4
     },
     {
       "id": "iba838050",
@@ -605,115 +758,371 @@
       "last_seen": "2026-11-25T01:45:57.310408+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": -1
-    }
-  ],
-  "realtime_issues": [
+      "rank": 6,
+      "change": -4
+    },
     {
-      "id": "ia7821ac6",
-      "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4a23876e",
+      "title": "‘25일’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "어벤져스",
-        "둠스데이"
+        "25일",
+        "11월"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 70.44,
-      "peak_score": 70.44,
+      "post_count": 3,
+      "score": 80.6,
+      "peak_score": 70.13,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 48,
-          "title": "역대급으로 미쳤다는 어벤져스: 둠스데이 라인업",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481433&_dcbest=1&page=1",
-          "score": 61.44
+          "source": "뽐뿌",
+          "rank": 60,
+          "title": "신한플레이 쏠야구 퀴즈 11월 25일 정답",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200875",
+          "score": 60.13
         },
         {
           "source": "인벤",
-          "rank": 88,
-          "title": "사실로 밝혀진 5개월 전 '어벤져스: 둠스데이' 유출 영상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756160",
-          "score": 53.34
+          "rank": 62,
+          "title": "11월 25일, 수요일 간추린 아침뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756238",
+          "score": 59.83
+        }
+      ],
+      "first_seen": "2026-10-29T14:42:11.450079+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "iac3530ad",
+      "title": "[속보]교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+      "keywords": [
+        "시험지",
+        "추진",
+        "교육부",
+        "5년",
+        "보관기간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.75,
+      "peak_score": 66.28,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 73,
+          "title": "[속보]교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756236",
+          "score": 58.28
+        },
+        {
+          "source": "클리앙",
+          "rank": 82,
+          "title": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+          "url": "https://www.clien.net/service/board/park/19298213?od=T31&po=0&category=0&groupCd=",
+          "score": 55.79
+        }
+      ],
+      "first_seen": "2026-11-25T10:12:50.793201+09:00",
+      "last_seen": "2026-11-25T10:12:50.793201+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i64aac33b",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 83.44,
+      "peak_score": 83.44,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 15,
+          "title": "금융위기 때보다 빠른 코스피 추락",
+          "url": "https://www.clien.net/service/board/park/19298209?od=T31&po=0&category=0&groupCd=",
+          "score": 72.44
+        },
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "[속보] 코스피 4%대로 낙폭 확대…매도 사이드카 발동",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756226",
+          "score": 66.59
         }
       ],
       "rank": 1,
-      "change": 1
-    }
-  ],
-  "keywords": [
-    {
-      "keyword": "내가",
-      "score": 122.6,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 8,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "의사",
-      "score": 98.87,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
+      "id": "i4a23876e",
+      "title": "‘25일’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "25일",
+        "11월"
       ],
-      "aliases": [
-        "출근"
+      "source_count": 2,
+      "post_count": 3,
+      "score": 70.13,
+      "peak_score": 70.13,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 60,
+          "title": "신한플레이 쏠야구 퀴즈 11월 25일 정답",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200875",
+          "score": 60.13
+        },
+        {
+          "source": "인벤",
+          "rank": 62,
+          "title": "11월 25일, 수요일 간추린 아침뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756238",
+          "score": 59.83
+        }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 93.45,
-      "post_count": 3,
+      "id": "i7ea603ba",
+      "title": "개판났다는 스시자로 원정 후기 근황",
+      "keywords": [
+        "스시자로",
+        "원정"
+      ],
       "source_count": 2,
-      "best_rank": 43,
+      "post_count": 2,
+      "score": 103.77,
+      "peak_score": 103.77,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "개판났다는 스시자로 원정 후기 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77510052?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "어글리 코리안의 정수를 보여주고 있다는 스시자로 대마도 원정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756231",
+          "score": 66.64
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i9f81d2b8",
+      "title": "‘대마도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대마도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.64,
+      "peak_score": 75.64,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "어글리 코리안의 정수를 보여주고 있다는 스시자로 대마도 원정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756231",
+          "score": 66.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 94,
+          "title": "대마도 마운자로 사건에서 방식그대로가자는 사람이 왜 빌런이야?",
+          "url": "https://theqoo.net/hot/4417180091",
+          "score": 54.05
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ib02598ad",
+      "title": "‘사이드카’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "사이드카"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.59,
+      "peak_score": 75.59,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "[속보] 코스피 4%대로 낙폭 확대…매도 사이드카 발동",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756226",
+          "score": 66.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 75,
+          "title": "사이드카 발동이 너무 잦아서",
+          "url": "https://www.clien.net/service/board/park/19298205?od=T31&po=0&category=0&groupCd=",
+          "score": 57.9
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "iac3530ad",
+      "title": "[속보]교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+      "keywords": [
+        "시험지",
+        "추진",
+        "교육부",
+        "5년",
+        "보관기간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 66.28,
+      "peak_score": 66.28,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 73,
+          "title": "[속보]교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756236",
+          "score": 58.28
+        },
+        {
+          "source": "클리앙",
+          "rank": 82,
+          "title": "교육부 “수능 시험지 보관기간 1→5년 연장 추진”",
+          "url": "https://www.clien.net/service/board/park/19298213?od=T31&po=0&category=0&groupCd=",
+          "score": 55.79
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "의사",
+      "score": 126.77,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": 1
+    },
+    {
+      "keyword": "코스피",
+      "score": 113.88,
+      "post_count": 5,
+      "source_count": 2,
+      "best_rank": 11,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "스시자로",
+      "score": 107.68,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "원정"
+      ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "순위",
-      "score": 92.58,
+      "keyword": "어플",
+      "score": 105.08,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 3,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "가면",
-      "score": 92.38,
+      "keyword": "재산",
+      "score": 93.38,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 20,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -721,13 +1130,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "있다",
-      "score": 91.62,
-      "post_count": 2,
+      "keyword": "추진",
+      "score": 91.82,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 26,
       "sources": [
-        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -735,69 +1144,73 @@
       "change": "NEW"
     },
     {
-      "keyword": "구속",
-      "score": 87.69,
-      "post_count": 2,
+      "keyword": "11월",
+      "score": 90.65,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 60,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "25일"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "일정",
-      "score": 85.13,
+      "keyword": "사이드카",
+      "score": 87.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 29,
       "sources": [
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "발동"
+      ],
       "rank": 8,
-      "change": -5
+      "change": "NEW"
     },
     {
-      "keyword": "풍경",
-      "score": 84.71,
+      "keyword": "계약",
+      "score": 86.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 34,
       "sources": [
         "더쿠",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "다시",
-      "score": 84.21,
+      "keyword": "사건",
+      "score": 85.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 24,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "용량",
-      "score": 83.46,
+      "keyword": "대마",
+      "score": 84.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 47,
+      "best_rank": 28,
       "sources": [
-        "루리웹",
+        "더쿠",
         "인벤"
       ],
       "aliases": [],
@@ -805,98 +1218,115 @@
       "change": "NEW"
     },
     {
-      "keyword": "어벤져스",
-      "score": 81.99,
+      "keyword": "보관기간",
+      "score": 79.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 48,
+      "best_rank": 73,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [
-        "둠스데"
+        "5년",
+        "교육부",
+        "수능",
+        "시험지",
+        "연장"
       ],
       "rank": 12,
-      "change": -5
+      "change": "NEW"
     },
     {
-      "keyword": "경찰",
-      "score": 78.99,
+      "keyword": "게임",
+      "score": 77.63,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 57,
+      "best_rank": 83,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "강남",
-      "score": 78.8,
+      "keyword": "작가",
+      "score": 74.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 60,
+      "best_rank": 90,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "수요일",
+      "score": 68.92,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 57,
+      "sources": [
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "수출 잘된다는 라면, 외국에서 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509173?m=humor",
-      "score": 97.26,
-      "views": 15006,
-      "comments": 36
-    },
-    {
-      "source": "뽐뿌",
-      "title": "폭증하는 청주공항 근황 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116356",
-      "score": 92.8,
-      "views": 20835,
-      "comments": 57
+      "title": "9급 공무원들 수준낮아서 데리고 일못하겠다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77509659?m=humor",
+      "score": 98.54,
+      "views": 26523,
+      "comments": 51
     },
     {
       "source": "디시인사이드",
-      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
-      "score": 81.16,
-      "views": 11167,
-      "comments": 283
+      "title": "전남친과 헤어진게 후회되는 웅니",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481496&_dcbest=1&page=1",
+      "score": 83.71,
+      "views": 16840,
+      "comments": 171
     },
     {
-      "source": "인벤",
-      "title": "수시탈락 이야기가 좀 웃기는게",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756185",
-      "score": 77.59,
-      "views": 1903,
-      "comments": 12
-    },
-    {
-      "source": "클리앙",
-      "title": "우리나라 규제는 뭐가 이리 심한가요",
-      "url": "https://www.clien.net/service/board/park/19298121?od=T31&po=0&category=0&groupCd=",
-      "score": 76.73,
-      "views": 1044,
-      "comments": 9
+      "source": "뽐뿌",
+      "title": "제자가 학원비를 못내길래.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200975",
+      "score": 81.99,
+      "views": 11307,
+      "comments": 47
     },
     {
       "source": "더쿠",
-      "title": "친오빠랑 연락 한적 단 한번도 없다는 하츠투하츠 지우",
-      "url": "https://theqoo.net/hot/4416996623",
-      "score": 74.21,
-      "views": 57268,
-      "comments": 547
+      "title": "\"육아휴직 후 세무사 도전…양가 도움으로 2년 만에 합격\" [제63회 세무사시험-합격자]",
+      "url": "https://theqoo.net/hot/4417199489",
+      "score": 75.53,
+      "views": 32964,
+      "comments": 533
+    },
+    {
+      "source": "인벤",
+      "title": "요즘 컴퓨터 정말.. 비싸네요..",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756227",
+      "score": 74.72,
+      "views": 2896,
+      "comments": 24
+    },
+    {
+      "source": "클리앙",
+      "title": "코스피는 작년 올해 많이 올라서 잠시 숨고르기 중 같네요",
+      "url": "https://www.clien.net/service/board/park/19298198?od=T31&po=0&category=0&groupCd=",
+      "score": 73.75,
+      "views": 2122,
+      "comments": 26
     }
   ]
 }
