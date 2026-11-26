@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-26",
   "label": "2026년 11월 26일",
-  "collected_at": "2026-11-26T07:48:55.993964+09:00",
+  "collected_at": "2026-11-26T11:40:36.112786+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -130,6 +130,44 @@
       "change": 0
     },
     {
+      "id": "i5c6da920",
+      "title": "‘중국에’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중국에"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 91.3,
+      "peak_score": 80.83,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 20,
+          "title": "산업장관 \"중국에 밀릴 수도…52시간 특례 내일이라도 시작해야\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756630",
+          "score": 70.83
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
+          "url": "https://www.clien.net/service/board/park/19298773?od=T31&po=0&category=0&groupCd=",
+          "score": 64.38
+        }
+      ],
+      "first_seen": "2026-10-22T04:02:59.626679+09:00",
+      "last_seen": "2026-11-26T11:40:36.112786+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "i9d4e209b",
       "title": "요즘 강남역 주변이 붐비는 이유",
       "keywords": [
@@ -166,8 +204,8 @@
       "last_seen": "2026-11-26T07:48:55.993964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i64aac33b",
@@ -204,7 +242,50 @@
       "last_seen": "2026-11-26T07:48:55.993964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i171de8fd",
+      "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
+      "keywords": [
+        "젠슨",
+        "정보당국",
+        "불륜녀",
+        "진짜로",
+        "중국에",
+        "넘겼다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.5,
+      "peak_score": 74.03,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 43,
+          "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756640",
+          "score": 66.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 51,
+          "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
+          "url": "https://www.clien.net/service/board/park/19298773?od=T31&po=0&category=0&groupCd=",
+          "score": 64.38
+        }
+      ],
+      "first_seen": "2026-11-26T11:40:36.112786+09:00",
+      "last_seen": "2026-11-26T11:40:36.112786+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -242,8 +323,50 @@
       "last_seen": "2026-11-26T04:54:21.620709+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 8,
       "change": -2
+    },
+    {
+      "id": "i77bec7b9",
+      "title": "[속보] 대법 윤석열 '한덕수 재판 위증' 무죄 확정",
+      "keywords": [
+        "윤석열",
+        "위증",
+        "대법",
+        "한덕수",
+        "재판"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.34,
+      "peak_score": 69.87,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 59,
+          "title": "[속보] 대법 윤석열 '한덕수 재판 위증' 무죄 확정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756616",
+          "score": 61.87
+        },
+        {
+          "source": "클리앙",
+          "rank": 85,
+          "title": "대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
+          "url": "https://www.clien.net/service/board/park/19298765?od=T31&po=0&category=0&groupCd=",
+          "score": 54.79
+        }
+      ],
+      "first_seen": "2026-11-04T18:55:56.818749+09:00",
+      "last_seen": "2026-11-26T11:40:36.112786+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "i696d1e74",
@@ -280,8 +403,8 @@
       "last_seen": "2026-11-26T07:48:55.993964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 10,
+      "change": -3
     }
   ]
 }
