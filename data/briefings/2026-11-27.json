@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-27",
   "label": "2026년 11월 27일",
-  "collected_at": "2026-11-27T05:31:42.158445+09:00",
+  "collected_at": "2026-11-27T08:13:40.097108+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘교도소’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘교도소’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #주식. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 9,
-    "top100_views": 913766,
-    "top100_comments": 8910
+    "daily_issues": 4,
+    "keywords": 13,
+    "top100_views": 1109877,
+    "top100_comments": 11030
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#중국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "중국"
+      "title": "#주식",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "주식"
     }
   ],
   "top_posts": [
@@ -59,10 +59,68 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 108.06,
+      "score": 107.84,
       "views": 23341,
       "likes": 107,
       "comments": 59,
+      "active_days": 1,
+      "change": 0
+    },
+    {
+      "title": "44% 증가했다는 2030 암환자들",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532391?m=humor",
+      "first_seen": "2026-11-27T08:13:40.097108+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
+      "peak_score": 98.12,
+      "max_views": 27181,
+      "max_likes": 77,
+      "max_comments": 41,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-27": {
+          "max_score": 98.12,
+          "max_views": 27181,
+          "max_likes": 77,
+          "max_comments": 41,
+          "appearances": 1,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
+        }
+      },
+      "score": 107.64,
+      "views": 27181,
+      "likes": 77,
+      "comments": 41,
+      "active_days": 1,
+      "change": "NEW"
+    },
+    {
+      "title": "피해자가 속출하고 있다는 다이소 스노우볼",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532039?m=humor",
+      "first_seen": "2026-11-27T08:13:40.097108+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
+      "peak_score": 95.5,
+      "max_views": 32632,
+      "max_likes": 91,
+      "max_comments": 44,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-27": {
+          "max_score": 95.5,
+          "max_views": 32632,
+          "max_likes": 91,
+          "max_comments": 44,
+          "appearances": 1,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
+        }
+      },
+      "score": 105.02,
+      "views": 32632,
+      "likes": 91,
+      "comments": 44,
       "active_days": 1,
       "change": "NEW"
     },
@@ -88,12 +146,12 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 104.61,
+      "score": 104.39,
       "views": 28318,
       "likes": 95,
       "comments": 60,
       "active_days": 1,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "현대 약물 보디빌더 수명이 50대를 못넘기는 이유",
@@ -117,10 +175,39 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 104.46,
+      "score": 104.24,
       "views": 20481,
       "likes": 77,
       "comments": 54,
+      "active_days": 1,
+      "change": -2
+    },
+    {
+      "title": "성인이 되어 사회에 진출하면 무조건 신중해야하는거",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532627?m=humor",
+      "first_seen": "2026-11-27T08:13:40.097108+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
+      "peak_score": 93.06,
+      "max_views": 11424,
+      "max_likes": 57,
+      "max_comments": 38,
+      "appearances": 1,
+      "daily_stats": {
+        "2026-11-27": {
+          "max_score": 93.06,
+          "max_views": 11424,
+          "max_likes": 57,
+          "max_comments": 38,
+          "appearances": 1,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
+        }
+      },
+      "score": 102.58,
+      "views": 11424,
+      "likes": 57,
+      "comments": 38,
       "active_days": 1,
       "change": "NEW"
     },
@@ -146,12 +233,12 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 92.88,
+      "score": 92.66,
       "views": 10075,
       "likes": 18,
       "comments": 11,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
@@ -159,28 +246,28 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
       "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "peak_score": 81.91,
-      "max_views": 20352,
-      "max_likes": 110,
-      "max_comments": 290,
-      "appearances": 1,
+      "max_views": 24629,
+      "max_likes": 132,
+      "max_comments": 334,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-27": {
           "max_score": 81.91,
-          "max_views": 20352,
-          "max_likes": 110,
-          "max_comments": 290,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
+          "max_views": 24629,
+          "max_likes": 132,
+          "max_comments": 334,
+          "appearances": 2,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
         }
       },
-      "score": 91.43,
-      "views": 20352,
-      "likes": 110,
-      "comments": 290,
+      "score": 92.33,
+      "views": 24629,
+      "likes": 132,
+      "comments": 334,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
@@ -188,28 +275,28 @@
       "category": "생활",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
       "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "peak_score": 81.9,
-      "max_views": 15530,
-      "max_likes": 45,
-      "max_comments": 295,
-      "appearances": 1,
+      "max_views": 27463,
+      "max_likes": 68,
+      "max_comments": 362,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-27": {
           "max_score": 81.9,
-          "max_views": 15530,
-          "max_likes": 45,
-          "max_comments": 295,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
+          "max_views": 27463,
+          "max_likes": 68,
+          "max_comments": 362,
+          "appearances": 2,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
         }
       },
-      "score": 91.42,
-      "views": 15530,
-      "likes": 45,
-      "comments": 295,
+      "score": 92.32,
+      "views": 27463,
+      "likes": 68,
+      "comments": 362,
       "active_days": 1,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "김준표가 대형 유튜버라도 위험한 이유",
@@ -217,147 +304,80 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481894&_dcbest=1&page=1",
       "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "peak_score": 80.6,
-      "max_views": 20315,
-      "max_likes": 151,
-      "max_comments": 164,
-      "appearances": 1,
+      "max_views": 28200,
+      "max_likes": 200,
+      "max_comments": 228,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-27": {
           "max_score": 80.6,
-          "max_views": 20315,
-          "max_likes": 151,
-          "max_comments": 164,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
+          "max_views": 28200,
+          "max_likes": 200,
+          "max_comments": 228,
+          "appearances": 2,
+          "last_seen": "2026-11-27T08:13:40.097108+09:00"
         }
       },
-      "score": 90.12,
-      "views": 20315,
-      "likes": 151,
-      "comments": 164,
+      "score": 91.02,
+      "views": 28200,
+      "likes": 200,
+      "comments": 228,
       "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "ㅎㅂ) 여자라서 좋은 점",
-      "source": "인벤",
-      "category": "유머",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756918",
-      "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
-      "peak_score": 79.63,
-      "max_views": 4921,
-      "max_likes": 3,
-      "max_comments": 8,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-27": {
-          "max_score": 79.63,
-          "max_views": 4921,
-          "max_likes": 3,
-          "max_comments": 8,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
-        }
-      },
-      "score": 89.15,
-      "views": 4921,
-      "likes": 3,
-      "comments": 8,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "일제강점기를 겪은 90대 노인이 맞아죽은 사건... jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481875&_dcbest=1&page=1",
-      "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
-      "peak_score": 79.58,
-      "max_views": 22391,
-      "max_likes": 163,
-      "max_comments": 611,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-27": {
-          "max_score": 79.58,
-          "max_views": 22391,
-          "max_likes": 163,
-          "max_comments": 611,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
-        }
-      },
-      "score": 89.1,
-      "views": 22391,
-      "likes": 163,
-      "comments": 611,
-      "active_days": 1,
-      "change": "NEW"
-    },
-    {
-      "title": "신한은행 2027 신토정비결",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4419286433",
-      "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
-      "peak_score": 78.0,
-      "max_views": 9498,
-      "max_likes": 0,
-      "max_comments": 406,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-27": {
-          "max_score": 78.0,
-          "max_views": 9498,
-          "max_likes": 0,
-          "max_comments": 406,
-          "appearances": 1,
-          "last_seen": "2026-11-27T05:31:42.158445+09:00"
-        }
-      },
-      "score": 87.52,
-      "views": 9498,
-      "likes": 0,
-      "comments": 406,
-      "active_days": 1,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "그렇지.. 중국은 한한령 해제가 끝은 아니지...",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756893",
+      "source": "디시인사이드",
+      "title": "김준표가 대형 유튜버라도 위험한 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481894&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 4575,
-      "likes": 0,
-      "comments": 11,
-      "score": 51.27,
+      "views": 28200,
+      "likes": 200,
+      "comments": 228,
+      "score": 78.22,
       "change": 0,
-      "current_rank": 90,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 3703,
-      "delta_likes": 0,
-      "delta_comments": 9,
+      "delta_views": 7885,
+      "delta_likes": 49,
+      "delta_comments": 64,
       "rank_gain": 0,
-      "rising_score": 100.0,
+      "rising_score": 92.4,
       "rising_rank": 1,
-      "window_minutes": 372
+      "window_minutes": 162
+    },
+    {
+      "source": "인벤",
+      "title": "ㅎㅂ) 여자라서 좋은 점",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756918",
+      "category": "유머",
+      "views": 10671,
+      "likes": 4,
+      "comments": 16,
+      "score": 55.39,
+      "change": 0,
+      "current_rank": 78,
+      "new_entry": false,
+      "delta_views": 5750,
+      "delta_likes": 1,
+      "delta_comments": 8,
+      "rank_gain": 0,
+      "rising_score": 85.42,
+      "rising_rank": 2,
+      "window_minutes": 162
     },
     {
       "source": "루리웹",
-      "title": "한국 살았다고 주장하지만 아무도 안믿는 트윗",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77531898?m=humor",
+      "title": "44% 증가했다는 2030 암환자들",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532391?m=humor",
       "category": "이슈",
-      "views": 23341,
-      "likes": 107,
-      "comments": 59,
-      "score": 98.54,
+      "views": 27181,
+      "likes": 77,
+      "comments": 41,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -365,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.39,
-      "rising_rank": 2,
-      "window_minutes": 372
+      "rising_score": 83.21,
+      "rising_rank": 3,
+      "window_minutes": 162
     },
     {
       "source": "루리웹",
-      "title": "'아니, 이것도 전라도쪽 브랜드였어?!'하고 놀란 피자집...",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77531181?m=humor",
-      "category": "생활",
-      "views": 28318,
-      "likes": 95,
-      "comments": 60,
-      "score": 95.09,
+      "title": "피해자가 속출하고 있다는 다이소 스노우볼",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532039?m=humor",
+      "category": "이슈",
+      "views": 32632,
+      "likes": 91,
+      "comments": 44,
+      "score": 95.5,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,19 +405,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.94,
-      "rising_rank": 3,
-      "window_minutes": 372
+      "rising_score": 82.11,
+      "rising_rank": 4,
+      "window_minutes": 162
+    },
+    {
+      "source": "디시인사이드",
+      "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 27463,
+      "likes": 68,
+      "comments": 362,
+      "score": 79.8,
+      "change": 1,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 11933,
+      "delta_likes": 23,
+      "delta_comments": 67,
+      "rank_gain": 1,
+      "rising_score": 81.18,
+      "rising_rank": 5,
+      "window_minutes": 162
     },
     {
       "source": "루리웹",
-      "title": "현대 약물 보디빌더 수명이 50대를 못넘기는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77531665?m=humor",
+      "title": "성인이 되어 사회에 진출하면 무조건 신중해야하는거",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532627?m=humor",
       "category": "이슈",
-      "views": 20481,
-      "likes": 77,
-      "comments": 54,
-      "score": 94.94,
+      "views": 11424,
+      "likes": 57,
+      "comments": 38,
+      "score": 93.06,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,39 +445,59 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.87,
-      "rising_rank": 4,
-      "window_minutes": 372
+      "rising_score": 81.09,
+      "rising_rank": 6,
+      "window_minutes": 162
     },
     {
-      "source": "디시인사이드",
-      "title": "지금 대한민국에서 결혼 적령기라는 말이 웃긴 이유.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481856&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 23955,
-      "likes": 117,
-      "comments": 499,
-      "score": 68.22,
+      "source": "더쿠",
+      "title": "팬들이 보낸 편지 사진만 찍고 그대로 분리수거장에 버린 배우",
+      "url": "https://theqoo.net/hot/4419269621",
+      "category": "연예",
+      "views": 70673,
+      "likes": 0,
+      "comments": 414,
+      "score": 71.37,
       "change": 0,
-      "current_rank": 20,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 10077,
-      "delta_likes": 54,
-      "delta_comments": 318,
+      "delta_views": 36450,
+      "delta_likes": 0,
+      "delta_comments": 94,
       "rank_gain": 0,
-      "rising_score": 78.82,
-      "rising_rank": 5,
-      "window_minutes": 372
+      "rising_score": 79.67,
+      "rising_rank": 7,
+      "window_minutes": 162
     },
     {
-      "source": "루리웹",
-      "title": "[토스] 배달의민족 랜덤 쿠폰 뽑기 (11/27)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109411",
+      "source": "더쿠",
+      "title": "MAMA 남자아이돌 무보정",
+      "url": "https://theqoo.net/hot/4419282311",
+      "category": "연예",
+      "views": 38481,
+      "likes": 0,
+      "comments": 440,
+      "score": 72.53,
+      "change": 5,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 25139,
+      "delta_likes": 0,
+      "delta_comments": 228,
+      "rank_gain": 5,
+      "rising_score": 78.1,
+      "rising_rank": 8,
+      "window_minutes": 162
+    },
+    {
+      "source": "뽐뿌",
+      "title": "섹파 임신, 인생 망한 남자.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202985",
       "category": "이슈",
-      "views": 10075,
-      "likes": 18,
-      "comments": 11,
-      "score": 83.36,
+      "views": 24205,
+      "likes": 0,
+      "comments": 43,
+      "score": 80.11,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -445,79 +505,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.01,
-      "rising_rank": 6,
-      "window_minutes": 372
-    },
-    {
-      "source": "디시인사이드",
-      "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20352,
-      "likes": 110,
-      "comments": 290,
-      "score": 81.91,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.4,
-      "rising_rank": 7,
-      "window_minutes": 372
-    },
-    {
-      "source": "디시인사이드",
-      "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 15530,
-      "likes": 45,
-      "comments": 295,
-      "score": 81.9,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.4,
-      "rising_rank": 8,
-      "window_minutes": 372
-    },
-    {
-      "source": "디시인사이드",
-      "title": "김준표가 대형 유튜버라도 위험한 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481894&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 20315,
-      "likes": 151,
-      "comments": 164,
-      "score": 80.6,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.85,
+      "rising_score": 75.65,
       "rising_rank": 9,
-      "window_minutes": 372
+      "window_minutes": 162
     },
     {
-      "source": "인벤",
-      "title": "ㅎㅂ) 여자라서 좋은 점",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756918",
-      "category": "유머",
-      "views": 4921,
-      "likes": 3,
-      "comments": 8,
-      "score": 79.63,
+      "source": "더쿠",
+      "title": "'중드 열풍’이 한국 드라마에 시사하는 것",
+      "url": "https://theqoo.net/hot/4419304579",
+      "category": "연예",
+      "views": 31196,
+      "likes": 0,
+      "comments": 421,
+      "score": 78.0,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -525,9 +525,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.44,
+      "rising_score": 74.76,
       "rising_rank": 10,
-      "window_minutes": 372
+      "window_minutes": 162
     }
   ],
   "issues": [
@@ -539,9 +539,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 100.38,
+      "score": 102.4,
       "peak_score": 90.91,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -549,25 +549,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 10,
           "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-          "score": 81.91
+          "score": 76.27
         },
         {
           "source": "더쿠",
-          "rank": 74,
+          "rank": 93,
           "title": "교도소 과밀화 해결이 시급한 이유.jpg",
           "url": "https://theqoo.net/hot/4419179072",
-          "score": 55.42
+          "score": 51.26
         }
       ],
       "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ia0358651",
@@ -609,7 +609,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i4026fefc",
@@ -649,6 +649,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "i042dbfc2",
+      "title": "눈물의 주식 브리핑",
+      "keywords": [
+        "브리핑",
+        "눈물의",
+        "주식"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.06,
+      "peak_score": 75.59,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.clien.net/service/board/park/19299079?od=T31&po=0&category=0&groupCd=",
+          "score": 67.59
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756942",
+          "score": 61.07
+        }
+      ],
+      "first_seen": "2026-11-27T08:13:40.097108+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     }
   ],
@@ -661,8 +701,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.91,
-      "peak_score": 90.91,
+      "score": 85.27,
+      "peak_score": 85.27,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -671,104 +711,66 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 10,
           "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-          "score": 81.91
+          "score": 76.27
         },
         {
           "source": "더쿠",
-          "rank": 74,
+          "rank": 93,
           "title": "교도소 과밀화 해결이 시급한 이유.jpg",
           "url": "https://theqoo.net/hot/4419179072",
-          "score": 55.42
+          "score": 51.26
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "ia0358651",
-      "title": "팬들이 보낸 편지 사진만 찍고 그대로 분리수거장에 버린 배우",
+      "id": "i042dbfc2",
+      "title": "눈물의 주식 브리핑",
       "keywords": [
-        "편지",
-        "찍고",
-        "팬들이",
-        "보낸",
-        "그대로"
+        "브리핑",
+        "눈물의",
+        "주식"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.68,
-      "peak_score": 83.68,
+      "score": 75.59,
+      "peak_score": 75.59,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "팬들이 보낸 편지 사진만 찍고 그대로 분리수거장에 버린 배우",
-          "url": "https://theqoo.net/hot/4419269621",
-          "score": 75.68
+          "source": "클리앙",
+          "rank": 26,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.clien.net/service/board/park/19299079?od=T31&po=0&category=0&groupCd=",
+          "score": 67.59
         },
         {
-          "source": "루리웹",
-          "rank": 21,
-          "title": "팬들이 보낸 편지 인증사진만 찍고 그대로 버린 배우",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77532411?m=humor_only&t=now",
-          "score": 67.79
+          "source": "인벤",
+          "rank": 45,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756942",
+          "score": 61.07
         }
       ],
       "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i4026fefc",
-      "title": "44% 증가했다는 2030 암환자들",
-      "keywords": [
-        "증가했다는",
-        "2030",
-        "암환자들"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.68,
-      "peak_score": 75.68,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 23,
-          "title": "44% 증가했다는 2030 암환자들",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202886",
-          "score": 67.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 36,
-          "title": "44% 증가했다는 2030 암환자들",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77532391?m=humor_only&t=now",
-          "score": 64.09
-        }
-      ],
-      "rank": 3,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "중국",
-      "score": 119.06,
-      "post_count": 4,
+      "keyword": "주식",
+      "score": 119.31,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 29,
+      "best_rank": 26,
       "sources": [
         "디시인사이드",
         "인벤",
@@ -779,174 +781,225 @@
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 104.61,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 1,
+      "keyword": "일본",
+      "score": 107.68,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 36,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "그대로",
-      "score": 101.64,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 11,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [
-        "버린",
-        "보낸",
-        "찍고",
-        "팬들",
-        "편지"
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "교도소",
-      "score": 97.24,
+      "keyword": "진실",
+      "score": 96.29,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 5,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "많이",
+      "score": 95.55,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "증가했다",
-      "score": 93.61,
+      "keyword": "한국",
+      "score": 95.09,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [
-        "암환자들"
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "대한민국",
-      "score": 87.37,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": -4
+      "rank": 5,
+      "change": -3
     },
     {
-      "keyword": "평가",
-      "score": 86.68,
+      "keyword": "최근",
+      "score": 93.02,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 5,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "브리핑",
+      "score": 91.73,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 26,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [
+        "눈물"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "게임",
-      "score": 83.08,
+      "keyword": "교도소",
+      "score": 91.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 10,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": -4
+    },
+    {
+      "keyword": "만든",
+      "score": 90.07,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 24,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 8,
+      "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "사고",
-      "score": 82.62,
+      "keyword": "사건",
+      "score": 89.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 15,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
-      "rank": 9,
+      "rank": 10,
       "change": "NEW"
+    },
+    {
+      "keyword": "환자",
+      "score": 86.12,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "신고",
+      "score": 85.21,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 43,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "대한민국",
+      "score": 80.59,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 50,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -7
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "한국 살았다고 주장하지만 아무도 안믿는 트윗",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77531898?m=humor",
-      "score": 98.54,
-      "views": 23341,
-      "comments": 59
+      "title": "44% 증가했다는 2030 암환자들",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532391?m=humor",
+      "score": 98.12,
+      "views": 27181,
+      "comments": 41
+    },
+    {
+      "source": "뽐뿌",
+      "title": "섹파 임신, 인생 망한 남자.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202985",
+      "score": 80.11,
+      "views": 24205,
+      "comments": 43
     },
     {
       "source": "디시인사이드",
-      "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-      "score": 81.91,
-      "views": 20352,
-      "comments": 290
-    },
-    {
-      "source": "인벤",
-      "title": "ㅎㅂ) 여자라서 좋은 점",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756918",
-      "score": 79.63,
-      "views": 4921,
-      "comments": 8
+      "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
+      "score": 79.8,
+      "views": 27463,
+      "comments": 362
     },
     {
       "source": "더쿠",
       "title": "신한은행 2027 신토정비결",
       "url": "https://theqoo.net/hot/4419286433",
-      "score": 78.0,
-      "views": 9498,
-      "comments": 406
+      "score": 78.68,
+      "views": 30546,
+      "comments": 1287
     },
     {
       "source": "클리앙",
-      "title": "저는 이민이에요",
-      "url": "https://www.clien.net/service/board/park/19299054?od=T31&po=0&category=0&groupCd=",
-      "score": 70.11,
-      "views": 1840,
-      "comments": 2
+      "title": "주식시장 대응 부재가 지지율 하락에 큰 영향이 있었을 것 같습니다.",
+      "url": "https://www.clien.net/service/board/park/19299078?od=T31&po=0&category=0&groupCd=",
+      "score": 73.97,
+      "views": 1014,
+      "comments": 15
     },
     {
-      "source": "뽐뿌",
-      "title": "럭키 인도 일본 식당 위생 클라스",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202389",
-      "score": 69.2,
-      "views": 25098,
-      "comments": 51
+      "source": "인벤",
+      "title": "지나 맞아?” 자취 감춘 10년 사이…세월 흔적 역력한 근황 ‘깜짝’",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756945",
+      "score": 73.32,
+      "views": 1549,
+      "comments": 9
     }
   ]
 }

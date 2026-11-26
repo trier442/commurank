@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-27",
   "label": "2026년 11월 27일",
-  "collected_at": "2026-11-27T05:31:42.158445+09:00",
+  "collected_at": "2026-11-27T08:13:40.097108+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 100.38,
+      "score": 102.4,
       "peak_score": 90.91,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -24,25 +24,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 10,
           "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-          "score": 81.91
+          "score": 76.27
         },
         {
           "source": "더쿠",
-          "rank": 74,
+          "rank": 93,
           "title": "교도소 과밀화 해결이 시급한 이유.jpg",
           "url": "https://theqoo.net/hot/4419179072",
-          "score": 55.42
+          "score": 51.26
         }
       ],
       "first_seen": "2026-11-27T05:31:42.158445+09:00",
-      "last_seen": "2026-11-27T05:31:42.158445+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ia0358651",
@@ -84,7 +84,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i4026fefc",
@@ -124,6 +124,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "i042dbfc2",
+      "title": "눈물의 주식 브리핑",
+      "keywords": [
+        "브리핑",
+        "눈물의",
+        "주식"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.06,
+      "peak_score": 75.59,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 26,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.clien.net/service/board/park/19299079?od=T31&po=0&category=0&groupCd=",
+          "score": 67.59
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "눈물의 주식 브리핑",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756942",
+          "score": 61.07
+        }
+      ],
+      "first_seen": "2026-11-27T08:13:40.097108+09:00",
+      "last_seen": "2026-11-27T08:13:40.097108+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     }
   ]
