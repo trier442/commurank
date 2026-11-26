@@ -2,25 +2,25 @@
   "version": 1,
   "date": "2026-11-26",
   "label": "2026년 11월 26일",
-  "collected_at": "2026-11-26T13:32:03.293311+09:00",
+  "collected_at": "2026-11-26T20:30:49.570184+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ’입니다. 실시간 키워드 상위: #윤석열. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘윤석열’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #대마. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 6,
-    "cached_sources": 0,
+    "ok_sources": 5,
+    "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 13,
-    "keywords": 15,
-    "top100_views": 1127275,
-    "top100_comments": 11875
+    "daily_issues": 19,
+    "keywords": 20,
+    "top100_views": 1504008,
+    "top100_comments": 16755
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
       "issue_id": "i77bec7b9"
     },
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#윤석열",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "윤석열"
+      "title": "#대마",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "대마"
     }
   ],
   "top_posts": [
@@ -43,28 +43,57 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77522416?m=humor",
       "first_seen": "2026-11-26T13:32:03.293311+09:00",
-      "last_seen": "2026-11-26T13:32:03.293311+09:00",
+      "last_seen": "2026-11-26T20:30:49.570184+09:00",
       "peak_score": 97.02,
       "max_views": 17808,
       "max_likes": 135,
       "max_comments": 97,
-      "appearances": 1,
+      "appearances": 2,
       "daily_stats": {
         "2026-11-26": {
           "max_score": 97.02,
           "max_views": 17808,
           "max_likes": 135,
           "max_comments": 97,
-          "appearances": 1,
-          "last_seen": "2026-11-26T13:32:03.293311+09:00"
+          "appearances": 2,
+          "last_seen": "2026-11-26T20:30:49.570184+09:00"
         }
       },
-      "score": 106.54,
+      "score": 107.44,
       "views": 17808,
       "likes": 135,
       "comments": 97,
       "active_days": 1,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "title": "반경 500m 내에 카페가 무려 173개나 있는 곳",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77523141?m=humor",
+      "first_seen": "2026-11-26T13:32:03.293311+09:00",
+      "last_seen": "2026-11-26T20:30:49.570184+09:00",
+      "peak_score": 96.46,
+      "max_views": 17804,
+      "max_likes": 120,
+      "max_comments": 84,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-11-26": {
+          "max_score": 96.46,
+          "max_views": 17804,
+          "max_likes": 120,
+          "max_comments": 84,
+          "appearances": 2,
+          "last_seen": "2026-11-26T20:30:49.570184+09:00"
+        }
+      },
+      "score": 106.88,
+      "views": 17804,
+      "likes": 120,
+      "comments": 84,
+      "active_days": 1,
+      "change": 1
     },
     {
       "title": "2010년대까지만 해도 이게 서양 국가들에게 먹히겠냔 혹평을 들었던 한국 음식",
@@ -88,41 +117,12 @@
           "last_seen": "2026-11-26T04:54:21.620709+09:00"
         }
       },
-      "score": 106.24,
+      "score": 105.65,
       "views": 20689,
       "likes": 81,
       "comments": 69,
       "active_days": 1,
       "change": -1
-    },
-    {
-      "title": "반경 500m 내에 카페가 무려 173개나 있는 곳",
-      "source": "루리웹",
-      "category": "생활",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77523141?m=humor",
-      "first_seen": "2026-11-26T13:32:03.293311+09:00",
-      "last_seen": "2026-11-26T13:32:03.293311+09:00",
-      "peak_score": 96.46,
-      "max_views": 17804,
-      "max_likes": 120,
-      "max_comments": 84,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-26": {
-          "max_score": 96.46,
-          "max_views": 17804,
-          "max_likes": 120,
-          "max_comments": 84,
-          "appearances": 1,
-          "last_seen": "2026-11-26T13:32:03.293311+09:00"
-        }
-      },
-      "score": 105.98,
-      "views": 17804,
-      "likes": 120,
-      "comments": 84,
-      "active_days": 1,
-      "change": "NEW"
     },
     {
       "title": "요즘 장갑차 근황",
@@ -146,12 +146,12 @@
           "last_seen": "2026-11-26T04:54:21.620709+09:00"
         }
       },
-      "score": 105.23,
+      "score": 104.64,
       "views": 13057,
       "likes": 59,
       "comments": 61,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "하씨 미쳤나봐",
@@ -175,12 +175,12 @@
           "last_seen": "2026-11-26T07:48:55.993964+09:00"
         }
       },
-      "score": 104.41,
+      "score": 103.83,
       "views": 13825,
       "likes": 108,
       "comments": 39,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "당신앞에 3명의 여성이 있습니다. 3명중 하나와 결혼하셔야만합니다.",
@@ -188,23 +188,23 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77521985?m=humor",
       "first_seen": "2026-11-26T11:40:36.112786+09:00",
-      "last_seen": "2026-11-26T13:32:03.293311+09:00",
+      "last_seen": "2026-11-26T20:30:49.570184+09:00",
       "peak_score": 92.08,
       "max_views": 23792,
       "max_likes": 55,
       "max_comments": 87,
-      "appearances": 2,
+      "appearances": 3,
       "daily_stats": {
         "2026-11-26": {
           "max_score": 92.08,
           "max_views": 23792,
           "max_likes": 55,
           "max_comments": 87,
-          "appearances": 2,
-          "last_seen": "2026-11-26T13:32:03.293311+09:00"
+          "appearances": 3,
+          "last_seen": "2026-11-26T20:30:49.570184+09:00"
         }
       },
-      "score": 102.5,
+      "score": 103.13,
       "views": 23792,
       "likes": 55,
       "comments": 87,
@@ -233,12 +233,12 @@
           "last_seen": "2026-11-26T04:54:21.620709+09:00"
         }
       },
-      "score": 102.37,
+      "score": 101.78,
       "views": 15302,
       "likes": 77,
       "comments": 51,
       "active_days": 1,
-      "change": -3
+      "change": 0
     },
     {
       "title": "죽기전에 사신이 마지막으로 영화 3편만 보게 해주면 뭐고를거임",
@@ -262,12 +262,12 @@
           "last_seen": "2026-11-26T07:48:55.993964+09:00"
         }
       },
-      "score": 101.97,
+      "score": 101.39,
       "views": 11897,
       "likes": 74,
       "comments": 37,
       "active_days": 1,
-      "change": -3
+      "change": 0
     },
     {
       "title": "아들 질병이 감당 안되서 담임에게 떠넘기는.manga",
@@ -291,12 +291,12 @@
           "last_seen": "2026-11-26T07:48:55.993964+09:00"
         }
       },
-      "score": 100.8,
+      "score": 100.22,
       "views": 15439,
       "likes": 78,
       "comments": 37,
       "active_days": 1,
-      "change": -2
+      "change": 0
     },
     {
       "title": "인도 즉석 아이스크림 클라스",
@@ -320,124 +320,64 @@
           "last_seen": "2026-11-26T07:48:55.993964+09:00"
         }
       },
-      "score": 99.46,
+      "score": 98.88,
       "views": 21524,
       "likes": 0,
       "comments": 61,
       "active_days": 1,
-      "change": -2
+      "change": 0
     }
   ],
   "rising": [
     {
       "source": "루리웹",
-      "title": "당신앞에 3명의 여성이 있습니다. 3명중 하나와 결혼하셔야만합니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77521985?m=humor",
-      "category": "이슈",
-      "views": 23792,
-      "likes": 55,
-      "comments": 87,
-      "score": 91.34,
-      "change": 0,
-      "current_rank": 3,
+      "title": "[닌텐도e샵] 낚시스피릿 6080원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109390",
+      "category": "게임",
+      "views": 8469,
+      "likes": 8,
+      "comments": 15,
+      "score": 68.15,
+      "change": 11,
+      "current_rank": 19,
       "new_entry": false,
-      "delta_views": 3790,
-      "delta_likes": 10,
-      "delta_comments": 5,
-      "rank_gain": 0,
-      "rising_score": 100.0,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 11,
+      "rising_score": 87.5,
       "rising_rank": 1,
-      "window_minutes": 111
+      "window_minutes": 419
     },
     {
       "source": "디시인사이드",
-      "title": "준트코인 순식간에 하락하는거뭐냐ㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481752&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 21443,
-      "likes": 96,
-      "comments": 325,
-      "score": 73.87,
-      "change": 18,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 13235,
-      "delta_likes": 46,
-      "delta_comments": 250,
-      "rank_gain": 18,
-      "rising_score": 90.33,
-      "rising_rank": 2,
-      "window_minutes": 111
-    },
-    {
-      "source": "디시인사이드",
-      "title": "요즘 방송계에서 꼴보기 싫은거",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481745&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 32819,
-      "likes": 417,
-      "comments": 266,
-      "score": 77.74,
-      "change": 0,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 12146,
-      "delta_likes": 189,
-      "delta_comments": 82,
-      "rank_gain": 0,
-      "rising_score": 88.89,
-      "rising_rank": 3,
-      "window_minutes": 111
-    },
-    {
-      "source": "루리웹",
-      "title": "현타가 개빡세게 온 트페미",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77522416?m=humor",
+      "title": "주식 떨어져서 기분도 좆같은데 잘걸렸다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481767&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 17808,
-      "likes": 135,
-      "comments": 97,
-      "score": 97.02,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 39542,
+      "likes": 627,
+      "comments": 278,
+      "score": 55.18,
+      "change": 0,
+      "current_rank": 84,
+      "new_entry": false,
+      "delta_views": 34175,
+      "delta_likes": 555,
+      "delta_comments": 245,
       "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 4,
-      "window_minutes": 111
+      "rising_score": 81.94,
+      "rising_rank": 2,
+      "window_minutes": 419
     },
     {
-      "source": "루리웹",
-      "title": "반경 500m 내에 카페가 무려 173개나 있는 곳",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77523141?m=humor",
-      "category": "생활",
-      "views": 17804,
-      "likes": 120,
-      "comments": 84,
-      "score": 96.46,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.51,
-      "rising_rank": 5,
-      "window_minutes": 111
-    },
-    {
-      "source": "디시인사이드",
-      "title": "김준표 예상 수익 ㅆㅂㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481758&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 24890,
-      "likes": 208,
-      "comments": 327,
-      "score": 86.51,
+      "source": "더쿠",
+      "title": "남자가 머리말려주는 게 불편한 수영학원 학부모들",
+      "url": "https://theqoo.net/hot/4418892821",
+      "category": "이슈",
+      "views": 56491,
+      "likes": 0,
+      "comments": 879,
+      "score": 85.68,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -445,19 +385,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.33,
-      "rising_rank": 6,
-      "window_minutes": 111
+      "rising_score": 77.99,
+      "rising_rank": 3,
+      "window_minutes": 419
     },
     {
       "source": "디시인사이드",
-      "title": "안싱글벙글 김준표 이상의 개씹날먹유튜버",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481762&_dcbest=1&page=1",
+      "title": "요즘 아기 이름 수준...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481815&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 17521,
-      "likes": 314,
-      "comments": 318,
-      "score": 85.88,
+      "views": 27345,
+      "likes": 146,
+      "comments": 497,
+      "score": 79.74,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -465,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.07,
-      "rising_rank": 7,
-      "window_minutes": 111
+      "rising_score": 75.49,
+      "rising_rank": 4,
+      "window_minutes": 419
     },
     {
-      "source": "디시인사이드",
-      "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481761&_dcbest=1&page=1",
+      "source": "뽐뿌",
+      "title": "송작가) 최근 청와대가 충격받은 이유.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202731",
       "category": "이슈",
-      "views": 10718,
-      "likes": 272,
-      "comments": 333,
-      "score": 81.37,
+      "views": 5239,
+      "likes": 34,
+      "comments": 18,
+      "score": 75.89,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -485,19 +425,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.18,
-      "rising_rank": 8,
-      "window_minutes": 111
+      "rising_score": 73.87,
+      "rising_rank": 5,
+      "window_minutes": 419
+    },
+    {
+      "source": "더쿠",
+      "title": "마운자로맞는친구 존나예민하네",
+      "url": "https://theqoo.net/hot/4418925989",
+      "category": "유머",
+      "views": 50333,
+      "likes": 0,
+      "comments": 397,
+      "score": 73.84,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.01,
+      "rising_rank": 6,
+      "window_minutes": 419
     },
     {
       "source": "디시인사이드",
-      "title": "미국 물리학자 : 수학은 끝장났다.",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481754&_dcbest=1&page=1",
+      "title": "최근 영상 저작권 3번 경고 신고삭당하는 렉카 마술 유튜버 김준표 해명 ㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481803&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 17041,
-      "likes": 135,
-      "comments": 420,
-      "score": 77.3,
+      "views": 23373,
+      "likes": 222,
+      "comments": 469,
+      "score": 72.92,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -505,19 +465,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.47,
-      "rising_rank": 9,
-      "window_minutes": 111
+      "rising_score": 72.63,
+      "rising_rank": 7,
+      "window_minutes": 419
+    },
+    {
+      "source": "뽐뿌",
+      "title": "현재) 난리난 \"육아휴직하고 세무사 합격\" 근황",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202481",
+      "category": "생활",
+      "views": 27494,
+      "likes": 7,
+      "comments": 100,
+      "score": 72.76,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.56,
+      "rising_rank": 8,
+      "window_minutes": 419
     },
     {
       "source": "인벤",
-      "title": "의외로 안좋다는 집주인 성향",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756702",
-      "category": "생활",
-      "views": 1106,
+      "title": "케냐에서 사냥 당할뻔한 여자",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756861",
+      "category": "이슈",
+      "views": 1619,
       "likes": 0,
-      "comments": 14,
-      "score": 76.18,
+      "comments": 11,
+      "score": 72.74,
       "change": "NEW",
       "current_rank": 10,
       "new_entry": true,
@@ -525,25 +505,43 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.0,
+      "rising_score": 72.55,
+      "rising_rank": 9,
+      "window_minutes": 419
+    },
+    {
+      "source": "뽐뿌",
+      "title": "조국 원장님 기사 떳네요.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202516",
+      "category": "이슈",
+      "views": 8637,
+      "likes": 66,
+      "comments": 37,
+      "score": 72.45,
+      "change": "NEW",
+      "current_rank": 11,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.43,
       "rising_rank": 10,
-      "window_minutes": 111
+      "window_minutes": 419
     }
   ],
   "issues": [
     {
       "id": "i77bec7b9",
-      "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
+      "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "확정",
-        "윤석열",
-        "무죄"
+        "윤석열"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 100.86,
+      "post_count": 3,
+      "score": 103.3,
       "peak_score": 89.37,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -553,25 +551,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
-          "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481761&_dcbest=1&page=1",
-          "score": 81.37
+          "rank": 56,
+          "title": "대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481805&_dcbest=1&page=1",
+          "score": 60.29
         },
         {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "[2보] 대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
-          "url": "https://theqoo.net/hot/4418498403",
-          "score": 68.68
+          "source": "클리앙",
+          "rank": 59,
+          "title": "노무현, 역대 대통령 호감도 1위…이재명 4위·윤석열 ‘꼴찌’",
+          "url": "https://www.clien.net/service/board/park/19298970?od=T31&po=0&category=0&groupCd=",
+          "score": 59.95
         }
       ],
       "first_seen": "2026-11-04T18:55:56.818749+09:00",
-      "last_seen": "2026-11-26T13:32:03.293311+09:00",
+      "last_seen": "2026-11-26T20:30:49.570184+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 1,
-      "change": 8
+      "change": 0
     },
     {
       "id": "i8b74914e",
@@ -610,7 +608,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i015fefac",
@@ -656,7 +654,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i153ac4c4",
@@ -702,7 +700,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ifeccc448",
@@ -740,7 +738,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5c6da920",
@@ -778,7 +776,45 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 6,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.23,
+      "peak_score": 81.76,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "현재) 난리난 \"육아휴직하고 세무사 합격\" 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202481",
+          "score": 72.76
+        },
+        {
+          "source": "더쿠",
+          "rank": 62,
+          "title": "무슬림 여성들이 이쁘다고 난리난 웨딩드레스.jpg",
+          "url": "https://theqoo.net/hot/4418750017",
+          "score": 59.58
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-11-26T20:30:49.570184+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i9d4e209b",
@@ -817,8 +853,8 @@
       "last_seen": "2026-11-26T07:48:55.993964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i64aac33b",
@@ -855,8 +891,8 @@
       "last_seen": "2026-11-26T07:48:55.993964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i5de7bbf0",
@@ -900,65 +936,21 @@
       "last_seen": "2026-11-26T13:32:03.293311+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i171de8fd",
-      "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
-      "keywords": [
-        "젠슨",
-        "정보당국",
-        "불륜녀",
-        "진짜로",
-        "중국에",
-        "넘겼다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 83.5,
-      "peak_score": 74.03,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 43,
-          "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756640",
-          "score": 66.03
-        },
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "젠슨 황 불륜녀, 진짜로 중국에 정보 넘겼다…美 정보당국 보고",
-          "url": "https://www.clien.net/service/board/park/19298773?od=T31&po=0&category=0&groupCd=",
-          "score": 64.38
-        }
-      ],
-      "first_seen": "2026-11-26T11:40:36.112786+09:00",
-      "last_seen": "2026-11-26T11:40:36.112786+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": -3
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i015fefac",
-      "title": "국민연금 손실.. 팩트체크..",
+      "id": "i77bec7b9",
+      "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "국민연금",
-        "손실"
+        "윤석열"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 86.1,
-      "peak_score": 86.1,
+      "score": 70.29,
+      "peak_score": 70.29,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -967,82 +959,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 11,
-          "title": "국민연금 손실.. 팩트체크..",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481755&_dcbest=1&page=1",
-          "score": 76.1
+          "rank": 56,
+          "title": "대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481805&_dcbest=1&page=1",
+          "score": 60.29
         },
         {
           "source": "클리앙",
-          "rank": 44,
-          "title": "국민연금 손실도 적정한 주가를 기준으로 판단을 해야",
-          "url": "https://www.clien.net/service/board/park/19298820?od=T31&po=0&category=0&groupCd=",
-          "score": 65.3
-        },
-        {
-          "source": "클리앙",
-          "rank": 81,
-          "title": "[단독] 국민연금 손실, '182조→240조' 확대 ... 노후자금 한달새 '60조' 추가 증발",
-          "url": "https://www.clien.net/service/board/park/19298801?od=T31&po=0&category=0&groupCd=",
-          "score": 55.66
+          "rank": 59,
+          "title": "노무현, 역대 대통령 호감도 1위…이재명 4위·윤석열 ‘꼴찌’",
+          "url": "https://www.clien.net/service/board/park/19298970?od=T31&po=0&category=0&groupCd=",
+          "score": 59.95
         }
       ],
       "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i77bec7b9",
-      "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
-      "keywords": [
-        "확정",
-        "윤석열",
-        "무죄"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.37,
-      "peak_score": 89.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 6,
-          "title": "ㅡㅡㅡ[속보] 무죄윤 윤석열 무죄 확정!!ㅡㅡㅡ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481761&_dcbest=1&page=1",
-          "score": 81.37
-        },
-        {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "[2보] 대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
-          "url": "https://theqoo.net/hot/4418498403",
-          "score": 68.68
-        }
-      ],
-      "rank": 2,
       "change": 1
     },
     {
-      "id": "i5de7bbf0",
-      "title": "야호! 전현무·장도연·미나미 뭉쳤다..'2026 MBC 방송연예대상' MC 발탁",
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "mbc",
-        "방송연예대상",
-        "2026",
-        "장도연",
-        "발탁",
-        "미나미",
-        "전현무",
-        "뭉쳤다"
+        "이재명"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 76.56,
-      "peak_score": 76.56,
+      "post_count": 3,
+      "score": 69.95,
+      "peak_score": 69.95,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1051,34 +993,66 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 28,
-          "title": "야호! 전현무·장도연·미나미 뭉쳤다..'2026 MBC 방송연예대상' MC 발탁",
-          "url": "https://www.clien.net/service/board/park/19298825?od=T31&po=0&category=0&groupCd=",
-          "score": 68.56
+          "rank": 59,
+          "title": "노무현, 역대 대통령 호감도 1위…이재명 4위·윤석열 ‘꼴찌’",
+          "url": "https://www.clien.net/service/board/park/19298970?od=T31&po=0&category=0&groupCd=",
+          "score": 59.95
         },
         {
           "source": "인벤",
-          "rank": 73,
-          "title": "[단독] 야호! 전현무·장도연·미나미 뭉쳤다..'2026 MBC 방송연예대상' MC 발탁",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756693",
-          "score": 56.56
+          "rank": 65,
+          "title": "이재명 대통령의Y 1회 비하인드 - 신청은 줄이고, 기준은 넓히고 국가가 먼저 살피는 복지의 시대로",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756860",
+          "score": 58.76
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.76,
+      "peak_score": 81.76,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 9,
+          "title": "현재) 난리난 \"육아휴직하고 세무사 합격\" 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202481",
+          "score": 72.76
+        },
+        {
+          "source": "더쿠",
+          "rank": 62,
+          "title": "무슬림 여성들이 이쁘다고 난리난 웨딩드레스.jpg",
+          "url": "https://theqoo.net/hot/4418750017",
+          "score": 59.58
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i153cd52b",
-      "title": "구급차 막고 30명 우르르..영상 퍼지자 '공분'",
+      "id": "i6c2b933f",
+      "title": "‘길거리’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "공분",
-        "구급차",
-        "퍼지자"
+        "길거리"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 71.2,
-      "peak_score": 71.2,
+      "score": 76.31,
+      "peak_score": 76.31,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -1087,103 +1061,181 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 50,
-          "title": "구급차 막고 30명 우르르..영상 퍼지자 '공분'",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756703",
-          "score": 63.2
+          "rank": 22,
+          "title": "중국 길거리 공중 라이터 시설",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756862",
+          "score": 67.31
         },
         {
           "source": "뽐뿌",
-          "rank": 53,
-          "title": "구급차 막은 마라톤 참가자들, 영상 퍼지자 공분",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26837",
-          "score": 62.38
+          "rank": 82,
+          "title": "레딧에서 핫한 부산 길거리 음식",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202128",
+          "score": 55.53
         }
       ],
       "rank": 4,
       "change": "NEW"
-    }
-  ],
-  "keywords": [
-    {
-      "keyword": "윤석열",
-      "score": 127.36,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 10
     },
     {
-      "keyword": "단독",
-      "score": 114.38,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 20,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
+      "id": "i134b5c1a",
+      "title": "‘대학교’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대학교"
       ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "김준표",
-      "score": 111.19,
-      "post_count": 3,
       "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 12
-    },
-    {
-      "keyword": "무죄",
-      "score": 104.19,
       "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [
-        "확정"
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "국민연금",
-      "score": 99.9,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 11,
+      "score": 75.75,
+      "peak_score": 75.75,
+      "appearances": 1,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "뽐뿌"
       ],
-      "aliases": [
-        "손실"
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 25,
+          "title": "모교가 사라졌다, 최근 문 닫은 대학교 18곳",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202574",
+          "score": 66.75
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 94,
+          "title": "싱글벙글 대학교 여자선배 썰",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481790&_dcbest=1&page=1",
+          "score": 53.47
+        }
       ],
       "rank": 5,
       "change": "NEW"
     },
     {
+      "id": "i1a239003",
+      "title": "대마도 야마토운수 히타카츠 영업소 문 닫음.JPG",
+      "keywords": [
+        "영업소",
+        "야마토운수",
+        "대마도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.0,
+      "peak_score": 71.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 41,
+          "title": "대마도 야마토운수 히타카츠 영업소 문 닫음.JPG",
+          "url": "https://www.clien.net/service/board/park/19298976?od=T31&po=0&category=0&groupCd=",
+          "score": 63.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 54,
+          "title": "대마도 마운자로 대란 엔딩 : 야마토운수 영업소 수령 중지됨",
+          "url": "https://theqoo.net/hot/4418743262",
+          "score": 60.42
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "ib992ad13",
+      "title": "대진연, ‘청해부대 파병 철회’ 국회 기습시위…유리문 파손",
+      "keywords": [
+        "철회",
+        "국회",
+        "파손",
+        "청해부대",
+        "유리문",
+        "대진연",
+        "기습시위"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 69.99,
+      "peak_score": 69.99,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 49,
+          "title": "대진연, ‘청해부대 파병 철회’ 국회 기습시위…유리문 파손",
+          "url": "https://www.clien.net/service/board/park/19298967?od=T31&po=0&category=0&groupCd=",
+          "score": 61.99
+        },
+        {
+          "source": "인벤",
+          "rank": 67,
+          "title": "대진연, ‘청해부대 파병 철회’ 국회 기습시위…유리문 파손",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756864",
+          "score": 58.38
+        }
+      ],
+      "rank": 7,
+      "change": "NEW"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "대마",
+      "score": 142.86,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 41,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김준표",
+      "score": 126.77,
+      "post_count": 7,
+      "source_count": 2,
+      "best_rank": 8,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 1
+    },
+    {
+      "keyword": "최근",
+      "score": 111.14,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
       "keyword": "여성",
-      "score": 98.96,
+      "score": 106.84,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 3,
@@ -1192,138 +1244,165 @@
         "루리웹"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": -3
+      "rank": 4,
+      "change": 2
     },
     {
-      "keyword": "서울",
-      "score": 93.31,
+      "keyword": "한국",
+      "score": 99.43,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 12,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "난리난",
+      "score": 96.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 9,
       "sources": [
         "더쿠",
-        "클리앙"
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "영화",
+      "score": 91.97,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 12,
+      "sources": [
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "제일",
-      "score": 90.91,
-      "post_count": 2,
+      "keyword": "윤석열",
+      "score": 89.97,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 56,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": -7
     },
     {
-      "keyword": "나는",
-      "score": 90.72,
-      "post_count": 2,
+      "keyword": "이재명",
+      "score": 89.21,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 59,
       "sources": [
-        "더쿠",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "연락",
-      "score": 87.97,
+      "keyword": "야마토운수",
+      "score": 88.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 42,
+      "best_rank": 41,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [
+        "영업소"
+      ],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "길거리",
+      "score": 86.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 10,
+      "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "방송연예대상",
-      "score": 87.64,
+      "keyword": "신청",
+      "score": 85.73,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 47,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "청해부대",
+      "score": 85.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 49,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [
-        "mbc",
-        "mc",
-        "뭉쳤다",
-        "미나미",
-        "발탁"
+        "국회",
+        "기습시위",
+        "대진연",
+        "유리문",
+        "철회"
       ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "구급차",
-      "score": 87.46,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 50,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [
-        "공분",
-        "퍼지자"
-      ],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "주식",
-      "score": 84.53,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 39,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "추락",
-      "score": 84.36,
+      "keyword": "대학교",
+      "score": 84.79,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 25,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "소비",
-      "score": 83.99,
+      "keyword": "경찰",
+      "score": 84.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 43,
+      "best_rank": 24,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1341,44 +1420,44 @@
       "comments": 97
     },
     {
-      "source": "디시인사이드",
-      "title": "김준표 예상 수익 ㅆㅂㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481758&_dcbest=1&page=1",
-      "score": 86.51,
-      "views": 24890,
-      "comments": 327
-    },
-    {
-      "source": "인벤",
-      "title": "의외로 안좋다는 집주인 성향",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756702",
-      "score": 76.18,
-      "views": 1106,
-      "comments": 14
-    },
-    {
       "source": "더쿠",
-      "title": "올해 제일 미친짓은 임산부석에 서있었는데 나를 밀치고 앉은 남자때문에 열받아서 임신하셨어요? 라고 물어본일인듯.twt",
-      "url": "https://theqoo.net/hot/4418521953",
-      "score": 74.84,
-      "views": 37108,
-      "comments": 313
+      "title": "남자가 머리말려주는 게 불편한 수영학원 학부모들",
+      "url": "https://theqoo.net/hot/4418892821",
+      "score": 85.68,
+      "views": 56491,
+      "comments": 879
+    },
+    {
+      "source": "디시인사이드",
+      "title": "요즘 아기 이름 수준...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481815&_dcbest=1&page=1",
+      "score": 79.74,
+      "views": 27345,
+      "comments": 497
     },
     {
       "source": "뽐뿌",
-      "title": "박규환위원장] 송영길은 퇴출이 답이다 !!",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10201581",
-      "score": 73.86,
-      "views": 5217,
-      "comments": 7
+      "title": "송작가) 최근 청와대가 충격받은 이유.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202731",
+      "score": 75.89,
+      "views": 5239,
+      "comments": 18
+    },
+    {
+      "source": "인벤",
+      "title": "케냐에서 사냥 당할뻔한 여자",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756861",
+      "score": 72.74,
+      "views": 1619,
+      "comments": 11
     },
     {
       "source": "클리앙",
-      "title": "국힘도 내부 개판인건 마찬가지인듯 하네요..",
-      "url": "https://www.clien.net/service/board/park/19298823?od=T31&po=0&category=0&groupCd=",
-      "score": 73.56,
-      "views": 1216,
-      "comments": 17
+      "title": "정부 지원받아 성공하면 이익 나눠야…대기업 지분 확보 주문",
+      "url": "https://www.clien.net/service/board/park/19298972?od=T31&po=0&category=0&groupCd=",
+      "score": 68.53,
+      "views": 797,
+      "comments": 7
     }
   ]
 }
