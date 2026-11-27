@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-27",
   "label": "2026년 11월 27일",
-  "collected_at": "2026-11-27T12:15:58.352281+09:00",
+  "collected_at": "2026-11-27T14:05:37.515993+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘머스크’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #머스크. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘머스크’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #ai. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
-    "keywords": 11,
-    "top100_views": 821889,
-    "top100_comments": 8896
+    "daily_issues": 13,
+    "keywords": 15,
+    "top100_views": 979315,
+    "top100_comments": 11252
   },
   "highlights": [
     {
@@ -25,18 +25,47 @@
     },
     {
       "type": "post",
-      "title": "한국 살았다고 주장하지만 아무도 안믿는 트윗",
+      "title": "첫차로 경차 사지 말라는건",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77531898?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#머스크",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "머스크"
+      "title": "#ai",
+      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "ai"
     }
   ],
   "top_posts": [
+    {
+      "title": "첫차로 경차 사지 말라는건",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor",
+      "first_seen": "2026-11-27T12:15:58.352281+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "peak_score": 98.12,
+      "max_views": 25661,
+      "max_likes": 132,
+      "max_comments": 83,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-11-27": {
+          "max_score": 98.12,
+          "max_views": 25661,
+          "max_likes": 132,
+          "max_comments": 83,
+          "appearances": 2,
+          "last_seen": "2026-11-27T14:05:37.515993+09:00"
+        }
+      },
+      "score": 108.54,
+      "views": 25661,
+      "likes": 132,
+      "comments": 83,
+      "active_days": 1,
+      "change": 2
+    },
     {
       "title": "한국 살았다고 주장하지만 아무도 안믿는 트윗",
       "source": "루리웹",
@@ -59,12 +88,12 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 107.5,
+      "score": 107.35,
       "views": 23341,
       "likes": 107,
       "comments": 59,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
       "title": "44% 증가했다는 2030 암환자들",
@@ -88,39 +117,39 @@
           "last_seen": "2026-11-27T08:13:40.097108+09:00"
         }
       },
-      "score": 107.31,
+      "score": 107.16,
       "views": 27181,
       "likes": 77,
       "comments": 41,
       "active_days": 1,
-      "change": 0
+      "change": -1
     },
     {
-      "title": "첫차로 경차 사지 말라는건",
+      "title": "대부분의 회사원은 31세에 취직해서 49세에 짤림",
       "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor",
-      "first_seen": "2026-11-27T12:15:58.352281+09:00",
-      "last_seen": "2026-11-27T12:15:58.352281+09:00",
-      "peak_score": 97.25,
-      "max_views": 18496,
-      "max_likes": 117,
-      "max_comments": 73,
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77535212?m=humor",
+      "first_seen": "2026-11-27T14:05:37.515993+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "peak_score": 97.02,
+      "max_views": 16053,
+      "max_likes": 147,
+      "max_comments": 98,
       "appearances": 1,
       "daily_stats": {
         "2026-11-27": {
-          "max_score": 97.25,
-          "max_views": 18496,
-          "max_likes": 117,
-          "max_comments": 73,
+          "max_score": 97.02,
+          "max_views": 16053,
+          "max_likes": 147,
+          "max_comments": 98,
           "appearances": 1,
-          "last_seen": "2026-11-27T12:15:58.352281+09:00"
+          "last_seen": "2026-11-27T14:05:37.515993+09:00"
         }
       },
-      "score": 106.77,
-      "views": 18496,
-      "likes": 117,
-      "comments": 73,
+      "score": 106.54,
+      "views": 16053,
+      "likes": 147,
+      "comments": 98,
       "active_days": 1,
       "change": "NEW"
     },
@@ -146,12 +175,41 @@
           "last_seen": "2026-11-27T12:15:58.352281+09:00"
         }
       },
-      "score": 106.06,
+      "score": 105.91,
       "views": 26106,
       "likes": 168,
       "comments": 69,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
+    },
+    {
+      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
+      "source": "디시인사이드",
+      "category": "유머",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
+      "first_seen": "2026-11-27T12:15:58.352281+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "peak_score": 95.08,
+      "max_views": 32347,
+      "max_likes": 389,
+      "max_comments": 455,
+      "appearances": 2,
+      "daily_stats": {
+        "2026-11-27": {
+          "max_score": 95.08,
+          "max_views": 32347,
+          "max_likes": 389,
+          "max_comments": 455,
+          "appearances": 2,
+          "last_seen": "2026-11-27T14:05:37.515993+09:00"
+        }
+      },
+      "score": 105.5,
+      "views": 32347,
+      "likes": 389,
+      "comments": 455,
+      "active_days": 1,
+      "change": 0
     },
     {
       "title": "피해자가 속출하고 있다는 다이소 스노우볼",
@@ -175,41 +233,12 @@
           "last_seen": "2026-11-27T08:13:40.097108+09:00"
         }
       },
-      "score": 104.69,
+      "score": 104.54,
       "views": 32632,
       "likes": 91,
       "comments": 44,
       "active_days": 1,
       "change": -2
-    },
-    {
-      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
-      "first_seen": "2026-11-27T12:15:58.352281+09:00",
-      "last_seen": "2026-11-27T12:15:58.352281+09:00",
-      "peak_score": 95.08,
-      "max_views": 21433,
-      "max_likes": 286,
-      "max_comments": 299,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-27": {
-          "max_score": 95.08,
-          "max_views": 21433,
-          "max_likes": 286,
-          "max_comments": 299,
-          "appearances": 1,
-          "last_seen": "2026-11-27T12:15:58.352281+09:00"
-        }
-      },
-      "score": 104.6,
-      "views": 21433,
-      "likes": 286,
-      "comments": 299,
-      "active_days": 1,
-      "change": "NEW"
     },
     {
       "title": "램 장기구매 때문에 삼성전자 찾아온 머스크",
@@ -233,12 +262,12 @@
           "last_seen": "2026-11-27T12:15:58.352281+09:00"
         }
       },
-      "score": 104.18,
+      "score": 104.03,
       "views": 23109,
       "likes": 166,
       "comments": 79,
       "active_days": 1,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "'아니, 이것도 전라도쪽 브랜드였어?!'하고 놀란 피자집...",
@@ -262,12 +291,12 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 104.05,
+      "score": 103.9,
       "views": 28318,
       "likes": 95,
       "comments": 60,
       "active_days": 1,
-      "change": -4
+      "change": -1
     },
     {
       "title": "현대 약물 보디빌더 수명이 50대를 못넘기는 이유",
@@ -291,93 +320,84 @@
           "last_seen": "2026-11-27T05:31:42.158445+09:00"
         }
       },
-      "score": 103.9,
+      "score": 103.75,
       "views": 20481,
       "likes": 77,
       "comments": 54,
       "active_days": 1,
-      "change": -4
-    },
-    {
-      "title": "성인이 되어 사회에 진출하면 무조건 신중해야하는거",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532627?m=humor",
-      "first_seen": "2026-11-27T08:13:40.097108+09:00",
-      "last_seen": "2026-11-27T08:13:40.097108+09:00",
-      "peak_score": 93.06,
-      "max_views": 11424,
-      "max_likes": 57,
-      "max_comments": 38,
-      "appearances": 1,
-      "daily_stats": {
-        "2026-11-27": {
-          "max_score": 93.06,
-          "max_views": 11424,
-          "max_likes": 57,
-          "max_comments": 38,
-          "appearances": 1,
-          "last_seen": "2026-11-27T08:13:40.097108+09:00"
-        }
-      },
-      "score": 102.25,
-      "views": 11424,
-      "likes": 57,
-      "comments": 38,
-      "active_days": 1,
-      "change": -4
+      "change": -1
     }
   ],
   "rising": [
     {
       "source": "디시인사이드",
-      "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 38708,
-      "likes": 101,
-      "comments": 456,
-      "score": 49.8,
-      "change": 0,
-      "current_rank": 99,
+      "title": "실시간 재평가 시급하신분",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 16763,
+      "likes": 239,
+      "comments": 176,
+      "score": 75.69,
+      "change": 11,
+      "current_rank": 13,
       "new_entry": false,
-      "delta_views": 11245,
-      "delta_likes": 33,
-      "delta_comments": 94,
-      "rank_gain": 0,
-      "rising_score": 100.0,
+      "delta_views": 13093,
+      "delta_likes": 156,
+      "delta_comments": 126,
+      "rank_gain": 11,
+      "rising_score": 94.69,
       "rising_rank": 1,
-      "window_minutes": 242
+      "window_minutes": 110
     },
     {
-      "source": "루리웹",
-      "title": "첫차로 경차 사지 말라는건",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor",
-      "category": "이슈",
-      "views": 18496,
-      "likes": 117,
-      "comments": 73,
-      "score": 97.25,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "source": "디시인사이드",
+      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 32347,
+      "likes": 389,
+      "comments": 455,
+      "score": 85.19,
+      "change": 0,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 10914,
+      "delta_likes": 103,
+      "delta_comments": 156,
       "rank_gain": 0,
-      "rising_score": 82.84,
+      "rising_score": 87.5,
       "rising_rank": 2,
-      "window_minutes": 242
+      "window_minutes": 110
+    },
+    {
+      "source": "디시인사이드",
+      "title": "지금 30대 남자들이 미치기 일보직전인 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481968&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 24993,
+      "likes": 140,
+      "comments": 851,
+      "score": 77.19,
+      "change": 0,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 12479,
+      "delta_likes": 57,
+      "delta_comments": 499,
+      "rank_gain": 0,
+      "rising_score": 86.81,
+      "rising_rank": 3,
+      "window_minutes": 110
     },
     {
       "source": "루리웹",
-      "title": "돈 많이 든다고 제육 뺄거면 한식 뷔페를 왜 해",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532875?m=humor",
-      "category": "이슈",
-      "views": 26106,
-      "likes": 168,
-      "comments": 69,
-      "score": 96.54,
+      "title": "대부분의 회사원은 31세에 취직해서 49세에 짤림",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77535212?m=humor",
+      "category": "생활",
+      "views": 16053,
+      "likes": 147,
+      "comments": 98,
+      "score": 97.02,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -385,19 +405,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.55,
-      "rising_rank": 3,
-      "window_minutes": 242
+      "rising_score": 82.75,
+      "rising_rank": 4,
+      "window_minutes": 110
     },
     {
-      "source": "디시인사이드",
-      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 21433,
-      "likes": 286,
-      "comments": 299,
-      "score": 95.08,
+      "source": "루리웹",
+      "title": "전국시대인 일본 교통카드.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77535187?m=humor",
+      "category": "이슈",
+      "views": 11884,
+      "likes": 97,
+      "comments": 87,
+      "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -405,19 +425,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.93,
-      "rising_rank": 4,
-      "window_minutes": 242
+      "rising_score": 81.24,
+      "rising_rank": 5,
+      "window_minutes": 110
     },
     {
       "source": "루리웹",
-      "title": "램 장기구매 때문에 삼성전자 찾아온 머스크",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77533493?m=humor",
+      "title": "첫차로 경차 사지 말라는건",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor",
       "category": "이슈",
-      "views": 23109,
-      "likes": 166,
-      "comments": 79,
-      "score": 94.66,
+      "views": 25661,
+      "likes": 132,
+      "comments": 83,
+      "score": 98.12,
+      "change": 0,
+      "current_rank": 1,
+      "new_entry": false,
+      "delta_views": 7165,
+      "delta_likes": 15,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 80.56,
+      "rising_rank": 6,
+      "window_minutes": 110
+    },
+    {
+      "source": "디시인사이드",
+      "title": "\" 내가 롤판은 잔인하다 느낀계기가 \"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 22120,
+      "likes": 415,
+      "comments": 614,
+      "score": 87.14,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -425,19 +465,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 5,
-      "window_minutes": 242
+      "rising_score": 78.6,
+      "rising_rank": 7,
+      "window_minutes": 110
     },
     {
-      "source": "뽐뿌",
-      "title": "쌀때 사라고 직접 리딩까지 해줬는데",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=462602",
+      "source": "디시인사이드",
+      "title": "오싹오싹 은퇴한 MMA 파이터 살인사건 ㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481991&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 15843,
-      "likes": 20,
-      "comments": 91,
-      "score": 89.49,
+      "views": 18733,
+      "likes": 108,
+      "comments": 423,
+      "score": 85.5,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -445,39 +485,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.59,
-      "rising_rank": 6,
-      "window_minutes": 242
-    },
-    {
-      "source": "클리앙",
-      "title": "12년동안 외사랑을 해왔습니다. 그 몇시간 후.",
-      "url": "https://www.clien.net/service/board/park/19299190?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1857,
-      "likes": 0,
-      "comments": 21,
-      "score": 84.99,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.7,
-      "rising_rank": 7,
-      "window_minutes": 242
+      "rising_score": 77.91,
+      "rising_rank": 8,
+      "window_minutes": 110
     },
     {
       "source": "디시인사이드",
-      "title": "낭만낭만 백화점 근무복에 민원 넣은 고객님...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481974&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 18096,
-      "likes": 93,
-      "comments": 173,
-      "score": 83.19,
+      "title": "지금 논란인 뮤지컬배우 충격적인점.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481990&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 18837,
+      "likes": 117,
+      "comments": 275,
+      "score": 84.12,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -485,49 +505,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.94,
-      "rising_rank": 8,
-      "window_minutes": 242
-    },
-    {
-      "source": "디시인사이드",
-      "title": "지금 30대 남자들이 미치기 일보직전인 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481968&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12514,
-      "likes": 83,
-      "comments": 352,
-      "score": 79.46,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.37,
+      "rising_score": 77.33,
       "rising_rank": 9,
-      "window_minutes": 242
+      "window_minutes": 110
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 이진우(리트만점자) \"진짜\" 대학 떴다...JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481966&_dcbest=1&page=1",
+      "title": "낭만낭만 백화점 근무복에 민원 넣은 고객님...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481974&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 19217,
-      "likes": 89,
-      "comments": 168,
-      "score": 78.76,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 27341,
+      "likes": 154,
+      "comments": 237,
+      "score": 76.97,
+      "change": 0,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 9245,
+      "delta_likes": 61,
+      "delta_comments": 64,
       "rank_gain": 0,
-      "rising_score": 75.08,
+      "rising_score": 76.74,
       "rising_rank": 10,
-      "window_minutes": 242
+      "window_minutes": 110
     }
   ],
   "issues": [
@@ -567,7 +567,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ifa1162d8",
@@ -605,7 +605,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.18,
+      "peak_score": 84.69,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "실시간 재평가 시급하신분",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
+          "score": 75.69
+        },
+        {
+          "source": "인벤",
+          "rank": 79,
+          "title": "부산 실시간 덥다 ㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
+          "score": 54.46
+        }
+      ],
+      "first_seen": "2026-10-07T14:44:26.372950+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 2
     },
     {
       "id": "ia0358651",
@@ -646,7 +684,7 @@
       "last_seen": "2026-11-27T05:31:42.158445+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     },
     {
@@ -684,45 +722,128 @@
       "last_seen": "2026-11-27T12:15:58.352281+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i91f13db9",
+      "title": "AI 포팅으로 난리난 GTA6",
       "keywords": [
-        "실시간"
+        "난리난",
+        "ai",
+        "gta6"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.67,
-      "peak_score": 79.2,
+      "score": 90.81,
+      "peak_score": 81.34,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 24,
-          "title": "실시간 재평가 시급하신분",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
-          "score": 70.2
+          "source": "인벤",
+          "rank": 16,
+          "title": "AI 포팅으로 난리난 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757064",
+          "score": 73.34
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "AI 로 난리난 GTA6 근황 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203249",
+          "score": 64.22
+        }
+      ],
+      "first_seen": "2026-11-13T19:49:05.459513+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i5e357893",
+      "title": "[단독] 남경필 장남,.성관계 영상 유포 협박' 혐의 체포",
+      "keywords": [
+        "혐의",
+        "체포",
+        "장남",
+        "남경필",
+        "협박",
+        "성관계"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.38,
+      "peak_score": 80.91,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "[단독] 남경필 장남,.성관계 영상 유포 협박' 혐의 체포",
+          "url": "https://www.clien.net/service/board/park/19299245?od=T31&po=0&category=0&groupCd=",
+          "score": 72.91
         },
         {
           "source": "인벤",
-          "rank": 36,
-          "title": "펌/실시간 뮤지컬판에서 논란중인 사건.jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2757012",
-          "score": 65.53
+          "rank": 71,
+          "title": "남경필 장남, '전 연인 성관계 영상 유포 협박' 혐의 체포",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757066",
+          "score": 56.73
         }
       ],
-      "first_seen": "2026-10-07T14:44:26.372950+09:00",
-      "last_seen": "2026-11-27T12:15:58.352281+09:00",
+      "first_seen": "2026-11-27T14:05:37.515993+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i1d7537d6",
+      "title": "‘크리스마스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "크리스마스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.8,
+      "peak_score": 77.33,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 25,
+          "title": "이마트 크리스마스 케익 가격",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203152",
+          "score": 68.33
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 93,
+          "title": "90년대 미국의 크리스마스 풍경..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481958&_dcbest=1&page=1",
+          "score": 51.11
+        }
+      ],
+      "first_seen": "2026-11-27T14:05:37.515993+09:00",
+      "last_seen": "2026-11-27T14:05:37.515993+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -762,7 +883,7 @@
       "last_seen": "2026-11-27T05:31:42.158445+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 9,
       "change": -3
     },
     {
@@ -802,151 +923,11 @@
       "last_seen": "2026-11-27T08:13:40.097108+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 10,
       "change": -3
-    },
-    {
-      "id": "ie761895f",
-      "title": "‘27일’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "27일"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 81.79,
-      "peak_score": 71.32,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 50,
-          "title": "[G마켓 블프][플래시딜+라이브 혜택]11/27일 오늘! 20시! 75인치 Mini LED KU75MH75AFXKR을 엄청난...",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304606",
-          "score": 61.32
-        },
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "11월 27일, 금요일 간추린 아침뉴스",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2757026",
-          "score": 57.34
-        }
-      ],
-      "first_seen": "2026-11-27T12:15:58.352281+09:00",
-      "last_seen": "2026-11-27T12:15:58.352281+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 8,
-      "change": "NEW"
     }
   ],
   "realtime_issues": [
-    {
-      "id": "ie761895f",
-      "title": "‘27일’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "27일"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 71.32,
-      "peak_score": 71.32,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 50,
-          "title": "[G마켓 블프][플래시딜+라이브 혜택]11/27일 오늘! 20시! 75인치 Mini LED KU75MH75AFXKR을 엄청난...",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304606",
-          "score": 61.32
-        },
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "11월 27일, 금요일 간추린 아침뉴스",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2757026",
-          "score": 57.34
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "ieef61a46",
-      "title": "‘머스크’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "머스크"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.66,
-      "peak_score": 103.66,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "램 장기구매 때문에 삼성전자 찾아온 머스크",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77533493?m=humor",
-          "score": 94.66
-        },
-        {
-          "source": "클리앙",
-          "rank": 39,
-          "title": "머스크 ‘메모리 구애’..이재용 “뭘 더 해줄 수 있나”",
-          "url": "https://www.clien.net/service/board/park/19299187?od=T31&po=0&category=0&groupCd=",
-          "score": 64.53
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.16,
-      "peak_score": 82.16,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 18,
-          "title": "싱글벙글 한국에서 존나 비싼것",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481948&_dcbest=1&page=1",
-          "score": 73.16
-        },
-        {
-          "source": "루리웹",
-          "rank": 92,
-          "title": "한 때 한국에서 하츠네미쿠를 뭐라고 불렀는지 아느냐",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77534695?m=humor_only&t=now",
-          "score": 51.35
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
     {
       "id": "iae6b0123",
       "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
@@ -955,8 +936,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.2,
-      "peak_score": 79.2,
+      "score": 84.69,
+      "peak_score": 84.69,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -965,32 +946,212 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 24,
+          "rank": 13,
           "title": "실시간 재평가 시급하신분",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
-          "score": 70.2
+          "score": 75.69
         },
         {
           "source": "인벤",
-          "rank": 36,
-          "title": "펌/실시간 뮤지컬판에서 논란중인 사건.jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2757012",
-          "score": 65.53
+          "rank": 79,
+          "title": "부산 실시간 덥다 ㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
+          "score": 54.46
+        }
+      ],
+      "rank": 1,
+      "change": 3
+    },
+    {
+      "id": "i91f13db9",
+      "title": "AI 포팅으로 난리난 GTA6",
+      "keywords": [
+        "난리난",
+        "ai",
+        "gta6"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.34,
+      "peak_score": 81.34,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 16,
+          "title": "AI 포팅으로 난리난 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757064",
+          "score": 73.34
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "AI 로 난리난 GTA6 근황 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203249",
+          "score": 64.22
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i5e357893",
+      "title": "[단독] 남경필 장남,.성관계 영상 유포 협박' 혐의 체포",
+      "keywords": [
+        "혐의",
+        "체포",
+        "장남",
+        "남경필",
+        "협박",
+        "성관계"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.91,
+      "peak_score": 80.91,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "[단독] 남경필 장남,.성관계 영상 유포 협박' 혐의 체포",
+          "url": "https://www.clien.net/service/board/park/19299245?od=T31&po=0&category=0&groupCd=",
+          "score": 72.91
+        },
+        {
+          "source": "인벤",
+          "rank": 71,
+          "title": "남경필 장남, '전 연인 성관계 영상 유포 협박' 혐의 체포",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757066",
+          "score": 56.73
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i1d7537d6",
+      "title": "‘크리스마스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "크리스마스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.33,
+      "peak_score": 77.33,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 25,
+          "title": "이마트 크리스마스 케익 가격",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203152",
+          "score": 68.33
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 93,
+          "title": "90년대 미국의 크리스마스 풍경..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481958&_dcbest=1&page=1",
+          "score": 51.11
         }
       ],
       "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ice48a6c4",
+      "title": "‘티켓팅’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "티켓팅"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.2,
+      "peak_score": 75.2,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 34,
+          "title": "니들이 티켓팅 성공한 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481972&_dcbest=1&page=1",
+          "score": 66.2
+        },
+        {
+          "source": "더쿠",
+          "rank": 39,
+          "title": "나 도서관에서 어떤 아저씨 기사 시험장 티켓팅 대신 해드렸는데 8만원이랑 빵 바리바리 주셨어...",
+          "url": "https://theqoo.net/hot/4419572922",
+          "score": 64.37
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i791e980a",
+      "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+      "keywords": [
+        "뮤지컬",
+        "사과문"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.18,
+      "peak_score": 72.18,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 41,
+          "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203274",
+          "score": 64.18
+        },
+        {
+          "source": "더쿠",
+          "rank": 68,
+          "title": "핫게 뮤지컬 배우 사과문",
+          "url": "https://theqoo.net/hot/4419500488",
+          "score": 57.11
+        }
+      ],
+      "rank": 6,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "머스크",
-      "score": 104.97,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
+      "keyword": "ai",
+      "score": 156.17,
+      "post_count": 5,
+      "source_count": 4,
+      "best_rank": 16,
       "sources": [
-        "루리웹",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -998,41 +1159,43 @@
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 98.42,
+      "keyword": "난리난",
+      "score": 127.51,
       "post_count": 4,
-      "source_count": 2,
-      "best_rank": 18,
+      "source_count": 3,
+      "best_rank": 16,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 3
+      "change": "NEW"
     },
     {
-      "keyword": "삼성",
-      "score": 96.81,
+      "keyword": "한국",
+      "score": 113.72,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 48,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "keyword": "일본",
+      "score": 98.58,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 3,
       "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "연인",
-      "score": 96.28,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 41,
-      "sources": [
-        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
@@ -1040,13 +1203,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 94.04,
+      "keyword": "gta6",
+      "score": 96.18,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 16,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
@@ -1054,87 +1217,151 @@
       "change": "NEW"
     },
     {
-      "keyword": "존나",
-      "score": 92.51,
+      "keyword": "삼성",
+      "score": 93.63,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "keyword": "실시간",
+      "score": 91.87,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "27일",
-      "score": 90.25,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 50,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "만에",
-      "score": 85.79,
+      "keyword": "티켓팅",
+      "score": 91.76,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 34,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "나올",
-      "score": 84.12,
+      "keyword": "남경필",
+      "score": 90.88,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 17,
       "sources": [
         "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "성관계",
+        "유포",
+        "장남",
+        "체포",
+        "혐의"
+      ],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "양말",
-      "score": 81.08,
+      "keyword": "되는",
+      "score": 89.8,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 29,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "본인",
-      "score": 78.5,
+      "keyword": "vs",
+      "score": 88.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 75,
+      "best_rank": 36,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "뮤지컬",
+      "score": 86.14,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 41,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "사과문"
+      ],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "크리스마스",
+      "score": 84.8,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "있다",
+      "score": 81.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 50,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 73.24,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 93,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 11,
+      "rank": 15,
       "change": "NEW"
     }
   ],
@@ -1143,49 +1370,49 @@
       "source": "루리웹",
       "title": "첫차로 경차 사지 말라는건",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77532868?m=humor",
-      "score": 97.25,
-      "views": 18496,
-      "comments": 73
+      "score": 98.12,
+      "views": 25661,
+      "comments": 83
     },
     {
       "source": "디시인사이드",
-      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
-      "score": 95.08,
-      "views": 21433,
-      "comments": 299
-    },
-    {
-      "source": "뽐뿌",
-      "title": "쌀때 사라고 직접 리딩까지 해줬는데",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=462602",
-      "score": 89.49,
-      "views": 15843,
-      "comments": 91
-    },
-    {
-      "source": "클리앙",
-      "title": "12년동안 외사랑을 해왔습니다. 그 몇시간 후.",
-      "url": "https://www.clien.net/service/board/park/19299190?od=T31&po=0&category=0&groupCd=",
-      "score": 84.99,
-      "views": 1857,
-      "comments": 21
+      "title": "\" 내가 롤판은 잔인하다 느낀계기가 \"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
+      "score": 87.14,
+      "views": 22120,
+      "comments": 614
     },
     {
       "source": "인벤",
-      "title": "수염 왁싱",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2757016",
-      "score": 78.2,
-      "views": 2844,
-      "comments": 27
+      "title": "대물을 감당하기 힘들어하는 어른 배우",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2757069",
+      "score": 73.89,
+      "views": 883,
+      "comments": 13
+    },
+    {
+      "source": "클리앙",
+      "title": "[단독] 남경필 장남,.성관계 영상 유포 협박' 혐의 체포",
+      "url": "https://www.clien.net/service/board/park/19299245?od=T31&po=0&category=0&groupCd=",
+      "score": 72.91,
+      "views": 1540,
+      "comments": 9
+    },
+    {
+      "source": "뽐뿌",
+      "title": "와.. 결혼 직전까지 갔다가 파토 낸 남자 ㄷㄷ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203298",
+      "score": 71.34,
+      "views": 6555,
+      "comments": 33
     },
     {
       "source": "더쿠",
-      "title": "전부터 궁금했는데 큐알을 나한테주면 어떻게 그걸 찍으라는거야?",
-      "url": "https://theqoo.net/hot/4419470392",
-      "score": 74.53,
-      "views": 31541,
-      "comments": 491
+      "title": "경주 현지인이 말하는 경주여행 꿀팁.jpg",
+      "url": "https://theqoo.net/hot/4419596611",
+      "score": 68.5,
+      "views": 9305,
+      "comments": 188
     }
   ]
 }
